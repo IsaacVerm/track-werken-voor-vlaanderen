@@ -7,7 +7,7 @@ curl 'https://www.vlaanderen.be/api/overview-search' \
   --data '{
     "page": {
       "offset": 0,
-      "limit": 1
+      "limit": 1000
     },
     "filter": {
       "contentType": {
