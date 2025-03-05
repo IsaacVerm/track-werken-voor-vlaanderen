@@ -19,4 +19,4 @@ curl 'https://www.vlaanderen.be/api/overview-search' \
         }
       }
     }
-  }'
+  }' > job-postings.json
