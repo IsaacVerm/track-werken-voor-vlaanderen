@@ -1,29 +1,29 @@
 {
-  "totalItems": 204,
+  "totalItems": 199,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 203,
+  "lastItemOfPage": 198,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 204,
+        "count": 199,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 204,
+        "count": 199,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 132,
+        "count": 133,
         "label": "Brussel"
       },
       {
@@ -32,14 +32,14 @@
         "label": "Antwerpen"
       },
       {
-        "value": "Gent",
-        "count": 9,
-        "label": "Gent"
-      },
-      {
         "value": "Hasselt",
         "count": 9,
         "label": "Hasselt"
+      },
+      {
+        "value": "Gent",
+        "count": 7,
+        "label": "Gent"
       },
       {
         "value": "Leuven",
@@ -48,7 +48,7 @@
       },
       {
         "value": "Mechelen",
-        "count": 6,
+        "count": 5,
         "label": "Mechelen"
       },
       {
@@ -62,11 +62,6 @@
         "label": "Sint-Joost-Ten-Node"
       },
       {
-        "value": "Brugge",
-        "count": 4,
-        "label": "Brugge"
-      },
-      {
         "value": "Rekem",
         "count": 4,
         "label": "Rekem"
@@ -77,9 +72,9 @@
         "label": "Willebroek"
       },
       {
-        "value": "Geel",
+        "value": "Brugge",
         "count": 3,
-        "label": "Geel"
+        "label": "Brugge"
       },
       {
         "value": "Wondelgem",
@@ -137,6 +132,11 @@
         "label": "Gaasbeek"
       },
       {
+        "value": "Geel",
+        "count": 1,
+        "label": "Geel"
+      },
+      {
         "value": "Genk",
         "count": 1,
         "label": "Genk"
@@ -152,11 +152,6 @@
         "label": "Herentals"
       },
       {
-        "value": "Ieper",
-        "count": 1,
-        "label": "Ieper"
-      },
-      {
         "value": "Ka Vlissingen",
         "count": 1,
         "label": "Ka Vlissingen"
@@ -170,11 +165,6 @@
         "value": "Mol",
         "count": 1,
         "label": "Mol"
-      },
-      {
-        "value": "Roeselare",
-        "count": 1,
-        "label": "Roeselare"
       },
       {
         "value": "Ruiselede",
@@ -200,11 +190,6 @@
         "value": "Wingene",
         "count": 1,
         "label": "Wingene"
-      },
-      {
-        "value": "Zemst",
-        "count": 1,
-        "label": "Zemst"
       }
     ],
     "contentSubtypeData__domain": [
@@ -215,7 +200,7 @@
       },
       {
         "value": "Dienstverlening",
-        "count": 30,
+        "count": 26,
         "label": "Dienstverlening"
       },
       {
@@ -225,23 +210,18 @@
       },
       {
         "value": "Management",
-        "count": 14,
+        "count": 15,
         "label": "Management"
       },
       {
         "value": "Logistiek en transport",
-        "count": 11,
+        "count": 10,
         "label": "Logistiek en transport"
       },
       {
         "value": "Milieu/omgeving",
         "count": 9,
         "label": "Milieu/omgeving"
-      },
-      {
-        "value": "Andere",
-        "count": 8,
-        "label": "Andere"
       },
       {
         "value": "Onderzoek en ontwikkeling",
@@ -254,8 +234,13 @@
         "label": "Techniek"
       },
       {
+        "value": "Andere",
+        "count": 7,
+        "label": "Andere"
+      },
+      {
         "value": "Financieel",
-        "count": 5,
+        "count": 6,
         "label": "Financieel"
       },
       {
@@ -264,14 +249,14 @@
         "label": "Juridisch"
       },
       {
-        "value": "Horeca en toerisme",
-        "count": 4,
-        "label": "Horeca en toerisme"
-      },
-      {
         "value": "Onderwijs",
         "count": 4,
         "label": "Onderwijs"
+      },
+      {
+        "value": "Horeca en toerisme",
+        "count": 3,
+        "label": "Horeca en toerisme"
       },
       {
         "value": "Human resources",
@@ -312,31 +297,31 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 204,
+        "count": 199,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 189,
+        "count": 183,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 15,
+        "count": 16,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 171,
+        "count": 168,
         "label": "Vaste job"
       },
       {
         "value": "Bepaalde duur",
-        "count": 23,
+        "count": 21,
         "label": "Bepaalde duur"
       },
       {
@@ -358,12 +343,12 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 90,
+        "count": 87,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 83,
+        "count": 82,
         "label": "Masterdiploma"
       },
       {
@@ -373,7 +358,7 @@
       },
       {
         "value": "Geen specifieke studievereisten",
-        "count": 11,
+        "count": 9,
         "label": "Geen specifieke studievereisten"
       }
     ],
@@ -385,17 +370,17 @@
       },
       {
         "value": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-        "count": 12,
+        "count": 10,
         "label": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"
       },
       {
         "value": "De Vlaamse Waterweg",
-        "count": 10,
+        "count": 9,
         "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Agentschap Wegen en Verkeer",
-        "count": 7,
+        "count": 8,
         "label": "Agentschap Wegen en Verkeer"
       },
       {
@@ -414,6 +399,11 @@
         "label": "Sport Vlaanderen"
       },
       {
+        "value": "Departement Mobiliteit en Openbare Werken",
+        "count": 5,
+        "label": "Departement Mobiliteit en Openbare Werken"
+      },
+      {
         "value": "agentschap Digitaal Vlaanderen",
         "count": 5,
         "label": "agentschap Digitaal Vlaanderen"
@@ -427,11 +417,6 @@
         "value": "Departement Cultuur, Jeugd en Media",
         "count": 4,
         "label": "Departement Cultuur, Jeugd en Media"
-      },
-      {
-        "value": "Departement Mobiliteit en Openbare Werken",
-        "count": 4,
-        "label": "Departement Mobiliteit en Openbare Werken"
       },
       {
         "value": "Departement Omgeving",
@@ -457,11 +442,6 @@
         "value": "Vlaamse Landmaatschappij",
         "count": 4,
         "label": "Vlaamse Landmaatschappij"
-      },
-      {
-        "value": "Openbaar Psychiatrisch Ziekenhuis Geel",
-        "count": 3,
-        "label": "Openbaar Psychiatrisch Ziekenhuis Geel"
       },
       {
         "value": "Opgroeien regie",
@@ -497,16 +477,6 @@
         "value": "ILVO Landbouw en Maatschappij",
         "count": 2,
         "label": "ILVO Landbouw en Maatschappij"
-      },
-      {
-        "value": "VLAIO (Agentschap Innoveren & Ondernemen)",
-        "count": 2,
-        "label": "VLAIO (Agentschap Innoveren & Ondernemen)"
-      },
-      {
-        "value": "Agentschap Facilitair Bedrijf",
-        "count": 1,
-        "label": "Agentschap Facilitair Bedrijf"
       },
       {
         "value": "Agentschap Landbouw en Zeevisserij",
@@ -564,6 +534,11 @@
         "label": "Onroerend Erfgoed"
       },
       {
+        "value": "Openbaar Psychiatrisch Ziekenhuis Geel",
+        "count": 1,
+        "label": "Openbaar Psychiatrisch Ziekenhuis Geel"
+      },
+      {
         "value": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
         "count": 1,
         "label": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)"
@@ -577,6 +552,11 @@
         "value": "Toerisme Vlaanderen",
         "count": 1,
         "label": "Toerisme Vlaanderen"
+      },
+      {
+        "value": "VLAIO (Agentschap Innoveren & Ondernemen)",
+        "count": 1,
+        "label": "VLAIO (Agentschap Innoveren & Ondernemen)"
       },
       {
         "value": "VLAM",
@@ -612,7 +592,7 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 115,
+        "count": 112,
         "label": "false"
       }
     ]
@@ -1559,76 +1539,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70436934",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70436934",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "mobiele medewerker CKB"
-      },
-      "displayTitle": "mobiele medewerker CKB",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als lid van ons mobiele crisisteam bied je acute en kortdurende zorg aan volwassenen en ouderen met ernstige psychiatrische problemen. Je zorgt ervoor dat cliënten stabiliseren en helpt ziekenhuisopnames te voorkomen of te verkorten. Daarbij werk je nauw samen met andere hulpverleners en partners zoals huisartsen, spoedafdelingen en politiediensten.</span></p> \n<ul type=\"disc\"> \n<li><span>Je \n<strong>intervenieert direct</strong> bij crisissituaties en urgente psychiatrische noden.</span></li> \n<li><span>Je biedt \n<strong>persoonlijke, acute zorg</strong> en ondersteunt ook de mantelzorgers.</span></li> \n<li><span>Je werkt \n<strong>herstelgericht</strong> in een multidisciplinair team van enthousiaste professionals.</span></li> </ul> \n<p><span>Met de komst van outreachende urgentiepsychiatrie liggen er mooie kansen om jouw expertise te ontwikkelen en een spilfiguur te worden in kwalitatieve crisiszorg. </span><span>Samen met collega’s ga je zelfstandig of in team aan de slag om de crisissituaties en urgenties te stabiliseren. Zo maak je dagelijks impact door: </span></p> \n<ul type=\"disc\"> \n<li><span>Het screenen en beoordelen van crisissituaties en urgenties</span></li> \n<li><span>Bieden van acute zorg en kortdurende behandeling</span></li> \n<li><span>Ondersteunen van mantelzorgers</span></li> \n<li><span>Samenwerken met huisartsen, spoedafdelingen, politiediensten en andere zorgpartners</span></li> </ul> \n<p><span>Ons multidisciplinaire team werkt herstelgericht, met zorgprofessionals die streven naar respectvolle, kwalitatieve zorg. We zijn 24/7 beschikbaar en werken in een continu systeem (vroege, late, weekend, en telefonische nachtpermanentie), zodat cliënten altijd op ons kunnen rekenen. Je maakt deel uit van een hechte groep die elkaar ondersteunt, waardoor je je altijd gesteund voelt in je werk.</span></p>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als lid van ons mobiele crisisteam bied je acute en kortdurende zorg aan volwassenen en ouderen met ernstige psychiatrische problemen. Je zorgt ervoor dat cliënten stabiliseren en helpt ziekenhuisopnames te voorkomen of te verkorten. Daarbij werk je nauw samen met andere hulpverleners en partners zoals huisartsen, spoedafdelingen en politiediensten.</span></p> \n<ul type=\"disc\"> \n<li><span>Je \n<strong>intervenieert direct</strong> bij crisissituaties en urgente psychiatrische noden.</span></li> \n<li><span>Je biedt \n<strong>persoonlijke, acute zorg</strong> en ondersteunt ook de mantelzorgers.</span></li> \n<li><span>Je werkt \n<strong>herstelgericht</strong> in een multidisciplinair team van enthousiaste professionals.</span></li> </ul> \n<p><span>Met de komst van outreachende urgentiepsychiatrie liggen er mooie kansen om jouw expertise te ontwikkelen en een spilfiguur te worden in kwalitatieve crisiszorg. </span><span>Samen met collega’s ga je zelfstandig of in team aan de slag om de crisissituaties en urgenties te stabiliseren. Zo maak je dagelijks impact door: </span></p> \n<ul type=\"disc\"> \n<li><span>Het screenen en beoordelen van crisissituaties en urgenties</span></li> \n<li><span>Bieden van acute zorg en kortdurende behandeling</span></li> \n<li><span>Ondersteunen van mantelzorgers</span></li> \n<li><span>Samenwerken met huisartsen, spoedafdelingen, politiediensten en andere zorgpartners</span></li> </ul> \n<p><span>Ons multidisciplinaire team werkt herstelgericht, met zorgprofessionals die streven naar respectvolle, kwalitatieve zorg. We zijn 24/7 beschikbaar en werken in een continu systeem (vroege, late, weekend, en telefonische nachtpermanentie), zodat cliënten altijd op ons kunnen rekenen. Je maakt deel uit van een hechte groep die elkaar ondersteunt, waardoor je je altijd gesteund voelt in je werk.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70432806",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70432806",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "mobiele medewerker CKB"
-      },
-      "displayTitle": "mobiele medewerker CKB",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als lid van ons mobiele crisisteam bied je acute en kortdurende zorg aan volwassenen en ouderen met ernstige psychiatrische problemen. Je zorgt ervoor dat cliënten stabiliseren en helpt ziekenhuisopnames te voorkomen of te verkorten. Daarbij werk je nauw samen met andere hulpverleners en partners zoals huisartsen, spoedafdelingen en politiediensten.</span></p> \n<ul type=\"disc\"> \n<li><span>Je \n<strong>intervenieert direct</strong> bij crisissituaties en urgente psychiatrische noden.</span></li> \n<li><span>Je biedt \n<strong>persoonlijke, acute zorg</strong> en ondersteunt ook de mantelzorgers.</span></li> \n<li><span>Je werkt \n<strong>herstelgericht</strong> in een multidisciplinair team van enthousiaste professionals.</span></li> </ul> \n<p><span>Met de komst van outreachende urgentiepsychiatrie liggen er mooie kansen om jouw expertise te ontwikkelen en een spilfiguur te worden in kwalitatieve crisiszorg. </span><span>Samen met collega’s ga je zelfstandig of in team aan de slag om de crisissituaties en urgenties te stabiliseren. Zo maak je dagelijks impact door: </span></p> \n<ul type=\"disc\"> \n<li><span>Het screenen en beoordelen van crisissituaties en urgenties</span></li> \n<li><span>Bieden van acute zorg en kortdurende behandeling</span></li> \n<li><span>Ondersteunen van mantelzorgers</span></li> \n<li><span>Samenwerken met huisartsen, spoedafdelingen, politiediensten en andere zorgpartners</span></li> </ul> \n<p><span>Ons multidisciplinaire team werkt herstelgericht, met zorgprofessionals die streven naar respectvolle, kwalitatieve zorg. We zijn 24/7 beschikbaar en werken in een continu systeem (vroege, late, weekend, en telefonische nachtpermanentie), zodat cliënten altijd op ons kunnen rekenen. Je maakt deel uit van een hechte groep die elkaar ondersteunt, waardoor je je altijd gesteund voelt in je werk.</span></p>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als lid van ons mobiele crisisteam bied je acute en kortdurende zorg aan volwassenen en ouderen met ernstige psychiatrische problemen. Je zorgt ervoor dat cliënten stabiliseren en helpt ziekenhuisopnames te voorkomen of te verkorten. Daarbij werk je nauw samen met andere hulpverleners en partners zoals huisartsen, spoedafdelingen en politiediensten.</span></p> \n<ul type=\"disc\"> \n<li><span>Je \n<strong>intervenieert direct</strong> bij crisissituaties en urgente psychiatrische noden.</span></li> \n<li><span>Je biedt \n<strong>persoonlijke, acute zorg</strong> en ondersteunt ook de mantelzorgers.</span></li> \n<li><span>Je werkt \n<strong>herstelgericht</strong> in een multidisciplinair team van enthousiaste professionals.</span></li> </ul> \n<p><span>Met de komst van outreachende urgentiepsychiatrie liggen er mooie kansen om jouw expertise te ontwikkelen en een spilfiguur te worden in kwalitatieve crisiszorg. </span><span>Samen met collega’s ga je zelfstandig of in team aan de slag om de crisissituaties en urgenties te stabiliseren. Zo maak je dagelijks impact door: </span></p> \n<ul type=\"disc\"> \n<li><span>Het screenen en beoordelen van crisissituaties en urgenties</span></li> \n<li><span>Bieden van acute zorg en kortdurende behandeling</span></li> \n<li><span>Ondersteunen van mantelzorgers</span></li> \n<li><span>Samenwerken met huisartsen, spoedafdelingen, politiediensten en andere zorgpartners</span></li> </ul> \n<p><span>Ons multidisciplinaire team werkt herstelgericht, met zorgprofessionals die streven naar respectvolle, kwalitatieve zorg. We zijn 24/7 beschikbaar en werken in een continu systeem (vroege, late, weekend, en telefonische nachtpermanentie), zodat cliënten altijd op ons kunnen rekenen. Je maakt deel uit van een hechte groep die elkaar ondersteunt, waardoor je je altijd gesteund voelt in je werk.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -4470,41 +4380,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17664",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17664",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider (buffer)"
-      },
-      "displayTitle": "Scheepvaartbegeleider (buffer)",
-      "isProtected": false,
-      "description": {
-        "raw": "Als scheepvaartbegeleider(-buffer) bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van scheepvaartbegeleider, werk je als scheepvaartbegeleider-buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
-        "htmlEncoded": "Als scheepvaartbegeleider(-buffer) bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van scheepvaartbegeleider, werk je als scheepvaartbegeleider-buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17661",
       "internal": false,
       "validThroughDate": "1744243200",
@@ -4640,51 +4515,6 @@
         {
           "address": {
             "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17618",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17618",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "1 instructeur NT2"
-      },
-      "displayTitle": "1 instructeur NT2",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben jij die enthousiaste collega die professionele uitdagingen niet uit de weg gaat?&nbsp;<br>Wil je, samen met je collega’s, anderstalige werkzoekenden aan een passende job helpen? Wil je collega's ondersteunen in het communiceren met anderstalige klanten?<br>Vind je het een uitdaging om met werkgevers samen te werken en beschik je over wat commerciële feeling?&nbsp;<br>We zijn op zoek naar 1 taalinstructeur die op een taakgerichte manier aan de slag gaan én dit met één duidelijk doel voor ogen: anderstalige werkzoekenden begeleiden naar een duurzame job op de meest efficiënte manier.&nbsp;<br>Als instructeur NT2 kom je terecht in:<br>een team van 21 instructeurs, aangestuurd door teamleider Henk Vandenbroucke. Je werkt ook nauw samen met collega instructeurs NT2 uit de andere provincies, met de bemiddelaars NT2, met de vakexperten NT2 en met de didactisch expert. Je werkt hoofdzakelijk op locatie in ons VDAB centrum in Brugge (en één dag per week in Ieper) maar je kan ook op andere locaties worden ingezet in de provincie West-Vlaanderen of op locatie bij werkgevers.&nbsp;<br><br><br>Jouw taken en opdrachten als NT2-instructeur zijn:&nbsp;<br>Je geeft taalcoaching op de werkvloer en je ondersteunt en coacht de werkgever en de Nederlandstalige omgeving ( bv. Bij werkplekleren, zoals stages en individuele beroepsopleiding met taalcoaching ). Je bereidt de cursisten ook voor op diverse vormen van werkplekleren.<br>Je geeft taalcoaching op de ( technische ) opleidingsvloer van VDAB. Je coacht zowel de anderstalige cursisten als de vakinstructeurs. Je gebruikt de methodiek Nederlands op de Opleidingsvloer ( = NodO+ )&nbsp;<br>Je volgt de vorderingen van je cursist op, zowel voor taal als voor attitude. Je doet dat permanent en gestructureerd. Je koppelt regelmatig en tijdig terug naar de cursist, de werkgever en de bemiddelaar, binnen of buiten VDAB.&nbsp;<br>Je verzekert de kwaliteit en het opleidingsprogramma binnen een vooropgesteld tijdsschema.&nbsp;<br>Samenwerking met vakinstructeurs en andere collega’s is van cruciaal belang om de anderstalige werkzoekenden de gepaste service te kunnen bieden.&nbsp;<br>Je beschikt over een gezonde dosis commerciële feeling die je kan aanwenden om contacten te leggen met werkgevers en partners, …<br>Je geeft les aan cursisten in het centrum en online. Flexibiliteit en zin om te werken met diverse methodieken zijn dus een must.&nbsp;&nbsp;<br>Je taken zijn vaak projectmatig.&nbsp;<br>Een paar voorbeelden:&nbsp;<br>Projecten voor specifieke groepen ( van analfabeten tot hooggeschoolden )&nbsp;<br>Maatwerk voor organisaties en bedrijven rond taalprofielen, screening, evaluatie, …&nbsp;<br>Als partnercoach de kwaliteit opvolgen bij partnerorganisaties die NT2-opdrachten uitvoeren&nbsp;<br>Interne opleidingen ontwikkelen voor bemiddelaars, instructeurs, … rond het taalbeleid van VDAB behoort eveneens tot de mogelijkheden&nbsp;<br>Taalchecks uitvoeren op interne en externe communicatie en cursusmateriaal&nbsp;<br>Taalcoaching bij bemiddelaarsgesprekken van VDAB bemiddelaars, …&nbsp;<br><br><br>We verwachten dan ook dat je flexibel bent op vlak van mobiliteit binnen de provincie West-Vlaanderen en de invulling van je takenpakket<br><br><br>",
-        "htmlEncoded": "Ben jij die enthousiaste collega die professionele uitdagingen niet uit de weg gaat?&nbsp;<br>Wil je, samen met je collega’s, anderstalige werkzoekenden aan een passende job helpen? Wil je collega's ondersteunen in het communiceren met anderstalige klanten?<br>Vind je het een uitdaging om met werkgevers samen te werken en beschik je over wat commerciële feeling?&nbsp;<br>We zijn op zoek naar 1 taalinstructeur die op een taakgerichte manier aan de slag gaan én dit met één duidelijk doel voor ogen: anderstalige werkzoekenden begeleiden naar een duurzame job op de meest efficiënte manier.&nbsp;<br>Als instructeur NT2 kom je terecht in:<br>een team van 21 instructeurs, aangestuurd door teamleider Henk Vandenbroucke. Je werkt ook nauw samen met collega instructeurs NT2 uit de andere provincies, met de bemiddelaars NT2, met de vakexperten NT2 en met de didactisch expert. Je werkt hoofdzakelijk op locatie in ons VDAB centrum in Brugge (en één dag per week in Ieper) maar je kan ook op andere locaties worden ingezet in de provincie West-Vlaanderen of op locatie bij werkgevers.&nbsp;<br><br><br>Jouw taken en opdrachten als NT2-instructeur zijn:&nbsp;<br>Je geeft taalcoaching op de werkvloer en je ondersteunt en coacht de werkgever en de Nederlandstalige omgeving ( bv. Bij werkplekleren, zoals stages en individuele beroepsopleiding met taalcoaching ). Je bereidt de cursisten ook voor op diverse vormen van werkplekleren.<br>Je geeft taalcoaching op de ( technische ) opleidingsvloer van VDAB. Je coacht zowel de anderstalige cursisten als de vakinstructeurs. Je gebruikt de methodiek Nederlands op de Opleidingsvloer ( = NodO+ )&nbsp;<br>Je volgt de vorderingen van je cursist op, zowel voor taal als voor attitude. Je doet dat permanent en gestructureerd. Je koppelt regelmatig en tijdig terug naar de cursist, de werkgever en de bemiddelaar, binnen of buiten VDAB.&nbsp;<br>Je verzekert de kwaliteit en het opleidingsprogramma binnen een vooropgesteld tijdsschema.&nbsp;<br>Samenwerking met vakinstructeurs en andere collega’s is van cruciaal belang om de anderstalige werkzoekenden de gepaste service te kunnen bieden.&nbsp;<br>Je beschikt over een gezonde dosis commerciële feeling die je kan aanwenden om contacten te leggen met werkgevers en partners, …<br>Je geeft les aan cursisten in het centrum en online. Flexibiliteit en zin om te werken met diverse methodieken zijn dus een must.&nbsp;&nbsp;<br>Je taken zijn vaak projectmatig.&nbsp;<br>Een paar voorbeelden:&nbsp;<br>Projecten voor specifieke groepen ( van analfabeten tot hooggeschoolden )&nbsp;<br>Maatwerk voor organisaties en bedrijven rond taalprofielen, screening, evaluatie, …&nbsp;<br>Als partnercoach de kwaliteit opvolgen bij partnerorganisaties die NT2-opdrachten uitvoeren&nbsp;<br>Interne opleidingen ontwikkelen voor bemiddelaars, instructeurs, … rond het taalbeleid van VDAB behoort eveneens tot de mogelijkheden&nbsp;<br>Taalchecks uitvoeren op interne en externe communicatie en cursusmateriaal&nbsp;<br>Taalcoaching bij bemiddelaarsgesprekken van VDAB bemiddelaars, …&nbsp;<br><br><br>We verwachten dan ook dat je flexibel bent op vlak van mobiliteit binnen de provincie West-Vlaanderen en de invulling van je takenpakket<br><br><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Ieper"
-          }
-        },
-        {
-          "address": {
-            "city": "Roeselare"
           }
         }
       ]
@@ -5637,6 +5467,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17510",
+      "internal": false,
+      "validThroughDate": "1742774400",
+      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17510",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamcoördinator strategie, planning en coördinatie"
+      },
+      "displayTitle": "Teamcoördinator strategie, planning en coördinatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je mee richting geven aan veiligere en duurzamere mobiliteit en infrastructuur via het coördineren van beleidsvoorbereiding, -monitoring en –evaluatie? Ben je daarnaast een strategisch denker die rekening houdt met de bredere organisatie, de politiek en de wereld rondom ons en koppel je die vraagstukken aan het vormgeven van beleidsdocumenten en overlegorganen? Krijg je voldoening van het optimaliseren van de werking van een organisatie? Dan ben jij de geknipte kandidaat voor deze vacature!</p><p>Je ondersteunt als teamcoördinator het afdelingshoofd van de afdeling Beleid, door in te zetten op de strategische werking van en samenhang tussen diverse overlegorganen en –structuren binnen het departement, de ruimere Vlaamse overheid en de regering. Daarnaast coördineer je de uitrol van beleidsdocumenten in kader van de beleidscyclus. Dat doe je samen met een je team van 11 gemotiveerde collega’s.</p><p>Meer concreet bestaat je takenpakket uit:</p><ul><li>Je adviseert, ondersteunt en vervangt wanneer nodig het afdelingshoofd in beleidsontwikkeling, strategische beslissingen en de goede werking van de afdeling, vanuit een overkoepelend perspectief op de werking van de afdeling.</li><li>Je denkt actief mee na over de optimalisatie van de afdelingswerking, processen en organisatiebeheersing op strategisch en tactisch niveau.&nbsp;</li><li>Je organiseert en stimuleert kennisdeling&nbsp;</li><li>Je slaat de brug tussen de verschillende inhoudelijke teams in kader van teamoverschrijdende thema’s. Je bevordert daarbij de onderlinge afstemming tussen teams waar nodig.</li><li>Je geeft mee vorm aan de relaties met het kabinet, onder meer door een goede afstemming met de collega’s van de afdeling Staf.&nbsp;</li><li>Je onderhoudt een goede relatie met belangrijke partners binnen het departement (o.a. de afdelingen Staf, Organisatie, Algemeen technische Ondersteuning, Toegepast Mobiliteitsbeleid, ...).</li><li>Je zorgt voor de strategische samenhang tussen agendapunten op de diverse fora binnen de afdeling, het departement en het beleidsdomein. In die zin koppel je de verschillende teams en de afdeling met de departementsbrede uitdagingen en processen. Je zet daarbij in op een sterk draagvlak.&nbsp;</li><li>Je organiseert strategische overlegmomenten waarin onderwerpen worden uitgediept in het kader van een vlotte samenwerking en informatiedeling.&nbsp;</li><li>Je coördineert de strategische beleidsdocumenten die sturing geven aan de werking van het departement, met focus op de beleidsnota, de BBT’s (Beleids- en Begrotingstoelichtingen) en het ondernemingsplan.&nbsp;</li><li>Je formuleert, realiseert en monitort beleidstaken, met focus op kwaliteitsverbetering van de beleidscyclus</li><li>Je schakelt als leidinggevende, naargelang de omstandigheden, vlot tussen de rollen van leider, ondernemer, manager én coach.</li><li>Je organiseert overlegmomenten met je team voor informatiedoorstroming, zowel bottom-up als top-down.</li><li>Je bepaalt de doelstellingen van het team en vertaalt dit door in de doelstellingen van elk teamlid.</li></ul><p>Je bent een bruggenbouwer die met visie en tact de ambities van het departement weet te realiseren en het team naar een hoger niveau tilt. Daarnaast heb je een hoge mate van autonomie en een proactieve instelling. Tot slot ben je sterk in het behouden van een helikopterzicht en in voortgangsopvolging.&nbsp;&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wil je mee richting geven aan veiligere en duurzamere mobiliteit en infrastructuur via het coördineren van beleidsvoorbereiding, -monitoring en –evaluatie? Ben je daarnaast een strategisch denker die rekening houdt met de bredere organisatie, de politiek en de wereld rondom ons en koppel je die vraagstukken aan het vormgeven van beleidsdocumenten en overlegorganen? Krijg je voldoening van het optimaliseren van de werking van een organisatie? Dan ben jij de geknipte kandidaat voor deze vacature!</p><p>Je ondersteunt als teamcoördinator het afdelingshoofd van de afdeling Beleid, door in te zetten op de strategische werking van en samenhang tussen diverse overlegorganen en –structuren binnen het departement, de ruimere Vlaamse overheid en de regering. Daarnaast coördineer je de uitrol van beleidsdocumenten in kader van de beleidscyclus. Dat doe je samen met een je team van 11 gemotiveerde collega’s.</p><p>Meer concreet bestaat je takenpakket uit:</p><ul><li>Je adviseert, ondersteunt en vervangt wanneer nodig het afdelingshoofd in beleidsontwikkeling, strategische beslissingen en de goede werking van de afdeling, vanuit een overkoepelend perspectief op de werking van de afdeling.</li><li>Je denkt actief mee na over de optimalisatie van de afdelingswerking, processen en organisatiebeheersing op strategisch en tactisch niveau.&nbsp;</li><li>Je organiseert en stimuleert kennisdeling&nbsp;</li><li>Je slaat de brug tussen de verschillende inhoudelijke teams in kader van teamoverschrijdende thema’s. Je bevordert daarbij de onderlinge afstemming tussen teams waar nodig.</li><li>Je geeft mee vorm aan de relaties met het kabinet, onder meer door een goede afstemming met de collega’s van de afdeling Staf.&nbsp;</li><li>Je onderhoudt een goede relatie met belangrijke partners binnen het departement (o.a. de afdelingen Staf, Organisatie, Algemeen technische Ondersteuning, Toegepast Mobiliteitsbeleid, ...).</li><li>Je zorgt voor de strategische samenhang tussen agendapunten op de diverse fora binnen de afdeling, het departement en het beleidsdomein. In die zin koppel je de verschillende teams en de afdeling met de departementsbrede uitdagingen en processen. Je zet daarbij in op een sterk draagvlak.&nbsp;</li><li>Je organiseert strategische overlegmomenten waarin onderwerpen worden uitgediept in het kader van een vlotte samenwerking en informatiedeling.&nbsp;</li><li>Je coördineert de strategische beleidsdocumenten die sturing geven aan de werking van het departement, met focus op de beleidsnota, de BBT’s (Beleids- en Begrotingstoelichtingen) en het ondernemingsplan.&nbsp;</li><li>Je formuleert, realiseert en monitort beleidstaken, met focus op kwaliteitsverbetering van de beleidscyclus</li><li>Je schakelt als leidinggevende, naargelang de omstandigheden, vlot tussen de rollen van leider, ondernemer, manager én coach.</li><li>Je organiseert overlegmomenten met je team voor informatiedoorstroming, zowel bottom-up als top-down.</li><li>Je bepaalt de doelstellingen van het team en vertaalt dit door in de doelstellingen van elk teamlid.</li></ul><p>Je bent een bruggenbouwer die met visie en tact de ambities van het departement weet te realiseren en het team naar een hoger niveau tilt. Daarnaast heb je een hoge mate van autonomie en een proactieve instelling. Tot slot ben je sterk in het behouden van een helikopterzicht en in voortgangsopvolging.&nbsp;&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17506",
       "internal": false,
       "validThroughDate": "1742515200",
@@ -5672,6 +5537,38 @@
         {
           "address": {
             "city": "Halle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17505",
+      "internal": true,
+      "validThroughDate": "1742774400",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17505",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Coördinator Financiën"
+      },
+      "displayTitle": "Coördinator Financiën",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opvolging van dossiers:. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opvolging van dossiers:. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -6671,41 +6568,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17397",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17397",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Beleidsadviseur circulaire economie"
-      },
-      "displayTitle": "Beleidsadviseur circulaire economie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het nieuwe team Transities &amp; Talent binnen de afdeling VLAIO Netwerk zoekt een beleidsadviseur circulaire economie die zal fungeren als (co-)trekker van het programma circulaire economie (in opbouw) binnen VLAIO. De uitrol van dit programma gebeurt in nauwe afstemming met de collega’s die betrokken zijn bij het programma. Dat zijn collega’s binnen het team, de afdeling, de afdeling steun en team bedrijfstrajecten.</span></p><p><span>Enkele van je taken zijn:</span></p><ul type=\"disc\"> <li><span>Opvolgen van het uitgewerkte programma circulaire economie volgens de afgesproken principes.</span></li> <li><span>Ondersteunen en aanjagen van het lerend netwerk circulaire economie voor de gesteunde&nbsp;projecten.</span></li> <li><span>Verderzetten van het interne lerend netwerk en de daaraan gekoppelde intervisie waar via het&nbsp;bespreken van projecten circulaire economie kennis wordt gedeeld.</span></li> <li><span>Opvolgen en ontwikkelen van zowel het instrument living labs als de projecten die in&nbsp;oproepen gesteund worden.</span></li> <li><span>Opvolgen van de evoluties binnen circulaire economie op Vlaams, federaal en internationaal niveau en deze gebruiken om voorgaande taken vorm te geven.</span></li> </ul><p><span>Deze taken kunnen in afstemming met de betrokken collega’s in het team verder vormgegeven worden.</span></p><p><b><span>Op 26 februari organiseren we van 10u-11u een infomoment. Heb jij specifieke vragen over de functie-inhoud of over de selectieprocedure? Schrijf je dan zeker in via dit&nbsp;</span></b><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.teams.microsoft.com%2Fevent%2F3a71cd2a-81a3-4190-b0ef-5380d3bc8183%400c0338a6-9561-4ee8-b8d6-4e89cbd520a0&amp;data=05%7C02%7Cbart.vercruysse%40vlaio.be%7Cdc48e31434724a13048c08dd41f4cdaf%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638739241849753199%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=OHZ4zQMkJfMaKaNIiE0qHx3Z3sSxb7vuU49HdEVhExE%3D&amp;reserved=0\">Inschrijvingsformulier</a>.</span></p><p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken. Kijk ook zeker eens op&nbsp;<a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\">VLAIO werft aan! | Agentschap Innoveren en Ondernemen</a><u>.</u></span></p><p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker&nbsp;<a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\">deze video</a>&nbsp;en hoor wat jouw toekomstige collega’s ervan vinden! Proef ook de sfeer via&nbsp;<a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\">getuigenissen</a>&nbsp;van enkele collega’s.</span></p><p><span>Lees meer over de&nbsp;job&nbsp;en het selectieproces&nbsp;in het selectiereglement als bijlage bij ‘meer informatie’. Download dit&nbsp;document&nbsp;en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Het nieuwe team Transities &amp; Talent binnen de afdeling VLAIO Netwerk zoekt een beleidsadviseur circulaire economie die zal fungeren als (co-)trekker van het programma circulaire economie (in opbouw) binnen VLAIO. De uitrol van dit programma gebeurt in nauwe afstemming met de collega’s die betrokken zijn bij het programma. Dat zijn collega’s binnen het team, de afdeling, de afdeling steun en team bedrijfstrajecten.</span></p><p><span>Enkele van je taken zijn:</span></p><ul type=\"disc\"> <li><span>Opvolgen van het uitgewerkte programma circulaire economie volgens de afgesproken principes.</span></li> <li><span>Ondersteunen en aanjagen van het lerend netwerk circulaire economie voor de gesteunde&nbsp;projecten.</span></li> <li><span>Verderzetten van het interne lerend netwerk en de daaraan gekoppelde intervisie waar via het&nbsp;bespreken van projecten circulaire economie kennis wordt gedeeld.</span></li> <li><span>Opvolgen en ontwikkelen van zowel het instrument living labs als de projecten die in&nbsp;oproepen gesteund worden.</span></li> <li><span>Opvolgen van de evoluties binnen circulaire economie op Vlaams, federaal en internationaal niveau en deze gebruiken om voorgaande taken vorm te geven.</span></li> </ul><p><span>Deze taken kunnen in afstemming met de betrokken collega’s in het team verder vormgegeven worden.</span></p><p><b><span>Op 26 februari organiseren we van 10u-11u een infomoment. Heb jij specifieke vragen over de functie-inhoud of over de selectieprocedure? Schrijf je dan zeker in via dit&nbsp;</span></b><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.teams.microsoft.com%2Fevent%2F3a71cd2a-81a3-4190-b0ef-5380d3bc8183%400c0338a6-9561-4ee8-b8d6-4e89cbd520a0&amp;data=05%7C02%7Cbart.vercruysse%40vlaio.be%7Cdc48e31434724a13048c08dd41f4cdaf%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638739241849753199%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=OHZ4zQMkJfMaKaNIiE0qHx3Z3sSxb7vuU49HdEVhExE%3D&amp;reserved=0\">Inschrijvingsformulier</a>.</span></p><p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken. Kijk ook zeker eens op&nbsp;<a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\">VLAIO werft aan! | Agentschap Innoveren en Ondernemen</a><u>.</u></span></p><p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker&nbsp;<a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\">deze video</a>&nbsp;en hoor wat jouw toekomstige collega’s ervan vinden! Proef ook de sfeer via&nbsp;<a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\">getuigenissen</a>&nbsp;van enkele collega’s.</span></p><p><span>Lees meer over de&nbsp;job&nbsp;en het selectieproces&nbsp;in het selectiereglement als bijlage bij ‘meer informatie’. Download dit&nbsp;document&nbsp;en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17377",
       "internal": false,
       "validThroughDate": "1741564800",
@@ -6891,81 +6753,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17327",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 6,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17327",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Medewerker catering"
-      },
-      "displayTitle": "Medewerker catering",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Wil je graag veel klantencontacten? Steek je graag de handen uit de mouwen in de keuken? Dan ben jij de persoon die wij zoeken!&nbsp;</div><div>&nbsp;</div><div>Iedere werkdag bereiden 170 medewerkers catering van Het Facilitair Bedrijf de middagmaaltijden, broodjes, desserten en dranken in de grootkeukens en koffiebars van de Vlaamse overheid. Als medewerker catering zorg je voor de bediening tijdens de middag- of koffiepauzes. Je helpt ook bij kleine evenementen. Wij hebben in Gent 1 voltijds contract (38u) van onbepaalde duur en in Mechelen hebben we 5 voltijdse contracten in de aanbieding.&nbsp;</div><div></div><div>In het VAC van Gent kom je terecht in het team catering dat bestaat uit een 15- tal medewerkers. Deze keuken is in 2023 gerenoveerd en is nu ingericht met de meest moderne keukenapparaten.&nbsp;</div><div>In het VAC van Mechelen kom je terecht in een volledig gerenoveerd gebouw. Hier was vroeger geen catering dus we starten hier alles nieuw op. Het is een klein gebouw dat begin mei open gaat met een team van 9 personen dat nog moet samengesteld worden.</div><div></div><div>Het uurrooster wordt vastgelegd door de leidinggevende, maar we verwachten dat je je flexibel opstelt. Je zal beginnen tussen 6u en 10u en eindigen tussen 14u en 18u.&nbsp;</div><div> &nbsp;</div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende. Je begrijpt ook korte geschreven boodschappen. Op de werkvloer krijg je de kans om je Nederlands te verbeteren.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Wil je graag veel klantencontacten? Steek je graag de handen uit de mouwen in de keuken? Dan ben jij de persoon die wij zoeken!&nbsp;</div><div>&nbsp;</div><div>Iedere werkdag bereiden 170 medewerkers catering van Het Facilitair Bedrijf de middagmaaltijden, broodjes, desserten en dranken in de grootkeukens en koffiebars van de Vlaamse overheid. Als medewerker catering zorg je voor de bediening tijdens de middag- of koffiepauzes. Je helpt ook bij kleine evenementen. Wij hebben in Gent 1 voltijds contract (38u) van onbepaalde duur en in Mechelen hebben we 5 voltijdse contracten in de aanbieding.&nbsp;</div><div></div><div>In het VAC van Gent kom je terecht in het team catering dat bestaat uit een 15- tal medewerkers. Deze keuken is in 2023 gerenoveerd en is nu ingericht met de meest moderne keukenapparaten.&nbsp;</div><div>In het VAC van Mechelen kom je terecht in een volledig gerenoveerd gebouw. Hier was vroeger geen catering dus we starten hier alles nieuw op. Het is een klein gebouw dat begin mei open gaat met een team van 9 personen dat nog moet samengesteld worden.</div><div></div><div>Het uurrooster wordt vastgelegd door de leidinggevende, maar we verwachten dat je je flexibel opstelt. Je zal beginnen tussen 6u en 10u en eindigen tussen 14u en 18u.&nbsp;</div><div> &nbsp;</div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende. Je begrijpt ook korte geschreven boodschappen. Op de werkvloer krijg je de kans om je Nederlands te verbeteren.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17294",
-      "internal": false,
-      "validThroughDate": "1741132800",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17294",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "1 Teamleider Transport en Logistiek"
-      },
-      "displayTitle": "1 Teamleider Transport en Logistiek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Spreekt het jou aan om een team te coachen en aan te sturen? Kan jij mensen laten samenwerken en kan je doelstellingen formuleren en vertalen naar anderen? Ben je iemand die de balans tussen cijfers en kwaliteit kan behouden en teamleden hierin kan ondersteunen?</p><p>Heb je zin om te motiveren, te managen, te ondernemen en leiding te geven? Dan zijn wij op zoek naar jou!</p><p>Als teamleider op onze locatie in Zwijnaarde (Gent) ben jij een dynamische en resultaatgerichte people manager die de uitdaging aangaat om veranderingen binnen je team in goede banen te leiden. Jij bent iemand die energie haalt uit overleg met je teamleden en die ernaar streeft om uitdagingen op de arbeidsmarkt samen vast te pakken en oplossingen te zoeken voor opduikende problemen. Een hand-on-mentaliteit en een outside-in-blik zijn hierbij nodig.</p><p>De sector transport en logistiek in Oost-Vlaanderen werkt in 2 regio's en met 4 teamleiders (die in duo de beide teams van een subregio aansturen). De precieze taakverdeling wordt vastgelegd samen met het leidinggevend team. Business-continuïteit staat voorop en vergt een flinke dosis wendbaarheid van alle leidinggevenden. Je focus ligt in de eerste plaats op de dienstverlening rond het versterken van competenties voor onze klanten, maar omvat ook aspecten van bemiddeling en begeleiding. Het aansturen van het havenkantoor voor bemiddeling van havenarbeiders behoort ook tot het takenpakket, waarbij ook een rol is voorzien in het digitaliseringsproject dat hiervoor in ontwikkeling is.</p><p>De teamleider wordt aangestuurd door de clustermanager en samen met je collega-teamleiders functioneer je als één provinciaal team. Je vertaalt de beleidsdoelstellingen en teamdoelen in operationele acties. Je coördineert dit proces, stuurt bij waar nodig en volgt de vorderingen en indicatoren op.</p><p>Dit is het huidige takkenpakket. VDAB werkt momenteel een nieuw dienstverleningsmodel uit voor de klant. Dit impliceert een aantal wijzigingen in de governancestructuur met mogelijk ook impact op de functie van teamleider. Als kandidaat is het belangrijk hiermee rekening te houden. In het kader van het plan ‘ambitieus’ van VDAB bestaat de mogelijkheid dat deze functie een andere invulling zal krijgen.<span></span><span></span></p>",
-        "htmlEncoded": "<p>Spreekt het jou aan om een team te coachen en aan te sturen? Kan jij mensen laten samenwerken en kan je doelstellingen formuleren en vertalen naar anderen? Ben je iemand die de balans tussen cijfers en kwaliteit kan behouden en teamleden hierin kan ondersteunen?</p><p>Heb je zin om te motiveren, te managen, te ondernemen en leiding te geven? Dan zijn wij op zoek naar jou!</p><p>Als teamleider op onze locatie in Zwijnaarde (Gent) ben jij een dynamische en resultaatgerichte people manager die de uitdaging aangaat om veranderingen binnen je team in goede banen te leiden. Jij bent iemand die energie haalt uit overleg met je teamleden en die ernaar streeft om uitdagingen op de arbeidsmarkt samen vast te pakken en oplossingen te zoeken voor opduikende problemen. Een hand-on-mentaliteit en een outside-in-blik zijn hierbij nodig.</p><p>De sector transport en logistiek in Oost-Vlaanderen werkt in 2 regio's en met 4 teamleiders (die in duo de beide teams van een subregio aansturen). De precieze taakverdeling wordt vastgelegd samen met het leidinggevend team. Business-continuïteit staat voorop en vergt een flinke dosis wendbaarheid van alle leidinggevenden. Je focus ligt in de eerste plaats op de dienstverlening rond het versterken van competenties voor onze klanten, maar omvat ook aspecten van bemiddeling en begeleiding. Het aansturen van het havenkantoor voor bemiddeling van havenarbeiders behoort ook tot het takenpakket, waarbij ook een rol is voorzien in het digitaliseringsproject dat hiervoor in ontwikkeling is.</p><p>De teamleider wordt aangestuurd door de clustermanager en samen met je collega-teamleiders functioneer je als één provinciaal team. Je vertaalt de beleidsdoelstellingen en teamdoelen in operationele acties. Je coördineert dit proces, stuurt bij waar nodig en volgt de vorderingen en indicatoren op.</p><p>Dit is het huidige takkenpakket. VDAB werkt momenteel een nieuw dienstverleningsmodel uit voor de klant. Dit impliceert een aantal wijzigingen in de governancestructuur met mogelijk ook impact op de functie van teamleider. Als kandidaat is het belangrijk hiermee rekening te houden. In het kader van het plan ‘ambitieus’ van VDAB bestaat de mogelijkheid dat deze functie een andere invulling zal krijgen.<span></span><span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
