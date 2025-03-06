@@ -23,7 +23,7 @@
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 133,
+        "count": 132,
         "label": "Brussel"
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "value": "Gent",
-        "count": 7,
+        "count": 8,
         "label": "Gent"
       },
       {
@@ -195,12 +195,12 @@
     "contentSubtypeData__domain": [
       {
         "value": "ICT",
-        "count": 68,
+        "count": 67,
         "label": "ICT"
       },
       {
         "value": "Dienstverlening",
-        "count": 26,
+        "count": 27,
         "label": "Dienstverlening"
       },
       {
@@ -365,7 +365,7 @@
     "contentSubtypeData__hiringOrganization": [
       {
         "value": "Vlaanderen connect.",
-        "count": 76,
+        "count": 75,
         "label": "Vlaanderen connect."
       },
       {
@@ -439,14 +439,14 @@
         "label": "Openbaar Psychiatrisch Zorgcentrum"
       },
       {
+        "value": "Opgroeien regie",
+        "count": 4,
+        "label": "Opgroeien regie"
+      },
+      {
         "value": "Vlaamse Landmaatschappij",
         "count": 4,
         "label": "Vlaamse Landmaatschappij"
-      },
-      {
-        "value": "Opgroeien regie",
-        "count": 3,
-        "label": "Opgroeien regie"
       },
       {
         "value": "Technologie en Voeding 115",
@@ -592,7 +592,7 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 112,
+        "count": 113,
         "label": "false"
       }
     ]
@@ -1394,41 +1394,6 @@
       "description": {
         "raw": "<p><span>De primaire doelstelling van een technisch architect is het ontwerpen, ontwikkelen en onderhouden van complexe IT-systemen binnen een organisatie. Hierbij wordt rekening gehouden met de bedrijfsdoelstellingen, technologische mogelijkheden en eisen op het gebied van beveiliging, schaalbaarheid en betrouwbaarheid. Daarnaast verwachten we van een technisch architect ook dat hij een echte coach is zowel naar de lead dev als de andere ontwikkelaars.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Team Elysion is een voornamelijk back-end team en heeft daarnaast ook het product API manager van IBM waar je als technisch architect toch redelijk wat logische redeneervermogen voor nodig heb. Er zijn meerdere applicaties en meerdere datastromen in de API manager en het vdab landschap is complex.</span></p> \n<p><span>Het Elysion team bestaat uit een teamleider, scrum master, functioneel architect, technisch architect, developers, een analist en een tester.</span></p> \n<p><span>Het team werkt voornamelijk op data uitwisseling met het product API manager van IBM en heeft daarnaast ook verschillende java applicaties</span></p> \n<p><span>Als Technisch applicatie architect maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p>",
         "htmlEncoded": "<p><span>De primaire doelstelling van een technisch architect is het ontwerpen, ontwikkelen en onderhouden van complexe IT-systemen binnen een organisatie. Hierbij wordt rekening gehouden met de bedrijfsdoelstellingen, technologische mogelijkheden en eisen op het gebied van beveiliging, schaalbaarheid en betrouwbaarheid. Daarnaast verwachten we van een technisch architect ook dat hij een echte coach is zowel naar de lead dev als de andere ontwikkelaars.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Team Elysion is een voornamelijk back-end team en heeft daarnaast ook het product API manager van IBM waar je als technisch architect toch redelijk wat logische redeneervermogen voor nodig heb. Er zijn meerdere applicaties en meerdere datastromen in de API manager en het vdab landschap is complex.</span></p> \n<p><span>Het Elysion team bestaat uit een teamleider, scrum master, functioneel architect, technisch architect, developers, een analist en een tester.</span></p> \n<p><span>Het team werkt voornamelijk op data uitwisseling met het product API manager van IBM en heeft daarnaast ook verschillende java applicaties</span></p> \n<p><span>Als Technisch applicatie architect maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70456346",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70456346",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Front-end ontwikkelaar (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Front-end ontwikkelaar (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span>De dienstverlening van VDAB wordt steeds digitaler en daarom zijn we op zoek naar een frontend developer ter versterking van het VDAB UX-team. Specifiek zoeken we naar iemand die, naast expertise in frontend, ook interesse heeft in design en UX. Pluspunten indien je zelf in het verleden gedesigned hebt, of rollen hebt gehad waarin je designwerk combineerde met front end ontwikkelingen. We hebben een brede missie naar zowel werkzoekenden, werknemers als werkgevers en bieden hen diverse diensten aan. Bijvoorbeeld: het aanleren van nieuwe competenties, het plaatsen van een vacature, zich oriënteren op de arbeidsmarkt... Het UX-team ondersteunt deze diensten door ze zo gebruiksvriendelijk mogelijk te maken.</span></p> \n<p><span>Je werkt mee aan het bouwen en implementeren van visueel aantrekkelijke, functionele en gebruiksvriendelijke gebruikersinterfaces.</span></p> \n<p><span>Je krijgt de kans om nauw samen te werken met designers en ontwikkelaars en te werken aan de VDAB van morgen. Binnen ons team krijg je de kans tot veel ownership en de mogelijkheid om zelf mee de koers te bepalen op vlak van onze webcomponenten en front-end strategie.</span></p> \n<p><span>Naast de inhoudelijke uitdagingen kom je in een leuk team terecht dat veel belang hecht aan samenwerking, vrijheid en een goede werk- en teamsfeer.</span></p> \n<p><span>Je belangrijkste taken zijn :</span></p> \n<ul> \n<li><span>De ontwikkeling van gebruikersinterfaces: Het bouwen en implementeren van visueel aantrekkelijke, functionele en gebruiksvriendelijke gebruikersinterfaces. Wij gebruiken hiervoor HTML/CSS en JS. Ervaring met webcomponenten en Angular is een pluspunt.</span></li> \n<li><span>Je zorgt voor Responsiviteit en Prestatieoptimalisatie: Het optimaliseren van webapplicaties voor verschillende apparaten en schermgroottes en zorgen voor snelle laadtijden en soepele prestaties.</span></li> \n<li><span>Samenwerken met Interdisciplinaire Teams: Effectief samenwerken met andere teamleden, zoals designers, business en andere stakeholders.</span></li> </ul> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span>De dienstverlening van VDAB wordt steeds digitaler en daarom zijn we op zoek naar een frontend developer ter versterking van het VDAB UX-team. Specifiek zoeken we naar iemand die, naast expertise in frontend, ook interesse heeft in design en UX. Pluspunten indien je zelf in het verleden gedesigned hebt, of rollen hebt gehad waarin je designwerk combineerde met front end ontwikkelingen. We hebben een brede missie naar zowel werkzoekenden, werknemers als werkgevers en bieden hen diverse diensten aan. Bijvoorbeeld: het aanleren van nieuwe competenties, het plaatsen van een vacature, zich oriënteren op de arbeidsmarkt... Het UX-team ondersteunt deze diensten door ze zo gebruiksvriendelijk mogelijk te maken.</span></p> \n<p><span>Je werkt mee aan het bouwen en implementeren van visueel aantrekkelijke, functionele en gebruiksvriendelijke gebruikersinterfaces.</span></p> \n<p><span>Je krijgt de kans om nauw samen te werken met designers en ontwikkelaars en te werken aan de VDAB van morgen. Binnen ons team krijg je de kans tot veel ownership en de mogelijkheid om zelf mee de koers te bepalen op vlak van onze webcomponenten en front-end strategie.</span></p> \n<p><span>Naast de inhoudelijke uitdagingen kom je in een leuk team terecht dat veel belang hecht aan samenwerking, vrijheid en een goede werk- en teamsfeer.</span></p> \n<p><span>Je belangrijkste taken zijn :</span></p> \n<ul> \n<li><span>De ontwikkeling van gebruikersinterfaces: Het bouwen en implementeren van visueel aantrekkelijke, functionele en gebruiksvriendelijke gebruikersinterfaces. Wij gebruiken hiervoor HTML/CSS en JS. Ervaring met webcomponenten en Angular is een pluspunt.</span></li> \n<li><span>Je zorgt voor Responsiviteit en Prestatieoptimalisatie: Het optimaliseren van webapplicaties voor verschillende apparaten en schermgroottes en zorgen voor snelle laadtijden en soepele prestaties.</span></li> \n<li><span>Samenwerken met Interdisciplinaire Teams: Effectief samenwerken met andere teamleden, zoals designers, business en andere stakeholders.</span></li> </ul> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>"
       },
       "locations": [
         {
@@ -3898,6 +3863,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17740",
+      "internal": false,
+      "validThroughDate": "1743033600",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17740",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundige Kind en Gezin-teams Gent"
+      },
+      "displayTitle": "Verpleegkundige Kind en Gezin-teams Gent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten, voor de aanleg van een werfreserve. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de drie Kind en Gezin teams in Gent (Gent-Noordoost, Gent-West of Gent-Zuid) en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>",
+        "htmlEncoded": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten, voor de aanleg van een werfreserve. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de drie Kind en Gezin teams in Gent (Gent-Noordoost, Gent-West of Gent-Zuid) en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17726",
       "internal": false,
       "validThroughDate": "1741219200",
@@ -4828,8 +4828,8 @@
       "displayTitle": "Administratief Projectbegeleider Klimaat",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Wil jij je administratieve talent inzetten voor een duurzamere zorgsector? Werk je nauwkeurig, denk je oplossingsgericht en haal je voldoening uit gestructureerd dossierbeheer? Dan is deze functie iets voor jou.<br> <br> Als administratief projectbegeleider klimaat zorg je ervoor dat zorgvoorzieningen vlot toegang krijgen tot klimaatsubsidies voor energiebesparende investeringen. Je controleert of subsidieaanvragen volledig en correct zijn, volgt dossiers op en zorgt ervoor dat de uitbetaling van subsidies correct verloopt. Daarnaast beantwoord je vragen van zorginstellingen, overleg je met collega’s en werk je samen met het Vlaams Energiebedrijf om de subsidieprocedure efficiënt te laten verlopen.<br> <br> Je werkt binnen een hecht team en hebt een belangrijke ondersteunende rol in het realiseren van energiezuinige gebouwen in de zorg. Mede dankzij jouw inzet kunnen voorzieningen de nodige stappen zetten om hun CO₂-uitstoot te verminderen. Je krijgt de kans om je administratieve vaardigheden te combineren met maatschappelijk relevante impact, in een omgeving waar samenwerking en kwaliteit centraal staan.</span></p>",
-        "htmlEncoded": "<p><span>Wil jij je administratieve talent inzetten voor een duurzamere zorgsector? Werk je nauwkeurig, denk je oplossingsgericht en haal je voldoening uit gestructureerd dossierbeheer? Dan is deze functie iets voor jou.<br> <br> Als administratief projectbegeleider klimaat zorg je ervoor dat zorgvoorzieningen vlot toegang krijgen tot klimaatsubsidies voor energiebesparende investeringen. Je controleert of subsidieaanvragen volledig en correct zijn, volgt dossiers op en zorgt ervoor dat de uitbetaling van subsidies correct verloopt. Daarnaast beantwoord je vragen van zorginstellingen, overleg je met collega’s en werk je samen met het Vlaams Energiebedrijf om de subsidieprocedure efficiënt te laten verlopen.<br> <br> Je werkt binnen een hecht team en hebt een belangrijke ondersteunende rol in het realiseren van energiezuinige gebouwen in de zorg. Mede dankzij jouw inzet kunnen voorzieningen de nodige stappen zetten om hun CO₂-uitstoot te verminderen. Je krijgt de kans om je administratieve vaardigheden te combineren met maatschappelijk relevante impact, in een omgeving waar samenwerking en kwaliteit centraal staan.</span></p>"
+        "raw": "<p><span>Wil jij je administratieve talent inzetten voor een duurzamere zorgsector? Werk je nauwkeurig, denk je oplossingsgericht en haal je voldoening uit gestructureerd dossierbeheer? Dan is deze functie iets voor jou.<br> <br> Als administratief projectbegeleider klimaat zorg je ervoor dat zorgvoorzieningen vlot toegang krijgen tot klimaatsubsidies voor energiebesparende investeringen. Je controleert of subsidieaanvragen volledig en correct zijn, volgt dossiers op en zorgt ervoor dat de uitbetaling van subsidies correct verloopt. Daarnaast beantwoord je vragen van zorginstellingen, overleg je met collega’s en werk je samen met het Vlaams Energiebedrijf om de subsidieprocedure efficiënt te laten verlopen.<br> <br> Je werkt binnen een hecht team en hebt een belangrijke ondersteunende rol in het realiseren van energiezuinige gebouwen in de zorg. Mede dankzij jouw inzet kunnen voorzieningen de nodige stappen zetten om hun CO₂-uitstoot te verminderen. Je krijgt de kans om je administratieve vaardigheden te combineren met maatschappelijk relevante impact, in een omgeving waar samenwerking en kwaliteit centraal staan.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Wil jij je administratieve talent inzetten voor een duurzamere zorgsector? Werk je nauwkeurig, denk je oplossingsgericht en haal je voldoening uit gestructureerd dossierbeheer? Dan is deze functie iets voor jou.<br> <br> Als administratief projectbegeleider klimaat zorg je ervoor dat zorgvoorzieningen vlot toegang krijgen tot klimaatsubsidies voor energiebesparende investeringen. Je controleert of subsidieaanvragen volledig en correct zijn, volgt dossiers op en zorgt ervoor dat de uitbetaling van subsidies correct verloopt. Daarnaast beantwoord je vragen van zorginstellingen, overleg je met collega’s en werk je samen met het Vlaams Energiebedrijf om de subsidieprocedure efficiënt te laten verlopen.<br> <br> Je werkt binnen een hecht team en hebt een belangrijke ondersteunende rol in het realiseren van energiezuinige gebouwen in de zorg. Mede dankzij jouw inzet kunnen voorzieningen de nodige stappen zetten om hun CO₂-uitstoot te verminderen. Je krijgt de kans om je administratieve vaardigheden te combineren met maatschappelijk relevante impact, in een omgeving waar samenwerking en kwaliteit centraal staan.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -5084,7 +5084,7 @@
     {
       "link": "/Job/cornerstone-17553",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1742688000",
       "hiringOrganization": "Agentschap Wegen en Verkeer",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -5562,8 +5562,8 @@
       "displayTitle": "Coördinator Financiën",
       "isProtected": false,
       "description": {
-        "raw": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opvolging van dossiers:. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opvolging van dossiers:. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
+        "raw": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de opvolging van dossiers. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>Als coördinator financiën binnen team schuldvorderingen\nben jij de rechterhand van de teamverantwoordelijke. Je zorgt voor een\nvlekkeloze samenwerking en dienstverlening door processen en dossiers naadloos\nop elkaar af te stemmen. Complexe financiële vragen? Jij bent de expert die ze\nsnel en efficiënt beantwoordt! <br>Daarnaast spot je\nterugkerende vraagstukken en zet je in op innovatieve oplossingen, bijvoorbeeld\ndoor het initiëren van gerichte projecten. Als coördinator ben jij de drijvende\nkracht achter het verzamelen van essentiële informatie voor rapportages en hou je\nscherp toezicht op doorlooptijden en deadlines. Het management rekent op jou\nals dé contactpersoon voor specifieke vragen, waarbij je met jouw inzichten en\nexpertise altijd het verschil maakt.<br><br>Samengevat zoeken we een\ninhoudelijke expert die, samen met\n de teamverantwoordelijke, zowel het aanspreekpunt is voor het\nmanagement als voor de collega’s. Je bent verantwoordelijk voor de opvolging van dossiers. Je zorgt voor een vlotte\ndoorstroom, ondersteunt het team bij inhoudelijke vraagstukken, en komt met\npraktische oplossingen bij complexe materies. Als coördinator maak je het\nverschil door samen te werken en gericht resultaat te boeken!</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
       },
       "locations": [
         {
