@@ -1,29 +1,29 @@
 {
-  "totalItems": 193,
+  "totalItems": 195,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 192,
+  "lastItemOfPage": 194,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 193,
+        "count": 195,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 193,
+        "count": 195,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 128,
+        "count": 129,
         "label": "Brussel"
       },
       {
@@ -52,6 +52,11 @@
         "label": "Merelbeke-Melle"
       },
       {
+        "value": "Rekem",
+        "count": 5,
+        "label": "Rekem"
+      },
+      {
         "value": "Sint-Joost-ten-Node",
         "count": 5,
         "label": "Sint-Joost-ten-Node"
@@ -60,11 +65,6 @@
         "value": "Mechelen",
         "count": 4,
         "label": "Mechelen"
-      },
-      {
-        "value": "Rekem",
-        "count": 4,
-        "label": "Rekem"
       },
       {
         "value": "Willebroek",
@@ -200,7 +200,7 @@
       },
       {
         "value": "Dienstverlening",
-        "count": 27,
+        "count": 28,
         "label": "Dienstverlening"
       },
       {
@@ -219,14 +219,14 @@
         "label": "Logistiek en transport"
       },
       {
+        "value": "Andere",
+        "count": 8,
+        "label": "Andere"
+      },
+      {
         "value": "Onderzoek en ontwikkeling",
         "count": 8,
         "label": "Onderzoek en ontwikkeling"
-      },
-      {
-        "value": "Andere",
-        "count": 7,
-        "label": "Andere"
       },
       {
         "value": "Techniek",
@@ -297,14 +297,14 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 193,
+        "count": 195,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 180,
+        "count": 182,
         "label": "false"
       },
       {
@@ -316,7 +316,7 @@
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 163,
+        "count": 165,
         "label": "Vaste job"
       },
       {
@@ -343,12 +343,12 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 85,
+        "count": 86,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 80,
+        "count": 81,
         "label": "Masterdiploma"
       },
       {
@@ -404,6 +404,11 @@
         "label": "Departement Mobiliteit en Openbare Werken"
       },
       {
+        "value": "Openbaar Psychiatrisch Zorgcentrum",
+        "count": 5,
+        "label": "Openbaar Psychiatrisch Zorgcentrum"
+      },
+      {
         "value": "agentschap Digitaal Vlaanderen",
         "count": 5,
         "label": "agentschap Digitaal Vlaanderen"
@@ -427,11 +432,6 @@
         "value": "GO! onderwijs van de Vlaamse Gemeenschap",
         "count": 4,
         "label": "GO! onderwijs van de Vlaamse Gemeenschap"
-      },
-      {
-        "value": "Openbaar Psychiatrisch Zorgcentrum",
-        "count": 4,
-        "label": "Openbaar Psychiatrisch Zorgcentrum"
       },
       {
         "value": "Opgroeien regie",
@@ -467,6 +467,11 @@
         "value": "ILVO Landbouw en Maatschappij",
         "count": 2,
         "label": "ILVO Landbouw en Maatschappij"
+      },
+      {
+        "value": "Agentschap Facilitair Bedrijf",
+        "count": 1,
+        "label": "Agentschap Facilitair Bedrijf"
       },
       {
         "value": "Agentschap Landbouw en Zeevisserij",
@@ -587,12 +592,47 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 106,
+        "count": 107,
         "label": "false"
       }
     ]
   },
   "items": [
+    {
+      "link": "/Job/vdab-70596888",
+      "internal": false,
+      "validThroughDate": "1743120000",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70596888",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundig leidinggevende Herstel"
+      },
+      "displayTitle": "Verpleegkundig leidinggevende Herstel",
+      "isProtected": false,
+      "description": {
+        "raw": "<ul> \n<li>Je bent lid van het kernteam (samen met de behandelend arts en programmacoördinator) met als specifieke verantwoordelijkheidsgebieden: \n<ul> \n<li>Je bent verantwoordelijk voor de organisatie, de continuïteit en de kwaliteit van de verpleegkundige processen en de verpleegkundige zorg binnen een zorgeenheid.</li> \n<li>Je geeft optimaal vorm aan een verpleegkundig beleid dat geïntegreerd is in de behandel- en beleidsvisie van het cluster en de zorgeenheid, en dit in samenwerking met het kernteam.</li> \n<li>Je ondersteunt en stimuleert de zorgverleners van je equipe om samen tot een efficiënte en effectieve werkorganisatie te komen.</li> \n<li>Je bent samen met de andere leden van het kernteam verantwoordelijk voor een professioneel gedragen interdisciplinaire samenwerking.</li> </ul> </li> \n<li>Je wordt leidinggevende van de zorgeenheid Herstel. Dit is een gespecialiseerde zorgeenheid gericht op de voortgezette behandeling van volwassenen met ernstige psychiatrische aandoeningen (EPA). De focus ligt op personen met een psychotische stoornis die soms in combinatie met ASS, persoonlijkheidsstoornissen, trauma en co-morbide verslaving voorkomen. Er zijn zorgvragen op verschillende levensdomeinen.</li> </ul>",
+        "htmlEncoded": "<ul> \n<li>Je bent lid van het kernteam (samen met de behandelend arts en programmacoördinator) met als specifieke verantwoordelijkheidsgebieden: \n<ul> \n<li>Je bent verantwoordelijk voor de organisatie, de continuïteit en de kwaliteit van de verpleegkundige processen en de verpleegkundige zorg binnen een zorgeenheid.</li> \n<li>Je geeft optimaal vorm aan een verpleegkundig beleid dat geïntegreerd is in de behandel- en beleidsvisie van het cluster en de zorgeenheid, en dit in samenwerking met het kernteam.</li> \n<li>Je ondersteunt en stimuleert de zorgverleners van je equipe om samen tot een efficiënte en effectieve werkorganisatie te komen.</li> \n<li>Je bent samen met de andere leden van het kernteam verantwoordelijk voor een professioneel gedragen interdisciplinaire samenwerking.</li> </ul> </li> \n<li>Je wordt leidinggevende van de zorgeenheid Herstel. Dit is een gespecialiseerde zorgeenheid gericht op de voortgezette behandeling van volwassenen met ernstige psychiatrische aandoeningen (EPA). De focus ligt op personen met een psychotische stoornis die soms in combinatie met ASS, persoonlijkheidsstoornissen, trauma en co-morbide verslaving voorkomen. Er zijn zorgvragen op verschillende levensdomeinen.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70595983",
       "internal": false,
@@ -4578,6 +4618,41 @@
         {
           "address": {
             "city": "Leuven"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17612",
+      "internal": false,
+      "validThroughDate": "1742774400",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17612",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Operationeel verantwoordelijke Telecom"
+      },
+      "displayTitle": "Operationeel verantwoordelijke Telecom",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben je geboeid door telecom? Sta je klanten graag bij in hun noden en wensen hierrond? Wil je mee je schouders zetten onder het aankoopproces van telecomproducten en -diensten? En heb je zin om een klein team aan te sturen? </span></p> <p><b><span>Dan ben jij de operationeel verantwoordelijke Telecom die wij zoeken! </span></b></p> <p><span>Als operationeel verantwoordelijke Telecom kom je terecht in het team Operationele Aankoop. Je zorgt samen met de collega’s binnen de cluster Telecom voor de <b>aankoop van telecomproducten en/of -diensten</b> voor tal van interne klanten binnen de Vlaamse overheid. Je verdeelt alle <b>aanvragen rond telecom</b> onder de aankopers en volgt deze mee op zodat alle aankopen vlot gebeuren. Daarnaast bied je <b>ondersteuning binnen jouw cluster</b> en ben je het <b>eerste aanspreekpunt bij moeilijkheden</b>. </span></p> <p><span>Kortom, jij bent de schakel die ervoor zorgt dat de klanten van de Vlaamse overheid dagelijks kunnen rekenen op een goedwerkende en performante telecomomgeving!</span></p> <p><b><span>Dit doe je door onder andere deze taken op te nemen: </span></b></p> <ul><li><span>Je zorgt dat de aanvragen (aanvragen smartphone, activaties van een telecomabonnement via onze telecompartner, aanvragen data-roaming, ondersteuning bij configuratie smartphone, …) tijdig worden opgenomen.</span></li><li><span>Je bewaakt dat er tijdig een antwoord op de vragen, klachten en complimenten wordt bezorgd.</span></li><li><span>Je verzekert dat facturen tijdig worden verwerkt.</span></li><li><span>Je neemt de meer complexe aanvragen van klanten op.</span></li><li><span>Je organiseert op regelmatige basis een clusteroverleg.</span></li><li><span>Je draagt bij tot het optimaliseren van de werking van de cluster Telecom.</span></li><li><span>Je rapporteert over de stand van zaken aan het teamhoofd.</span></li></ul>       <p><b><span><br>Spreekt deze functie jou aan</span></b><b><span>? </span></b><b><span>Aarzel dan niet om te solliciteren! </span></b></p><p>Wil je meer weten over Het Facilitair Bedrijf en waar wij voor staan? Neem dan zeker een kijkje op onze website:&nbsp;https://www.vlaanderen.be/het-facilitair-bedrijf</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><span>Ben je geboeid door telecom? Sta je klanten graag bij in hun noden en wensen hierrond? Wil je mee je schouders zetten onder het aankoopproces van telecomproducten en -diensten? En heb je zin om een klein team aan te sturen? </span></p> <p><b><span>Dan ben jij de operationeel verantwoordelijke Telecom die wij zoeken! </span></b></p> <p><span>Als operationeel verantwoordelijke Telecom kom je terecht in het team Operationele Aankoop. Je zorgt samen met de collega’s binnen de cluster Telecom voor de <b>aankoop van telecomproducten en/of -diensten</b> voor tal van interne klanten binnen de Vlaamse overheid. Je verdeelt alle <b>aanvragen rond telecom</b> onder de aankopers en volgt deze mee op zodat alle aankopen vlot gebeuren. Daarnaast bied je <b>ondersteuning binnen jouw cluster</b> en ben je het <b>eerste aanspreekpunt bij moeilijkheden</b>. </span></p> <p><span>Kortom, jij bent de schakel die ervoor zorgt dat de klanten van de Vlaamse overheid dagelijks kunnen rekenen op een goedwerkende en performante telecomomgeving!</span></p> <p><b><span>Dit doe je door onder andere deze taken op te nemen: </span></b></p> <ul><li><span>Je zorgt dat de aanvragen (aanvragen smartphone, activaties van een telecomabonnement via onze telecompartner, aanvragen data-roaming, ondersteuning bij configuratie smartphone, …) tijdig worden opgenomen.</span></li><li><span>Je bewaakt dat er tijdig een antwoord op de vragen, klachten en complimenten wordt bezorgd.</span></li><li><span>Je verzekert dat facturen tijdig worden verwerkt.</span></li><li><span>Je neemt de meer complexe aanvragen van klanten op.</span></li><li><span>Je organiseert op regelmatige basis een clusteroverleg.</span></li><li><span>Je draagt bij tot het optimaliseren van de werking van de cluster Telecom.</span></li><li><span>Je rapporteert over de stand van zaken aan het teamhoofd.</span></li></ul>       <p><b><span><br>Spreekt deze functie jou aan</span></b><b><span>? </span></b><b><span>Aarzel dan niet om te solliciteren! </span></b></p><p>Wil je meer weten over Het Facilitair Bedrijf en waar wij voor staan? Neem dan zeker een kijkje op onze website:&nbsp;https://www.vlaanderen.be/het-facilitair-bedrijf</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
