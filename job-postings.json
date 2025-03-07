@@ -1,34 +1,34 @@
 {
-  "totalItems": 199,
+  "totalItems": 193,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 198,
+  "lastItemOfPage": 192,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 199,
+        "count": 193,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 199,
+        "count": 193,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 132,
+        "count": 128,
         "label": "Brussel"
       },
       {
         "value": "Antwerpen",
-        "count": 17,
+        "count": 16,
         "label": "Antwerpen"
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "value": "Gent",
-        "count": 8,
+        "count": 7,
         "label": "Gent"
       },
       {
@@ -47,19 +47,19 @@
         "label": "Leuven"
       },
       {
-        "value": "Mechelen",
-        "count": 5,
-        "label": "Mechelen"
-      },
-      {
         "value": "Merelbeke-Melle",
         "count": 5,
         "label": "Merelbeke-Melle"
       },
       {
-        "value": "Sint-Joost-Ten-Node",
+        "value": "Sint-Joost-ten-Node",
         "count": 5,
-        "label": "Sint-Joost-Ten-Node"
+        "label": "Sint-Joost-ten-Node"
+      },
+      {
+        "value": "Mechelen",
+        "count": 4,
+        "label": "Mechelen"
       },
       {
         "value": "Rekem",
@@ -85,11 +85,6 @@
         "value": "Aalst",
         "count": 2,
         "label": "Aalst"
-      },
-      {
-        "value": "Everberg",
-        "count": 2,
-        "label": "Everberg"
       },
       {
         "value": "Evergem",
@@ -125,6 +120,11 @@
         "value": "Diest",
         "count": 1,
         "label": "Diest"
+      },
+      {
+        "value": "Everberg",
+        "count": 1,
+        "label": "Everberg"
       },
       {
         "value": "Gaasbeek",
@@ -195,7 +195,7 @@
     "contentSubtypeData__domain": [
       {
         "value": "ICT",
-        "count": 67,
+        "count": 68,
         "label": "ICT"
       },
       {
@@ -205,7 +205,7 @@
       },
       {
         "value": "Administratie",
-        "count": 19,
+        "count": 17,
         "label": "Administratie"
       },
       {
@@ -219,19 +219,9 @@
         "label": "Logistiek en transport"
       },
       {
-        "value": "Milieu/omgeving",
-        "count": 9,
-        "label": "Milieu/omgeving"
-      },
-      {
         "value": "Onderzoek en ontwikkeling",
         "count": 8,
         "label": "Onderzoek en ontwikkeling"
-      },
-      {
-        "value": "Techniek",
-        "count": 8,
-        "label": "Techniek"
       },
       {
         "value": "Andere",
@@ -239,13 +229,23 @@
         "label": "Andere"
       },
       {
+        "value": "Techniek",
+        "count": 7,
+        "label": "Techniek"
+      },
+      {
         "value": "Financieel",
         "count": 6,
         "label": "Financieel"
       },
       {
+        "value": "Milieu/omgeving",
+        "count": 6,
+        "label": "Milieu/omgeving"
+      },
+      {
         "value": "Juridisch",
-        "count": 5,
+        "count": 4,
         "label": "Juridisch"
       },
       {
@@ -297,26 +297,26 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 199,
+        "count": 193,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 182,
+        "count": 180,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 17,
+        "count": 13,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 168,
+        "count": 163,
         "label": "Vaste job"
       },
       {
@@ -326,7 +326,7 @@
       },
       {
         "value": "Jobstudent",
-        "count": 6,
+        "count": 5,
         "label": "Jobstudent"
       },
       {
@@ -343,12 +343,12 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 87,
+        "count": 85,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 82,
+        "count": 80,
         "label": "Masterdiploma"
       },
       {
@@ -365,7 +365,7 @@
     "contentSubtypeData__hiringOrganization": [
       {
         "value": "Vlaanderen connect.",
-        "count": 75,
+        "count": 76,
         "label": "Vlaanderen connect."
       },
       {
@@ -385,18 +385,18 @@
       },
       {
         "value": "Opgroeien",
-        "count": 7,
-        "label": "Opgroeien"
-      },
-      {
-        "value": "Agentschap Justitie en Handhaving",
         "count": 6,
-        "label": "Agentschap Justitie en Handhaving"
+        "label": "Opgroeien"
       },
       {
         "value": "Sport Vlaanderen",
         "count": 6,
         "label": "Sport Vlaanderen"
+      },
+      {
+        "value": "Agentschap Justitie en Handhaving",
+        "count": 5,
+        "label": "Agentschap Justitie en Handhaving"
       },
       {
         "value": "Departement Mobiliteit en Openbare Werken",
@@ -417,11 +417,6 @@
         "value": "Departement Cultuur, Jeugd en Media",
         "count": 4,
         "label": "Departement Cultuur, Jeugd en Media"
-      },
-      {
-        "value": "Departement Omgeving",
-        "count": 4,
-        "label": "Departement Omgeving"
       },
       {
         "value": "Eigen Vermogen Xperta",
@@ -469,11 +464,6 @@
         "label": "Departement Onderwijs en Vorming"
       },
       {
-        "value": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
-        "count": 2,
-        "label": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie"
-      },
-      {
         "value": "ILVO Landbouw en Maatschappij",
         "count": 2,
         "label": "ILVO Landbouw en Maatschappij"
@@ -502,6 +492,11 @@
         "value": "Departement Kanselarij en Buitenlandse Zaken",
         "count": 1,
         "label": "Departement Kanselarij en Buitenlandse Zaken"
+      },
+      {
+        "value": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
+        "count": 1,
+        "label": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie"
       },
       {
         "value": "Departement Zorg",
@@ -592,12 +587,47 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 113,
+        "count": 106,
         "label": "false"
       }
     ]
   },
   "items": [
+    {
+      "link": "/Job/vdab-70595983",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70595983",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Functioneel Applicatie Architect Drupal (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Functioneel Applicatie Architect Drupal (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De functioneel applicatie architect vertaalt het functioneel (detail)ontwerp naar duidelijke richtlijnen voor het ontwikkelteam. Dit in functie van een high level project met als doel een vernieuwing/verbetering van onze diensten. Hij/zij ondersteunt inschattingen op de resourceplanning, bewaakt de operationele stabiliteit van toepassingen en fungeert als coach voor analisten binnen het team.</span></p> \n<p><span>Werkt samen met de technisch en enterprise architecten om de functionele architectuur van Drupal te bepalen en te implementeren.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je speelt een cruciale rol in de brugfunctie tussen functioneel ontwerp en technische implementatie.</span></p> \n<p><span>Je werkt nauw samen met zowel ontwikkelteams als operations, technische applicatie architecten en business stakeholders</span></p> \n<p><span>Je krijgt de kans om coaching en mentoring op te nemen binnen een groeiend en dynamisch team.</span></p> \n<p><span>Je hebt directe impact op de stabiliteit en onderhoudbaarheid van bedrijfskritische toepassingen.</span></p> \n<p><strong><span>Hoe is het team samengesteld?</span></strong></p> \n<p><span>Het team wordt aangestuurd door een teamleider, ondersteund door een technisch applicatie architect, functioneel applicatie architect, drupal front-end/back-end ontwikkelaars, analisten en een tester.</span></p> \n<p><strong><span>Wat zijn de typische projecten waar we aan werken?</span></strong></p> \n<p><span>Onderhoud en beheer van 4 grote websites en multisite, projecten gerelateerd aan deze websites (nieuwe functionaliteiten, technische/security verbeteringen, accessibility,...) ism business redactie teams, designteam. </span></p> \n<p><span>Integratie van widgets en ondersteuning van toepassing met onze headless headers/footers en services.</span></p> \n<p><strong><span>Welke technologieën worden gebruikt in de afdeling?</span></strong></p> \n<p><span>Drupal-stack, Elasticsearch engine (er is een project om te migreren naar Opensearch), authenticatie door een derde partij (IAM), testingstack (Behat en Backstop JS)</span></p> \n<p><span>Raakvlak teams werken meestal met de Java stack, maar er zijn ook AI en data teams.</span></p>",
+        "htmlEncoded": "<p><span>De functioneel applicatie architect vertaalt het functioneel (detail)ontwerp naar duidelijke richtlijnen voor het ontwikkelteam. Dit in functie van een high level project met als doel een vernieuwing/verbetering van onze diensten. Hij/zij ondersteunt inschattingen op de resourceplanning, bewaakt de operationele stabiliteit van toepassingen en fungeert als coach voor analisten binnen het team.</span></p> \n<p><span>Werkt samen met de technisch en enterprise architecten om de functionele architectuur van Drupal te bepalen en te implementeren.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je speelt een cruciale rol in de brugfunctie tussen functioneel ontwerp en technische implementatie.</span></p> \n<p><span>Je werkt nauw samen met zowel ontwikkelteams als operations, technische applicatie architecten en business stakeholders</span></p> \n<p><span>Je krijgt de kans om coaching en mentoring op te nemen binnen een groeiend en dynamisch team.</span></p> \n<p><span>Je hebt directe impact op de stabiliteit en onderhoudbaarheid van bedrijfskritische toepassingen.</span></p> \n<p><strong><span>Hoe is het team samengesteld?</span></strong></p> \n<p><span>Het team wordt aangestuurd door een teamleider, ondersteund door een technisch applicatie architect, functioneel applicatie architect, drupal front-end/back-end ontwikkelaars, analisten en een tester.</span></p> \n<p><strong><span>Wat zijn de typische projecten waar we aan werken?</span></strong></p> \n<p><span>Onderhoud en beheer van 4 grote websites en multisite, projecten gerelateerd aan deze websites (nieuwe functionaliteiten, technische/security verbeteringen, accessibility,...) ism business redactie teams, designteam. </span></p> \n<p><span>Integratie van widgets en ondersteuning van toepassing met onze headless headers/footers en services.</span></p> \n<p><strong><span>Welke technologieën worden gebruikt in de afdeling?</span></strong></p> \n<p><span>Drupal-stack, Elasticsearch engine (er is een project om te migreren naar Opensearch), authenticatie door een derde partij (IAM), testingstack (Behat en Backstop JS)</span></p> \n<p><span>Raakvlak teams werken meestal met de Java stack, maar er zijn ook AI en data teams.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70576422",
       "internal": false,
@@ -3898,48 +3928,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17726",
-      "internal": false,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17726",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Jobstudent Justitie"
-      },
-      "displayTitle": "Jobstudent Justitie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Wegens de grote toevloed van kandidaten voor deze vacature, wordt deze vacature vroegtijdig op 06/03/2025 stopgezet.&nbsp;</strong></p><p>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Gent, Justitiehuis Mechelen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><ul><li>Het beantwoorden van telefonische oproepen en deze correct doorverwijzen</li></ul><ul><li>Het onthaal van bezoekers</li><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen</li><li>Organiseren en verzorgen van een klassement</li><li>Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)Voorbereiden, opstellen en nakijken vandocumenten (rapporten, formulieren, lijsten...)</li><li>Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br></li></ul>",
-        "htmlEncoded": "<p><strong>Wegens de grote toevloed van kandidaten voor deze vacature, wordt deze vacature vroegtijdig op 06/03/2025 stopgezet.&nbsp;</strong></p><p>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Gent, Justitiehuis Mechelen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><ul><li>Het beantwoorden van telefonische oproepen en deze correct doorverwijzen</li></ul><ul><li>Het onthaal van bezoekers</li><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen</li><li>Organiseren en verzorgen van een klassement</li><li>Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)Voorbereiden, opstellen en nakijken vandocumenten (rapporten, formulieren, lijsten...)</li><li>Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br></li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Mechelen"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17712",
       "internal": false,
       "validThroughDate": "1742774400",
@@ -5432,41 +5420,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17513",
-      "internal": true,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17513",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "inspecteur dierenwelzijn"
-      },
-      "displayTitle": "inspecteur dierenwelzijn",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br> <br> De functie van Inspecteur Dierenwelzijn is gesitueerd binnen het team Inspectie Dierenwelzijn en heeft tot doel de controles op het terrein uit te voeren en daaropvolgend de gepaste acties en/of maatregelen te nemen.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br> <br> De functie van Inspecteur Dierenwelzijn is gesitueerd binnen het team Inspectie Dierenwelzijn en heeft tot doel de controles op het terrein uit te voeren en daaropvolgend de gepaste acties en/of maatregelen te nemen.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17510",
       "internal": true,
       "validThroughDate": "1742774400",
@@ -5574,76 +5527,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17501",
-      "internal": true,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17501",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "inspecteur inspectiebeleid dierenwelzijn"
-      },
-      "displayTitle": "inspecteur inspectiebeleid dierenwelzijn",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Inspecteur Inspectiebeleid Dierenwelzijn is gesitueerd binnen het team Inspectiebeleid &amp; Monitoring dat bestaat uit ca. 9 personeelsleden, dit team doet geen terreinwerk. De nadruk van de functie van Inspecteur Inspectiebeleid Dierenwelzijn ligt vooral bij het uitvoeren en afhandelen van administratieve controles op non-conformiteiten en informatieformulieren m.b.t. inrichtingen in alle diersectoren (vb. slachthuizen, veebedrijven,…) en particulieren (vb. opstellen processen-verbaal).<span>&nbsp; </span>Daarnaast verlenen, weigeren of intrekken van erkenningen, beoordeling dierenartskosten en het opmaken van bestemmingsbeslissingen na inbeslagname van dieren.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Inspecteur Inspectiebeleid Dierenwelzijn is gesitueerd binnen het team Inspectiebeleid &amp; Monitoring dat bestaat uit ca. 9 personeelsleden, dit team doet geen terreinwerk. De nadruk van de functie van Inspecteur Inspectiebeleid Dierenwelzijn ligt vooral bij het uitvoeren en afhandelen van administratieve controles op non-conformiteiten en informatieformulieren m.b.t. inrichtingen in alle diersectoren (vb. slachthuizen, veebedrijven,…) en particulieren (vb. opstellen processen-verbaal).<span>&nbsp; </span>Daarnaast verlenen, weigeren of intrekken van erkenningen, beoordeling dierenartskosten en het opmaken van bestemmingsbeslissingen na inbeslagname van dieren.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17499",
-      "internal": true,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17499",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Controleur inspectiebeleid dierenwelzijn"
-      },
-      "displayTitle": "Controleur inspectiebeleid dierenwelzijn",
-      "isProtected": false,
-      "description": {
-        "raw": "<span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br></span><div><span> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br><br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Controleur inspectiebeleid dierenwelzijn is gesitueerd binnen het team Inspectiebeleid &amp; Monitoring dat bestaat uit ca. 9 personeelsleden, dit team doet geen terreinwerk. De nadruk van de functie van Controleur Inspectiebeleid Dierenwelzijn ligt vooral bij het uitvoeren en afhandelen van administratieve controles op non-conformiteiten en informatieformulieren m.b.t. inrichtingen in alle diersectoren (vb. slachthuizen, veebedrijven,…) en particulieren (vb. opstellen processen-verbaal).&nbsp; Daarnaast verlenen, weigeren of intrekken van erkenningen en het opmaken van bestemmingsbeslissingen na inbeslagname van dieren.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></div><br>",
-        "htmlEncoded": "<span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br></span><div><span> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br><br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Controleur inspectiebeleid dierenwelzijn is gesitueerd binnen het team Inspectiebeleid &amp; Monitoring dat bestaat uit ca. 9 personeelsleden, dit team doet geen terreinwerk. De nadruk van de functie van Controleur Inspectiebeleid Dierenwelzijn ligt vooral bij het uitvoeren en afhandelen van administratieve controles op non-conformiteiten en informatieformulieren m.b.t. inrichtingen in alle diersectoren (vb. slachthuizen, veebedrijven,…) en particulieren (vb. opstellen processen-verbaal).&nbsp; Daarnaast verlenen, weigeren of intrekken van erkenningen en het opmaken van bestemmingsbeslissingen na inbeslagname van dieren.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></div><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17497",
       "internal": false,
       "validThroughDate": "1742342400",
@@ -5704,41 +5587,6 @@
       "description": {
         "raw": "<div>De afdeling Infrastructuur (Infra) zorgt voor inspirerende, innovatieve leeromgevingen in veilige, gezonde en comfortabele gebouwen die de favoriete leerplek vormen van elke lerende die voor het GO! kiest. Als Financieel Analist werk je binnen de infrastructuurafdeling en neem je de financiële regie in complexe investeringsprojecten. Je vertaalt financiële data naar strategische adviezen voor besluitvorming op hoog niveau.</div><p>&nbsp;</p><div></div><div></div><div><strong>Jouw belangrijkste verantwoordelijkheden:</strong></div><ul><li>Analyse &amp; Rapportage: Voeren van diepgaande financiële analyses van investeringsprojecten, budgetbeheer en financiële forecastings. Je werkt hiervoor samen met het team contractmanagement van de afdeling en de dienst boekhouding van de centrale diensten.</li><li>Beleidsadvies: Ontwikkelen van financiële strategieën voor duurzame infrastructuurontwikkeling.</li><li>Risicobeheer: Identificeren van financiële risico’s en ontwikkelen van beheersmaatregelen.</li><li>Data-gestuurd Werken: Opstellen van dashboards en KPI’s voor helder en strategisch beleidsadvies aan je collega’s van de staf van de afdeling.</li><li>Stakeholdermanagement: Samenwerken met interne en externe partners zoals projectleiders, architecten en overheidsinstanties in rapportering van projecten en budgetbeheersing.</li></ul>",
         "htmlEncoded": "<div>De afdeling Infrastructuur (Infra) zorgt voor inspirerende, innovatieve leeromgevingen in veilige, gezonde en comfortabele gebouwen die de favoriete leerplek vormen van elke lerende die voor het GO! kiest. Als Financieel Analist werk je binnen de infrastructuurafdeling en neem je de financiële regie in complexe investeringsprojecten. Je vertaalt financiële data naar strategische adviezen voor besluitvorming op hoog niveau.</div><p>&nbsp;</p><div></div><div></div><div><strong>Jouw belangrijkste verantwoordelijkheden:</strong></div><ul><li>Analyse &amp; Rapportage: Voeren van diepgaande financiële analyses van investeringsprojecten, budgetbeheer en financiële forecastings. Je werkt hiervoor samen met het team contractmanagement van de afdeling en de dienst boekhouding van de centrale diensten.</li><li>Beleidsadvies: Ontwikkelen van financiële strategieën voor duurzame infrastructuurontwikkeling.</li><li>Risicobeheer: Identificeren van financiële risico’s en ontwikkelen van beheersmaatregelen.</li><li>Data-gestuurd Werken: Opstellen van dashboards en KPI’s voor helder en strategisch beleidsadvies aan je collega’s van de staf van de afdeling.</li><li>Stakeholdermanagement: Samenwerken met interne en externe partners zoals projectleiders, architecten en overheidsinstanties in rapportering van projecten en budgetbeheersing.</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17493",
-      "internal": true,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17493",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Administratief ondersteuner dierenwelzijn"
-      },
-      "displayTitle": "Administratief ondersteuner dierenwelzijn",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Administratief Ondersteuner Dierenwelzijn is gesitueerd binnen het team Coördinatie en Financiën en bestaat hoofdzakelijk uit het ondersteunen van de processen en de dagdagelijkse werking van de verschillende teams binnen de afdeling met als doel ervoor te zorgen dat de (interne) processen efficiënt, correct en klantvriendelijk verlopen en tevens de procedures, wet- en regelgeving worden gerespecteerd.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>De afdeling Dierenwelzijn Vlaanderen van het departement Omgeving staat in voor de voorbereiding, ondersteuning en handhaving van het dierenwelzijnsbeleid en de communicatie en sensibilisering hierrond in Vlaanderen voor gezelschapsdieren, landbouwdieren, exotische dieren en proefdieren. Ze bereidt de erkenningen voor, voor dierenhandelszaken, dierenasielen, dierenpensions, dierentuinen, kwekers van honden en katten, proefdierlabo's en houdt tevens toezicht op deze inrichtingen en andere plaatsen waar dieren gehouden worden, met inbegrip van het behandelen van klachten hierover.<br><br> De afdeling doet ook voorstellen van administratieve boetes bij overtredingen en vordert kosten voor opvang van in beslag genomen dieren terug bij overtreders. Ten slotte wordt ook voorzien in ondersteuning en begeleiding voor een aantal adviesorganen (Raad voor Dierenwelzijn, Proefdierencommissie en Dierentuinencommissie) en wordt er wetenschappelijk onderzoek inzake dierenwelzijn georganiseerd en opgevolgd.<br> <br> De afdeling Dierenwelzijn Vlaanderen bestaat uit 4 teams: Beleid Dierenwelzijn, Inspectie Dierenwelzijn, Inspectiebeleid &amp; Monitoring en tenslotte Coördinatie &amp; Financiën.<br><br> De functie van Administratief Ondersteuner Dierenwelzijn is gesitueerd binnen het team Coördinatie en Financiën en bestaat hoofdzakelijk uit het ondersteunen van de processen en de dagdagelijkse werking van de verschillende teams binnen de afdeling met als doel ervoor te zorgen dat de (interne) processen efficiënt, correct en klantvriendelijk verlopen en tevens de procedures, wet- en regelgeving worden gerespecteerd.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -7008,41 +6856,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17179",
-      "internal": false,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17179",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Dossierbeheerder rechtspraktijk"
-      },
-      "displayTitle": "Dossierbeheerder rechtspraktijk",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie coördineert en ontwikkelt het Vlaams werkgelegenheidsbeleid en ondersteunt de werkgelegenheid in diverse sectoren. Deze functies bevinden zich binnen de Afdeling Tewerkstelling en Competenties, specifiek bij de Dienst Economische Migratie (2 functies) en de Dienst Dienstencheques en Uitzendkantoren (1 functie).</p><p>De Dienst Economische Migratie beoordeelt aanvragen van werkgevers om buitenlandse arbeidskrachten tewerk te stellen en aanvragen van buitenlandse zelfstandigen om een economische activiteit op te starten. Dossierbeheerders analyseren, beoordelen en beslissen dossiers zelfstandig volgens de geldende procedures. Als dossierbeheerder rechtspraktijk behandel je specifiek beroepsprocedures en adviseer je de minister hierin. Je groeit uit tot een dossierbeheerder die beroepsdossiers analyseert om tot een gebalanceerd en gemotiveerd advies te komen. Je bijt je vast in het analyseren en doorworstelen van complexe vraagstukken binnen economische migratie, en je kan de motivering helder formuleren in een schriftelijk advies. Hierbij word je inhoudelijk ondersteund en aangestuurd door een jurist.</p><p>De Dienst Dienstencheques en Uitzendkantoren volgt het dienstenchequesysteem op in al zijn aspecten en behandelt onder andere inbreuk- en geschillendossiers. Als dossierbeheerder analyseer en beoordeel je deze dossiers volgens de bestaande procedures en onderhoud je in die context contacten met ondernemingen en advocaten. Daarnaast werk je mee aan de verbetering van de dienstverlening via digitalisering en optimalisatie. Je groeit uit tot een materie-expert dienstencheques.<br>Je bijt je vast in het analyseren en doorworstelen van complexe vraagstukken binnen de eigen maatregelen, en kan de motivering helder formuleren in een advies. Hierbij word je inhoudelijk ondersteund en aangestuurd door een jurist. In beide diensten wordt van jou verwacht dat je proactief optreedt, verbetervoorstellen formuleert en sterk communicatief bent naar collega’s, partners en stakeholders toe.</p><p>Ben je nieuwsgierig om een maatregel vanuit dossierbehandeling, wetgeving en IT te leren kennen? Zoek je graag naar verbeterkansen? Dan is deze job misschien iets voor jou! Wij zoeken drie nieuwe collega’s die zich willen verdiepen in een maatregel, expertise willen opbouwen en mee willen werken aan het optimaliseren van onze interne (digitale) werking om efficiënter en klantgerichter te werken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie coördineert en ontwikkelt het Vlaams werkgelegenheidsbeleid en ondersteunt de werkgelegenheid in diverse sectoren. Deze functies bevinden zich binnen de Afdeling Tewerkstelling en Competenties, specifiek bij de Dienst Economische Migratie (2 functies) en de Dienst Dienstencheques en Uitzendkantoren (1 functie).</p><p>De Dienst Economische Migratie beoordeelt aanvragen van werkgevers om buitenlandse arbeidskrachten tewerk te stellen en aanvragen van buitenlandse zelfstandigen om een economische activiteit op te starten. Dossierbeheerders analyseren, beoordelen en beslissen dossiers zelfstandig volgens de geldende procedures. Als dossierbeheerder rechtspraktijk behandel je specifiek beroepsprocedures en adviseer je de minister hierin. Je groeit uit tot een dossierbeheerder die beroepsdossiers analyseert om tot een gebalanceerd en gemotiveerd advies te komen. Je bijt je vast in het analyseren en doorworstelen van complexe vraagstukken binnen economische migratie, en je kan de motivering helder formuleren in een schriftelijk advies. Hierbij word je inhoudelijk ondersteund en aangestuurd door een jurist.</p><p>De Dienst Dienstencheques en Uitzendkantoren volgt het dienstenchequesysteem op in al zijn aspecten en behandelt onder andere inbreuk- en geschillendossiers. Als dossierbeheerder analyseer en beoordeel je deze dossiers volgens de bestaande procedures en onderhoud je in die context contacten met ondernemingen en advocaten. Daarnaast werk je mee aan de verbetering van de dienstverlening via digitalisering en optimalisatie. Je groeit uit tot een materie-expert dienstencheques.<br>Je bijt je vast in het analyseren en doorworstelen van complexe vraagstukken binnen de eigen maatregelen, en kan de motivering helder formuleren in een advies. Hierbij word je inhoudelijk ondersteund en aangestuurd door een jurist. In beide diensten wordt van jou verwacht dat je proactief optreedt, verbetervoorstellen formuleert en sterk communicatief bent naar collega’s, partners en stakeholders toe.</p><p>Ben je nieuwsgierig om een maatregel vanuit dossierbehandeling, wetgeving en IT te leren kennen? Zoek je graag naar verbeterkansen? Dan is deze job misschien iets voor jou! Wij zoeken drie nieuwe collega’s die zich willen verdiepen in een maatregel, expertise willen opbouwen en mee willen werken aan het optimaliseren van onze interne (digitale) werking om efficiënter en klantgerichter te werken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17172",
       "internal": false,
       "validThroughDate": "1741478400",
@@ -7293,38 +7106,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-16930",
-      "internal": false,
-      "validThroughDate": "1741219200",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-16930",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Directeur ondersteunende diensten gemeenschapsinstelling de Grubbe"
-      },
-      "displayTitle": "Directeur ondersteunende diensten gemeenschapsinstelling de Grubbe",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij een geboren leider met een passie voor organisatie en efficiëntie? Als directeur ondersteunende diensten ben jij de drijvende kracht achter de ondersteuning van onze kernprocessen. Je bent verantwoordelijk voor het aansturen, evalueren, bijsturen en meten van de effectiviteit van alle ondersteunende processen binnen onze instelling. Jouw werk zorgt ervoor dat onze pedagogische, onderwijs- en therapeutische teams kunnen excelleren.</div><div>Lees hieronder meer over het gezochte profiel en de selectieprocedure. Download dit document en hou het bij.&nbsp; We kijken ernaar uit om jou te ontmoeten en samen te werken aan een sterke toekomst voor kinderen en gezinnen!&nbsp;</div>",
-        "htmlEncoded": "<div>Ben jij een geboren leider met een passie voor organisatie en efficiëntie? Als directeur ondersteunende diensten ben jij de drijvende kracht achter de ondersteuning van onze kernprocessen. Je bent verantwoordelijk voor het aansturen, evalueren, bijsturen en meten van de effectiviteit van alle ondersteunende processen binnen onze instelling. Jouw werk zorgt ervoor dat onze pedagogische, onderwijs- en therapeutische teams kunnen excelleren.</div><div>Lees hieronder meer over het gezochte profiel en de selectieprocedure. Download dit document en hou het bij.&nbsp; We kijken ernaar uit om jou te ontmoeten en samen te werken aan een sterke toekomst voor kinderen en gezinnen!&nbsp;</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Everberg"
           }
         }
       ]
