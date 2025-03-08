@@ -1,29 +1,29 @@
 {
-  "totalItems": 195,
+  "totalItems": 192,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 194,
+  "lastItemOfPage": 191,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 195,
+        "count": 192,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 195,
+        "count": 192,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 129,
+        "count": 127,
         "label": "Brussel"
       },
       {
@@ -33,7 +33,7 @@
       },
       {
         "value": "Hasselt",
-        "count": 9,
+        "count": 10,
         "label": "Hasselt"
       },
       {
@@ -43,7 +43,7 @@
       },
       {
         "value": "Leuven",
-        "count": 6,
+        "count": 5,
         "label": "Leuven"
       },
       {
@@ -82,11 +82,6 @@
         "label": "Wondelgem"
       },
       {
-        "value": "Aalst",
-        "count": 2,
-        "label": "Aalst"
-      },
-      {
         "value": "Evergem",
         "count": 2,
         "label": "Evergem"
@@ -100,6 +95,16 @@
         "value": "Sint-Gillis",
         "count": 2,
         "label": "Sint-Gillis"
+      },
+      {
+        "value": "Turnhout",
+        "count": 2,
+        "label": "Turnhout"
+      },
+      {
+        "value": "Aalst",
+        "count": 1,
+        "label": "Aalst"
       },
       {
         "value": "Beernem",
@@ -177,11 +182,6 @@
         "label": "Tienen"
       },
       {
-        "value": "Turnhout",
-        "count": 1,
-        "label": "Turnhout"
-      },
-      {
         "value": "Wemmel",
         "count": 1,
         "label": "Wemmel"
@@ -195,7 +195,7 @@
     "contentSubtypeData__domain": [
       {
         "value": "ICT",
-        "count": 68,
+        "count": 67,
         "label": "ICT"
       },
       {
@@ -225,7 +225,7 @@
       },
       {
         "value": "Onderzoek en ontwikkeling",
-        "count": 8,
+        "count": 7,
         "label": "Onderzoek en ontwikkeling"
       },
       {
@@ -240,7 +240,7 @@
       },
       {
         "value": "Milieu/omgeving",
-        "count": 6,
+        "count": 5,
         "label": "Milieu/omgeving"
       },
       {
@@ -297,31 +297,31 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 195,
+        "count": 192,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 182,
+        "count": 180,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 13,
+        "count": 12,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 165,
+        "count": 163,
         "label": "Vaste job"
       },
       {
         "value": "Bepaalde duur",
-        "count": 21,
+        "count": 20,
         "label": "Bepaalde duur"
       },
       {
@@ -343,12 +343,12 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 86,
+        "count": 84,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 81,
+        "count": 77,
         "label": "Masterdiploma"
       },
       {
@@ -370,7 +370,7 @@
       },
       {
         "value": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-        "count": 10,
+        "count": 12,
         "label": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"
       },
       {
@@ -382,11 +382,6 @@
         "value": "Agentschap Wegen en Verkeer",
         "count": 8,
         "label": "Agentschap Wegen en Verkeer"
-      },
-      {
-        "value": "Opgroeien",
-        "count": 6,
-        "label": "Opgroeien"
       },
       {
         "value": "Sport Vlaanderen",
@@ -409,9 +404,9 @@
         "label": "Openbaar Psychiatrisch Zorgcentrum"
       },
       {
-        "value": "agentschap Digitaal Vlaanderen",
+        "value": "Opgroeien",
         "count": 5,
-        "label": "agentschap Digitaal Vlaanderen"
+        "label": "Opgroeien"
       },
       {
         "value": "Agentschap voor Maritieme Dienstverlening en Kust",
@@ -434,14 +429,19 @@
         "label": "GO! onderwijs van de Vlaamse Gemeenschap"
       },
       {
-        "value": "Opgroeien regie",
-        "count": 4,
-        "label": "Opgroeien regie"
-      },
-      {
         "value": "Vlaamse Landmaatschappij",
         "count": 4,
         "label": "Vlaamse Landmaatschappij"
+      },
+      {
+        "value": "agentschap Digitaal Vlaanderen",
+        "count": 4,
+        "label": "agentschap Digitaal Vlaanderen"
+      },
+      {
+        "value": "Opgroeien regie",
+        "count": 3,
+        "label": "Opgroeien regie"
       },
       {
         "value": "Technologie en Voeding 115",
@@ -497,11 +497,6 @@
         "value": "Departement Kanselarij en Buitenlandse Zaken",
         "count": 1,
         "label": "Departement Kanselarij en Buitenlandse Zaken"
-      },
-      {
-        "value": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
-        "count": 1,
-        "label": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie"
       },
       {
         "value": "Departement Zorg",
@@ -579,11 +574,6 @@
         "label": "Vlaams Energie- en Klimaatagentschap"
       },
       {
-        "value": "Vlaamse Milieumaatschappij",
-        "count": 1,
-        "label": "Vlaamse Milieumaatschappij"
-      },
-      {
         "value": "vzw 'de Rand'",
         "count": 1,
         "label": "vzw 'de Rand'"
@@ -592,7 +582,7 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 107,
+        "count": 104,
         "label": "false"
       }
     ]
@@ -4478,6 +4468,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17646",
+      "internal": false,
+      "validThroughDate": "1742947200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17646",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Administratief medewerker regio Kempen"
+      },
+      "displayTitle": "Administratief medewerker regio Kempen",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Het administratief team van provincie Antwerpen is op zoek naar een enthousiaste collega die zich wil inzetten voor de correcte opvolging van administratieve taken en onthaaltaken in de <strong>regio Turnhout, Geel, Mol en Herentals.</strong></div><div></div><div>Als administratief medewerker sta je in voor alle administratie van nieuwe cursisten die een opleiding starten bij VDAB. Je maakt de contracten op en zorgt ervoor dat vergoedingen correct op hun rekening komen. Je volgt op of iedereen aanwezig is bij de opleidingen en registreert de opleidingsuren van cursisten. Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>Je voert je taken uit met de nodige stressbestendigheid en steeds met een glimlach en klantvriendelijke houding.&nbsp;&nbsp;</div><div>Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>&nbsp;&nbsp;</div><div>Daarnaast sta je in voor een professioneel onthaal van bezoekers op meerdere VDAB-locaties regio Kempen. Dit betekent dat je op vaste dagen en/of als back-up het onthaal verzorgt op 1 of 2 locaties. Afhankelijk van de locatie ben je om 07.30 uur of om 08.30 uur op kantoor.</div><ul><li>Je ontvangt de bezoekers op een klantvriendelijke manier.</li><li>Je helpt werkzoekenden om gebruik te maken van de kiosk, de zelfbedieningspc’s en de telefoon naar de Servicelijn.</li><li>Je levert een aantal attesten/documenten af.</li><li>Taalbarrières schrikken je niet af, en je zorgt ervoor dat elke cursist of klant correct en professioneel geholpen wordt.</li></ul><div>&nbsp;&nbsp;</div><div>Je teamleider maakt samen met jou de planning op voor de cursistenadministratie en het onthaal.</div>",
+        "htmlEncoded": "<div>Het administratief team van provincie Antwerpen is op zoek naar een enthousiaste collega die zich wil inzetten voor de correcte opvolging van administratieve taken en onthaaltaken in de <strong>regio Turnhout, Geel, Mol en Herentals.</strong></div><div></div><div>Als administratief medewerker sta je in voor alle administratie van nieuwe cursisten die een opleiding starten bij VDAB. Je maakt de contracten op en zorgt ervoor dat vergoedingen correct op hun rekening komen. Je volgt op of iedereen aanwezig is bij de opleidingen en registreert de opleidingsuren van cursisten. Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>Je voert je taken uit met de nodige stressbestendigheid en steeds met een glimlach en klantvriendelijke houding.&nbsp;&nbsp;</div><div>Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>&nbsp;&nbsp;</div><div>Daarnaast sta je in voor een professioneel onthaal van bezoekers op meerdere VDAB-locaties regio Kempen. Dit betekent dat je op vaste dagen en/of als back-up het onthaal verzorgt op 1 of 2 locaties. Afhankelijk van de locatie ben je om 07.30 uur of om 08.30 uur op kantoor.</div><ul><li>Je ontvangt de bezoekers op een klantvriendelijke manier.</li><li>Je helpt werkzoekenden om gebruik te maken van de kiosk, de zelfbedieningspc’s en de telefoon naar de Servicelijn.</li><li>Je levert een aantal attesten/documenten af.</li><li>Taalbarrières schrikken je niet af, en je zorgt ervoor dat elke cursist of klant correct en professioneel geholpen wordt.</li></ul><div>&nbsp;&nbsp;</div><div>Je teamleider maakt samen met jou de planning op voor de cursistenadministratie en het onthaal.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Turnhout"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17643",
       "internal": false,
       "validThroughDate": "1741737600",
@@ -4543,41 +4565,6 @@
         {
           "address": {
             "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17616",
-      "internal": false,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17616",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Klachtendeskundige Jeugdhulp"
-      },
-      "displayTitle": "Klachtendeskundige Jeugdhulp",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Opgroeipunt is&nbsp;het telefonisch en online meldpunt van Opgroeien. &nbsp;<br>Jongeren, ouders en zorgverleners kunnen er terecht om een melding te delen over zowel de dienstverlening van Opgroeien als over de voorzieningen die Opgroeien erkent en subsidieert.&nbsp;<br><br>De dienstverlening gaat van preventieve gezinsondersteuning, Kind en Gezin, kinderopvang en het Groeipakket over pleegzorg, adoptie en jeugdhulp tot de aanpak van jongeren die delicten plegen.<br>Als klachtendeskundige ben je een belangrijke schakel in de regie en opvolging van de klachtenbehandeling over alle sectoren waar Opgroeien actief is en over de eigen dienstverlening.</p><p>Zo sta je onder andere in voor:</p><ul><li>het behandelen van klachten over de dienstverlening van Opgroeienµ</li><li>het behandelen van klachten over de door Opgroeien erkende of vergunde organisatoren</li><li>het ondersteunen van de medewerkers van Opgroeien bij de behandeling en opvolging van klachten</li><li>het adviseren van klanten m.b.t. de klachten en het bieden van een passend antwoord of voorstel op de situatie</li><li>het informeren van klachtindieners en/of doorverwijzen naar de gepaste dienstverlening</li><li>het geven van uitleg rond procedures, dienstverlening …&nbsp;</li><li>het behandelen van klachten en meldingen en het instaan voor de terugkoppeling aan de verschillende betrokken actoren</li><li>het bijhouden van het klachtenregistratiesysteem door het verzamelen, invoeren en verwerken van data<br>rapportage</li><li>het voortdurend bewaken en verbeteren van de kwaliteit rond de eigen dienstverlening&nbsp;</li><li>…&nbsp;</li></ul><p>Het volledige overzicht van de taken vind je in het functieprofiel in de bijlage van deze vacature.&nbsp;</p>",
-        "htmlEncoded": "<p>Opgroeipunt is&nbsp;het telefonisch en online meldpunt van Opgroeien. &nbsp;<br>Jongeren, ouders en zorgverleners kunnen er terecht om een melding te delen over zowel de dienstverlening van Opgroeien als over de voorzieningen die Opgroeien erkent en subsidieert.&nbsp;<br><br>De dienstverlening gaat van preventieve gezinsondersteuning, Kind en Gezin, kinderopvang en het Groeipakket over pleegzorg, adoptie en jeugdhulp tot de aanpak van jongeren die delicten plegen.<br>Als klachtendeskundige ben je een belangrijke schakel in de regie en opvolging van de klachtenbehandeling over alle sectoren waar Opgroeien actief is en over de eigen dienstverlening.</p><p>Zo sta je onder andere in voor:</p><ul><li>het behandelen van klachten over de dienstverlening van Opgroeienµ</li><li>het behandelen van klachten over de door Opgroeien erkende of vergunde organisatoren</li><li>het ondersteunen van de medewerkers van Opgroeien bij de behandeling en opvolging van klachten</li><li>het adviseren van klanten m.b.t. de klachten en het bieden van een passend antwoord of voorstel op de situatie</li><li>het informeren van klachtindieners en/of doorverwijzen naar de gepaste dienstverlening</li><li>het geven van uitleg rond procedures, dienstverlening …&nbsp;</li><li>het behandelen van klachten en meldingen en het instaan voor de terugkoppeling aan de verschillende betrokken actoren</li><li>het bijhouden van het klachtenregistratiesysteem door het verzamelen, invoeren en verwerken van data<br>rapportage</li><li>het voortdurend bewaken en verbeteren van de kwaliteit rond de eigen dienstverlening&nbsp;</li><li>…&nbsp;</li></ul><p>Het volledige overzicht van de taken vind je in het functieprofiel in de bijlage van deze vacature.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": ""
           }
         }
       ]
@@ -4788,6 +4775,70 @@
       "description": {
         "raw": "<p><span>Heb je interesse in landbouw- en visserijbeleid en wil je bijdragen aan de ontwikkeling ervan? Dan ben jij de ideale kandidaat!</span></p> <p><span>De stikstofproblematiek in de Vlaamse landbouwsector vraagt om efficiënte oplossingen. Ons agentschap ondersteunt landbouwers bij het beperken van uitstoot via advies, investeringen en subsidies uit het Gemeenschappelijk Landbouwbeleid. Daarnaast lanceren we innovatieve projecten en begeleiden we deze na goedkeuring.</span></p> <p><span>Als beleidsadviseur hou je overzicht over Europese en Vlaamse initiatieven, werk je samen met stakeholders en collega’s, en ontwikkel je haalbare beleidsvoorstellen. Je coördineert innovatieve projecten rond stikstofreductie en volgt de resultaten op.</span></p><p><span><strong>Lees meer\nover de job en het selectieproces in het selectiereglement als bijlage bij\n‘meer informatie’. Download dit document en hou het bij.</strong></span></p>",
         "htmlEncoded": "<p><span>Heb je interesse in landbouw- en visserijbeleid en wil je bijdragen aan de ontwikkeling ervan? Dan ben jij de ideale kandidaat!</span></p> <p><span>De stikstofproblematiek in de Vlaamse landbouwsector vraagt om efficiënte oplossingen. Ons agentschap ondersteunt landbouwers bij het beperken van uitstoot via advies, investeringen en subsidies uit het Gemeenschappelijk Landbouwbeleid. Daarnaast lanceren we innovatieve projecten en begeleiden we deze na goedkeuring.</span></p> <p><span>Als beleidsadviseur hou je overzicht over Europese en Vlaamse initiatieven, werk je samen met stakeholders en collega’s, en ontwikkel je haalbare beleidsvoorstellen. Je coördineert innovatieve projecten rond stikstofreductie en volgt de resultaten op.</span></p><p><span><strong>Lees meer\nover de job en het selectieproces in het selectiereglement als bijlage bij\n‘meer informatie’. Download dit document en hou het bij.</strong></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17589",
+      "internal": true,
+      "validThroughDate": "1742860800",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17589",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamleider Digitale Dienstverlening"
+      },
+      "displayTitle": "Teamleider Digitale Dienstverlening",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een gedreven leider met een passie voor kwaliteit, innovatie en samenwerking? Als Teamleider Servicelijn bij VDAB ben je verantwoordelijk voor het operationeel aansturen van je team, terwijl je tegelijkertijd meewerkt aan het bredere beleid van VDAB.</div><div></div><div>Je houdt toezicht op de kwaliteit en productiecijfers en neemt een deel aan projecten. Dit doe je in nauwe samenwerking met zowel interne als externe collega’s. Het werkkader van de servicelijn is specifiek en afgebakend, waardoor je binnen duidelijke structuren autonoom moet kunnen functioneren. Tegelijkertijd wordt er flexibiliteit verwacht om met deze kaders om te gaan.</div><div>Je faciliteert een werkomgeving waarin medewerkers optimaal kunnen presteren en neemt de nodige initiatieven om de prestaties te evalueren en waar nodig bij te sturen op basis van kwaliteits- en productiecijfers.</div><div>De focus in deze functie ligt op het leiden en coachen van een team die hoofdzakelijk communiceert met de werkzoekende/werknemer.&nbsp;&nbsp;</div><div></div><ul><li>Je bent het aanpreekpunt voor je teamleden en je hebt een signaalfunctie bij knelpunten.</li><li>Je coacht je teamleden op inhoudelijke taken, klantgerichtheid, samenwerking, servicelevels, arbeidsattitude, … op maat en je zorgt voor de rapportering ervan.</li><li>Je vertaalt dienstdoelstellingen en beslissingen overtuigend naar de werkvloer en via teammeetings.&nbsp;&nbsp;</li></ul><div>&nbsp;&nbsp;</div><div></div><div>Het welzijn van medewerkers is een belangrijk aspect binnen je takenpakket, waarbij je aandacht besteedt aan hun ontwikkeling en voortgang, en gesprekken voert over bijvoorbeeld progressie en ziekteverzuim. Tot slot neem je deel aan overleggen met andere teamleiders en onderhoud je structureel 1-op-1 contact met je leidinggevende.</div>",
+        "htmlEncoded": "<div>Ben jij een gedreven leider met een passie voor kwaliteit, innovatie en samenwerking? Als Teamleider Servicelijn bij VDAB ben je verantwoordelijk voor het operationeel aansturen van je team, terwijl je tegelijkertijd meewerkt aan het bredere beleid van VDAB.</div><div></div><div>Je houdt toezicht op de kwaliteit en productiecijfers en neemt een deel aan projecten. Dit doe je in nauwe samenwerking met zowel interne als externe collega’s. Het werkkader van de servicelijn is specifiek en afgebakend, waardoor je binnen duidelijke structuren autonoom moet kunnen functioneren. Tegelijkertijd wordt er flexibiliteit verwacht om met deze kaders om te gaan.</div><div>Je faciliteert een werkomgeving waarin medewerkers optimaal kunnen presteren en neemt de nodige initiatieven om de prestaties te evalueren en waar nodig bij te sturen op basis van kwaliteits- en productiecijfers.</div><div>De focus in deze functie ligt op het leiden en coachen van een team die hoofdzakelijk communiceert met de werkzoekende/werknemer.&nbsp;&nbsp;</div><div></div><ul><li>Je bent het aanpreekpunt voor je teamleden en je hebt een signaalfunctie bij knelpunten.</li><li>Je coacht je teamleden op inhoudelijke taken, klantgerichtheid, samenwerking, servicelevels, arbeidsattitude, … op maat en je zorgt voor de rapportering ervan.</li><li>Je vertaalt dienstdoelstellingen en beslissingen overtuigend naar de werkvloer en via teammeetings.&nbsp;&nbsp;</li></ul><div>&nbsp;&nbsp;</div><div></div><div>Het welzijn van medewerkers is een belangrijk aspect binnen je takenpakket, waarbij je aandacht besteedt aan hun ontwikkeling en voortgang, en gesprekken voert over bijvoorbeeld progressie en ziekteverzuim. Tot slot neem je deel aan overleggen met andere teamleiders en onderhoud je structureel 1-op-1 contact met je leidinggevende.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17588",
+      "internal": true,
+      "validThroughDate": "1742860800",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17588",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamleider Digitale Dienstverlening"
+      },
+      "displayTitle": "Teamleider Digitale Dienstverlening",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een gedreven leider met een passie voor kwaliteit, innovatie en samenwerking? Als Teamleider Servicelijn bij VDAB ben je verantwoordelijk voor het operationeel aansturen van je team, terwijl je tegelijkertijd meewerkt aan het bredere beleid van VDAB.</div><div></div><div>Je houdt toezicht op de kwaliteit en productiecijfers en neemt een deel aan projecten. Dit doe je in nauwe samenwerking met zowel interne als externe collega’s. Het werkkader van de servicelijn is specifiek en afgebakend, waardoor je binnen duidelijke structuren autonoom moet kunnen functioneren. Tegelijkertijd wordt er flexibiliteit verwacht om met deze kaders om te gaan.</div><div>Je faciliteert een werkomgeving waarin medewerkers optimaal kunnen presteren en neemt de nodige initiatieven om de prestaties te evalueren en waar nodig bij te sturen op basis van kwaliteits- en productiecijfers.</div><div>De focus in deze functie ligt op het leiden en coachen van een team die hoofdzakelijk communiceert met de werkzoekende/werknemer.&nbsp;&nbsp;</div><div></div><ul><li>Je bent het aanpreekpunt voor je teamleden en je hebt een signaalfunctie bij knelpunten.</li><li>Je coacht je teamleden op inhoudelijke taken, klantgerichtheid, samenwerking, servicelevels, arbeidsattitude, … op maat en je zorgt voor de rapportering ervan.</li><li>Je vertaalt dienstdoelstellingen en beslissingen overtuigend naar de werkvloer en via teammeetings.&nbsp;&nbsp;</li></ul><div>&nbsp;&nbsp;</div><div></div><div>Het welzijn van medewerkers is een belangrijk aspect binnen je takenpakket, waarbij je aandacht besteedt aan hun ontwikkeling en voortgang, en gesprekken voert over bijvoorbeeld progressie en ziekteverzuim. Tot slot neem je deel aan overleggen met andere teamleiders en onderhoud je structureel 1-op-1 contact met je leidinggevende.</div>",
+        "htmlEncoded": "<div>Ben jij een gedreven leider met een passie voor kwaliteit, innovatie en samenwerking? Als Teamleider Servicelijn bij VDAB ben je verantwoordelijk voor het operationeel aansturen van je team, terwijl je tegelijkertijd meewerkt aan het bredere beleid van VDAB.</div><div></div><div>Je houdt toezicht op de kwaliteit en productiecijfers en neemt een deel aan projecten. Dit doe je in nauwe samenwerking met zowel interne als externe collega’s. Het werkkader van de servicelijn is specifiek en afgebakend, waardoor je binnen duidelijke structuren autonoom moet kunnen functioneren. Tegelijkertijd wordt er flexibiliteit verwacht om met deze kaders om te gaan.</div><div>Je faciliteert een werkomgeving waarin medewerkers optimaal kunnen presteren en neemt de nodige initiatieven om de prestaties te evalueren en waar nodig bij te sturen op basis van kwaliteits- en productiecijfers.</div><div>De focus in deze functie ligt op het leiden en coachen van een team die hoofdzakelijk communiceert met de werkzoekende/werknemer.&nbsp;&nbsp;</div><div></div><ul><li>Je bent het aanpreekpunt voor je teamleden en je hebt een signaalfunctie bij knelpunten.</li><li>Je coacht je teamleden op inhoudelijke taken, klantgerichtheid, samenwerking, servicelevels, arbeidsattitude, … op maat en je zorgt voor de rapportering ervan.</li><li>Je vertaalt dienstdoelstellingen en beslissingen overtuigend naar de werkvloer en via teammeetings.&nbsp;&nbsp;</li></ul><div>&nbsp;&nbsp;</div><div></div><div>Het welzijn van medewerkers is een belangrijk aspect binnen je takenpakket, waarbij je aandacht besteedt aan hun ontwikkeling en voortgang, en gesprekken voert over bijvoorbeeld progressie en ziekteverzuim. Tot slot neem je deel aan overleggen met andere teamleiders en onderhoud je structureel 1-op-1 contact met je leidinggevende.</div>"
       },
       "locations": [
         {
@@ -5210,41 +5261,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17550",
-      "internal": true,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "agentschap Digitaal Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17550",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Productgroepmanager-expert"
-      },
-      "displayTitle": "Productgroepmanager-expert",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een strategische denker met een passie voor data en digitale innovatie? </p><p>Bij Digitaal Vlaanderen krijg je als Productgroep Manager Expert de kans om mee te bouwen aan het datafundament van de toekomst. Je leidt het Team Basiskaart Vlaanderen, beheert cruciale referentiegegevens en bepaalt de product strategie van onze digitale bouwstenen. In nauwe samenwerking met een multidisciplinair team zorg je voor kwaliteitsvolle data-uitwisseling en een sterke dienstverlening aan partners en gebruikers.</p><p>Klaar om impact te maken en Vlaanderen digitaal vooruit te stuwen? Solliciteer nu en maak het verschil!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij</p>",
-        "htmlEncoded": "<p>Ben jij een strategische denker met een passie voor data en digitale innovatie? </p><p>Bij Digitaal Vlaanderen krijg je als Productgroep Manager Expert de kans om mee te bouwen aan het datafundament van de toekomst. Je leidt het Team Basiskaart Vlaanderen, beheert cruciale referentiegegevens en bepaalt de product strategie van onze digitale bouwstenen. In nauwe samenwerking met een multidisciplinair team zorg je voor kwaliteitsvolle data-uitwisseling en een sterke dienstverlening aan partners en gebruikers.</p><p>Klaar om impact te maken en Vlaanderen digitaal vooruit te stuwen? Solliciteer nu en maak het verschil!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5889,41 +5905,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17468",
-      "internal": false,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17468",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundige Kind en Gezin-team Demer-Dijle"
-      },
-      "displayTitle": "Verpleegkundige Kind en Gezin-team Demer-Dijle",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Demer-Dijle, en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>",
-        "htmlEncoded": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Demer-Dijle, en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17464",
       "internal": true,
       "validThroughDate": "1742342400",
@@ -6099,41 +6080,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17445",
-      "internal": false,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17445",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Regulator Watersector"
-      },
-      "displayTitle": "Regulator Watersector",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De WaterRegulator vormt een onafhankelijke entiteit binnen de VMM. We reguleren de drinkwaterprijs, zorgen o.a. voor de tariefregulering van de drinkwatercomponent van de integrale waterfactuur, voor meer transparantie in de Vlaamse watersector, en staan we in voor prestatie- en efficiëntievergelijking van de drinkwaterbedrijven en van de exploitanten van de openbare drinkwatervoorzieningsinfrastructuur. Als WaterRegulator staan we ook in voor het adviseren van de Vlaamse minister bevoegd voor het waterbeleid en bij uitbreiding de Vlaamse Regering over alle aangelegenheden met betrekking tot drinkwater.<br><br>Als 'regulator watersector' bouw je aan de verdere uitbouw van de regulering drinkwater, adviseer je de verantwoordelijke over de tarieven en beoordeel je de tariefplannen van de watermaatschappijen. Je rapporteert over de prestaties en efficiëntie van de drinkwaterbedrijvenmaatschappijen en je adviseert en je bereidt de adviezen aan de Vlaamse minister en de Vlaamse Regering inhoudelijk voor. Ook breng je Vlaamse goede praktijken onder de aandacht in de (inter)nationale overlegfora.&nbsp;<br>Tenslotte werk je mee aan projecten en studies gerelateerd aan de financiering van de drinkwatervoorziening.<br><br>De functie draagt bij aan de missie van VMM om voor de huidige en toekomstige generaties in Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen,&nbsp;</li><li>gezonde lucht te bewerkstelligen,&nbsp;</li><li>de klimaatadaptatie mee te sturen.</li></ul><p>De functie onderschrijft de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige&nbsp;<br>leefomgeving.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>De WaterRegulator vormt een onafhankelijke entiteit binnen de VMM. We reguleren de drinkwaterprijs, zorgen o.a. voor de tariefregulering van de drinkwatercomponent van de integrale waterfactuur, voor meer transparantie in de Vlaamse watersector, en staan we in voor prestatie- en efficiëntievergelijking van de drinkwaterbedrijven en van de exploitanten van de openbare drinkwatervoorzieningsinfrastructuur. Als WaterRegulator staan we ook in voor het adviseren van de Vlaamse minister bevoegd voor het waterbeleid en bij uitbreiding de Vlaamse Regering over alle aangelegenheden met betrekking tot drinkwater.<br><br>Als 'regulator watersector' bouw je aan de verdere uitbouw van de regulering drinkwater, adviseer je de verantwoordelijke over de tarieven en beoordeel je de tariefplannen van de watermaatschappijen. Je rapporteert over de prestaties en efficiëntie van de drinkwaterbedrijvenmaatschappijen en je adviseert en je bereidt de adviezen aan de Vlaamse minister en de Vlaamse Regering inhoudelijk voor. Ook breng je Vlaamse goede praktijken onder de aandacht in de (inter)nationale overlegfora.&nbsp;<br>Tenslotte werk je mee aan projecten en studies gerelateerd aan de financiering van de drinkwatervoorziening.<br><br>De functie draagt bij aan de missie van VMM om voor de huidige en toekomstige generaties in Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen,&nbsp;</li><li>gezonde lucht te bewerkstelligen,&nbsp;</li><li>de klimaatadaptatie mee te sturen.</li></ul><p>De functie onderschrijft de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige&nbsp;<br>leefomgeving.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17435",
       "internal": false,
       "validThroughDate": "1742083200",
@@ -6164,41 +6110,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17434",
-      "internal": true,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17434",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Strategisch adviseur onderzoek en evaluatie"
-      },
-      "displayTitle": "Strategisch adviseur onderzoek en evaluatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als strategisch adviseur onderzoek en evaluatie - Werk en Sociale Economie ben jij het aanspreekpunt en verantwoordelijk voor de planning en het uitvoeren van het <i>kennisbeleid Werk en Sociale Economie</i> ovv (onderzoeken evaluatie) van het departement WEWIS en de afstemming daarover binnen het geheel van de werking van de studiedienst.</span></p> <p><span>Jouw verantwoordelijkheden zijn:</span></p><ul><li><span>&nbsp;</span><span>het coördineren van de opmaak en uitvoering van de strategische kennisplanning van het departement rond de beleidsveleden werk en sociale economie met als finaal doel het onderbouwen van de beleidsbeslissingen inzake voorbereiding en uitvoering;</span></li><li><span>&nbsp;</span><span>het bewaken van de kwaliteit (cf. onafhankelijkheid, relevantie en validiteit) van de kennisuitvoering;</span></li><li><span>&nbsp;</span><span>het opvolgen en rapporteren van de doorwerking van geproduceerde kennis binnen beleid en de werking van de organisatie;</span><span><span></span></span></li><li><span><span>&nbsp;</span></span><span>het vertegenwoordigen van&nbsp; de organisatie in het werk(kennis)veld;</span></li><li><span>&nbsp;</span><span>het plannen en opvolgen van de inzet van middelen (VTE en EUR) voor de uitvoering van de kennisplanning;</span></li><li><span>&nbsp;</span><span>het afstemmen van de kennisplanning en -uitvoering met het kabinet en andere externe sleutelactoren.</span></li></ul>  <p><span>Jouw focust ligt op inhoud en expertise (studie en onderzoek). We verwachten dat je:</span></p><ul><li><span>&nbsp;</span><span>beleids(strategische) input geeft aan het management mbt studie en onderzoek en deze adviseert (overkoepelend over toegewezen domein);</span></li><li><span>&nbsp;</span><span>(mee) strategische doelstellingen bepaalt (en coördineert) mbt het toegewezen domein;</span></li><li><span>&nbsp;</span><span>vanuit generalistische expertise mbt het toegewezen domein de strategie en dienstverlening verder ontwikkelt, uitbouwt en innoveert;</span></li><li><span>&nbsp;</span><span>het management/afdelingshoofd vertegenwoordigt op interne/externe fora.</span></li><li><span>Bijkomend wordt verwacht dat de strategisch adviseur onderzoek en evaluatie een dienst aanstuurt, met name het hiërarchisch leidinggeven aan medewerkers én het aansturen van de werking van de dienst of cluster.</span></li></ul><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Als strategisch adviseur onderzoek en evaluatie - Werk en Sociale Economie ben jij het aanspreekpunt en verantwoordelijk voor de planning en het uitvoeren van het <i>kennisbeleid Werk en Sociale Economie</i> ovv (onderzoeken evaluatie) van het departement WEWIS en de afstemming daarover binnen het geheel van de werking van de studiedienst.</span></p> <p><span>Jouw verantwoordelijkheden zijn:</span></p><ul><li><span>&nbsp;</span><span>het coördineren van de opmaak en uitvoering van de strategische kennisplanning van het departement rond de beleidsveleden werk en sociale economie met als finaal doel het onderbouwen van de beleidsbeslissingen inzake voorbereiding en uitvoering;</span></li><li><span>&nbsp;</span><span>het bewaken van de kwaliteit (cf. onafhankelijkheid, relevantie en validiteit) van de kennisuitvoering;</span></li><li><span>&nbsp;</span><span>het opvolgen en rapporteren van de doorwerking van geproduceerde kennis binnen beleid en de werking van de organisatie;</span><span><span></span></span></li><li><span><span>&nbsp;</span></span><span>het vertegenwoordigen van&nbsp; de organisatie in het werk(kennis)veld;</span></li><li><span>&nbsp;</span><span>het plannen en opvolgen van de inzet van middelen (VTE en EUR) voor de uitvoering van de kennisplanning;</span></li><li><span>&nbsp;</span><span>het afstemmen van de kennisplanning en -uitvoering met het kabinet en andere externe sleutelactoren.</span></li></ul>  <p><span>Jouw focust ligt op inhoud en expertise (studie en onderzoek). We verwachten dat je:</span></p><ul><li><span>&nbsp;</span><span>beleids(strategische) input geeft aan het management mbt studie en onderzoek en deze adviseert (overkoepelend over toegewezen domein);</span></li><li><span>&nbsp;</span><span>(mee) strategische doelstellingen bepaalt (en coördineert) mbt het toegewezen domein;</span></li><li><span>&nbsp;</span><span>vanuit generalistische expertise mbt het toegewezen domein de strategie en dienstverlening verder ontwikkelt, uitbouwt en innoveert;</span></li><li><span>&nbsp;</span><span>het management/afdelingshoofd vertegenwoordigt op interne/externe fora.</span></li><li><span>Bijkomend wordt verwacht dat de strategisch adviseur onderzoek en evaluatie een dienst aanstuurt, met name het hiërarchisch leidinggeven aan medewerkers én het aansturen van de werking van de dienst of cluster.</span></li></ul><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -6571,41 +6482,6 @@
         {
           "address": {
             "city": "Evergem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17354",
-      "internal": true,
-      "validThroughDate": "1741305600",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17354",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "1 Teamleider Tewerkstellingsondersteunende Maatregelen (TOM)"
-      },
-      "displayTitle": "1 Teamleider Tewerkstellingsondersteunende Maatregelen (TOM)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het team Tewerkstellingsondersteunende\nMaatregelen (TOM) staat in voor de toekenning en toepassing van\ntewerkstellingsondersteunende maatregelen in de reguliere en sociale economie\nvoor werkzoekenden met een arbeidsbeperking. Het team bestaat uit experten,\ndeskundigen en medewerkers. De aanvraagdossiers die door het team behandeld\nworden, komen van werkzoekenden en hun bemiddelaars (zowel vanuit de sectorale\nteams en IDV als vanuit de partners), maar ook van werknemers en werkgevers.</p><p>We\nzoeken een teamleider voor het team van deskundigen. De deskundigen zijn verantwoordelijk voor de toekenning en evaluatie van\nBTOM (arbeidspostaanpassingen, arbeidsgereedschap,...) en Maatwerk (Individueel\nen Collectief) op de Werkvloer. Als teamleider van (een deel van) dit team, sta\nje in voor de coaching en monitoring van je teamleden en hun taken:</p><ul><li>Je slaat de brug tussen beleidsbeslissingen en de werkvloer;</li><li>Je volgt de individuele, provinciale en Vlaamse caseload op;</li><li>Je zorgt voor een evenwichtige verdeling van de dossiers;</li><li>Je bewaakt de processen en de kwaliteit van de dossiers en</li><li>Je ondersteunt en begeleid de deskundigen in hun taken.</li></ul><p>Je werkt nauw samen met de collega-teamleider die\nde collega’s in de andere 2 provincies aanstuurt en hebt daarnaast ook\nregelmatig contact met de TOM-experten, de TOM-medewerkers en de collega’s van\nOntwikkeling van de Dienstverlening.</p>",
-        "htmlEncoded": "<p>Het team Tewerkstellingsondersteunende\nMaatregelen (TOM) staat in voor de toekenning en toepassing van\ntewerkstellingsondersteunende maatregelen in de reguliere en sociale economie\nvoor werkzoekenden met een arbeidsbeperking. Het team bestaat uit experten,\ndeskundigen en medewerkers. De aanvraagdossiers die door het team behandeld\nworden, komen van werkzoekenden en hun bemiddelaars (zowel vanuit de sectorale\nteams en IDV als vanuit de partners), maar ook van werknemers en werkgevers.</p><p>We\nzoeken een teamleider voor het team van deskundigen. De deskundigen zijn verantwoordelijk voor de toekenning en evaluatie van\nBTOM (arbeidspostaanpassingen, arbeidsgereedschap,...) en Maatwerk (Individueel\nen Collectief) op de Werkvloer. Als teamleider van (een deel van) dit team, sta\nje in voor de coaching en monitoring van je teamleden en hun taken:</p><ul><li>Je slaat de brug tussen beleidsbeslissingen en de werkvloer;</li><li>Je volgt de individuele, provinciale en Vlaamse caseload op;</li><li>Je zorgt voor een evenwichtige verdeling van de dossiers;</li><li>Je bewaakt de processen en de kwaliteit van de dossiers en</li><li>Je ondersteunt en begeleid de deskundigen in hun taken.</li></ul><p>Je werkt nauw samen met de collega-teamleider die\nde collega’s in de andere 2 provincies aanstuurt en hebt daarnaast ook\nregelmatig contact met de TOM-experten, de TOM-medewerkers en de collega’s van\nOntwikkeling van de Dienstverlening.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
