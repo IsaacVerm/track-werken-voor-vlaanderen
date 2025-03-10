@@ -1,34 +1,34 @@
 {
-  "totalItems": 190,
+  "totalItems": 194,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 189,
+  "lastItemOfPage": 193,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 190,
+        "count": 194,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 190,
+        "count": 194,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 125,
+        "count": 126,
         "label": "Brussel"
       },
       {
         "value": "Antwerpen",
-        "count": 16,
+        "count": 17,
         "label": "Antwerpen"
       },
       {
@@ -42,14 +42,14 @@
         "label": "Gent"
       },
       {
+        "value": "Merelbeke-Melle",
+        "count": 6,
+        "label": "Merelbeke-Melle"
+      },
+      {
         "value": "Leuven",
         "count": 5,
         "label": "Leuven"
-      },
-      {
-        "value": "Merelbeke-Melle",
-        "count": 5,
-        "label": "Merelbeke-Melle"
       },
       {
         "value": "Rekem",
@@ -85,6 +85,11 @@
         "value": "Evergem",
         "count": 2,
         "label": "Evergem"
+      },
+      {
+        "value": "Geel",
+        "count": 2,
+        "label": "Geel"
       },
       {
         "value": "Oostende",
@@ -125,11 +130,6 @@
         "value": "Everberg",
         "count": 1,
         "label": "Everberg"
-      },
-      {
-        "value": "Geel",
-        "count": 1,
-        "label": "Geel"
       },
       {
         "value": "Genk",
@@ -200,12 +200,12 @@
       },
       {
         "value": "Dienstverlening",
-        "count": 27,
+        "count": 30,
         "label": "Dienstverlening"
       },
       {
         "value": "Administratie",
-        "count": 15,
+        "count": 16,
         "label": "Administratie"
       },
       {
@@ -302,26 +302,26 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 190,
+        "count": 194,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 178,
+        "count": 181,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 12,
+        "count": 13,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 162,
+        "count": 166,
         "label": "Vaste job"
       },
       {
@@ -348,7 +348,7 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 83,
+        "count": 84,
         "label": "Graduaats- of bachelordiploma"
       },
       {
@@ -358,7 +358,7 @@
       },
       {
         "value": "Secundair onderwijs",
-        "count": 12,
+        "count": 13,
         "label": "Secundair onderwijs"
       },
       {
@@ -375,18 +375,18 @@
       },
       {
         "value": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-        "count": 12,
+        "count": 13,
         "label": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"
+      },
+      {
+        "value": "De Vlaamse Waterweg",
+        "count": 9,
+        "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Agentschap Wegen en Verkeer",
         "count": 8,
         "label": "Agentschap Wegen en Verkeer"
-      },
-      {
-        "value": "De Vlaamse Waterweg",
-        "count": 8,
-        "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Departement Mobiliteit en Openbare Werken",
@@ -474,6 +474,16 @@
         "label": "Departement Onderwijs en Vorming"
       },
       {
+        "value": "Openbaar Psychiatrisch Ziekenhuis Geel",
+        "count": 2,
+        "label": "Openbaar Psychiatrisch Ziekenhuis Geel"
+      },
+      {
+        "value": "VLAIO (Agentschap Innoveren & Ondernemen)",
+        "count": 2,
+        "label": "VLAIO (Agentschap Innoveren & Ondernemen)"
+      },
+      {
         "value": "Agentschap Landbouw en Zeevisserij",
         "count": 1,
         "label": "Agentschap Landbouw en Zeevisserij"
@@ -529,11 +539,6 @@
         "label": "ILVO Landbouw en Maatschappij"
       },
       {
-        "value": "Openbaar Psychiatrisch Ziekenhuis Geel",
-        "count": 1,
-        "label": "Openbaar Psychiatrisch Ziekenhuis Geel"
-      },
-      {
         "value": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
         "count": 1,
         "label": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)"
@@ -547,11 +552,6 @@
         "value": "Toerisme Vlaanderen",
         "count": 1,
         "label": "Toerisme Vlaanderen"
-      },
-      {
-        "value": "VLAIO (Agentschap Innoveren & Ondernemen)",
-        "count": 1,
-        "label": "VLAIO (Agentschap Innoveren & Ondernemen)"
       },
       {
         "value": "VLAM",
@@ -587,12 +587,47 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 103,
+        "count": 106,
         "label": "false"
       }
     ]
   },
   "items": [
+    {
+      "link": "/Job/vdab-70608512",
+      "internal": false,
+      "validThroughDate": "1742342400",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70608512",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "ervaringswerker GGZ"
+      },
+      "displayTitle": "ervaringswerker GGZ",
+      "isProtected": false,
+      "description": {
+        "raw": "<p> </p> \n<p><span>In kader van de verdere uitwerking van herstelgerichte zorg in ons ziekenhuis willen we een betaalde ervaringsdeskundige als ervaringswerker inzetten. </span></p> \n<p> </p> \n<p><span>Momenteel hebben we een opening op de afdeling Behandeleenheid 2 binnen de divisie Volwassenen. </span></p> \n<p> </p> \n<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p> </p> \n<p> </p> \n<ul type=\"disc\"> \n<li><span>Behandeleenheid 2 richt zich op een \n<strong>divers publiek</strong> dat behoefte heeft aan een opname met \n<strong>intensieve therapeutische ondersteuning</strong>, gericht op een onderliggende persoonlijkheidsproblematiek. </span></li> \n<li><span>Het gaat om mensen die zich kunnen handhaven binnen een open structuur waarin veel verantwoordelijkheid bij hen wordt gelegd. </span></li> \n<li><span>We werken \n<strong>ondersteunend en versterkend</strong> vanuit het model van \n<strong>dialectische gedragstherapie</strong>.</span></li> \n<li><span>Je bent lid van het \n<strong>multidisciplinaire team</strong>. </span></li> \n<li><span>Je ondersteunt het herstelgericht werken door het opnemen van mogelijks \n<strong>verschillende rollen</strong> als ervaringsdeskundige zoals bv. hoopverlener, krachtverlener, individuele of groepsondersteuner en ondersteuner van de teamwerking vanuit het perspectief van patiënt en naasten.</span></li> \n<li><span>De ondersteuning die door jou geboden wordt, is gebaseerd op \n<strong>hoop en empowerment</strong> met een warme, open en respectvolle professionele attitude. </span></li> \n<li><span>Je ondersteunt de herstelprocessen bij de patiënt en familie. </span></li> \n<li><span>Je werkt in overleg en met ondersteuning van het kernteam. </span></li> \n<li><span>Je komt regelmatig samen met andere ervaringsdeskundigen in OPZ en in het netwerk.</span></li> </ul> \n<p> </p> \n<p><span>Naast de specifieke eenheid waar je wordt toegewezen is het mogelijk dat voor bepaalde opdrachten je inzet gevraagd wordt binnen de divisie Volwassenen. \n<strong></strong></span></p>",
+        "htmlEncoded": "<p> </p> \n<p><span>In kader van de verdere uitwerking van herstelgerichte zorg in ons ziekenhuis willen we een betaalde ervaringsdeskundige als ervaringswerker inzetten. </span></p> \n<p> </p> \n<p><span>Momenteel hebben we een opening op de afdeling Behandeleenheid 2 binnen de divisie Volwassenen. </span></p> \n<p> </p> \n<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p> </p> \n<p> </p> \n<ul type=\"disc\"> \n<li><span>Behandeleenheid 2 richt zich op een \n<strong>divers publiek</strong> dat behoefte heeft aan een opname met \n<strong>intensieve therapeutische ondersteuning</strong>, gericht op een onderliggende persoonlijkheidsproblematiek. </span></li> \n<li><span>Het gaat om mensen die zich kunnen handhaven binnen een open structuur waarin veel verantwoordelijkheid bij hen wordt gelegd. </span></li> \n<li><span>We werken \n<strong>ondersteunend en versterkend</strong> vanuit het model van \n<strong>dialectische gedragstherapie</strong>.</span></li> \n<li><span>Je bent lid van het \n<strong>multidisciplinaire team</strong>. </span></li> \n<li><span>Je ondersteunt het herstelgericht werken door het opnemen van mogelijks \n<strong>verschillende rollen</strong> als ervaringsdeskundige zoals bv. hoopverlener, krachtverlener, individuele of groepsondersteuner en ondersteuner van de teamwerking vanuit het perspectief van patiënt en naasten.</span></li> \n<li><span>De ondersteuning die door jou geboden wordt, is gebaseerd op \n<strong>hoop en empowerment</strong> met een warme, open en respectvolle professionele attitude. </span></li> \n<li><span>Je ondersteunt de herstelprocessen bij de patiënt en familie. </span></li> \n<li><span>Je werkt in overleg en met ondersteuning van het kernteam. </span></li> \n<li><span>Je komt regelmatig samen met andere ervaringsdeskundigen in OPZ en in het netwerk.</span></li> </ul> \n<p> </p> \n<p><span>Naast de specifieke eenheid waar je wordt toegewezen is het mogelijk dat voor bepaalde opdrachten je inzet gevraagd wordt binnen de divisie Volwassenen. \n<strong></strong></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70596888",
       "internal": false,
@@ -4572,6 +4607,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17641",
+      "internal": true,
+      "validThroughDate": "1742860800",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17641",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "1 provinciaal relatiebeheerder"
+      },
+      "displayTitle": "1 provinciaal relatiebeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>",
+        "htmlEncoded": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17640",
       "internal": false,
       "validThroughDate": "1742342400",
@@ -4712,6 +4779,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17601",
+      "internal": false,
+      "validThroughDate": "1743379200",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17601",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder (standplaats Merelbeke)"
+      },
+      "displayTitle": "Dossierbeheerder (standplaats Merelbeke)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken ongeveer 1.350 personeelsleden van onze organisatie aan een slim, veelzijdig en welvarend waterwegennet.<br><br></span><span>Als dossierbeheerder vergunningen en toelatingen behandel jij vergunningsaanvragen van particulieren, bedrijven en van andere overheidsinstanties. Je hebt een breed takenpakket gaande van het opzoeken in bepaalde regelgeving, het analyseren van dossiers en de communicatie naar zowel interne als externe contacten. Breng jij graag structuur in je taken en volg je die graag volledig zelf op? Hou jij van afwisseling en het brede gamma aan taken als dossierbeheer? Staat klantgericht handelen bovenaan bij jou? Dan ben jij de dossierbeheerder die wij zoeken.<br><br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
+        "htmlEncoded": "<p><span>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken ongeveer 1.350 personeelsleden van onze organisatie aan een slim, veelzijdig en welvarend waterwegennet.<br><br></span><span>Als dossierbeheerder vergunningen en toelatingen behandel jij vergunningsaanvragen van particulieren, bedrijven en van andere overheidsinstanties. Je hebt een breed takenpakket gaande van het opzoeken in bepaalde regelgeving, het analyseren van dossiers en de communicatie naar zowel interne als externe contacten. Breng jij graag structuur in je taken en volg je die graag volledig zelf op? Hou jij van afwisseling en het brede gamma aan taken als dossierbeheer? Staat klantgericht handelen bovenaan bij jou? Dan ben jij de dossierbeheerder die wij zoeken.<br><br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
@@ -5189,8 +5291,8 @@
       "displayTitle": "HR-medewerker",
       "isProtected": false,
       "description": {
-        "raw": "<div>Wil jij meebouwen aan een werkomgeving waarin medewerkers zich goed voelen en gelijke kansen krijgen? Als <strong>HR-medewerker Welzijn &amp; Diversiteit</strong> werk je binnen het Agentschap Uitbetaling Groeipakket (VUTG) aan het welzijns- en diversiteitsbeleid. Je analyseert trends, ontwikkelt actieplannen, adviseert het lijnmanagement en organiseert initiatieven rond inclusie en welzijn. Je zorgt voor heldere rapportering, begeleidt projecten en bent een aanspreekpunt voor collega’s en leidinggevenden.&nbsp; Je neemt deel aan externe relevante vergaderingen (HR_netwerken, commissie diversiteit, …). Je organiseert intern kwaliteitscirkels, klankbordgroepen, infosessies,…. (vb. klankbordgroep Welzijn en klankbordgroep Diversiteit, …). Dankzij jouw expertise en initiatief help je mee aan een motiverende werkplek, in lijn met het HR-netwerkmodel van de Vlaamse overheid.</div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen en warm\", \"voor klanten\", \"dynamisch innoveren\", \"deskundig durven\" en \"vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-medewerker Welzijn en Diversiteit wellicht jouw ideale match.</div><div></div><div>We zijn namelijk op zoek naar een dynamische HR-medewerker Welzijn en Diversiteit die graag samen met de collega’s van het team HROO ervoor zorgt dat de medewerkers van ons agentschap&nbsp; alle kansen krijgen om gemotiveerd aan de slag te gaan en te blijven bij het VUTG.</div><div>Wij willen graag dat ons personeel een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Wil je graag nog meer details over de job van HR-medewerker Welzijn &amp; Diversiteit? Lees dan verder via deze link voor de jobinhoud in detail.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>Wil jij meebouwen aan een werkomgeving waarin medewerkers zich goed voelen en gelijke kansen krijgen? Als <strong>HR-medewerker Welzijn &amp; Diversiteit</strong> werk je binnen het Agentschap Uitbetaling Groeipakket (VUTG) aan het welzijns- en diversiteitsbeleid. Je analyseert trends, ontwikkelt actieplannen, adviseert het lijnmanagement en organiseert initiatieven rond inclusie en welzijn. Je zorgt voor heldere rapportering, begeleidt projecten en bent een aanspreekpunt voor collega’s en leidinggevenden.&nbsp; Je neemt deel aan externe relevante vergaderingen (HR_netwerken, commissie diversiteit, …). Je organiseert intern kwaliteitscirkels, klankbordgroepen, infosessies,…. (vb. klankbordgroep Welzijn en klankbordgroep Diversiteit, …). Dankzij jouw expertise en initiatief help je mee aan een motiverende werkplek, in lijn met het HR-netwerkmodel van de Vlaamse overheid.</div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen en warm\", \"voor klanten\", \"dynamisch innoveren\", \"deskundig durven\" en \"vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-medewerker Welzijn en Diversiteit wellicht jouw ideale match.</div><div></div><div>We zijn namelijk op zoek naar een dynamische HR-medewerker Welzijn en Diversiteit die graag samen met de collega’s van het team HROO ervoor zorgt dat de medewerkers van ons agentschap&nbsp; alle kansen krijgen om gemotiveerd aan de slag te gaan en te blijven bij het VUTG.</div><div>Wij willen graag dat ons personeel een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Wil je graag nog meer details over de job van HR-medewerker Welzijn &amp; Diversiteit? Lees dan verder via deze link voor de jobinhoud in detail.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+        "raw": "<div>Wil jij meebouwen aan een werkomgeving waarin medewerkers zich goed voelen en gelijke kansen krijgen? Als <strong>HR-medewerker Welzijn &amp; Diversiteit</strong> werk je binnen het Agentschap Uitbetaling Groeipakket (VUTG) aan het welzijns- en diversiteitsbeleid. Je analyseert trends, ontwikkelt actieplannen, adviseert het lijnmanagement en organiseert initiatieven rond inclusie en welzijn. Je zorgt voor heldere rapportering, begeleidt projecten en bent een aanspreekpunt voor collega’s en leidinggevenden.&nbsp; Je neemt deel aan externe relevante vergaderingen (HR_netwerken, commissie diversiteit, …). Je organiseert intern kwaliteitscirkels, klankbordgroepen, infosessies,…. (vb. klankbordgroep Welzijn en klankbordgroep Diversiteit, …). Dankzij jouw expertise en initiatief help je mee aan een motiverende werkplek, in lijn met het HR-netwerkmodel van de Vlaamse overheid.</div><div></div><div><br>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen en warm\", \"voor klanten\", \"dynamisch innoveren\", \"deskundig durven\" en \"vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-medewerker Welzijn en Diversiteit wellicht jouw ideale match.</div><div></div><div><br>We zijn namelijk op zoek naar een dynamische HR-medewerker Welzijn en Diversiteit die graag samen met de collega’s van het team HROO ervoor zorgt dat de medewerkers van ons agentschap&nbsp; alle kansen krijgen om gemotiveerd aan de slag te gaan en te blijven bij het VUTG.</div><div><br>Wij willen graag dat ons personeel een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div><br>Wil je graag nog meer details over de job van HR-medewerker Welzijn &amp; Diversiteit? Lees dan verder via deze link voor de jobinhoud in detail.&nbsp;</div><div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Wil jij meebouwen aan een werkomgeving waarin medewerkers zich goed voelen en gelijke kansen krijgen? Als <strong>HR-medewerker Welzijn &amp; Diversiteit</strong> werk je binnen het Agentschap Uitbetaling Groeipakket (VUTG) aan het welzijns- en diversiteitsbeleid. Je analyseert trends, ontwikkelt actieplannen, adviseert het lijnmanagement en organiseert initiatieven rond inclusie en welzijn. Je zorgt voor heldere rapportering, begeleidt projecten en bent een aanspreekpunt voor collega’s en leidinggevenden.&nbsp; Je neemt deel aan externe relevante vergaderingen (HR_netwerken, commissie diversiteit, …). Je organiseert intern kwaliteitscirkels, klankbordgroepen, infosessies,…. (vb. klankbordgroep Welzijn en klankbordgroep Diversiteit, …). Dankzij jouw expertise en initiatief help je mee aan een motiverende werkplek, in lijn met het HR-netwerkmodel van de Vlaamse overheid.</div><div></div><div><br>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen en warm\", \"voor klanten\", \"dynamisch innoveren\", \"deskundig durven\" en \"vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-medewerker Welzijn en Diversiteit wellicht jouw ideale match.</div><div></div><div><br>We zijn namelijk op zoek naar een dynamische HR-medewerker Welzijn en Diversiteit die graag samen met de collega’s van het team HROO ervoor zorgt dat de medewerkers van ons agentschap&nbsp; alle kansen krijgen om gemotiveerd aan de slag te gaan en te blijven bij het VUTG.</div><div><br>Wij willen graag dat ons personeel een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div><br>Wil je graag nog meer details over de job van HR-medewerker Welzijn &amp; Diversiteit? Lees dan verder via deze link voor de jobinhoud in detail.&nbsp;</div><div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
       },
       "locations": [
         {
@@ -5501,8 +5603,8 @@
       "displayTitle": "Ondersteuner logistiek en personeel",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…</li></ul><p> <span>Spreekt bovenstaand takenpakket jou aan?&nbsp;<br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…</li></ul><p> <span>Spreekt bovenstaand takenpakket jou aan?&nbsp;<br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
+        "raw": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…<br><br></li></ul><p><span>Spreekt bovenstaand takenpakket jou aan?&nbsp;</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p><span>&nbsp;</span><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
+        "htmlEncoded": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…<br><br></li></ul><p><span>Spreekt bovenstaand takenpakket jou aan?&nbsp;</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p><span>&nbsp;</span><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
       },
       "locations": [
         {
@@ -5606,8 +5708,8 @@
       "displayTitle": "Klantenadviseur Centraal Inschrijvingsregister (CIR)",
       "isProtected": false,
       "description": {
-        "raw": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+        "raw": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
+        "htmlEncoded": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
       },
       "locations": [
         {
@@ -5641,8 +5743,8 @@
       "displayTitle": "Onderzoeksmedewerker verkeersmodellen",
       "isProtected": false,
       "description": {
-        "raw": "<div>In deze rol werk je met verkeersmodellen. Deze gebruiken onder andere data en wiskundige technieken om helderheid te brengen in complexe vraagstukken over verkeer en mobiliteit. Deze instrumenten van het Departement Mobiliteit en Openbare Werken bootsen zo goed mogelijk na hoe een verkeerssituatie in het echt werkt en wat de impact is als een verkeerssituatie wijzigt. Die verkeersmodellen leveren dus belangrijke informatie voor beleidsbeslissingen en bij de planning van nieuwe infrastructuur. Je leest er meer over op <a href=\"https://departement-mow.vlaanderen.be/nl/verkeersmodellen\">de website van het Departement Mobiliteit en Openbare Werken</a>.</div><div>&nbsp;</div><div>Het team Data &amp; Verkeersmodellen beheert 2 soorten van verkeersmodellen:</div><div>&nbsp;</div><ul><li><strong>strategische verkeersmodellen</strong> die de grote verkeersstromen in Vlaanderen in kaart brengen en</li><li><strong>dynamische verkeersmodellen</strong> die gedetailleerde berekeningen maken voor specifieke gebieden zoals snelwegen of grote stedelijke gebieden.</li></ul><div>&nbsp;</div><div>Als onderzoeksmedewerker specialiseer je je in 1 of meerdere verkeersmodellen. Je werkt mee aan de ontwikkeling van modellen en laat modeldoorrekeningen uitvoeren of voert zelf doorrekeningen uit. Soms schrijf je op basis van de resultaten van een doorrekening een beleidsadvies uit. Op die manier maak je je vertrouwd met de technische aspecten van een verkeersmodel en leer je hun opbouw kennen. Die kennis komt goed van pas wanneer je ook meewerkt aan de ontwikkeling van nieuwe modellen. Dat gebeurt in nauwe samenwerking met een studiebureau.</div><div>&nbsp;</div><div>Deze job geeft je de kans om achter de schermen te kijken van een beleidsdomein dat een zichtbare, voelbare impact heeft op de wereld rondom ons. Want wat jij gemodelleerd ziet op je scherm, draagt straks bij tot nieuwe prioriteiten in het mobiliteitsbeleid zoals de aanleg van een nieuwe fietssnelweg of enorme projecten zoals de Brusselse ring.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>In deze rol werk je met verkeersmodellen. Deze gebruiken onder andere data en wiskundige technieken om helderheid te brengen in complexe vraagstukken over verkeer en mobiliteit. Deze instrumenten van het Departement Mobiliteit en Openbare Werken bootsen zo goed mogelijk na hoe een verkeerssituatie in het echt werkt en wat de impact is als een verkeerssituatie wijzigt. Die verkeersmodellen leveren dus belangrijke informatie voor beleidsbeslissingen en bij de planning van nieuwe infrastructuur. Je leest er meer over op <a href=\"https://departement-mow.vlaanderen.be/nl/verkeersmodellen\">de website van het Departement Mobiliteit en Openbare Werken</a>.</div><div>&nbsp;</div><div>Het team Data &amp; Verkeersmodellen beheert 2 soorten van verkeersmodellen:</div><div>&nbsp;</div><ul><li><strong>strategische verkeersmodellen</strong> die de grote verkeersstromen in Vlaanderen in kaart brengen en</li><li><strong>dynamische verkeersmodellen</strong> die gedetailleerde berekeningen maken voor specifieke gebieden zoals snelwegen of grote stedelijke gebieden.</li></ul><div>&nbsp;</div><div>Als onderzoeksmedewerker specialiseer je je in 1 of meerdere verkeersmodellen. Je werkt mee aan de ontwikkeling van modellen en laat modeldoorrekeningen uitvoeren of voert zelf doorrekeningen uit. Soms schrijf je op basis van de resultaten van een doorrekening een beleidsadvies uit. Op die manier maak je je vertrouwd met de technische aspecten van een verkeersmodel en leer je hun opbouw kennen. Die kennis komt goed van pas wanneer je ook meewerkt aan de ontwikkeling van nieuwe modellen. Dat gebeurt in nauwe samenwerking met een studiebureau.</div><div>&nbsp;</div><div>Deze job geeft je de kans om achter de schermen te kijken van een beleidsdomein dat een zichtbare, voelbare impact heeft op de wereld rondom ons. Want wat jij gemodelleerd ziet op je scherm, draagt straks bij tot nieuwe prioriteiten in het mobiliteitsbeleid zoals de aanleg van een nieuwe fietssnelweg of enorme projecten zoals de Brusselse ring.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+        "raw": "<div>In deze rol werk je met verkeersmodellen. Deze gebruiken onder andere data en wiskundige technieken om helderheid te brengen in complexe vraagstukken over verkeer en mobiliteit. Deze instrumenten van het Departement Mobiliteit en Openbare Werken bootsen zo goed mogelijk na hoe een verkeerssituatie in het echt werkt en wat de impact is als een verkeerssituatie wijzigt. Die verkeersmodellen leveren dus belangrijke informatie voor beleidsbeslissingen en bij de planning van nieuwe infrastructuur. Je leest er meer over op <a href=\"https://departement-mow.vlaanderen.be/nl/verkeersmodellen\">de website van het Departement Mobiliteit en Openbare Werken</a>.</div><div>&nbsp;</div><div>Het team Data &amp; Verkeersmodellen beheert 2 soorten van verkeersmodellen:</div><ul><li><strong>strategische verkeersmodellen</strong> die de grote verkeersstromen in Vlaanderen in kaart brengen en</li><li><strong>dynamische verkeersmodellen</strong> die gedetailleerde berekeningen maken voor specifieke gebieden zoals snelwegen of grote stedelijke gebieden.</li></ul><div>Als onderzoeksmedewerker specialiseer je je in 1 of meerdere verkeersmodellen. Je werkt mee aan de ontwikkeling van modellen en laat modeldoorrekeningen uitvoeren of voert zelf doorrekeningen uit. Soms schrijf je op basis van de resultaten van een doorrekening een beleidsadvies uit. Op die manier maak je je vertrouwd met de technische aspecten van een verkeersmodel en leer je hun opbouw kennen. Die kennis komt goed van pas wanneer je ook meewerkt aan de ontwikkeling van nieuwe modellen. Dat gebeurt in nauwe samenwerking met een studiebureau.</div><div>&nbsp;</div><div>Deze job geeft je de kans om achter de schermen te kijken van een beleidsdomein dat een zichtbare, voelbare impact heeft op de wereld rondom ons. Want wat jij gemodelleerd ziet op je scherm, draagt straks bij tot nieuwe prioriteiten in het mobiliteitsbeleid zoals de aanleg van een nieuwe fietssnelweg of enorme projecten zoals de Brusselse ring.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>In deze rol werk je met verkeersmodellen. Deze gebruiken onder andere data en wiskundige technieken om helderheid te brengen in complexe vraagstukken over verkeer en mobiliteit. Deze instrumenten van het Departement Mobiliteit en Openbare Werken bootsen zo goed mogelijk na hoe een verkeerssituatie in het echt werkt en wat de impact is als een verkeerssituatie wijzigt. Die verkeersmodellen leveren dus belangrijke informatie voor beleidsbeslissingen en bij de planning van nieuwe infrastructuur. Je leest er meer over op <a href=\"https://departement-mow.vlaanderen.be/nl/verkeersmodellen\">de website van het Departement Mobiliteit en Openbare Werken</a>.</div><div>&nbsp;</div><div>Het team Data &amp; Verkeersmodellen beheert 2 soorten van verkeersmodellen:</div><ul><li><strong>strategische verkeersmodellen</strong> die de grote verkeersstromen in Vlaanderen in kaart brengen en</li><li><strong>dynamische verkeersmodellen</strong> die gedetailleerde berekeningen maken voor specifieke gebieden zoals snelwegen of grote stedelijke gebieden.</li></ul><div>Als onderzoeksmedewerker specialiseer je je in 1 of meerdere verkeersmodellen. Je werkt mee aan de ontwikkeling van modellen en laat modeldoorrekeningen uitvoeren of voert zelf doorrekeningen uit. Soms schrijf je op basis van de resultaten van een doorrekening een beleidsadvies uit. Op die manier maak je je vertrouwd met de technische aspecten van een verkeersmodel en leer je hun opbouw kennen. Die kennis komt goed van pas wanneer je ook meewerkt aan de ontwikkeling van nieuwe modellen. Dat gebeurt in nauwe samenwerking met een studiebureau.</div><div>&nbsp;</div><div>Deze job geeft je de kans om achter de schermen te kijken van een beleidsdomein dat een zichtbare, voelbare impact heeft op de wereld rondom ons. Want wat jij gemodelleerd ziet op je scherm, draagt straks bij tot nieuwe prioriteiten in het mobiliteitsbeleid zoals de aanleg van een nieuwe fietssnelweg of enorme projecten zoals de Brusselse ring.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
       },
       "locations": [
         {
@@ -6152,6 +6254,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17449",
+      "internal": false,
+      "validThroughDate": "1744588800",
+      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17449",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamleider Competentiecentrum Applicaties"
+      },
+      "displayTitle": "Teamleider Competentiecentrum Applicaties",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als teamleider van het Competentiecentrum (CC) Applicaties geef je\nleiding aan een 15-tal collega’s. Samen met je team ben je verantwoordelijk\nvoor de overkoepelende opvolging van alle applicaties binnen VLAIO en om de\napplicaties in eigen beheer te ontwikkelen, onderhouden en beschikbaar te\nhouden. &nbsp;Je maakt ook deel uit van het\nTeam Coördinatie van de afdeling Data &amp; Interne innovatie (D&amp;II), en\nbepaalt samen met de &nbsp;andere teamleiders\nen het afdelingshoofd de koers en operationele werking van de afdeling.<br><br>Het CC Applicaties\nmaakt deel uit van de afdeling D&amp;II, de IT-afdeling van VLAIO. Jij staat in\nvoor de dagelijkse werking van je team en de werking rond applicaties. Dit\nomvat onder meer volgende taken:</p><ul><li>De dagelijkse leiding van het team en de aansturing van de mensen in je team.</li><li>In samenwerking met je team volg je externe ontwikkelaars op.</li><li>Je houdt applicaties in eigen beheer beschikbaar. Dit gaat voornamelijk over het VLAIO-platform ‘KRIS’ dat is opgebouwd in MS Dynamics. Het platform omvat 2 componenten: dossierbehandeling, om steun aan te vragen en te behandelen in een 70-tal steuninstrumenten, en FLOW, dat CRM-functionaliteiten biedt voor de VLAIO-‘front office’. Naast het platform beschikbaar houden, bied je ondersteuning voor gebruikers en verbeter je het platform waar nodig.</li><li>Indien relevant (bij nieuwe behoeften, nieuw beleid, …) sta je in voor nieuwe ontwikkelingen binnen KRIS of bouw je nieuwe applicaties.</li><li>Je zet verder in op recent vernieuwde werkwijzen zoals de organisatie rond een product, volgens de goede praktijken van agile softwareontwikkeling, of het verder doorvertalen van het aanbod van het team naar diensten voor gebruikers.<br>Je bouwt een visie uit voor een VLAIO-brede coördinatie van alle VLAIO-applicaties. </li><li>Naast de applicaties in eigen beheer, zijn dit ook heel wat applicaties in beheer van andere afdelingen van VLAIO. Jouw objectief daarbij is om efficiëntiewinsten te boeken op vlak van infrastructuur, beveiliging, menskracht en middelen.</li></ul><p>Bij dit alles waak\nje erover om maximaal in te spelen op de behoeften van zowel interne als\nexterne gebruikers. Je doet dit uiteraard binnen de beschikbare middelen. In\ndat kader zet je ook maximaal in op samenwerking. Indien relevant geef je\ngedetecteerde noden door aan andere teams of bouw je oplossingen samen met\nandere teams, zoals bijvoorbeeld de collega’s van Interne innovatie of het Competentiecentrum\nData. Je besteedt ook de nodige aandacht aan een goed samenwerkingsmodel met\nexterne partners, waarbij strategische keuzes en architecturale kennis over\nKRIS en andere applicaties maximaal intern gehouden worden. Je draagt ook bij\naan samenwerking tussen afdelingen en teams van VLAIO, die de applicaties\ngebruiken.<br><br>Als teamleider ben\nje verantwoordelijk voor het welbevinden op het werk van de collega’s in je team.\nJe bouwt daartoe een goede verstandhouding uit met alle teamleden en je bent\nals eerste aanspreekpunt beschikbaar voor hen. Met oog op verdere persoonlijke\ngroei stimuleer je iedereen om hun talenten te ontplooien. Je ondersteunt\ninitiatieven in je team die de teamgeest bevorderen. Het interne team bestaat\nuit twee product owners, verschillende business analisten, twee ICT-architecten,\ntwee ontwikkelaars, een projectleider (scrum master/agile coach), een collega\ndie automatiseringen in goede banen leidt en een medewerker voor ondersteuning.<br><br>Vanuit jouw rol in\nhet D&amp;II-coördinatieteam bouw je mee aan een afdeling die gezamenlijke\noplossingen voor gebruikers vooropstelt, ongeacht vanuit welk(e) team(s) ze\naangereikt worden. Je stimuleert zoveel mogelijk betrokkenheid van je team bij\nde afdeling en je zet acties op die de samenwerking met andere teams\nbevorderen. Je zet sterk in op informatiedoorstroming zodat alle collega’s uit\nhet Competentiecentrum Applicaties voeling hebben met de rest van de afdeling\nen met de hele organisatie.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als teamleider van het Competentiecentrum (CC) Applicaties geef je\nleiding aan een 15-tal collega’s. Samen met je team ben je verantwoordelijk\nvoor de overkoepelende opvolging van alle applicaties binnen VLAIO en om de\napplicaties in eigen beheer te ontwikkelen, onderhouden en beschikbaar te\nhouden. &nbsp;Je maakt ook deel uit van het\nTeam Coördinatie van de afdeling Data &amp; Interne innovatie (D&amp;II), en\nbepaalt samen met de &nbsp;andere teamleiders\nen het afdelingshoofd de koers en operationele werking van de afdeling.<br><br>Het CC Applicaties\nmaakt deel uit van de afdeling D&amp;II, de IT-afdeling van VLAIO. Jij staat in\nvoor de dagelijkse werking van je team en de werking rond applicaties. Dit\nomvat onder meer volgende taken:</p><ul><li>De dagelijkse leiding van het team en de aansturing van de mensen in je team.</li><li>In samenwerking met je team volg je externe ontwikkelaars op.</li><li>Je houdt applicaties in eigen beheer beschikbaar. Dit gaat voornamelijk over het VLAIO-platform ‘KRIS’ dat is opgebouwd in MS Dynamics. Het platform omvat 2 componenten: dossierbehandeling, om steun aan te vragen en te behandelen in een 70-tal steuninstrumenten, en FLOW, dat CRM-functionaliteiten biedt voor de VLAIO-‘front office’. Naast het platform beschikbaar houden, bied je ondersteuning voor gebruikers en verbeter je het platform waar nodig.</li><li>Indien relevant (bij nieuwe behoeften, nieuw beleid, …) sta je in voor nieuwe ontwikkelingen binnen KRIS of bouw je nieuwe applicaties.</li><li>Je zet verder in op recent vernieuwde werkwijzen zoals de organisatie rond een product, volgens de goede praktijken van agile softwareontwikkeling, of het verder doorvertalen van het aanbod van het team naar diensten voor gebruikers.<br>Je bouwt een visie uit voor een VLAIO-brede coördinatie van alle VLAIO-applicaties. </li><li>Naast de applicaties in eigen beheer, zijn dit ook heel wat applicaties in beheer van andere afdelingen van VLAIO. Jouw objectief daarbij is om efficiëntiewinsten te boeken op vlak van infrastructuur, beveiliging, menskracht en middelen.</li></ul><p>Bij dit alles waak\nje erover om maximaal in te spelen op de behoeften van zowel interne als\nexterne gebruikers. Je doet dit uiteraard binnen de beschikbare middelen. In\ndat kader zet je ook maximaal in op samenwerking. Indien relevant geef je\ngedetecteerde noden door aan andere teams of bouw je oplossingen samen met\nandere teams, zoals bijvoorbeeld de collega’s van Interne innovatie of het Competentiecentrum\nData. Je besteedt ook de nodige aandacht aan een goed samenwerkingsmodel met\nexterne partners, waarbij strategische keuzes en architecturale kennis over\nKRIS en andere applicaties maximaal intern gehouden worden. Je draagt ook bij\naan samenwerking tussen afdelingen en teams van VLAIO, die de applicaties\ngebruiken.<br><br>Als teamleider ben\nje verantwoordelijk voor het welbevinden op het werk van de collega’s in je team.\nJe bouwt daartoe een goede verstandhouding uit met alle teamleden en je bent\nals eerste aanspreekpunt beschikbaar voor hen. Met oog op verdere persoonlijke\ngroei stimuleer je iedereen om hun talenten te ontplooien. Je ondersteunt\ninitiatieven in je team die de teamgeest bevorderen. Het interne team bestaat\nuit twee product owners, verschillende business analisten, twee ICT-architecten,\ntwee ontwikkelaars, een projectleider (scrum master/agile coach), een collega\ndie automatiseringen in goede banen leidt en een medewerker voor ondersteuning.<br><br>Vanuit jouw rol in\nhet D&amp;II-coördinatieteam bouw je mee aan een afdeling die gezamenlijke\noplossingen voor gebruikers vooropstelt, ongeacht vanuit welk(e) team(s) ze\naangereikt worden. Je stimuleert zoveel mogelijk betrokkenheid van je team bij\nde afdeling en je zet acties op die de samenwerking met andere teams\nbevorderen. Je zet sterk in op informatiedoorstroming zodat alle collega’s uit\nhet Competentiecentrum Applicaties voeling hebben met de rest van de afdeling\nen met de hele organisatie.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17435",
       "internal": false,
       "validThroughDate": "1742083200",
@@ -6210,8 +6344,8 @@
       "displayTitle": "Diensthoofd Vastgoed, Financieel Beheer en Coördinatie",
       "isProtected": false,
       "description": {
-        "raw": "<p> Een betaalbare en\nkwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is\nde plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te\nwerken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor\niedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en\nbetaalbaar wonen in Vlaanderen mogelijk maken.<br><br>Het agentschap Wonen in\nVlaanderen bestaat uit 7 afdelingen: de afdeling Premies en\nWoningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de\nafdeling Klantenondersteuning, de afdeling Beleid, de afdeling\nOrganisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel\nmedewerkers in dienst in Brussel als in de provinciehoofdsteden.<br><br>Een thuis voor\niedereen, dat is waar ons agentschap Wonen in Vlaanderen voor staat. Die thuis\nwillen we ook voor jou zijn: elke medewerker moet zich goed voelen binnen onze\norganisatie en in de eigen loopbaan. <br><br>Je werkt binnen de afdeling\nKlantenondersteuning. Deze afdeling wil een duurzaam partnerschap uitbouwen\nmet de klanten van Wonen in Vlaanderen. De afdeling brengt de woonpartners met\nelkaar in verbinding en faciliteert expertise uitwisseling. Jouw dienst\ncoördineert de werking voor de klanten. <br><br>Je staat aan het hoofd\nvan de dienst vastgoed, financieel beheer en coördinatie. Jouw dienst is\nverantwoordelijk voor de ondersteuning van de woonmaatschappijen (WM) bij het\nverwerven en beheren van hun vastgoed en hun financiële planning. Je dienst\nbegeleidt de resterende overdrachten van onroerende goederen in het kader van\nde vorming van de woonmaatschappijen. Ze zorgt voor de praktische voorbereiding\nen organisatie van de visitaties.&nbsp; Je\ndienst is verantwoordelijk voor de coördinatie en organisatie van opleidingen\nvoor gemeenten en woonmaatschappijen. Ze staat ook in voor de algemene visie op\nde dienstverlening aan de burger en voor het klachtenbeheer.<br><br>Je leidt het geheel van\nde activiteiten en de medewerkers van deze dienst (ongeveer 16 personen) en je\ngeeft input aan het beleid met als doel een kwaliteitsvolle, klantgerichte\ndienstverlening te verzekeren en zodoende bij te dragen tot de realisatie van\nde doelstellingen van de afdeling.<br><br>De dienst vastgoed,\nfinancieel beheer en coördinatie bouwt expertise op rond vastgoed en het\nfinancieel beheer en alle bovenvermelde activiteiten.<br><br>Dit zijn voorbeelden van\nmogelijke taken van je dienst die je gaat leiden:</p><ul><li>De woonmaatschappijen in financiële moeilijkheden begeleiden;</li><li>De woonmaatschappijen begeleiden bij de opmaak van hun financiële planning;</li><li>Het klachtenbeheer van het agentschap vorm geven en mee zorgen dat die klachten worden aangepakt;</li><li>De dienstverlening van het agentschap naar de burger coördineren;</li><li>Het opleidingsprogramma voor het agentschap, vooral naar lokale besturen en woonmaatschappijen voorbereiden en organiseren;</li><li>Mee vorm geven aan de nieuwe vorm van visitaties in partnerschap met de woonmaatschappijen.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p> Een betaalbare en\nkwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is\nde plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te\nwerken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor\niedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en\nbetaalbaar wonen in Vlaanderen mogelijk maken.<br><br>Het agentschap Wonen in\nVlaanderen bestaat uit 7 afdelingen: de afdeling Premies en\nWoningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de\nafdeling Klantenondersteuning, de afdeling Beleid, de afdeling\nOrganisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel\nmedewerkers in dienst in Brussel als in de provinciehoofdsteden.<br><br>Een thuis voor\niedereen, dat is waar ons agentschap Wonen in Vlaanderen voor staat. Die thuis\nwillen we ook voor jou zijn: elke medewerker moet zich goed voelen binnen onze\norganisatie en in de eigen loopbaan. <br><br>Je werkt binnen de afdeling\nKlantenondersteuning. Deze afdeling wil een duurzaam partnerschap uitbouwen\nmet de klanten van Wonen in Vlaanderen. De afdeling brengt de woonpartners met\nelkaar in verbinding en faciliteert expertise uitwisseling. Jouw dienst\ncoördineert de werking voor de klanten. <br><br>Je staat aan het hoofd\nvan de dienst vastgoed, financieel beheer en coördinatie. Jouw dienst is\nverantwoordelijk voor de ondersteuning van de woonmaatschappijen (WM) bij het\nverwerven en beheren van hun vastgoed en hun financiële planning. Je dienst\nbegeleidt de resterende overdrachten van onroerende goederen in het kader van\nde vorming van de woonmaatschappijen. Ze zorgt voor de praktische voorbereiding\nen organisatie van de visitaties.&nbsp; Je\ndienst is verantwoordelijk voor de coördinatie en organisatie van opleidingen\nvoor gemeenten en woonmaatschappijen. Ze staat ook in voor de algemene visie op\nde dienstverlening aan de burger en voor het klachtenbeheer.<br><br>Je leidt het geheel van\nde activiteiten en de medewerkers van deze dienst (ongeveer 16 personen) en je\ngeeft input aan het beleid met als doel een kwaliteitsvolle, klantgerichte\ndienstverlening te verzekeren en zodoende bij te dragen tot de realisatie van\nde doelstellingen van de afdeling.<br><br>De dienst vastgoed,\nfinancieel beheer en coördinatie bouwt expertise op rond vastgoed en het\nfinancieel beheer en alle bovenvermelde activiteiten.<br><br>Dit zijn voorbeelden van\nmogelijke taken van je dienst die je gaat leiden:</p><ul><li>De woonmaatschappijen in financiële moeilijkheden begeleiden;</li><li>De woonmaatschappijen begeleiden bij de opmaak van hun financiële planning;</li><li>Het klachtenbeheer van het agentschap vorm geven en mee zorgen dat die klachten worden aangepakt;</li><li>De dienstverlening van het agentschap naar de burger coördineren;</li><li>Het opleidingsprogramma voor het agentschap, vooral naar lokale besturen en woonmaatschappijen voorbereiden en organiseren;</li><li>Mee vorm geven aan de nieuwe vorm van visitaties in partnerschap met de woonmaatschappijen.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
+        "raw": "<p> Een betaalbare en\nkwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is\nde plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te\nwerken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor\niedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en\nbetaalbaar wonen in Vlaanderen mogelijk maken.<br><br>Het agentschap Wonen in\nVlaanderen bestaat uit 7 afdelingen: de afdeling Premies en\nWoningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de\nafdeling Klantenondersteuning, de afdeling Beleid, de afdeling\nOrganisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel\nmedewerkers in dienst in Brussel als in de provinciehoofdsteden.<br><br>Een thuis voor\niedereen, dat is waar ons agentschap Wonen in Vlaanderen voor staat. Die thuis\nwillen we ook voor jou zijn: elke medewerker moet zich goed voelen binnen onze\norganisatie en in de eigen loopbaan. <br><br>Je werkt binnen de afdeling\nKlantenondersteuning. Deze afdeling wil een duurzaam partnerschap uitbouwen\nmet de klanten van Wonen in Vlaanderen. De afdeling brengt de woonpartners met\nelkaar in verbinding en faciliteert expertise uitwisseling. Jouw dienst\ncoördineert de werking voor de klanten. <br><br>Je staat aan het hoofd\nvan de dienst vastgoed, financieel beheer en coördinatie. Jouw dienst is\nverantwoordelijk voor de ondersteuning van de woonmaatschappijen (WM) bij het\nverwerven en beheren van hun vastgoed en hun financiële planning. Je dienst\nbegeleidt de resterende overdrachten van onroerende goederen in het kader van\nde vorming van de woonmaatschappijen. Ze zorgt voor de praktische voorbereiding\nen organisatie van de visitaties.&nbsp; Je\ndienst is verantwoordelijk voor de coördinatie en organisatie van opleidingen\nvoor gemeenten en woonmaatschappijen. Ze staat ook in voor de algemene visie op\nde dienstverlening aan de burger en voor het klachtenbeheer.<br><br>Je leidt het geheel van\nde activiteiten en de medewerkers van deze dienst (ongeveer 16 personen) en je\ngeeft input aan het beleid met als doel een kwaliteitsvolle, klantgerichte\ndienstverlening te verzekeren en zodoende bij te dragen tot de realisatie van\nde doelstellingen van de afdeling.<br><br>De dienst vastgoed,\nfinancieel beheer en coördinatie bouwt expertise op rond vastgoed en het\nfinancieel beheer en alle bovenvermelde activiteiten.<br><br>Dit zijn voorbeelden van\nmogelijke taken van je dienst die je gaat leiden:</p><ul><li>De woonmaatschappijen in financiële moeilijkheden begeleiden;</li><li>De woonmaatschappijen begeleiden bij de opmaak van hun financiële planning;</li><li>Het klachtenbeheer van het agentschap vorm geven en mee zorgen dat die klachten worden aangepakt;</li><li>De dienstverlening van het agentschap naar de burger coördineren;</li><li>Het opleidingsprogramma voor het agentschap, vooral naar lokale besturen en woonmaatschappijen voorbereiden en organiseren;</li><li>Mee vorm geven aan de nieuwe vorm van visitaties in partnerschap met de woonmaatschappijen.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
+        "htmlEncoded": "<p> Een betaalbare en\nkwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is\nde plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te\nwerken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor\niedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en\nbetaalbaar wonen in Vlaanderen mogelijk maken.<br><br>Het agentschap Wonen in\nVlaanderen bestaat uit 7 afdelingen: de afdeling Premies en\nWoningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de\nafdeling Klantenondersteuning, de afdeling Beleid, de afdeling\nOrganisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel\nmedewerkers in dienst in Brussel als in de provinciehoofdsteden.<br><br>Een thuis voor\niedereen, dat is waar ons agentschap Wonen in Vlaanderen voor staat. Die thuis\nwillen we ook voor jou zijn: elke medewerker moet zich goed voelen binnen onze\norganisatie en in de eigen loopbaan. <br><br>Je werkt binnen de afdeling\nKlantenondersteuning. Deze afdeling wil een duurzaam partnerschap uitbouwen\nmet de klanten van Wonen in Vlaanderen. De afdeling brengt de woonpartners met\nelkaar in verbinding en faciliteert expertise uitwisseling. Jouw dienst\ncoördineert de werking voor de klanten. <br><br>Je staat aan het hoofd\nvan de dienst vastgoed, financieel beheer en coördinatie. Jouw dienst is\nverantwoordelijk voor de ondersteuning van de woonmaatschappijen (WM) bij het\nverwerven en beheren van hun vastgoed en hun financiële planning. Je dienst\nbegeleidt de resterende overdrachten van onroerende goederen in het kader van\nde vorming van de woonmaatschappijen. Ze zorgt voor de praktische voorbereiding\nen organisatie van de visitaties.&nbsp; Je\ndienst is verantwoordelijk voor de coördinatie en organisatie van opleidingen\nvoor gemeenten en woonmaatschappijen. Ze staat ook in voor de algemene visie op\nde dienstverlening aan de burger en voor het klachtenbeheer.<br><br>Je leidt het geheel van\nde activiteiten en de medewerkers van deze dienst (ongeveer 16 personen) en je\ngeeft input aan het beleid met als doel een kwaliteitsvolle, klantgerichte\ndienstverlening te verzekeren en zodoende bij te dragen tot de realisatie van\nde doelstellingen van de afdeling.<br><br>De dienst vastgoed,\nfinancieel beheer en coördinatie bouwt expertise op rond vastgoed en het\nfinancieel beheer en alle bovenvermelde activiteiten.<br><br>Dit zijn voorbeelden van\nmogelijke taken van je dienst die je gaat leiden:</p><ul><li>De woonmaatschappijen in financiële moeilijkheden begeleiden;</li><li>De woonmaatschappijen begeleiden bij de opmaak van hun financiële planning;</li><li>Het klachtenbeheer van het agentschap vorm geven en mee zorgen dat die klachten worden aangepakt;</li><li>De dienstverlening van het agentschap naar de burger coördineren;</li><li>Het opleidingsprogramma voor het agentschap, vooral naar lokale besturen en woonmaatschappijen voorbereiden en organiseren;</li><li>Mee vorm geven aan de nieuwe vorm van visitaties in partnerschap met de woonmaatschappijen.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
       },
       "locations": [
         {
