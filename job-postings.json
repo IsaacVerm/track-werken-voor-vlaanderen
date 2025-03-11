@@ -1,39 +1,39 @@
 {
-  "totalItems": 193,
+  "totalItems": 188,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 192,
+  "lastItemOfPage": 187,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 193,
+        "count": 188,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 193,
+        "count": 188,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 125,
+        "count": 123,
         "label": "Brussel"
       },
       {
         "value": "Antwerpen",
-        "count": 17,
+        "count": 15,
         "label": "Antwerpen"
       },
       {
         "value": "Hasselt",
-        "count": 10,
+        "count": 9,
         "label": "Hasselt"
       },
       {
@@ -62,11 +62,6 @@
         "label": "Sint-Joost-ten-Node"
       },
       {
-        "value": "Willebroek",
-        "count": 4,
-        "label": "Willebroek"
-      },
-      {
         "value": "Brugge",
         "count": 3,
         "label": "Brugge"
@@ -75,6 +70,11 @@
         "value": "Mechelen",
         "count": 3,
         "label": "Mechelen"
+      },
+      {
+        "value": "Willebroek",
+        "count": 3,
+        "label": "Willebroek"
       },
       {
         "value": "Wondelgem",
@@ -90,11 +90,6 @@
         "value": "Geel",
         "count": 2,
         "label": "Geel"
-      },
-      {
-        "value": "Oostende",
-        "count": 2,
-        "label": "Oostende"
       },
       {
         "value": "Sint-Gillis",
@@ -147,11 +142,6 @@
         "label": "Herentals"
       },
       {
-        "value": "Ka Vlissingen",
-        "count": 1,
-        "label": "Ka Vlissingen"
-      },
-      {
         "value": "Kasterlee",
         "count": 1,
         "label": "Kasterlee"
@@ -165,6 +155,11 @@
         "value": "Mol",
         "count": 1,
         "label": "Mol"
+      },
+      {
+        "value": "Oostende",
+        "count": 1,
+        "label": "Oostende"
       },
       {
         "value": "Ruiselede",
@@ -195,7 +190,7 @@
     "contentSubtypeData__domain": [
       {
         "value": "ICT",
-        "count": 67,
+        "count": 66,
         "label": "ICT"
       },
       {
@@ -205,7 +200,7 @@
       },
       {
         "value": "Administratie",
-        "count": 16,
+        "count": 15,
         "label": "Administratie"
       },
       {
@@ -230,7 +225,7 @@
       },
       {
         "value": "Techniek",
-        "count": 8,
+        "count": 6,
         "label": "Techniek"
       },
       {
@@ -260,7 +255,7 @@
       },
       {
         "value": "Human resources",
-        "count": 3,
+        "count": 2,
         "label": "Human resources"
       },
       {
@@ -302,26 +297,26 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 193,
+        "count": 188,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 180,
+        "count": 176,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 13,
+        "count": 12,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 165,
+        "count": 160,
         "label": "Vaste job"
       },
       {
@@ -348,12 +343,12 @@
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 84,
+        "count": 83,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 74,
+        "count": 72,
         "label": "Masterdiploma"
       },
       {
@@ -363,14 +358,14 @@
       },
       {
         "value": "Geen specifieke studievereisten",
-        "count": 9,
+        "count": 8,
         "label": "Geen specifieke studievereisten"
       }
     ],
     "contentSubtypeData__hiringOrganization": [
       {
         "value": "Vlaanderen connect.",
-        "count": 76,
+        "count": 75,
         "label": "Vlaanderen connect."
       },
       {
@@ -379,14 +374,14 @@
         "label": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"
       },
       {
-        "value": "De Vlaamse Waterweg",
-        "count": 9,
-        "label": "De Vlaamse Waterweg"
-      },
-      {
         "value": "Agentschap Wegen en Verkeer",
         "count": 8,
         "label": "Agentschap Wegen en Verkeer"
+      },
+      {
+        "value": "De Vlaamse Waterweg",
+        "count": 8,
+        "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Departement Mobiliteit en Openbare Werken",
@@ -414,24 +409,24 @@
         "label": "Sport Vlaanderen"
       },
       {
-        "value": "Agentschap voor Maritieme Dienstverlening en Kust",
-        "count": 4,
-        "label": "Agentschap voor Maritieme Dienstverlening en Kust"
-      },
-      {
         "value": "Departement Cultuur, Jeugd en Media",
         "count": 4,
         "label": "Departement Cultuur, Jeugd en Media"
       },
       {
-        "value": "Eigen Vermogen Xperta",
-        "count": 4,
-        "label": "Eigen Vermogen Xperta"
-      },
-      {
         "value": "Vlaamse Landmaatschappij",
         "count": 4,
         "label": "Vlaamse Landmaatschappij"
+      },
+      {
+        "value": "Agentschap voor Maritieme Dienstverlening en Kust",
+        "count": 3,
+        "label": "Agentschap voor Maritieme Dienstverlening en Kust"
+      },
+      {
+        "value": "Eigen Vermogen Xperta",
+        "count": 3,
+        "label": "Eigen Vermogen Xperta"
       },
       {
         "value": "GO! onderwijs van de Vlaamse Gemeenschap",
@@ -452,11 +447,6 @@
         "value": "Wonen in Vlaanderen",
         "count": 3,
         "label": "Wonen in Vlaanderen"
-      },
-      {
-        "value": "agentschap Digitaal Vlaanderen",
-        "count": 3,
-        "label": "agentschap Digitaal Vlaanderen"
       },
       {
         "value": "Agentschap Facilitair Bedrijf",
@@ -482,6 +472,11 @@
         "value": "VLAIO (Agentschap Innoveren & Ondernemen)",
         "count": 2,
         "label": "VLAIO (Agentschap Innoveren & Ondernemen)"
+      },
+      {
+        "value": "agentschap Digitaal Vlaanderen",
+        "count": 2,
+        "label": "agentschap Digitaal Vlaanderen"
       },
       {
         "value": "Agentschap Landbouw en Zeevisserij",
@@ -587,7 +582,7 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 105,
+        "count": 101,
         "label": "false"
       }
     ]
@@ -3184,41 +3179,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69397166",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69397166",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Teamleider Business Analyse (Dept. Omgeving) via Vlaanderen Connect"
-      },
-      "displayTitle": "Teamleider Business Analyse (Dept. Omgeving) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Inleiding </strong></p> \n<p><span><span lang=\"NL\">Heb je ruime ervaring in business analyse ? Heb je ervaring als teamlead?</span></span></p> \n<p><span><span lang=\"NL\">Zoek je een uitdaging om een analistenteam aan te sturen en te coachen? </span></span></p> \n<p>Lees dan verder of deze functie bij je past.</p> \n<p> </p> \n<p><strong>Waar kom je terecht? </strong></p> \n<p>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</p> \n<p>Afdeling Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur.</p> \n<p><strong>Het team </strong></p> \n<p>Het team bestaat momenteel uit zes analisten. Deze analisten werken mee aan de strategische programma’s van het departement. De afdeling Digitalisering bestaat uit tachtig collega’s die instaan voor softwareontwikkeling, datamanagement, data governance en informatiebeheer, projectbeheer, analyse en architectuur, en IT-infrastructuur.</p>",
-        "htmlEncoded": "<p><strong>Inleiding </strong></p> \n<p><span><span lang=\"NL\">Heb je ruime ervaring in business analyse ? Heb je ervaring als teamlead?</span></span></p> \n<p><span><span lang=\"NL\">Zoek je een uitdaging om een analistenteam aan te sturen en te coachen? </span></span></p> \n<p>Lees dan verder of deze functie bij je past.</p> \n<p> </p> \n<p><strong>Waar kom je terecht? </strong></p> \n<p>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</p> \n<p>Afdeling Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur.</p> \n<p><strong>Het team </strong></p> \n<p>Het team bestaat momenteel uit zes analisten. Deze analisten werken mee aan de strategische programma’s van het departement. De afdeling Digitalisering bestaat uit tachtig collega’s die instaan voor softwareontwikkeling, datamanagement, data governance en informatiebeheer, projectbeheer, analyse en architectuur, en IT-infrastructuur.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69383308",
       "internal": false,
       "validThroughDate": "-1",
@@ -5268,38 +5228,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17555",
-      "internal": true,
-      "validThroughDate": "1741564800",
-      "hiringOrganization": "agentschap Digitaal Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17555",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Aansluitingsmanager"
-      },
-      "displayTitle": "Aansluitingsmanager",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame Aansluitingsbeheerder Expert om de afdeling Dataplatform te versterken.<span>&nbsp;<br><br></span></p> <p><b>Waar kom je terecht?</b><b><span>&nbsp;</span></b><span>&nbsp;</span></p> <p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.<span> </span><font face=\"Cambria, serif\">&nbsp;</font><br><br></p> <p><b>Wat zal je moeten doen?</b><b><span>&nbsp;</span></b><span>&nbsp;</span></p> <p><b>Jouw kernverantwoordelijkheden:</b><b><span></span></b></p><ul><li><b><span>&nbsp;</span></b><span>Je verzorgt de planning, organisatie en opvolging van aansluitingen op het MAGDA-platform.</span></li><li>Je bent het aanspreekpunt voor de klanten en de andere MAGDA-teams waarmee je samenwerkt.</li><li>Je draagt kennis, ervaring en goede praktijken over naar medewerkers van Digitaal Vlaanderen.</li><li>Je analyseert het huidige aansluitingsproces en formuleert heldere verbetervoorstellen.</li><li>Je zorgt voor de voorbereiding van de overlegmomenten, in samenwerking met de teamlead.</li><li>Je faciliteert vergaderingen, workshops en werkgroepen met diverse stakeholders.</li><li>Je bent verantwoordelijk voor de begeleiding en ondersteuning van klanten voor reeds aangesloten of aan te sluiten producten en/of diensten van Informatie Vlaanderen.</li><li>Je neemt voor klanten nieuwe complexe aansluitingstrajecten op maat op, waarbij je op zoek gaat naar hun behoeften en verwachtingen, deze vertaalt in geïntegreerde oplossingen op inhoudelijk, procesmatig, juridisch, administratief en/of technisch vlak. Op die manier zorg je voor een vlotte implementatie bij de klant, een toenemend aanbod van producten en/of diensten van Digitaal Vlaanderen en voor een stijgende klantentevredenheid.</li></ul>",
-        "htmlEncoded": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame Aansluitingsbeheerder Expert om de afdeling Dataplatform te versterken.<span>&nbsp;<br><br></span></p> <p><b>Waar kom je terecht?</b><b><span>&nbsp;</span></b><span>&nbsp;</span></p> <p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.<span> </span><font face=\"Cambria, serif\">&nbsp;</font><br><br></p> <p><b>Wat zal je moeten doen?</b><b><span>&nbsp;</span></b><span>&nbsp;</span></p> <p><b>Jouw kernverantwoordelijkheden:</b><b><span></span></b></p><ul><li><b><span>&nbsp;</span></b><span>Je verzorgt de planning, organisatie en opvolging van aansluitingen op het MAGDA-platform.</span></li><li>Je bent het aanspreekpunt voor de klanten en de andere MAGDA-teams waarmee je samenwerkt.</li><li>Je draagt kennis, ervaring en goede praktijken over naar medewerkers van Digitaal Vlaanderen.</li><li>Je analyseert het huidige aansluitingsproces en formuleert heldere verbetervoorstellen.</li><li>Je zorgt voor de voorbereiding van de overlegmomenten, in samenwerking met de teamlead.</li><li>Je faciliteert vergaderingen, workshops en werkgroepen met diverse stakeholders.</li><li>Je bent verantwoordelijk voor de begeleiding en ondersteuning van klanten voor reeds aangesloten of aan te sluiten producten en/of diensten van Informatie Vlaanderen.</li><li>Je neemt voor klanten nieuwe complexe aansluitingstrajecten op maat op, waarbij je op zoek gaat naar hun behoeften en verwachtingen, deze vertaalt in geïntegreerde oplossingen op inhoudelijk, procesmatig, juridisch, administratief en/of technisch vlak. Op die manier zorg je voor een vlotte implementatie bij de klant, een toenemend aanbod van producten en/of diensten van Digitaal Vlaanderen en voor een stijgende klantentevredenheid.</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17553",
       "internal": false,
       "validThroughDate": "1742688000",
@@ -6463,41 +6391,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17416",
-      "internal": false,
-      "validThroughDate": "1741564800",
-      "hiringOrganization": "Eigen Vermogen Xperta",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17416",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Deskundige hydrodynamische en morfologische monitoring"
-      },
-      "displayTitle": "Deskundige hydrodynamische en morfologische monitoring",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een gedreven professional met een interesse voor hydrodynamische en morfologische metingen? Wil je door monitoring bijdragen aan de ondersteuning van het beheer van de Vlaamse waterwegen? Dan is deze functie iets voor jou!&nbsp;</p><p>Als deskundige hydrodynamische en morfologische monitoring werk je binnen het HIC-meetnetteam van het Waterbouwkundig Laboratorium. Je speelt een cruciale rol in het voorbereiden en uitvoeren van hydrodynamische, morfologische en fysico-chemische metingen, zowel op de waterwegen als aan de Belgische kust.</p><ul><li><strong>Voorbereiding: </strong>Je plant en organiseert de varende metingen, inclusief het afstemmen met klanten en externe partners. Je zorgt ervoor dat deze meetcampagnes efficiënt en volgens planning verlopen. Je bereidt ook niet-varende meetcampagnes voor.</li><li><strong>Uitvoering:</strong> Je voert diverse metingen uit, zowel varend als niet-varend, en werkt nauw samen met specialisten en onderzoekers. Je bent verantwoordelijk voor de mobilisatie en demobilisatie van meetapparatuur en het uitlezen en onderhouden van de meetinstrumenten.</li><li><strong>Rapporteren: </strong>Je rapporteert over de voortgang en resultaten van de meetcampagnes aan de leidinggevende en klanten. Je levert accurate data aan onderzoekers en signaleert eventuele problemen met meetinstrumenten.</li><li><strong>Beheer: </strong>Je inventariseert en onderhoudt het benodigde materiaal en assisteert bij het programmeren van meettoestellen. Je zorgt ervoor dat alle materialen en gegevens bruikbaar en up-to-date zijn.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij een gedreven professional met een interesse voor hydrodynamische en morfologische metingen? Wil je door monitoring bijdragen aan de ondersteuning van het beheer van de Vlaamse waterwegen? Dan is deze functie iets voor jou!&nbsp;</p><p>Als deskundige hydrodynamische en morfologische monitoring werk je binnen het HIC-meetnetteam van het Waterbouwkundig Laboratorium. Je speelt een cruciale rol in het voorbereiden en uitvoeren van hydrodynamische, morfologische en fysico-chemische metingen, zowel op de waterwegen als aan de Belgische kust.</p><ul><li><strong>Voorbereiding: </strong>Je plant en organiseert de varende metingen, inclusief het afstemmen met klanten en externe partners. Je zorgt ervoor dat deze meetcampagnes efficiënt en volgens planning verlopen. Je bereidt ook niet-varende meetcampagnes voor.</li><li><strong>Uitvoering:</strong> Je voert diverse metingen uit, zowel varend als niet-varend, en werkt nauw samen met specialisten en onderzoekers. Je bent verantwoordelijk voor de mobilisatie en demobilisatie van meetapparatuur en het uitlezen en onderhouden van de meetinstrumenten.</li><li><strong>Rapporteren: </strong>Je rapporteert over de voortgang en resultaten van de meetcampagnes aan de leidinggevende en klanten. Je levert accurate data aan onderzoekers en signaleert eventuele problemen met meetinstrumenten.</li><li><strong>Beheer: </strong>Je inventariseert en onderhoudt het benodigde materiaal en assisteert bij het programmeren van meettoestellen. Je zorgt ervoor dat alle materialen en gegevens bruikbaar en up-to-date zijn.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17410",
       "internal": false,
       "validThroughDate": "1742688000",
@@ -6533,46 +6426,6 @@
         {
           "address": {
             "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17377",
-      "internal": false,
-      "validThroughDate": "1741564800",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17377",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Stafmedewerker HRM"
-      },
-      "displayTitle": "Stafmedewerker HRM",
-      "isProtected": false,
-      "description": {
-        "raw": "Heb je een passie voor mensen en processen? Ben jij een gedreven HR-professional met een scherp oog voor beleid én de menselijke kant bij het uitvoeren van projecten?<br>De Vlaamse Waterweg zoekt een enthousiaste stafmedewerker HRM om het team te versterken en mee te bouwen aan een toekomstgericht HR-beleid en een sterke dienstverlening.<br>Als stafmedewerker HRM maak je deel uit van een klein, hecht team. Afhankelijk van het thema werk je intensief samen met collega’s uit verschillende teams in de organisatie. Communicatie en samenwerking staan dan ook centraal in jouw rol.<br>Je speelt een sleutelrol in het sturen, uittekenen en implementeren van de HR-strategie en werkt mee aan diverse projecten binnen verschillende HR-domeinen.<br>Je zet je expertise in om het HR-beleid te vertalen naar concrete processen en werkbare instrumenten. Je hebt interpersoonlijke vaardigheden in het kader van een vlotte samenwerking en hebt oog voor de menselijke aspecten bij veranderingstrajecten. Je enthousiasmeert collega’s, creëert draagvlak en begeleidt de implementatie en de verandering die daarmee gepaard gaat.",
-        "htmlEncoded": "Heb je een passie voor mensen en processen? Ben jij een gedreven HR-professional met een scherp oog voor beleid én de menselijke kant bij het uitvoeren van projecten?<br>De Vlaamse Waterweg zoekt een enthousiaste stafmedewerker HRM om het team te versterken en mee te bouwen aan een toekomstgericht HR-beleid en een sterke dienstverlening.<br>Als stafmedewerker HRM maak je deel uit van een klein, hecht team. Afhankelijk van het thema werk je intensief samen met collega’s uit verschillende teams in de organisatie. Communicatie en samenwerking staan dan ook centraal in jouw rol.<br>Je speelt een sleutelrol in het sturen, uittekenen en implementeren van de HR-strategie en werkt mee aan diverse projecten binnen verschillende HR-domeinen.<br>Je zet je expertise in om het HR-beleid te vertalen naar concrete processen en werkbare instrumenten. Je hebt interpersoonlijke vaardigheden in het kader van een vlotte samenwerking en hebt oog voor de menselijke aspecten bij veranderingstrajecten. Je enthousiasmeert collega’s, creëert draagvlak en begeleidt de implementatie en de verandering die daarmee gepaard gaat."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Willebroek"
           }
         }
       ]
@@ -6903,51 +6756,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17059",
-      "internal": false,
-      "validThroughDate": "1741564800",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17059",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Motorist"
-      },
-      "displayTitle": "Motorist",
-      "isProtected": false,
-      "description": {
-        "raw": "Wil jij je technische kennis van boten\nen motoren naar een hoger niveau tillen? Draag jij graag je steentje bij aan de\nveiligheid op de Belgische wateren? Lees dan zeker over deze boeiende functie van\nmotorist bij Vloot! <br><br>Je hoofdtaak als <strong>motorist</strong> bestaat eruit het schip of de technische installaties (boeien,\nlichtinstallaties, …) op de vaarwegen en aan de wal goed te onderhouden. Je\nzorgt er op die manier voor dat de motoren, mechanische en elektrische\nuitrustingen correct werken en zo lang mogelijk meegaan. Zo garandeer je mee de\nveiligheid op het water. Je staat tevens garant voor een kwalitatief onderhoud\nvan het werkmateriaal (bedieningsapparatuur, machines,…) en een ordelijke\nwerkplaats. <br><br>Kleinere taken, maar daarom niet\nminder belangrijk, zijn het opvolgen van de voorraad, het inschrijven van\nleveringen, het zetten van bestellingen en ander licht administratief werk. <br><br>Tot slot zoeken wij een motorist die\nbeschikt over een milieubewuste en flexibele werkhouding. Bij uitzonderlijke\nopdrachten, afwezigheid van collega’s bijvoorbeeld, ben je dan ook bereid om in\nte springen of een extra inspanning te leveren. Je werkt in een <strong>volcontinu\n</strong>systeem. <br><br>Als motorist ga je aan de slag bij\nrederij Vloot van het Agentschap Maritieme Dienstverlening en Kust. Je\nstandplaats is <strong>Antwerpen, Oostende of Vlissingen.</strong><br><br><strong>DAB Vloot </strong>is een rederij gespecialiseerd in het\nmanagement van schepen (technisch, operationeel, nieuwbouw) die ingezet worden\nvoor opdrachten binnen de overheidsniche. Vloot heeft ongeveer 40 vaartuigen en\nmeer dan 500 personeelsleden in dienst.<br><br>Meer weten over Vloot? <a href=\"https://www.agentschapmdk.be/nl/afdelingen/vloot\">Je vindt meer info op onze site Vloot | Agentschap MDK</a>&nbsp;<br><br>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.",
-        "htmlEncoded": "Wil jij je technische kennis van boten\nen motoren naar een hoger niveau tillen? Draag jij graag je steentje bij aan de\nveiligheid op de Belgische wateren? Lees dan zeker over deze boeiende functie van\nmotorist bij Vloot! <br><br>Je hoofdtaak als <strong>motorist</strong> bestaat eruit het schip of de technische installaties (boeien,\nlichtinstallaties, …) op de vaarwegen en aan de wal goed te onderhouden. Je\nzorgt er op die manier voor dat de motoren, mechanische en elektrische\nuitrustingen correct werken en zo lang mogelijk meegaan. Zo garandeer je mee de\nveiligheid op het water. Je staat tevens garant voor een kwalitatief onderhoud\nvan het werkmateriaal (bedieningsapparatuur, machines,…) en een ordelijke\nwerkplaats. <br><br>Kleinere taken, maar daarom niet\nminder belangrijk, zijn het opvolgen van de voorraad, het inschrijven van\nleveringen, het zetten van bestellingen en ander licht administratief werk. <br><br>Tot slot zoeken wij een motorist die\nbeschikt over een milieubewuste en flexibele werkhouding. Bij uitzonderlijke\nopdrachten, afwezigheid van collega’s bijvoorbeeld, ben je dan ook bereid om in\nte springen of een extra inspanning te leveren. Je werkt in een <strong>volcontinu\n</strong>systeem. <br><br>Als motorist ga je aan de slag bij\nrederij Vloot van het Agentschap Maritieme Dienstverlening en Kust. Je\nstandplaats is <strong>Antwerpen, Oostende of Vlissingen.</strong><br><br><strong>DAB Vloot </strong>is een rederij gespecialiseerd in het\nmanagement van schepen (technisch, operationeel, nieuwbouw) die ingezet worden\nvoor opdrachten binnen de overheidsniche. Vloot heeft ongeveer 40 vaartuigen en\nmeer dan 500 personeelsleden in dienst.<br><br>Meer weten over Vloot? <a href=\"https://www.agentschapmdk.be/nl/afdelingen/vloot\">Je vindt meer info op onze site Vloot | Agentschap MDK</a>&nbsp;<br><br>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Ka Vlissingen"
-          }
-        },
-        {
-          "address": {
-            "city": "Oostende"
           }
         }
       ]
