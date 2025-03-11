@@ -1,29 +1,29 @@
 {
-  "totalItems": 188,
+  "totalItems": 193,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 187,
+  "lastItemOfPage": 192,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 188,
+        "count": 193,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 188,
+        "count": 193,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 123,
+        "count": 122,
         "label": "Brussel"
       },
       {
@@ -42,14 +42,14 @@
         "label": "Gent"
       },
       {
+        "value": "Leuven",
+        "count": 6,
+        "label": "Leuven"
+      },
+      {
         "value": "Merelbeke-Melle",
         "count": 6,
         "label": "Merelbeke-Melle"
-      },
-      {
-        "value": "Leuven",
-        "count": 5,
-        "label": "Leuven"
       },
       {
         "value": "Rekem",
@@ -60,6 +60,11 @@
         "value": "Sint-Joost-ten-Node",
         "count": 5,
         "label": "Sint-Joost-ten-Node"
+      },
+      {
+        "value": "Wondelgem",
+        "count": 4,
+        "label": "Wondelgem"
       },
       {
         "value": "Brugge",
@@ -75,11 +80,6 @@
         "value": "Willebroek",
         "count": 3,
         "label": "Willebroek"
-      },
-      {
-        "value": "Wondelgem",
-        "count": 3,
-        "label": "Wondelgem"
       },
       {
         "value": "Evergem",
@@ -100,6 +100,11 @@
         "value": "Turnhout",
         "count": 2,
         "label": "Turnhout"
+      },
+      {
+        "value": "Wemmel",
+        "count": 2,
+        "label": "Wemmel"
       },
       {
         "value": "Aalst",
@@ -130,6 +135,11 @@
         "value": "Genk",
         "count": 1,
         "label": "Genk"
+      },
+      {
+        "value": "Geraardsbergen",
+        "count": 1,
+        "label": "Geraardsbergen"
       },
       {
         "value": "Halle",
@@ -167,14 +177,14 @@
         "label": "Ruiselede"
       },
       {
+        "value": "Sint-Niklaas",
+        "count": 1,
+        "label": "Sint-Niklaas"
+      },
+      {
         "value": "Tienen",
         "count": 1,
         "label": "Tienen"
-      },
-      {
-        "value": "Wemmel",
-        "count": 1,
-        "label": "Wemmel"
       },
       {
         "value": "Wingene",
@@ -185,17 +195,22 @@
         "value": "Zaventem",
         "count": 1,
         "label": "Zaventem"
+      },
+      {
+        "value": "Zemst",
+        "count": 1,
+        "label": "Zemst"
       }
     ],
     "contentSubtypeData__domain": [
       {
         "value": "ICT",
-        "count": 66,
+        "count": 64,
         "label": "ICT"
       },
       {
         "value": "Dienstverlening",
-        "count": 29,
+        "count": 32,
         "label": "Dienstverlening"
       },
       {
@@ -210,18 +225,18 @@
       },
       {
         "value": "Logistiek en transport",
-        "count": 9,
+        "count": 11,
         "label": "Logistiek en transport"
+      },
+      {
+        "value": "Onderzoek en ontwikkeling",
+        "count": 9,
+        "label": "Onderzoek en ontwikkeling"
       },
       {
         "value": "Andere",
         "count": 8,
         "label": "Andere"
-      },
-      {
-        "value": "Onderzoek en ontwikkeling",
-        "count": 8,
-        "label": "Onderzoek en ontwikkeling"
       },
       {
         "value": "Techniek",
@@ -254,6 +269,11 @@
         "label": "Horeca en toerisme"
       },
       {
+        "value": "Communicatie",
+        "count": 2,
+        "label": "Communicatie"
+      },
+      {
         "value": "Human resources",
         "count": 2,
         "label": "Human resources"
@@ -279,11 +299,6 @@
         "label": "Bouw"
       },
       {
-        "value": "Communicatie",
-        "count": 1,
-        "label": "Communicatie"
-      },
-      {
         "value": "Land- en tuinbouw",
         "count": 1,
         "label": "Land- en tuinbouw"
@@ -297,31 +312,31 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 188,
+        "count": 193,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 176,
+        "count": 180,
         "label": "false"
       },
       {
         "value": "true",
-        "count": 12,
+        "count": 13,
         "label": "true"
       }
     ],
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 160,
+        "count": 163,
         "label": "Vaste job"
       },
       {
         "value": "Bepaalde duur",
-        "count": 18,
+        "count": 19,
         "label": "Bepaalde duur"
       },
       {
@@ -330,58 +345,58 @@
         "label": "Jobstudent"
       },
       {
+        "value": "Vervangingsovereenkomst",
+        "count": 3,
+        "label": "Vervangingsovereenkomst"
+      },
+      {
         "value": "Managementfuncties",
         "count": 2,
         "label": "Managementfuncties"
-      },
-      {
-        "value": "Vervangingsovereenkomst",
-        "count": 2,
-        "label": "Vervangingsovereenkomst"
       }
     ],
     "contentSubtypeData__degreeLevel__name": [
       {
         "value": "Graduaats- of bachelordiploma",
-        "count": 83,
+        "count": 84,
         "label": "Graduaats- of bachelordiploma"
       },
       {
         "value": "Masterdiploma",
-        "count": 72,
+        "count": 74,
         "label": "Masterdiploma"
       },
       {
         "value": "Secundair onderwijs",
-        "count": 13,
+        "count": 14,
         "label": "Secundair onderwijs"
       },
       {
         "value": "Geen specifieke studievereisten",
-        "count": 8,
+        "count": 9,
         "label": "Geen specifieke studievereisten"
       }
     ],
     "contentSubtypeData__hiringOrganization": [
       {
         "value": "Vlaanderen connect.",
-        "count": 75,
+        "count": 73,
         "label": "Vlaanderen connect."
       },
       {
         "value": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-        "count": 13,
+        "count": 16,
         "label": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"
+      },
+      {
+        "value": "De Vlaamse Waterweg",
+        "count": 10,
+        "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Agentschap Wegen en Verkeer",
         "count": 8,
         "label": "Agentschap Wegen en Verkeer"
-      },
-      {
-        "value": "De Vlaamse Waterweg",
-        "count": 8,
-        "label": "De Vlaamse Waterweg"
       },
       {
         "value": "Departement Mobiliteit en Openbare Werken",
@@ -479,6 +494,11 @@
         "label": "agentschap Digitaal Vlaanderen"
       },
       {
+        "value": "vzw 'de Rand'",
+        "count": 2,
+        "label": "vzw 'de Rand'"
+      },
+      {
         "value": "Agentschap Landbouw en Zeevisserij",
         "count": 1,
         "label": "Agentschap Landbouw en Zeevisserij"
@@ -534,6 +554,11 @@
         "label": "ILVO Landbouw en Maatschappij"
       },
       {
+        "value": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+        "count": 1,
+        "label": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)"
+      },
+      {
         "value": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
         "count": 1,
         "label": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)"
@@ -572,22 +597,87 @@
         "value": "Vlaams Energie- en Klimaatagentschap",
         "count": 1,
         "label": "Vlaams Energie- en Klimaatagentschap"
-      },
-      {
-        "value": "vzw 'de Rand'",
-        "count": 1,
-        "label": "vzw 'de Rand'"
       }
     ],
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 101,
+        "count": 106,
         "label": "false"
       }
     ]
   },
   "items": [
+    {
+      "link": "/Job/vdab-70621769",
+      "internal": false,
+      "validThroughDate": "1745193600",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70621769",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker Natuurrapportering"
+      },
+      "displayTitle": "Onderzoeker Natuurrapportering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als lid van ons onderzoeksteam Natuurrapport en Adviescoördinatie speel je een cruciale rol bij het beschrijven en evalueren van de toestand van de biodiversiteit en het biodiversiteitsbeleid in Vlaanderen.</p>",
+        "htmlEncoded": "<p>Als lid van ons onderzoeksteam Natuurrapport en Adviescoördinatie speel je een cruciale rol bij het beschrijven en evalueren van de toestand van de biodiversiteit en het biodiversiteitsbeleid in Vlaanderen.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70619132",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "vzw 'de Rand'",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70619132",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Webmaster"
+      },
+      "displayTitle": "Webmaster",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Vzw ‘de Rand’ is een privaatrechtelijk extern verzelfstandigd agentschap. In opdracht van de Vlaamse overheid én de provincie Vlaams-Brabant zet de vzw in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt o.a. door het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>",
+        "htmlEncoded": "<p><span>Vzw ‘de Rand’ is een privaatrechtelijk extern verzelfstandigd agentschap. In opdracht van de Vlaamse overheid én de provincie Vlaams-Brabant zet de vzw in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt o.a. door het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Wemmel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70608512",
       "internal": false,
@@ -2724,76 +2814,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69967618",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69967618",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "UA testanalist (Vlaamse Belastingdienst) via Vlaanderen Connect"
-      },
-      "displayTitle": "UA testanalist (Vlaamse Belastingdienst) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Jouw werkzaamheden situeren zich binnen het Testteam dat deel uitmaakt van de afdeling ICT Dienstencentrum binnen de Vlaamse belastingdienst .</span></p> \n<p><span>De focus ligt op de user acceptance en E2E-testen waarbij je verantwoordelijk bent voor het ontwerpen, uitvoeren en rapporteren van testen die gericht zijn op:</span></p> \n<ul> \n<li><span>User acceptance testen: validatie van systeem en applicaties opdat deze geschikt en aanvaardbaar zijn voor alle gebruikers</span></li> \n<li><span>E2E-testen: validatie van alle E2E business processen met alle betrokken actoren over het volledige systeem heen</span></li> </ul> \n<p><span>Op basis van business en functionele analyses stel je voor beide test levels testscenario’s op die je handmatig (of automatisch) uitvoert. Je signaleert afwijkingen onder de vorm van defecten en denkt creatief mee naar mogelijke oplossingen. </span></p> \n<p><span>Je documenteert alle testresultaten en geeft advies rond het opleveren van een release.Je brengt verbetervoorstellen aan om het testproces te optimaliseren. </span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Jouw werkzaamheden situeren zich binnen het Testteam dat deel uitmaakt van de afdeling ICT Dienstencentrum binnen de Vlaamse belastingdienst .</span></p> \n<p><span>De focus ligt op de user acceptance en E2E-testen waarbij je verantwoordelijk bent voor het ontwerpen, uitvoeren en rapporteren van testen die gericht zijn op:</span></p> \n<ul> \n<li><span>User acceptance testen: validatie van systeem en applicaties opdat deze geschikt en aanvaardbaar zijn voor alle gebruikers</span></li> \n<li><span>E2E-testen: validatie van alle E2E business processen met alle betrokken actoren over het volledige systeem heen</span></li> </ul> \n<p><span>Op basis van business en functionele analyses stel je voor beide test levels testscenario’s op die je handmatig (of automatisch) uitvoert. Je signaleert afwijkingen onder de vorm van defecten en denkt creatief mee naar mogelijke oplossingen. </span></p> \n<p><span>Je documenteert alle testresultaten en geeft advies rond het opleveren van een release.Je brengt verbetervoorstellen aan om het testproces te optimaliseren. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-69967389",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69967389",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "INT testanalist (Vlaamse Belastingdienst) via Vlaanderen Connect"
-      },
-      "displayTitle": "INT testanalist (Vlaamse Belastingdienst) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Jouw werkzaamheden situeren zich binnen het Testteam dat deel uitmaakt van de afdeling ICT Dienstencentrum binnen de Vlaamse belastingdienst .</span></p> \n<p><span>De focus ligt op de integratie- en systeemtesten waarbij je verantwoordelijk bent voor het ontwerpen, uitvoeren en rapporteren van testen die gericht zijn op:</span></p> \n<ul> \n<li><span><span>Integratietesten: verificatie van de interactie tussen de verschillende modules, systemen en applicaties. Denk hierbij aan uitwisseling van gegevens, API’s , interfaces, …</span></span></li> \n<li><span><span>Systeemtesten: verificatie of het volledige systeem voldoet aan de functionele eisen</span></span></li> </ul> \n<p><span><span>Op basis van functionele en technische analyses stel je voor beide test levels testscenario’s op die je handmatig (of automatisch) uitvoert. Je signaleert afwijkingen onder de vorm van defecten en denkt creatief mee naar mogelijke oplossingen.</span></span></p> \n<p><span><span>Je documenteert alle testresultaten en geeft advies rond het opleveren van een release.</span></span></p> \n<p><span><span>Je brengt verbetervoorstellen aan om het testproces te optimaliseren. </span></span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Jouw werkzaamheden situeren zich binnen het Testteam dat deel uitmaakt van de afdeling ICT Dienstencentrum binnen de Vlaamse belastingdienst .</span></p> \n<p><span>De focus ligt op de integratie- en systeemtesten waarbij je verantwoordelijk bent voor het ontwerpen, uitvoeren en rapporteren van testen die gericht zijn op:</span></p> \n<ul> \n<li><span><span>Integratietesten: verificatie van de interactie tussen de verschillende modules, systemen en applicaties. Denk hierbij aan uitwisseling van gegevens, API’s , interfaces, …</span></span></li> \n<li><span><span>Systeemtesten: verificatie of het volledige systeem voldoet aan de functionele eisen</span></span></li> </ul> \n<p><span><span>Op basis van functionele en technische analyses stel je voor beide test levels testscenario’s op die je handmatig (of automatisch) uitvoert. Je signaleert afwijkingen onder de vorm van defecten en denkt creatief mee naar mogelijke oplossingen.</span></span></p> \n<p><span><span>Je documenteert alle testresultaten en geeft advies rond het opleveren van een release.</span></span></p> \n<p><span><span>Je brengt verbetervoorstellen aan om het testproces te optimaliseren. </span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69966038",
       "internal": false,
       "validThroughDate": "-1",
@@ -3634,6 +3654,111 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17858",
+      "internal": false,
+      "validThroughDate": "1743811200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17858",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "1 Bemiddelaar Industrie (Wondelgem)"
+      },
+      "displayTitle": "1 Bemiddelaar Industrie (Wondelgem)",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span><p dir=\"ltr\"><span>De juiste job of opleiding matchen met de juiste mensen? Dat doet VDAB als specialist in werk. Jij kan ook aan de slag gaan bij VDAB en zo zelf specialist in werk worden. Je krijgt alles wat je nodig hebt om van je loopbaan een succesverhaal te maken. Kom jij ons team versterken?</span></p><p dir=\"ltr\"><span>VDAB zoekt een gemotiveerde bemiddelaar voor het team industrie in Wondelgem/Eeklo/Oudenaarde</span><span>. Je standplaats is Wondelgem. Er wordt verwacht dat je ook gesprekken met klanten kan voeren in Oudenaarde en/of Eeklo, afhankelijk van de dienstnoodwendigheden in het team.</span><span><br></span><span><br></span><span><br></span><span>Over deze functie</span><span><br></span><span>Je bent</span><span> multi-inzetbaar en kan zowel het luik werkzoekenden als werkgevers opnemen. </span><span><br></span><span>Je taak bestaat voornamelijk uit bemiddelingsgesprekken voeren maar we zoeken iemand die ook bereid is om een aantal IBO’s op te nemen en backup te zijn voor de huidige IBO bemiddelaars.</span><span><br></span><span><br></span><span>Het luik werkzoekenden zal in eerste instantie jouw prioriteit zijn</span><span>:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kijkt samen met de werkzoekende</span><span> naar wat die nodig heeft in zijn of haar zoektocht naar werk.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je verwijst snel door naar een passend aanbod of een partner</span><span>. </span><span><br></span><span>Dit aanbod kan zeer ruim gaan: een sectorspecifieke opleiding inschatten voor de klant, een ICT basisopleiding adviseren of sturen op sollicitatie coaching en begeleiding naar werk bij één van onze partners.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je wijst je klanten op hun rechten en plichten ifv werkzoekgedrag</span><span> (controleopdracht VDAB). Je houdt hen steeds een arbeidsmarkt realistische spiegel voor.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je volgt je klanten consequent op</span><span> en je volgt hierbij de richtlijnen van VDAB.</span></p></li></ul><p dir=\"ltr\"><span><br></span><span>Het luik Vacatures, IBO en opleidingen in eigen beheer opvolgen, is in eerste instantie niet aan de orde. We verwachten wel dat je als allround bemiddelaar deze taken aankan, ifv de toekomstige noden of veranderingen binnen het team.</span></p><p dir=\"ltr\"><span>Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</span></p><span><span><br></span><span>Je komt terecht in een dynamisch team met leuke collega’s die je een stuk mee begeleiden bij je opstart in het team. </span><span>Bel met Guy Piro (teamleider)</span><span>, want hij vertelt je graag hoe je dag er zal uitzien in zijn team: 0498 62 08 04</span></span>",
+        "htmlEncoded": "<span></span><p dir=\"ltr\"><span>De juiste job of opleiding matchen met de juiste mensen? Dat doet VDAB als specialist in werk. Jij kan ook aan de slag gaan bij VDAB en zo zelf specialist in werk worden. Je krijgt alles wat je nodig hebt om van je loopbaan een succesverhaal te maken. Kom jij ons team versterken?</span></p><p dir=\"ltr\"><span>VDAB zoekt een gemotiveerde bemiddelaar voor het team industrie in Wondelgem/Eeklo/Oudenaarde</span><span>. Je standplaats is Wondelgem. Er wordt verwacht dat je ook gesprekken met klanten kan voeren in Oudenaarde en/of Eeklo, afhankelijk van de dienstnoodwendigheden in het team.</span><span><br></span><span><br></span><span><br></span><span>Over deze functie</span><span><br></span><span>Je bent</span><span> multi-inzetbaar en kan zowel het luik werkzoekenden als werkgevers opnemen. </span><span><br></span><span>Je taak bestaat voornamelijk uit bemiddelingsgesprekken voeren maar we zoeken iemand die ook bereid is om een aantal IBO’s op te nemen en backup te zijn voor de huidige IBO bemiddelaars.</span><span><br></span><span><br></span><span>Het luik werkzoekenden zal in eerste instantie jouw prioriteit zijn</span><span>:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kijkt samen met de werkzoekende</span><span> naar wat die nodig heeft in zijn of haar zoektocht naar werk.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je verwijst snel door naar een passend aanbod of een partner</span><span>. </span><span><br></span><span>Dit aanbod kan zeer ruim gaan: een sectorspecifieke opleiding inschatten voor de klant, een ICT basisopleiding adviseren of sturen op sollicitatie coaching en begeleiding naar werk bij één van onze partners.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je wijst je klanten op hun rechten en plichten ifv werkzoekgedrag</span><span> (controleopdracht VDAB). Je houdt hen steeds een arbeidsmarkt realistische spiegel voor.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je volgt je klanten consequent op</span><span> en je volgt hierbij de richtlijnen van VDAB.</span></p></li></ul><p dir=\"ltr\"><span><br></span><span>Het luik Vacatures, IBO en opleidingen in eigen beheer opvolgen, is in eerste instantie niet aan de orde. We verwachten wel dat je als allround bemiddelaar deze taken aankan, ifv de toekomstige noden of veranderingen binnen het team.</span></p><p dir=\"ltr\"><span>Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</span></p><span><span><br></span><span>Je komt terecht in een dynamisch team met leuke collega’s die je een stuk mee begeleiden bij je opstart in het team. </span><span>Bel met Guy Piro (teamleider)</span><span>, want hij vertelt je graag hoe je dag er zal uitzien in zijn team: 0498 62 08 04</span></span>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Wondelgem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17853",
+      "internal": false,
+      "validThroughDate": "1742860800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17853",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "VTS-Operator"
+      },
+      "displayTitle": "VTS-Operator",
+      "isProtected": false,
+      "description": {
+        "raw": "Als VTS-Operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-Operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;",
+        "htmlEncoded": "Als VTS-Operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-Operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17851",
+      "internal": false,
+      "validThroughDate": "1742860800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17851",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider - Geraardsbergen"
+      },
+      "displayTitle": "Scheepvaartbegeleider - Geraardsbergen",
+      "isProtected": false,
+      "description": {
+        "raw": "Als scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;<br>",
+        "htmlEncoded": "Als scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geraardsbergen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17827",
       "internal": false,
       "validThroughDate": "1742774400",
@@ -3684,9 +3809,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "1 Bemiddelaar regio Leuven"
+        "htmlEncoded": "1 Bemiddelaar regio Leuven (Heverlee, Tienen, Diest, Leuven)"
       },
-      "displayTitle": "1 Bemiddelaar regio Leuven",
+      "displayTitle": "1 Bemiddelaar regio Leuven (Heverlee, Tienen, Diest, Leuven)",
       "isProtected": false,
       "description": {
         "raw": "<span>\t</span>- Je matcht werkzoekenden en werkgevers op de arbeidsmarkt. <br><span>\t</span>- Je analyseert de situatie van je werkzoekende klant via korte, doelgerichte gesprekken. Je bepaalt samen met je klant een <span>\t</span>realistisch jobdoelwit met het oog op een duurzame tewerkstelling. <br><span>\t</span>- Je geeft informatie op maat van je klant en je biedt de meest gepaste dienstverlening op vlak van bemiddeling en <span>\t</span>opleiding. <br><span>\t</span>- Je verwijst je klant door naar de VDAB partners en volgt het traject van je klant op bij deze partners. Zij ondersteunen je <span>\t</span>klant in loopbaanoriëntatie, opleiding, het wegwerken van drempels of competentieversterking. <br><span>\t</span>- Je zet de nodige en relevante tools in om je klant op weg te helpen naar een duurzame tewerkstelling. <br><span>\t</span>- Je besteedt daarbij extra aandacht aan competentieversterking via opleiding en werkplekleren.<br><br>Wil\nje meer weten over VDAB als werkgever, over de job van bemiddelaar, over de\nbemiddelaarspool en over het verloop van de selectieprocedure? <br><br>Neem\ndan zeker vrijblijvend deel aan de <strong>digitale infosessie op 21 maart 2025 om 13u.</strong>\n<strong>Inschrijven voor de infosessie is verplicht! Dit doe je via <a href=\"https://evenementen-systeem.vdab.be/infosessie-bemiddelaar-regio-leuven/5104579204087808\">deze link</a>.</strong><br><br>Kan\nje niet naar de infosessie komen maar heb je toch nog vragen? Stuur een mailtje\nmet jouw vraag naar marcia.croes@vdab.be",
@@ -3711,6 +3836,41 @@
         {
           "address": {
             "city": "Tienen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17801",
+      "internal": false,
+      "validThroughDate": "1743379200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17801",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "2 Bemiddelaars Diensten aan Personen en Bedrijven"
+      },
+      "displayTitle": "2 Bemiddelaars Diensten aan Personen en Bedrijven",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span><p dir=\"ltr\"><span>De juiste job of opleiding matchen met de juiste mensen? Dat doet VDAB als specialist in werk. Jouw kans om aan de slag te gaan bij VDAB en zo zelf specialist in werk worden!</span><span><br></span><span>Je krijgt alles wat je nodig hebt om van je loopbaan een succesverhaal te maken. Kom jij ons dynamisch team versterken? </span><span>Ben jij een mensenmens met een passie voor begeleiding en een neus voor opportuniteiten? Dan zijn wij op zoek naar jou!</span></p><p dir=\"ltr\"><span>VDAB Oost-Vlaanderen zoekt</span><span>&nbsp; 2 bemiddelaars die werkzoekenden naar een job matcht in ‘Diensten aan Personen en Bedrijven (DAPB)’. Diensten aan personen en bedrijven is een veelzijdige sector waar heel wat beroepen onder vallen: horeca, schoonmaak, maatschappelijke of persoonlijke dienstverlening zoals kappers, media, sport, cultuur, groensector, veiligheidsberoepen ea. </span><span><br></span><span>Je standplaats wordt Sint-Niklaas (Noordlaan 4), maar we vragen de nodige flexibiliteit om je occasioneel naar Dendermonde te verplaatsen.</span><span>&nbsp; Je belangrijkste taken zijn:&nbsp;</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Informeren, inschatten en bemiddelen: </span><span>J</span><span>ij bent de expert die werkzoekenden van alle achtergronden begeleidt naar werk. Van schoolverlaters tot nieuwkomers, jij vindt voor iedereen een passend traject</span><span>. </span><span>Een hele range aan werkzoekenden zit in je portefeuille: recente werkzoekenden, langdurig werkzoekenden, leefloners, anderstaligen en nieuwkomers, werkzoekenden met MMPPS problematiek, RIZIV’ers.&nbsp;&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Samenwerken met partners:</span><span> Je werkt samen met een netwerk van organisaties om jouw klanten de beste kansen te bieden</span><span>. Tijdens de trajecten bij partners blijf je je klanten opvolgen via overleg en stuur je bij of signaleer je aan de controledienst indien nodig.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Digitale tools:</span><span> Je stimuleert werkzoekenden om zelfredzaam te zijn en de digitale wereld te gebruiken in hun zoektocht naar werk.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Competentieversterking en werkplekleren:</span><span> Je begeleidt werkzoekenden naar opleidingen en stages die hen klaarstomen voor de arbeidsmarkt.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je rekruteert werkzoekenden voor opleidingen binnen onze cluster.</span><span> Je geeft infosessies aan deze geïnteresseerde werkzoekenden, je begeleidt hen voor, tijdens en na de opleiding. Je zorgt er samen met de instructeur voor dat de cursisten uitstromen naar werk.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span>We zoeken twee collega's:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Bemiddelaar Werkzoekenden:</span><span> Je focust op het begeleiden van werkzoekenden naar werk.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Bemiddelaar Werkzoekenden &amp; Opleidingen:</span><span> Jij combineert de bemiddeling van werkzoekenden met het coördineren van opleidingen.</span></p></li></ul><p dir=\"ltr\"><span>Je bent van nature een dynamisch persoon gericht op samenwerken. Jij legt vlot contacten en weet je snel in te werken doordat je geen schrik hebt om vragen te stellen, dit mede dankzij jouw leergierigheid. Je kan zowel zelfstandig als in teamverband werken. Je kan werkzoekenden motiveren en activeren in hun zoektocht naar werk en voorstellen aan werkgevers. Je organiseert je eigen werk efficiënt en werkt administratief nauwkeurig. </span><span><br></span><span>J</span><span>e komt terecht in een warm en hecht team waar we elkaar ondersteunen en helpen waar nodig. We springen voor elkaar in en werken samen om onze doelen te bereiken. Er is ruimte voor humor en gezelligheid, en bovenal heerst er een sfeer van vertrouwen</span></p><p dir=\"ltr\"><span>Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</span></p><span><br></span><p dir=\"ltr\"><span>Bel met</span><span> Barbara Destombes, teamleider </span><span>(0471 54 51 47 of </span><a href=\"mailto:barbara.destombes@vdab.be\"><span>barbara.destombes@vdab.be</span></a><span>). Zij vertelt je graag wat je kan verwachten van een werkdag in haar team.</span></p><span><br></span><p dir=\"ltr\"><span>Meer informatie over de selectieprocedure kan je verkrijgen bij Sarah Van den Broeck (0478 96 32 21 of </span><a href=\"mailto:sarah.vandenbroeck@vdab.be\"><span>sarah.vandenbroeck@vdab.be</span></a><span>).</span></p><div><span><br></span></div>",
+        "htmlEncoded": "<span></span><p dir=\"ltr\"><span>De juiste job of opleiding matchen met de juiste mensen? Dat doet VDAB als specialist in werk. Jouw kans om aan de slag te gaan bij VDAB en zo zelf specialist in werk worden!</span><span><br></span><span>Je krijgt alles wat je nodig hebt om van je loopbaan een succesverhaal te maken. Kom jij ons dynamisch team versterken? </span><span>Ben jij een mensenmens met een passie voor begeleiding en een neus voor opportuniteiten? Dan zijn wij op zoek naar jou!</span></p><p dir=\"ltr\"><span>VDAB Oost-Vlaanderen zoekt</span><span>&nbsp; 2 bemiddelaars die werkzoekenden naar een job matcht in ‘Diensten aan Personen en Bedrijven (DAPB)’. Diensten aan personen en bedrijven is een veelzijdige sector waar heel wat beroepen onder vallen: horeca, schoonmaak, maatschappelijke of persoonlijke dienstverlening zoals kappers, media, sport, cultuur, groensector, veiligheidsberoepen ea. </span><span><br></span><span>Je standplaats wordt Sint-Niklaas (Noordlaan 4), maar we vragen de nodige flexibiliteit om je occasioneel naar Dendermonde te verplaatsen.</span><span>&nbsp; Je belangrijkste taken zijn:&nbsp;</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Informeren, inschatten en bemiddelen: </span><span>J</span><span>ij bent de expert die werkzoekenden van alle achtergronden begeleidt naar werk. Van schoolverlaters tot nieuwkomers, jij vindt voor iedereen een passend traject</span><span>. </span><span>Een hele range aan werkzoekenden zit in je portefeuille: recente werkzoekenden, langdurig werkzoekenden, leefloners, anderstaligen en nieuwkomers, werkzoekenden met MMPPS problematiek, RIZIV’ers.&nbsp;&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Samenwerken met partners:</span><span> Je werkt samen met een netwerk van organisaties om jouw klanten de beste kansen te bieden</span><span>. Tijdens de trajecten bij partners blijf je je klanten opvolgen via overleg en stuur je bij of signaleer je aan de controledienst indien nodig.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Digitale tools:</span><span> Je stimuleert werkzoekenden om zelfredzaam te zijn en de digitale wereld te gebruiken in hun zoektocht naar werk.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Competentieversterking en werkplekleren:</span><span> Je begeleidt werkzoekenden naar opleidingen en stages die hen klaarstomen voor de arbeidsmarkt.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je rekruteert werkzoekenden voor opleidingen binnen onze cluster.</span><span> Je geeft infosessies aan deze geïnteresseerde werkzoekenden, je begeleidt hen voor, tijdens en na de opleiding. Je zorgt er samen met de instructeur voor dat de cursisten uitstromen naar werk.&nbsp;</span></p></li></ul><p dir=\"ltr\"><span>We zoeken twee collega's:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Bemiddelaar Werkzoekenden:</span><span> Je focust op het begeleiden van werkzoekenden naar werk.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Bemiddelaar Werkzoekenden &amp; Opleidingen:</span><span> Jij combineert de bemiddeling van werkzoekenden met het coördineren van opleidingen.</span></p></li></ul><p dir=\"ltr\"><span>Je bent van nature een dynamisch persoon gericht op samenwerken. Jij legt vlot contacten en weet je snel in te werken doordat je geen schrik hebt om vragen te stellen, dit mede dankzij jouw leergierigheid. Je kan zowel zelfstandig als in teamverband werken. Je kan werkzoekenden motiveren en activeren in hun zoektocht naar werk en voorstellen aan werkgevers. Je organiseert je eigen werk efficiënt en werkt administratief nauwkeurig. </span><span><br></span><span>J</span><span>e komt terecht in een warm en hecht team waar we elkaar ondersteunen en helpen waar nodig. We springen voor elkaar in en werken samen om onze doelen te bereiken. Er is ruimte voor humor en gezelligheid, en bovenal heerst er een sfeer van vertrouwen</span></p><p dir=\"ltr\"><span>Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</span></p><span><br></span><p dir=\"ltr\"><span>Bel met</span><span> Barbara Destombes, teamleider </span><span>(0471 54 51 47 of </span><a href=\"mailto:barbara.destombes@vdab.be\"><span>barbara.destombes@vdab.be</span></a><span>). Zij vertelt je graag wat je kan verwachten van een werkdag in haar team.</span></p><span><br></span><p dir=\"ltr\"><span>Meer informatie over de selectieprocedure kan je verkrijgen bij Sarah Van den Broeck (0478 96 32 21 of </span><a href=\"mailto:sarah.vandenbroeck@vdab.be\"><span>sarah.vandenbroeck@vdab.be</span></a><span>).</span></p><div><span><br></span></div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Niklaas"
           }
         }
       ]
@@ -4587,8 +4747,8 @@
       "displayTitle": "1 provinciaal relatiebeheerder",
       "isProtected": false,
       "description": {
-        "raw": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>",
-        "htmlEncoded": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>"
+        "raw": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;<br>&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>",
+        "htmlEncoded": "<div>Ben jij iemand die graag opportuniteiten detecteert en weet mensen te verbinden? Hou je van beleidsvoorbereiding, netwerken en het uitbouwen van samenwerkingsakkoorden? En spreekt het werken met het lokaal bestuur van de stad Antwerpen jou aan? Dan is deze functie als Provinciaal Relatiebeheerder/Stadsmanager een mooie uitdaging voor jou!</div><div></div><div>VDAB en de stad Antwerpen gaan samen aan de slag om een sterk werkgelegenheidsbeleid op te maken. Om deze samenwerking te versterken, fungeer jij als bruggenbouwer tussen de stad en VDAB, de specialist in werk.</div><div>Je vertaalt de noden van de stad op vlak van werkgelegenheid naar VDAB en kijkt hoe we hier als arbeidsmarktexpert kunnen op inspelen. Dit vraagt om innovatieve methodes en een sterke samenwerking tussen het lokaal bestuur, VDAB en diverse partners.&nbsp;&nbsp;</div><div></div><div>In je eerste jaar leg je de focus op het opstellen van het samenwerkingsakkoord. Hiervoor beschik je over een scherp inzicht in complexe structuren en weet je moeiteloos in te spelen op diverse gesprekspartners en situaties.</div><div></div><div>Daarnaast bewaak je de kwaliteit van samenwerkingsverbanden en zoek je naar nieuwe recepten en expertise om de uitdagingen die een grootstedelijke context met zich meebrengt, op te vangen.&nbsp;&nbsp;</div><div></div><div>Je bent een strategische netwerker onderhoudt relaties met de verschillende stedelijke diensten en andere partners. Ook als sterke communicator weet je anderen te overtuigen zonder je eigen standpunt op te dringen. Het behalen van resultaten, ook onder druk, vormt voor jou geen uitdaging.&nbsp;<br>&nbsp;</div><div></div><div>Met de andere provinciale relatiebeheerders overleg je regelmatig en zijn jullie elkaars klankbord.</div><div>Je rapporteert aan de managers, de provinciaal directeur en de gedelegeerd bestuurder van VDAB.</div>"
       },
       "locations": [
         {
@@ -4907,7 +5067,7 @@
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Leuven"
           }
         }
       ]
@@ -6471,6 +6631,41 @@
         {
           "address": {
             "city": "Evergem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17354",
+      "internal": true,
+      "validThroughDate": "1741651200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17354",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "1 Teamleider Tewerkstellingsondersteunende Maatregelen (TOM)"
+      },
+      "displayTitle": "1 Teamleider Tewerkstellingsondersteunende Maatregelen (TOM)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het team Tewerkstellingsondersteunende\nMaatregelen (TOM) staat in voor de toekenning en toepassing van\ntewerkstellingsondersteunende maatregelen in de reguliere en sociale economie\nvoor werkzoekenden met een arbeidsbeperking. Het team bestaat uit experten,\ndeskundigen en medewerkers. De aanvraagdossiers die door het team behandeld\nworden, komen van werkzoekenden en hun bemiddelaars (zowel vanuit de sectorale\nteams en IDV als vanuit de partners), maar ook van werknemers en werkgevers.</p><p>We\nzoeken een teamleider voor het team van deskundigen. De deskundigen zijn verantwoordelijk voor de toekenning en evaluatie van\nBTOM (arbeidspostaanpassingen, arbeidsgereedschap,...) en Maatwerk (Individueel\nen Collectief) op de Werkvloer. Als teamleider van (een deel van) dit team, sta\nje in voor de coaching en monitoring van je teamleden en hun taken:</p><ul><li>Je slaat de brug tussen beleidsbeslissingen en de werkvloer;</li><li>Je volgt de individuele, provinciale en Vlaamse caseload op;</li><li>Je zorgt voor een evenwichtige verdeling van de dossiers;</li><li>Je bewaakt de processen en de kwaliteit van de dossiers en</li><li>Je ondersteunt en begeleid de deskundigen in hun taken.</li></ul><p>Je werkt nauw samen met de collega-teamleider die\nde collega’s in de andere 2 provincies aanstuurt en hebt daarnaast ook\nregelmatig contact met de TOM-experten, de TOM-medewerkers en de collega’s van\nOntwikkeling van de Dienstverlening.</p>",
+        "htmlEncoded": "<p>Het team Tewerkstellingsondersteunende\nMaatregelen (TOM) staat in voor de toekenning en toepassing van\ntewerkstellingsondersteunende maatregelen in de reguliere en sociale economie\nvoor werkzoekenden met een arbeidsbeperking. Het team bestaat uit experten,\ndeskundigen en medewerkers. De aanvraagdossiers die door het team behandeld\nworden, komen van werkzoekenden en hun bemiddelaars (zowel vanuit de sectorale\nteams en IDV als vanuit de partners), maar ook van werknemers en werkgevers.</p><p>We\nzoeken een teamleider voor het team van deskundigen. De deskundigen zijn verantwoordelijk voor de toekenning en evaluatie van\nBTOM (arbeidspostaanpassingen, arbeidsgereedschap,...) en Maatwerk (Individueel\nen Collectief) op de Werkvloer. Als teamleider van (een deel van) dit team, sta\nje in voor de coaching en monitoring van je teamleden en hun taken:</p><ul><li>Je slaat de brug tussen beleidsbeslissingen en de werkvloer;</li><li>Je volgt de individuele, provinciale en Vlaamse caseload op;</li><li>Je zorgt voor een evenwichtige verdeling van de dossiers;</li><li>Je bewaakt de processen en de kwaliteit van de dossiers en</li><li>Je ondersteunt en begeleid de deskundigen in hun taken.</li></ul><p>Je werkt nauw samen met de collega-teamleider die\nde collega’s in de andere 2 provincies aanstuurt en hebt daarnaast ook\nregelmatig contact met de TOM-experten, de TOM-medewerkers en de collega’s van\nOntwikkeling van de Dienstverlening.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
