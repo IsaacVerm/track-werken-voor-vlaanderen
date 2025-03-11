@@ -1,29 +1,29 @@
 {
-  "totalItems": 194,
+  "totalItems": 193,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 193,
+  "lastItemOfPage": 192,
   "facets": {
     "language": [
       {
         "value": "nl",
-        "count": 194,
+        "count": 193,
         "label": "nl"
       }
     ],
     "contentType": [
       {
         "value": "Job",
-        "count": 194,
+        "count": 193,
         "label": "Job"
       }
     ],
     "locations__address__city": [
       {
         "value": "Brussel",
-        "count": 126,
+        "count": 125,
         "label": "Brussel"
       },
       {
@@ -200,7 +200,7 @@
       },
       {
         "value": "Dienstverlening",
-        "count": 30,
+        "count": 29,
         "label": "Dienstverlening"
       },
       {
@@ -302,14 +302,14 @@
     "contentSubtypeData__sources": [
       {
         "value": "VO",
-        "count": 194,
+        "count": 193,
         "label": "VO"
       }
     ],
     "contentSubtypeData__internal": [
       {
         "value": "false",
-        "count": 181,
+        "count": 180,
         "label": "false"
       },
       {
@@ -321,7 +321,7 @@
     "contentSubtypeData__employmentType": [
       {
         "value": "Vaste job",
-        "count": 166,
+        "count": 165,
         "label": "Vaste job"
       },
       {
@@ -353,7 +353,7 @@
       },
       {
         "value": "Masterdiploma",
-        "count": 75,
+        "count": 74,
         "label": "Masterdiploma"
       },
       {
@@ -394,11 +394,6 @@
         "label": "Departement Mobiliteit en Openbare Werken"
       },
       {
-        "value": "Sport Vlaanderen",
-        "count": 6,
-        "label": "Sport Vlaanderen"
-      },
-      {
         "value": "Agentschap Justitie en Handhaving",
         "count": 5,
         "label": "Agentschap Justitie en Handhaving"
@@ -412,6 +407,11 @@
         "value": "Opgroeien",
         "count": 5,
         "label": "Opgroeien"
+      },
+      {
+        "value": "Sport Vlaanderen",
+        "count": 5,
+        "label": "Sport Vlaanderen"
       },
       {
         "value": "Agentschap voor Maritieme Dienstverlening en Kust",
@@ -587,7 +587,7 @@
     "contentSubtypeData__reservedForDisability": [
       {
         "value": "false",
-        "count": 106,
+        "count": 105,
         "label": "false"
       }
     ]
@@ -5083,41 +5083,6 @@
       "description": {
         "raw": "<div>Wil jij binnen het GO! onderwijs van de Vlaamse Gemeenschap mee zorgen voor inspirerende en innovatieve leeromgevingen in veilige, gezonde en comfortabele gebouwen? Werk je graag mee aan de patrimoniumontwikkeling en vervul je graag een brugfunctie tussen het beleid en operationele projecten? Dan is de vacature van Coördinator Team Patrimoniumbeheer iets voor jou!&nbsp;</div><div></div><div>&nbsp;</div><div>Als leidinggevende handel je op een open en authentieke wijze overeenkomstig de waarden van het GO! Je stuurt aan op een sterke teamwerking en het nemen van eigen verantwoordelijkheid. Daarnaast geef je vertrouwen en responsabiliseer je het team. Je combineert talenten uit alle hoeken van de organisatie en daarbuiten.</div>",
         "htmlEncoded": "<div>Wil jij binnen het GO! onderwijs van de Vlaamse Gemeenschap mee zorgen voor inspirerende en innovatieve leeromgevingen in veilige, gezonde en comfortabele gebouwen? Werk je graag mee aan de patrimoniumontwikkeling en vervul je graag een brugfunctie tussen het beleid en operationele projecten? Dan is de vacature van Coördinator Team Patrimoniumbeheer iets voor jou!&nbsp;</div><div></div><div>&nbsp;</div><div>Als leidinggevende handel je op een open en authentieke wijze overeenkomstig de waarden van het GO! Je stuurt aan op een sterke teamwerking en het nemen van eigen verantwoordelijkheid. Daarnaast geef je vertrouwen en responsabiliseer je het team. Je combineert talenten uit alle hoeken van de organisatie en daarbuiten.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17572",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17572",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Programmamanager Topsport"
-      },
-      "displayTitle": "Programmamanager Topsport",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Heb je een hart voor sport en wil je meebouwen aan het Vlaamse topsportbeleid? Dan is deze functie iets voor jou! Als Programmamanager Topsport bij Sport Vlaanderen ondersteun je federaties bij het opstellen en uitvoeren van hun topsportbeleid. Je adviseert de Taskforce Topsport, de lijnmanager en de minister over subsidies en financiering van talentontwikkeling en prestatieprogramma’s. Daarnaast speel je een cruciale rol in de uitvoering van het Topsportactieplan Vlaanderen.<br><br>Je beheert topsportprogramma’s (75%) en werkt daarnaast mee aan strategische dossiers zoals het topsportactieplan, financieel beheer en topsportinfrastructuur. Je maakt deel uit van een dynamisch team in Brussel en rapporteert frequent aan de coördinator programmamanagement. Sport Vlaanderen staat voor een efficiënte, professionele en resultaatgerichte aanpak in topsport en biedt een stimulerende werkomgeving met ruimte voor eigen initiatief.<br><br>Wil jij een sleutelrol spelen in het ondersteunen van talenten en topsportambities in Vlaanderen? Ben je analytisch, strategisch sterk en gepassioneerd door sport? Dan zoeken wij jou! Grijp deze kans en solliciteer vandaag nog!</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>Heb je een hart voor sport en wil je meebouwen aan het Vlaamse topsportbeleid? Dan is deze functie iets voor jou! Als Programmamanager Topsport bij Sport Vlaanderen ondersteun je federaties bij het opstellen en uitvoeren van hun topsportbeleid. Je adviseert de Taskforce Topsport, de lijnmanager en de minister over subsidies en financiering van talentontwikkeling en prestatieprogramma’s. Daarnaast speel je een cruciale rol in de uitvoering van het Topsportactieplan Vlaanderen.<br><br>Je beheert topsportprogramma’s (75%) en werkt daarnaast mee aan strategische dossiers zoals het topsportactieplan, financieel beheer en topsportinfrastructuur. Je maakt deel uit van een dynamisch team in Brussel en rapporteert frequent aan de coördinator programmamanagement. Sport Vlaanderen staat voor een efficiënte, professionele en resultaatgerichte aanpak in topsport en biedt een stimulerende werkomgeving met ruimte voor eigen initiatief.<br><br>Wil jij een sleutelrol spelen in het ondersteunen van talenten en topsportambities in Vlaanderen? Ben je analytisch, strategisch sterk en gepassioneerd door sport? Dan zoeken wij jou! Grijp deze kans en solliciteer vandaag nog!</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
       },
       "locations": [
         {
