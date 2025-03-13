@@ -1,11 +1,81 @@
 {
-  "totalItems": 203,
+  "totalItems": 198,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 202,
+  "lastItemOfPage": 197,
   "items": [
+    {
+      "link": "/Job/vdab-70636250",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70636250",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Veiligheidsconsulent (Dept. Mobiliteit & Openbare Werken) via Vlaanderen Connect"
+      },
+      "displayTitle": "Veiligheidsconsulent (Dept. Mobiliteit & Openbare Werken) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het \n<strong>Departement Mobiliteit en Openbare Werken (DMOW)</strong> zoekt een \n<strong>Veiligheidsconsulent</strong> ter versterking van de afdeling Stafdienst.</span></p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken </span><span>(DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><strong></strong>De veiligheidsconsulent adviseert de verantwoordelijke voor het dagelijks bestuur van zijn instelling, op diens verzoek of op eigen initiatief, omtrent alle aspecten van de informatieveiligheid en Artificiële Intelligentie (AI). Deze heeft een adviserende, stimulerende, documenterende en controlerende opdracht inzake informatieveiligheid en AI.</p> \n<p><strong>1. In de rol van themahouder informatieveiligheid:</strong></p> \n<p><span>De veiligheidsconsulent stemt de noden voor een veilige informatiehuishouding af op de strategie van het departement. </span></p> \n<p><span>De veiligheidsconsulent brengt daarvoor de kritische informatieassets in kaart, bepaalt de beheerscriteria. Samen met de CISO worden de risico’s geïdentificeerd en de maatregelen die deze moeten beheersen. </span></p> \n<p>De veiligheidsconsulent werkt daarbij nauw samen met:</p> \n<p><span><span>- </span></span><span>De speerpuntbeheerders die de strategie van de organisatie bewaken</span></p> \n<p><span><span>- </span></span><span>De IT-afdeling die verantwoordelijk is voor de technische implementatie van ICT-maatregelen</span></p> \n<p><span><span>- </span></span><span>De HR-afdeling die het veilig en integer gedrag van de medewerkers helpt versterken</span></p> \n<p><strong>2. In de rol van AI-officer:</strong></p> \n<p><strong> </strong>Een AI Officer speelt een belangrijke rol in een organisatie door ervoor te zorgen dat de \n<strong>ontwikkeling, implementatie en het gebruik van AI-systemen voldoen aan relevante wet- en regelgeving, maatschappelijke en ethische normen, en interne beleidslijnen</strong>.</p> \n<p>De AI Officer neemt een \n<strong>strategische en adviserende rol</strong>op, en zorgt ervoor dat AI-systemen op een betrouwbare en verantwoorde manier worden ontwikkeld en/of gebruikt. Deze rol combineert \n<strong>technische, juridische en ethische expertise</strong>om risico’s te beheren en verantwoord gebruik van betrouwbare AI te bevorderen, en bevat volgende taken en verantwoordelijkheden:</p> \n<ul type=\"disc\"> \n<li><span>Strategisch</span></li> \n<ul type=\"circle\"> \n<li><span>Gerichte AI-strategie en -beleid ontwikkelen en implementeren, zodat AI op een doordachte manier wordt geïntegreerd</span></li> \n<li><span>Ondersteuning bieden in de integratie van AI in bestaande strategieën</span></li> </ul> \n<li><span>Adviserend</span></li> \n<ul type=\"circle\"> \n<li><span>Management, technische teams en andere belanghebbenden adviseren over juridische verplichtingen en ethische normen</span></li> \n<li><span>Ondersteuning bieden bij \n<em>fundamental rights impact assessments</em></span><span>(FRIA)</span></li> \n<li><span>Adviseren over risicobeheer: identificeren en beoordelen van potentiële risico’s inzake AI-systemen, inclusief het vermijden van bias en discriminatie</span></li> </ul> \n<li><span>Operationeel</span></li> \n<ul type=\"circle\"> \n<li><span>AI-projecten ondersteunen</span></li> \n<li><span>Toezien op naleving van relevante wet- en regelgeving en ethische richtlijnen</span></li> \n<li><span>Datagedreven innovatie faciliteren</span></li> \n<li><span>Incidentbeheer</span></li> </ul> </ul>",
+        "htmlEncoded": "<p><span>Het \n<strong>Departement Mobiliteit en Openbare Werken (DMOW)</strong> zoekt een \n<strong>Veiligheidsconsulent</strong> ter versterking van de afdeling Stafdienst.</span></p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken </span><span>(DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><strong></strong>De veiligheidsconsulent adviseert de verantwoordelijke voor het dagelijks bestuur van zijn instelling, op diens verzoek of op eigen initiatief, omtrent alle aspecten van de informatieveiligheid en Artificiële Intelligentie (AI). Deze heeft een adviserende, stimulerende, documenterende en controlerende opdracht inzake informatieveiligheid en AI.</p> \n<p><strong>1. In de rol van themahouder informatieveiligheid:</strong></p> \n<p><span>De veiligheidsconsulent stemt de noden voor een veilige informatiehuishouding af op de strategie van het departement. </span></p> \n<p><span>De veiligheidsconsulent brengt daarvoor de kritische informatieassets in kaart, bepaalt de beheerscriteria. Samen met de CISO worden de risico’s geïdentificeerd en de maatregelen die deze moeten beheersen. </span></p> \n<p>De veiligheidsconsulent werkt daarbij nauw samen met:</p> \n<p><span><span>- </span></span><span>De speerpuntbeheerders die de strategie van de organisatie bewaken</span></p> \n<p><span><span>- </span></span><span>De IT-afdeling die verantwoordelijk is voor de technische implementatie van ICT-maatregelen</span></p> \n<p><span><span>- </span></span><span>De HR-afdeling die het veilig en integer gedrag van de medewerkers helpt versterken</span></p> \n<p><strong>2. In de rol van AI-officer:</strong></p> \n<p><strong> </strong>Een AI Officer speelt een belangrijke rol in een organisatie door ervoor te zorgen dat de \n<strong>ontwikkeling, implementatie en het gebruik van AI-systemen voldoen aan relevante wet- en regelgeving, maatschappelijke en ethische normen, en interne beleidslijnen</strong>.</p> \n<p>De AI Officer neemt een \n<strong>strategische en adviserende rol</strong>op, en zorgt ervoor dat AI-systemen op een betrouwbare en verantwoorde manier worden ontwikkeld en/of gebruikt. Deze rol combineert \n<strong>technische, juridische en ethische expertise</strong>om risico’s te beheren en verantwoord gebruik van betrouwbare AI te bevorderen, en bevat volgende taken en verantwoordelijkheden:</p> \n<ul type=\"disc\"> \n<li><span>Strategisch</span></li> \n<ul type=\"circle\"> \n<li><span>Gerichte AI-strategie en -beleid ontwikkelen en implementeren, zodat AI op een doordachte manier wordt geïntegreerd</span></li> \n<li><span>Ondersteuning bieden in de integratie van AI in bestaande strategieën</span></li> </ul> \n<li><span>Adviserend</span></li> \n<ul type=\"circle\"> \n<li><span>Management, technische teams en andere belanghebbenden adviseren over juridische verplichtingen en ethische normen</span></li> \n<li><span>Ondersteuning bieden bij \n<em>fundamental rights impact assessments</em></span><span>(FRIA)</span></li> \n<li><span>Adviseren over risicobeheer: identificeren en beoordelen van potentiële risico’s inzake AI-systemen, inclusief het vermijden van bias en discriminatie</span></li> </ul> \n<li><span>Operationeel</span></li> \n<ul type=\"circle\"> \n<li><span>AI-projecten ondersteunen</span></li> \n<li><span>Toezien op naleving van relevante wet- en regelgeving en ethische richtlijnen</span></li> \n<li><span>Datagedreven innovatie faciliteren</span></li> \n<li><span>Incidentbeheer</span></li> </ul> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70636208",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70636208",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70631888",
       "internal": false,
@@ -37,6 +107,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70631474",
+      "internal": false,
+      "validThroughDate": "1744156800",
+      "hiringOrganization": "VDAB",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70631474",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Bemiddelaars VDAB Brussel"
+      },
+      "displayTitle": "Bemiddelaars VDAB Brussel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Word jij onze gedreven bemiddelaar met een hart voor mensen?</strong></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p> </li> </ul> \n<p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na. </span></p> \n<p><br><strong>Meet &amp; Greet</strong><span><strong> :</strong> Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen? Dat kan! Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h) </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><span>mira.theunissen@vdab.be</span><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens. \n<br><br></span></p> \n<p><strong>Bekijk het volledige takenpakket via de bijlage. Daar vind je alle informatie terug. </strong></p> \n<p dir=\"ltr\"><strong>Geef jij mee vorm aan de toekomst? </strong></p>",
+        "htmlEncoded": "<p><strong>Word jij onze gedreven bemiddelaar met een hart voor mensen?</strong></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p> </li> </ul> \n<p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na. </span></p> \n<p><br><strong>Meet &amp; Greet</strong><span><strong> :</strong> Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen? Dat kan! Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h) </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><span>mira.theunissen@vdab.be</span><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens. \n<br><br></span></p> \n<p><strong>Bekijk het volledige takenpakket via de bijlage. Daar vind je alle informatie terug. </strong></p> \n<p dir=\"ltr\"><strong>Geef jij mee vorm aan de toekomst? </strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Anderlecht"
           }
         }
       ]
@@ -3601,9 +3706,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "2 Bemiddelaars VDAB Anderlecht"
+        "htmlEncoded": "Bemiddelaar VDAB Anderlecht"
       },
-      "displayTitle": "2 Bemiddelaars VDAB Anderlecht",
+      "displayTitle": "Bemiddelaar VDAB Anderlecht",
       "isProtected": false,
       "description": {
         "raw": "<span></span><h1 dir=\"ltr\"><span>Word jij onze gedreven bemiddelaar met een hart voor mensen?</span><span> </span><span>&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p></li></ul><span><br></span><p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span><span>M</span><span>eet &amp; Greet</span><span> : Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen?&nbsp; Dat kan!&nbsp; Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h)&nbsp; </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><a href=\"mailto:mira.theunissen@vdab.be\"><span>mira.theunissen@vdab.be</span></a><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens.&nbsp;</span></span></p><div><span><br></span></div><div><span></span><h1 dir=\"ltr\"><span>Interessant takenpakket&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Vanuit onze locaties in Brussel ga je na welk traject het beste past bij de klanten die in jouw portefeuille komen. Je informeert werkzoekenden over hun kansen op de arbeidsmarkt, over hoe VDAB Brussel en jij, als bemiddelaar, hun kunnen helpen om een job te vinden, over de opleidingsmogelijkheden en over hun kansen naar werk na het eventueel volgen van een technische opleiding. Samen met de werkzoekende bepaal je de richtingen die hij of zij inslaat en wat er nodig is om aan de slag te gaan.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal Brusselse werkzoekenden motiveren, informeren en op weg helpen richting een job binnen de sector.</span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal ook Vlaamse werkzoekenden informeren en begeleiden in hun opleidingstraject. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt je klanten en volgt hun traject op van bij de start en tot als ze aan het werk zijn. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Tijdens dit traject zal je jouw klant inschatten, screenen, begeleiden tijdens de opleidingen, nazorg bieden en streven naar een duurzame tewerkstelling.&nbsp;</span></p></li></ul><span><br><br><br></span><p dir=\"ltr\"><span><span>Je standplaats is ons VDAB centrum, Bergensesteenweg 1440, 1070 Anderlecht. </span><span><br></span><span><br></span><span>Wil je al even de sfeer opsnuiven van wat het betekent om te werken bij VDAB Brussel? </span><a href=\"https://mediastock.vdab.be/p82iKYTcGN\"><span>Klik hier.</span></a><span>&nbsp;</span></span></p><p dir=\"ltr\"><span>&nbsp;</span></p><p dir=\"ltr\"><span>VDAB Brussel gaat een nieuwe richting uit vanaf medio 2025! Wat is jouw rol in deze innovatieve arbeidsbemiddeling?&nbsp;</span></p><p dir=\"ltr\"><span>We transformeren onze aanpak met een </span><span>dynamisch model</span><span>, waarin jij nog steeds het verschil zal maken.</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Jouw impact binnen de 2 nieuwe dienstverleningen :&nbsp;</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Inschattingsteam :</span><span> Jij bent de sleutel tot een efficiënte start van het parcours.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Matchingsteam:</span><span> Jij brengt talent en partners of werkgevers samen maar begeleidt ook</span><span> klanten die competentieversterking krijgen.</span></p></li></ul></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>De verandering:</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Duidelijke focus op: inschatten, begeleiden, matchen.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Sterke samenwerking met partners.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Meer efficiëntie door AI.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Continue verbetering voor de beste dienstverlening.</span></p></li></ul></li></ul><p dir=\"ltr\"><span>Jij bent de pionier die mee aan deze toekomst vormgeeft!</span></p></div>",
@@ -3613,41 +3718,6 @@
         {
           "address": {
             "city": "Anderlecht"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17744",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17744",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider - Balgerhoeke"
-      },
-      "displayTitle": "Scheepvaartbegeleider - Balgerhoeke",
-      "isProtected": false,
-      "description": {
-        "raw": "Als scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
-        "htmlEncoded": "Als scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Maldegem"
           }
         }
       ]
@@ -4265,41 +4335,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17643",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Technologie en Voeding 115",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17643",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Projectmanager  onderzoek en ontwikkeling (R&D)"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Projectmanager  onderzoek en ontwikkeling (R&D)",
-      "isProtected": false,
-      "description": {
-        "raw": "Heb jij interesse in de agri-food sector en heb je\nzin om te werken als Project Manager in een innovatie gedreven\nonderzoeksinstelling?<br> Bij ILVO krijg je de kans om te werken met baanbrekende projecten die de\ntoekomst van de sector uittekenen. Je krijg niet alleen de mogelijkheid om je\nkennis verder te ontwikkelen, maar ook om je netwerk in binnen- en buitenland\nuit te breiden.  <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>",
-        "htmlEncoded": "Heb jij interesse in de agri-food sector en heb je\nzin om te werken als Project Manager in een innovatie gedreven\nonderzoeksinstelling?<br> Bij ILVO krijg je de kans om te werken met baanbrekende projecten die de\ntoekomst van de sector uittekenen. Je krijg niet alleen de mogelijkheid om je\nkennis verder te ontwikkelen, maar ook om je netwerk in binnen- en buitenland\nuit te breiden.  <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17641",
       "internal": true,
       "validThroughDate": "1742860800",
@@ -4609,41 +4644,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17600",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Departement Onderwijs en Vorming",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17600",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Organisatieondersteuner interne kwaliteitszorg"
-      },
-      "displayTitle": "Organisatieondersteuner interne kwaliteitszorg",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Jij bent gepassioneerd door onderwijs en klaar om je vast te bijten in uitdagende projecten. Jij wil meebouwen aan het onderwijsbeleid en je vindt het leuk om je regelmatig in nieuwe thema’s te verdiepen? Dan is deze functie iets voor jou!<br> <br> Als organisatieondersteuner procesbeheer ondersteun je het afdelingshoofd en de teamcoördinatoren van de teams Onderzoek, Data, Strategische Planning, Juridische Ondersteuning, Vlaamse Toetsen en Internationaal Onderwijsbeleid. Je draagt bij aan de interne kwaliteitszorg, procesmanagement en risicomanagement binnen de afdeling Strategie en Kennis, met als doel de effectiviteit en efficiëntie van de afdeling continu te verbeteren.<br></span><span><br>Enkele taken en verantwoordelijkheden:</span></p><ul><li><span>Je identificeert en analyseert uitdagingen op het vlak van kwaliteitszorg samen met het afdelingshoofd.</span></li><li><span>&nbsp;</span>Je ontwikkelt en implementeert een cyclisch opvolgingsproces voor interne kwaliteitszorg met focus op continue verbetering.</li><li>Je coördineert afstemming tussen de verschillende teams op vlak van procesmanagement.</li><li>Je identificeert en evalueert risico's en voorstellen van passende beheersmaatregelen.</li><li>Je vertegenwoordigt de afdeling in overlegstructuren of werkgroepen met betrekking tot interne kwaliteitszorg, informatiemanagement en organisatiebeheersing binnen het Departement Onderwijs en Vorming of beleidsdomein.</li><li>Je stelt agenda’s op, notuleert en bewaakt de opvolging van actiepunten.</li></ul><p><span>Ben jij een gestructureerde denker met een passie voor kwaliteitsverbetering en procesoptimalisatie? Wil je bijdragen aan de strategische werking van het onderwijsbeleid? Solliciteer nu en misschien word jij onze nieuwe collega.</span></p><p><span><strong>Lees meer over de functie in het selectiereglement</strong>&nbsp;als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
-        "htmlEncoded": "<p><span>Jij bent gepassioneerd door onderwijs en klaar om je vast te bijten in uitdagende projecten. Jij wil meebouwen aan het onderwijsbeleid en je vindt het leuk om je regelmatig in nieuwe thema’s te verdiepen? Dan is deze functie iets voor jou!<br> <br> Als organisatieondersteuner procesbeheer ondersteun je het afdelingshoofd en de teamcoördinatoren van de teams Onderzoek, Data, Strategische Planning, Juridische Ondersteuning, Vlaamse Toetsen en Internationaal Onderwijsbeleid. Je draagt bij aan de interne kwaliteitszorg, procesmanagement en risicomanagement binnen de afdeling Strategie en Kennis, met als doel de effectiviteit en efficiëntie van de afdeling continu te verbeteren.<br></span><span><br>Enkele taken en verantwoordelijkheden:</span></p><ul><li><span>Je identificeert en analyseert uitdagingen op het vlak van kwaliteitszorg samen met het afdelingshoofd.</span></li><li><span>&nbsp;</span>Je ontwikkelt en implementeert een cyclisch opvolgingsproces voor interne kwaliteitszorg met focus op continue verbetering.</li><li>Je coördineert afstemming tussen de verschillende teams op vlak van procesmanagement.</li><li>Je identificeert en evalueert risico's en voorstellen van passende beheersmaatregelen.</li><li>Je vertegenwoordigt de afdeling in overlegstructuren of werkgroepen met betrekking tot interne kwaliteitszorg, informatiemanagement en organisatiebeheersing binnen het Departement Onderwijs en Vorming of beleidsdomein.</li><li>Je stelt agenda’s op, notuleert en bewaakt de opvolging van actiepunten.</li></ul><p><span>Ben jij een gestructureerde denker met een passie voor kwaliteitsverbetering en procesoptimalisatie? Wil je bijdragen aan de strategische werking van het onderwijsbeleid? Solliciteer nu en misschien word jij onze nieuwe collega.</span></p><p><span><strong>Lees meer over de functie in het selectiereglement</strong>&nbsp;als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -5874,41 +5874,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17463",
-      "internal": true,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17463",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "1 Teamleider Industrie Limburg"
-      },
-      "displayTitle": "1 Teamleider Industrie Limburg",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Je wordt teamleider van het corporate team\nindustrie voor de regio Genk-Beringen-Sint-Truiden. Dit team is een van de 3\nteams binnen de cluster industrie bij VDAB Limburg. Als teamleider bepaal jij\nmee de teamdoelen voor jouw team op basis van doelstellingen die VDAB op vlak\nvan bemiddeling en opleiding vastlegt. Je beschikt hiertoe over indicatoren en\ntargets die je vertaalt naar teamdoelen. Als teamleider zal jij je team\naansturen en coachen, zowel voor de bemiddelings- als de\nopleidingsactiviteiten.</p><p>Het team bestaat op dit\nmoment uit 17 bemiddelaars verspreid over 3 locaties die zowel werkzoekenden\nbegeleiden in hun zoektocht naar werk maar ook de bemiddelaars die bezig zijn\nmet de vacatures in gedeeld beheer en samen met werkgevers op zoek&nbsp;gaan\nnaar geschikte kandidaten.&nbsp;</p><p>Daarnaast werk je nauw\nsamen met de manager, 2 andere teamleiders en accountmanager voor de sector\nindustrie.</p><p>Als teamleider word je aangestuurd door de\nclustermanager industrie Limburg en werk je nauw samen met het hele team\nindustrie aan vacaturegerichte acties en opleidingen.</p><p>Je krijgt de vrijheid en het vertrouwen om je taken\nen agenda zelf te beheren.</p><p>In het kader van het plan ‘ambitieus’ van VDAB\nbestaat de mogelijkheid dat jouw functie volgend jaar een andere invulling\nkent. </p>",
-        "htmlEncoded": "<p>Je wordt teamleider van het corporate team\nindustrie voor de regio Genk-Beringen-Sint-Truiden. Dit team is een van de 3\nteams binnen de cluster industrie bij VDAB Limburg. Als teamleider bepaal jij\nmee de teamdoelen voor jouw team op basis van doelstellingen die VDAB op vlak\nvan bemiddeling en opleiding vastlegt. Je beschikt hiertoe over indicatoren en\ntargets die je vertaalt naar teamdoelen. Als teamleider zal jij je team\naansturen en coachen, zowel voor de bemiddelings- als de\nopleidingsactiviteiten.</p><p>Het team bestaat op dit\nmoment uit 17 bemiddelaars verspreid over 3 locaties die zowel werkzoekenden\nbegeleiden in hun zoektocht naar werk maar ook de bemiddelaars die bezig zijn\nmet de vacatures in gedeeld beheer en samen met werkgevers op zoek&nbsp;gaan\nnaar geschikte kandidaten.&nbsp;</p><p>Daarnaast werk je nauw\nsamen met de manager, 2 andere teamleiders en accountmanager voor de sector\nindustrie.</p><p>Als teamleider word je aangestuurd door de\nclustermanager industrie Limburg en werk je nauw samen met het hele team\nindustrie aan vacaturegerichte acties en opleidingen.</p><p>Je krijgt de vrijheid en het vertrouwen om je taken\nen agenda zelf te beheren.</p><p>In het kader van het plan ‘ambitieus’ van VDAB\nbestaat de mogelijkheid dat jouw functie volgend jaar een andere invulling\nkent. </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Genk"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17459",
       "internal": false,
       "validThroughDate": "1742515200",
@@ -5939,41 +5904,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17455",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17455",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Medewerker data en testing"
-      },
-      "displayTitle": "Medewerker data en testing",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie van medewerker data en testing kadert in grote mate in het\nonline platform <a href=\"https://www.vlaanderen.be/medium-voor-economische-data-informatie-en-applicaties-over-overheidsopdrachten-mediaan\">MEDIAAN</a>. Dit platform wordt in eigen beheer ontwikkeld en omvat instrumenten,\ndatabanken en informatie met betrekking tot economische aspecten van het\nrealiseren en onderhouden van openbare infrastructuur. Het platform wordt ter\nbeschikking gesteld van interne klanten en externe belanghebbenden, zoals\nadvies- en ingenieursbureaus.<br><br>Als medewerker data en testing is jouw takenpakket tweeledig:<br><br><strong>Data quality assurance</strong><br>Het merendeel van jouw takenpakket draait om data.</p><ul><li>Enerzijds verricht je kwaliteitscontrole op gegevens die via een automatische datastroom worden ontvangen.</li><li>Anderzijds zorg je voor directe invoer van gegevens in MEDIAAN via het proces “data-extractie”: hierbij verzamel je ongestructureerde gegevens (zoals kostprijzen en rendementen) uit documenten en voert deze manueel in.</li></ul><p><strong>Functionele software testing</strong><br>Je test nieuwe of aangepaste functionaliteiten binnen MEDIAAN. Je gaat\nna of de functionaliteiten correct werken en of deze voldoen aan de\nvooropgestelde acceptatiecriteria. Daarbij verdiep je je zowel in de technische\nals de inhoudelijke documentatie van deze functionaliteiten. Tijdens de\nuitvoering van deze testen is er een intensieve samenwerking met het\nontwikkelteam.<br><br>Je komt terecht in het <strong>team\nPrijsadvies</strong> van de <strong>afdeling Algemene Technische Ondersteuning</strong>, een\nteam dat met beide voeten in de praktijk staat: we ondersteunen interne klanten\nzoals het Agentschap Wegen en Verkeer, het Agentschap Maritieme Dienstverlening\nen Kust, De Vlaamse Waterweg, Lantis en De Werkvennootschap met expertise over\nprijstechniek en cost engineering door advies te verlenen over een brede waaier\naan economisch-technische aspecten van het realiseren en onderhouden van wegen,\nfietspaden, kaaimuren, sluizen, bruggen, tunnels en zo veel meer. We bouwen en\nbeheren zelf het innovatief online platform <a href=\"https://www.vlaanderen.be/medium-voor-economische-data-informatie-en-applicaties-over-overheidsopdrachten-mediaan\">MEDIAAN</a>.</p>",
-        "htmlEncoded": "<p>De functie van medewerker data en testing kadert in grote mate in het\nonline platform <a href=\"https://www.vlaanderen.be/medium-voor-economische-data-informatie-en-applicaties-over-overheidsopdrachten-mediaan\">MEDIAAN</a>. Dit platform wordt in eigen beheer ontwikkeld en omvat instrumenten,\ndatabanken en informatie met betrekking tot economische aspecten van het\nrealiseren en onderhouden van openbare infrastructuur. Het platform wordt ter\nbeschikking gesteld van interne klanten en externe belanghebbenden, zoals\nadvies- en ingenieursbureaus.<br><br>Als medewerker data en testing is jouw takenpakket tweeledig:<br><br><strong>Data quality assurance</strong><br>Het merendeel van jouw takenpakket draait om data.</p><ul><li>Enerzijds verricht je kwaliteitscontrole op gegevens die via een automatische datastroom worden ontvangen.</li><li>Anderzijds zorg je voor directe invoer van gegevens in MEDIAAN via het proces “data-extractie”: hierbij verzamel je ongestructureerde gegevens (zoals kostprijzen en rendementen) uit documenten en voert deze manueel in.</li></ul><p><strong>Functionele software testing</strong><br>Je test nieuwe of aangepaste functionaliteiten binnen MEDIAAN. Je gaat\nna of de functionaliteiten correct werken en of deze voldoen aan de\nvooropgestelde acceptatiecriteria. Daarbij verdiep je je zowel in de technische\nals de inhoudelijke documentatie van deze functionaliteiten. Tijdens de\nuitvoering van deze testen is er een intensieve samenwerking met het\nontwikkelteam.<br><br>Je komt terecht in het <strong>team\nPrijsadvies</strong> van de <strong>afdeling Algemene Technische Ondersteuning</strong>, een\nteam dat met beide voeten in de praktijk staat: we ondersteunen interne klanten\nzoals het Agentschap Wegen en Verkeer, het Agentschap Maritieme Dienstverlening\nen Kust, De Vlaamse Waterweg, Lantis en De Werkvennootschap met expertise over\nprijstechniek en cost engineering door advies te verlenen over een brede waaier\naan economisch-technische aspecten van het realiseren en onderhouden van wegen,\nfietspaden, kaaimuren, sluizen, bruggen, tunnels en zo veel meer. We bouwen en\nbeheren zelf het innovatief online platform <a href=\"https://www.vlaanderen.be/medium-voor-economische-data-informatie-en-applicaties-over-overheidsopdrachten-mediaan\">MEDIAAN</a>.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -6221,38 +6151,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17422",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Vlaams Agentschap voor Personen met een Handicap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17422",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Beleidsondersteuner"
-      },
-      "displayTitle": "Beleidsondersteuner",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>In deze rol ontpop je je tot een expert in het beleid rond minderjarigen met een handicap. Die materie behoort tot de bevoegdheid van het Vlaams Agentschap voor Personen met een Handicap (VAPH). Je belangrijkste taak? Goed onderbouwde beleidsvoorstellen doen waarmee beleidsbepalers, zoals de Vlaamse Regering en bevoegde ministers, aan de slag kunnen.</div><div></div><div>Je komt terecht op de afdeling Vergunnen en Financieren van het VAPH en focust je op organisaties die personen met een handicap ondersteunen en begeleiden. Dat zijn bijvoorbeeld diensten rechtstreeks toegankelijk hulpverlening, die laag intensieve of kortdurende ondersteuning aanbieden in de vorm van ambulante/mobiele begeleiding, dagopvang en verblijf en de multifunctionele centra voor begeleiding, dagopvang en verblijf. Je volgt die organisaties van dichtbij op, maakt je vertrouwd met hun werking en zorgstrategie en de maatschappelijke uitdagingen en sterk evoluerend landschap. Je bent hun aanspreekpunt voor beleidsvragen.</div><div></div><div>Op termijn word je het interne aanspreekpunt voor beleidsvragen over minderjarigen met een handicap. Maar je kijkt ook naar het ruimere plaatje. Welk beleid is er bijvoorbeeld in de domeinen van onderwijs, jeugdhulp en geestelijke gezondheidszorg? En hoe hebben die een impact op jongeren met een handicap? Wat gebeurt er als jongeren met een handicap meerderjarig worden? Zo kom je de belangrijkste uitdagingen voor de sector op het spoor.</div><div></div><div>Samen met je collega’s teken je de strategische lijnen uit voor wat ‘ondersteuning’ betekent voor minderjarigen met een handicap en hoe deze ondersteuning kan bijdragen aan een meer inclusieve samenleving.</div><div></div><div>Staat een nieuwe professionele uitdaging op je bucketlist dit jaar? Wat dacht je van ‘kwaliteit van leven voor kinderen en jongeren met een beperking in een inclusieve samenleving’? Impactvoller kan bijna niet. Lees hieronder meer details en stel je snel kandidaat.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>In deze rol ontpop je je tot een expert in het beleid rond minderjarigen met een handicap. Die materie behoort tot de bevoegdheid van het Vlaams Agentschap voor Personen met een Handicap (VAPH). Je belangrijkste taak? Goed onderbouwde beleidsvoorstellen doen waarmee beleidsbepalers, zoals de Vlaamse Regering en bevoegde ministers, aan de slag kunnen.</div><div></div><div>Je komt terecht op de afdeling Vergunnen en Financieren van het VAPH en focust je op organisaties die personen met een handicap ondersteunen en begeleiden. Dat zijn bijvoorbeeld diensten rechtstreeks toegankelijk hulpverlening, die laag intensieve of kortdurende ondersteuning aanbieden in de vorm van ambulante/mobiele begeleiding, dagopvang en verblijf en de multifunctionele centra voor begeleiding, dagopvang en verblijf. Je volgt die organisaties van dichtbij op, maakt je vertrouwd met hun werking en zorgstrategie en de maatschappelijke uitdagingen en sterk evoluerend landschap. Je bent hun aanspreekpunt voor beleidsvragen.</div><div></div><div>Op termijn word je het interne aanspreekpunt voor beleidsvragen over minderjarigen met een handicap. Maar je kijkt ook naar het ruimere plaatje. Welk beleid is er bijvoorbeeld in de domeinen van onderwijs, jeugdhulp en geestelijke gezondheidszorg? En hoe hebben die een impact op jongeren met een handicap? Wat gebeurt er als jongeren met een handicap meerderjarig worden? Zo kom je de belangrijkste uitdagingen voor de sector op het spoor.</div><div></div><div>Samen met je collega’s teken je de strategische lijnen uit voor wat ‘ondersteuning’ betekent voor minderjarigen met een handicap en hoe deze ondersteuning kan bijdragen aan een meer inclusieve samenleving.</div><div></div><div>Staat een nieuwe professionele uitdaging op je bucketlist dit jaar? Wat dacht je van ‘kwaliteit van leven voor kinderen en jongeren met een beperking in een inclusieve samenleving’? Impactvoller kan bijna niet. Lees hieronder meer details en stel je snel kandidaat.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17419",
       "internal": false,
       "validThroughDate": "1742860800",
@@ -6483,41 +6381,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17274",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Agentschap voor Onderwijsdiensten",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17274",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Functioneel analist"
-      },
-      "displayTitle": "Functioneel analist",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wil jij je analytische talenten inzetten om een essentiële schakel te zijn in het onderwijs? Wil jij een job waarin je impact maakt, intellectueel uitgedaagd wordt en écht het verschil voelt? Als functioneel analist krijg jij de kans om mee te bouwen aan een vlotte en efficiënte onderwijsadministratie!<br></span><span><br>Met betrouwbare IT-toepassingen ondersteunt het Agentschap voor Onderwijsdiensten (AGODI) de inschrijvingen van meer dan 1 miljoen leerlingen, de verdeling van middelen voor 3.500 scholen en de maandelijkse uitbetaling van lonen voor 200.000 onderwijspersoneelsleden. Dit alles kan niet zonder een solide ICT-ondersteuning – en daar kom jij in beeld!<br></span><span><br>Jij bent de schakel tussen de gebruikers en de technologie. Je luistert naar hun behoeften, vertaalt die naar concrete IT-oplossingen en zorgt ervoor dat onze toepassingen perfect aansluiten op de onderwijsprocessen. Je werkt aan user stories, use cases, klassemodellen en tests, en ondersteunt de technische implementatie. Daarnaast ben je het aanspreekpunt voor de applicatiebeheerder en zorg je ervoor dat technische issues helder en begrijpelijk gecommuniceerd worden.<br></span><span><br>Hoe efficiënter de onderwijsadministratie, hoe meer energie er is voor kwaliteitsvol onderwijs in de scholen. Dat is onze drijfveer. Die van jou ook?&nbsp;</span><span>Solliciteer nu en bouw mee aan de toekomst van het onderwijs!</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
-        "htmlEncoded": "<p><span>Wil jij je analytische talenten inzetten om een essentiële schakel te zijn in het onderwijs? Wil jij een job waarin je impact maakt, intellectueel uitgedaagd wordt en écht het verschil voelt? Als functioneel analist krijg jij de kans om mee te bouwen aan een vlotte en efficiënte onderwijsadministratie!<br></span><span><br>Met betrouwbare IT-toepassingen ondersteunt het Agentschap voor Onderwijsdiensten (AGODI) de inschrijvingen van meer dan 1 miljoen leerlingen, de verdeling van middelen voor 3.500 scholen en de maandelijkse uitbetaling van lonen voor 200.000 onderwijspersoneelsleden. Dit alles kan niet zonder een solide ICT-ondersteuning – en daar kom jij in beeld!<br></span><span><br>Jij bent de schakel tussen de gebruikers en de technologie. Je luistert naar hun behoeften, vertaalt die naar concrete IT-oplossingen en zorgt ervoor dat onze toepassingen perfect aansluiten op de onderwijsprocessen. Je werkt aan user stories, use cases, klassemodellen en tests, en ondersteunt de technische implementatie. Daarnaast ben je het aanspreekpunt voor de applicatiebeheerder en zorg je ervoor dat technische issues helder en begrijpelijk gecommuniceerd worden.<br></span><span><br>Hoe efficiënter de onderwijsadministratie, hoe meer energie er is voor kwaliteitsvol onderwijs in de scholen. Dat is onze drijfveer. Die van jou ook?&nbsp;</span><span>Solliciteer nu en bouw mee aan de toekomst van het onderwijs!</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17257",
       "internal": false,
       "validThroughDate": "-1",
@@ -6728,41 +6591,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17055",
-      "internal": false,
-      "validThroughDate": "1741737600",
-      "hiringOrganization": "Departement Onderwijs en Vorming",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17055",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Data-analisten"
-      },
-      "displayTitle": "Data-analisten",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Jij bent gepassioneerd door onderwijs en klaar om je vast te bijten in uitdagende projecten. Jij wil meebouwen aan het onderwijsbeleid en je vindt het leuk om je regelmatig in nieuwe thema’s te verdiepen? Dan is deze functie iets voor jou!<br></span><span><br>Als data-analist kom je terecht binnen de afdeling Strategie en Kennis, waarbinnen je aan de slag gaat bij het team data. Jouw specialisatiedomein zijn de Vlaamse en internationale onderwijsindicatoren. Daarnaast kan je als lid van het datateam ook gevraagd worden om deel te nemen aan andere dataprojecten.<br></span><span><br>Voor wat de <strong>internationale onderwijsindicatoren</strong> betreft, ben je verantwoordelijk voor:</span></p> <ul><li><span>het opvragen en doorgeven van de Vlaamse data voor de internationale UOE (Unesco – OESO – Europese Unie) dataverzameling, waarbij je vooral aan de slag zal gaan met de financiële data.</span></li><li><span>&nbsp;</span>de controle van de ontwerpen van de jaarlijkse internationale indicatorenpublicaties zoals de Education and Training Monitor (ETM) en Education at a Glance (EAG). Je specialisatiedomein zijn de financiële indicatoren in deze publicaties.</li><li>het valideren van de Vlaamse en Belgische data voor SDG4 van de Unesco.</li><li>het ondersteunen van de Vlaamse uitvoering van grootschalige internationale onderzoeken zoals PISA, PIAAC, TALIS, … Je lees de draft rapporten na, ondersteunt collega’s bij de non-respons-bias analyse en beantwoordt vragen van collega’s of het kabinet over deze onderzoeken.</li></ul> <p><span>Voor wat de <strong>Vlaamse onderwijsindicatoren</strong> betreft, ben je verantwoordelijk voor: </span></p> <ul><li><span>de ontwikkeling van nieuwe dataloep-toepassingen, met een focus op leerlingloopbaan-indicatoren zoals de overgang van lager naar secundair onderwijs of de overgang van secundair naar hoger onderwijs.</span></li><li><span>&nbsp;</span>de redactie van de Vlaamse indicatorenrapporten of monitoringsrapporten zoals bv. vroegtijdige schoolverlaters in tweedekansleerwegen, kwalificatie naar leeftijd, …</li><li>het deelnamen aan en actief opvolgen van de interne werkgroep Vlaamse Openbare Statistieken (VOS) vanuit de brugfunctie en internationale indicatoren en statistieken.</li></ul> <p><span>Concreet zijn wij op zoek naar twee gedreven data-analisten met een scherpe blik en een enthousiasme voor verandering. Word jij onze nieuwe collega? Solliciteer nu en maak het verschil!</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
-        "htmlEncoded": "<p><span>Jij bent gepassioneerd door onderwijs en klaar om je vast te bijten in uitdagende projecten. Jij wil meebouwen aan het onderwijsbeleid en je vindt het leuk om je regelmatig in nieuwe thema’s te verdiepen? Dan is deze functie iets voor jou!<br></span><span><br>Als data-analist kom je terecht binnen de afdeling Strategie en Kennis, waarbinnen je aan de slag gaat bij het team data. Jouw specialisatiedomein zijn de Vlaamse en internationale onderwijsindicatoren. Daarnaast kan je als lid van het datateam ook gevraagd worden om deel te nemen aan andere dataprojecten.<br></span><span><br>Voor wat de <strong>internationale onderwijsindicatoren</strong> betreft, ben je verantwoordelijk voor:</span></p> <ul><li><span>het opvragen en doorgeven van de Vlaamse data voor de internationale UOE (Unesco – OESO – Europese Unie) dataverzameling, waarbij je vooral aan de slag zal gaan met de financiële data.</span></li><li><span>&nbsp;</span>de controle van de ontwerpen van de jaarlijkse internationale indicatorenpublicaties zoals de Education and Training Monitor (ETM) en Education at a Glance (EAG). Je specialisatiedomein zijn de financiële indicatoren in deze publicaties.</li><li>het valideren van de Vlaamse en Belgische data voor SDG4 van de Unesco.</li><li>het ondersteunen van de Vlaamse uitvoering van grootschalige internationale onderzoeken zoals PISA, PIAAC, TALIS, … Je lees de draft rapporten na, ondersteunt collega’s bij de non-respons-bias analyse en beantwoordt vragen van collega’s of het kabinet over deze onderzoeken.</li></ul> <p><span>Voor wat de <strong>Vlaamse onderwijsindicatoren</strong> betreft, ben je verantwoordelijk voor: </span></p> <ul><li><span>de ontwikkeling van nieuwe dataloep-toepassingen, met een focus op leerlingloopbaan-indicatoren zoals de overgang van lager naar secundair onderwijs of de overgang van secundair naar hoger onderwijs.</span></li><li><span>&nbsp;</span>de redactie van de Vlaamse indicatorenrapporten of monitoringsrapporten zoals bv. vroegtijdige schoolverlaters in tweedekansleerwegen, kwalificatie naar leeftijd, …</li><li>het deelnamen aan en actief opvolgen van de interne werkgroep Vlaamse Openbare Statistieken (VOS) vanuit de brugfunctie en internationale indicatoren en statistieken.</li></ul> <p><span>Concreet zijn wij op zoek naar twee gedreven data-analisten met een scherpe blik en een enthousiasme voor verandering. Word jij onze nieuwe collega? Solliciteer nu en maak het verschil!</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
