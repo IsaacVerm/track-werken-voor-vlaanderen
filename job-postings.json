@@ -1,10 +1,10 @@
 {
-  "totalItems": 202,
+  "totalItems": 203,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 201,
+  "lastItemOfPage": 202,
   "items": [
     {
       "link": "/Job/vdab-70631888",
@@ -4193,6 +4193,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17647",
+      "internal": false,
+      "validThroughDate": "1743638400",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17647",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "1 Deskundige Inkoop"
+      },
+      "displayTitle": "1 Deskundige Inkoop",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><font size=\"2\">Als deskundige operationele inkoop ben je verantwoordelijk voor je eigen dossiers, waarin je nauwkeurigheid en snelheid combineert. Je werkt zowel aan innovatieve projecten, zoals het inkopen van materiaal voor nieuwe opleidingen (bijvoorbeeld voor onze opleiding tot fietshersteller), als aan inkopen volgens bestaande raamcontracten. Deze veelzijdigheid maakt de functie uniek.</font></span></p><p><span><font size=\"2\">Jouw belangrijkste taken:</font></span></p><ul><li><span><font size=\"2\">Je koopt in volgens vaste procedures en de wet op overheidsopdrachten.</font></span></li><li><span><font size=\"2\">Je beheert op termijn zelfstandig jouw inkoopdossiers en zorgt dat alles nauwkeurig en efficiënt verloopt.</font></span></li><li><span><font size=\"2\">Je werkt samen met je team om gezamenlijke doelen te behalen en de inkoopprocessen voortdurend te verbeteren.</font></span></li><li><span><font size=\"2\">Je werkt proactief door nieuwe spelers op de markt te verkennen en samenwerkingen te optimaliseren.</font></span></li></ul><p><span><font size=\"2\">Je krijgt de ruimte om te groeien en te leren. We begrijpen dat verantwoordelijkheid nemen tijd kost en dat je je rol stap voor stap eigen moet maken. Daarom zorgen we voor begeleiding en ondersteuning vanaf dag één. Je wordt getraind om beslissingen te nemen en vertrouwd te raken met de complexe wereld van overheidsopdrachten.</font></span></p>",
+        "htmlEncoded": "<p><span><font size=\"2\">Als deskundige operationele inkoop ben je verantwoordelijk voor je eigen dossiers, waarin je nauwkeurigheid en snelheid combineert. Je werkt zowel aan innovatieve projecten, zoals het inkopen van materiaal voor nieuwe opleidingen (bijvoorbeeld voor onze opleiding tot fietshersteller), als aan inkopen volgens bestaande raamcontracten. Deze veelzijdigheid maakt de functie uniek.</font></span></p><p><span><font size=\"2\">Jouw belangrijkste taken:</font></span></p><ul><li><span><font size=\"2\">Je koopt in volgens vaste procedures en de wet op overheidsopdrachten.</font></span></li><li><span><font size=\"2\">Je beheert op termijn zelfstandig jouw inkoopdossiers en zorgt dat alles nauwkeurig en efficiënt verloopt.</font></span></li><li><span><font size=\"2\">Je werkt samen met je team om gezamenlijke doelen te behalen en de inkoopprocessen voortdurend te verbeteren.</font></span></li><li><span><font size=\"2\">Je werkt proactief door nieuwe spelers op de markt te verkennen en samenwerkingen te optimaliseren.</font></span></li></ul><p><span><font size=\"2\">Je krijgt de ruimte om te groeien en te leren. We begrijpen dat verantwoordelijkheid nemen tijd kost en dat je je rol stap voor stap eigen moet maken. Daarom zorgen we voor begeleiding en ondersteuning vanaf dag één. Je wordt getraind om beslissingen te nemen en vertrouwd te raken met de complexe wereld van overheidsopdrachten.</font></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
           }
         }
       ]
