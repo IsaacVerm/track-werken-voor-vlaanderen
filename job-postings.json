@@ -1,10 +1,10 @@
 {
-  "totalItems": 196,
+  "totalItems": 199,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 195,
+  "lastItemOfPage": 198,
   "items": [
     {
       "link": "/Job/vdab-70639973",
@@ -3157,6 +3157,51 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17854",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17854",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Specialist waardebepaling - vastgoedexpert"
+      },
+      "displayTitle": "Specialist waardebepaling - vastgoedexpert",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij de Vlaamse Landmaatschappij (VLM) zoeken we een <b>gedreven</b> <b>specialist waardebepaling/vastgoedexpert </b>om ons team te versterken. Met de recente invoering van het nieuwe Instrumentendecreet (Decreet van 26 mei 2023 betreffende het realisatiegerichte instrumentarium), spelen we een sleutelrol in het optimaliseren van ruimtelijke ontwikkelingen en grondgebonden projecten in Vlaanderen. Dit decreet bundelt en stroomlijnt instrumenten uit verschillende wetgevingen, met als doel om ruimtelijke realisaties efficiënter en zorgvuldiger tot stand te brengen. En jij kunt hier deel van uitmaken! Concreet neem je de volgende taken op je:</span></p> <ul type=\"disc\"> <li><b><span>Waardebepaling van onroerend goed</span></b><span>: berekenen van compenserende en billijke vergoedingen (RUP, WORG (watergevoelig openruimtegebied), LIR (landinrichting), NIR (natuurinrichting)</span></li> <li><b><span>Schaderapporten opstellen</span></b><span>: zorgen voor nauwkeurige (ramings)rapporten bij ruimtelijke uitvoeringsplannen (RUP).</span></li> <li><b><span>Meerwaarderapporten opmaken</span></b><span>: bepalen van de financiële meerwaarde van vastgoedprojecten en het leveren van gedetailleerde rapportages.</span></li> <li><b><span>Venale waarde vaststellen</span></b><span>: beoordelen van de waarde van onroerende goederen in het kader van aankoop en verkoop.</span></li> <li><b><span>Eindepachtvergoedingen bepalen</span></b><span>: vaststellen van vergoedingen bij het einde van pachtcontracten.</span></li> </ul> <p><span>Nieuwsgierig geworden? Lees meer over de functie, de organisatie en de selectieprocedure in het selectiereglement als bijlage bij ‘download documenten’. Download dit&nbsp;selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Bij de Vlaamse Landmaatschappij (VLM) zoeken we een <b>gedreven</b> <b>specialist waardebepaling/vastgoedexpert </b>om ons team te versterken. Met de recente invoering van het nieuwe Instrumentendecreet (Decreet van 26 mei 2023 betreffende het realisatiegerichte instrumentarium), spelen we een sleutelrol in het optimaliseren van ruimtelijke ontwikkelingen en grondgebonden projecten in Vlaanderen. Dit decreet bundelt en stroomlijnt instrumenten uit verschillende wetgevingen, met als doel om ruimtelijke realisaties efficiënter en zorgvuldiger tot stand te brengen. En jij kunt hier deel van uitmaken! Concreet neem je de volgende taken op je:</span></p> <ul type=\"disc\"> <li><b><span>Waardebepaling van onroerend goed</span></b><span>: berekenen van compenserende en billijke vergoedingen (RUP, WORG (watergevoelig openruimtegebied), LIR (landinrichting), NIR (natuurinrichting)</span></li> <li><b><span>Schaderapporten opstellen</span></b><span>: zorgen voor nauwkeurige (ramings)rapporten bij ruimtelijke uitvoeringsplannen (RUP).</span></li> <li><b><span>Meerwaarderapporten opmaken</span></b><span>: bepalen van de financiële meerwaarde van vastgoedprojecten en het leveren van gedetailleerde rapportages.</span></li> <li><b><span>Venale waarde vaststellen</span></b><span>: beoordelen van de waarde van onroerende goederen in het kader van aankoop en verkoop.</span></li> <li><b><span>Eindepachtvergoedingen bepalen</span></b><span>: vaststellen van vergoedingen bij het einde van pachtcontracten.</span></li> </ul> <p><span>Nieuwsgierig geworden? Lees meer over de functie, de organisatie en de selectieprocedure in het selectiereglement als bijlage bij ‘download documenten’. Download dit&nbsp;selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17853",
       "internal": false,
       "validThroughDate": "1742860800",
@@ -3758,6 +3803,83 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17710",
+      "internal": false,
+      "validThroughDate": "1743379200",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17710",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudent Agentschap Justitie en Handhaving"
+      },
+      "displayTitle": "Jobstudent Agentschap Justitie en Handhaving",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving&nbsp;<br>zoekt studenten voor verschillende afdelingen om tijdens de zomervakantie te ondersteunen.<br>Wij zoeken nog studenten voor:</p><ul><li>Afdeling Justitiehuizen: Brugge, Brussel, Gent, Hasselt, Ieper, Leuven, Oudenaarde, Turnhout</li><li>Afdeling Vlaams Centrum Elektronisch Toezicht: Brussel</li><li>Afdeling Beleid: Brussel</li><li>Afdeling Staf &amp; Coördinatie – communicatie: Brussel</li><li>Afdeling Gendergerelateerd Geweld: Vlaams Meldpunt Grensoverschrijdend Gedrag Brussel, Veilig&nbsp;<br>Huis Antwerpen.</li></ul><p>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob&nbsp;<br>hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld&nbsp;<br>zijn:</p><ul><li>Het beantwoorden van telefonische oproepen en deze correct doorverwijzen</li><li>Het onthaal van bezoekers</li><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen</li><li>Organiseren en verzorgen van een klassement</li><li>Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)</li><li>Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)</li><li>Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)</li></ul><br>",
+        "htmlEncoded": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving&nbsp;<br>zoekt studenten voor verschillende afdelingen om tijdens de zomervakantie te ondersteunen.<br>Wij zoeken nog studenten voor:</p><ul><li>Afdeling Justitiehuizen: Brugge, Brussel, Gent, Hasselt, Ieper, Leuven, Oudenaarde, Turnhout</li><li>Afdeling Vlaams Centrum Elektronisch Toezicht: Brussel</li><li>Afdeling Beleid: Brussel</li><li>Afdeling Staf &amp; Coördinatie – communicatie: Brussel</li><li>Afdeling Gendergerelateerd Geweld: Vlaams Meldpunt Grensoverschrijdend Gedrag Brussel, Veilig&nbsp;<br>Huis Antwerpen.</li></ul><p>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob&nbsp;<br>hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld&nbsp;<br>zijn:</p><ul><li>Het beantwoorden van telefonische oproepen en deze correct doorverwijzen</li><li>Het onthaal van bezoekers</li><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen</li><li>Organiseren en verzorgen van een klassement</li><li>Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)</li><li>Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)</li><li>Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)</li></ul><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Turnhout"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Ieper"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Oudenaarde"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17707",
       "internal": false,
       "validThroughDate": "1743120000",
@@ -4088,6 +4210,46 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17672",
+      "internal": false,
+      "validThroughDate": "1744848000",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17672",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Procescoördinator Europese projecten"
+      },
+      "displayTitle": "Procescoördinator Europese projecten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij klaar voor een uitdagend internationaal samenwerkingsproject in de open ruimte? De Vlaamse Landmaatschappij zoekt een procescoördinator voor het Europese Interreg project PolliConnect. In dit project werk je samen met 14 internationale partners om het project in goede banen te leiden.</p><p>Het project PolliConnect wil de alarmerende afname van wilde bestuivers in Noordwest-Europa omkeren door innovatieve beheertechnieken en versterking van de connectiviteit tussen natuurlijke habitats. Het project optimaliseert het gebruik en beheer van graslanden, bestuiversblokken en bermen om de bestuiverpopulaties te ondersteunen.</p><p>We zoeken een procescoördinator om deze initiatieven te ondersteunen en te coördineren vanuit de Vlaamse Landmaatschappij. Je speelt een cruciale rol in de communicatie en coördinatie tussen teams en locaties, volgt de voortgang van projectonderdelen op en organiseert vergaderingen en evenementen. Heb jij sterke organisatorische en communicatieve vaardigheden en het vermogen om projectdoelstellingen en deadlines effectief te beheren? Dan zijn wij op zoek naar jou! Wij bieden een dynamische werkomgeving met internationale exposure, samenwerking en mogelijkheden voor professionele groei en ontwikkeling.</p><p>Je zal werken binnen de dienst Beheerovereenkomsten in de regio Oost (Antwerpen, Limburg en Vlaams-Brabant). Klik hier voor meer informatie over de dienst en hun projecten. Je werkt nauw samen met verschillende collega’s binnen je team of met collega’s binnen de andere diensten, waaronder de boekhouding en bedrijfsplanners. Je zult ook beleidsvoorbereidende taken uitvoeren en bijdragen aan de verdere ontwikkeling van processen en projecten binnen de Vlaamse Landmaatschappij.<br><br>Ben jij klaar voor een nieuwe uitdaging en wil je bijdragen aan een internationaal project binnen de Vlaamse Landmaatschappij? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij klaar voor een uitdagend internationaal samenwerkingsproject in de open ruimte? De Vlaamse Landmaatschappij zoekt een procescoördinator voor het Europese Interreg project PolliConnect. In dit project werk je samen met 14 internationale partners om het project in goede banen te leiden.</p><p>Het project PolliConnect wil de alarmerende afname van wilde bestuivers in Noordwest-Europa omkeren door innovatieve beheertechnieken en versterking van de connectiviteit tussen natuurlijke habitats. Het project optimaliseert het gebruik en beheer van graslanden, bestuiversblokken en bermen om de bestuiverpopulaties te ondersteunen.</p><p>We zoeken een procescoördinator om deze initiatieven te ondersteunen en te coördineren vanuit de Vlaamse Landmaatschappij. Je speelt een cruciale rol in de communicatie en coördinatie tussen teams en locaties, volgt de voortgang van projectonderdelen op en organiseert vergaderingen en evenementen. Heb jij sterke organisatorische en communicatieve vaardigheden en het vermogen om projectdoelstellingen en deadlines effectief te beheren? Dan zijn wij op zoek naar jou! Wij bieden een dynamische werkomgeving met internationale exposure, samenwerking en mogelijkheden voor professionele groei en ontwikkeling.</p><p>Je zal werken binnen de dienst Beheerovereenkomsten in de regio Oost (Antwerpen, Limburg en Vlaams-Brabant). Klik hier voor meer informatie over de dienst en hun projecten. Je werkt nauw samen met verschillende collega’s binnen je team of met collega’s binnen de andere diensten, waaronder de boekhouding en bedrijfsplanners. Je zult ook beleidsvoorbereidende taken uitvoeren en bijdragen aan de verdere ontwikkeling van processen en projecten binnen de Vlaamse Landmaatschappij.<br><br>Ben jij klaar voor een nieuwe uitdaging en wil je bijdragen aan een internationaal project binnen de Vlaamse Landmaatschappij? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
@@ -4998,7 +5160,7 @@
       "validThroughDate": "1742515200",
       "hiringOrganization": "Departement Cultuur, Jeugd en Media",
       "reservedForDisability": false,
-      "openPositions": 1,
+      "openPositions": 2,
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
