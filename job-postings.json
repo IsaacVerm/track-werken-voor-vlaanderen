@@ -1,10 +1,10 @@
 {
-  "totalItems": 199,
+  "totalItems": 195,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 198,
+  "lastItemOfPage": 194,
   "items": [
     {
       "link": "/Job/vdab-70639973",
@@ -4290,41 +4290,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17648",
-      "internal": false,
-      "validThroughDate": "1741910400",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 48,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17648",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Jobstudenten voor verschillende teams in Vlaanderen en Brussel"
-      },
-      "displayTitle": "Jobstudenten voor verschillende teams in Vlaanderen en Brussel",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Opgroeien zoekt jobstudenten voor&nbsp;vakantiewerk verdeeld over de maanden juli, augustus en september 2025 bij verschillende afdelingen.<br>We voorzien jobs bij:</p><ul><li>De afdeling Ondersteuningscentra en sociale diensten jeugdrechtbank</li><li>De afdeling Continuïteit en toegang</li><li>De afdeling Gemeenschapsinstellingen</li><li>Team facility</li><li>Team HR</li></ul><p>Meer info rond de verschillende functies en de jobinhoud kan je terugvinden in het selectiereglement als bijlage.</p>",
-        "htmlEncoded": "<p>Opgroeien zoekt jobstudenten voor&nbsp;vakantiewerk verdeeld over de maanden juli, augustus en september 2025 bij verschillende afdelingen.<br>We voorzien jobs bij:</p><ul><li>De afdeling Ondersteuningscentra en sociale diensten jeugdrechtbank</li><li>De afdeling Continuïteit en toegang</li><li>De afdeling Gemeenschapsinstellingen</li><li>Team facility</li><li>Team HR</li></ul><p>Meer info rond de verschillende functies en de jobinhoud kan je terugvinden in het selectiereglement als bijlage.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17647",
       "internal": false,
       "validThroughDate": "1743638400",
@@ -4846,6 +4811,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17595",
+      "internal": false,
+      "validThroughDate": "1743465600",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17595",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Adviseur dossiers VLIF"
+      },
+      "displayTitle": "Adviseur dossiers VLIF",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb jij een passie voor de Vlaamse land- en tuinbouwsector en werk je graag met dossiers? Ben je nauwkeurig en analytisch? Dan zoeken wij jou!</span></p> <p><span>Als adviseur dossiers VLIF valideer je beslissingen in vestigings- en investeringsdossiers en optimaliseer je werkprocessen. Je ondersteunt dossierbeheerders, volgt investeringsdossiers op en fungeert als aanspreekpunt.</span></p> <p><span>Je werkt binnen een ervaren team verspreid over Vlaanderen en krijgt een mentor bij je start. Jouw inzichten dragen bij aan parlementaire en beleidsvragen, waardoor je impact hebt op de sector.</span></p> <p><span>Klaar om mee te bouwen aan een duurzame landbouw? Solliciteer nu!</span></p> <p><strong><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></strong><strong></strong></p>",
+        "htmlEncoded": "<p><span>Heb jij een passie voor de Vlaamse land- en tuinbouwsector en werk je graag met dossiers? Ben je nauwkeurig en analytisch? Dan zoeken wij jou!</span></p> <p><span>Als adviseur dossiers VLIF valideer je beslissingen in vestigings- en investeringsdossiers en optimaliseer je werkprocessen. Je ondersteunt dossierbeheerders, volgt investeringsdossiers op en fungeert als aanspreekpunt.</span></p> <p><span>Je werkt binnen een ervaren team verspreid over Vlaanderen en krijgt een mentor bij je start. Jouw inzichten dragen bij aan parlementaire en beleidsvragen, waardoor je impact hebt op de sector.</span></p> <p><span>Klaar om mee te bouwen aan een duurzame landbouw? Solliciteer nu!</span></p> <p><strong><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></strong><strong></strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17589",
       "internal": true,
       "validThroughDate": "1742860800",
@@ -5050,41 +5050,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17570",
-      "internal": false,
-      "validThroughDate": "1741910400",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17570",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Consulent sportieve werkplek"
-      },
-      "displayTitle": "Consulent sportieve werkplek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij gepassioneerd door sport en beweging en wil je bedrijven en organisaties inspireren om een actief en gezond beleid te voeren voor hun medewerkers? Sport Vlaanderen is op zoek naar een enthousiaste Consulent Sportieve Werkplek die het belang van sport op de werkvloer in de kijker zet en bedrijven helpt om hun werknemers meer te laten bewegen.</span></p><p><span>In deze rol informeer, sensibiliseer, inspireer en adviseer je organisaties over het opzetten van een doeltreffend sport- en beweegbeleid. Je begeleidt hen bij de implementatie van sportieve initiatieven en je promoot en coördineert sportpromotionele campagnes, diensten en producten die sportparticipatie bevorderen zoals de Sport- en Beweegscan, netwerkevents, de starterskit, de loopbaan… Daarenboven bouw je een netwerk uit door aanwezig te zijn op diverse beurzen en events. Binnen de Vlaamse overheid ondersteun je mee bij de organisatie van de Sport- en Beleefdagen en MoveAtWork.. Dankzij jouw inzet krijgen steeds meer werknemers de kans om beweging te integreren tijdens of na de werkdag.&nbsp;<br></span></p><p><span>Daarnaast bied je eerstelijnsadvies over de diverse initiatieven van ons team en onze afdeling. Ook als deze zich binnen andere expertisedomeinen situeren, weet jij organisaties op de juiste weg te helpen. Je bent een bruggenbouwer die sport en werk naadloos met elkaar verbindt en zo bijdraagt aan een actievere en gezondere werkomgeving in Vlaanderen.<br> Voor de functie van consulent sportieve werkplek zijn we op zoek naar iemand die voornamelijk actief zal zijn in de regio West-Vlaanderen. Idealiter ben je dan ook woonachtig in deze regio.&nbsp;<br></span></p><p><span>Ben jij klaar om bedrijven in beweging te zetten? Solliciteer nu en maak samen met ons het verschil!</span></p>",
-        "htmlEncoded": "<p><span>Ben jij gepassioneerd door sport en beweging en wil je bedrijven en organisaties inspireren om een actief en gezond beleid te voeren voor hun medewerkers? Sport Vlaanderen is op zoek naar een enthousiaste Consulent Sportieve Werkplek die het belang van sport op de werkvloer in de kijker zet en bedrijven helpt om hun werknemers meer te laten bewegen.</span></p><p><span>In deze rol informeer, sensibiliseer, inspireer en adviseer je organisaties over het opzetten van een doeltreffend sport- en beweegbeleid. Je begeleidt hen bij de implementatie van sportieve initiatieven en je promoot en coördineert sportpromotionele campagnes, diensten en producten die sportparticipatie bevorderen zoals de Sport- en Beweegscan, netwerkevents, de starterskit, de loopbaan… Daarenboven bouw je een netwerk uit door aanwezig te zijn op diverse beurzen en events. Binnen de Vlaamse overheid ondersteun je mee bij de organisatie van de Sport- en Beleefdagen en MoveAtWork.. Dankzij jouw inzet krijgen steeds meer werknemers de kans om beweging te integreren tijdens of na de werkdag.&nbsp;<br></span></p><p><span>Daarnaast bied je eerstelijnsadvies over de diverse initiatieven van ons team en onze afdeling. Ook als deze zich binnen andere expertisedomeinen situeren, weet jij organisaties op de juiste weg te helpen. Je bent een bruggenbouwer die sport en werk naadloos met elkaar verbindt en zo bijdraagt aan een actievere en gezondere werkomgeving in Vlaanderen.<br> Voor de functie van consulent sportieve werkplek zijn we op zoek naar iemand die voornamelijk actief zal zijn in de regio West-Vlaanderen. Idealiter ben je dan ook woonachtig in deze regio.&nbsp;<br></span></p><p><span>Ben jij klaar om bedrijven in beweging te zetten? Solliciteer nu en maak samen met ons het verschil!</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17567",
       "internal": false,
       "validThroughDate": "1742083200",
@@ -5115,41 +5080,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17565",
-      "internal": true,
-      "validThroughDate": "1741910400",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17565",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Directeur beleidsteam"
-      },
-      "displayTitle": "Directeur beleidsteam",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Sport Vlaanderen zoekt een gedreven directeur beleidsteam. Je stuurt je team van vijf medewerkers aan en je werkt nauw samen met de algemeen directeur en de administrateur-generaal. Je draagt bij aan de strategische sturing en ondersteuning van Sport Vlaanderen en beheert een toegewezen budget.</p><p>De dienst beleidscoördinatie speelt een sleutelrol binnen Sport Vlaanderen en richt zich op:<br>• Coördinatie van beleids- en beheersprocessen (beleidsnota, ondernemingsplan, begroting, jaarverslag, enz.).<br>• Behandeling van parlementaire vragen en strategische overlegmomenten.<br>• Internationale samenwerking en opvolging van Europees sportbeleid.<br>• Optimalisatie van risicobeheer, auditopvolging en informatiebeheer.<br>• Structurering en opvolging van projecten en processen binnen de organisatie.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Sport Vlaanderen zoekt een gedreven directeur beleidsteam. Je stuurt je team van vijf medewerkers aan en je werkt nauw samen met de algemeen directeur en de administrateur-generaal. Je draagt bij aan de strategische sturing en ondersteuning van Sport Vlaanderen en beheert een toegewezen budget.</p><p>De dienst beleidscoördinatie speelt een sleutelrol binnen Sport Vlaanderen en richt zich op:<br>• Coördinatie van beleids- en beheersprocessen (beleidsnota, ondernemingsplan, begroting, jaarverslag, enz.).<br>• Behandeling van parlementaire vragen en strategische overlegmomenten.<br>• Internationale samenwerking en opvolging van Europees sportbeleid.<br>• Optimalisatie van risicobeheer, auditopvolging en informatiebeheer.<br>• Structurering en opvolging van projecten en processen binnen de organisatie.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5570,41 +5500,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17516",
-      "internal": false,
-      "validThroughDate": "1741910400",
-      "hiringOrganization": "Wonen in Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17516",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Klantenadviseur Centraal Inschrijvingsregister (CIR)"
-      },
-      "displayTitle": "Klantenadviseur Centraal Inschrijvingsregister (CIR)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
-        "htmlEncoded": "<p>Het inschrijvingsproces\nvoor een sociale woning is onlangs veranderd. Een kandidaat moet zich\nniet meer op papier inschrijven bij een lokale woonmaatschappij, maar kan dat sinds\nkort via een centraal digitaal loket doen. Dit digitale loket, het <strong>Centraal Inschrijvingsregister (CIR)</strong>,\nwordt uitgebouwd en beheerd door Wonen in Vlaanderen.</p><p>Als klantenadviseur CIR werk je in de <strong>afdeling Klantenondersteuning</strong>, binnen het <strong>team Sociale Huur</strong> van Wonen in Vlaanderen. Samen met 2 andere collega’s ben je er verantwoordelijk voor de ondersteuning van de woonmaatschappijen en de lokale besturen, zodat zij aan de slag kunnen met het centraal inschrijvingsregister. Je bouwt het CIR verder mee uit, signaleert wat goed en minder goed werkt, geeft hierrond input aan je collega’s van IT, test mee nieuwigheden in de applicatie…</p><p>Zoals dat vaak gaat met nieuw gelanceerde systemen, zijn er hier en daar nog wat groeipijnen en is er ruimte voor verbetering. Als klantenadviseur CIR ben je analytisch ingesteld, heb je oog voor die verbetermogelijkheden, en ondersteun je de woonmaatschappijen en lokale besturen wanneer iets niet helemaal loopt zoals het hoort. Met logisch nadenken en enthousiasme om zaken uit te spitten, kom je daarbij al heel ver!</p><p>Je wordt uiteraard niet verondersteld om al vanaf je eerste dag mee te zijn met het CIR en alles wat erbij komt kijken. Er worden een paar weken van opleiding en infoverstrekking voorzien, vooraleer je stapsgewijs zelfstandig aan de slag gaat.</p><p>Duik je graag in dossiers en spit je problemen graag tot op de bodem uit? Sta je graag in contact met klanten (voornamelijk via mail en telefoon)? Wil je een belangrijke bijdrage leveren aan de verdere uitbouw van het CIR in Vlaanderen? Solliciteer dan vooral nu, en wie weet verwelkomen we jou binnenkort in ons team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -6508,41 +6403,6 @@
         {
           "address": {
             "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17244",
-      "internal": false,
-      "validThroughDate": "1741910400",
-      "hiringOrganization": "Dienst van de Bestuursrechtscolleges",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17244",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Griffier"
-      },
-      "displayTitle": "Griffier",
-      "isProtected": false,
-      "description": {
-        "raw": "Als griffier ondersteun je de hoofdgriffier en voer je inhoudelijk administratieve taken uit zoals de voorbereiding, opvolging en afhandeling van beroepsdossiers. Daarnaast neem je ook juridische taken op zoals het voorbereiden van beschikkingen en uitspraken in de procedure van de vereenvoudigde behandeling.&nbsp;&nbsp;<br>&nbsp;<br>Doorheen de rechtsgang ben je een aanspreekpunt voor zowel collega’s als procespartijen.&nbsp;<br>&nbsp;<br>Wil je de rechtscolleges zowel administratief als juridisch bijstaan? Wil je de communicatie met burgers en procespartijen verzorgen om zo bij te dragen tot een positief en klantgericht imago van de rechtscolleges?&nbsp;&nbsp;<br><br>Wil je graag nog meer details over de job van griffier? Lees dan verder via [deze link](https://selecties.s3.eu-west-1.amazonaws.com/kbbj/Griffier+jobinhoud+in+detail.pdf).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
-        "htmlEncoded": "Als griffier ondersteun je de hoofdgriffier en voer je inhoudelijk administratieve taken uit zoals de voorbereiding, opvolging en afhandeling van beroepsdossiers. Daarnaast neem je ook juridische taken op zoals het voorbereiden van beschikkingen en uitspraken in de procedure van de vereenvoudigde behandeling.&nbsp;&nbsp;<br>&nbsp;<br>Doorheen de rechtsgang ben je een aanspreekpunt voor zowel collega’s als procespartijen.&nbsp;<br>&nbsp;<br>Wil je de rechtscolleges zowel administratief als juridisch bijstaan? Wil je de communicatie met burgers en procespartijen verzorgen om zo bij te dragen tot een positief en klantgericht imago van de rechtscolleges?&nbsp;&nbsp;<br><br>Wil je graag nog meer details over de job van griffier? Lees dan verder via [deze link](https://selecties.s3.eu-west-1.amazonaws.com/kbbj/Griffier+jobinhoud+in+detail.pdf).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
