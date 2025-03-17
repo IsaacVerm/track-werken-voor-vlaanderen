@@ -1,10 +1,10 @@
 {
-  "totalItems": 199,
+  "totalItems": 201,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 198,
+  "lastItemOfPage": 200,
   "items": [
     {
       "link": "/Job/vdab-70665460",
@@ -5602,6 +5602,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17523",
+      "internal": false,
+      "validThroughDate": "1745193600",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17523",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Management assistent"
+      },
+      "displayTitle": "Management assistent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Haal jij voldoening uit het ondersteunen van collega's en ervoor te zorgen dat zij comfortabel kunnen werken? Ben je flexibel ingesteld en neem je graag initiatief? Dan ben jij de collega waarnaar we op zoek zijn!</p><p>Als management assistent bij het team Facilities en Secretariaat ben je een echte duizendpoot en krijg je de kans om aan de slag te gaan met een zeer gevarieerd takenpakket. Samen met de andere collega’s van het team ben je het aanspreekpunt voor diverse ondersteunende administratieve en logistieke taken:</p><ul><li>Je maakt deel uit van het centraal secretariaat van het agentschap. Dat betekent onder meer: telefoonpermanentie, reservaties voor vergader- en leslokalen maken, verzenden en bedelen van (papieren en digitale) post, helpen bij de praktische organisatie van evenementen.</li><li>Als lid van het team zorg je er mee voor dat het juiste materiaal op de juiste locatie komt. Je pikt noden op van je collega’s, plaatst bestellingen en volgt op tot de levering.</li><li>Je volgt de herstelling op van gebouw gebonden defecten in onze lokale vestigingen. Occasioneel ga je met de preventieadviseur mee op welzijnsrondgang door onze Justitiehuizen en Veilige Huizen.</li></ul><p>Een belangrijk aspect van jouw rol is de communicatie en coördinatie tussen verschillende diensten. Je fungeert als centraal aanspreekpunt voor facility en logistieke kwesties. Je bent goed in staat om flexibel in te spelen op de prioriteiten van de dag, snel te schakelen, initiatief te nemen en tegelijk het overzicht te bewaren. Je zorgt ervoor dat alle betrokken partijen goed geïnformeerd zijn.</p><p>Lijkt deze functie iets voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Haal jij voldoening uit het ondersteunen van collega's en ervoor te zorgen dat zij comfortabel kunnen werken? Ben je flexibel ingesteld en neem je graag initiatief? Dan ben jij de collega waarnaar we op zoek zijn!</p><p>Als management assistent bij het team Facilities en Secretariaat ben je een echte duizendpoot en krijg je de kans om aan de slag te gaan met een zeer gevarieerd takenpakket. Samen met de andere collega’s van het team ben je het aanspreekpunt voor diverse ondersteunende administratieve en logistieke taken:</p><ul><li>Je maakt deel uit van het centraal secretariaat van het agentschap. Dat betekent onder meer: telefoonpermanentie, reservaties voor vergader- en leslokalen maken, verzenden en bedelen van (papieren en digitale) post, helpen bij de praktische organisatie van evenementen.</li><li>Als lid van het team zorg je er mee voor dat het juiste materiaal op de juiste locatie komt. Je pikt noden op van je collega’s, plaatst bestellingen en volgt op tot de levering.</li><li>Je volgt de herstelling op van gebouw gebonden defecten in onze lokale vestigingen. Occasioneel ga je met de preventieadviseur mee op welzijnsrondgang door onze Justitiehuizen en Veilige Huizen.</li></ul><p>Een belangrijk aspect van jouw rol is de communicatie en coördinatie tussen verschillende diensten. Je fungeert als centraal aanspreekpunt voor facility en logistieke kwesties. Je bent goed in staat om flexibel in te spelen op de prioriteiten van de dag, snel te schakelen, initiatief te nemen en tegelijk het overzicht te bewaren. Je zorgt ervoor dat alle betrokken partijen goed geïnformeerd zijn.</p><p>Lijkt deze functie iets voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17520",
       "internal": false,
       "validThroughDate": "1743638400",
@@ -6783,6 +6818,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-16755",
+      "internal": false,
+      "validThroughDate": "1745280000",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-16755",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Administrateur-generaal Wonen in Vlaanderen"
+      },
+      "displayTitle": "Administrateur-generaal Wonen in Vlaanderen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Voor het agentschap Wonen in Vlaanderen zijn we op zoek naar een <strong>administrateur-generaal</strong>.</p><p>Als administrateur-generaal sta je aan het roer van het agentschap en geef je mee vorm aan het woonbeleid in Vlaanderen.</p><ul><li>Je vertolkt het verhaal van wonen en verbindt de verschillende domeinen op een strategisch niveau;</li><li>Je zorgt mee voor doordachte beleidsvoorbereiding en -ondersteuning;</li><li>Je beheert en optimaliseert budgetten, met oog voor efficiënte en ICT-uitdagingen;</li><li>Je hebt een sterke netwerkrol en onderhoudt relaties met lokale besturen, de academische wereld en andere partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Voor het agentschap Wonen in Vlaanderen zijn we op zoek naar een <strong>administrateur-generaal</strong>.</p><p>Als administrateur-generaal sta je aan het roer van het agentschap en geef je mee vorm aan het woonbeleid in Vlaanderen.</p><ul><li>Je vertolkt het verhaal van wonen en verbindt de verschillende domeinen op een strategisch niveau;</li><li>Je zorgt mee voor doordachte beleidsvoorbereiding en -ondersteuning;</li><li>Je beheert en optimaliseert budgetten, met oog voor efficiënte en ICT-uitdagingen;</li><li>Je hebt een sterke netwerkrol en onderhoudt relaties met lokale besturen, de academische wereld en andere partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]

@@ -19,4 +19,7 @@ curl 'https://www.vlaanderen.be/api/overview-search' \
         }
       }
     }
-  }' | jq > job-postings.json
+  }' | jq "." > job-postings.json
+  
+cat job-postings.json  | jq -c ".items[] | {link, displayTitle, hiringOrganization, openPositions, degreeLevel}" > job-postings-summary.json
+cat job-postings.json  | jq -c ".items[] | {link: .link, description: .description.htmlEncoded}" > job-postings-descriptions.json
