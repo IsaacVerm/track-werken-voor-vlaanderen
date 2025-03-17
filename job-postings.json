@@ -1,11 +1,256 @@
 {
-  "totalItems": 187,
+  "totalItems": 199,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 186,
+  "lastItemOfPage": 198,
   "items": [
+    {
+      "link": "/Job/vdab-70665460",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70665460",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker Expert Digitale vaardigheden (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Beleidsmedewerker Expert Digitale vaardigheden (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame </span><strong><span>Beleidsmedewerker Expert Digitale vaardigheden </span></strong><span>om de afdeling \n<strong> Vlaamse Digitale Strategie – team Vlaams Digitaal Beleid</strong> te versterken.</span><strong></strong></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als </span><strong><span>Beleidsmedewerk(st)er Expert Digitale vaardigheden </span></strong><span>meewerkt aan de overheidsbrede beleidsmatige aanpak van maatschappelijke uitdagingen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als \n<strong>beleidsmedewerker expert Digitale vaardigheden</strong> kom je terecht binnen de afdeling Vlaamse Digitale Strategie van Digitaal Vlaanderen. </span></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>De opdracht van de \n<strong>afdeling Vlaamse Digitale Strategie</strong> is er mee voor te zorgen dat Digitaal Vlaanderen kan wegen op het digitaal beleid van de Vlaamse overheid en de lokale besturen. Op die manier willen we ervoor zorgen dat we overheidsbreed op strategisch vlak stappen vooruit zetten.</span></p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Om te komen tot een gedragen Vlaamse overheidsbrede digitale strategie en beleidsvisie versterkt Digitaal Vlaanderen haar capaciteit met expertise op vlak van digitale vaardigheden.</span></p> \n<p><span>Als beleidsmedewerker digitale vaardigheden ben je verantwoordelijk voor het concretiseren en opvolgen van een Vlaams overheidsbreed actieplan rond digitale vaardigheden om ervoor te zorgen dat de Vlaamse overheidsmedewerker (en de volledige Vlaamse bevolking bij uitbreiding) mee is in de steeds versnellende digitale wereld. Hierbij moet onder meer rekening gehouden worden met nodige vaardigheden met betrekking tot mediageletterdheid, gebruik van AI en informatieveiligheid. Ook volg je het Europees beleid op dit vlak op, vertaal je dit door naar de context van de Vlaamse overheid en zorg je voor de nodige kennisdeling.</span></p> \n<p><span>Je werkt daarvoor samen met experten uit andere Vlaamse entiteiten via een werkgroep onder het Vlaams Stuurorgaan Informatie- en ICT-beleid. Dit Stuurorgaan valideert ook de aanpak en actieplan en kan dit voordragen aan de Vlaamse regering voor besluit.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame </span><strong><span>Beleidsmedewerker Expert Digitale vaardigheden </span></strong><span>om de afdeling \n<strong> Vlaamse Digitale Strategie – team Vlaams Digitaal Beleid</strong> te versterken.</span><strong></strong></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als </span><strong><span>Beleidsmedewerk(st)er Expert Digitale vaardigheden </span></strong><span>meewerkt aan de overheidsbrede beleidsmatige aanpak van maatschappelijke uitdagingen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als \n<strong>beleidsmedewerker expert Digitale vaardigheden</strong> kom je terecht binnen de afdeling Vlaamse Digitale Strategie van Digitaal Vlaanderen. </span></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>De opdracht van de \n<strong>afdeling Vlaamse Digitale Strategie</strong> is er mee voor te zorgen dat Digitaal Vlaanderen kan wegen op het digitaal beleid van de Vlaamse overheid en de lokale besturen. Op die manier willen we ervoor zorgen dat we overheidsbreed op strategisch vlak stappen vooruit zetten.</span></p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Om te komen tot een gedragen Vlaamse overheidsbrede digitale strategie en beleidsvisie versterkt Digitaal Vlaanderen haar capaciteit met expertise op vlak van digitale vaardigheden.</span></p> \n<p><span>Als beleidsmedewerker digitale vaardigheden ben je verantwoordelijk voor het concretiseren en opvolgen van een Vlaams overheidsbreed actieplan rond digitale vaardigheden om ervoor te zorgen dat de Vlaamse overheidsmedewerker (en de volledige Vlaamse bevolking bij uitbreiding) mee is in de steeds versnellende digitale wereld. Hierbij moet onder meer rekening gehouden worden met nodige vaardigheden met betrekking tot mediageletterdheid, gebruik van AI en informatieveiligheid. Ook volg je het Europees beleid op dit vlak op, vertaal je dit door naar de context van de Vlaamse overheid en zorg je voor de nodige kennisdeling.</span></p> \n<p><span>Je werkt daarvoor samen met experten uit andere Vlaamse entiteiten via een werkgroep onder het Vlaams Stuurorgaan Informatie- en ICT-beleid. Dit Stuurorgaan valideert ook de aanpak en actieplan en kan dit voordragen aan de Vlaamse regering voor besluit.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70665373",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70665373",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker Expert Internationale Partnerschappen (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Beleidsmedewerker Expert Internationale Partnerschappen (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame </span><strong><span>Beleidsmedewerkerexpert Internationale partnerschappen</span></strong><span> om de afdeling \n<strong> Vlaamse Digitale Strategie – team Interbestuurlijk samenwerken</strong> te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als </span><strong><span>Beleidsmedewerker Expert Internationale partnerschappen </span></strong><span>meewerkt aan de verdere internationalisering van de digitale transformatie van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span><strong></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</span></p> \n<p><br> \n<span>Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. </span><br> \n<span>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Concreet maak je deel uit van het team Interbestuurlijk samenwerken dat focust op het opzetten van samenwerkingen met de verschillende bestuurslagen binnen en buiten Vlaanderen.</span></p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er zijn ook overlegmomenten die in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als beleidsmedewerker expert internationale partnerschappen ondersteun je mee het buitenlands beleid binnen het thema ‘data en digitaal’. Je hebt daarbij oog voor opportuniteiten en kansen op de korte termijn, maar je bouwt dit beleid ook mee uit op de langere termijn. Je focust daarbij vooral op regio’s en voorbeelden in de Europese Unie en de programma’s van de Europese Commissie in het bijzonder, die inspirerend en (budgettair) versterkend kunnen werken voor Digitaal Vlaanderen, de Vlaamse digitale strategie en zijn onderdelen (bijvoorbeeld: cyberveiligheid, AI), en de digitale maturiteit van Vlaanderen. Met deze voorloper-regio’s bouw je concrete samenwerkingen uit, geprioriteerd vanuit de eigen Vlaamse digitale ambities. Een voorbeeld is de Disruptive &amp; Emerging Technology Alliance (DETA) waarin verschillende regio’s zich verenigd hebben (zie: </span><span>https://detalliance.com/</span><span> ).</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame </span><strong><span>Beleidsmedewerkerexpert Internationale partnerschappen</span></strong><span> om de afdeling \n<strong> Vlaamse Digitale Strategie – team Interbestuurlijk samenwerken</strong> te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als </span><strong><span>Beleidsmedewerker Expert Internationale partnerschappen </span></strong><span>meewerkt aan de verdere internationalisering van de digitale transformatie van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span><strong></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</span></p> \n<p><br> \n<span>Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. </span><br> \n<span>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Concreet maak je deel uit van het team Interbestuurlijk samenwerken dat focust op het opzetten van samenwerkingen met de verschillende bestuurslagen binnen en buiten Vlaanderen.</span></p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er zijn ook overlegmomenten die in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als beleidsmedewerker expert internationale partnerschappen ondersteun je mee het buitenlands beleid binnen het thema ‘data en digitaal’. Je hebt daarbij oog voor opportuniteiten en kansen op de korte termijn, maar je bouwt dit beleid ook mee uit op de langere termijn. Je focust daarbij vooral op regio’s en voorbeelden in de Europese Unie en de programma’s van de Europese Commissie in het bijzonder, die inspirerend en (budgettair) versterkend kunnen werken voor Digitaal Vlaanderen, de Vlaamse digitale strategie en zijn onderdelen (bijvoorbeeld: cyberveiligheid, AI), en de digitale maturiteit van Vlaanderen. Met deze voorloper-regio’s bouw je concrete samenwerkingen uit, geprioriteerd vanuit de eigen Vlaamse digitale ambities. Een voorbeeld is de Disruptive &amp; Emerging Technology Alliance (DETA) waarin verschillende regio’s zich verenigd hebben (zie: </span><span>https://detalliance.com/</span><span> ).</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70665340",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70665340",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker expert - Interbestuurlijk Samenwerken (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Beleidsmedewerker expert - Interbestuurlijk Samenwerken (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span><br>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Je bent verantwoordelijk voor het detecteren, uitbouwen en beheren van interbestuurlijke samenwerkingsrelaties en -opportuniteiten, met een focus op interne Vlaamse samenwerking tussen agentschappen onderling en t.a.v. de lokale besturen. De Vlaams-federale relaties vormen niet je hoofdfocus binnen deze opdracht. </span></p> \n<p><span>Als beleidsmedewerker expert ben je in de eerste plaats voor Digitaal Vlaanderen de vertegenwoordiger in het Smart Region Office (SRO), een samenwerkingsverband met het agentschap Binnenlands Bestuur en VLAIO. De Smart Region Office is de liaison tussen de Smart City-initiatieven van de Vlaamse Overheid, de lokale besturen en ondernemingen en werkt een gemeenschappelijk overheidsbeleid uit. De Smart Region Office faciliteert de interactie binnen het ecosysteem en maakt er tegelijkertijd deel van uit (meer info: </span><span>https://www.vlaanderen.be/smart-region-office/ecosysteem/het-ecosysteem-van-de-smart-region-office</span><span> ). We staan op het punt om dit netwerk uit te breiden met andere Vlaamse entiteiten die in dit domein actief zijn.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Coördinatie van het Smart Region Office. Je doet dit samen met 2 collega programma managers (SRO’ers) van ABB en VLAIO. Je behoudt en bewaakt het overzicht van alle lopende en geplande initiatieven en moedigt kennisdeling en samenwerking tussen verschillende overheidsdiensten en lokale besturen aan. Je bouwt het beleidsmatige stuk rond smart cities verder uit en hanteert hierbij een brede kijk. Het doel? Samenwerken, verbinden en mogelijkheden creëren voor een betere toekomst.</span></p> \n<p><span><span>· </span></span><span>Naast deze SRO-taken op een meer tactisch en operationeel niveau draag je ook bij aan de strategische dimensie van de SRO: je faciliteert en definieert mee de toekomst van dit samenwerkingsverband met oog voor de benodigde draagvlakcreatie. Je deinst er onder meer niet voor terug hiervoor in persoonlijk overleg te treden met, bijvoorbeeld, de ICT-managers van Vlaamse centrumsteden. Je organiseert mee de Smart Region Board waar de kabinetten van de bevoegde ministers aan deelnemen. </span></p> \n<ul type=\"disc\"> \n<li><span>Het organiseren, coördineren en opvolgen van onder meer de Werkgroep Interbestuurlijk Samenwerken, onder het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></li> \n<li><span>Bijdragen aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement met lokale besturen over de Vlaamse digitale strategie.</span></li> \n<li><span>De smart regio office is geen doel op zich. De kern is dat je bijdraagt aan het coördineren en ontzorgen van interne teams en afdelingen binnen Digitaal Vlaanderen, alsook andere Vlaamse entiteiten en lokale besturen gericht op interbestuurlijk samenwerken vanuit onze kernwaarden #partner #ontzorgen #1team.</span></li> </ul>",
+        "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span><br>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Je bent verantwoordelijk voor het detecteren, uitbouwen en beheren van interbestuurlijke samenwerkingsrelaties en -opportuniteiten, met een focus op interne Vlaamse samenwerking tussen agentschappen onderling en t.a.v. de lokale besturen. De Vlaams-federale relaties vormen niet je hoofdfocus binnen deze opdracht. </span></p> \n<p><span>Als beleidsmedewerker expert ben je in de eerste plaats voor Digitaal Vlaanderen de vertegenwoordiger in het Smart Region Office (SRO), een samenwerkingsverband met het agentschap Binnenlands Bestuur en VLAIO. De Smart Region Office is de liaison tussen de Smart City-initiatieven van de Vlaamse Overheid, de lokale besturen en ondernemingen en werkt een gemeenschappelijk overheidsbeleid uit. De Smart Region Office faciliteert de interactie binnen het ecosysteem en maakt er tegelijkertijd deel van uit (meer info: </span><span>https://www.vlaanderen.be/smart-region-office/ecosysteem/het-ecosysteem-van-de-smart-region-office</span><span> ). We staan op het punt om dit netwerk uit te breiden met andere Vlaamse entiteiten die in dit domein actief zijn.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Coördinatie van het Smart Region Office. Je doet dit samen met 2 collega programma managers (SRO’ers) van ABB en VLAIO. Je behoudt en bewaakt het overzicht van alle lopende en geplande initiatieven en moedigt kennisdeling en samenwerking tussen verschillende overheidsdiensten en lokale besturen aan. Je bouwt het beleidsmatige stuk rond smart cities verder uit en hanteert hierbij een brede kijk. Het doel? Samenwerken, verbinden en mogelijkheden creëren voor een betere toekomst.</span></p> \n<p><span><span>· </span></span><span>Naast deze SRO-taken op een meer tactisch en operationeel niveau draag je ook bij aan de strategische dimensie van de SRO: je faciliteert en definieert mee de toekomst van dit samenwerkingsverband met oog voor de benodigde draagvlakcreatie. Je deinst er onder meer niet voor terug hiervoor in persoonlijk overleg te treden met, bijvoorbeeld, de ICT-managers van Vlaamse centrumsteden. Je organiseert mee de Smart Region Board waar de kabinetten van de bevoegde ministers aan deelnemen. </span></p> \n<ul type=\"disc\"> \n<li><span>Het organiseren, coördineren en opvolgen van onder meer de Werkgroep Interbestuurlijk Samenwerken, onder het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></li> \n<li><span>Bijdragen aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement met lokale besturen over de Vlaamse digitale strategie.</span></li> \n<li><span>De smart regio office is geen doel op zich. De kern is dat je bijdraagt aan het coördineren en ontzorgen van interne teams en afdelingen binnen Digitaal Vlaanderen, alsook andere Vlaamse entiteiten en lokale besturen gericht op interbestuurlijk samenwerken vanuit onze kernwaarden #partner #ontzorgen #1team.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70665306",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70665306",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker - Interbestuurlijk Samenwerken (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Beleidsmedewerker - Interbestuurlijk Samenwerken (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span><br>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Je bent verantwoordelijk voor het detecteren, uitbouwen en beheren van interbestuurlijke samenwerkingsrelaties en -opportuniteiten, met een focus op Vlaams-federale en Vlaams-lokale relaties.</span></p> \n<p><span>Voor de Vlaams-federale dimensie richt je je vooral op het faciliteren van een gestructureerde samenwerking met de federale overheden. Digitaal Vlaanderen speelt hierbij een coördinerende en ondersteunende rol voor alle Vlaamse entiteiten en lokale besturen, zodat onder meer data kosteloos kunnen worden uitgewisseld en systemen compatibel zijn met Vlaamse digitale toepassingen.</span></p> \n<p><span>Wat betreft de Vlaams-lokale relaties, draag je bij aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement van de lokale besturen over de Vlaamse digitale strategie, onder andere via de Werkgroep Interbestuurlijk Samenwerken binnen het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Het faciliteren van de interbestuurlijke samenwerking binnen de Vlaams-federale dimensie door een gestructureerde benadering van de federale overheden.</span></p> \n<p><span><span>· </span></span><span>Het opbouwen van een breed netwerk van relevante contactpersonen binnen de federale overheid.</span></p> \n<p><span><span>· </span></span><span>Het coördineren en ontzorgen van interne teams en afdelingen binnen Digitaal Vlaanderen, alsook andere Vlaamse entiteiten en lokale besturen, met focus op de kernwaarden #partner #ontzorgen #1tea</span></p> \n<p><span><span>· </span></span><span>Het capteren van bezorgdheden en obstakels rond onder meer het kosteloos uitwisselen van data tussen verschillende overheden en beleidsniveaus </span></p> \n<p><span><span>· </span></span><span>Bijdragen aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement met lokale besturen over de Vlaamse digitale strategie.</span></p> \n<p><span><span>· </span></span><span>Het organiseren, coördineren en opvolgen van onder meer de Werkgroep Interbestuurlijk Samenwerken, onder het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></p>",
+        "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span><br>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Je bent verantwoordelijk voor het detecteren, uitbouwen en beheren van interbestuurlijke samenwerkingsrelaties en -opportuniteiten, met een focus op Vlaams-federale en Vlaams-lokale relaties.</span></p> \n<p><span>Voor de Vlaams-federale dimensie richt je je vooral op het faciliteren van een gestructureerde samenwerking met de federale overheden. Digitaal Vlaanderen speelt hierbij een coördinerende en ondersteunende rol voor alle Vlaamse entiteiten en lokale besturen, zodat onder meer data kosteloos kunnen worden uitgewisseld en systemen compatibel zijn met Vlaamse digitale toepassingen.</span></p> \n<p><span>Wat betreft de Vlaams-lokale relaties, draag je bij aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement van de lokale besturen over de Vlaamse digitale strategie, onder andere via de Werkgroep Interbestuurlijk Samenwerken binnen het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Het faciliteren van de interbestuurlijke samenwerking binnen de Vlaams-federale dimensie door een gestructureerde benadering van de federale overheden.</span></p> \n<p><span><span>· </span></span><span>Het opbouwen van een breed netwerk van relevante contactpersonen binnen de federale overheid.</span></p> \n<p><span><span>· </span></span><span>Het coördineren en ontzorgen van interne teams en afdelingen binnen Digitaal Vlaanderen, alsook andere Vlaamse entiteiten en lokale besturen, met focus op de kernwaarden #partner #ontzorgen #1tea</span></p> \n<p><span><span>· </span></span><span>Het capteren van bezorgdheden en obstakels rond onder meer het kosteloos uitwisselen van data tussen verschillende overheden en beleidsniveaus </span></p> \n<p><span><span>· </span></span><span>Bijdragen aan een gestructureerde dialoog, kennisuitwisseling en stakeholdermanagement met lokale besturen over de Vlaamse digitale strategie.</span></p> \n<p><span><span>· </span></span><span>Het organiseren, coördineren en opvolgen van onder meer de Werkgroep Interbestuurlijk Samenwerken, onder het Stuurorgaan Vlaams ICT- en Informatiebeleid.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70665267",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70665267",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker expert - Interoperabiliteit (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Beleidsmedewerker expert - Interoperabiliteit (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p>Jouw werkplek is ons kantoor in \n<strong>Gent</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Brussel</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Als beleidsmedewerker interoperabiliteit ben je mee verantwoordelijk voor het uitwerken</span><span> en coördineren van acties die het onze partners eenvoudiger maken interoperabele oplossingen te bouwen richting hun doelgroep (#ontzorgen). </span></p> \n<p><span>Je zet hierbij samenwerkingen op met de betrokken afdelingen binnen Digitaal Vlaanderen en andere entiteiten van de Vlaamse overheid (#éénteam). Je stuwt het multi stakeholderveld naar een gemeenschappelijke visie en strategie rond interoperabiliteit en helpt op die manier overheidsprocessen vlotter, makkelijker en meer schaalbaar te maken. Je draagt actief bij aan de strategie om te komen tot een overheid als platform en creëert impact voor onze partners (#partner).</span></p> \n<p><span>Je volgt hiervoor ook innovatieve interoperabiliteitsmechanismen op (vb. data spaces) en vertaalt deze door in Vlaams beleid op vraag van partners van Digitaal Vlaanderen. Processen, methodes en afsprakenkaders om deze praktisch toe te passen binnen het geheel van onze 'overheid als een platform', worden in samenwerking met de uitvoerende afdelingen uitgebouwd.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het uitbouwen van een gemeenschappelijk actieplan interoperabiliteit voor overheden in Vlaanderen. Je organiseert de werkgroepen, bouwt verder op de expertise van collega’s om het aanbod van overheden in Vlaanderen te alligneren. </span></p> \n<p><span><span>· </span></span><span>Je bouwt kennis op van de interoperable europe act en kan deze ism de collega’s doorvertalen in het actieplan en de roadmap met een nodige scope en deliverables</span></p> \n<p><span><span>· </span></span><span>Je beheert de huidige roadmap van het expertisecentrum en brengt ritme en kadans om resultaten te halen.</span></p> \n<p><span><span>· </span></span><span>Je bouwt het samenwerkingsmodel uit met de andere teams in de organisatie (ism de andere teamleden en manager) zodat partnervragen in een duidelijk proces met betrokkenheid van het expertiseteam adequaat worden beantwoord (zowel voor bestaande processen als voor innovatieve oplossingen). </span></p>",
+        "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p>Jouw werkplek is ons kantoor in \n<strong>Gent</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Brussel</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Als beleidsmedewerker interoperabiliteit ben je mee verantwoordelijk voor het uitwerken</span><span> en coördineren van acties die het onze partners eenvoudiger maken interoperabele oplossingen te bouwen richting hun doelgroep (#ontzorgen). </span></p> \n<p><span>Je zet hierbij samenwerkingen op met de betrokken afdelingen binnen Digitaal Vlaanderen en andere entiteiten van de Vlaamse overheid (#éénteam). Je stuwt het multi stakeholderveld naar een gemeenschappelijke visie en strategie rond interoperabiliteit en helpt op die manier overheidsprocessen vlotter, makkelijker en meer schaalbaar te maken. Je draagt actief bij aan de strategie om te komen tot een overheid als platform en creëert impact voor onze partners (#partner).</span></p> \n<p><span>Je volgt hiervoor ook innovatieve interoperabiliteitsmechanismen op (vb. data spaces) en vertaalt deze door in Vlaams beleid op vraag van partners van Digitaal Vlaanderen. Processen, methodes en afsprakenkaders om deze praktisch toe te passen binnen het geheel van onze 'overheid als een platform', worden in samenwerking met de uitvoerende afdelingen uitgebouwd.</span></p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het uitbouwen van een gemeenschappelijk actieplan interoperabiliteit voor overheden in Vlaanderen. Je organiseert de werkgroepen, bouwt verder op de expertise van collega’s om het aanbod van overheden in Vlaanderen te alligneren. </span></p> \n<p><span><span>· </span></span><span>Je bouwt kennis op van de interoperable europe act en kan deze ism de collega’s doorvertalen in het actieplan en de roadmap met een nodige scope en deliverables</span></p> \n<p><span><span>· </span></span><span>Je beheert de huidige roadmap van het expertisecentrum en brengt ritme en kadans om resultaten te halen.</span></p> \n<p><span><span>· </span></span><span>Je bouwt het samenwerkingsmodel uit met de andere teams in de organisatie (ism de andere teamleden en manager) zodat partnervragen in een duidelijk proces met betrokkenheid van het expertiseteam adequaat worden beantwoord (zowel voor bestaande processen als voor innovatieve oplossingen). </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70659449",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70659449",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamlead dataplatform (Departement Omgeving) via Vlaanderen Connect"
+      },
+      "displayTitle": "Teamlead dataplatform (Departement Omgeving) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als teamlead dataplatform ben je verantwoordelijk voor de organisatie van het team, bestaande uit 10-tal personen, dat instaat voor de de werking van dataplatform.</span></p> \n<p><span>Je belangrijkste taken en verantwoordelijkheden zijn.</span></p> \n<p>Organiseren en structureren: je focust op het verbeteren van een kwalitatieve en efficiënte dienstverlening.</p> \n<ul> \n<li>Naast technologische oplossingen hecht je ook belang in procesafspraken en productdocumentatie als basisbouwstenen van een duurzaam data-ecosysteem.</li> \n<li>Je stuurt op basis van noden de definitie, ontwikkeling en onderhoud van de data-producten aan. Je neemt deze op in de product backlog.</li> \n<li><span>Vanuit een geprioretiseerde backlog coördineer en plan je de taken van je team in Jira.</span></li> </ul> \n<p>Stakeholdermanagement: als teamlead van het dataplatform ben je de spilfiguur tussen de producenten van data en de gebruikers ervan.</p> \n<ul> \n<li><span>Je bent goed in het leggen van contacten. Je bent in staat om samen met je stakeholders een visie uit te werken.</span></li> </ul> \n<p>Peoplemanagement</p> \n<ul> \n<li><span>Je kan een team van experten ondersteunen en coördineren</span></li> </ul> \n<p>Projectmanagement</p> \n<p><span>Je hebt ervaring als projectleider. Projecten zijn immers de basis van je werking. Zowel projecten ter verbetering van de werking van het dataplatform als onboardingen worden projectmatig opgevolgd.</span></p> \n<p><span><br></span></p> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als teamlead dataplatform ben je verantwoordelijk voor de organisatie van het team, bestaande uit 10-tal personen, dat instaat voor de de werking van dataplatform.</span></p> \n<p><span>Je belangrijkste taken en verantwoordelijkheden zijn.</span></p> \n<p>Organiseren en structureren: je focust op het verbeteren van een kwalitatieve en efficiënte dienstverlening.</p> \n<ul> \n<li>Naast technologische oplossingen hecht je ook belang in procesafspraken en productdocumentatie als basisbouwstenen van een duurzaam data-ecosysteem.</li> \n<li>Je stuurt op basis van noden de definitie, ontwikkeling en onderhoud van de data-producten aan. Je neemt deze op in de product backlog.</li> \n<li><span>Vanuit een geprioretiseerde backlog coördineer en plan je de taken van je team in Jira.</span></li> </ul> \n<p>Stakeholdermanagement: als teamlead van het dataplatform ben je de spilfiguur tussen de producenten van data en de gebruikers ervan.</p> \n<ul> \n<li><span>Je bent goed in het leggen van contacten. Je bent in staat om samen met je stakeholders een visie uit te werken.</span></li> </ul> \n<p>Peoplemanagement</p> \n<ul> \n<li><span>Je kan een team van experten ondersteunen en coördineren</span></li> </ul> \n<p>Projectmanagement</p> \n<p><span>Je hebt ervaring als projectleider. Projecten zijn immers de basis van je werking. Zowel projecten ter verbetering van de werking van het dataplatform als onboardingen worden projectmatig opgevolgd.</span></p> \n<p><span><br></span></p> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70658972",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70658972",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Technical Teamlead (Departement Omgeving) via Vlaanderen Connect"
+      },
+      "displayTitle": "Technical Teamlead (Departement Omgeving) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p><span> </span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p><span> </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70658532",
       "internal": false,
@@ -329,8 +574,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70627969",
@@ -450,8 +695,8 @@
       "displayTitle": "Webmaster",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Vzw ‘de Rand’ is een privaatrechtelijk extern verzelfstandigd agentschap. In opdracht van de Vlaamse overheid én de provincie Vlaams-Brabant zet de vzw in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt o.a. door het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>",
-        "htmlEncoded": "<p><span>Vzw ‘de Rand’ is een privaatrechtelijk extern verzelfstandigd agentschap. In opdracht van de Vlaamse overheid én de provincie Vlaams-Brabant zet de vzw in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt o.a. door het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>"
+        "raw": "<p><span>Vzw ‘de Rand’ zet in opdracht van de Vlaamse overheid en de provincie Vlaams-Brabant in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt via 5 pijlers, waaronder</span><span> het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>",
+        "htmlEncoded": "<p><span>Vzw ‘de Rand’ zet in opdracht van de Vlaamse overheid en de provincie Vlaams-Brabant in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt via 5 pijlers, waaronder</span><span> het uitbaten van 7 gemeenschapscentra, het publiceren van de Randkrant en gemeenschapskranten, ondersteunen van lokale besturen en partners in de aanpak van uitdagingen op het vlak van de talendiversiteit en oefenkansen Nederlands en coördineert de organisatie het Gordelfestival.</span></p> \n<p><strong><span lang=\"NL\">Wie zoeken wij? \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Wij zijn op zoek naar een webmaster die verantwoordelijk is voor het beheer en de optimalisatie van onze digitale kanalen</span><span>. Je zorgt ervoor dat onze websites en online platformen steeds up-to-date, toegankelijk en gebruiksvriendelijk zijn. Je bent het centrale aanspreekpunt voor digitale vraagstukken en werkt nauw samen met collega’s en externe partners om nieuwe digitale projecten te realiseren.</span></p> \n<p> </p> \n<p><strong><span>Wat verwachten wij?</span></strong></p> \n<p> </p> \n<p><span><span>• </span></span><span>Je beheert en optimaliseert onze websites en het intranet.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je publiceert en werkt content bij, met oog voor consistentie en huisstijl.</span></p> \n<p><span><span>• </span></span><span>Je beheert domeinnamen en hosting.</span></p> \n<p><span><span>• </span></span><span>Je lost technische problemen op in samenwerking met de ontwikkelaars.</span></p> \n<p><span><span>• </span></span><span>Je optimaliseert de gebruikerservaring en toegankelijkheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert accounts voor online tools zoals e-mailmarketing en formulieren.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je beheert onze social media-kanalen en zorgt voor een consistente online aanwezigheid.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je monitort en analyseert web- en social media-statistieken.</span></p> \n<p><span><span>• </span></span><span>Je rapporteert over prestaties en stelt verbeteringen voor.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je stelt richtlijnen en handleidingen op en biedt eerstelijnssupport aan collega’s.</span></p> \n<p><span><span>• </span></span><span lang=\"NL\">Je geeft </span><span>advies en zorgt voor ondersteuning bij digitale vraagstukken.</span></p>"
       },
       "locations": [
         {
@@ -1897,6 +2142,41 @@
       ]
     },
     {
+      "link": "/Job/vdab-70174698",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70174698",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "ICT Architect (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "ICT Architect (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Ben je gedreven in het opstellen van datamodellen? En wil je werken in een dynamische omgeving die het informatieknooppunt van Vlaanderen uitbouwt? Dan kom jij misschien Digitaal Vlaanderen als \n<strong>ICT Architect</strong> vervoegen binnen de afdeling Dataplatform in het team Data Governance.</span></p> \n<p><span>Vanuit Digitaal Vlaanderen willen we versterkt inzetten op interoperabiliteit door de ontwikkeling van semantische standaarden. Het opzetten van deze datamodellen zorgt namelijk voor een eenvoudige uitwisseling van gegevens en is de basis van een datagedreven overheid.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Digitalisering staat hoger dan ooit op de Vlaamse agenda. Digitaal Vlaanderen beantwoordt aan deze nood. We willen de motor zijn voor de digitale transformatie van overheden in Vlaanderen. </span></p> \n<p><span>Digitaal Vlaanderen is een geëngageerde, klantgerichte businesspartner voor Vlaamse overheidsdiensten en lokale overheden. We bieden hen een voorsprong door digitale oplossingen aan te bieden die binnen een breed en schaalbaar ecosysteem te situeren zijn. Een intelligente en wendbare dienstverlening staat hierbij steeds centraal.</span></p> \n<p><span>Overheden op lokaal, Vlaams, interfederaal en Europees niveau moeten in het kader van hun dienstverlening vaak samenwerken. In praktijk moeten bijgevolg heel wat gegevens uitgewisseld worden tussen de verschillende administraties. Deze gegevens zijn afkomstig uit verschillende systemen, zijn mogelijks niet in hetzelfde technische formaat beschikbaar, en volgen niet noodzakelijk dezelfde semantiek. Zonder het maken van afspraken, wordt kwaliteitsvolle gegevensuitwisseling onmogelijk. Deze afspraken dienen zo breed mogelijk verankerd te worden en leiden waar relevant tot een standaard met een vrijwillig toe te passen, ‘pas toe of leg uit’ of verplicht karakter, om zo nodeloze kosten voor gegevensuitwisseling te besparen.</span></p> \n<p><span>Om dit proces te vereenvoudigen, te stroomlijnen en te automatiseren, is OSLO, Open Standaarden voor Linkende Organisaties er. Dit initiatief van de Vlaamse Overheid wil het delen van data en gegevens vlotter doen verlopen, door betekenissen vast te leggen van concepten, woorden en definities (waardoor semantische discussies vermeden worden) en hoe deze te structureren in eigen databases of softwarepakketten. Op die manier ontstaan er kwaliteitsvolle up-to-date data en wordt er vermeden dat er lokale schaduwdatabanken ontstaan.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Ben je gedreven in het opstellen van datamodellen? En wil je werken in een dynamische omgeving die het informatieknooppunt van Vlaanderen uitbouwt? Dan kom jij misschien Digitaal Vlaanderen als \n<strong>ICT Architect</strong> vervoegen binnen de afdeling Dataplatform in het team Data Governance.</span></p> \n<p><span>Vanuit Digitaal Vlaanderen willen we versterkt inzetten op interoperabiliteit door de ontwikkeling van semantische standaarden. Het opzetten van deze datamodellen zorgt namelijk voor een eenvoudige uitwisseling van gegevens en is de basis van een datagedreven overheid.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Digitalisering staat hoger dan ooit op de Vlaamse agenda. Digitaal Vlaanderen beantwoordt aan deze nood. We willen de motor zijn voor de digitale transformatie van overheden in Vlaanderen. </span></p> \n<p><span>Digitaal Vlaanderen is een geëngageerde, klantgerichte businesspartner voor Vlaamse overheidsdiensten en lokale overheden. We bieden hen een voorsprong door digitale oplossingen aan te bieden die binnen een breed en schaalbaar ecosysteem te situeren zijn. Een intelligente en wendbare dienstverlening staat hierbij steeds centraal.</span></p> \n<p><span>Overheden op lokaal, Vlaams, interfederaal en Europees niveau moeten in het kader van hun dienstverlening vaak samenwerken. In praktijk moeten bijgevolg heel wat gegevens uitgewisseld worden tussen de verschillende administraties. Deze gegevens zijn afkomstig uit verschillende systemen, zijn mogelijks niet in hetzelfde technische formaat beschikbaar, en volgen niet noodzakelijk dezelfde semantiek. Zonder het maken van afspraken, wordt kwaliteitsvolle gegevensuitwisseling onmogelijk. Deze afspraken dienen zo breed mogelijk verankerd te worden en leiden waar relevant tot een standaard met een vrijwillig toe te passen, ‘pas toe of leg uit’ of verplicht karakter, om zo nodeloze kosten voor gegevensuitwisseling te besparen.</span></p> \n<p><span>Om dit proces te vereenvoudigen, te stroomlijnen en te automatiseren, is OSLO, Open Standaarden voor Linkende Organisaties er. Dit initiatief van de Vlaamse Overheid wil het delen van data en gegevens vlotter doen verlopen, door betekenissen vast te leggen van concepten, woorden en definities (waardoor semantische discussies vermeden worden) en hoe deze te structureren in eigen databases of softwarepakketten. Op die manier ontstaan er kwaliteitsvolle up-to-date data en wordt er vermeden dat er lokale schaduwdatabanken ontstaan.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-70144112",
       "internal": false,
       "validThroughDate": "1743379200",
@@ -2097,41 +2377,6 @@
       "description": {
         "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB is een omgeving met een zeer moderne technologische omgeving waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Als functioneel analist heb je als taak om de behoeften van de business te vertalen naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. Als functioneel analist ben je de ‘functionele expert’ van de portefeuille van de applicaties binnen het team. </span></p> \n<p><span>Als functioneel analist zet je wanneer nodig de functionele kennis in bij de ondersteuningsverantwoordelijkheid van het team (leveren van support, beantwoorden van functionele vragen, troubleshooten van incidenten). Als functioneel analist neem je actief deel aan het overlegorgaan (gilde) van alle analisten en deelt er ervaringen en goede praktijken. Als functioneel analist\n<span> </span>hanteer je de best practices, de juiste methodieken en modelleertalen maar vooral een pragmatische aanpak zodat je snel tot bruikbare resultaten en oplossingen komt. Je profileert je hierbij als een partner van de organisatie en je interne en externe klanten. Als functioneel analist bij team Icarus stel je ook testsenario’s op voor proxy testing, als ook het opstellen van SQL queries voor impactstudie van analyse en voor testing.</span></p> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>",
         "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB is een omgeving met een zeer moderne technologische omgeving waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Als functioneel analist heb je als taak om de behoeften van de business te vertalen naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. Als functioneel analist ben je de ‘functionele expert’ van de portefeuille van de applicaties binnen het team. </span></p> \n<p><span>Als functioneel analist zet je wanneer nodig de functionele kennis in bij de ondersteuningsverantwoordelijkheid van het team (leveren van support, beantwoorden van functionele vragen, troubleshooten van incidenten). Als functioneel analist neem je actief deel aan het overlegorgaan (gilde) van alle analisten en deelt er ervaringen en goede praktijken. Als functioneel analist\n<span> </span>hanteer je de best practices, de juiste methodieken en modelleertalen maar vooral een pragmatische aanpak zodat je snel tot bruikbare resultaten en oplossingen komt. Je profileert je hierbij als een partner van de organisatie en je interne en externe klanten. Als functioneel analist bij team Icarus stel je ook testsenario’s op voor proxy testing, als ook het opstellen van SQL queries voor impactstudie van analyse en voor testing.</span></p> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70026201",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70026201",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p>"
       },
       "locations": [
         {
@@ -3244,6 +3489,46 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17830",
+      "internal": false,
+      "validThroughDate": "1743984000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17830",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder HRM"
+      },
+      "displayTitle": "Dossierbeheerder HRM",
+      "isProtected": false,
+      "description": {
+        "raw": "Samen met je collega zorg jij ervoor dat onze\nopleidingen – van individuele aanvragen tot groepsopleidingen – helemaal op\nrolletjes lopen. Van inschrijving tot lunchreservatie, jij regelt het allemaal.\nEn dat voor zowel algemene opleidingen als technische trainingen. Concreet\nbetekent dat:<br>-<span>\t</span>Je analyseert opleidingsaanvragen en registreert deze in Vlimpers.<br>-<span>\t</span>Je zorgt dat alles goed georganiseerd is: inschrijvingen, zalen boeken, lunch bestellen, noem maar op.<br>-<span>\t</span>Je houdt deelnemers en trainers op de hoogte en zorgt voor duidelijke communicatie.<br>-<span>\t</span>Je overlegt met regioverantwoordelijken en planners over technische opleidingen.<br>-<span>\t</span>Je maakt berichten voor ons intranet of stuurt mailtjes rond over opleidingen.<br>-<span>\t</span>Je houdt overzicht van de opleidingsdata en maakt daar rapporten van.<br>-<span>\t</span>Certificaten beheren? Dat is ook jouw ding, net als contact houden met opleidingspartners.<br>-<span>\t</span>Je stelt bestelbonnen op en beheert de facturen.",
+        "htmlEncoded": "Samen met je collega zorg jij ervoor dat onze\nopleidingen – van individuele aanvragen tot groepsopleidingen – helemaal op\nrolletjes lopen. Van inschrijving tot lunchreservatie, jij regelt het allemaal.\nEn dat voor zowel algemene opleidingen als technische trainingen. Concreet\nbetekent dat:<br>-<span>\t</span>Je analyseert opleidingsaanvragen en registreert deze in Vlimpers.<br>-<span>\t</span>Je zorgt dat alles goed georganiseerd is: inschrijvingen, zalen boeken, lunch bestellen, noem maar op.<br>-<span>\t</span>Je houdt deelnemers en trainers op de hoogte en zorgt voor duidelijke communicatie.<br>-<span>\t</span>Je overlegt met regioverantwoordelijken en planners over technische opleidingen.<br>-<span>\t</span>Je maakt berichten voor ons intranet of stuurt mailtjes rond over opleidingen.<br>-<span>\t</span>Je houdt overzicht van de opleidingsdata en maakt daar rapporten van.<br>-<span>\t</span>Certificaten beheren? Dat is ook jouw ding, net als contact houden met opleidingspartners.<br>-<span>\t</span>Je stelt bestelbonnen op en beheert de facturen."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17827",
       "internal": false,
       "validThroughDate": "1742774400",
@@ -4062,6 +4347,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17681",
+      "internal": false,
+      "validThroughDate": "1743724800",
+      "hiringOrganization": "Departement Financiën en Begroting",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17681",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Begrotingsraadgever"
+      },
+      "displayTitle": "Begrotingsraadgever",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij hebt een passie voor cijfers en je hebt een scherp analytisch inzicht en een kritische mindset. Voor jou is het meer dan gewoon rekenen-je ziet het als een boeiende uitdaging om de Vlaamse minister van Financiën en Begroting te adviseren over complexe financiële vraagstukken. Je krijgt energie van het meewerken aan de opmaak, opvolging en evaluatie van begrotingen en meerjarenramingen. Bovendien ben je altijd op zoek naar manieren om processen te verbeteren en draag je graag bij aan doordacht en effectief financieel beleid. Dan is dit een functie voor jou!</span></p><p><span>Als Begrotingsraadgever bij het Departement Financiën en Begroting krijg je een functie met veel autonomie, afwisseling en verantwoordelijkheid. Binnen de dienst Begrotingszaken van de afdeling Beleidsondersteuning, Begroting en Financiële Operaties speel jij een cruciale rol in het ondersteunen en adviseren van de minister van Financiën en Begroting. Je werkt nauw samen met verschillende stakeholders en krijgt de kans om je expertise en analytische vaardigheden verder te ontwikkelen. </span></p><p><span>Aarzel dan niet en solliciteer vandaag nog voor deze uitdagende positie als begrotingsraadgever bij het Departement Financiën en Begroting.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Jij hebt een passie voor cijfers en je hebt een scherp analytisch inzicht en een kritische mindset. Voor jou is het meer dan gewoon rekenen-je ziet het als een boeiende uitdaging om de Vlaamse minister van Financiën en Begroting te adviseren over complexe financiële vraagstukken. Je krijgt energie van het meewerken aan de opmaak, opvolging en evaluatie van begrotingen en meerjarenramingen. Bovendien ben je altijd op zoek naar manieren om processen te verbeteren en draag je graag bij aan doordacht en effectief financieel beleid. Dan is dit een functie voor jou!</span></p><p><span>Als Begrotingsraadgever bij het Departement Financiën en Begroting krijg je een functie met veel autonomie, afwisseling en verantwoordelijkheid. Binnen de dienst Begrotingszaken van de afdeling Beleidsondersteuning, Begroting en Financiële Operaties speel jij een cruciale rol in het ondersteunen en adviseren van de minister van Financiën en Begroting. Je werkt nauw samen met verschillende stakeholders en krijgt de kans om je expertise en analytische vaardigheden verder te ontwikkelen. </span></p><p><span>Aarzel dan niet en solliciteer vandaag nog voor deze uitdagende positie als begrotingsraadgever bij het Departement Financiën en Begroting.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17672",
       "internal": false,
       "validThroughDate": "1744848000",
@@ -4618,6 +4938,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17605",
+      "internal": false,
+      "validThroughDate": "1743552000",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17605",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidscoördinator Asbestinventarisatie"
+      },
+      "displayTitle": "Beleidscoördinator Asbestinventarisatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als beleidscoördinator asbestinvetarisatie&nbsp;ben je een centraal aanspreekpunt voor de correcte toepassing van het inspectieprotocol en de verwerking van asbestinventarisatiegegevens in de databank. Je beheert inhoudelijk het inspectieprotocol, ondersteunt collega’s bij beleidsopvolging en zet je in voor kwaliteitsborging binnen de marktwerking van asbestattesten. Daarnaast vertegenwoordig je het asbestafbouwbeleid actief via webinars, presentaties en congressen, en geef je trainingen aan lesgevers van erkende opleidingsinstellingen. Je voert controles uit op de werking van auditeurs, beheert kennisdocumenten en rapportages, en werkt mee aan de bijsturing van wet- en regelgeving. </p>",
+        "htmlEncoded": "<p>Als beleidscoördinator asbestinvetarisatie&nbsp;ben je een centraal aanspreekpunt voor de correcte toepassing van het inspectieprotocol en de verwerking van asbestinventarisatiegegevens in de databank. Je beheert inhoudelijk het inspectieprotocol, ondersteunt collega’s bij beleidsopvolging en zet je in voor kwaliteitsborging binnen de marktwerking van asbestattesten. Daarnaast vertegenwoordig je het asbestafbouwbeleid actief via webinars, presentaties en congressen, en geef je trainingen aan lesgevers van erkende opleidingsinstellingen. Je voert controles uit op de werking van auditeurs, beheert kennisdocumenten en rapportages, en werkt mee aan de bijsturing van wet- en regelgeving. </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
           }
         }
       ]
@@ -5571,6 +5926,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17479",
+      "internal": false,
+      "validThroughDate": "1744502400",
+      "hiringOrganization": "Vlaams Agentschap voor Internationaal Ondernemen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17479",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Projectmedewerker Enterprise Europe Network Vlaanderen"
+      },
+      "displayTitle": "Projectmedewerker Enterprise Europe Network Vlaanderen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij een sleutelrol spelen in Europa's zakelijke toekomst? Word lid van ons dynamische team als Project Manager bij Enterprise Europe Network! Je informeert Vlaamse bedrijven over EU-beleid zoals de Green Deal en vrijhandelsakkoorden, en faciliteert internationale samenwerking door matchmaking en missies. </p><p>Met jouw expertise draag je bij aan nationale, internationale en EU-doelstellingen. Klaar om jouw passie voor de EU en zakelijke innovatie te combineren? Solliciteer nu en maak deel uit van een internationaal netwerk dat grenzen verlegt.</p><p>Het EEN-contract tussen FIT en de Commissie\nwaarvoor deze vacature geldt, loopt van 1 juli 2025 tot 31 december 2028.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Wil jij een sleutelrol spelen in Europa's zakelijke toekomst? Word lid van ons dynamische team als Project Manager bij Enterprise Europe Network! Je informeert Vlaamse bedrijven over EU-beleid zoals de Green Deal en vrijhandelsakkoorden, en faciliteert internationale samenwerking door matchmaking en missies. </p><p>Met jouw expertise draag je bij aan nationale, internationale en EU-doelstellingen. Klaar om jouw passie voor de EU en zakelijke innovatie te combineren? Solliciteer nu en maak deel uit van een internationaal netwerk dat grenzen verlegt.</p><p>Het EEN-contract tussen FIT en de Commissie\nwaarvoor deze vacature geldt, loopt van 1 juli 2025 tot 31 december 2028.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17473",
       "internal": false,
       "validThroughDate": "1742688000",
@@ -5706,6 +6096,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17452",
+      "internal": false,
+      "validThroughDate": "1743552000",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17452",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamleider Data"
+      },
+      "displayTitle": "Teamleider Data",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als teamleider data ben jij de schakel tussen strategische organisatiedoelstellingen en de concrete uitvoering binnen jouw team. Jij vertaalt visie naar haalbare en motiverende doelen, zodat elke medewerker weet hoe hij of zij bijdraagt aan het grotere geheel.<br></span><span><br>Met een duidelijke planning zorg je voor een efficiënte taakverdeling, afgestemd op de sterktes van je teamleden. Je monitort de dagelijkse werking, signaleert obstakels en stuurt bij waar nodig. Transparante communicatie en een vlotte samenwerking met collega’s en het management staan centraal.<br></span><span><br>Jij bent een coach en motivator die medewerkers stimuleert om te groeien, initiatieven te nemen en nieuwe werkwijzen te verkennen. Door regelmatige feedback en loopbaanbegeleiding zorg je voor betrokkenheid en continue ontwikkeling. Tegelijk houd je vinger aan de pols bij veranderende noden en processen, en draag je actief bij aan een cultuur van verbetering en innovatie.<br></span><span><br>Wil jij impact maken, mensen inspireren en bijdragen aan een sterke, toekomstgerichte organisatie? Dan zoeken wij jou!</span></p>",
+        "htmlEncoded": "<p><span>Als teamleider data ben jij de schakel tussen strategische organisatiedoelstellingen en de concrete uitvoering binnen jouw team. Jij vertaalt visie naar haalbare en motiverende doelen, zodat elke medewerker weet hoe hij of zij bijdraagt aan het grotere geheel.<br></span><span><br>Met een duidelijke planning zorg je voor een efficiënte taakverdeling, afgestemd op de sterktes van je teamleden. Je monitort de dagelijkse werking, signaleert obstakels en stuurt bij waar nodig. Transparante communicatie en een vlotte samenwerking met collega’s en het management staan centraal.<br></span><span><br>Jij bent een coach en motivator die medewerkers stimuleert om te groeien, initiatieven te nemen en nieuwe werkwijzen te verkennen. Door regelmatige feedback en loopbaanbegeleiding zorg je voor betrokkenheid en continue ontwikkeling. Tegelijk houd je vinger aan de pols bij veranderende noden en processen, en draag je actief bij aan een cultuur van verbetering en innovatie.<br></span><span><br>Wil jij impact maken, mensen inspireren en bijdragen aan een sterke, toekomstgerichte organisatie? Dan zoeken wij jou!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
