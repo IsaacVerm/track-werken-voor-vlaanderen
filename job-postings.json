@@ -1,10 +1,10 @@
 {
-  "totalItems": 195,
+  "totalItems": 196,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 194,
+  "lastItemOfPage": 195,
   "items": [
     {
       "link": "/Job/vdab-70665460",
@@ -5809,6 +5809,38 @@
         {
           "address": {
             "city": "Wondelgem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17494",
+      "internal": true,
+      "validThroughDate": "1743638400",
+      "hiringOrganization": "Dienst van de Bestuursrechtscolleges",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17494",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Communicatieverantwoordelijke"
+      },
+      "displayTitle": "Communicatieverantwoordelijke",
+      "isProtected": false,
+      "description": {
+        "raw": "De Dienst van de Bestuursrechtscolleges zoekt een enthousiaste en strategisch sterke communicatieverantwoordelijke om onze interne en externe communicatie naar een hoger niveau te tillen. Je werkt aan het versterken van onze zichtbaarheid, coördineert inspirerende events en speelt een sleutelrol in onze mediarelaties. Op termijn zal je ook optreden als woordvoerder.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
+        "htmlEncoded": "De Dienst van de Bestuursrechtscolleges zoekt een enthousiaste en strategisch sterke communicatieverantwoordelijke om onze interne en externe communicatie naar een hoger niveau te tillen. Je werkt aan het versterken van onze zichtbaarheid, coördineert inspirerende events en speelt een sleutelrol in onze mediarelaties. Op termijn zal je ook optreden als woordvoerder.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
