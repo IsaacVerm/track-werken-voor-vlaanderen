@@ -1,11 +1,116 @@
 {
-  "totalItems": 206,
+  "totalItems": 198,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 205,
+  "lastItemOfPage": 197,
   "items": [
+    {
+      "link": "/Job/vdab-70686331",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70686331",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Business analist afdeling L (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Business analist afdeling L (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Wil je als business analist een sleutelrol spelen in de digitalisering van VDAB en zo de dienstverlening aan burgers en werkgevers op het vlak van begeleiding, opleiding en werkplekleren verbeteren? Bij VDAB werk je aan projecten die écht impact hebben op de samenleving! Dankzij jouw werk help je burgers die hun competenties verder willen ontwikkelen sneller aan de juiste opleiding en kunnen bedrijven zo makkelijker talent aantrekken.</span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>VDAB is de specialist in werk om mensen te matchen met de juiste job. VDAB heeft de ambitie om elke burger een loopbaanperspectief en loopbaaneigenaarschap te bieden, elk talent aan de slag te krijgen en elke werkgever een perspectief op talent te bieden. Voor burgers die niet meteen matchbaar zijn met een vacature, voorziet VDAB in een dienstverleningsaanbod om de kloof met een job te dichten. Dit kan bestaan uit intensieve begeleiding en/of competentieontwikkeling door middel van opleiding en werkplekleren. Jouw job als business analist bestaat erin mee te werken aan de vernieuwing en verbetering van deze processen en applicaties. Daarnaast help je ook mee aan de implementatie van nieuw beleid. </span></p> \n<p><span>VDAB streeft ernaar zijn dienstverlening continu te blijven verbeteren op basis van klantenfeedback en hierbij gebruik te maken van nieuwe technologieën en data. Je komt terecht in een gedreven en hecht team van business experten en analisten, waar kennisdeling en samenwerking centraal staan, met het oog op het creëren van een naadloze gebruikerservaring en het streven naar (administratieve) eenvoud.</span></p> \n<p><span>Binnen dit team werk je mee aan de realisatie van de roadmaps, die tot doel hebben om de applicaties en processen voor het aanbod aan begeleiding, opleiding en werkplekleren te vernieuwen. De projecten waarvoor je zal ingezet worden, kunnen in eerste instantie betrekking hebben op:</span></p> \n<ul> \n<li><span>de implementatie van nieuwe catalogi om het begeleidings- en opleidingsaanbod te beheren en te ontsluiten;</span></li> \n<li><span>het verzamelen van requirements en het uitvoeren van de analyse om de planningstool voor opleidingen binnen het training management system (TMS) te configureren;</span></li> \n<li><span>het uittekenen van vernieuwde klantprocessen - vanaf de aanvraag van een opleiding of andere dienst tot aan de uitstroom - en de ontwikkeling van de bijhorende ondersteunende applicaties;</span></li> \n<li><span>de optimalisatie van het leerplatform en de ontsluiting van leerdata om tot een betere gebruikerservaring te komen;</span></li> \n<li><span>ontwikkelingen in het kader van de ondersteunende, backofficeprocessen, bijvoorbeeld in functie van het correct toekennen van incentives of het opzetten van informatiestromen;</span></li> \n<li><span>de implementatie van nieuw beleid.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>Wil je als business analist een sleutelrol spelen in de digitalisering van VDAB en zo de dienstverlening aan burgers en werkgevers op het vlak van begeleiding, opleiding en werkplekleren verbeteren? Bij VDAB werk je aan projecten die écht impact hebben op de samenleving! Dankzij jouw werk help je burgers die hun competenties verder willen ontwikkelen sneller aan de juiste opleiding en kunnen bedrijven zo makkelijker talent aantrekken.</span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>VDAB is de specialist in werk om mensen te matchen met de juiste job. VDAB heeft de ambitie om elke burger een loopbaanperspectief en loopbaaneigenaarschap te bieden, elk talent aan de slag te krijgen en elke werkgever een perspectief op talent te bieden. Voor burgers die niet meteen matchbaar zijn met een vacature, voorziet VDAB in een dienstverleningsaanbod om de kloof met een job te dichten. Dit kan bestaan uit intensieve begeleiding en/of competentieontwikkeling door middel van opleiding en werkplekleren. Jouw job als business analist bestaat erin mee te werken aan de vernieuwing en verbetering van deze processen en applicaties. Daarnaast help je ook mee aan de implementatie van nieuw beleid. </span></p> \n<p><span>VDAB streeft ernaar zijn dienstverlening continu te blijven verbeteren op basis van klantenfeedback en hierbij gebruik te maken van nieuwe technologieën en data. Je komt terecht in een gedreven en hecht team van business experten en analisten, waar kennisdeling en samenwerking centraal staan, met het oog op het creëren van een naadloze gebruikerservaring en het streven naar (administratieve) eenvoud.</span></p> \n<p><span>Binnen dit team werk je mee aan de realisatie van de roadmaps, die tot doel hebben om de applicaties en processen voor het aanbod aan begeleiding, opleiding en werkplekleren te vernieuwen. De projecten waarvoor je zal ingezet worden, kunnen in eerste instantie betrekking hebben op:</span></p> \n<ul> \n<li><span>de implementatie van nieuwe catalogi om het begeleidings- en opleidingsaanbod te beheren en te ontsluiten;</span></li> \n<li><span>het verzamelen van requirements en het uitvoeren van de analyse om de planningstool voor opleidingen binnen het training management system (TMS) te configureren;</span></li> \n<li><span>het uittekenen van vernieuwde klantprocessen - vanaf de aanvraag van een opleiding of andere dienst tot aan de uitstroom - en de ontwikkeling van de bijhorende ondersteunende applicaties;</span></li> \n<li><span>de optimalisatie van het leerplatform en de ontsluiting van leerdata om tot een betere gebruikerservaring te komen;</span></li> \n<li><span>ontwikkelingen in het kader van de ondersteunende, backofficeprocessen, bijvoorbeeld in functie van het correct toekennen van incentives of het opzetten van informatiestromen;</span></li> \n<li><span>de implementatie van nieuw beleid.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70686220",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70686220",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Information Security Officer - ICT-raamcontracten (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Information Security Officer - ICT-raamcontracten (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70686162",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70686162",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert Mijn Burgerprofiel (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product Owner Expert Mijn Burgerprofiel (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we binnen het team Digitale Loketten op zoek naar een Product Owner ter versterking van het digitale loket Mijn Burgerprofiel (kortweg MBP) van onze afdeling Loketplatform. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner mee vorm wil geven aan het meest gebruiksvriendelijke overheidsloket in Vlaanderen? En waar je de burgers kan begeleiden richting de lokale dienstverlening via de mobiele app van het loket voor steden en gemeenten?</span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Je komt terecht in de afdeling LoketPlatform van Digitaal Vlaanderen, en rapporteert aan de teamlead Digitale Loketten, het team dat de web- en mobiele applicaties van Mijn Burgerprofiel uitbouwt.</span></p> \n<p><span>Mijn Burgerprofiel is hét overheidsloket voor burgers, en opgezet als een online portaal waarlangs men op een gebruiksvriendelijke en gecentraliseerde manier kan interageren met de overheid. Zowel op Vlaams, federaal als lokaal niveau.</span></p> \n<p><span>Gebruikers kunnen van daaruit ook doorlinken naar specifieke e-loketten. Het biedt een dashboard voor lopende zaken aan waar burgers online de status van hun dossier kunnen opvolgen. Via notificaties kan men communiceren over veranderingen in statussen of dossiervragen. Je kan overheidsdienstverleningen aanvragen, opvolgen, documenten en attesten raadplegen, en de gegevens inzien die de overheid over jou weet. Kortom, de doelstelling is om burgers maximaal te begeleiden doorheen de userjourney over de contactpunten van de overheid heen.</span></p> \n<p><span>Mijn Burgerprofiel wordt zowel in een webapplicatie aangeboden, als in een mobiele applicatie. De mobiele applicatie kent intussen al meer dan 60 lokale varianten van steden en gemeenten. Deze lokale variant brengt de lokale overheid dichter bij de burger.</span></p> \n<p><span>Je werkt vanuit onze kantoren te Brussel en Gent in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we binnen het team Digitale Loketten op zoek naar een Product Owner ter versterking van het digitale loket Mijn Burgerprofiel (kortweg MBP) van onze afdeling Loketplatform. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner mee vorm wil geven aan het meest gebruiksvriendelijke overheidsloket in Vlaanderen? En waar je de burgers kan begeleiden richting de lokale dienstverlening via de mobiele app van het loket voor steden en gemeenten?</span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Je komt terecht in de afdeling LoketPlatform van Digitaal Vlaanderen, en rapporteert aan de teamlead Digitale Loketten, het team dat de web- en mobiele applicaties van Mijn Burgerprofiel uitbouwt.</span></p> \n<p><span>Mijn Burgerprofiel is hét overheidsloket voor burgers, en opgezet als een online portaal waarlangs men op een gebruiksvriendelijke en gecentraliseerde manier kan interageren met de overheid. Zowel op Vlaams, federaal als lokaal niveau.</span></p> \n<p><span>Gebruikers kunnen van daaruit ook doorlinken naar specifieke e-loketten. Het biedt een dashboard voor lopende zaken aan waar burgers online de status van hun dossier kunnen opvolgen. Via notificaties kan men communiceren over veranderingen in statussen of dossiervragen. Je kan overheidsdienstverleningen aanvragen, opvolgen, documenten en attesten raadplegen, en de gegevens inzien die de overheid over jou weet. Kortom, de doelstelling is om burgers maximaal te begeleiden doorheen de userjourney over de contactpunten van de overheid heen.</span></p> \n<p><span>Mijn Burgerprofiel wordt zowel in een webapplicatie aangeboden, als in een mobiele applicatie. De mobiele applicatie kent intussen al meer dan 60 lokale varianten van steden en gemeenten. Deze lokale variant brengt de lokale overheid dichter bij de burger.</span></p> \n<p><span>Je werkt vanuit onze kantoren te Brussel en Gent in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70682571",
       "internal": false,
@@ -947,41 +1052,6 @@
         {
           "address": {
             "city": "Wemmel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70608512",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70608512",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "ervaringswerker GGZ"
-      },
-      "displayTitle": "ervaringswerker GGZ",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><span>In kader van de verdere uitwerking van herstelgerichte zorg in ons ziekenhuis willen we een betaalde ervaringsdeskundige als ervaringswerker inzetten. </span></p> \n<p> </p> \n<p><span>Momenteel hebben we een opening op de afdeling Behandeleenheid 2 binnen de divisie Volwassenen. </span></p> \n<p> </p> \n<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p> </p> \n<p> </p> \n<ul type=\"disc\"> \n<li><span>Behandeleenheid 2 richt zich op een \n<strong>divers publiek</strong> dat behoefte heeft aan een opname met \n<strong>intensieve therapeutische ondersteuning</strong>, gericht op een onderliggende persoonlijkheidsproblematiek. </span></li> \n<li><span>Het gaat om mensen die zich kunnen handhaven binnen een open structuur waarin veel verantwoordelijkheid bij hen wordt gelegd. </span></li> \n<li><span>We werken \n<strong>ondersteunend en versterkend</strong> vanuit het model van \n<strong>dialectische gedragstherapie</strong>.</span></li> \n<li><span>Je bent lid van het \n<strong>multidisciplinaire team</strong>. </span></li> \n<li><span>Je ondersteunt het herstelgericht werken door het opnemen van mogelijks \n<strong>verschillende rollen</strong> als ervaringsdeskundige zoals bv. hoopverlener, krachtverlener, individuele of groepsondersteuner en ondersteuner van de teamwerking vanuit het perspectief van patiënt en naasten.</span></li> \n<li><span>De ondersteuning die door jou geboden wordt, is gebaseerd op \n<strong>hoop en empowerment</strong> met een warme, open en respectvolle professionele attitude. </span></li> \n<li><span>Je ondersteunt de herstelprocessen bij de patiënt en familie. </span></li> \n<li><span>Je werkt in overleg en met ondersteuning van het kernteam. </span></li> \n<li><span>Je komt regelmatig samen met andere ervaringsdeskundigen in OPZ en in het netwerk.</span></li> </ul> \n<p> </p> \n<p><span>Naast de specifieke eenheid waar je wordt toegewezen is het mogelijk dat voor bepaalde opdrachten je inzet gevraagd wordt binnen de divisie Volwassenen. \n<strong></strong></span></p>",
-        "htmlEncoded": "<p> </p> \n<p><span>In kader van de verdere uitwerking van herstelgerichte zorg in ons ziekenhuis willen we een betaalde ervaringsdeskundige als ervaringswerker inzetten. </span></p> \n<p> </p> \n<p><span>Momenteel hebben we een opening op de afdeling Behandeleenheid 2 binnen de divisie Volwassenen. </span></p> \n<p> </p> \n<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p> </p> \n<p> </p> \n<ul type=\"disc\"> \n<li><span>Behandeleenheid 2 richt zich op een \n<strong>divers publiek</strong> dat behoefte heeft aan een opname met \n<strong>intensieve therapeutische ondersteuning</strong>, gericht op een onderliggende persoonlijkheidsproblematiek. </span></li> \n<li><span>Het gaat om mensen die zich kunnen handhaven binnen een open structuur waarin veel verantwoordelijkheid bij hen wordt gelegd. </span></li> \n<li><span>We werken \n<strong>ondersteunend en versterkend</strong> vanuit het model van \n<strong>dialectische gedragstherapie</strong>.</span></li> \n<li><span>Je bent lid van het \n<strong>multidisciplinaire team</strong>. </span></li> \n<li><span>Je ondersteunt het herstelgericht werken door het opnemen van mogelijks \n<strong>verschillende rollen</strong> als ervaringsdeskundige zoals bv. hoopverlener, krachtverlener, individuele of groepsondersteuner en ondersteuner van de teamwerking vanuit het perspectief van patiënt en naasten.</span></li> \n<li><span>De ondersteuning die door jou geboden wordt, is gebaseerd op \n<strong>hoop en empowerment</strong> met een warme, open en respectvolle professionele attitude. </span></li> \n<li><span>Je ondersteunt de herstelprocessen bij de patiënt en familie. </span></li> \n<li><span>Je werkt in overleg en met ondersteuning van het kernteam. </span></li> \n<li><span>Je komt regelmatig samen met andere ervaringsdeskundigen in OPZ en in het netwerk.</span></li> </ul> \n<p> </p> \n<p><span>Naast de specifieke eenheid waar je wordt toegewezen is het mogelijk dat voor bepaalde opdrachten je inzet gevraagd wordt binnen de divisie Volwassenen. \n<strong></strong></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -2177,41 +2247,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70262342",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70262342",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Business Analist 'Business en Architectuur (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Business Analist 'Business en Architectuur (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Ben jij klaar om impact te maken binnen een dynamische organisatie? Als Business Analist bij VDAB speel je een belangrijke rol in de succesvolle realisatie van uitdagende projecten. Je stelt mee analyses op, voert businesstesten uit, ondersteunt eindgebruikers en wordt business-applicatie-owner. Je ontwerpt gebruiksvriendelijke en efficiënte oplossingen die écht het verschil maken.</p> \n<p> </p> \n<p>In deze veelzijdige functie werk je nauw samen met verschillende afdelingen binnen VDAB. Je krijgt de unieke kans om vanuit de businesszijde actief bij te dragen aan de opzet, uitrol en vernieuwing van onze belangrijkste IT-systemen. Bovendien sta je klaar om analytische problemen op te lossen via de 2e-lijns helpdesk.</p> \n<p> </p> \n<p>Sluit je aan bij ons hechte team!</p> \n<p> </p> \n<p><strong>Jouw toekomstig team </strong></p> \n<p> </p> \n<p>Het team Business Analyse &amp; Architectuur bestaat uit een 25-tal collega's, wordt geleid door een manager en bevat drie sub-teams:</p> \n<p>- team business architectuur</p> \n<p>- team business analyse - loopbaanapplicaties</p> \n<p>- team business analyse - applicaties werkgever &amp; partner</p> \n<p><span>Waar ga je werken?</span></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</p>",
-        "htmlEncoded": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Ben jij klaar om impact te maken binnen een dynamische organisatie? Als Business Analist bij VDAB speel je een belangrijke rol in de succesvolle realisatie van uitdagende projecten. Je stelt mee analyses op, voert businesstesten uit, ondersteunt eindgebruikers en wordt business-applicatie-owner. Je ontwerpt gebruiksvriendelijke en efficiënte oplossingen die écht het verschil maken.</p> \n<p> </p> \n<p>In deze veelzijdige functie werk je nauw samen met verschillende afdelingen binnen VDAB. Je krijgt de unieke kans om vanuit de businesszijde actief bij te dragen aan de opzet, uitrol en vernieuwing van onze belangrijkste IT-systemen. Bovendien sta je klaar om analytische problemen op te lossen via de 2e-lijns helpdesk.</p> \n<p> </p> \n<p>Sluit je aan bij ons hechte team!</p> \n<p> </p> \n<p><strong>Jouw toekomstig team </strong></p> \n<p> </p> \n<p>Het team Business Analyse &amp; Architectuur bestaat uit een 25-tal collega's, wordt geleid door een manager en bevat drie sub-teams:</p> \n<p>- team business architectuur</p> \n<p>- team business analyse - loopbaanapplicaties</p> \n<p>- team business analyse - applicaties werkgever &amp; partner</p> \n<p><span>Waar ga je werken?</span></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70224037",
       "internal": false,
       "validThroughDate": "-1",
@@ -2517,41 +2552,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Aankoper expert om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Aankoper expert </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als Aankoper expert kom je terecht binnen de afdeling PMO &amp; Organisatie in het team aankoop. Je taken omvatten het volgende:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheer, opvolging en begeleiding van aankopen via raamcontracten en overheidsopdrachten, inclusief verschillende percelen zoals ICT-diensten, materiaal en resources en dit van aanvraag tot levering</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Adviseren en risico inschatting bij het uitvoeren van aankopen (incl. wervingen)</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Volledige administratieve verwerking en controle van aankopen, inclusief werkopdrachten, aanvragen, gunningsverslagen en IF-documentatie.</span></p> \n<p><span lang=\"EN-US\"><span>·\n<span> </span></span></span><span lang=\"EN-US\">Optimalisatie van het Managed Service Provider-platform (connecting expertise-public sourcing).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Leveranciersmanagement voor ICT-diensten en materiaal, resources en het Managed Service Provider-platform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Financieel beheer en opvolging van aankopen (ICT, resources, diensten, materieel).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Adviseren van de manager aankoop met betrekking tot de ontwikkeling en vormgeving van de centrale aankoopdienst. Mee ondersteunen in het ontwerpen, beheren en optimaliseren van aankoopprocessen en werkinstructies binnen de afdeling aankoop, inclusief adviserende HR-processen en werkinstructies.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Vormgeven en opvolgen van projecten binnen de afdeling aankoop, met adviserende rol bij HR/resource aankopen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Uitvoeren van strategische analyses van interne en externe aankopen en resources.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheer en optimalisatie van de profielen catalogus (zowel qua inhoud als prijs) voor externe medewerker</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Voeren van prijs onderhandelingen (individueel en strategisch).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Stakeholder management en in partnership de samenwerking met de leveranciers versterken.</span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span>Strategisch meedenken en uitwerken van nieuwe raamcontracten in functie van de noden van de organisatie.</span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Aankoper expert om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Aankoper expert </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als Aankoper expert kom je terecht binnen de afdeling PMO &amp; Organisatie in het team aankoop. Je taken omvatten het volgende:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheer, opvolging en begeleiding van aankopen via raamcontracten en overheidsopdrachten, inclusief verschillende percelen zoals ICT-diensten, materiaal en resources en dit van aanvraag tot levering</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Adviseren en risico inschatting bij het uitvoeren van aankopen (incl. wervingen)</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Volledige administratieve verwerking en controle van aankopen, inclusief werkopdrachten, aanvragen, gunningsverslagen en IF-documentatie.</span></p> \n<p><span lang=\"EN-US\"><span>·\n<span> </span></span></span><span lang=\"EN-US\">Optimalisatie van het Managed Service Provider-platform (connecting expertise-public sourcing).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Leveranciersmanagement voor ICT-diensten en materiaal, resources en het Managed Service Provider-platform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Financieel beheer en opvolging van aankopen (ICT, resources, diensten, materieel).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Adviseren van de manager aankoop met betrekking tot de ontwikkeling en vormgeving van de centrale aankoopdienst. Mee ondersteunen in het ontwerpen, beheren en optimaliseren van aankoopprocessen en werkinstructies binnen de afdeling aankoop, inclusief adviserende HR-processen en werkinstructies.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Vormgeven en opvolgen van projecten binnen de afdeling aankoop, met adviserende rol bij HR/resource aankopen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Uitvoeren van strategische analyses van interne en externe aankopen en resources.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheer en optimalisatie van de profielen catalogus (zowel qua inhoud als prijs) voor externe medewerker</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Voeren van prijs onderhandelingen (individueel en strategisch).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Stakeholder management en in partnership de samenwerking met de leveranciers versterken.</span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span>Strategisch meedenken en uitwerken van nieuwe raamcontracten in functie van de noden van de organisatie.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70069128",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70069128",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Medewerker gegevensbescherming (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Medewerker gegevensbescherming (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een \n<strong>Medewerker Gegevensbescherming </strong>ter versterking van de Partnerdienst Gegevensbescherming. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je deel uitmaakt van een echte gemeenschap van vakspecialisten en waarbij je bij verschillende organisaties tewerk kan worden gesteld? </span></p> \n<p><span>Heb jij interesse in gegevensbescherming en ben je op zoek naar een nieuwe uitdaging? \n<br> Dan ben jij misschien onze ideale kandidaat. </span></p> \n<p><strong><span> </span></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Als Medewerker Gegevensbescherming kom je terecht bij de Partnerdienst Gegevensbescherming die vanuit Digitaal Vlaanderen de Vlaamse Overheid een centraal expertisecentrum aanbiedt m.b.t. gegevensbescherming.\n<br> \n<br> In deze gemeenschap van experten staan klankbordsessies, opleidingen en kennisdeling centraal en kan je ook de expertise vinden die eigen is aan de Vlaamse Overheid.\n<br> \n<br> Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken. </span></span></p> \n<p><strong><span>Wat is jouw opdracht? </span></strong></p> \n<p><span>Als Medewerker Gegevensbescherming\n<strong> </strong>zal je worden ingezet ter ondersteuning van een meer ervaren collega, zoals de bevoegde Data Protection Officer (DPO) van de klant waarvoor je werkt. \n<br> In elk geval zal je toezien op de naleving van de Algemene Verordening Gegevensbescherming (AVG), zal je ondersteunen bij het adviseren en informeren over gegevensbescherming, en zal je, o.m. gegevensbeschermingseffectbeoordelingen, protocollen, verwerkersovereenkomsten of eventuele audits voorbereiden. Je zorgt ook voor praktische ondersteuning en sensibilisering op vlak van gegevensbescherming, je helpt vragen van betrokkenen te beantwoorden en je ondersteunt bij eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Daarnaast ben jij binnen de Partnerdienst Gegevensbescherming actief met onder andere bijdragen aan de kennisbibliotheek en aan de kennisdelingssessies. </span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een \n<strong>Medewerker Gegevensbescherming </strong>ter versterking van de Partnerdienst Gegevensbescherming. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je deel uitmaakt van een echte gemeenschap van vakspecialisten en waarbij je bij verschillende organisaties tewerk kan worden gesteld? </span></p> \n<p><span>Heb jij interesse in gegevensbescherming en ben je op zoek naar een nieuwe uitdaging? \n<br> Dan ben jij misschien onze ideale kandidaat. </span></p> \n<p><strong><span> </span></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Als Medewerker Gegevensbescherming kom je terecht bij de Partnerdienst Gegevensbescherming die vanuit Digitaal Vlaanderen de Vlaamse Overheid een centraal expertisecentrum aanbiedt m.b.t. gegevensbescherming.\n<br> \n<br> In deze gemeenschap van experten staan klankbordsessies, opleidingen en kennisdeling centraal en kan je ook de expertise vinden die eigen is aan de Vlaamse Overheid.\n<br> \n<br> Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken. </span></span></p> \n<p><strong><span>Wat is jouw opdracht? </span></strong></p> \n<p><span>Als Medewerker Gegevensbescherming\n<strong> </strong>zal je worden ingezet ter ondersteuning van een meer ervaren collega, zoals de bevoegde Data Protection Officer (DPO) van de klant waarvoor je werkt. \n<br> In elk geval zal je toezien op de naleving van de Algemene Verordening Gegevensbescherming (AVG), zal je ondersteunen bij het adviseren en informeren over gegevensbescherming, en zal je, o.m. gegevensbeschermingseffectbeoordelingen, protocollen, verwerkersovereenkomsten of eventuele audits voorbereiden. Je zorgt ook voor praktische ondersteuning en sensibilisering op vlak van gegevensbescherming, je helpt vragen van betrokkenen te beantwoorden en je ondersteunt bij eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Daarnaast ben jij binnen de Partnerdienst Gegevensbescherming actief met onder andere bijdragen aan de kennisbibliotheek en aan de kennisdelingssessies. </span></p>"
       },
       "locations": [
         {
@@ -4165,41 +4165,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17750",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17750",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Werfinspecteur"
-      },
-      "displayTitle": "Werfinspecteur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Je bent een bruggenbouwer. Letterlijk en figuurlijk. Als werfinspecteur bij De Vlaamse Waterweg sta je midden in de actie. Dag in, dag uit zorg jij dat de werken op schema blijven en dat de kwaliteit gegarandeerd is. Een job vol afwisseling en impact.<br></span><span><br>Je rol? Spil op de werf. Samen met de projectingenieur — je steun en toeverlaat — volg je alles op: van plannen tot bestekken. Je houdt alles scherp in de gaten en denkt mee over hoe het nóg beter kan. Elke dag vul je het werfdagboek in, en elke maand maak je een overzicht van de voortgang. Je bent overal bij. Werfvergaderingen? Check. Overleg over veiligheid? Check, want die voorschriften ken je vanbinnen en vanbuiten. Intern overleg of een gesprek met externe partners? Check. Jij zorgt voor duidelijke communicatie en heldere afspraken.<br></span><span><br>Wie ben jij? De persoon die plannen tot leven brengt. Met een scherp oog voor detail vertaal je complexe schema’s naar heldere inzichten. Ideeën zet je zonder moeite om in duidelijke schetsen, en je kennis van materialen en meetmethodes is simpelweg onmisbaar. Daarnaast ben je handig met de computer. MS Office gebruik je alsof het speciaal voor jou ontworpen is. En schrijven? Rapporten, e-mails en brieven zet je moeiteloos op het scherm.<br></span><span><br>Wat je echt bijzonder maakt, is je teamspirit. Je brengt mensen bij elkaar, ziet kansen waar anderen problemen zien en denkt altijd een stap vooruit. Samenwerken en oplossingen vinden, daar krijg jij energie van.<br></span><span><br>En wat krijg je daarvoor terug? Een job waarin geen dag dezelfde is. Jij combineert frisse lucht met volop beweging, want je werkt buiten. Dynamiek zit in alles wat je doet. Elk project biedt nieuwe uitdagingen en kansen om jezelf verder te ontwikkelen. Maar dat is nog niet alles. Met je werk bouw je letterlijk aan de toekomst van Vlaanderen. Jij zorgt ervoor dat onze waterwegen klaar zijn voor morgen.&nbsp;<br></span><span><br>Stel je kandidaat en bouw mee aan een betere infrastructuur.<br><br></span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><p><span>&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Je bent een bruggenbouwer. Letterlijk en figuurlijk. Als werfinspecteur bij De Vlaamse Waterweg sta je midden in de actie. Dag in, dag uit zorg jij dat de werken op schema blijven en dat de kwaliteit gegarandeerd is. Een job vol afwisseling en impact.<br></span><span><br>Je rol? Spil op de werf. Samen met de projectingenieur — je steun en toeverlaat — volg je alles op: van plannen tot bestekken. Je houdt alles scherp in de gaten en denkt mee over hoe het nóg beter kan. Elke dag vul je het werfdagboek in, en elke maand maak je een overzicht van de voortgang. Je bent overal bij. Werfvergaderingen? Check. Overleg over veiligheid? Check, want die voorschriften ken je vanbinnen en vanbuiten. Intern overleg of een gesprek met externe partners? Check. Jij zorgt voor duidelijke communicatie en heldere afspraken.<br></span><span><br>Wie ben jij? De persoon die plannen tot leven brengt. Met een scherp oog voor detail vertaal je complexe schema’s naar heldere inzichten. Ideeën zet je zonder moeite om in duidelijke schetsen, en je kennis van materialen en meetmethodes is simpelweg onmisbaar. Daarnaast ben je handig met de computer. MS Office gebruik je alsof het speciaal voor jou ontworpen is. En schrijven? Rapporten, e-mails en brieven zet je moeiteloos op het scherm.<br></span><span><br>Wat je echt bijzonder maakt, is je teamspirit. Je brengt mensen bij elkaar, ziet kansen waar anderen problemen zien en denkt altijd een stap vooruit. Samenwerken en oplossingen vinden, daar krijg jij energie van.<br></span><span><br>En wat krijg je daarvoor terug? Een job waarin geen dag dezelfde is. Jij combineert frisse lucht met volop beweging, want je werkt buiten. Dynamiek zit in alles wat je doet. Elk project biedt nieuwe uitdagingen en kansen om jezelf verder te ontwikkelen. Maar dat is nog niet alles. Met je werk bouw je letterlijk aan de toekomst van Vlaanderen. Jij zorgt ervoor dat onze waterwegen klaar zijn voor morgen.&nbsp;<br></span><span><br>Stel je kandidaat en bouw mee aan een betere infrastructuur.<br><br></span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><p><span>&nbsp;</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17748",
       "internal": false,
       "validThroughDate": "1744156800",
@@ -4941,41 +4906,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17640",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17640",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "administratief medewerker"
-      },
-      "displayTitle": "administratief medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Vind jij het net zo belangrijk dat bezoekers en\ncollega’s zich meteen welkom voelen bij een warm en professioneel onthaal? Ben\nje bovendien nauwkeurig en haal je voldoening uit administratieve taken? Dan is\ndit jouw kans om het gezicht van VDAB te worden op onze locatie in de\nKongostraat te Gent.</p><p>Met jouw glimlach en klantgerichte aanpak maak je\nelke dag het verschil. Als teamspeler zorg je samen met je collega’s voor een\nvlotte, vriendelijke service en ben je een onmisbare schakel in onze\norganisatie. Klantvriendelijkheid, professionaliteit en een\nopen houding zijn jouw visitekaartje.</p><p>Klaar om jouw\ntalent in te zetten aan ons onthaal? We kijken uit naar je sollicitatie!</p><p><strong>De focus in\ndeze functie ligt op de onthaaltaken, maar bijkomend zijn er ook\nadministratieve taken op te nemen. </strong>Tegelijk ben je ook back-up voor het\nonthaal op andere VDAB-locaties in de provincie.</p><p>Als administratief medewerker beschik je over een\nhands on mentaliteit en communicatieve vaardigheden. Je bent resultaatgericht\nen kan zelfstandig werken, maar je bent evengoed een teamplayer. Je zal\nterechtkomen in een hecht team waar ook ruimte is voor eigen initiatief en\ncreativiteit.</p><p>Jouw takenpakket ziet er als volgt uit:</p><ul><li>Fysiek onthaal van klanten met afspraken. Afhankelijk van de locatie gebeurt dit ofwel met behulp van een kiosk ofwel breng je de bemiddelaar via telefoon/mail/chat op de hoogte, dit na controle van het dossier in ‘Mijn VDAB’</li><li>Ontvangen van klanten met spontane vragen. Inschatten hoe je hen zelf verder kan helpen of hoe je hen kan doorverwijzen naar de aangewezen collega’s/partners</li><li>Werkzoekenden stimuleren om gebruik te maken van de digitale kanalen, de juiste profielen doorsturen naar de zelfinschrijvings-telefoons en de zelfinschrijvings-pc’s</li><li>Zelfinschrijvings-pc’s: toezicht houden, klanten ondersteunen, helpdesk contacteren bij technische defecten, enz</li><li>Verzending: de inkomende post verdelen en uitgaande post verwerken, statistieken bijhouden voor de dienst financiën, aangetekende brieven verwerken</li><li>Diverse administratieve registraties en/of aanpassingen in het dossier van de klant, bv. (her)inschrijving, wijziging contactgegevens, enz</li><li>Administratie van de medische onderzoeken in de provincie Oost-Vlaanderen</li><li>Afleveren van bepaalde attesten zoals inschrijvingsbewijs, treinticket werkzoekenden, bewijs stopzetting opleiding, enz</li><li>Andere diverse taken: beheer van de generieke onthaalmailbox, WIFI-codes aanmaken voor partners, werkgevers en intern VDAB personeel, bij ziekte van een bemiddelaar klanten afbellen of afspraak herboeken bij een collega, enz</li></ul><p>Wat wordt verwacht van jou als kandidaat?</p><ul><li>Je handelt in overeenstemming met de belangen, waarden en normen van de organisatie</li><li>Je kan op effectieve wijze doelen en prioriteiten bepalen en de nodige acties, tijd en middelen aangeven om deze op een efficiënte wijze te kunnen bereiken</li><li>Je handelt met aandacht voor kwaliteit en gericht op het voorkomen van fouten</li><li>Je bent in staat om snel nieuwe kennis te verwerken</li><li>Je bent iemand waarvoor samenwerken een evidentie is maar die ook goed zelfstandig kan werken</li><li>Je wil inzetten op de digitale geletterdheid van klanten en dit mee helpen versterken</li><li>Je beschikt over een positieve ingesteldheid en stelt je flexibel op, zowel op vlak van taken als locatie</li></ul><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'Meer informatie'. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Vind jij het net zo belangrijk dat bezoekers en\ncollega’s zich meteen welkom voelen bij een warm en professioneel onthaal? Ben\nje bovendien nauwkeurig en haal je voldoening uit administratieve taken? Dan is\ndit jouw kans om het gezicht van VDAB te worden op onze locatie in de\nKongostraat te Gent.</p><p>Met jouw glimlach en klantgerichte aanpak maak je\nelke dag het verschil. Als teamspeler zorg je samen met je collega’s voor een\nvlotte, vriendelijke service en ben je een onmisbare schakel in onze\norganisatie. Klantvriendelijkheid, professionaliteit en een\nopen houding zijn jouw visitekaartje.</p><p>Klaar om jouw\ntalent in te zetten aan ons onthaal? We kijken uit naar je sollicitatie!</p><p><strong>De focus in\ndeze functie ligt op de onthaaltaken, maar bijkomend zijn er ook\nadministratieve taken op te nemen. </strong>Tegelijk ben je ook back-up voor het\nonthaal op andere VDAB-locaties in de provincie.</p><p>Als administratief medewerker beschik je over een\nhands on mentaliteit en communicatieve vaardigheden. Je bent resultaatgericht\nen kan zelfstandig werken, maar je bent evengoed een teamplayer. Je zal\nterechtkomen in een hecht team waar ook ruimte is voor eigen initiatief en\ncreativiteit.</p><p>Jouw takenpakket ziet er als volgt uit:</p><ul><li>Fysiek onthaal van klanten met afspraken. Afhankelijk van de locatie gebeurt dit ofwel met behulp van een kiosk ofwel breng je de bemiddelaar via telefoon/mail/chat op de hoogte, dit na controle van het dossier in ‘Mijn VDAB’</li><li>Ontvangen van klanten met spontane vragen. Inschatten hoe je hen zelf verder kan helpen of hoe je hen kan doorverwijzen naar de aangewezen collega’s/partners</li><li>Werkzoekenden stimuleren om gebruik te maken van de digitale kanalen, de juiste profielen doorsturen naar de zelfinschrijvings-telefoons en de zelfinschrijvings-pc’s</li><li>Zelfinschrijvings-pc’s: toezicht houden, klanten ondersteunen, helpdesk contacteren bij technische defecten, enz</li><li>Verzending: de inkomende post verdelen en uitgaande post verwerken, statistieken bijhouden voor de dienst financiën, aangetekende brieven verwerken</li><li>Diverse administratieve registraties en/of aanpassingen in het dossier van de klant, bv. (her)inschrijving, wijziging contactgegevens, enz</li><li>Administratie van de medische onderzoeken in de provincie Oost-Vlaanderen</li><li>Afleveren van bepaalde attesten zoals inschrijvingsbewijs, treinticket werkzoekenden, bewijs stopzetting opleiding, enz</li><li>Andere diverse taken: beheer van de generieke onthaalmailbox, WIFI-codes aanmaken voor partners, werkgevers en intern VDAB personeel, bij ziekte van een bemiddelaar klanten afbellen of afspraak herboeken bij een collega, enz</li></ul><p>Wat wordt verwacht van jou als kandidaat?</p><ul><li>Je handelt in overeenstemming met de belangen, waarden en normen van de organisatie</li><li>Je kan op effectieve wijze doelen en prioriteiten bepalen en de nodige acties, tijd en middelen aangeven om deze op een efficiënte wijze te kunnen bereiken</li><li>Je handelt met aandacht voor kwaliteit en gericht op het voorkomen van fouten</li><li>Je bent in staat om snel nieuwe kennis te verwerken</li><li>Je bent iemand waarvoor samenwerken een evidentie is maar die ook goed zelfstandig kan werken</li><li>Je wil inzetten op de digitale geletterdheid van klanten en dit mee helpen versterken</li><li>Je beschikt over een positieve ingesteldheid en stelt je flexibel op, zowel op vlak van taken als locatie</li></ul><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'Meer informatie'. Download dit document en hou het bij.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17634",
       "internal": false,
       "validThroughDate": "1743379200",
@@ -5223,41 +5153,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17606",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17606",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Boekhouder"
-      },
-      "displayTitle": "Boekhouder",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Cijfers en structuur, daar draait het voor jou om. Concreter: met jouw oog voor structuur maak je de cijfers van de centrale diensten van het GO! behapbaar en bruikbaar. In deze job versterk je het team Financiën en Begroting bij de afdeling Organisatieondersteuning. Die afdeling maakt de werking van het hele gemeenschapsonderwijs in Vlaanderen mogelijk. Een hele uitdaging, ook op financieel gebied.</div><div>&nbsp;</div><div>De jobtitel zegt het al: natuurlijk hoort de boekhouding van de centrale diensten bij jouw takenpakket. Je werkt ook mee aan jaar- en meerjarenbegrotingen. Daarnaast is rapportage een belangrijk luik van je werk. Met grondige rapportage, waaronder de jaarrekening, bezorg je nuttige inzichten aan interne en externe klanten. Die zijn onmisbaar voor de gezonde werking van de centrale diensten van het GO! in de komende jaren.</div><div>Wil jij met je aanleg voor structuur en overzicht een bijdrage leveren aan het GO!? Dan is dit de job voor jou.&nbsp;</div><div></div><div>&nbsp;</div><div>Download het selectiereglement voor nog meer informatie en bewaar het voor de verdere procedure.</div>",
-        "htmlEncoded": "<div>Cijfers en structuur, daar draait het voor jou om. Concreter: met jouw oog voor structuur maak je de cijfers van de centrale diensten van het GO! behapbaar en bruikbaar. In deze job versterk je het team Financiën en Begroting bij de afdeling Organisatieondersteuning. Die afdeling maakt de werking van het hele gemeenschapsonderwijs in Vlaanderen mogelijk. Een hele uitdaging, ook op financieel gebied.</div><div>&nbsp;</div><div>De jobtitel zegt het al: natuurlijk hoort de boekhouding van de centrale diensten bij jouw takenpakket. Je werkt ook mee aan jaar- en meerjarenbegrotingen. Daarnaast is rapportage een belangrijk luik van je werk. Met grondige rapportage, waaronder de jaarrekening, bezorg je nuttige inzichten aan interne en externe klanten. Die zijn onmisbaar voor de gezonde werking van de centrale diensten van het GO! in de komende jaren.</div><div>Wil jij met je aanleg voor structuur en overzicht een bijdrage leveren aan het GO!? Dan is dit de job voor jou.&nbsp;</div><div></div><div>&nbsp;</div><div>Download het selectiereglement voor nog meer informatie en bewaar het voor de verdere procedure.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17605",
       "internal": false,
       "validThroughDate": "1743552000",
@@ -5457,41 +5352,6 @@
         {
           "address": {
             "city": "Leuven"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17584",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17584",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Werfinspecteur"
-      },
-      "displayTitle": "Werfinspecteur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Je bent een bruggenbouwer. Letterlijk en figuurlijk. Als werfinspecteur bij De Vlaamse Waterweg sta je midden in de actie. Dag in, dag uit zorg jij dat de werken op schema blijven en dat de kwaliteit gegarandeerd is. Een job vol afwisseling en impact.<br></span><span><br>Je rol? Spil op de werf. Samen met de projectingenieur — je steun en toeverlaat — volg je alles op: van plannen tot bestekken. Je houdt alles scherp in de gaten en denkt mee over hoe het nóg beter kan. Elke dag vul je het werfdagboek in, en elke maand maak je een overzicht van de voortgang. Je bent overal bij. Werfvergaderingen? Check. Overleg over veiligheid? Check, want die voorschriften ken je vanbinnen en vanbuiten. Intern overleg of een gesprek met externe partners? Check. Jij zorgt voor duidelijke communicatie en heldere afspraken.<br></span><span><br>Wie ben jij? De persoon die plannen tot leven brengt. Met een scherp oog voor detail vertaal je complexe schema’s naar heldere inzichten. Ideeën zet je zonder moeite om in duidelijke schetsen, en je kennis van materialen en meetmethodes is simpelweg onmisbaar. Daarnaast ben je handig met de computer. MS Office gebruik je alsof het speciaal voor jou ontworpen is. En schrijven? Rapporten, e-mails en brieven zet je moeiteloos op het scherm.<br></span><span><br>Wat je echt bijzonder maakt, is je teamspirit. Je brengt mensen bij elkaar, ziet kansen waar anderen problemen zien en denkt altijd een stap vooruit. Samenwerken en oplossingen vinden, daar krijg jij energie van.<br></span><span><br>En wat krijg je daarvoor terug? Een job waarin geen dag dezelfde is. Jij combineert frisse lucht met volop beweging, want je werkt buiten. Dynamiek zit in alles wat je doet. Elk project biedt nieuwe uitdagingen en kansen om jezelf verder te ontwikkelen. Maar dat is nog niet alles. Met je werk bouw je letterlijk aan de toekomst van Vlaanderen. Jij zorgt ervoor dat onze waterwegen klaar zijn voor morgen.&nbsp;<br></span><span><br>Stel je kandidaat en bouw mee aan een betere infrastructuur.<br><br></span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><div></div>",
-        "htmlEncoded": "<p><span>Je bent een bruggenbouwer. Letterlijk en figuurlijk. Als werfinspecteur bij De Vlaamse Waterweg sta je midden in de actie. Dag in, dag uit zorg jij dat de werken op schema blijven en dat de kwaliteit gegarandeerd is. Een job vol afwisseling en impact.<br></span><span><br>Je rol? Spil op de werf. Samen met de projectingenieur — je steun en toeverlaat — volg je alles op: van plannen tot bestekken. Je houdt alles scherp in de gaten en denkt mee over hoe het nóg beter kan. Elke dag vul je het werfdagboek in, en elke maand maak je een overzicht van de voortgang. Je bent overal bij. Werfvergaderingen? Check. Overleg over veiligheid? Check, want die voorschriften ken je vanbinnen en vanbuiten. Intern overleg of een gesprek met externe partners? Check. Jij zorgt voor duidelijke communicatie en heldere afspraken.<br></span><span><br>Wie ben jij? De persoon die plannen tot leven brengt. Met een scherp oog voor detail vertaal je complexe schema’s naar heldere inzichten. Ideeën zet je zonder moeite om in duidelijke schetsen, en je kennis van materialen en meetmethodes is simpelweg onmisbaar. Daarnaast ben je handig met de computer. MS Office gebruik je alsof het speciaal voor jou ontworpen is. En schrijven? Rapporten, e-mails en brieven zet je moeiteloos op het scherm.<br></span><span><br>Wat je echt bijzonder maakt, is je teamspirit. Je brengt mensen bij elkaar, ziet kansen waar anderen problemen zien en denkt altijd een stap vooruit. Samenwerken en oplossingen vinden, daar krijg jij energie van.<br></span><span><br>En wat krijg je daarvoor terug? Een job waarin geen dag dezelfde is. Jij combineert frisse lucht met volop beweging, want je werkt buiten. Dynamiek zit in alles wat je doet. Elk project biedt nieuwe uitdagingen en kansen om jezelf verder te ontwikkelen. Maar dat is nog niet alles. Met je werk bouw je letterlijk aan de toekomst van Vlaanderen. Jij zorgt ervoor dat onze waterwegen klaar zijn voor morgen.&nbsp;<br></span><span><br>Stel je kandidaat en bouw mee aan een betere infrastructuur.<br><br></span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><div></div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
@@ -5847,41 +5707,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17524",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Wonen in Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17524",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Ondersteuner logistiek en personeel"
-      },
-      "displayTitle": "Ondersteuner logistiek en personeel",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…<br><br></li></ul><p><span>Spreekt bovenstaand takenpakket jou aan?&nbsp;</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p><span>&nbsp;</span><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
-        "htmlEncoded": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als ondersteuner logistiek en personeel kom je terecht in de <b>afdeling Organisatieondersteuning voor de dienst communicatie, logistiek en personeel</b>. De afdeling bundelt alle ondersteunende processen en ontzorgt de organisatie en haar medewerkers maximaal. Jouw dienst bundelt drie organisatieondersteunende thema’s: de interne en externe communicatie, de facilitaire ondersteuning en personeelszaken en – beleid. Jouw functie situeert zich in het <b>Team logistiek en personeel</b> waar jij mee je schouders zet onder de dagelijkse werking.</p> <p>Je bent een heuse <b>steunpilaar voor je collega’s op gebied van personeelsadministratie en logistieke ondersteuning</b>. Je kan zelfstandig je verantwoordelijkheid nemen en durft ook initiatief nemen als het over jouw vakgebied gaat. Je kan vlot overweg met Office-tools en je weet je digitale skills goed te gebruiken in digitale toepassingen. Je helpt collega’s op een klantvriendelijke manier en je bent flexibel om je naar Brussel te begeven wanneer je taken dit vragen. Heb je ervaring in personeelsadministratie? Da’s mooi meegenomen!</p> <p>Kortom, de collega’s van het team logistiek en personeel kunnen op jou bouwen!</p> <p><b>Dit zijn voorbeelden van mogelijke taken:</b></p> <ul><li>Je behandelt en verwijst allerlei vragen van collega’s met betrekking tot afwezigheden, werkkledij, onkostenvergoedingen, enz., en van telefonische oproepen van burgers door;</li><li>Je volgt personeelsadministratie en registratie op in onze online tool Vlimpers: zwangerschap, verschillende soorten verlofaanvragen, …;</li><li>Je zorgt voor administratieve en logistieke ondersteuning bij in- en uitdiensttreding van collega’s, waaronder het onthalen van nieuwe collega’s tijdens hun eerste werkdag;</li><li>Je zorgt voor de postverdeling en verstuurt uitgaande poststukken;</li><li>Je volgt de telefonische abonnementen op;</li><li>Je staat in voor het werkmateriaal voor de personeelsleden. Werkmateriaal kan zijn: beheren van telefonieabonnementen, werkkledij, voorraadbeheer, enz.</li><li>Je staat in voor wagenparkbeheer: opvolgen keuringen, overtredingen en ongevallen;</li><li>…<br><br></li></ul><p><span>Spreekt bovenstaand takenpakket jou aan?&nbsp;</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p><span>&nbsp;</span><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE.\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17523",
       "internal": false,
       "validThroughDate": "1745193600",
@@ -6094,41 +5919,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17497",
-      "internal": false,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17497",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "administratief medewerker"
-      },
-      "displayTitle": "administratief medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Spreekt een job met <strong>uiteenlopende\nadministratieve taken</strong> en <strong>veel klantencontacten</strong> jou aan? Haal jij\nvoldoening uit administratief nauwkeurig werken? Dan is deze vacature beslist\niets voor jou!</p><p>Het administratief team van de provincie\nOost-Vlaanderen is op zoek naar <strong>een administratief medewerker </strong>met als <strong>hoofdtaak cursistenadministratie</strong>. Je ondersteunt in de administratie van de\nopleidingen in <strong>VDAB Wondelgem</strong>, één van de grootste opleidingscentra van VDAB. Tegelijk\nben je ook back-up voor andere VDAB-locaties in de provincie. Deze hoofdtaak\ncombineer je met <strong>een back-up rol van medewerker onthaal</strong> in VDAB\nWondelgem (vermoedelijk één dag per week).</p><p>Als administratief medewerker beschik je over een\nhands on mentaliteit en communicatieve vaardigheden. Je bent resultaatgericht\nen kan zelfstandig werken, maar je bent evengoed een teamplayer. Je zal\nterechtkomen in een hecht team waar ook ruimte is voor eigen initiatief en\ncreativiteit.</p><p>Takenpakket cursistenadministratie (hoofdtaak):</p><ul><li>Opstartmomenten geven met betrekking tot de opleiding (info geven aan de cursisten rond het administratief luik bij de opstart van de opleiding)</li><li>Algemeen onthaal van de cursist: cursist informeren inzake vergoedingen, betalingscyclus, afwezigheden,…. conform de richtlijnen</li><li>Bij vragen (zowel telefonisch, per mail, als persoonlijk) de cursist, de instructeurs en de bemiddelaars de correcte informatie geven</li><li>Correcte registraties inzake contracten, prestaties, vergoedingen</li><li>Tijdig afleveren van de nodige attesten aan de cursist</li><li>Correcte archivering van de documenten volgens de onderrichtingen</li><li>Op de hoogte blijven inzake onderrichtingen cursistenadministratie en deze correct toepassen</li><li>Agendabeheer</li></ul><p>Bijkomende taken back- up rol onthaal: </p><ul><li>Onthaal van bezoekers en postbehandeling wanneer ingepland</li><li>Defecten met betrekking tot de onthaal- en gemeenschappelijke ruimtes melden via een digitaal platform</li><li>Leveringen in ontvangst nemen en de betrokken medewerker verwittigen</li><li>Vervangen van toners van de kopieerapparaten en printers, en papiervoorraad aanvullen</li><li>Indien van toepassing beheer van badges voor bezoekers en toezicht houden op het gebruik van de parking</li></ul><p>Wat wordt verwacht van jou als kandidaat?</p><ul><li>Je handelt in overeenstemming met de belangen, waarden en normen van de organisatie</li><li>Je kan op effectieve wijze doelen en prioriteiten bepalen en de nodige acties, tijd en middelen aangeven om deze op een efficiënte wijze te kunnen bereiken</li><li>Je handelt met aandacht voor kwaliteit en gericht op het voorkomen van fouten</li><li>Je bent in staat om snel nieuwe kennis te verwerken</li><li>Je bent iemand waarvoor samenwerken een evidentie is maar die ook goed zelfstandig kan werken</li><li>Je wil inzetten op de digitale geletterdheid van klanten en dit mee helpen versterken</li><li>Je beschikt over een positieve ingesteldheid en stelt je flexibel op, zowel op vlak van taken als locatie</li></ul><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'Meer informatie'. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Spreekt een job met <strong>uiteenlopende\nadministratieve taken</strong> en <strong>veel klantencontacten</strong> jou aan? Haal jij\nvoldoening uit administratief nauwkeurig werken? Dan is deze vacature beslist\niets voor jou!</p><p>Het administratief team van de provincie\nOost-Vlaanderen is op zoek naar <strong>een administratief medewerker </strong>met als <strong>hoofdtaak cursistenadministratie</strong>. Je ondersteunt in de administratie van de\nopleidingen in <strong>VDAB Wondelgem</strong>, één van de grootste opleidingscentra van VDAB. Tegelijk\nben je ook back-up voor andere VDAB-locaties in de provincie. Deze hoofdtaak\ncombineer je met <strong>een back-up rol van medewerker onthaal</strong> in VDAB\nWondelgem (vermoedelijk één dag per week).</p><p>Als administratief medewerker beschik je over een\nhands on mentaliteit en communicatieve vaardigheden. Je bent resultaatgericht\nen kan zelfstandig werken, maar je bent evengoed een teamplayer. Je zal\nterechtkomen in een hecht team waar ook ruimte is voor eigen initiatief en\ncreativiteit.</p><p>Takenpakket cursistenadministratie (hoofdtaak):</p><ul><li>Opstartmomenten geven met betrekking tot de opleiding (info geven aan de cursisten rond het administratief luik bij de opstart van de opleiding)</li><li>Algemeen onthaal van de cursist: cursist informeren inzake vergoedingen, betalingscyclus, afwezigheden,…. conform de richtlijnen</li><li>Bij vragen (zowel telefonisch, per mail, als persoonlijk) de cursist, de instructeurs en de bemiddelaars de correcte informatie geven</li><li>Correcte registraties inzake contracten, prestaties, vergoedingen</li><li>Tijdig afleveren van de nodige attesten aan de cursist</li><li>Correcte archivering van de documenten volgens de onderrichtingen</li><li>Op de hoogte blijven inzake onderrichtingen cursistenadministratie en deze correct toepassen</li><li>Agendabeheer</li></ul><p>Bijkomende taken back- up rol onthaal: </p><ul><li>Onthaal van bezoekers en postbehandeling wanneer ingepland</li><li>Defecten met betrekking tot de onthaal- en gemeenschappelijke ruimtes melden via een digitaal platform</li><li>Leveringen in ontvangst nemen en de betrokken medewerker verwittigen</li><li>Vervangen van toners van de kopieerapparaten en printers, en papiervoorraad aanvullen</li><li>Indien van toepassing beheer van badges voor bezoekers en toezicht houden op het gebruik van de parking</li></ul><p>Wat wordt verwacht van jou als kandidaat?</p><ul><li>Je handelt in overeenstemming met de belangen, waarden en normen van de organisatie</li><li>Je kan op effectieve wijze doelen en prioriteiten bepalen en de nodige acties, tijd en middelen aangeven om deze op een efficiënte wijze te kunnen bereiken</li><li>Je handelt met aandacht voor kwaliteit en gericht op het voorkomen van fouten</li><li>Je bent in staat om snel nieuwe kennis te verwerken</li><li>Je bent iemand waarvoor samenwerken een evidentie is maar die ook goed zelfstandig kan werken</li><li>Je wil inzetten op de digitale geletterdheid van klanten en dit mee helpen versterken</li><li>Je beschikt over een positieve ingesteldheid en stelt je flexibel op, zowel op vlak van taken als locatie</li></ul><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'Meer informatie'. Download dit document en hou het bij.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Wondelgem"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17494",
       "internal": true,
       "validThroughDate": "1743638400",
@@ -6293,41 +6083,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17464",
-      "internal": true,
-      "validThroughDate": "1742342400",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17464",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Medewerker facility"
-      },
-      "displayTitle": "Medewerker facility",
-      "isProtected": false,
-      "description": {
-        "raw": "<div></div><div>Ben jij een communicatieve duizendpoot met technische ervaring of een sterke interesse in technische installaties? Wil je bijdragen aan een aangename werkomgeving in onze VDAB-gebouwen? Dan is deze job iets voor jou!</div><div></div><div>Als medewerker Facility&nbsp; zorg je voor het onderhoud, de keuringen en herstellingen van technische installaties (HVAC, brand- en inbraakbeveiliging, liften, elektrische installaties, enz.). Je plant en coördineert onderhoudswerkzaamheden en schakelt externe firma’s en interne onderhoudsmedewerkers in waar nodig. <strong>De focus ligt op planning, administratieve verwerking en opvolging van acties</strong>, waarbij een klantvriendelijke, duidelijke en professionele communicatie cruciaal is. Daarnaast ben jij het <strong>eerste aanspreekpunt</strong> voor facilitaire vragen en alarmsituaties. Bij afwezigheid van de teamleider neem je zijn taken over.</div><div></div><div>Flexibiliteit is een must: je bent telefonisch bereikbaar bij alarmmeldingen, ook buiten de kantooruren. Je standplaats is Wondelgem (Gent), maar je verplaatst je regelmatig naar andere VDAB-locaties in Oost-Vlaanderen.</div><div></div><div>Je werkt in een team met acht onderhoudsarbeiders, een administratief medewerker en een teamleider Facility.</div>",
-        "htmlEncoded": "<div></div><div>Ben jij een communicatieve duizendpoot met technische ervaring of een sterke interesse in technische installaties? Wil je bijdragen aan een aangename werkomgeving in onze VDAB-gebouwen? Dan is deze job iets voor jou!</div><div></div><div>Als medewerker Facility&nbsp; zorg je voor het onderhoud, de keuringen en herstellingen van technische installaties (HVAC, brand- en inbraakbeveiliging, liften, elektrische installaties, enz.). Je plant en coördineert onderhoudswerkzaamheden en schakelt externe firma’s en interne onderhoudsmedewerkers in waar nodig. <strong>De focus ligt op planning, administratieve verwerking en opvolging van acties</strong>, waarbij een klantvriendelijke, duidelijke en professionele communicatie cruciaal is. Daarnaast ben jij het <strong>eerste aanspreekpunt</strong> voor facilitaire vragen en alarmsituaties. Bij afwezigheid van de teamleider neem je zijn taken over.</div><div></div><div>Flexibiliteit is een must: je bent telefonisch bereikbaar bij alarmmeldingen, ook buiten de kantooruren. Je standplaats is Wondelgem (Gent), maar je verplaatst je regelmatig naar andere VDAB-locaties in Oost-Vlaanderen.</div><div></div><div>Je werkt in een team met acht onderhoudsarbeiders, een administratief medewerker en een teamleider Facility.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Wondelgem"
           }
         }
       ]
@@ -6790,41 +6545,6 @@
       "description": {
         "raw": "<p>Als coördinerend dossierbehandelaar zorg je voor structuur in je eigen werk en dat van anderen. Je bent, onder de leiding van de teamleider aan wie je rapporteert, verantwoordelijk voor de processen van het team en operationele business projecten. Je organiseert de dagdagelijkse werking in je team en treedt op als coach van de dossierbehandelaars uit je team. Je bent als coördinerend dossierbehandelaar geen “leidinggevende”, maar straalt wel leiderschap uit door voor een goede planning en organisatie van het werk van het team te zorgen alsook door de dossierbehandelaars van het team vakinhoudelijk te ondersteunen en te ontwikkelen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
         "htmlEncoded": "<p>Als coördinerend dossierbehandelaar zorg je voor structuur in je eigen werk en dat van anderen. Je bent, onder de leiding van de teamleider aan wie je rapporteert, verantwoordelijk voor de processen van het team en operationele business projecten. Je organiseert de dagdagelijkse werking in je team en treedt op als coach van de dossierbehandelaars uit je team. Je bent als coördinerend dossierbehandelaar geen “leidinggevende”, maar straalt wel leiderschap uit door voor een goede planning en organisatie van het werk van het team te zorgen alsook door de dossierbehandelaars van het team vakinhoudelijk te ondersteunen en te ontwikkelen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17118",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17118",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Projectleider/expert wegmarkeringen en verkeerssignalisatie"
-      },
-      "displayTitle": "Projectleider/expert wegmarkeringen en verkeerssignalisatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Deze vacature past bij jou als je 3 keer knikt en glimlacht terwijl je\nverder leest:</p><ol><li>Je\n     wilt werken aan een betere verkeersveiligheid voor iedereen.</li><li>Je\n     hebt een scherp oog voor detail en wil dit inzetten om een wegontwerp te\n     perfectioneren.</li><li>Je\n     bent geboeid door weguitrusting. Denk aan alles wat te maken heeft met\n     wegmarkeringen en verkeerssignalisatie.</li></ol><p>Interesse? Solliciteer dan zeker, want in je rol als projectleider/expert\nwegmarkeringen en verkeerssignalisatie bij het Agentschap Wegen en Verkeer\n(AWV) word je dé specialist in je vakgebied.</p><p>Je komt\nterecht in een team van experten (elektrische) weguitrusting. Het team staat in\nvoor het opbouwen, ontwikkelen en verspreiden van kennis binnen het agentschap.\nAnderzijds bouwt het de overkoepelende visie uit en neemt het een coördinerende\nrol op met betrekking tot diverse elektromechanische installaties en weguitrusting langs onze wegen. Denk\nhierbij aan handhavingssystemen (bijvoorbeeld roodlicht- en snelheidscamera’s,\ntrajectcontroles), verlichtingsinstallaties, verkeerslichtengeregelde\nkruispunten, markeringen, verkeersborden, afschermende constructies, … Als\nprojectleider/expert wegmarkeringen en verkeerssignalisatie ben jij specialist\nop vlak van wegmarkeringen en verkeerssignalisatie.</p><p>Als\nexpert in je vakgebied volg je de technische evoluties op en adviseer je\ncollega’s uit het hele agentschap met jouw expertise. Op die manier verhoog je\nde verkeersveiligheid op de Vlaamse wegen. Je bepaalt mee het toekomstbeeld\nvoor jouw vakgebied en vertaalt dit o.a. naar richtlijnen, kaders,\nbestekteksten, nieuwe methodes en projectplannen.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Deze vacature past bij jou als je 3 keer knikt en glimlacht terwijl je\nverder leest:</p><ol><li>Je\n     wilt werken aan een betere verkeersveiligheid voor iedereen.</li><li>Je\n     hebt een scherp oog voor detail en wil dit inzetten om een wegontwerp te\n     perfectioneren.</li><li>Je\n     bent geboeid door weguitrusting. Denk aan alles wat te maken heeft met\n     wegmarkeringen en verkeerssignalisatie.</li></ol><p>Interesse? Solliciteer dan zeker, want in je rol als projectleider/expert\nwegmarkeringen en verkeerssignalisatie bij het Agentschap Wegen en Verkeer\n(AWV) word je dé specialist in je vakgebied.</p><p>Je komt\nterecht in een team van experten (elektrische) weguitrusting. Het team staat in\nvoor het opbouwen, ontwikkelen en verspreiden van kennis binnen het agentschap.\nAnderzijds bouwt het de overkoepelende visie uit en neemt het een coördinerende\nrol op met betrekking tot diverse elektromechanische installaties en weguitrusting langs onze wegen. Denk\nhierbij aan handhavingssystemen (bijvoorbeeld roodlicht- en snelheidscamera’s,\ntrajectcontroles), verlichtingsinstallaties, verkeerslichtengeregelde\nkruispunten, markeringen, verkeersborden, afschermende constructies, … Als\nprojectleider/expert wegmarkeringen en verkeerssignalisatie ben jij specialist\nop vlak van wegmarkeringen en verkeerssignalisatie.</p><p>Als\nexpert in je vakgebied volg je de technische evoluties op en adviseer je\ncollega’s uit het hele agentschap met jouw expertise. Op die manier verhoog je\nde verkeersveiligheid op de Vlaamse wegen. Je bepaalt mee het toekomstbeeld\nvoor jouw vakgebied en vertaalt dit o.a. naar richtlijnen, kaders,\nbestekteksten, nieuwe methodes en projectplannen.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
       },
       "locations": [
         {
