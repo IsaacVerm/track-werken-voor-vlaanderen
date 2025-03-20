@@ -1,10 +1,10 @@
 {
-  "totalItems": 205,
+  "totalItems": 206,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 204,
+  "lastItemOfPage": 205,
   "items": [
     {
       "link": "/Job/vdab-70682571",
@@ -3437,6 +3437,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17993",
+      "internal": false,
+      "validThroughDate": "1744156800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17993",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder Financieel Management"
+      },
+      "displayTitle": "Dossierbeheerder Financieel Management",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als\nDossierbeheerder maak je deel uit van ons enthousiaste team\nleveranciersboekhouding, bestaande uit 5 medewerkers. Jij speelt een sleutelrol\nin het dagelijkse proces van het inboeken van aankoopfacturen en zorgt ervoor\ndat alles in lijn is met de juiste procedures en richtlijnen.<br><br><strong>Jouw\ntaken en verantwoordelijkheden:</strong> <br><br>-<span>\t</span>Inboeken van aankoopfacturen: Zorgdragen voor de juiste verwerking van facturen, inclusief het linken aan de juiste P.O.&nbsp; <span>\t</span>nummers en werkorders. <br>-<span>\t</span>Beantwoorden van e-mails: Je beantwoordt vragen van leveranciers en andere stakeholders op een vlotte en professionele <span>\t</span>manier. <br>-<span>\t</span>Werken binnen een duidelijk kader: Je werkt binnen goed gedefinieerde processen en zorgt ervoor dat alle administratieve <span>\t</span>taken correct worden uitgevoerd. <br>-<span>\t</span>Facturen verwerken: Samen met het team verwerk je zo’n 55.000 facturen per jaar, wat betekent dat je dagelijks een <span>\t</span>belangrijke bijdrage levert aan het financieel beheer van de organisatie.</p><p><strong>Even\nvoorstellen:</strong></p><p><strong>&nbsp;</strong><br>De Vlaamse Waterweg\nnv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt\naan de economie, de welvaart en de leefbaarheid van Vlaanderen. We zetten volop\nin op binnenvaart, waterbeheersing en maken onze waterwegen aantrekkelijk voor\nrecreatie, toerisme en natuur. Met zo’n 1.350 collega’s, verspreid over\nHasselt, Willebroek, Brussel, Antwerpen, Merelbeke en Mol, bouwen we elke dag\naan een slim, veelzijdig en duurzaam waterwegennet.&nbsp;</p>",
+        "htmlEncoded": "<p>Als\nDossierbeheerder maak je deel uit van ons enthousiaste team\nleveranciersboekhouding, bestaande uit 5 medewerkers. Jij speelt een sleutelrol\nin het dagelijkse proces van het inboeken van aankoopfacturen en zorgt ervoor\ndat alles in lijn is met de juiste procedures en richtlijnen.<br><br><strong>Jouw\ntaken en verantwoordelijkheden:</strong> <br><br>-<span>\t</span>Inboeken van aankoopfacturen: Zorgdragen voor de juiste verwerking van facturen, inclusief het linken aan de juiste P.O.&nbsp; <span>\t</span>nummers en werkorders. <br>-<span>\t</span>Beantwoorden van e-mails: Je beantwoordt vragen van leveranciers en andere stakeholders op een vlotte en professionele <span>\t</span>manier. <br>-<span>\t</span>Werken binnen een duidelijk kader: Je werkt binnen goed gedefinieerde processen en zorgt ervoor dat alle administratieve <span>\t</span>taken correct worden uitgevoerd. <br>-<span>\t</span>Facturen verwerken: Samen met het team verwerk je zo’n 55.000 facturen per jaar, wat betekent dat je dagelijks een <span>\t</span>belangrijke bijdrage levert aan het financieel beheer van de organisatie.</p><p><strong>Even\nvoorstellen:</strong></p><p><strong>&nbsp;</strong><br>De Vlaamse Waterweg\nnv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt\naan de economie, de welvaart en de leefbaarheid van Vlaanderen. We zetten volop\nin op binnenvaart, waterbeheersing en maken onze waterwegen aantrekkelijk voor\nrecreatie, toerisme en natuur. Met zo’n 1.350 collega’s, verspreid over\nHasselt, Willebroek, Brussel, Antwerpen, Merelbeke en Mol, bouwen we elke dag\naan een slim, veelzijdig en duurzaam waterwegennet.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17944",
       "internal": false,
       "validThroughDate": "1744156800",
@@ -6160,12 +6195,15 @@
     {
       "link": "/Job/cornerstone-17491",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1744329600",
       "hiringOrganization": "Agentschap Overheidspersoneel",
       "reservedForDisability": false,
       "openPositions": 2,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
       "identifier": "cornerstone-17491",
       "contentType": "Job",
       "collectionType": null,
