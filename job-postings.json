@@ -1,11 +1,151 @@
 {
-  "totalItems": 198,
+  "totalItems": 204,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 197,
+  "lastItemOfPage": 203,
   "items": [
+    {
+      "link": "/Job/vdab-70691811",
+      "internal": false,
+      "validThroughDate": "1748736000",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70691811",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundige"
+      },
+      "displayTitle": "Verpleegkundige",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span lang=\"NL\">Ben jij een gedreven verpleegkundige met een hart voor de zorg en een passie voor het welzijn van onze zorgvragers? Wil je werken in een dynamisch psychiatrisch zorgcentrum? Dan zoeken wij jou! </span></p> \n<p>OPZC Rekem is een innovatief zorgcentrum dat gespecialiseerde geestelijke gezondheidszorg biedt binnen drie clusters: forensische zorg, het psychiatrisch verzorgingstehuis en het ziekenhuiscluster. Wij streven naar toegankelijke en kwalitatieve zorg, met respect en betrokkenheid voor onze zorgvragers, bewoners, hun omgeving en onze medewerkers.</p> \n<p><strong><span lang=\"NL\">Functiebeschrijving</span></strong></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je biedt elke zorgvrager persoonsgerichte en warme zorg, afgestemd op hun behoeften en de \n<br> behandelfilosofie van de zorgeenheid.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt aandacht voor het totaalbeeld van de zorgvrager</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jouw toegewezen zorgvragers op.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je neemt actief deel aan overlegvergaderingen</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je staat in voor de dagelijkse begeleiding van de zorgeenheid, dit in overleg met je collega’s.</span></p> \n<p><span><span>· </span></span><span>Je werkt in een interdisciplinair team.</span></p> \n<p> </p>",
+        "htmlEncoded": "<p><span lang=\"NL\">Ben jij een gedreven verpleegkundige met een hart voor de zorg en een passie voor het welzijn van onze zorgvragers? Wil je werken in een dynamisch psychiatrisch zorgcentrum? Dan zoeken wij jou! </span></p> \n<p>OPZC Rekem is een innovatief zorgcentrum dat gespecialiseerde geestelijke gezondheidszorg biedt binnen drie clusters: forensische zorg, het psychiatrisch verzorgingstehuis en het ziekenhuiscluster. Wij streven naar toegankelijke en kwalitatieve zorg, met respect en betrokkenheid voor onze zorgvragers, bewoners, hun omgeving en onze medewerkers.</p> \n<p><strong><span lang=\"NL\">Functiebeschrijving</span></strong></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je biedt elke zorgvrager persoonsgerichte en warme zorg, afgestemd op hun behoeften en de \n<br> behandelfilosofie van de zorgeenheid.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt aandacht voor het totaalbeeld van de zorgvrager</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jouw toegewezen zorgvragers op.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je neemt actief deel aan overlegvergaderingen</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je staat in voor de dagelijkse begeleiding van de zorgeenheid, dit in overleg met je collega’s.</span></p> \n<p><span><span>· </span></span><span>Je werkt in een interdisciplinair team.</span></p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70691370",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70691370",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Lead Ontwikkelaar (VLAIO) via Vlaanderen Connect"
+      },
+      "displayTitle": "Lead Ontwikkelaar (VLAIO) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>VLAIO </span></strong><span><strong><span lang=\"NL\">is</span></strong></span><span><strong><span lang=\"NL\"> hét aanspreekpunt van de Vlaamse overheid voor alle ondernemers in Vlaanderen. We zetten sterk in op data en digitalisering, bijvoorbeeld via het e-loket voor ondernemers en verschillende andere digitale applicaties (dossierbehandeling, CRM, , VLAIO-app,…). We zoeken voor het Competentiecentrum Applicaties een lead ontwikkelaar die zal focussen op interne kennisborging om </span></strong></span><strong><span>de continuïteit en de kwaliteit van het ontwikkelproces te garanderen</span></strong><span><strong><span lang=\"NL\">. Je werkt hiervoor samen met externe ontwikkelaars en met architecten, projectleiders, product owners en analisten van VLAIO. Heb je ambitie als lead ontwikkelaar in een dynamische organisatie? </span></strong></span><strong><span>Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</span></strong></p> \n<p><span><strong><span>Job-inhoud</span></strong></span></p> \n<p><span>Als lead ontwikkelaar speel je een trekkersrol bij de ontwikkeling van digitale applicaties. De functie is een combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie. Je hebt een directe impact op de richting en de kwaliteit van het eindproduct. Je werkt in een team </span><span><span lang=\"NL\">met architecten, projectleiders, product owners, analisten en externe ontwikkelaars. </span></span></p> \n<p><span>Jouw belangrijkste verantwoordelijkheden:</span></p> \n<ul> \n<li><span>Je zet ontwikkelomgevingen voor digitale applicaties op en beheert ze. Je zorgt voor de uitrol van nieuwe versies.</span></li> \n<li><span>Bij grotere ontwikkelingen doe je een kwaliteitscontrole (review) van de ontwikkelde code.</span></li> \n<li><span>Bij vragen of problemen bij een applicatie duik je zelf in de code en breng je indien nodig zelf kleinere aanpassingen aan.</span></li> \n<li><span>Je zorgt dat de applicaties en de code gedocumenteerd worden. Je staat daarbij ook in voor het beheer van technische documenten.</span></li> \n<li><span>Je draagt samen met de ICT-architecten van VLAIO bij aan keuzes voor de applicatie architectuur.</span></li> \n<li><span>Je bent de sleutelfiguur in de samenwerking met teams van externe ontwikkelaars: je zorgt voor een goede samenwerking en kennisborging en waakt over de kwaliteit. Je coacht en begeleidt ontwikkelaars en stimuleert hen om mee te denken en de beste oplossingen te vinden.. </span></li> \n<li><span>Je hebt de capaciteiten en flexibiliteit om je in te werken in verschillende ontwikkelomgevingen in gebruik bij VLAIO (.Net, Power Platform, Dynamics, Azure, Python, Drupal).</span></li> \n<li><span>Je bouwt je netwerk binnen en buiten VLAIO (verder) uit en volgt evoluties rond digitalisering op. Je neemt een ambassadeursrol op vlak van digitalisering in de organisatie op.</span></li> </ul> \n<p><span><strong><span>Waar kom je terecht?</span></strong></span></p> \n<p><span><span>Als lead ontwikkelaar opereer je samen met een 55-tal enthousiaste collega’s vanuit de afdeling \n<strong>Data &amp; Interne Innovatie</strong>. In deze afdeling zorgen we o.a. voor een betrouwbare digitale werkomgeving voor de medewerkers van VLAIO (digitale werkplek, informatiebeheer, CRM, dossierbehandeling </span></span><span><span>,…</span></span><span><span>). We bouwen en beheren het dataplatform en data-toepassingen als basis voor de </span></span><span><span>data gedreven</span></span><span><span> werking van het agentschap. Verder leveren we de digitale ondersteuning voor nieuwe diensten, subsidies of nieuwe processen van VLAIO met maximale inzet op het gebruik van data. Tot slot vormen we de drijvende kracht achter het innoverend vermogen van alle VLAIO-medewerkers.</span></span></p>",
+        "htmlEncoded": "<p><strong><span>VLAIO </span></strong><span><strong><span lang=\"NL\">is</span></strong></span><span><strong><span lang=\"NL\"> hét aanspreekpunt van de Vlaamse overheid voor alle ondernemers in Vlaanderen. We zetten sterk in op data en digitalisering, bijvoorbeeld via het e-loket voor ondernemers en verschillende andere digitale applicaties (dossierbehandeling, CRM, , VLAIO-app,…). We zoeken voor het Competentiecentrum Applicaties een lead ontwikkelaar die zal focussen op interne kennisborging om </span></strong></span><strong><span>de continuïteit en de kwaliteit van het ontwikkelproces te garanderen</span></strong><span><strong><span lang=\"NL\">. Je werkt hiervoor samen met externe ontwikkelaars en met architecten, projectleiders, product owners en analisten van VLAIO. Heb je ambitie als lead ontwikkelaar in een dynamische organisatie? </span></strong></span><strong><span>Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</span></strong></p> \n<p><span><strong><span>Job-inhoud</span></strong></span></p> \n<p><span>Als lead ontwikkelaar speel je een trekkersrol bij de ontwikkeling van digitale applicaties. De functie is een combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie. Je hebt een directe impact op de richting en de kwaliteit van het eindproduct. Je werkt in een team </span><span><span lang=\"NL\">met architecten, projectleiders, product owners, analisten en externe ontwikkelaars. </span></span></p> \n<p><span>Jouw belangrijkste verantwoordelijkheden:</span></p> \n<ul> \n<li><span>Je zet ontwikkelomgevingen voor digitale applicaties op en beheert ze. Je zorgt voor de uitrol van nieuwe versies.</span></li> \n<li><span>Bij grotere ontwikkelingen doe je een kwaliteitscontrole (review) van de ontwikkelde code.</span></li> \n<li><span>Bij vragen of problemen bij een applicatie duik je zelf in de code en breng je indien nodig zelf kleinere aanpassingen aan.</span></li> \n<li><span>Je zorgt dat de applicaties en de code gedocumenteerd worden. Je staat daarbij ook in voor het beheer van technische documenten.</span></li> \n<li><span>Je draagt samen met de ICT-architecten van VLAIO bij aan keuzes voor de applicatie architectuur.</span></li> \n<li><span>Je bent de sleutelfiguur in de samenwerking met teams van externe ontwikkelaars: je zorgt voor een goede samenwerking en kennisborging en waakt over de kwaliteit. Je coacht en begeleidt ontwikkelaars en stimuleert hen om mee te denken en de beste oplossingen te vinden.. </span></li> \n<li><span>Je hebt de capaciteiten en flexibiliteit om je in te werken in verschillende ontwikkelomgevingen in gebruik bij VLAIO (.Net, Power Platform, Dynamics, Azure, Python, Drupal).</span></li> \n<li><span>Je bouwt je netwerk binnen en buiten VLAIO (verder) uit en volgt evoluties rond digitalisering op. Je neemt een ambassadeursrol op vlak van digitalisering in de organisatie op.</span></li> </ul> \n<p><span><strong><span>Waar kom je terecht?</span></strong></span></p> \n<p><span><span>Als lead ontwikkelaar opereer je samen met een 55-tal enthousiaste collega’s vanuit de afdeling \n<strong>Data &amp; Interne Innovatie</strong>. In deze afdeling zorgen we o.a. voor een betrouwbare digitale werkomgeving voor de medewerkers van VLAIO (digitale werkplek, informatiebeheer, CRM, dossierbehandeling </span></span><span><span>,…</span></span><span><span>). We bouwen en beheren het dataplatform en data-toepassingen als basis voor de </span></span><span><span>data gedreven</span></span><span><span> werking van het agentschap. Verder leveren we de digitale ondersteuning voor nieuwe diensten, subsidies of nieuwe processen van VLAIO met maximale inzet op het gebruik van data. Tot slot vormen we de drijvende kracht achter het innoverend vermogen van alle VLAIO-medewerkers.</span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70690841",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70690841",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "ICT-architect (VLAIO) via Vlaanderen Connect"
+      },
+      "displayTitle": "ICT-architect (VLAIO) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>VLAIO </strong><strong><span lang=\"NL\">is</span></strong><strong><span lang=\"NL\"> hét aanspreekpunt van de Vlaamse overheid voor alle ondernemers in Vlaanderen. We zetten sterk in op data en digitalisering, bijvoorbeeld via het e-loket voor ondernemers en verschillende andere digitale applicaties (dossierbehandeling, CRM, VLAIO-app, …). We zoeken een ICT-architect die zowel strategisch als in de praktijk bijdraagt aan een doordachte ICT-architectuur. Je houdt rekening met de behoeften van de business, de kwaliteit en efficiëntie van de ontwikkelingen, hergebruik, informatieveiligheid, … Je werkt hiervoor vaak samen met interne en externe stakeholders. Heb je ambitie als ICT-architect in een dynamische organisatie? </span></strong><strong>Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu.</strong></p> \n<p><span><strong><span>Job-inhoud</span></strong></span></p> \n<p><span><span>Je bent een gepassioneerd ICT’er die ervan houdt om zowel zelf de handen uit de mouwen te steken als het overzicht te bewaren en mee strategische keuzes te bepalen. Je gaat graag in interactie met de business en vertaalt de behoeften naar performante ICT-oplossingen. Daarbij heb je steevast oog voor de coherentie van het geheel aan toepassingen binnen en buiten de organisatie. Jij zorgt ervoor dat modules en componenten maximaal hergebruikt worden en dat verschillende oplossingen vlot met elkaar ‘spreken’.</span></span></p> \n<p><span><span>Jouw belangrijkste verantwoordelijkheden:</span></span></p> \n<ul> \n<li><span><span>Visie &amp; strategie: Samen met de andere architecten een visie en strategie voor de VLAIO ICT-architectuur en het e-loket voor ondernemers uitwerken, waarbij business- informatie- en technische aspecten mee in rekening gebracht worden. Je houdt ook rekening met essentiële randvoorwaarden zoals s</span></span><span><span>ynergie, modulariteit, </span></span><span><span lang=\"NL\">gedeelde uitgangspunten, regels, standaarden en richtlijnen zoals bijvoorbeeld de Europese verordening ‘Single Digital Gateway’ </span></span><span><span>. VLAIO werkt met verschillende technologieën: .Net (</span></span><em><span>C#</span></em><span>) en Java, </span><span><span>Azure en AWS, Drupal, Angular, MS Dynamics, …</span></span></li> \n<li><span><span>Richting geven bij implementatie: Zorgen voor een heldere vertaling van deze strategie naar een kader en praktische richtlijnen, aansluitend waken over de praktische implementatie van dit kader en praktische richtlijnen. Indien relevant stuur je het architectuurontwerp bij. Voor het e-loket betekent dat een sterk business-, informatie- en technisch-architecturaal ontwerp. In al je ontwerpen en richtlijnen besteed je de nodige aandacht aan monitoring en security.</span></span></li> \n<li><span><span>Advies verlenen: Vanuit jouw praktijkervaring geef je advies op vlak van architectuur, met oog voor de strategie. Je doet dat bij de ontwikkeling van nieuwe toepassingen en bij de bijsturing van bestaande toepassingen. Daarnaast </span></span><span><span>neem je actief deel aan</span></span><span><span> de Adviesraad ICT-architectuur van VLAIO (2 ICT-architecten, data-architect, teamleiders, stakeholders).</span></span></li> \n<li><span>Ondersteuning bij implementatie: Je faciliteert </span><span>op technisch en architecturaal vlak bij de aansluiting van (nieuwe) partners op bouwstenen zodat ze kunnen participeren aan het ecosysteem van het e-loket voor ondernemers. Je waakt daarbij over het toepassen van de principes van single sign-on (SSO) en gericht aanmelden.</span></li> \n<li><span>Overleg met partners: Waar relevant ga je in overleg met ander partijen om gezamenlijke ontwikkelingen mee vorm te geven.</span></li> </ul>",
+        "htmlEncoded": "<p><strong>VLAIO </strong><strong><span lang=\"NL\">is</span></strong><strong><span lang=\"NL\"> hét aanspreekpunt van de Vlaamse overheid voor alle ondernemers in Vlaanderen. We zetten sterk in op data en digitalisering, bijvoorbeeld via het e-loket voor ondernemers en verschillende andere digitale applicaties (dossierbehandeling, CRM, VLAIO-app, …). We zoeken een ICT-architect die zowel strategisch als in de praktijk bijdraagt aan een doordachte ICT-architectuur. Je houdt rekening met de behoeften van de business, de kwaliteit en efficiëntie van de ontwikkelingen, hergebruik, informatieveiligheid, … Je werkt hiervoor vaak samen met interne en externe stakeholders. Heb je ambitie als ICT-architect in een dynamische organisatie? </span></strong><strong>Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu.</strong></p> \n<p><span><strong><span>Job-inhoud</span></strong></span></p> \n<p><span><span>Je bent een gepassioneerd ICT’er die ervan houdt om zowel zelf de handen uit de mouwen te steken als het overzicht te bewaren en mee strategische keuzes te bepalen. Je gaat graag in interactie met de business en vertaalt de behoeften naar performante ICT-oplossingen. Daarbij heb je steevast oog voor de coherentie van het geheel aan toepassingen binnen en buiten de organisatie. Jij zorgt ervoor dat modules en componenten maximaal hergebruikt worden en dat verschillende oplossingen vlot met elkaar ‘spreken’.</span></span></p> \n<p><span><span>Jouw belangrijkste verantwoordelijkheden:</span></span></p> \n<ul> \n<li><span><span>Visie &amp; strategie: Samen met de andere architecten een visie en strategie voor de VLAIO ICT-architectuur en het e-loket voor ondernemers uitwerken, waarbij business- informatie- en technische aspecten mee in rekening gebracht worden. Je houdt ook rekening met essentiële randvoorwaarden zoals s</span></span><span><span>ynergie, modulariteit, </span></span><span><span lang=\"NL\">gedeelde uitgangspunten, regels, standaarden en richtlijnen zoals bijvoorbeeld de Europese verordening ‘Single Digital Gateway’ </span></span><span><span>. VLAIO werkt met verschillende technologieën: .Net (</span></span><em><span>C#</span></em><span>) en Java, </span><span><span>Azure en AWS, Drupal, Angular, MS Dynamics, …</span></span></li> \n<li><span><span>Richting geven bij implementatie: Zorgen voor een heldere vertaling van deze strategie naar een kader en praktische richtlijnen, aansluitend waken over de praktische implementatie van dit kader en praktische richtlijnen. Indien relevant stuur je het architectuurontwerp bij. Voor het e-loket betekent dat een sterk business-, informatie- en technisch-architecturaal ontwerp. In al je ontwerpen en richtlijnen besteed je de nodige aandacht aan monitoring en security.</span></span></li> \n<li><span><span>Advies verlenen: Vanuit jouw praktijkervaring geef je advies op vlak van architectuur, met oog voor de strategie. Je doet dat bij de ontwikkeling van nieuwe toepassingen en bij de bijsturing van bestaande toepassingen. Daarnaast </span></span><span><span>neem je actief deel aan</span></span><span><span> de Adviesraad ICT-architectuur van VLAIO (2 ICT-architecten, data-architect, teamleiders, stakeholders).</span></span></li> \n<li><span>Ondersteuning bij implementatie: Je faciliteert </span><span>op technisch en architecturaal vlak bij de aansluiting van (nieuwe) partners op bouwstenen zodat ze kunnen participeren aan het ecosysteem van het e-loket voor ondernemers. Je waakt daarbij over het toepassen van de principes van single sign-on (SSO) en gericht aanmelden.</span></li> \n<li><span>Overleg met partners: Waar relevant ga je in overleg met ander partijen om gezamenlijke ontwikkelingen mee vorm te geven.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70687494",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70687494",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Front End Engineer (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Front End Engineer (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen. Daarnaast wordt VDAB een organisatie die zich openstelt voor elke burger. Dit houdt in dat VDAB voor elke burger gepersonaliseerde services wil opzetten.\n<span> </span></span></p> \n<p><span>Het landschap van bedrijven/organisaties/actoren waarmee VDAB zal samenwerken wordt dus steeds complexer en diverser. Om hiermee overweg te kunnen moeten slimme systemen, gebaseerd op data en AI, opgezet worden.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de front end ontwikkeling van AI oplossingen die deze evolutie kunnen ondersteunen.</span></p> \n<p><span>VDAB is een koploper op het vlak van AI en is van plan om hier naar de toekomst toe nog meer op in te zetten. We zijn binnen VDAB bezig met de meest innovatieve technologieën en dit ter ondersteuning van de optimalisatie van de loopbaan van de burger. Binnen VDAB heb je dus het voordeel dat je kan in een heel innovatieve omgeving en daarnaast ook kan werken aan projecten met een grote maatschappelijke impact.</span></p>",
+        "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen. Daarnaast wordt VDAB een organisatie die zich openstelt voor elke burger. Dit houdt in dat VDAB voor elke burger gepersonaliseerde services wil opzetten.\n<span> </span></span></p> \n<p><span>Het landschap van bedrijven/organisaties/actoren waarmee VDAB zal samenwerken wordt dus steeds complexer en diverser. Om hiermee overweg te kunnen moeten slimme systemen, gebaseerd op data en AI, opgezet worden.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de front end ontwikkeling van AI oplossingen die deze evolutie kunnen ondersteunen.</span></p> \n<p><span>VDAB is een koploper op het vlak van AI en is van plan om hier naar de toekomst toe nog meer op in te zetten. We zijn binnen VDAB bezig met de meest innovatieve technologieën en dit ter ondersteuning van de optimalisatie van de loopbaan van de burger. Binnen VDAB heb je dus het voordeel dat je kan in een heel innovatieve omgeving en daarnaast ook kan werken aan projecten met een grote maatschappelijke impact.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70686331",
       "internal": false,
@@ -25,9 +165,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "Business analist afdeling L (VDAB) via Vlaanderen Connect"
+        "htmlEncoded": "Business analist (VDAB) via Vlaanderen Connect"
       },
-      "displayTitle": "Business analist afdeling L (VDAB) via Vlaanderen Connect",
+      "displayTitle": "Business analist (VDAB) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
         "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Wil je als business analist een sleutelrol spelen in de digitalisering van VDAB en zo de dienstverlening aan burgers en werkgevers op het vlak van begeleiding, opleiding en werkplekleren verbeteren? Bij VDAB werk je aan projecten die écht impact hebben op de samenleving! Dankzij jouw werk help je burgers die hun competenties verder willen ontwikkelen sneller aan de juiste opleiding en kunnen bedrijven zo makkelijker talent aantrekken.</span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>VDAB is de specialist in werk om mensen te matchen met de juiste job. VDAB heeft de ambitie om elke burger een loopbaanperspectief en loopbaaneigenaarschap te bieden, elk talent aan de slag te krijgen en elke werkgever een perspectief op talent te bieden. Voor burgers die niet meteen matchbaar zijn met een vacature, voorziet VDAB in een dienstverleningsaanbod om de kloof met een job te dichten. Dit kan bestaan uit intensieve begeleiding en/of competentieontwikkeling door middel van opleiding en werkplekleren. Jouw job als business analist bestaat erin mee te werken aan de vernieuwing en verbetering van deze processen en applicaties. Daarnaast help je ook mee aan de implementatie van nieuw beleid. </span></p> \n<p><span>VDAB streeft ernaar zijn dienstverlening continu te blijven verbeteren op basis van klantenfeedback en hierbij gebruik te maken van nieuwe technologieën en data. Je komt terecht in een gedreven en hecht team van business experten en analisten, waar kennisdeling en samenwerking centraal staan, met het oog op het creëren van een naadloze gebruikerservaring en het streven naar (administratieve) eenvoud.</span></p> \n<p><span>Binnen dit team werk je mee aan de realisatie van de roadmaps, die tot doel hebben om de applicaties en processen voor het aanbod aan begeleiding, opleiding en werkplekleren te vernieuwen. De projecten waarvoor je zal ingezet worden, kunnen in eerste instantie betrekking hebben op:</span></p> \n<ul> \n<li><span>de implementatie van nieuwe catalogi om het begeleidings- en opleidingsaanbod te beheren en te ontsluiten;</span></li> \n<li><span>het verzamelen van requirements en het uitvoeren van de analyse om de planningstool voor opleidingen binnen het training management system (TMS) te configureren;</span></li> \n<li><span>het uittekenen van vernieuwde klantprocessen - vanaf de aanvraag van een opleiding of andere dienst tot aan de uitstroom - en de ontwikkeling van de bijhorende ondersteunende applicaties;</span></li> \n<li><span>de optimalisatie van het leerplatform en de ontsluiting van leerdata om tot een betere gebruikerservaring te komen;</span></li> \n<li><span>ontwikkelingen in het kader van de ondersteunende, backofficeprocessen, bijvoorbeeld in functie van het correct toekennen van incentives of het opzetten van informatiestromen;</span></li> \n<li><span>de implementatie van nieuw beleid.</span></li> </ul>",
@@ -590,8 +730,8 @@
       "displayTitle": "Technical Teamlead (Departement Omgeving) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p><span> </span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p><span> </span></p>"
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p> </p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van het team.</span></p> \n<p><span lang=\"NL\">Als Technical Team Lead werk je in tandem samen met de projectleider van je team. Jij neemt de technische kant op ; de projectleider neemt meer de functionele, organisatorische en stakeholderaspecten op.</span></p> \n<p><span lang=\"NL\">Je stuurt in overleg met de projectleider mee de nodige analyses aan om de businessbehoeften waar nodig te verduidelijken en te vertalen naar de juiste ICT-oplossingen.</span></p> \n<p><span lang=\"NL\">Je stuurt je team op technisch vlak aan.</span></p> \n<ul> \n<li><span lang=\"NL\">Je verzekert de technische oplevering van de projecten zowel naar code als documentatie</span></li> \n<li><span lang=\"NL\">Je geeft de nodige ondersteuning naar je junior teamleden</span></li> \n<li><span lang=\"NL\">Je draagt bij aan een goede scrumwerking</span></li> \n<li><span lang=\"NL\">Je werkt mee aan technische standaarden en trekt ook de implementatie ervan binnen je team. </span></li> </ul> \n<p><strong><span>Wat jij van ons mag verwachten</span></strong><strong></strong></p> \n<p><span>Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: </span></p> \n<ul> \n<li><span>Een aantrekkelijke bruto verloning</span></li> \n<li><span>Een bonussysteem op basis van vast te leggen doelstellingen</span></li> \n<li><span>28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). </span></li> \n<li><span>Een mobiliteitsbudget</span></li> \n<li><span>Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) </span></li> \n<li><span>Een forfaitaire onkostenvergoeding</span></li> \n<li><span>Een hospitalisatieverzekering (je kan gezinsleden aansluiten) </span></li> \n<li><span>Een groepsverzekering </span></li> \n<li><span>Een arbeidsongevallenverzekering</span></li> \n<li><span>Een opleidingsbudget</span></li> \n<li><span>Een laptop</span></li> \n<li><span>Een smartphone met abonnementsformule</span></li> \n<li><span>Flexibele werkuren </span></li> \n<li><span>Thuiswerkmiddelen en mogelijkheden tot thuiswerk</span></li> \n<li><span>Tegemoetkoming in de kosten van schoolvakantieopvang </span></li> </ul> \n<p> </p>"
       },
       "locations": [
         {
@@ -2037,41 +2177,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70372108",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70372108",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundige- werfreserve"
-      },
-      "displayTitle": "Verpleegkundige- werfreserve",
-      "isProtected": false,
-      "description": {
-        "raw": "<p align=\"center\"><strong><span>Werfreserve</span></strong></p> \n<p align=\"center\"><strong><span>Verpleegkundige </span></strong></p> \n<p><strong><span><span>Cluster ziekenhuis</span></span></strong><strong></strong></p> \n<p><span>Het reguliere psychiatrisch ziekenhuis omvat diverse zorgeenheden. Het richt zich in eerste instantie op een gespecialiseerd aanbod voor volwassenen die zich in een acute, psychiatrische crisissituatie bevinden en die kortdurende, intensieve ondersteuning en behandeling nodig hebben om het eigen leven weer verder op te nemen. </span></p> \n<p><span>Naast de HIC, zijn er diverse residentiële zorgeenheden die een aanbod voorzien voor verschillende psychiatrische kwetsbaarheden bij volwassenen. Zo hebben we een aanbod voor verslavingszorg (medicatie en/of alcohol), ernstige psychiatrische aandoeningen, dubbel- en triple diagnoses.</span></p> \n<p><span>Naast het residentiële aanbod is er ook een semi-residentieel aanbod. Dagbehandeling 1 biedt een behandeltraject aan voor volwassenen met persoonlijkheidsstoornissen, meer bepaald voor personen met een borderlinepersoonlijkheidsorganisatie (BPO). Dagbehandeling 2 is een dagbehandelingsaanbod voor volwassenen met een ernstige psychiatrische aandoening</span><span>.</span></p> \n<p><strong><span><span lang=\"NL\">Functiebeschrijving</span></span></strong></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt als opdracht elke zorgvrager persoonsgerichte en warme zorg aan te bieden. Dit doe je \n<br> afgestemd op de behoefte van de zorgvrager (en diens naaste) en in overeenstemming met de \n<br> behandelfilosofie van de betreffende zorgeenheid</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt aandacht voor het totaalbeeld van de zorgvrager: je herkent somatische problemen, betrekt \n<br> naasten en het netwerk bij de zorg van de zorgvrager.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jouw toegewezen zorgvragers op.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je neemt actief deel aan overlegvergaderingen: zorgafstemmingsgesprekken, briefing,…</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je staat in voor de dagelijkse begeleiding van de zorgeenheid, dit in overleg met je collega’s.</span></p> \n<p><span><span>· </span></span><span>Je werkt in een interdisciplinair team.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Het begrip ‘presentie’ is je niet vreemd, vanuit dit perspectief benader je zorgvragers evenwaardig en \n<br> met gepaste zorg. </span></p>",
-        "htmlEncoded": "<p align=\"center\"><strong><span>Werfreserve</span></strong></p> \n<p align=\"center\"><strong><span>Verpleegkundige </span></strong></p> \n<p><strong><span><span>Cluster ziekenhuis</span></span></strong><strong></strong></p> \n<p><span>Het reguliere psychiatrisch ziekenhuis omvat diverse zorgeenheden. Het richt zich in eerste instantie op een gespecialiseerd aanbod voor volwassenen die zich in een acute, psychiatrische crisissituatie bevinden en die kortdurende, intensieve ondersteuning en behandeling nodig hebben om het eigen leven weer verder op te nemen. </span></p> \n<p><span>Naast de HIC, zijn er diverse residentiële zorgeenheden die een aanbod voorzien voor verschillende psychiatrische kwetsbaarheden bij volwassenen. Zo hebben we een aanbod voor verslavingszorg (medicatie en/of alcohol), ernstige psychiatrische aandoeningen, dubbel- en triple diagnoses.</span></p> \n<p><span>Naast het residentiële aanbod is er ook een semi-residentieel aanbod. Dagbehandeling 1 biedt een behandeltraject aan voor volwassenen met persoonlijkheidsstoornissen, meer bepaald voor personen met een borderlinepersoonlijkheidsorganisatie (BPO). Dagbehandeling 2 is een dagbehandelingsaanbod voor volwassenen met een ernstige psychiatrische aandoening</span><span>.</span></p> \n<p><strong><span><span lang=\"NL\">Functiebeschrijving</span></span></strong></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt als opdracht elke zorgvrager persoonsgerichte en warme zorg aan te bieden. Dit doe je \n<br> afgestemd op de behoefte van de zorgvrager (en diens naaste) en in overeenstemming met de \n<br> behandelfilosofie van de betreffende zorgeenheid</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je hebt aandacht voor het totaalbeeld van de zorgvrager: je herkent somatische problemen, betrekt \n<br> naasten en het netwerk bij de zorg van de zorgvrager.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jouw toegewezen zorgvragers op.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je neemt actief deel aan overlegvergaderingen: zorgafstemmingsgesprekken, briefing,…</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Je staat in voor de dagelijkse begeleiding van de zorgeenheid, dit in overleg met je collega’s.</span></p> \n<p><span><span>· </span></span><span>Je werkt in een interdisciplinair team.</span></p> \n<p><span lang=\"NL\"><span>· </span></span><span lang=\"NL\">Het begrip ‘presentie’ is je niet vreemd, vanuit dit perspectief benader je zorgvragers evenwaardig en \n<br> met gepaste zorg. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70356868",
       "internal": false,
       "validThroughDate": "-1",
@@ -3437,6 +3542,111 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18010",
+      "internal": false,
+      "validThroughDate": "1745280000",
+      "hiringOrganization": "Opgroeien",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18010",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Deskundige ACT voor Team Zorggarantie Jonge Kindd"
+      },
+      "displayTitle": "Deskundige ACT voor Team Zorggarantie Jonge Kindd",
+      "isProtected": false,
+      "description": {
+        "raw": "Voor haar\nwerking van de jeugdhulp is het agentschap Opgroeien in de regio Antwerpen op\nzoek naar een collega voor ACT (de afdeling continuïteit en toegang).<br><br>Specifiek voor het Team Zorggarantie Jonge Kind<br>Met zorggarantie voor het jonge kind willen we bij (dreigende)\nuithuisplaatsing van een jong kind in de meest precaire situaties toch een\nkansrijke vroege ontwikkeling garanderen. De doelgroep is kinderen van -9\nmaanden (in de zwangerschap) tot 3 jaar.&nbsp;We richten ons\nop situaties van verregaande en ernstige verontrusting van jonge kinderen die\nomwille van hun kwetsbaarheid nood hebben aan een onmiddellijk inzetbaar\nbegeleidings- en/of verblijfsaanbod in een afgestemde aanpak. <br><br>Een casuscoördinator bij Zorggarantie voor het Jonge Kind organiseert\nzorgtafels rond de cliënt en zijn/haar gezin. Een zorgtafel is een groot\noverleg waarbij de ouders, hun netwerk en zorgverleners aansluiten. Door\ngericht vragen te stellen en het gesprek te sturen exploreert de\ncasuscoördinator samen met de mensen aan de zorgtafel de zorgen, de krachten en\nde noden van het gezin. Samen stellen ze een plan op waarbij de veiligheid van\nhet jonge kind te allen tijde gegarandeerd is. <br>RODE DRAAD: <br>1. Een geïntegreerd zorgplan<br>2. Kwaliteitsvolle behoefteanalyse is richtinggevend<br>3. Oplossings- en krachtgericht werken<br>4. Omgevingsnetwerken aanboren<br>5. Gedeelde verantwoordelijkheid<br><br>Team\nZorggarantie is één van de teams van de Afdeling Continuïteit en Toegang (ACT).\nAls casuscoördinator binnen team Zorggarantie werkt u onder de functie\n‘Deskundige ACT’. <br><br>Werken als\ndeskundige bij ACT:<br>Sommige\nvormen van jeugdhulp zijn heel ingrijpend en gespecialiseerd, bv. een\nbegeleidingstehuis, een pleeggezin of een internaat voor kinderen met een handicap. Het aantal plaatsen in deze vormen van jeugdhulp is beperkt. Om de toegang tot deze niet rechtstreeks toegankelijke jeugdhulp samen te brengen, werd in elke provincie\neen intersectorale toegangspoort (ITP) opgericht als onderdeel van de afdeling\ncontinuïteit en toegang. Naast de\nintersectorale toegangspoort (team indicatiestelling en jeugdhulpregie), is er\nin elke regio ook een team jongvolwassen (die zich focust op\nbeleidsafstemming en cases rond jongvolwassenen), een aanspreekpunt cliëntoverleg en bemiddeling, een team\nzorggarantie jonge kind en een team administratie.<br><br>We zoeken een deskundige in de jeugdhulp die zich\nvlot kan inwerken in de opdrachten van ACT.&nbsp; Daarvoor is het goed dat u vertrouwd bent met de manier waarop de\njeugdhulpverlening in Vlaanderen is georganiseerd en is kennis van de sociale\nkaart jeugdhulp van Antwerpen vanzelfsprekend een troef.<br>Als persoon is\nhet van belang dat u iemand bent die geen angst heeft om vragen te stellen, dat\nu weet van doordacht aanpakken en dat u vertrouwen weet te stellen in en\nvertrouwen weet te geven aan het team waar u deel van uitmaakt.<br>Wat de bredere\norganisatie betreft, komt u terecht in een fusie-agentschap in volle\nontwikkeling. <br>",
+        "htmlEncoded": "Voor haar\nwerking van de jeugdhulp is het agentschap Opgroeien in de regio Antwerpen op\nzoek naar een collega voor ACT (de afdeling continuïteit en toegang).<br><br>Specifiek voor het Team Zorggarantie Jonge Kind<br>Met zorggarantie voor het jonge kind willen we bij (dreigende)\nuithuisplaatsing van een jong kind in de meest precaire situaties toch een\nkansrijke vroege ontwikkeling garanderen. De doelgroep is kinderen van -9\nmaanden (in de zwangerschap) tot 3 jaar.&nbsp;We richten ons\nop situaties van verregaande en ernstige verontrusting van jonge kinderen die\nomwille van hun kwetsbaarheid nood hebben aan een onmiddellijk inzetbaar\nbegeleidings- en/of verblijfsaanbod in een afgestemde aanpak. <br><br>Een casuscoördinator bij Zorggarantie voor het Jonge Kind organiseert\nzorgtafels rond de cliënt en zijn/haar gezin. Een zorgtafel is een groot\noverleg waarbij de ouders, hun netwerk en zorgverleners aansluiten. Door\ngericht vragen te stellen en het gesprek te sturen exploreert de\ncasuscoördinator samen met de mensen aan de zorgtafel de zorgen, de krachten en\nde noden van het gezin. Samen stellen ze een plan op waarbij de veiligheid van\nhet jonge kind te allen tijde gegarandeerd is. <br>RODE DRAAD: <br>1. Een geïntegreerd zorgplan<br>2. Kwaliteitsvolle behoefteanalyse is richtinggevend<br>3. Oplossings- en krachtgericht werken<br>4. Omgevingsnetwerken aanboren<br>5. Gedeelde verantwoordelijkheid<br><br>Team\nZorggarantie is één van de teams van de Afdeling Continuïteit en Toegang (ACT).\nAls casuscoördinator binnen team Zorggarantie werkt u onder de functie\n‘Deskundige ACT’. <br><br>Werken als\ndeskundige bij ACT:<br>Sommige\nvormen van jeugdhulp zijn heel ingrijpend en gespecialiseerd, bv. een\nbegeleidingstehuis, een pleeggezin of een internaat voor kinderen met een handicap. Het aantal plaatsen in deze vormen van jeugdhulp is beperkt. Om de toegang tot deze niet rechtstreeks toegankelijke jeugdhulp samen te brengen, werd in elke provincie\neen intersectorale toegangspoort (ITP) opgericht als onderdeel van de afdeling\ncontinuïteit en toegang. Naast de\nintersectorale toegangspoort (team indicatiestelling en jeugdhulpregie), is er\nin elke regio ook een team jongvolwassen (die zich focust op\nbeleidsafstemming en cases rond jongvolwassenen), een aanspreekpunt cliëntoverleg en bemiddeling, een team\nzorggarantie jonge kind en een team administratie.<br><br>We zoeken een deskundige in de jeugdhulp die zich\nvlot kan inwerken in de opdrachten van ACT.&nbsp; Daarvoor is het goed dat u vertrouwd bent met de manier waarop de\njeugdhulpverlening in Vlaanderen is georganiseerd en is kennis van de sociale\nkaart jeugdhulp van Antwerpen vanzelfsprekend een troef.<br>Als persoon is\nhet van belang dat u iemand bent die geen angst heeft om vragen te stellen, dat\nu weet van doordacht aanpakken en dat u vertrouwen weet te stellen in en\nvertrouwen weet te geven aan het team waar u deel van uitmaakt.<br>Wat de bredere\norganisatie betreft, komt u terecht in een fusie-agentschap in volle\nontwikkeling. <br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18001",
+      "internal": false,
+      "validThroughDate": "1743984000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18001",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Administratief medewerker justitiehuizen"
+      },
+      "displayTitle": "Administratief medewerker justitiehuizen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben je op zoek naar een ondersteunende administratieve functie met voldoende variatie en neem je graag initiatief? Dan ben jij de gedreven collega waarnaar we op zoek zijn, om ons enthousiaste team te versterken!<br><br> Als administratief medewerker binnen de afdeling Justitiehuizen bestaat je kerntaak vooral uit het bieden van administratieve ondersteuning, secretariaatsondersteuning, alsook het uitvoeren van logistieke taken, met als doel bij te dragen tot een vlotte, efficiënte administratieve werking van de afdeling.<br><br> Je draagt graag bij aan de goede werking van de dienst. Je zorgt voor een goede planning en vindt het fijn om zaken te structureren en goed te organiseren. Je bent goed in staat om flexibel in te spelen op de prioriteiten van de dag en tegelijk het overzicht te bewaren. Je schakelt snel, neemt initiatief en maakt je zaken snel eigen. In deze veelzijdige functie ben je ook verantwoordelijk voor het onthaal en het te woord staan van bezoekers. Je zorgt er ook voor dat dossiers nauwkeurig worden geregistreerd en opgebouwd, en je controleert of alle binnenkomende aanvragen volledig zijn.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben je op zoek naar een ondersteunende administratieve functie met voldoende variatie en neem je graag initiatief? Dan ben jij de gedreven collega waarnaar we op zoek zijn, om ons enthousiaste team te versterken!<br><br> Als administratief medewerker binnen de afdeling Justitiehuizen bestaat je kerntaak vooral uit het bieden van administratieve ondersteuning, secretariaatsondersteuning, alsook het uitvoeren van logistieke taken, met als doel bij te dragen tot een vlotte, efficiënte administratieve werking van de afdeling.<br><br> Je draagt graag bij aan de goede werking van de dienst. Je zorgt voor een goede planning en vindt het fijn om zaken te structureren en goed te organiseren. Je bent goed in staat om flexibel in te spelen op de prioriteiten van de dag en tegelijk het overzicht te bewaren. Je schakelt snel, neemt initiatief en maakt je zaken snel eigen. In deze veelzijdige functie ben je ook verantwoordelijk voor het onthaal en het te woord staan van bezoekers. Je zorgt er ook voor dat dossiers nauwkeurig worden geregistreerd en opgebouwd, en je controleert of alle binnenkomende aanvragen volledig zijn.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Kortrijk"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Geel"
+          }
+        },
+        {
+          "address": {
+            "city": "Halle"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17993",
       "internal": false,
       "validThroughDate": "1744156800",
@@ -3467,6 +3677,41 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17975",
+      "internal": false,
+      "validThroughDate": "1743638400",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17975",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider Buffer - Denderleeuw"
+      },
+      "displayTitle": "Scheepvaartbegeleider Buffer - Denderleeuw",
+      "isProtected": false,
+      "description": {
+        "raw": "Als scheepvaartbegeleider-buffer bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van scheepvaartbegeleider, werk je als scheepvaartbegeleider-buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
+        "htmlEncoded": "Als scheepvaartbegeleider-buffer bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van scheepvaartbegeleider, werk je als scheepvaartbegeleider-buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dichtbij het water? Dan is dit de functie die je zoekt!&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Denderleeuw"
           }
         }
       ]
@@ -3991,6 +4236,41 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17789",
+      "internal": false,
+      "validThroughDate": "1744675200",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17789",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke EU en Handel"
+      },
+      "displayTitle": "Teamverantwoordelijke EU en Handel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb jij zin in een nieuwe uitdaging\nbinnen het Departement Kanselarij &amp; Buitenlandse Zaken? Hou&nbsp; je ervan om aan de slag te gaan met een\ndynamisch en gemotiveerd team? Wil je vanuit Vlaanderen op een proactieve manier\nwegen op de agenda van de EU? Heb je een specifieke interesse voor Europees\nbeleid en internationale handelsvraagstukken? Dan is deze vacature misschien\niets voor jou! <br><br>Als\nteamverantwoordelijke voor het team EU &amp; Handel coördineer, coach, begeleid\nen ondersteun je de collega’s. Samen ga je de uitdaging aan om vanuit\nVlaanderen op een proactieve manier mee de Europese en internationale handelsagenda\nte bepalen. Je bent daarbij het aanspreekpunt van en voor het team, je bepaalt\nde prioriteiten en bewaakt het evenwicht in taaklast binnen het team. Je houdt\nhet helikopterzicht en kijkt waar het team zich kan verbeteren. Daarnaast fungeer\nje als inhoudelijk klankbord en neem je ook zelf een beperkt aantal\ninhoudelijke opdrachten op. <br><br>Klaar om jouw leiderschapstalent en kennis van de EU en handel &nbsp;in te zetten voor een dynamisch team en\ninvloedrijk Europees beleid?<br>Ben jij een &nbsp;coachende leidinggevende die een team\ninspireert, een cultuur van vertrouwen creëert en medewerkers motiveert om hun\ntalenten te ontplooien? Heb je inhoudelijke kennis van &nbsp;Europese en internationale handelsvraagstukken?\nDan &nbsp;is dit jouw kans. Solliciteer en\nontdek hoe jouw passie en vaardigheden bijdragen aan ons succes. Samen bouwen\nwe aan een toekomst waarin jouw leiderschap het verschil maakt. <br><br>Klinkt dit als de\ngeknipte job voor jou? Aarzel dan niet en stel je kandidaat.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb jij zin in een nieuwe uitdaging\nbinnen het Departement Kanselarij &amp; Buitenlandse Zaken? Hou&nbsp; je ervan om aan de slag te gaan met een\ndynamisch en gemotiveerd team? Wil je vanuit Vlaanderen op een proactieve manier\nwegen op de agenda van de EU? Heb je een specifieke interesse voor Europees\nbeleid en internationale handelsvraagstukken? Dan is deze vacature misschien\niets voor jou! <br><br>Als\nteamverantwoordelijke voor het team EU &amp; Handel coördineer, coach, begeleid\nen ondersteun je de collega’s. Samen ga je de uitdaging aan om vanuit\nVlaanderen op een proactieve manier mee de Europese en internationale handelsagenda\nte bepalen. Je bent daarbij het aanspreekpunt van en voor het team, je bepaalt\nde prioriteiten en bewaakt het evenwicht in taaklast binnen het team. Je houdt\nhet helikopterzicht en kijkt waar het team zich kan verbeteren. Daarnaast fungeer\nje als inhoudelijk klankbord en neem je ook zelf een beperkt aantal\ninhoudelijke opdrachten op. <br><br>Klaar om jouw leiderschapstalent en kennis van de EU en handel &nbsp;in te zetten voor een dynamisch team en\ninvloedrijk Europees beleid?<br>Ben jij een &nbsp;coachende leidinggevende die een team\ninspireert, een cultuur van vertrouwen creëert en medewerkers motiveert om hun\ntalenten te ontplooien? Heb je inhoudelijke kennis van &nbsp;Europese en internationale handelsvraagstukken?\nDan &nbsp;is dit jouw kans. Solliciteer en\nontdek hoe jouw passie en vaardigheden bijdragen aan ons succes. Samen bouwen\nwe aan een toekomst waarin jouw leiderschap het verschil maakt. <br><br>Klinkt dit als de\ngeknipte job voor jou? Aarzel dan niet en stel je kandidaat.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -6720,41 +7000,6 @@
       "description": {
         "raw": "<p>Voor het agentschap Wonen in Vlaanderen zijn we op zoek naar een <strong>administrateur-generaal</strong>.</p><p>Als administrateur-generaal sta je aan het roer van het agentschap en geef je mee vorm aan het woonbeleid in Vlaanderen.</p><ul><li>Je vertolkt het verhaal van wonen en verbindt de verschillende domeinen op een strategisch niveau;</li><li>Je zorgt mee voor doordachte beleidsvoorbereiding en -ondersteuning;</li><li>Je beheert en optimaliseert budgetten, met oog voor efficiëntie en ICT-uitdagingen;</li><li>Je hebt een sterke netwerkrol en onderhoudt relaties met lokale besturen, de academische wereld en andere partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
         "htmlEncoded": "<p>Voor het agentschap Wonen in Vlaanderen zijn we op zoek naar een <strong>administrateur-generaal</strong>.</p><p>Als administrateur-generaal sta je aan het roer van het agentschap en geef je mee vorm aan het woonbeleid in Vlaanderen.</p><ul><li>Je vertolkt het verhaal van wonen en verbindt de verschillende domeinen op een strategisch niveau;</li><li>Je zorgt mee voor doordachte beleidsvoorbereiding en -ondersteuning;</li><li>Je beheert en optimaliseert budgetten, met oog voor efficiëntie en ICT-uitdagingen;</li><li>Je hebt een sterke netwerkrol en onderhoudt relaties met lokale besturen, de academische wereld en andere partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-16451",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Eigen Vermogen Xperta",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-16451",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Topograaf"
-      },
-      "displayTitle": "Topograaf",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij graag buiten en heb je een passie voor nauwkeurige metingen? Bij Eigen Vermogen Xperta krijg je de kans om als topograaf een cruciale rol te spelen in het realiseren en onderhouden van infrastructuurprojecten in Vlaanderen. Je zult voornamelijk in het veld werken, waar je topografische metingen uitvoert voor diverse infrastructuurwerken zoals wegen, bruggen, sluizen en stranden. Daarnaast verwerk je data en voer je administratieve taken uit, zowel thuis als op kantoor.</div><div>&nbsp;</div><div>Je bent verantwoordelijk voor je eigen planning en houdt rekening met deadlines en weersomstandigheden. Je werkt over heel Vlaanderen en maakt regelmatig lange verplaatsingen. Minstens twee halve dagen per maand kom je naar Brussel om je collega’s te ontmoeten en samen te werken. Samen met partners zoals het Agentschap Wegen en Verkeer en De Vlaamse Waterweg, draag je bij aan belangrijke infrastructuurprojecten.</div><div>&nbsp;</div><div>Leergierigheid en een innovatieve instelling zijn essentieel in deze rol. Bij Eigen Vermogen Xperta krijg je de vrijheid om je werk zelfstandig in te delen en te plannen. We moedigen je aan om voortdurend nieuwe kennis en vaardigheden op te doen en creatieve oplossingen te bedenken voor complexe problemen. Dit helpt niet alleen bij je persoonlijke ontwikkeling, maar draagt ook bij aan de vooruitgang en innovatie binnen ons team en de projecten waaraan we werken.</div><div>&nbsp;</div><div><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></div>",
-        "htmlEncoded": "<div>Ben jij graag buiten en heb je een passie voor nauwkeurige metingen? Bij Eigen Vermogen Xperta krijg je de kans om als topograaf een cruciale rol te spelen in het realiseren en onderhouden van infrastructuurprojecten in Vlaanderen. Je zult voornamelijk in het veld werken, waar je topografische metingen uitvoert voor diverse infrastructuurwerken zoals wegen, bruggen, sluizen en stranden. Daarnaast verwerk je data en voer je administratieve taken uit, zowel thuis als op kantoor.</div><div>&nbsp;</div><div>Je bent verantwoordelijk voor je eigen planning en houdt rekening met deadlines en weersomstandigheden. Je werkt over heel Vlaanderen en maakt regelmatig lange verplaatsingen. Minstens twee halve dagen per maand kom je naar Brussel om je collega’s te ontmoeten en samen te werken. Samen met partners zoals het Agentschap Wegen en Verkeer en De Vlaamse Waterweg, draag je bij aan belangrijke infrastructuurprojecten.</div><div>&nbsp;</div><div>Leergierigheid en een innovatieve instelling zijn essentieel in deze rol. Bij Eigen Vermogen Xperta krijg je de vrijheid om je werk zelfstandig in te delen en te plannen. We moedigen je aan om voortdurend nieuwe kennis en vaardigheden op te doen en creatieve oplossingen te bedenken voor complexe problemen. Dit helpt niet alleen bij je persoonlijke ontwikkeling, maar draagt ook bij aan de vooruitgang en innovatie binnen ons team en de projecten waaraan we werken.</div><div>&nbsp;</div><div><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></div>"
       },
       "locations": [
         {
