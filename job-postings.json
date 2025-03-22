@@ -1,10 +1,10 @@
 {
-  "totalItems": 211,
+  "totalItems": 212,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 210,
+  "lastItemOfPage": 211,
   "items": [
     {
       "link": "/Job/vdab-70691811",
@@ -4720,6 +4720,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17720",
+      "internal": false,
+      "validThroughDate": "1744243200",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17720",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "HR Manager"
+      },
+      "displayTitle": "HR Manager",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Iedere digitale transformatie begint bij mensen. Jouw uitdaging? Onze mensen laten schitteren.<br><br>Bij Digitaal Vlaanderen zet jij als HR-Manager strategie om in actie. Je zorgt ervoor dat onze medewerkers de kansen, tools en begeleiding krijgen om uit te blinken en samen resultaten neer te zetten. Terwijl je strategie en talent samenbrengt, werk je aan een omgeving waar mensen groeien en samenwerken aan impactvolle projecten.<br><br>Je leidt het HR-team en bent de brug tussen het directieteam en je collega’s. Met je strategische blik ontwikkel je een HR-beleid dat aansluit bij de missie van Digitaal Vlaanderen én de uitdagingen van digitalisering. Je denkt verder dan de standaardoplossingen en zet in op een aanpak die inspireert en motiveert.<br><br>Van talentmanagement tot prestatiemanagement, van leren en ontwikkelen tot welzijn: jij geeft richting aan de HR-strategie en vertaalt die naar acties. Je versterkt onze HR-processen, optimaliseert interne dienstverlening en zorgt voor de juiste mensen op de juiste plek. Daarnaast bewaak je budgetten, leid je HR-projecten en speel je in op toekomstige uitdagingen. Je vertegenwoordigt Digitaal Vlaanderen binnen de Vlaamse overheid en zorgt ervoor dat onze organisatie klaar is voor de toekomst.<br><br>Je maakt deel uit van een vooruitstrevend team binnen een organisatie die Vlaanderen digitaal sterker maakt. HR speelt daarbij een belangrijke rol: door een gepaste werkomgeving te creëren, is het mogelijk dat medewerkers en teams excelleren. Jij bent degene die dat beleid vormgeeft en samen met het HR-team implementeert. HR is daarom niet alleen ondersteunen, maar vooral bepalend.<br><br>Solliciteer vandaag en bouw mee aan een toekomst waarin mensen én technologie samenkomen. Maak het verschil als HR-Manager bij Digitaal Vlaanderen!</p>",
+        "htmlEncoded": "<p>Iedere digitale transformatie begint bij mensen. Jouw uitdaging? Onze mensen laten schitteren.<br><br>Bij Digitaal Vlaanderen zet jij als HR-Manager strategie om in actie. Je zorgt ervoor dat onze medewerkers de kansen, tools en begeleiding krijgen om uit te blinken en samen resultaten neer te zetten. Terwijl je strategie en talent samenbrengt, werk je aan een omgeving waar mensen groeien en samenwerken aan impactvolle projecten.<br><br>Je leidt het HR-team en bent de brug tussen het directieteam en je collega’s. Met je strategische blik ontwikkel je een HR-beleid dat aansluit bij de missie van Digitaal Vlaanderen én de uitdagingen van digitalisering. Je denkt verder dan de standaardoplossingen en zet in op een aanpak die inspireert en motiveert.<br><br>Van talentmanagement tot prestatiemanagement, van leren en ontwikkelen tot welzijn: jij geeft richting aan de HR-strategie en vertaalt die naar acties. Je versterkt onze HR-processen, optimaliseert interne dienstverlening en zorgt voor de juiste mensen op de juiste plek. Daarnaast bewaak je budgetten, leid je HR-projecten en speel je in op toekomstige uitdagingen. Je vertegenwoordigt Digitaal Vlaanderen binnen de Vlaamse overheid en zorgt ervoor dat onze organisatie klaar is voor de toekomst.<br><br>Je maakt deel uit van een vooruitstrevend team binnen een organisatie die Vlaanderen digitaal sterker maakt. HR speelt daarbij een belangrijke rol: door een gepaste werkomgeving te creëren, is het mogelijk dat medewerkers en teams excelleren. Jij bent degene die dat beleid vormgeeft en samen met het HR-team implementeert. HR is daarom niet alleen ondersteunen, maar vooral bepalend.<br><br>Solliciteer vandaag en bouw mee aan een toekomst waarin mensen én technologie samenkomen. Maak het verschil als HR-Manager bij Digitaal Vlaanderen!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
