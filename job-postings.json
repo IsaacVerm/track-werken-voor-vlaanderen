@@ -1,11 +1,81 @@
 {
-  "totalItems": 205,
+  "totalItems": 208,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 204,
+  "lastItemOfPage": 207,
   "items": [
+    {
+      "link": "/Job/vdab-70714324",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70714324",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Datasteward (VSA) via Vlaanderen Connect"
+      },
+      "displayTitle": "Datasteward (VSA) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>De Vlaamse Statistische Autoriteit (VSA) zoekt een datasteward verantwoordelijk voor de processen van gegevensverzameling en –beheer. Meer specifiek zorg je er als datasteward voor dat statistische gegevens en bijhorende informatie op een </span><span>efficiënte, reproduceerbare en veilige manier worden aangevraagd, opgeslagen en </span><span>uitgewisseld met derden. Je draagt op die manier bij aan </span><span>een cultuur van gedocumenteerde en gestructureerde gegevensverzameling en -beheer</span><span> en het waarborgen van de integriteit, kwaliteit en veiligheid van de data van de VSA. </span></p> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in de cluster Data &amp; Methoden van de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers.</span></p> \n<p> </p> \n<p><strong><span>Doel</span></strong> \n<strong></strong></p> \n<p><strong><span>Taken en Verantwoordelijkheden:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je ontwikkelt en implementeert beleidslijnen, procedures en strategieën voor een gecoördineerde, efficiënte, reproduceerbare en veilige aanvraag, opslag en uitwisseling van statistische gegevens en bijhorende informatie binnen de VSA.</span></li> \n<li><span>Je volgt de administratie op die gepaard gaat met de Algemene Verordening Gegevensbescherming (AVG) bij gegevensverwerkingen.</span></li> \n<li><span>Je coördineert het volledige proces van de Trusted Third Party (TTP) activiteiten van de VSA voor de partners van het netwerk Statistiek Vlaanderen en externen. Je begeleidt hen bij de indiening van data-aanvragen, neemt deel aan de intake en verkenning, onderhoudt het register, verzorgt de noodzakelijke administratieve documenten, en geeft het signaal wanneer gegevens geleverd mogen worden.</span></li> \n<li><span>Je coördineert de safe room activiteiten van de VSA voor netwerkpartners en externen, inclusief de administratieve voorbereiding, de planning en de voorziening van technische infrastructuur.</span></li> \n<li><span>Je coördineert en behandelt gegevensaanvragen bij partners uit het Interfederaal Instituut voor de Statistiek (IIS) en bij externe dataleveranciers. Je volgt ook de werkzaamheden van de IIS-werkgroep DPO op.</span></li> \n<li><span>Je coördineert en behandelt de gegevensaanleveringen aan derden. </span></li> </ul> \n<p><span><span>· </span></span><span>Je beheert de Non-Disclosure Agreements (NDA) met dataleveranciers en volgt de naleving hiervan op.</span></p> \n<p><span><span>· </span></span><span>Je coördineert en actualiseert de registers van de gegevensverwerkingen. </span></p> \n<p><span><span>· </span></span><span>Je beheert en organiseert de informatieplatformen van de VSA waarop gegevens en bijhorende informatie worden bewaard. </span></p> \n<p> </p> \n<p><strong><span>Samenwerking:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je werkt nauw samen met de data protection officer (DPO) en de information security officer (ISO) van de VSA.</span></li> \n<li><span>Je stemt je werkzaamheden af met de kwaliteitsmanager (bv. metadata) en methodoloog (bv. methode van Statistical Disclosure Controle (SDC)).</span></li> \n<li><span>Je fungeert als aanspreekpunt voor collega’s binnen de VSA, maar ook ruimer binnen het netwerk Statistiek Vlaanderen en het IIS voor vragen met betrekking tot het (her)gebruik van gegevens voor statistische doeleinden.</span></li> \n<li><span>Je adviseert andere VSA-medewerkers bij gegevensverwerkingsactiviteiten zoals het beheer en verwerking van atomaire data.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>De Vlaamse Statistische Autoriteit (VSA) zoekt een datasteward verantwoordelijk voor de processen van gegevensverzameling en –beheer. Meer specifiek zorg je er als datasteward voor dat statistische gegevens en bijhorende informatie op een </span><span>efficiënte, reproduceerbare en veilige manier worden aangevraagd, opgeslagen en </span><span>uitgewisseld met derden. Je draagt op die manier bij aan </span><span>een cultuur van gedocumenteerde en gestructureerde gegevensverzameling en -beheer</span><span> en het waarborgen van de integriteit, kwaliteit en veiligheid van de data van de VSA. </span></p> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in de cluster Data &amp; Methoden van de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers.</span></p> \n<p> </p> \n<p><strong><span>Doel</span></strong> \n<strong></strong></p> \n<p><strong><span>Taken en Verantwoordelijkheden:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je ontwikkelt en implementeert beleidslijnen, procedures en strategieën voor een gecoördineerde, efficiënte, reproduceerbare en veilige aanvraag, opslag en uitwisseling van statistische gegevens en bijhorende informatie binnen de VSA.</span></li> \n<li><span>Je volgt de administratie op die gepaard gaat met de Algemene Verordening Gegevensbescherming (AVG) bij gegevensverwerkingen.</span></li> \n<li><span>Je coördineert het volledige proces van de Trusted Third Party (TTP) activiteiten van de VSA voor de partners van het netwerk Statistiek Vlaanderen en externen. Je begeleidt hen bij de indiening van data-aanvragen, neemt deel aan de intake en verkenning, onderhoudt het register, verzorgt de noodzakelijke administratieve documenten, en geeft het signaal wanneer gegevens geleverd mogen worden.</span></li> \n<li><span>Je coördineert de safe room activiteiten van de VSA voor netwerkpartners en externen, inclusief de administratieve voorbereiding, de planning en de voorziening van technische infrastructuur.</span></li> \n<li><span>Je coördineert en behandelt gegevensaanvragen bij partners uit het Interfederaal Instituut voor de Statistiek (IIS) en bij externe dataleveranciers. Je volgt ook de werkzaamheden van de IIS-werkgroep DPO op.</span></li> \n<li><span>Je coördineert en behandelt de gegevensaanleveringen aan derden. </span></li> </ul> \n<p><span><span>· </span></span><span>Je beheert de Non-Disclosure Agreements (NDA) met dataleveranciers en volgt de naleving hiervan op.</span></p> \n<p><span><span>· </span></span><span>Je coördineert en actualiseert de registers van de gegevensverwerkingen. </span></p> \n<p><span><span>· </span></span><span>Je beheert en organiseert de informatieplatformen van de VSA waarop gegevens en bijhorende informatie worden bewaard. </span></p> \n<p> </p> \n<p><strong><span>Samenwerking:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je werkt nauw samen met de data protection officer (DPO) en de information security officer (ISO) van de VSA.</span></li> \n<li><span>Je stemt je werkzaamheden af met de kwaliteitsmanager (bv. metadata) en methodoloog (bv. methode van Statistical Disclosure Controle (SDC)).</span></li> \n<li><span>Je fungeert als aanspreekpunt voor collega’s binnen de VSA, maar ook ruimer binnen het netwerk Statistiek Vlaanderen en het IIS voor vragen met betrekking tot het (her)gebruik van gegevens voor statistische doeleinden.</span></li> \n<li><span>Je adviseert andere VSA-medewerkers bij gegevensverwerkingsactiviteiten zoals het beheer en verwerking van atomaire data.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70713545",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70713545",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Developer - systeembeheerder (Vlaamse Onderwijsinspectie) via Vlaanderen Connect"
+      },
+      "displayTitle": "Developer - systeembeheerder (Vlaamse Onderwijsinspectie) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Als developer - systeembeheerder ben je verantwoordelijk voor zowel de ontwikkeling van softwaretoepassingen als voor het beheer van IT-systemen.</p> \n<p>De nadruk ligt op het bouwen van oplossingen, met daarnaast een divers takenpakket waarbij wij optimaal gebruik zullen maken van de kernkwaliteiten en specialisaties die jij als IT-professional meebrengt.</p> \n<p>Je bent als IT-specialist en developer verantwoordelijk voor het ontwerpen, ontwikkelen en onderhouden van softwaretoepassingen en IT-systemen. Als professional zorg jij ervoor dat de technische infrastructuur van de organisatie efficiënt en betrouwbaar functioneert</p> \n<p>Ben jij die veelzijdige IT-professional met een passie voor zowel softwareontwikkeling als systeembeheer? Dan zijn wij op zoek naar jou!</p> \n<p>We bieden een voltijdse betrekking maar zowel het volume (deeltijds) als de start zijn bespreekbaar.</p> \n<p> </p> \n<p><strong>Belangrijkste verantwoordelijkheden</strong></p> \n<p>·       Ontwerpen en ontwikkelen van softwaretoepassingen volgens de specificaties. Meer specifiek heb je expertise en ervaring met low-code applicatieontwikkeling.</p> \n<p>·       Onderhouden en verbeteren van bestaande IT-systemen en software:</p> \n<p>·       Je bent verantwoordelijk voor het monitoren van de prestaties van systemen en het implementeren van optimalisaties om de efficiëntie en betrouwbaarheid te verbeteren.</p> \n<p>·       Implementeren van nieuwe technologieën en tools om de efficiëntie te verhogen</p> \n<p>·       Je identificeert proactief technologische trends en innovaties die waarde kunnen toevoegen aan de organisatie.</p> \n<p>·       Oplossen van technische problemen</p> \n<p>·       Je onderzoekt problemen en bedenkt oplossingen samen met het team die documenteert om de kennisdeling binnen het team te bevorderen.</p> \n<p>·       De organisatorische en technische maatregelen ten behoeve van de informatiebeveiliging en de naleving van de regelgeving zoals GDPR, NIS2 en andere relevante wet- en regelgeving:</p> \n<p>·       Je bent medeverantwoordelijk voor de uitvoering van beveiligingsaudits en de implementatie van beveiligingsmaatregelen om de integriteit en vertrouwelijkheid van gegevens te waarborgen.</p> \n<p>·       Samenwerken met andere IT-specialisten en product owners om projecten succesvol af te ronden</p> \n<p>·       Je bent medeverantwoordelijk voor de uitvoering van projectactiviteiten en het waarborgen van een tijdige en succesvolle oplevering van projecten.</p>",
+        "htmlEncoded": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Als developer - systeembeheerder ben je verantwoordelijk voor zowel de ontwikkeling van softwaretoepassingen als voor het beheer van IT-systemen.</p> \n<p>De nadruk ligt op het bouwen van oplossingen, met daarnaast een divers takenpakket waarbij wij optimaal gebruik zullen maken van de kernkwaliteiten en specialisaties die jij als IT-professional meebrengt.</p> \n<p>Je bent als IT-specialist en developer verantwoordelijk voor het ontwerpen, ontwikkelen en onderhouden van softwaretoepassingen en IT-systemen. Als professional zorg jij ervoor dat de technische infrastructuur van de organisatie efficiënt en betrouwbaar functioneert</p> \n<p>Ben jij die veelzijdige IT-professional met een passie voor zowel softwareontwikkeling als systeembeheer? Dan zijn wij op zoek naar jou!</p> \n<p>We bieden een voltijdse betrekking maar zowel het volume (deeltijds) als de start zijn bespreekbaar.</p> \n<p> </p> \n<p><strong>Belangrijkste verantwoordelijkheden</strong></p> \n<p>·       Ontwerpen en ontwikkelen van softwaretoepassingen volgens de specificaties. Meer specifiek heb je expertise en ervaring met low-code applicatieontwikkeling.</p> \n<p>·       Onderhouden en verbeteren van bestaande IT-systemen en software:</p> \n<p>·       Je bent verantwoordelijk voor het monitoren van de prestaties van systemen en het implementeren van optimalisaties om de efficiëntie en betrouwbaarheid te verbeteren.</p> \n<p>·       Implementeren van nieuwe technologieën en tools om de efficiëntie te verhogen</p> \n<p>·       Je identificeert proactief technologische trends en innovaties die waarde kunnen toevoegen aan de organisatie.</p> \n<p>·       Oplossen van technische problemen</p> \n<p>·       Je onderzoekt problemen en bedenkt oplossingen samen met het team die documenteert om de kennisdeling binnen het team te bevorderen.</p> \n<p>·       De organisatorische en technische maatregelen ten behoeve van de informatiebeveiliging en de naleving van de regelgeving zoals GDPR, NIS2 en andere relevante wet- en regelgeving:</p> \n<p>·       Je bent medeverantwoordelijk voor de uitvoering van beveiligingsaudits en de implementatie van beveiligingsmaatregelen om de integriteit en vertrouwelijkheid van gegevens te waarborgen.</p> \n<p>·       Samenwerken met andere IT-specialisten en product owners om projecten succesvol af te ronden</p> \n<p>·       Je bent medeverantwoordelijk voor de uitvoering van projectactiviteiten en het waarborgen van een tijdige en succesvolle oplevering van projecten.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70691811",
       "internal": false,
@@ -1432,41 +1502,6 @@
       "description": {
         "raw": "<p><span>Ben jij gebeten door data ? Ben je ook overtuigd dat, met de juiste inzet van data, de overheid net dat ietsje meer kan bieden aan zijn burgers en ondernemers ? </span></p> \n<p><span>Kom het waarmaken en help mee bouwen aan de toekomst van VDAB </span></p> \n<p>Een permanente aandacht op privacy en security is een must.</p> \n<p>VDAB investeert in een expertencel, die kan inspelen op vraagstukken, zowel van strategische als van operationele aard. Deze expertencel werkt nauw samen met enerzijds de juridische dienst en de DPO-cel, zonder diens onafhankelijke positie aan te tasten, en anderzijds met betrokken inhoudelijke ontwikkelexperten die betrokken zijn in projecten en opdrachten om nieuw beleid te realiseren.</p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je werkt in de afdeling ‘ontwikkeling van de dienstverlening’, de R&amp;D afdeling van VDAB. Deze afdeling heeft als opdracht om producten, processen en instrumenten te ontwikkelen ter realisatie van de VDAB-opdrachten.</span></p> \n<p><span><span> </span><strong>Wat zal je gaan doen? </strong></span></p> \n<p><span>Je zal (onder andere) instaan voor:</span></p> \n<p><span><span>●\n<span> </span></span></span><span>het analyseren van de concrete projectideeën binnen het kader van de AVG-principes en -verplichtingen in opdracht van programma-, portfolio- of projectmanagement</span></p> \n<p><span><span>●\n<span> </span></span></span><span>het uitwerken van use cases , o.a. ook AI-driven ontwikkelingen </span></p> \n<p><span><span>●\n<span> </span></span></span><span>het opmaken van privacy impact assessment\n<span> </span>door gebruik te maken van de nodige bronnen (contextueel, juridisch, beleidsmatig) </span></p> \n<p><span><span>●\n<span> </span></span></span><span>analyse van en door DPO en/of juridische dienst gedetecteerde issues, topics, … en kadering binnen strategisch-tactische ambities Vlaamse regering en VDAB.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>documenteren en zorgen voor de opbouw van kennisbeheer </span></p> \n<p><span><span>●\n<span> </span></span></span><span>vinden en opbouwen van samenwerkingsopportuniteiten rond concrete topics mbt verwerking van persoonsgegevens </span></p> \n<p><span><span>●\n<span> </span></span></span><span>afstemming en inpassing binnen bredere initiatieven rond data governance </span></p>",
         "htmlEncoded": "<p><span>Ben jij gebeten door data ? Ben je ook overtuigd dat, met de juiste inzet van data, de overheid net dat ietsje meer kan bieden aan zijn burgers en ondernemers ? </span></p> \n<p><span>Kom het waarmaken en help mee bouwen aan de toekomst van VDAB </span></p> \n<p>Een permanente aandacht op privacy en security is een must.</p> \n<p>VDAB investeert in een expertencel, die kan inspelen op vraagstukken, zowel van strategische als van operationele aard. Deze expertencel werkt nauw samen met enerzijds de juridische dienst en de DPO-cel, zonder diens onafhankelijke positie aan te tasten, en anderzijds met betrokken inhoudelijke ontwikkelexperten die betrokken zijn in projecten en opdrachten om nieuw beleid te realiseren.</p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je werkt in de afdeling ‘ontwikkeling van de dienstverlening’, de R&amp;D afdeling van VDAB. Deze afdeling heeft als opdracht om producten, processen en instrumenten te ontwikkelen ter realisatie van de VDAB-opdrachten.</span></p> \n<p><span><span> </span><strong>Wat zal je gaan doen? </strong></span></p> \n<p><span>Je zal (onder andere) instaan voor:</span></p> \n<p><span><span>●\n<span> </span></span></span><span>het analyseren van de concrete projectideeën binnen het kader van de AVG-principes en -verplichtingen in opdracht van programma-, portfolio- of projectmanagement</span></p> \n<p><span><span>●\n<span> </span></span></span><span>het uitwerken van use cases , o.a. ook AI-driven ontwikkelingen </span></p> \n<p><span><span>●\n<span> </span></span></span><span>het opmaken van privacy impact assessment\n<span> </span>door gebruik te maken van de nodige bronnen (contextueel, juridisch, beleidsmatig) </span></p> \n<p><span><span>●\n<span> </span></span></span><span>analyse van en door DPO en/of juridische dienst gedetecteerde issues, topics, … en kadering binnen strategisch-tactische ambities Vlaamse regering en VDAB.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>documenteren en zorgen voor de opbouw van kennisbeheer </span></p> \n<p><span><span>●\n<span> </span></span></span><span>vinden en opbouwen van samenwerkingsopportuniteiten rond concrete topics mbt verwerking van persoonsgegevens </span></p> \n<p><span><span>●\n<span> </span></span></span><span>afstemming en inpassing binnen bredere initiatieven rond data governance </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70541337",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70541337",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Chief Information Officer (Agentschap Natuur en Bos) via Vlaanderen Connect"
-      },
-      "displayTitle": "Chief Information Officer (Agentschap Natuur en Bos) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Inleiding</strong></p> \n<p><span>Bij het agentschap Natuur en Bos zijn we op zoek naar een Chief Information Officer. Heb jij een passie voor digitale transformatie? Wil je bijdragen aan het toekomstbestendig maken van Natuur en Bos en haar nieuwe rol in de samenleving van morgen? Ben je gefascineerd door de uitdagingen van een IT-afdeling in combinatie met een maatschappelijk relevante opdracht? Dan ben jij de Chief Information Officer die wij zoeken!</span></p> \n<p><span>Als Chief Information Officer leid je de afdeling ICT en Innovatie. Je werkt nauw samen met andere afdelingen en richt je binnen je eigen afdeling op het ontwikkelen van innovatieve en kwalitatieve oplossingen voor de diverse uitdagingen binnen ons agentschap en de bredere Vlaamse Overheid.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Agentschap voor Natuur en Bos koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen.</span></p> \n<p><span>Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</span></p> \n<p><span>Van Europese topnatuur op onbetreden plekken tot bescheiden natuurpareltjes vlak bij je voordeur: in de meer dan 300 natuurgebieden van Natuur en Bos valt altijd iets te beleven. Leef je uit op multimovepaden en natuurlopen, ravot in de speelzones, voel je zen in de natuuroases of spot unieke dieren vanaf de uitkijkplatformen. Welkom in de Vlaamse natuur!</span></p> \n<p><strong><span>Onze waarden</span></strong></p> \n<p><span>Onze waarden zijn een drijfveer in onze manier van werken. We doen, we doen het samen en we doen het voor morgen.</span></p> \n<p><span><span>1. </span></span><strong><span>We doen</span></strong><span>: Bij ANB streven we ernaar om altijd ons beste werk te leveren. We zijn toegewijd aan kwaliteit en professionaliteit in alles wat we doen. Onze acties zijn gericht op het behalen van resultaten en het overtreffen van verwachtingen.</span></p> \n<p><span><span>2. </span></span><strong><span>We doen het samen</span></strong><span>: Samenwerking staat centraal in onze aanpak. We geloven dat we door samen te werken sterker staan en betere resultaten kunnen bereiken. Dit geldt niet alleen voor interne samenwerking, maar ook voor externe samenwerking met partners en stakeholders. We waarderen de inbreng van iedereen en werken als één team om onze doelen te bereiken.</span></p> \n<p><span><span>3. </span></span><strong><span>We doen het voor morgen</span></strong><span>: Duurzaamheid en toekomstgericht denken zijn essentieel voor ons. We nemen beslissingen met het oog op de lange termijn en streven naar oplossingen die bijdragen aan een betere toekomst. Innovatie speelt hierbij een cruciale rol; we zijn voortdurend op zoek naar nieuwe en innovatieve manieren om onze doelen te bereiken. Onze inzet voor duurzaamheid en innovatie komt tot uiting in al onze activiteiten en projecten.</span></p> \n<p><span>De Vlaamse overheid is een open en wendbare organisatie die daadkrachtig anticipeert op de evoluties en behoeften in de samenleving. Samen met alle belanghebbenden werken we aan een duurzame dienstverlening in vertrouwen en vanuit het algemeen belang.</span></p>",
-        "htmlEncoded": "<p><strong>Inleiding</strong></p> \n<p><span>Bij het agentschap Natuur en Bos zijn we op zoek naar een Chief Information Officer. Heb jij een passie voor digitale transformatie? Wil je bijdragen aan het toekomstbestendig maken van Natuur en Bos en haar nieuwe rol in de samenleving van morgen? Ben je gefascineerd door de uitdagingen van een IT-afdeling in combinatie met een maatschappelijk relevante opdracht? Dan ben jij de Chief Information Officer die wij zoeken!</span></p> \n<p><span>Als Chief Information Officer leid je de afdeling ICT en Innovatie. Je werkt nauw samen met andere afdelingen en richt je binnen je eigen afdeling op het ontwikkelen van innovatieve en kwalitatieve oplossingen voor de diverse uitdagingen binnen ons agentschap en de bredere Vlaamse Overheid.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Agentschap voor Natuur en Bos koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen.</span></p> \n<p><span>Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</span></p> \n<p><span>Van Europese topnatuur op onbetreden plekken tot bescheiden natuurpareltjes vlak bij je voordeur: in de meer dan 300 natuurgebieden van Natuur en Bos valt altijd iets te beleven. Leef je uit op multimovepaden en natuurlopen, ravot in de speelzones, voel je zen in de natuuroases of spot unieke dieren vanaf de uitkijkplatformen. Welkom in de Vlaamse natuur!</span></p> \n<p><strong><span>Onze waarden</span></strong></p> \n<p><span>Onze waarden zijn een drijfveer in onze manier van werken. We doen, we doen het samen en we doen het voor morgen.</span></p> \n<p><span><span>1. </span></span><strong><span>We doen</span></strong><span>: Bij ANB streven we ernaar om altijd ons beste werk te leveren. We zijn toegewijd aan kwaliteit en professionaliteit in alles wat we doen. Onze acties zijn gericht op het behalen van resultaten en het overtreffen van verwachtingen.</span></p> \n<p><span><span>2. </span></span><strong><span>We doen het samen</span></strong><span>: Samenwerking staat centraal in onze aanpak. We geloven dat we door samen te werken sterker staan en betere resultaten kunnen bereiken. Dit geldt niet alleen voor interne samenwerking, maar ook voor externe samenwerking met partners en stakeholders. We waarderen de inbreng van iedereen en werken als één team om onze doelen te bereiken.</span></p> \n<p><span><span>3. </span></span><strong><span>We doen het voor morgen</span></strong><span>: Duurzaamheid en toekomstgericht denken zijn essentieel voor ons. We nemen beslissingen met het oog op de lange termijn en streven naar oplossingen die bijdragen aan een betere toekomst. Innovatie speelt hierbij een cruciale rol; we zijn voortdurend op zoek naar nieuwe en innovatieve manieren om onze doelen te bereiken. Onze inzet voor duurzaamheid en innovatie komt tot uiting in al onze activiteiten en projecten.</span></p> \n<p><span>De Vlaamse overheid is een open en wendbare organisatie die daadkrachtig anticipeert op de evoluties en behoeften in de samenleving. Samen met alle belanghebbenden werken we aan een duurzame dienstverlening in vertrouwen en vanuit het algemeen belang.</span></p>"
       },
       "locations": [
         {
@@ -3752,6 +3787,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17954",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17954",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudent dienst Agromilieubeleid"
+      },
+      "displayTitle": "Jobstudent dienst Agromilieubeleid",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob? Het Agentschap Landbouw en Zeevisserij zoekt een student om de dienst Agromilieubeleid gedurende de maand augustus te ondersteunen.</p><p>Als jobstudent voer je voornamelijk ondersteunend werk uit en ben je verantwoordelijk voor de volgende taken:&nbsp;</p><p><strong>1) Opzoeken en oplijsten van gebiedsgerichte (landbouw- en milieu-) coalities in de verschillende Vlaamse provincies.&nbsp;</strong></p><ul><li>Naam coalitie</li><li>Welk gebied (gemeenten, provincies, ..) + shapefile om het visueel in kaart te kunnen brengen</li><li>Welke periode</li><li>Welke organisatie is de trekker</li><li>Wie is contactpersoon</li><li>Globale doelstelling (met impact op landbouw)</li><li>Wat is de doelstelling met de landbouwers (korte keten, bodembeheer, waterbeheer, ..en graag ook meer specifiek)</li><li>Indien gekend: hoeveel landbouwers, hoeveel ha</li><li>Hoe worden inspanningen of resultaten gemonitord</li></ul><p><strong>2) Opzoeken en oplijsten van initiatieven rond carbon credits in Vlaanderen, België en de ons omringende lidstaten.</strong></p><ul><li>Via welk platform (publiek/privaat)</li><li>Welke kwaliteitscriteria/metingen</li><li>Welke hoeveelheid, eenheid en vergoeding per eenheid</li><li>Welke duur</li><li>Welke sector/regio/bedrijfsgrootte (capteerder en financierder)</li><li>Wie draagt de risico’s</li><li>Hoeveel overhead</li><li>Telkens ook link of contact naar achterliggende info</li></ul><p>Je kan zelfstandig en zeer nauwkeurig werken.</p><p>Je werkt vanuit Brussel, ons gebouw is makkelijk bereikbaar via het openbaar vervoer.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob? Het Agentschap Landbouw en Zeevisserij zoekt een student om de dienst Agromilieubeleid gedurende de maand augustus te ondersteunen.</p><p>Als jobstudent voer je voornamelijk ondersteunend werk uit en ben je verantwoordelijk voor de volgende taken:&nbsp;</p><p><strong>1) Opzoeken en oplijsten van gebiedsgerichte (landbouw- en milieu-) coalities in de verschillende Vlaamse provincies.&nbsp;</strong></p><ul><li>Naam coalitie</li><li>Welk gebied (gemeenten, provincies, ..) + shapefile om het visueel in kaart te kunnen brengen</li><li>Welke periode</li><li>Welke organisatie is de trekker</li><li>Wie is contactpersoon</li><li>Globale doelstelling (met impact op landbouw)</li><li>Wat is de doelstelling met de landbouwers (korte keten, bodembeheer, waterbeheer, ..en graag ook meer specifiek)</li><li>Indien gekend: hoeveel landbouwers, hoeveel ha</li><li>Hoe worden inspanningen of resultaten gemonitord</li></ul><p><strong>2) Opzoeken en oplijsten van initiatieven rond carbon credits in Vlaanderen, België en de ons omringende lidstaten.</strong></p><ul><li>Via welk platform (publiek/privaat)</li><li>Welke kwaliteitscriteria/metingen</li><li>Welke hoeveelheid, eenheid en vergoeding per eenheid</li><li>Welke duur</li><li>Welke sector/regio/bedrijfsgrootte (capteerder en financierder)</li><li>Wie draagt de risico’s</li><li>Hoeveel overhead</li><li>Telkens ook link of contact naar achterliggende info</li></ul><p>Je kan zelfstandig en zeer nauwkeurig werken.</p><p>Je werkt vanuit Brussel, ons gebouw is makkelijk bereikbaar via het openbaar vervoer.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17953",
       "internal": false,
       "validThroughDate": "1745107200",
@@ -4438,6 +4505,73 @@
       "description": {
         "raw": "<p>Heb jij zin in een nieuwe uitdaging\nbinnen het Departement Kanselarij &amp; Buitenlandse Zaken? Hou&nbsp; je ervan om aan de slag te gaan met een\ndynamisch en gemotiveerd team? Wil je vanuit Vlaanderen op een proactieve manier\nwegen op de agenda van de EU? Heb je een specifieke interesse voor Europees\nbeleid en internationale handelsvraagstukken? Dan is deze vacature misschien\niets voor jou! <br><br>Als\nteamverantwoordelijke voor het team EU &amp; Handel coördineer, coach, begeleid\nen ondersteun je de collega’s. Samen ga je de uitdaging aan om vanuit\nVlaanderen op een proactieve manier mee de Europese en internationale handelsagenda\nte bepalen. Je bent daarbij het aanspreekpunt van en voor het team, je bepaalt\nde prioriteiten en bewaakt het evenwicht in taaklast binnen het team. Je houdt\nhet helikopterzicht en kijkt waar het team zich kan verbeteren. Daarnaast fungeer\nje als inhoudelijk klankbord en neem je ook zelf een beperkt aantal\ninhoudelijke opdrachten op. <br><br>Klaar om jouw leiderschapstalent en kennis van de EU en handel &nbsp;in te zetten voor een dynamisch team en\ninvloedrijk Europees beleid?<br>Ben jij een &nbsp;coachende leidinggevende die een team\ninspireert, een cultuur van vertrouwen creëert en medewerkers motiveert om hun\ntalenten te ontplooien? Heb je inhoudelijke kennis van &nbsp;Europese en internationale handelsvraagstukken?\nDan &nbsp;is dit jouw kans. Solliciteer en\nontdek hoe jouw passie en vaardigheden bijdragen aan ons succes. Samen bouwen\nwe aan een toekomst waarin jouw leiderschap het verschil maakt. <br><br>Klinkt dit als de\ngeknipte job voor jou? Aarzel dan niet en stel je kandidaat.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
         "htmlEncoded": "<p>Heb jij zin in een nieuwe uitdaging\nbinnen het Departement Kanselarij &amp; Buitenlandse Zaken? Hou&nbsp; je ervan om aan de slag te gaan met een\ndynamisch en gemotiveerd team? Wil je vanuit Vlaanderen op een proactieve manier\nwegen op de agenda van de EU? Heb je een specifieke interesse voor Europees\nbeleid en internationale handelsvraagstukken? Dan is deze vacature misschien\niets voor jou! <br><br>Als\nteamverantwoordelijke voor het team EU &amp; Handel coördineer, coach, begeleid\nen ondersteun je de collega’s. Samen ga je de uitdaging aan om vanuit\nVlaanderen op een proactieve manier mee de Europese en internationale handelsagenda\nte bepalen. Je bent daarbij het aanspreekpunt van en voor het team, je bepaalt\nde prioriteiten en bewaakt het evenwicht in taaklast binnen het team. Je houdt\nhet helikopterzicht en kijkt waar het team zich kan verbeteren. Daarnaast fungeer\nje als inhoudelijk klankbord en neem je ook zelf een beperkt aantal\ninhoudelijke opdrachten op. <br><br>Klaar om jouw leiderschapstalent en kennis van de EU en handel &nbsp;in te zetten voor een dynamisch team en\ninvloedrijk Europees beleid?<br>Ben jij een &nbsp;coachende leidinggevende die een team\ninspireert, een cultuur van vertrouwen creëert en medewerkers motiveert om hun\ntalenten te ontplooien? Heb je inhoudelijke kennis van &nbsp;Europese en internationale handelsvraagstukken?\nDan &nbsp;is dit jouw kans. Solliciteer en\nontdek hoe jouw passie en vaardigheden bijdragen aan ons succes. Samen bouwen\nwe aan een toekomst waarin jouw leiderschap het verschil maakt. <br><br>Klinkt dit als de\ngeknipte job voor jou? Aarzel dan niet en stel je kandidaat.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17777",
+      "internal": false,
+      "validThroughDate": "1744761600",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17777",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Data- en rapportagebeheerder sociale huur"
+      },
+      "displayTitle": "Data- en rapportagebeheerder sociale huur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p><span>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Woonbeleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</span></p> <p><span>Als data- en rapportagebeheerder sociale huur maak je deel uit van <b>de dienst Huur’ in de afdeling Klantenondersteuning die de woonmaatschappijen en lokale besturen ondersteunt op vlak van sociale huur. </b>Om woonmaatschappijen en lokale besturen goed te kunnen ondersteunen en ter ondersteuning van nieuwe beleidstrajecten, is het belangrijk dat we zicht hebben op de werking van de woonmaatschappijen en hun kandidaat-huurders en huurders, maar ook dat we de woonmaatschappijen de nodige inzichten en rapporten aanreiken om hun werking te verbeteren.</span></p> <p><b><span>Jouw rol als data- en rapportagebeheerder sociale huur kan hiertoe bijdragen!</span></b><span> Hier zijn een aantal taken die je op jou zal nemen:</span></p><ul><li><span>Je zorgt voor het verzamelen, beheren, organiseren en optimaliseren van informatie en gegevens over (kandidaat-)huurders.&nbsp;</span></li></ul><ul><li><span>Je maakt de data beschikbaar volgens de interne noden en deze van de woonmaatschappijen, voor verschillende doeleinden zoals rapportage, beleidsondersteuning, operationele werking etc.</span></li></ul><ul><li><span>Je vindt je weg in een complex datalandschap en vertaalt dit naar cijfers en rapporten die voor de business duidelijk en inzichtelijk zijn.</span><span>Je verschaft inzicht in de wachtlijst voor een sociale woning vanuit het centraal inschrijvingsregister, waar kandidaat-huurders zich kunnen inschrijven voor een sociale woning. We willen weten hoeveel kandidaten er op de wachtlijst staan, hoeveel er geschrapt zijn (en waarom), hun gezinssamenstelling, hun voorkeuren qua woning en regio, etc. Uiteraard zijn evoluties en tendensen ook belangrijk. Al deze informatie geeft belangrijke inzichten om onze ondersteuning te verbeteren en beleidstrajecten op af te stemmen.</span></li><li><span>&nbsp;</span>Je zorgt dat de woonmaatschappijen inzicht hebben in hun kandidaathuurderslijsten om te gebruiken in hun operationele werking en als algemene rapportering. Dit doe je via een periodieke operationele rapportering vanuit het centraal inschrijvingsregister.</li><li>Daarnaast beheer en analyseer je ook de gegevens van de sociale huurders. Aangezien deze momenteel niet centraal geregistreerd staan, bevraag je deze periodiek bij de woonmaatschappijen en verwerk je ze tot gestructureerde en betrouwbare data. Ondertussen werk je mee aan een centraal huurdersregister als centraal datasysteem om huurdersgegevens te beheren.Je ondersteunt de afdeling Klantenondersteuning bij het verzamelen en ontsluiten van gegevens.<ul><li>Je detecteert de rapporteringsbehoeften in de afdeling, bij de woonmaatschappijen en bij Woonbeleid in kader van beleidstrajecten.</li><li>Je houdt het overzicht over de beschikbare rapporten.</li><li>Je ontwikkelt op vraag van collega’s nieuwe rapporten.</li><li>Je staat in voor de update van rapporten en controleert op nauwkeurigheid.</li><li>Je voert controle op datakwaliteit.</li><li>Je zorgt voor rapportering en visualisering in Power BI.</li><li>Je beantwoordt parlementaire vragen over sociale huurders en kandidaat-huurders</li><li>Je werkt samen met collega’s van andere afdelingen om het databeheer binnen Wonen in Vlaanderen op punt te stellen (o.a. project beleidsdata)</li></ul></li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p><span>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</span></p> <p><span>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Woonbeleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</span></p> <p><span>Als data- en rapportagebeheerder sociale huur maak je deel uit van <b>de dienst Huur’ in de afdeling Klantenondersteuning die de woonmaatschappijen en lokale besturen ondersteunt op vlak van sociale huur. </b>Om woonmaatschappijen en lokale besturen goed te kunnen ondersteunen en ter ondersteuning van nieuwe beleidstrajecten, is het belangrijk dat we zicht hebben op de werking van de woonmaatschappijen en hun kandidaat-huurders en huurders, maar ook dat we de woonmaatschappijen de nodige inzichten en rapporten aanreiken om hun werking te verbeteren.</span></p> <p><b><span>Jouw rol als data- en rapportagebeheerder sociale huur kan hiertoe bijdragen!</span></b><span> Hier zijn een aantal taken die je op jou zal nemen:</span></p><ul><li><span>Je zorgt voor het verzamelen, beheren, organiseren en optimaliseren van informatie en gegevens over (kandidaat-)huurders.&nbsp;</span></li></ul><ul><li><span>Je maakt de data beschikbaar volgens de interne noden en deze van de woonmaatschappijen, voor verschillende doeleinden zoals rapportage, beleidsondersteuning, operationele werking etc.</span></li></ul><ul><li><span>Je vindt je weg in een complex datalandschap en vertaalt dit naar cijfers en rapporten die voor de business duidelijk en inzichtelijk zijn.</span><span>Je verschaft inzicht in de wachtlijst voor een sociale woning vanuit het centraal inschrijvingsregister, waar kandidaat-huurders zich kunnen inschrijven voor een sociale woning. We willen weten hoeveel kandidaten er op de wachtlijst staan, hoeveel er geschrapt zijn (en waarom), hun gezinssamenstelling, hun voorkeuren qua woning en regio, etc. Uiteraard zijn evoluties en tendensen ook belangrijk. Al deze informatie geeft belangrijke inzichten om onze ondersteuning te verbeteren en beleidstrajecten op af te stemmen.</span></li><li><span>&nbsp;</span>Je zorgt dat de woonmaatschappijen inzicht hebben in hun kandidaathuurderslijsten om te gebruiken in hun operationele werking en als algemene rapportering. Dit doe je via een periodieke operationele rapportering vanuit het centraal inschrijvingsregister.</li><li>Daarnaast beheer en analyseer je ook de gegevens van de sociale huurders. Aangezien deze momenteel niet centraal geregistreerd staan, bevraag je deze periodiek bij de woonmaatschappijen en verwerk je ze tot gestructureerde en betrouwbare data. Ondertussen werk je mee aan een centraal huurdersregister als centraal datasysteem om huurdersgegevens te beheren.Je ondersteunt de afdeling Klantenondersteuning bij het verzamelen en ontsluiten van gegevens.<ul><li>Je detecteert de rapporteringsbehoeften in de afdeling, bij de woonmaatschappijen en bij Woonbeleid in kader van beleidstrajecten.</li><li>Je houdt het overzicht over de beschikbare rapporten.</li><li>Je ontwikkelt op vraag van collega’s nieuwe rapporten.</li><li>Je staat in voor de update van rapporten en controleert op nauwkeurigheid.</li><li>Je voert controle op datakwaliteit.</li><li>Je zorgt voor rapportering en visualisering in Power BI.</li><li>Je beantwoordt parlementaire vragen over sociale huurders en kandidaat-huurders</li><li>Je werkt samen met collega’s van andere afdelingen om het databeheer binnen Wonen in Vlaanderen op punt te stellen (o.a. project beleidsdata)</li></ul></li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17776",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17776",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudenten Verenigingsloket"
+      },
+      "displayTitle": "Jobstudenten Verenigingsloket",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij op zoek naar een boeiende studentenjob? Het Departement Cultuur, Jeugd en Media zoekt een enthousiaste jobstudent om het team Transversaal Beleid te versterken en mee te werken aan de optimalisering van het Verenigingsloket!</p><p>Wat is het Verenigingsloket? Het Verenigingsloket is een innovatief digitaal platform dat alle (overheids)dienstverlening en informatie voor verenigingen bundelt en digitaliseert. Ons doel? De administratieve rompslomp verminderen, zodat verenigingen zich kunnen focussen op hun kernactiviteiten.</p><p>Jouw taken:</p><ul><li>Analyseren van decreten, reglementen en andere wetgevende of administratieve documenten.</li><li>Detecteren van voorwaarden en criteria in deze documenten.</li><li>Opstellen van een gestructureerd overzicht in Excel volgens een uitgewerkte procedure.</li></ul><p>Deze informatie zal enerzijds ingezet worden ter ondersteuning van nieuwe functionaliteiten op het Verenigingsloket: verenigingen op maat informeren over de relevante dienstverlening. Anderzijds gaan we op basis van deze input onderzoeken wat er nodig is voor het trainen van een AI-systeem dat voorwaarden uit reglementen distilleert.</p><p>Je zal 30 werkdagen werken bij voorkeur in de periode mei-juni. In de zomervakantie is ook een mogelijkheid. Je tewerkstellingspercentage en de dagen waarop je werkt kunnen in onderling overleg bepaald worden.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij op zoek naar een boeiende studentenjob? Het Departement Cultuur, Jeugd en Media zoekt een enthousiaste jobstudent om het team Transversaal Beleid te versterken en mee te werken aan de optimalisering van het Verenigingsloket!</p><p>Wat is het Verenigingsloket? Het Verenigingsloket is een innovatief digitaal platform dat alle (overheids)dienstverlening en informatie voor verenigingen bundelt en digitaliseert. Ons doel? De administratieve rompslomp verminderen, zodat verenigingen zich kunnen focussen op hun kernactiviteiten.</p><p>Jouw taken:</p><ul><li>Analyseren van decreten, reglementen en andere wetgevende of administratieve documenten.</li><li>Detecteren van voorwaarden en criteria in deze documenten.</li><li>Opstellen van een gestructureerd overzicht in Excel volgens een uitgewerkte procedure.</li></ul><p>Deze informatie zal enerzijds ingezet worden ter ondersteuning van nieuwe functionaliteiten op het Verenigingsloket: verenigingen op maat informeren over de relevante dienstverlening. Anderzijds gaan we op basis van deze input onderzoeken wat er nodig is voor het trainen van een AI-systeem dat voorwaarden uit reglementen distilleert.</p><p>Je zal 30 werkdagen werken bij voorkeur in de periode mei-juni. In de zomervakantie is ook een mogelijkheid. Je tewerkstellingspercentage en de dagen waarop je werkt kunnen in onderling overleg bepaald worden.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -7007,41 +7141,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-16451",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Eigen Vermogen Xperta",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-16451",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Topograaf"
-      },
-      "displayTitle": "Topograaf",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij graag buiten en heb je een passie voor nauwkeurige metingen? Bij Eigen Vermogen Xperta krijg je de kans om als topograaf een cruciale rol te spelen in het realiseren en onderhouden van infrastructuurprojecten in Vlaanderen. Je zult voornamelijk in het veld werken, waar je topografische metingen uitvoert voor diverse infrastructuurwerken zoals wegen, bruggen, sluizen en stranden. Daarnaast verwerk je data en voer je administratieve taken uit, zowel thuis als op kantoor.</div><div>&nbsp;</div><div>Je bent verantwoordelijk voor je eigen planning en houdt rekening met deadlines en weersomstandigheden. Je werkt over heel Vlaanderen en maakt regelmatig lange verplaatsingen. Minstens twee halve dagen per maand kom je naar Brussel om je collega’s te ontmoeten en samen te werken. Samen met partners zoals het Agentschap Wegen en Verkeer en De Vlaamse Waterweg, draag je bij aan belangrijke infrastructuurprojecten.</div><div>&nbsp;</div><div>Leergierigheid en een innovatieve instelling zijn essentieel in deze rol. Bij Eigen Vermogen Xperta krijg je de vrijheid om je werk zelfstandig in te delen en te plannen. We moedigen je aan om voortdurend nieuwe kennis en vaardigheden op te doen en creatieve oplossingen te bedenken voor complexe problemen. Dit helpt niet alleen bij je persoonlijke ontwikkeling, maar draagt ook bij aan de vooruitgang en innovatie binnen ons team en de projecten waaraan we werken.</div><div>&nbsp;</div><div><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></div>",
-        "htmlEncoded": "<div>Ben jij graag buiten en heb je een passie voor nauwkeurige metingen? Bij Eigen Vermogen Xperta krijg je de kans om als topograaf een cruciale rol te spelen in het realiseren en onderhouden van infrastructuurprojecten in Vlaanderen. Je zult voornamelijk in het veld werken, waar je topografische metingen uitvoert voor diverse infrastructuurwerken zoals wegen, bruggen, sluizen en stranden. Daarnaast verwerk je data en voer je administratieve taken uit, zowel thuis als op kantoor.</div><div>&nbsp;</div><div>Je bent verantwoordelijk voor je eigen planning en houdt rekening met deadlines en weersomstandigheden. Je werkt over heel Vlaanderen en maakt regelmatig lange verplaatsingen. Minstens twee halve dagen per maand kom je naar Brussel om je collega’s te ontmoeten en samen te werken. Samen met partners zoals het Agentschap Wegen en Verkeer en De Vlaamse Waterweg, draag je bij aan belangrijke infrastructuurprojecten.</div><div>&nbsp;</div><div>Leergierigheid en een innovatieve instelling zijn essentieel in deze rol. Bij Eigen Vermogen Xperta krijg je de vrijheid om je werk zelfstandig in te delen en te plannen. We moedigen je aan om voortdurend nieuwe kennis en vaardigheden op te doen en creatieve oplossingen te bedenken voor complexe problemen. Dit helpt niet alleen bij je persoonlijke ontwikkeling, maar draagt ook bij aan de vooruitgang en innovatie binnen ons team en de projecten waaraan we werken.</div><div>&nbsp;</div><div><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
