@@ -1,10 +1,10 @@
 {
-  "totalItems": 208,
+  "totalItems": 211,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 207,
+  "lastItemOfPage": 210,
   "items": [
     {
       "link": "/Job/vdab-70714324",
@@ -3747,6 +3747,102 @@
         {
           "address": {
             "city": "Denderleeuw"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17971",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17971",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudent voor dossierbehandeling burgercontact en bezwaren te Aalst"
+      },
+      "displayTitle": "Jobstudent voor dossierbehandeling burgercontact en bezwaren te Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?</p><p>De Vlaamse Belastingdienst zoekt studenten voor de afdeling burgercontact en bezwaren tijdens de periode september.</p><p>Binnen de afdeling burgercontact en bezwaren van de Vlaamse Belastingdienst worden volgende taken opgenomen:</p><ul><li>Telefonische dienstverlening aan burgers</li><li>Burgers ontvangen aan de loketten</li><li>Mails en vragen behandelen van burgers</li><li>Behandelen van complexere dossiers (vb. bezwaren, aanvragen vrijstelling, afbetalingsplan,…)</li><li>Uitvoeren taken voor erfbelasting, registratiebelasting (verkooprecht, hypotheekrecht, verdeelrecht, schenkbelasting), onroerende voorheffing, verkeersbelastingen (jaarlijkse verkeersbelasting, belasting op inverkeerstelling, aanvullende verkeersbelasting, kilometerheffing), verkrottingsheffing woningen, leegstandsheffing bedrijfsruimten, planbatenheffing, spelen en weddenschappen en automatische ontspanningstoestellen</li></ul><p><strong>Als jobstudent dossierbehandelaar burgercontact en bezwaren ben je verantwoordelijk voor de verwerking van dossiers inzake onroerende voorheffing.</strong></p>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?</p><p>De Vlaamse Belastingdienst zoekt studenten voor de afdeling burgercontact en bezwaren tijdens de periode september.</p><p>Binnen de afdeling burgercontact en bezwaren van de Vlaamse Belastingdienst worden volgende taken opgenomen:</p><ul><li>Telefonische dienstverlening aan burgers</li><li>Burgers ontvangen aan de loketten</li><li>Mails en vragen behandelen van burgers</li><li>Behandelen van complexere dossiers (vb. bezwaren, aanvragen vrijstelling, afbetalingsplan,…)</li><li>Uitvoeren taken voor erfbelasting, registratiebelasting (verkooprecht, hypotheekrecht, verdeelrecht, schenkbelasting), onroerende voorheffing, verkeersbelastingen (jaarlijkse verkeersbelasting, belasting op inverkeerstelling, aanvullende verkeersbelasting, kilometerheffing), verkrottingsheffing woningen, leegstandsheffing bedrijfsruimten, planbatenheffing, spelen en weddenschappen en automatische ontspanningstoestellen</li></ul><p><strong>Als jobstudent dossierbehandelaar burgercontact en bezwaren ben je verantwoordelijk voor de verwerking van dossiers inzake onroerende voorheffing.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17968",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17968",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudent voor de postverwerking te Aalst"
+      },
+      "displayTitle": "Jobstudent voor de postverwerking te Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?&nbsp;</p><p>De Vlaamse Belastingdienst zoekt studenten voor de dienst facility binnen de afdeling stafdiensten, meer&nbsp; specifiek voor het team <strong>postverwerking </strong>en dit tijdens de periode juli, augustus en september. Als jobstudent postverwerker binnen de Vlaamse Belastingendienst sta je mee in voor de administratieve&nbsp;verwerking van in- en uitgaande briefwisseling.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?&nbsp;</p><p>De Vlaamse Belastingdienst zoekt studenten voor de dienst facility binnen de afdeling stafdiensten, meer&nbsp; specifiek voor het team <strong>postverwerking </strong>en dit tijdens de periode juli, augustus en september. Als jobstudent postverwerker binnen de Vlaamse Belastingendienst sta je mee in voor de administratieve&nbsp;verwerking van in- en uitgaande briefwisseling.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17963",
+      "internal": false,
+      "validThroughDate": "1743897600",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17963",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Jobstudent voor de balie in het kantoor te Aalst"
+      },
+      "displayTitle": "Jobstudent voor de balie in het kantoor te Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?</p><p>De Vlaamse Belastingdienst zoekt studenten voor de afdeling burgercontact en bezwaren tijdens de periode juli, augustus en september.</p><p>Binnen de afdeling burgercontact en bezwaren van de Vlaamse Belastingdienst worden volgende taken opgenomen:</p><ul><li>Telefonische dienstverlening aan burgers</li><li>Burgers ontvangen aan de loketten</li><li>Mails en vragen behandelen van burgers</li><li>Behandelen van complexere dossiers (vb. bezwaren, aanvragen vrijstelling, afbetalingsplan,…)</li><li>Uitvoeren taken voor erfbelasting, registratiebelasting (verkooprecht, hypotheekrecht, verdeelrecht, schenkbelasting), onroerende voorheffing, verkeersbelastingen (jaarlijkse verkeersbelasting, belasting op inverkeerstelling, aanvullende verkeersbelasting, kilometerheffing), verkrottingsheffing woningen, leegstandsheffing bedrijfsruimten, planbatenheffing, spelen en weddenschappen en automatische ontspanningstoestellen</li></ul><p><strong>Als jobstudent sta je in als onthaalmedewerker aan de balie in het kantoor te Aalst, waar je burgers te woord staat en verder begeleidt naar de collega dossierbehandelaars aan het loket.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob?</p><p>De Vlaamse Belastingdienst zoekt studenten voor de afdeling burgercontact en bezwaren tijdens de periode juli, augustus en september.</p><p>Binnen de afdeling burgercontact en bezwaren van de Vlaamse Belastingdienst worden volgende taken opgenomen:</p><ul><li>Telefonische dienstverlening aan burgers</li><li>Burgers ontvangen aan de loketten</li><li>Mails en vragen behandelen van burgers</li><li>Behandelen van complexere dossiers (vb. bezwaren, aanvragen vrijstelling, afbetalingsplan,…)</li><li>Uitvoeren taken voor erfbelasting, registratiebelasting (verkooprecht, hypotheekrecht, verdeelrecht, schenkbelasting), onroerende voorheffing, verkeersbelastingen (jaarlijkse verkeersbelasting, belasting op inverkeerstelling, aanvullende verkeersbelasting, kilometerheffing), verkrottingsheffing woningen, leegstandsheffing bedrijfsruimten, planbatenheffing, spelen en weddenschappen en automatische ontspanningstoestellen</li></ul><p><strong>Als jobstudent sta je in als onthaalmedewerker aan de balie in het kantoor te Aalst, waar je burgers te woord staat en verder begeleidt naar de collega dossierbehandelaars aan het loket.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
           }
         }
       ]
