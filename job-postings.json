@@ -1,11 +1,81 @@
 {
-  "totalItems": 204,
+  "totalItems": 207,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 203,
+  "lastItemOfPage": 206,
   "items": [
+    {
+      "link": "/Job/vdab-70720934",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70720934",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "verpleegkundigen"
+      },
+      "displayTitle": "verpleegkundigen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Onze verpleegkundige troef</p> \n<p> </p> \n<p>Je bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul> \n<p> </p>",
+        "htmlEncoded": "<p>Onze verpleegkundige troef</p> \n<p> </p> \n<p>Je bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70717508",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70717508",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Data Analist Medior (Dept. Omgeving) via Vlaanderen Connect"
+      },
+      "displayTitle": "Data Analist Medior (Dept. Omgeving) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als Data Analsyst bij het DataTeam van het Departement Omgeving help je mee met het doorvertalen van business vereisten naar concrete rapporterings- en dashboardoplossingen (voornamelijk in Qlik). </span></p> \n<p><span>Je ondersteunt de business met het opstellen van projectdefinities en voert hierbij zowel business als functionele analyses uit, met als focus het uitklaren van het rapporteringsluik van de projecten. Je voert hiervoor een adequate, gestructureerde en coherente doorvertaling uit van de vereisten in overeenstemming met de standaarden, architectuurkeuzes en specificaties van bestaande applicaties.</span></p> \n<p>Op basis van deze analyses ontwerp je dashboards, maak je wijzigingen aan bepaalde applicaties, stel je rapporten op… die vervolgens door business gebruikt kunnen worden om (beleids)wijzigingen door te voeren en/of data voor de burger ter beschikking te stellen.</p> \n<p> \n<strong>Jouw toekomstig team</strong></p> \n<p><span>Je werkt bij Team Digitalisering van het departement Omgeving.</span></p> \n<p><span>Het departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</span></p> \n<p><span>Team Digitalisering staat binnen het departement Omgeving in voor het digitaliseren van dienstverlening en data. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. Als teamlid van het Dataplatform werk je samen met verschillende sub-teams binnen Team Digitalisering en potentiële afnemers van data binnen en buiten de organisatie.</span></p> \n<p><span>Team Digitalisering heeft een 100-tal medewerkers die gebaseerd zijn in Brussel.</span></p> \n<p><span>Binnen de het digitaliseringsteam is het Datateam verantwoordelijk voor het co-creëren van transformatieve dataproducten (ETL, linked open data,…) voor alle businessdomeinen. We bestrijken het volledige bereik van Departement Omgeving: data-analyses op het vlak van beleidsvorming, toekenning van vergunningen, monitoring en handhaving zijn aan de orde. We staan aan het begin van de invoering van AI en machine learning.</span></p> \n<p><strong><span>Waar ga je werken</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord. Momenteel is het Herman Teirlinckgebouw onze standplaats</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als Data Analsyst bij het DataTeam van het Departement Omgeving help je mee met het doorvertalen van business vereisten naar concrete rapporterings- en dashboardoplossingen (voornamelijk in Qlik). </span></p> \n<p><span>Je ondersteunt de business met het opstellen van projectdefinities en voert hierbij zowel business als functionele analyses uit, met als focus het uitklaren van het rapporteringsluik van de projecten. Je voert hiervoor een adequate, gestructureerde en coherente doorvertaling uit van de vereisten in overeenstemming met de standaarden, architectuurkeuzes en specificaties van bestaande applicaties.</span></p> \n<p>Op basis van deze analyses ontwerp je dashboards, maak je wijzigingen aan bepaalde applicaties, stel je rapporten op… die vervolgens door business gebruikt kunnen worden om (beleids)wijzigingen door te voeren en/of data voor de burger ter beschikking te stellen.</p> \n<p> \n<strong>Jouw toekomstig team</strong></p> \n<p><span>Je werkt bij Team Digitalisering van het departement Omgeving.</span></p> \n<p><span>Het departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</span></p> \n<p><span>Team Digitalisering staat binnen het departement Omgeving in voor het digitaliseren van dienstverlening en data. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. Als teamlid van het Dataplatform werk je samen met verschillende sub-teams binnen Team Digitalisering en potentiële afnemers van data binnen en buiten de organisatie.</span></p> \n<p><span>Team Digitalisering heeft een 100-tal medewerkers die gebaseerd zijn in Brussel.</span></p> \n<p><span>Binnen de het digitaliseringsteam is het Datateam verantwoordelijk voor het co-creëren van transformatieve dataproducten (ETL, linked open data,…) voor alle businessdomeinen. We bestrijken het volledige bereik van Departement Omgeving: data-analyses op het vlak van beleidsvorming, toekenning van vergunningen, monitoring en handhaving zijn aan de orde. We staan aan het begin van de invoering van AI en machine learning.</span></p> \n<p><strong><span>Waar ga je werken</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord. Momenteel is het Herman Teirlinckgebouw onze standplaats</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70717369",
       "internal": false,
@@ -277,6 +347,41 @@
       "description": {
         "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Wil je als business analist een sleutelrol spelen in de digitalisering van VDAB en zo de dienstverlening aan burgers en werkgevers op het vlak van begeleiding, opleiding en werkplekleren verbeteren? Bij VDAB werk je aan projecten die écht impact hebben op de samenleving! Dankzij jouw werk help je burgers die hun competenties verder willen ontwikkelen sneller aan de juiste opleiding en kunnen bedrijven zo makkelijker talent aantrekken.</span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>VDAB is de specialist in werk om mensen te matchen met de juiste job. VDAB heeft de ambitie om elke burger een loopbaanperspectief en loopbaaneigenaarschap te bieden, elk talent aan de slag te krijgen en elke werkgever een perspectief op talent te bieden. Voor burgers die niet meteen matchbaar zijn met een vacature, voorziet VDAB in een dienstverleningsaanbod om de kloof met een job te dichten. Dit kan bestaan uit intensieve begeleiding en/of competentieontwikkeling door middel van opleiding en werkplekleren. Jouw job als business analist bestaat erin mee te werken aan de vernieuwing en verbetering van deze processen en applicaties. Daarnaast help je ook mee aan de implementatie van nieuw beleid. </span></p> \n<p><span>VDAB streeft ernaar zijn dienstverlening continu te blijven verbeteren op basis van klantenfeedback en hierbij gebruik te maken van nieuwe technologieën en data. Je komt terecht in een gedreven en hecht team van business experten en analisten, waar kennisdeling en samenwerking centraal staan, met het oog op het creëren van een naadloze gebruikerservaring en het streven naar (administratieve) eenvoud.</span></p> \n<p><span>Binnen dit team werk je mee aan de realisatie van de roadmaps, die tot doel hebben om de applicaties en processen voor het aanbod aan begeleiding, opleiding en werkplekleren te vernieuwen. De projecten waarvoor je zal ingezet worden, kunnen in eerste instantie betrekking hebben op:</span></p> \n<ul> \n<li><span>de implementatie van nieuwe catalogi om het begeleidings- en opleidingsaanbod te beheren en te ontsluiten;</span></li> \n<li><span>het verzamelen van requirements en het uitvoeren van de analyse om de planningstool voor opleidingen binnen het training management system (TMS) te configureren;</span></li> \n<li><span>het uittekenen van vernieuwde klantprocessen - vanaf de aanvraag van een opleiding of andere dienst tot aan de uitstroom - en de ontwikkeling van de bijhorende ondersteunende applicaties;</span></li> \n<li><span>de optimalisatie van het leerplatform en de ontsluiting van leerdata om tot een betere gebruikerservaring te komen;</span></li> \n<li><span>ontwikkelingen in het kader van de ondersteunende, backofficeprocessen, bijvoorbeeld in functie van het correct toekennen van incentives of het opzetten van informatiestromen;</span></li> \n<li><span>de implementatie van nieuw beleid.</span></li> </ul>",
         "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>Wil je als business analist een sleutelrol spelen in de digitalisering van VDAB en zo de dienstverlening aan burgers en werkgevers op het vlak van begeleiding, opleiding en werkplekleren verbeteren? Bij VDAB werk je aan projecten die écht impact hebben op de samenleving! Dankzij jouw werk help je burgers die hun competenties verder willen ontwikkelen sneller aan de juiste opleiding en kunnen bedrijven zo makkelijker talent aantrekken.</span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>VDAB is de specialist in werk om mensen te matchen met de juiste job. VDAB heeft de ambitie om elke burger een loopbaanperspectief en loopbaaneigenaarschap te bieden, elk talent aan de slag te krijgen en elke werkgever een perspectief op talent te bieden. Voor burgers die niet meteen matchbaar zijn met een vacature, voorziet VDAB in een dienstverleningsaanbod om de kloof met een job te dichten. Dit kan bestaan uit intensieve begeleiding en/of competentieontwikkeling door middel van opleiding en werkplekleren. Jouw job als business analist bestaat erin mee te werken aan de vernieuwing en verbetering van deze processen en applicaties. Daarnaast help je ook mee aan de implementatie van nieuw beleid. </span></p> \n<p><span>VDAB streeft ernaar zijn dienstverlening continu te blijven verbeteren op basis van klantenfeedback en hierbij gebruik te maken van nieuwe technologieën en data. Je komt terecht in een gedreven en hecht team van business experten en analisten, waar kennisdeling en samenwerking centraal staan, met het oog op het creëren van een naadloze gebruikerservaring en het streven naar (administratieve) eenvoud.</span></p> \n<p><span>Binnen dit team werk je mee aan de realisatie van de roadmaps, die tot doel hebben om de applicaties en processen voor het aanbod aan begeleiding, opleiding en werkplekleren te vernieuwen. De projecten waarvoor je zal ingezet worden, kunnen in eerste instantie betrekking hebben op:</span></p> \n<ul> \n<li><span>de implementatie van nieuwe catalogi om het begeleidings- en opleidingsaanbod te beheren en te ontsluiten;</span></li> \n<li><span>het verzamelen van requirements en het uitvoeren van de analyse om de planningstool voor opleidingen binnen het training management system (TMS) te configureren;</span></li> \n<li><span>het uittekenen van vernieuwde klantprocessen - vanaf de aanvraag van een opleiding of andere dienst tot aan de uitstroom - en de ontwikkeling van de bijhorende ondersteunende applicaties;</span></li> \n<li><span>de optimalisatie van het leerplatform en de ontsluiting van leerdata om tot een betere gebruikerservaring te komen;</span></li> \n<li><span>ontwikkelingen in het kader van de ondersteunende, backofficeprocessen, bijvoorbeeld in functie van het correct toekennen van incentives of het opzetten van informatiestromen;</span></li> \n<li><span>de implementatie van nieuw beleid.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70686220",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70686220",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Information Security Officer - ICT-raamcontracten (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Information Security Officer - ICT-raamcontracten (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>"
       },
       "locations": [
         {
@@ -5233,9 +5338,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "Teamverantwoordelijke lokalen dienstverlening - Kind en Gezin"
+        "htmlEncoded": "Teamverantwoordelijke lokale dienstverlening - Kind en Gezin"
       },
-      "displayTitle": "Teamverantwoordelijke lokalen dienstverlening - Kind en Gezin",
+      "displayTitle": "Teamverantwoordelijke lokale dienstverlening - Kind en Gezin",
       "isProtected": false,
       "description": {
         "raw": "Krijg jij energie van mensen aansturen en coachen? Heb je een warm hart voor je eigen team en (toekomstige) gezinnen met jonge kinderen? Wil jij je leiderschapskwaliteiten inzetten in een job met maatschappelijke impact? Dan ben jij de collega die wij zoeken! <br><br><div>Als teamverantwoordelijke bij Kind en Gezin ben jij de motor achter een goed functionerend team. Je begeleidt, organiseert en ondersteunt jouw medewerkers, zodat zij de beste zorg en ondersteuning kunnen bieden aan gezinnen. Dankzij jouw inspanningen zorgen we voor een kwaliteitsvolle, klantgerichte dienstverlening die gezinnen in hun kracht zet. <br><br></div><div>Wat maakt deze job zo bijzonder? Kind en Gezin biedt (aanstaande) ouders en gezinnen met jonge kinderen gratis en laagdrempelige begeleiding via huisbezoeken en consultaties. De Kind en Gezin teams geven advies en ondersteuning rond gezondheid, ontwikkeling en opvoeding, met bijzondere aandacht voor preventieve zorg, zoals vaccinaties en vroege detectie van ontwikkelingsrisico’s. We werken samen met lokale partners aan een geïntegreerd gezinsbeleid en focussen op thema’s zoals bestrijden van kinderarmoede, opvoedingsondersteuning, ontwikkeling en ouderschap, medische preventie en preventie kindermishandeling.&nbsp;<br><br></div><div>Als teamverantwoordelijke zal je leidinggeven aan 2 teams. Deze teams bestaan samen uit een 30 tot 45 tal werknemers van Opgroeien en zijn op twee manieren samengesteld: de lokale Kind en Gezin-teams&nbsp;bestaan uit verpleegkundigen, sociaal werkers en gezinsondersteuners (multi-expertise teams). <br><br></div><div>De provinciale teams bestaan uit psychologen en/of pedagogen die in gezinnen aan de slag gaan rond thema’s als ouderschap en opvoedingsondersteuning, van basisondersteuning tot hulp bij verontrusting en daarnaast ook collega’s uit Kind en Gezin teams adviseren en ondersteunen. <br><br></div><div>Momenteel zoeken we 4 teamverantwoordelijken voor de volgende teams:&nbsp;</div><div>- 2 lokale Kind en Gezin-teams regio’s Aalst en Dendermonde (80%)&nbsp;</div><div>- 2 lokale Kind en Gezin-teams ten zuiden van stad Antwerpen: regio’s Puurs-St-Amands tot Wommelgem (80%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Antwerpen Centrum en een Antwerps (provinciaal) team van psychopedagogen (100%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Haspengouw (Sint-Truiden tot Voeren) en een Limburgs (provinciaal) team van psychopedagogen (80%)</div><p>Pluspunten voor deze functie?<br>- Je hebt bij voorkeur leidinggevende ervaring in de sociale of gezondheidssector<br>- Om een team psychopedagogen aan te sturen, heb je bij voorkeur kennis van pedagogische thema’s en verontrusting<br>- Je beschikt over een rijbewijs B</p><div><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p></div>",
@@ -6646,11 +6751,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
