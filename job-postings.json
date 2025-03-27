@@ -1,10 +1,10 @@
 {
-  "totalItems": 213,
+  "totalItems": 215,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 212,
+  "lastItemOfPage": 214,
   "items": [
     {
       "link": "/Job/vdab-70730458",
@@ -3752,6 +3752,83 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18160",
+      "internal": false,
+      "validThroughDate": "1744156800",
+      "hiringOrganization": "Agentschap voor Natuur en Bos",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18160",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "jobstudent als projectmedewerker voor bestrijding invasieve soorten"
+      },
+      "displayTitle": "jobstudent als projectmedewerker voor bestrijding invasieve soorten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je 1 of 2 maal per maand, 2 dagen per week vrij (1 dag in de namiddag en de dag erna in de voormiddag)?</p><p>Wij zoeken een jobstudent voor het plaatsen en legen van fuiken in het grachtensysteem te Bocholt met als doel het wegvangen van de Noord-Aziatische modderkruiper. Fuiken moeten worden geplaatst en ’s anderendaags worden geledigd en verwijderd. De vangst en bijvangst moet worden geregistreerd evenals abiotische parameters. Noord-Aziatische modderkruipers en andere exotische vissoorten moeten geëuthanaseerd en gestockeerd worden voor verder onderzoek.</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je 1 of 2 maal per maand, 2 dagen per week vrij (1 dag in de namiddag en de dag erna in de voormiddag)?</p><p>Wij zoeken een jobstudent voor het plaatsen en legen van fuiken in het grachtensysteem te Bocholt met als doel het wegvangen van de Noord-Aziatische modderkruiper. Fuiken moeten worden geplaatst en ’s anderendaags worden geledigd en verwijderd. De vangst en bijvangst moet worden geregistreerd evenals abiotische parameters. Noord-Aziatische modderkruipers en andere exotische vissoorten moeten geëuthanaseerd en gestockeerd worden voor verder onderzoek.</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18159",
+      "internal": false,
+      "validThroughDate": "1744156800",
+      "hiringOrganization": "Agentschap voor Natuur en Bos",
+      "reservedForDisability": false,
+      "openPositions": 4,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18159",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "jobstudent als terreininventariseerder"
+      },
+      "displayTitle": "jobstudent als terreininventariseerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je nauwgezet en kan je je goed oriënteren en verplaatsen in bos- en natuurgebieden? Heb jij zin om in onze natuurgebieden de kwaliteit van het recreatieve aanbod voor bezoekers in kaart te brengen? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>Als jobstudent zijn dit o.a. jouw taken :</div><div></div><ul><li>Je inventariseert in de domeinen van Natuur en Bos in de regio systematisch de recreatieve infrastructuur zoals bewegwijzering, infoborden, speeltuigen, bivakzones, uitkijktorens, … en noteert deze met een mobiele app op tablet in een digitaal platform (Kobo-tool: ODK collect) met geolocator.</li><li>Verplaatsingen binnen het gebied kunnen bij voorkeur gebeuren met eigen fiets.</li></ul><br>",
+        "htmlEncoded": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je nauwgezet en kan je je goed oriënteren en verplaatsen in bos- en natuurgebieden? Heb jij zin om in onze natuurgebieden de kwaliteit van het recreatieve aanbod voor bezoekers in kaart te brengen? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>Als jobstudent zijn dit o.a. jouw taken :</div><div></div><ul><li>Je inventariseert in de domeinen van Natuur en Bos in de regio systematisch de recreatieve infrastructuur zoals bewegwijzering, infoborden, speeltuigen, bivakzones, uitkijktorens, … en noteert deze met een mobiele app op tablet in een digitaal platform (Kobo-tool: ODK collect) met geolocator.</li><li>Verplaatsingen binnen het gebied kunnen bij voorkeur gebeuren met eigen fiets.</li></ul><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zedelgem"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18136",
       "internal": false,
       "validThroughDate": "1744502400",
@@ -5171,9 +5248,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "Bemiddelaar VDAB Anderlecht"
+        "htmlEncoded": "2 Bemiddelaars VDAB Anderlecht"
       },
-      "displayTitle": "Bemiddelaar VDAB Anderlecht",
+      "displayTitle": "2 Bemiddelaars VDAB Anderlecht",
       "isProtected": false,
       "description": {
         "raw": "<span></span><h1 dir=\"ltr\"><span>Word jij onze gedreven bemiddelaar met een hart voor mensen?</span><span> </span><span>&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p></li></ul><span><br></span><p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span><span>M</span><span>eet &amp; Greet</span><span> : Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen?&nbsp; Dat kan!&nbsp; Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h)&nbsp; </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><a href=\"mailto:mira.theunissen@vdab.be\"><span>mira.theunissen@vdab.be</span></a><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens.&nbsp;</span></span></p><div><span><br></span></div><div><span></span><h1 dir=\"ltr\"><span>Interessant takenpakket&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Vanuit onze locaties in Brussel ga je na welk traject het beste past bij de klanten die in jouw portefeuille komen. Je informeert werkzoekenden over hun kansen op de arbeidsmarkt, over hoe VDAB Brussel en jij, als bemiddelaar, hun kunnen helpen om een job te vinden, over de opleidingsmogelijkheden en over hun kansen naar werk na het eventueel volgen van een technische opleiding. Samen met de werkzoekende bepaal je de richtingen die hij of zij inslaat en wat er nodig is om aan de slag te gaan.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal Brusselse werkzoekenden motiveren, informeren en op weg helpen richting een job binnen de sector.</span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal ook Vlaamse werkzoekenden informeren en begeleiden in hun opleidingstraject. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt je klanten en volgt hun traject op van bij de start en tot als ze aan het werk zijn. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Tijdens dit traject zal je jouw klant inschatten, screenen, begeleiden tijdens de opleidingen, nazorg bieden en streven naar een duurzame tewerkstelling.&nbsp;</span></p></li></ul><span><br><br><br></span><p dir=\"ltr\"><span><span>Je standplaats is ons VDAB centrum, Bergensesteenweg 1440, 1070 Anderlecht. </span><span><br></span><span><br></span><span>Wil je al even de sfeer opsnuiven van wat het betekent om te werken bij VDAB Brussel? </span><a href=\"https://mediastock.vdab.be/p82iKYTcGN\"><span>Klik hier.</span></a><span>&nbsp;</span></span></p><p dir=\"ltr\"><span>&nbsp;</span></p><p dir=\"ltr\"><span>VDAB Brussel gaat een nieuwe richting uit vanaf medio 2025! Wat is jouw rol in deze innovatieve arbeidsbemiddeling?&nbsp;</span></p><p dir=\"ltr\"><span>We transformeren onze aanpak met een </span><span>dynamisch model</span><span>, waarin jij nog steeds het verschil zal maken.</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Jouw impact binnen de 2 nieuwe dienstverleningen :&nbsp;</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Inschattingsteam :</span><span> Jij bent de sleutel tot een efficiënte start van het parcours.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Matchingsteam:</span><span> Jij brengt talent en partners of werkgevers samen maar begeleidt ook</span><span> klanten die competentieversterking krijgen.</span></p></li></ul></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>De verandering:</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Duidelijke focus op: inschatten, begeleiden, matchen.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Sterke samenwerking met partners.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Meer efficiëntie door AI.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Continue verbetering voor de beste dienstverlening.</span></p></li></ul></li></ul><p dir=\"ltr\"><span>Jij bent de pionier die mee aan deze toekomst vormgeeft!</span></p></div>",
