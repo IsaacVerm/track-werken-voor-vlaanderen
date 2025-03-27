@@ -1,10 +1,10 @@
 {
-  "totalItems": 215,
+  "totalItems": 212,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 214,
+  "lastItemOfPage": 211,
   "items": [
     {
       "link": "/Job/vdab-70730458",
@@ -2772,41 +2772,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70098071",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70098071",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "BI Analist (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "BI Analist (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren BI analist om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat in staat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 8 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Jouw rol is in eerste instantie nieuwe en gewijzigde analytische rapporteringsbehoeften identificeren en analyseren – zodanig dat het BI team deze zo goed mogelijk kan implementeren. Op basis van de businessanalyse en workshops met gebruikers breng je informatiestromen in kaart en werk je de informatie- en rapporteringsvereisten uit. Je modelleert zowel relationele modellen als stermodellen en zorgt voor een heldere analysedocumentatie. Je zorgt ervoor dat jouw analysedocumentatie voldoende technisch is uitgewerkt (queries, vereiste transformaties van brondata naar uitgewerkt model, …) opdat dit rechtstreeks bruikbaar is voor de ontwikkelaars van het team. Je volgt de implementatie van jouw analyses en ontwerpen op en waakt erover dat die functioneel beantwoorden aan alle vereisten, in overeenstemming met de bestaande standaarden en architectuurkeuzes.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren BI analist om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat in staat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 8 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Jouw rol is in eerste instantie nieuwe en gewijzigde analytische rapporteringsbehoeften identificeren en analyseren – zodanig dat het BI team deze zo goed mogelijk kan implementeren. Op basis van de businessanalyse en workshops met gebruikers breng je informatiestromen in kaart en werk je de informatie- en rapporteringsvereisten uit. Je modelleert zowel relationele modellen als stermodellen en zorgt voor een heldere analysedocumentatie. Je zorgt ervoor dat jouw analysedocumentatie voldoende technisch is uitgewerkt (queries, vereiste transformaties van brondata naar uitgewerkt model, …) opdat dit rechtstreeks bruikbaar is voor de ontwikkelaars van het team. Je volgt de implementatie van jouw analyses en ontwerpen op en waakt erover dat die functioneel beantwoorden aan alle vereisten, in overeenstemming met de bestaande standaarden en architectuurkeuzes.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70093745",
       "internal": false,
       "validThroughDate": "-1",
@@ -4938,56 +4903,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17802",
-      "internal": false,
-      "validThroughDate": "1742947200",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17802",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "1 Bemiddelaar regio Leuven (Heverlee, Tienen, Diest, Leuven)"
-      },
-      "displayTitle": "1 Bemiddelaar regio Leuven (Heverlee, Tienen, Diest, Leuven)",
-      "isProtected": false,
-      "description": {
-        "raw": "<span>\t</span>- Je matcht werkzoekenden en werkgevers op de arbeidsmarkt. <br><span>\t</span>- Je analyseert de situatie van je werkzoekende klant via korte, doelgerichte gesprekken. Je bepaalt samen met je klant een <span>\t</span>realistisch jobdoelwit met het oog op een duurzame tewerkstelling. <br><span>\t</span>- Je geeft informatie op maat van je klant en je biedt de meest gepaste dienstverlening op vlak van bemiddeling en <span>\t</span>opleiding. <br><span>\t</span>- Je verwijst je klant door naar de VDAB partners en volgt het traject van je klant op bij deze partners. Zij ondersteunen je <span>\t</span>klant in loopbaanoriëntatie, opleiding, het wegwerken van drempels of competentieversterking. <br><span>\t</span>- Je zet de nodige en relevante tools in om je klant op weg te helpen naar een duurzame tewerkstelling. <br><span>\t</span>- Je besteedt daarbij extra aandacht aan competentieversterking via opleiding en werkplekleren.<br><br>Wil\nje meer weten over VDAB als werkgever, over de job van bemiddelaar, over de\nbemiddelaarspool en over het verloop van de selectieprocedure? <br><br>Neem\ndan zeker vrijblijvend deel aan de <strong>digitale infosessie op 21 maart 2025 om 13u.</strong>\n<strong>Inschrijven voor de infosessie is verplicht! Dit doe je via <a href=\"https://evenementen-systeem.vdab.be/infosessie-bemiddelaar-regio-leuven/5104579204087808\">deze link</a>.</strong><br><br>Kan\nje niet naar de infosessie komen maar heb je toch nog vragen? Stuur een mailtje\nmet jouw vraag naar marcia.croes@vdab.be",
-        "htmlEncoded": "<span>\t</span>- Je matcht werkzoekenden en werkgevers op de arbeidsmarkt. <br><span>\t</span>- Je analyseert de situatie van je werkzoekende klant via korte, doelgerichte gesprekken. Je bepaalt samen met je klant een <span>\t</span>realistisch jobdoelwit met het oog op een duurzame tewerkstelling. <br><span>\t</span>- Je geeft informatie op maat van je klant en je biedt de meest gepaste dienstverlening op vlak van bemiddeling en <span>\t</span>opleiding. <br><span>\t</span>- Je verwijst je klant door naar de VDAB partners en volgt het traject van je klant op bij deze partners. Zij ondersteunen je <span>\t</span>klant in loopbaanoriëntatie, opleiding, het wegwerken van drempels of competentieversterking. <br><span>\t</span>- Je zet de nodige en relevante tools in om je klant op weg te helpen naar een duurzame tewerkstelling. <br><span>\t</span>- Je besteedt daarbij extra aandacht aan competentieversterking via opleiding en werkplekleren.<br><br>Wil\nje meer weten over VDAB als werkgever, over de job van bemiddelaar, over de\nbemiddelaarspool en over het verloop van de selectieprocedure? <br><br>Neem\ndan zeker vrijblijvend deel aan de <strong>digitale infosessie op 21 maart 2025 om 13u.</strong>\n<strong>Inschrijven voor de infosessie is verplicht! Dit doe je via <a href=\"https://evenementen-systeem.vdab.be/infosessie-bemiddelaar-regio-leuven/5104579204087808\">deze link</a>.</strong><br><br>Kan\nje niet naar de infosessie komen maar heb je toch nog vragen? Stuur een mailtje\nmet jouw vraag naar marcia.croes@vdab.be"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Diest"
-          }
-        },
-        {
-          "address": {
-            "city": "Tienen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17801",
       "internal": false,
       "validThroughDate": "1743379200",
@@ -5018,6 +4933,41 @@
         {
           "address": {
             "city": "Sint-Niklaas"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17794",
+      "internal": false,
+      "validThroughDate": "1744761600",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17794",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "HR Medewerker Selecties"
+      },
+      "displayTitle": "HR Medewerker Selecties",
+      "isProtected": false,
+      "description": {
+        "raw": "Als HR-medewerker selecties speel je een belangrijke rol in de selectieprocessen van de Vlaamse overheid. Je werkt samen met een selectieverantwoordelijke en zorgt er mee voor dat alles vlot, efficiënt en klantvriendelijk verloopt. Concreet betekent dat:<br><br>✔️ je contact opneemt met kandidaten uit een bestaande werfreserve om te polsen of ze nog interesse hebben.<br>✔️ je helpt bij de cv-screening en het afnemen van competentiegerichte interviews.<br>✔️ je begeleidt kandidaten doorheen het selectieproces en je bent hun eerste aanspreekpunt.<br>✔️ je biedt verschillende selectieverantwoordelijken administratieve en inhoudelijke ondersteuning bij selectieprocedures.<br>✔️ je denkt mee na over hoe we onze processen nóg beter kunnen maken.<br><br>Je schakelt moeiteloos tussen verschillende selecties en combineert zelfstandig werken met een goede teamspirit. Even inspringen voor een collega? Geen probleem! Af en toe een gezellige lunchpauze of koffie aan de bar? Dat hoort er zeker bij.<br><br><strong>Klaar om het verschil te maken?</strong><br>Met deze procedure bouwen we een talentpool op voor toekomstige vacatures, maar we zoeken ook onmiddellijk versterking. Zie jij jezelf in deze rol? Solliciteer dan nu en ontdek hoe jij mee het verschil kan maken!<br>",
+        "htmlEncoded": "Als HR-medewerker selecties speel je een belangrijke rol in de selectieprocessen van de Vlaamse overheid. Je werkt samen met een selectieverantwoordelijke en zorgt er mee voor dat alles vlot, efficiënt en klantvriendelijk verloopt. Concreet betekent dat:<br><br>✔️ je contact opneemt met kandidaten uit een bestaande werfreserve om te polsen of ze nog interesse hebben.<br>✔️ je helpt bij de cv-screening en het afnemen van competentiegerichte interviews.<br>✔️ je begeleidt kandidaten doorheen het selectieproces en je bent hun eerste aanspreekpunt.<br>✔️ je biedt verschillende selectieverantwoordelijken administratieve en inhoudelijke ondersteuning bij selectieprocedures.<br>✔️ je denkt mee na over hoe we onze processen nóg beter kunnen maken.<br><br>Je schakelt moeiteloos tussen verschillende selecties en combineert zelfstandig werken met een goede teamspirit. Even inspringen voor een collega? Geen probleem! Af en toe een gezellige lunchpauze of koffie aan de bar? Dat hoort er zeker bij.<br><br><strong>Klaar om het verschil te maken?</strong><br>Met deze procedure bouwen we een talentpool op voor toekomstige vacatures, maar we zoeken ook onmiddellijk versterking. Zie jij jezelf in deze rol? Solliciteer dan nu en ontdek hoe jij mee het verschil kan maken!<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -5627,41 +5577,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17698",
-      "internal": false,
-      "validThroughDate": "1742947200",
-      "hiringOrganization": "Vlaamse Landmaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17698",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Financieel coördinator en stafmedewerker"
-      },
-      "displayTitle": "Financieel coördinator en stafmedewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij een veelzijdige professional die energie krijgt van het coördineren en optimaliseren van processen? Heb je een sterk inzicht in boekhouding en ben je klaar voor een rol die constant in beweging is? Dan is dit jouw kans want de </span><span><a href=\"https://www.vlm.be/nl\"><span>Vlaamse Landmaatschappij</span></a></span><span> (VLM) werft een financieel coördinator/ stafmedewerker aan!<br><br></span><span>Je begint met een duidelijke missie: onze financiële en boekhoudkundige processen naar een hoger niveau tillen. Met jouw boekhoudkundige expertise stroomlijn en optimaliseer je de financiële processen en coördineer je de boekhouding. Als rechterhand van het diensthoofd financiën en begroting werk je nauw samen om de financiële operaties vlot en efficiënt te laten verlopen. Zodra deze basis stevig staat, evolueer je naar een rol als stafmedewerker en projectleider. Je wordt betrokken bij uiteenlopende projecten binnen de organisatie, gaande van P&amp;O en administratief-juridische vraagstukken tot IT-gerelateerde uitdagingen. Geen dag is hetzelfde en dat is precies wat jou aanspreekt.<br><br></span><span>Met een brede interesse en een hands-on mentaliteit weet je processen niet alleen te coördineren, maar ook echt te verbeteren. Je werkt nauw samen met verschillende afdelingen en teams, neemt de leiding over organisatiebrede projecten en zorgt ervoor dat alles in goede banen wordt geleid. Innovatie en efficiëntie staan voorop, en jij hebt de drive om dat mee vorm te geven.<br><br></span><span>Klaar om impact te maken en jezelf voortdurend te blijven ontwikkelen? We kijken ernaar uit om jou te ontmoeten!</span></p>",
-        "htmlEncoded": "<p><span>Ben jij een veelzijdige professional die energie krijgt van het coördineren en optimaliseren van processen? Heb je een sterk inzicht in boekhouding en ben je klaar voor een rol die constant in beweging is? Dan is dit jouw kans want de </span><span><a href=\"https://www.vlm.be/nl\"><span>Vlaamse Landmaatschappij</span></a></span><span> (VLM) werft een financieel coördinator/ stafmedewerker aan!<br><br></span><span>Je begint met een duidelijke missie: onze financiële en boekhoudkundige processen naar een hoger niveau tillen. Met jouw boekhoudkundige expertise stroomlijn en optimaliseer je de financiële processen en coördineer je de boekhouding. Als rechterhand van het diensthoofd financiën en begroting werk je nauw samen om de financiële operaties vlot en efficiënt te laten verlopen. Zodra deze basis stevig staat, evolueer je naar een rol als stafmedewerker en projectleider. Je wordt betrokken bij uiteenlopende projecten binnen de organisatie, gaande van P&amp;O en administratief-juridische vraagstukken tot IT-gerelateerde uitdagingen. Geen dag is hetzelfde en dat is precies wat jou aanspreekt.<br><br></span><span>Met een brede interesse en een hands-on mentaliteit weet je processen niet alleen te coördineren, maar ook echt te verbeteren. Je werkt nauw samen met verschillende afdelingen en teams, neemt de leiding over organisatiebrede projecten en zorgt ervoor dat alles in goede banen wordt geleid. Innovatie en efficiëntie staan voorop, en jij hebt de drive om dat mee vorm te geven.<br><br></span><span>Klaar om impact te maken en jezelf voortdurend te blijven ontwikkelen? We kijken ernaar uit om jou te ontmoeten!</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17681",
       "internal": false,
       "validThroughDate": "1743724800",
@@ -5992,6 +5907,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17658",
+      "internal": false,
+      "validThroughDate": "1744502400",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17658",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker energiesystemen"
+      },
+      "displayTitle": "Beleidsmedewerker energiesystemen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij klaar om een sleutelrol te spelen in de energie- en klimaattransitie? Zet je schouders onder ambitieuze doelstellingen rond hernieuwbare energie en help bouwen aan een slimmer, flexibeler energiesysteem in Vlaanderen. Door in te zetten op systeemintegratie en innovatie draag je rechtstreeks bij aan een duurzame toekomst. Klinkt goed? Lees snel verder en ontdek hoe jij je steentje kan bijdragen!</span></p> <p><span>Een greep uit het takenpakket dat verdeeld wordt over de twee beleidsmedewerkers:</span></p> <ul><li><span>Je volgt de investeringsplannen van Fluvius en Elia en relevante studies van de Vlaamse Nutsregulator op en levert een gecoördineerde insteek vanuit het agentschap. </span></li><li><span>Je volgt de Europese regelgeving op in verband met de verplichting van laadinfrastructuur op parkings bij gebouwen en vertaalt dit naar een Vlaams beleidsvoorstel. </span></li><li><span>Je zorgt voor de vlotte integratie van elektromobiliteit in het energiesysteem met focus op de ontwikkeling en facilitering van slim en bidirectioneel laden.</span></li><li><span>Je ontwikkelt voorstellen voor het beleid over het marktmodel en de marktprocessen die nodig zijn in een toekomstgerichte elektriciteitsmarkt, waarin een tweede leveringscontract achter dezelfde meter (supply split) en het aanbieden van flexibiliteit mogelijk zijn.</span></li><li><span>Je werkt mee aan oplossingen voor de uitdagingen met betrekking tot netcongestie en voor de nodige capaciteit van de elektriciteitsnetten om de energietransitie waar te maken. </span></li><li><span>Je coördineert de opmaak en uitvoering van het Flexibiliteitsplan 2030 in samenspraak met stakeholders en collega’s.</span></li></ul>      <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij klaar om een sleutelrol te spelen in de energie- en klimaattransitie? Zet je schouders onder ambitieuze doelstellingen rond hernieuwbare energie en help bouwen aan een slimmer, flexibeler energiesysteem in Vlaanderen. Door in te zetten op systeemintegratie en innovatie draag je rechtstreeks bij aan een duurzame toekomst. Klinkt goed? Lees snel verder en ontdek hoe jij je steentje kan bijdragen!</span></p> <p><span>Een greep uit het takenpakket dat verdeeld wordt over de twee beleidsmedewerkers:</span></p> <ul><li><span>Je volgt de investeringsplannen van Fluvius en Elia en relevante studies van de Vlaamse Nutsregulator op en levert een gecoördineerde insteek vanuit het agentschap. </span></li><li><span>Je volgt de Europese regelgeving op in verband met de verplichting van laadinfrastructuur op parkings bij gebouwen en vertaalt dit naar een Vlaams beleidsvoorstel. </span></li><li><span>Je zorgt voor de vlotte integratie van elektromobiliteit in het energiesysteem met focus op de ontwikkeling en facilitering van slim en bidirectioneel laden.</span></li><li><span>Je ontwikkelt voorstellen voor het beleid over het marktmodel en de marktprocessen die nodig zijn in een toekomstgerichte elektriciteitsmarkt, waarin een tweede leveringscontract achter dezelfde meter (supply split) en het aanbieden van flexibiliteit mogelijk zijn.</span></li><li><span>Je werkt mee aan oplossingen voor de uitdagingen met betrekking tot netcongestie en voor de nodige capaciteit van de elektriciteitsnetten om de energietransitie waar te maken. </span></li><li><span>Je coördineert de opmaak en uitvoering van het Flexibiliteitsplan 2030 in samenspraak met stakeholders en collega’s.</span></li></ul>      <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17647",
       "internal": false,
       "validThroughDate": "1743638400",
@@ -6022,38 +5972,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17646",
-      "internal": false,
-      "validThroughDate": "1742947200",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17646",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Administratief medewerker regio Kempen"
-      },
-      "displayTitle": "Administratief medewerker regio Kempen",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Het administratief team van provincie Antwerpen is op zoek naar een enthousiaste collega die zich wil inzetten voor de correcte opvolging van administratieve taken en onthaaltaken in de <strong>regio Turnhout, Geel, Mol en Herentals.</strong></div><div></div><div>Als administratief medewerker sta je in voor alle administratie van nieuwe cursisten die een opleiding starten bij VDAB. Je maakt de contracten op en zorgt ervoor dat vergoedingen correct op hun rekening komen. Je volgt op of iedereen aanwezig is bij de opleidingen en registreert de opleidingsuren van cursisten. Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>Je voert je taken uit met de nodige stressbestendigheid en steeds met een glimlach en klantvriendelijke houding.&nbsp;&nbsp;</div><div>Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>&nbsp;&nbsp;</div><div>Daarnaast sta je in voor een professioneel onthaal van bezoekers op meerdere VDAB-locaties regio Kempen. Dit betekent dat je op vaste dagen en/of als back-up het onthaal verzorgt op 1 of 2 locaties. Afhankelijk van de locatie ben je om 07.30 uur of om 08.30 uur op kantoor.</div><ul><li>Je ontvangt de bezoekers op een klantvriendelijke manier.</li><li>Je helpt werkzoekenden om gebruik te maken van de kiosk, de zelfbedieningspc’s en de telefoon naar de Servicelijn.</li><li>Je levert een aantal attesten/documenten af.</li><li>Taalbarrières schrikken je niet af, en je zorgt ervoor dat elke cursist of klant correct en professioneel geholpen wordt.</li></ul><div>&nbsp;&nbsp;</div><div>Je teamleider maakt samen met jou de planning op voor de cursistenadministratie en het onthaal.</div>",
-        "htmlEncoded": "<div>Het administratief team van provincie Antwerpen is op zoek naar een enthousiaste collega die zich wil inzetten voor de correcte opvolging van administratieve taken en onthaaltaken in de <strong>regio Turnhout, Geel, Mol en Herentals.</strong></div><div></div><div>Als administratief medewerker sta je in voor alle administratie van nieuwe cursisten die een opleiding starten bij VDAB. Je maakt de contracten op en zorgt ervoor dat vergoedingen correct op hun rekening komen. Je volgt op of iedereen aanwezig is bij de opleidingen en registreert de opleidingsuren van cursisten. Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>Je voert je taken uit met de nodige stressbestendigheid en steeds met een glimlach en klantvriendelijke houding.&nbsp;&nbsp;</div><div>Dit vraagt om een nauwkeurige aanpak en het vermogen om tegen deadlines te werken, zodat cursisten zonder vertraging aan hun opleiding kunnen beginnen.</div><div></div><div>&nbsp;&nbsp;</div><div>Daarnaast sta je in voor een professioneel onthaal van bezoekers op meerdere VDAB-locaties regio Kempen. Dit betekent dat je op vaste dagen en/of als back-up het onthaal verzorgt op 1 of 2 locaties. Afhankelijk van de locatie ben je om 07.30 uur of om 08.30 uur op kantoor.</div><ul><li>Je ontvangt de bezoekers op een klantvriendelijke manier.</li><li>Je helpt werkzoekenden om gebruik te maken van de kiosk, de zelfbedieningspc’s en de telefoon naar de Servicelijn.</li><li>Je levert een aantal attesten/documenten af.</li><li>Taalbarrières schrikken je niet af, en je zorgt ervoor dat elke cursist of klant correct en professioneel geholpen wordt.</li></ul><div>&nbsp;&nbsp;</div><div>Je teamleider maakt samen met jou de planning op voor de cursistenadministratie en het onthaal.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Turnhout"
           }
         }
       ]
@@ -6481,41 +6399,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17544",
-      "internal": false,
-      "validThroughDate": "1742947200",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17544",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker energie-efficiëntie van gebouwen"
-      },
-      "displayTitle": "Beleidsmedewerker energie-efficiëntie van gebouwen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Heb je interesse in het efficiënte gebruik van energie en wil je je schouders zetten onder de energie- en klimaattransitie?</span></p> <p><span>Als beleidsmedewerker energie-efficiëntie van gebouwen speel je een sleutelrol in het energiezuiniger maken van <strong>niet-residentiële gebouwen</strong> in Vlaanderen. Je ondersteunt beleidsbepalers bij het nemen van de juiste beslissingen en werkt hierbij nauw samen met een ervaren collega. Zo krijg je de kans om je expertise verder uit te bouwen en een verschil te maken.</span></p> <p><span>Een greep uit je boeiende takenpakket:</span></p> <ul><li><span>Je zet bepalingen uit Europese richtlijnen met betrekking tot energie-efficiëntie van niet-residentiële gebouwen om in de Vlaamse regelgeving </span></li><li><span>Je stelt beleidsmatige analyses, rapporten, artikels, etc. op om bij te dragen tot beleidsontwikkeling, -implementatie en -evaluatie</span></li><li><span>Je onderhoudt contacten met relevante stakeholders, zowel intern als extern (lokale besturen, sectorfederaties, …) </span></li><li><span>Je behandelt beleidsmatige of adviesvragen over de energie- en klimaattransitie van o.a. het kabinet, belanghebbenden of burgers</span></li></ul>    <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Heb je interesse in het efficiënte gebruik van energie en wil je je schouders zetten onder de energie- en klimaattransitie?</span></p> <p><span>Als beleidsmedewerker energie-efficiëntie van gebouwen speel je een sleutelrol in het energiezuiniger maken van <strong>niet-residentiële gebouwen</strong> in Vlaanderen. Je ondersteunt beleidsbepalers bij het nemen van de juiste beslissingen en werkt hierbij nauw samen met een ervaren collega. Zo krijg je de kans om je expertise verder uit te bouwen en een verschil te maken.</span></p> <p><span>Een greep uit je boeiende takenpakket:</span></p> <ul><li><span>Je zet bepalingen uit Europese richtlijnen met betrekking tot energie-efficiëntie van niet-residentiële gebouwen om in de Vlaamse regelgeving </span></li><li><span>Je stelt beleidsmatige analyses, rapporten, artikels, etc. op om bij te dragen tot beleidsontwikkeling, -implementatie en -evaluatie</span></li><li><span>Je onderhoudt contacten met relevante stakeholders, zowel intern als extern (lokale besturen, sectorfederaties, …) </span></li><li><span>Je behandelt beleidsmatige of adviesvragen over de energie- en klimaattransitie van o.a. het kabinet, belanghebbenden of burgers</span></li></ul>    <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17529",
       "internal": false,
       "validThroughDate": "1745280000",
@@ -6534,9 +6417,9 @@
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "Beleidsmedewerker veroersautoriteit"
+        "htmlEncoded": "Beleidsmedewerker vervoersautoriteit"
       },
-      "displayTitle": "Beleidsmedewerker veroersautoriteit",
+      "displayTitle": "Beleidsmedewerker vervoersautoriteit",
       "isProtected": false,
       "description": {
         "raw": "<p>Ben jij gepassioneerd door duurzaam personenvervoer en wil je bijdragen aan de toekomst van het openbaar vervoer in Vlaanderen? Dan is deze functie iets voor jou!</p> <p>Als beleidsmedewerker bij <a href=\"https://www.vlaanderen.be/departement-mobiliteit-en-openbare-werken/beleidsthemas/vervoersautoriteit\">de Vervoersautoriteit</a> werk je binnen de afdeling Beleid van het Departement Mobiliteit en Openbare Werken. Je maakt deel uit van het team duurzame personenmobiliteit en speelt een cruciale rol in het vormgeven en coördineren van het openbaar vervoer in Vlaanderen. Samenwerking en overleg binnen het mobiliteitslandschap staan hierbij centraal.</p> <p>Samen met je collega’s en de coördinator van het subteam Vervoersautoriteit zorg je mee voor de verdere uitbouw van de Vervoersautoriteit in Vlaanderen. Je takenpakket is gevarieerd en je bepaalt samen met het team de juiste prioriteiten.</p> <p>Je takenpakket omvat onder andere:</p> <ul><li>Je werkt mee aan en/of coördineert 1 of meerdere projecten binnen de Vervoersautoriteit zoals:<span></span><span></span><ul><li><span>de jaarlijkse evaluatie en opvolging van het openbaredienstencontract met De Lijn;</span><span></span></li><li>de voorbereidingen en opmaak van een nieuw openbaredienstencontract;<span></span></li><li>het bepalen en opvolgen van KPI’s in samenwerking met De Lijn;<span></span></li><li>de evaluatie van de vervoersplannen van de 15 vervoerregio’s.<span></span></li></ul></li><li>Je verdiept je in data en formuleert zinvolle conclusies en/of voorstellen o.b.v. deze data.</li><li>Je werkt samen en overlegt met interne en externe stakeholders (o.a. De Lijn en de 15 vervoerregio’s in Vlaanderen).<span></span></li><li>Je neemt deel aan het periodiek overleg met de Vervoersautoriteiten van de andere gewesten en de federale overheid.<span></span></li><li>Je rapporteert op een heldere manier over de acties of projecten van de Vervoersautoriteit.<span></span></li><li>Je beantwoordt parlementaire vragen.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
