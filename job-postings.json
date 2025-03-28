@@ -1,10 +1,10 @@
 {
-  "totalItems": 214,
+  "totalItems": 217,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 213,
+  "lastItemOfPage": 216,
   "items": [
     {
       "link": "/Job/vdab-70730458",
@@ -4429,6 +4429,46 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17946",
+      "internal": false,
+      "validThroughDate": "1744934400",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17946",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "medewerker catering"
+      },
+      "displayTitle": "medewerker catering",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil je graag veel klantencontacten? Steek je graag de handen uit de mouwen in de keuken? Dan ben jij de persoon die wij zoeken!&nbsp;</div><div>&nbsp;</div><div>Iedere werkdag bereiden 170 medewerkers catering van Het Facilitair Bedrijf de middagmaaltijden, broodjes, desserten en dranken in de grootkeukens en koffiebars van de Vlaamse overheid. We hebben 2 concrete vacatures, één voor het nieuwe Belpaire gebouw en één voor het Herman Teirlinck gebouw in Brussel. In het Belpairegebouw werken we met 3 cateringteams (verkoop – events - productie). We zijn op zoek naar een enthousiaste en flexibele medewerker voor ons verkoopteam. Je zult voornamelijk verantwoordelijk zijn voor het ondersteunen van de koffie- en broodjesbar, waar je een belangrijke rol speelt in het bieden van uitstekende service aan onze klanten. Regelmatig werk je samen met de andere teams en neem je extra taken op binnen catering. In Herman Teirlinck is het een allround functie waar je op alle posten mag staan.</div><div></div><div>Het uurrooster wordt vastgelegd door de leidinggevende, maar we verwachten dat je je flexibel opstelt. Je zal beginnen tussen 6u en 10u en eindigen tussen 14u en 18u.&nbsp;</div><div> &nbsp;</div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende. Je begrijpt ook korte geschreven boodschappen. Op de werkvloer krijg je de kans om je Nederlands te verbeteren.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil je graag veel klantencontacten? Steek je graag de handen uit de mouwen in de keuken? Dan ben jij de persoon die wij zoeken!&nbsp;</div><div>&nbsp;</div><div>Iedere werkdag bereiden 170 medewerkers catering van Het Facilitair Bedrijf de middagmaaltijden, broodjes, desserten en dranken in de grootkeukens en koffiebars van de Vlaamse overheid. We hebben 2 concrete vacatures, één voor het nieuwe Belpaire gebouw en één voor het Herman Teirlinck gebouw in Brussel. In het Belpairegebouw werken we met 3 cateringteams (verkoop – events - productie). We zijn op zoek naar een enthousiaste en flexibele medewerker voor ons verkoopteam. Je zult voornamelijk verantwoordelijk zijn voor het ondersteunen van de koffie- en broodjesbar, waar je een belangrijke rol speelt in het bieden van uitstekende service aan onze klanten. Regelmatig werk je samen met de andere teams en neem je extra taken op binnen catering. In Herman Teirlinck is het een allround functie waar je op alle posten mag staan.</div><div></div><div>Het uurrooster wordt vastgelegd door de leidinggevende, maar we verwachten dat je je flexibel opstelt. Je zal beginnen tussen 6u en 10u en eindigen tussen 14u en 18u.&nbsp;</div><div> &nbsp;</div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende. Je begrijpt ook korte geschreven boodschappen. Op de werkvloer krijg je de kans om je Nederlands te verbeteren.&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17944",
       "internal": false,
       "validThroughDate": "1744156800",
@@ -4868,6 +4908,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17811",
+      "internal": false,
+      "validThroughDate": "1745280000",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17811",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Gebiedsmedewerker"
+      },
+      "displayTitle": "Gebiedsmedewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Achter elke exploitatie die hinder of risico’s met zich kan meebrengen (zoals chemische industrie, landbouw, afvalverwerkers, bemalingen) in Vlaanderen schuilt een gestructureerd proces van advisering, vergunningverlening en opvolging.</span><span> Kan je complexe dossiers vlot en kritisch analyseren en potentiële problemen snel detecteren? Ga je graag oplossingsgericht te werk en kan je je flexibel opstellen? Slaag je erin om partners goed te laten samenwerken in functie van realisatiegerichte projecten? Dan is deze vacature misschien iets voor jou!<br><br> Als Gebiedsmedewerker speel je een cruciale rol in het beheer van dit proces. Met jouw vermogen om overzicht te behouden, relevante stakeholders te betrekken en je vast te bijten in vergunningstrajecten, ben jij een waardevolle kandidaat.&nbsp;Als Gebiedsmedewerker krijg je de kans om te werken aan een grote verscheidenheid aan dossiers. Hieronder vallen ook complexe en omvangrijke projecten, zoals bijvoorbeeld grote industriële bedrijven (o.a. chemie, afvalverwerking,…), grote landbouwbedrijven, infrastructuur -en windenergieprojecten, …<br><br> Jouw verantwoordelijkheid? Zorgen dat dergelijke projecten zo min mogelijk hinder veroorzaken voor de mensen en het milieu in de omgeving. Omgevingsvergunningen spelen hierbij een essentiële rol. Een van jouw grootste troeven is jouw holistische benadering. Je stemt af met projectuitvoerders, de gewestelijke omgevingsambtenaar en andere collega's binnen het Departement Omgeving en andere betrokken partijen, zoals lokale en provinciale besturen. Je bent nauw betrokken bij het begeleiden van elke stap van het vergunningstraject van begin tot einde, waarbij je het project opvolgt en onderbouwde input en advies levert aan de bevoegde instanties. Je doet dit zowel voor omgevingsprojecten in eerste als in laatste administratieve aanleg.<br></span> <br> <span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Achter elke exploitatie die hinder of risico’s met zich kan meebrengen (zoals chemische industrie, landbouw, afvalverwerkers, bemalingen) in Vlaanderen schuilt een gestructureerd proces van advisering, vergunningverlening en opvolging.</span><span> Kan je complexe dossiers vlot en kritisch analyseren en potentiële problemen snel detecteren? Ga je graag oplossingsgericht te werk en kan je je flexibel opstellen? Slaag je erin om partners goed te laten samenwerken in functie van realisatiegerichte projecten? Dan is deze vacature misschien iets voor jou!<br><br> Als Gebiedsmedewerker speel je een cruciale rol in het beheer van dit proces. Met jouw vermogen om overzicht te behouden, relevante stakeholders te betrekken en je vast te bijten in vergunningstrajecten, ben jij een waardevolle kandidaat.&nbsp;Als Gebiedsmedewerker krijg je de kans om te werken aan een grote verscheidenheid aan dossiers. Hieronder vallen ook complexe en omvangrijke projecten, zoals bijvoorbeeld grote industriële bedrijven (o.a. chemie, afvalverwerking,…), grote landbouwbedrijven, infrastructuur -en windenergieprojecten, …<br><br> Jouw verantwoordelijkheid? Zorgen dat dergelijke projecten zo min mogelijk hinder veroorzaken voor de mensen en het milieu in de omgeving. Omgevingsvergunningen spelen hierbij een essentiële rol. Een van jouw grootste troeven is jouw holistische benadering. Je stemt af met projectuitvoerders, de gewestelijke omgevingsambtenaar en andere collega's binnen het Departement Omgeving en andere betrokken partijen, zoals lokale en provinciale besturen. Je bent nauw betrokken bij het begeleiden van elke stap van het vergunningstraject van begin tot einde, waarbij je het project opvolgt en onderbouwde input en advies levert aan de bevoegde instanties. Je doet dit zowel voor omgevingsprojecten in eerste als in laatste administratieve aanleg.<br></span> <br> <span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17807",
       "internal": false,
       "validThroughDate": "1743465600",
@@ -5180,6 +5255,81 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17762",
+      "internal": false,
+      "validThroughDate": "1745712000",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17762",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Procescoördinator Platteland"
+      },
+      "displayTitle": "Procescoördinator Platteland",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als procescoördinator platteland speel je een sleutelrol in het beheer van de LEADER-maatregel binnen het Gemeenschappelijk Landbouwbeleid (GLB). LEADER is een Europees programma dat innovatieve projecten ondersteunt die de leefbaarheid en economie in plattelandsgebieden versterken. Als kwaliteitsbewaker zorg je ervoor dat de uitbetaling van deze subsidies niet alleen efficiënt en tijdig verloopt, maar ook volledig voldoet aan de Europese regelgeving en de wetgeving rond overheidsopdrachten. Concreet neem je volgende taken op:</span><span></span><span><br></span></p><ul><li><span>&nbsp;</span><span>Je ontwikkelt en implementeert kwaliteitsstandaarden en procedures voor het declaratie- en uitbetalingsproces, voert controles en audits uit en zorgt ervoor dat aanbevelingen uit interne en systeemaudits worden opgevolgd.</span></li><li>Je analyseert het huidige proces, signaleert knelpunten en inefficiënties, stelt verbeteringen voor en implementeert optimalisaties om de efficiëntie van uitbetalingen te verhogen. Je monitort het volledige proces en stelt rapportages op over de prestaties en naleving van kwaliteitsnormen.</li><li>Je voert jaarlijks controles en audits uit ter plaatse om de naleving van regelgeving en kwaliteitsnormen te waarborgen. Je identificeert risico’s die de kwaliteit van het uitbetalingsproces kunnen beïnvloeden en stelt actieplannen op.</li></ul> <p><span>Je begeleidt medewerkers in kwaliteitsprocedures en normen en zorgt voor heldere communicatie over de geldende richtlijnen en werkwijzen binnen de organisatie.<br><br>B</span><span>en jij klaar om een belangrijke bijdrage te leveren aan de kwaliteitsvolle uitvoering van LEADER-subsidies en zo het verschil te maken voor plattelandsontwikkeling? Solliciteer vandaag nog!</span></p>",
+        "htmlEncoded": "<p><span>Als procescoördinator platteland speel je een sleutelrol in het beheer van de LEADER-maatregel binnen het Gemeenschappelijk Landbouwbeleid (GLB). LEADER is een Europees programma dat innovatieve projecten ondersteunt die de leefbaarheid en economie in plattelandsgebieden versterken. Als kwaliteitsbewaker zorg je ervoor dat de uitbetaling van deze subsidies niet alleen efficiënt en tijdig verloopt, maar ook volledig voldoet aan de Europese regelgeving en de wetgeving rond overheidsopdrachten. Concreet neem je volgende taken op:</span><span></span><span><br></span></p><ul><li><span>&nbsp;</span><span>Je ontwikkelt en implementeert kwaliteitsstandaarden en procedures voor het declaratie- en uitbetalingsproces, voert controles en audits uit en zorgt ervoor dat aanbevelingen uit interne en systeemaudits worden opgevolgd.</span></li><li>Je analyseert het huidige proces, signaleert knelpunten en inefficiënties, stelt verbeteringen voor en implementeert optimalisaties om de efficiëntie van uitbetalingen te verhogen. Je monitort het volledige proces en stelt rapportages op over de prestaties en naleving van kwaliteitsnormen.</li><li>Je voert jaarlijks controles en audits uit ter plaatse om de naleving van regelgeving en kwaliteitsnormen te waarborgen. Je identificeert risico’s die de kwaliteit van het uitbetalingsproces kunnen beïnvloeden en stelt actieplannen op.</li></ul> <p><span>Je begeleidt medewerkers in kwaliteitsprocedures en normen en zorgt voor heldere communicatie over de geldende richtlijnen en werkwijzen binnen de organisatie.<br><br>B</span><span>en jij klaar om een belangrijke bijdrage te leveren aan de kwaliteitsvolle uitvoering van LEADER-subsidies en zo het verschil te maken voor plattelandsontwikkeling? Solliciteer vandaag nog!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17753",
+      "internal": false,
+      "validThroughDate": "1744675200",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17753",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Projectleider elektrische weginstallaties"
+      },
+      "displayTitle": "Projectleider elektrische weginstallaties",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gepassioneerd door elektriciteit en/of elektronica en wil je jouw kennis inzetten om onze wegen optimaal te verlichten of verkeersregelinstallaties soepel te laten functioneren? Heb je daarnaast sterke communicatieve vaardigheden om als schakel te fungeren tussen verschillende partijen in projecten? En wil je bijdragen aan de veiligheid van de Vlaamse wegen? Solliciteer dan nu en wie weet bouw jij wel mee aan de weg van morgen.</p><p><strong>Momenteel zijn wij op zoek naar 1 collega voor de provincie Antwerpen (standplaats Antwerpen) en 1 collega voor de provincie Oost-Vlaanderen (standplaats Gent).</strong></p><p>In deze rol leid je projecten op het gebied van elektrische weginstallaties.&nbsp;</p><p><span>Mogelijke projecten zijn:</span></p><ul><li>Dynamisch verkeersmanagement zoals Closed-Circuit TeleVision (CCTV), digitale borden en meetinstallaties in Vlaanderen.</li><li>Handhavingsinstallaties zoals trajectcontrole en snelheidscamera’s.</li><li>Openbare verlichting op gewest- en autosnelwegen.</li><li>(Slimme) verkeerslichten en regelaars.</li><li>Vernieuwing van voedingscabines (laag- en middenspanning).</li></ul><p>In dit expertisedomein zal je projecten opstarten voor zowel de vernieuwing of renovatie van bestaande installaties, maar ook voor de realisatie van volledige nieuwe installaties.</p><p>Je begeleidt deze projecten van A tot Z, van behoefte- en probleemanalyse, projectplanning, opvolging en uitvoering, tot aansturing van werfcontroleurs en rapportage. Daarnaast breng je de budgetnoden transparant in kaart, zorg je ervoor dat het benodigde budget tijdig beschikbaar is en volg je dit&nbsp;nauwgezet op. Parallel waak je ook over het correcte onderhoud (zowel preventief, als correctief) van de aan jouw toegekende installatietypes.</p><p>Regelmatig overleg je met interne en externe projectpartners om alle technieken in een wegenwerk goed op elkaar af te stemmen.</p><p>Kortom, je fungeert als de cruciale schakel tussen verschillende teams en partners, zowel intern als extern en draagt zo bij aan de veiligheid en efficiëntie van de Vlaamse wegen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij gepassioneerd door elektriciteit en/of elektronica en wil je jouw kennis inzetten om onze wegen optimaal te verlichten of verkeersregelinstallaties soepel te laten functioneren? Heb je daarnaast sterke communicatieve vaardigheden om als schakel te fungeren tussen verschillende partijen in projecten? En wil je bijdragen aan de veiligheid van de Vlaamse wegen? Solliciteer dan nu en wie weet bouw jij wel mee aan de weg van morgen.</p><p><strong>Momenteel zijn wij op zoek naar 1 collega voor de provincie Antwerpen (standplaats Antwerpen) en 1 collega voor de provincie Oost-Vlaanderen (standplaats Gent).</strong></p><p>In deze rol leid je projecten op het gebied van elektrische weginstallaties.&nbsp;</p><p><span>Mogelijke projecten zijn:</span></p><ul><li>Dynamisch verkeersmanagement zoals Closed-Circuit TeleVision (CCTV), digitale borden en meetinstallaties in Vlaanderen.</li><li>Handhavingsinstallaties zoals trajectcontrole en snelheidscamera’s.</li><li>Openbare verlichting op gewest- en autosnelwegen.</li><li>(Slimme) verkeerslichten en regelaars.</li><li>Vernieuwing van voedingscabines (laag- en middenspanning).</li></ul><p>In dit expertisedomein zal je projecten opstarten voor zowel de vernieuwing of renovatie van bestaande installaties, maar ook voor de realisatie van volledige nieuwe installaties.</p><p>Je begeleidt deze projecten van A tot Z, van behoefte- en probleemanalyse, projectplanning, opvolging en uitvoering, tot aansturing van werfcontroleurs en rapportage. Daarnaast breng je de budgetnoden transparant in kaart, zorg je ervoor dat het benodigde budget tijdig beschikbaar is en volg je dit&nbsp;nauwgezet op. Parallel waak je ook over het correcte onderhoud (zowel preventief, als correctief) van de aan jouw toegekende installatietypes.</p><p>Regelmatig overleg je met interne en externe projectpartners om alle technieken in een wegenwerk goed op elkaar af te stemmen.</p><p>Kortom, je fungeert als de cruciale schakel tussen verschillende teams en partners, zowel intern als extern en draagt zo bij aan de veiligheid en efficiëntie van de Vlaamse wegen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17752",
       "internal": false,
       "validThroughDate": "1743897600",
@@ -5245,41 +5395,6 @@
         {
           "address": {
             "city": "Anderlecht"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17740",
-      "internal": false,
-      "validThroughDate": "1743033600",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17740",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundige Kind en Gezin-teams Gent"
-      },
-      "displayTitle": "Verpleegkundige Kind en Gezin-teams Gent",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten, voor de aanleg van een werfreserve. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de drie Kind en Gezin teams in Gent (Gent-Noordoost, Gent-West of Gent-Zuid) en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>",
-        "htmlEncoded": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten, voor de aanleg van een werfreserve. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de drie Kind en Gezin teams in Gent (Gent-Noordoost, Gent-West of Gent-Zuid) en bezoekt de gezinnen thuis.&nbsp;&nbsp;</p><p>Op de <a href=\"https://www.opgroeien.be/sites/default/files/job_attachments/geografische_kaart_lokale_teams_kind_en_gezin_opgroeien_8.pdf\">kaarten</a> kan je bekijken in welke gemeenten dit team precies werken.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
