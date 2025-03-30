@@ -1,10 +1,10 @@
 {
-  "totalItems": 216,
+  "totalItems": 215,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 215,
+  "lastItemOfPage": 214,
   "items": [
     {
       "link": "/Job/vdab-70751162",
@@ -1507,41 +1507,6 @@
         {
           "address": {
             "city": "Wemmel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70596888",
-      "internal": false,
-      "validThroughDate": "1743120000",
-      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70596888",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundig leidinggevende Herstel"
-      },
-      "displayTitle": "Verpleegkundig leidinggevende Herstel",
-      "isProtected": false,
-      "description": {
-        "raw": "<ul> \n<li>Je bent lid van het kernteam (samen met de behandelend arts en programmacoördinator) met als specifieke verantwoordelijkheidsgebieden: \n<ul> \n<li>Je bent verantwoordelijk voor de organisatie, de continuïteit en de kwaliteit van de verpleegkundige processen en de verpleegkundige zorg binnen een zorgeenheid.</li> \n<li>Je geeft optimaal vorm aan een verpleegkundig beleid dat geïntegreerd is in de behandel- en beleidsvisie van het cluster en de zorgeenheid, en dit in samenwerking met het kernteam.</li> \n<li>Je ondersteunt en stimuleert de zorgverleners van je equipe om samen tot een efficiënte en effectieve werkorganisatie te komen.</li> \n<li>Je bent samen met de andere leden van het kernteam verantwoordelijk voor een professioneel gedragen interdisciplinaire samenwerking.</li> </ul> </li> \n<li>Je wordt leidinggevende van de zorgeenheid Herstel. Dit is een gespecialiseerde zorgeenheid gericht op de voortgezette behandeling van volwassenen met ernstige psychiatrische aandoeningen (EPA). De focus ligt op personen met een psychotische stoornis die soms in combinatie met ASS, persoonlijkheidsstoornissen, trauma en co-morbide verslaving voorkomen. Er zijn zorgvragen op verschillende levensdomeinen.</li> </ul>",
-        "htmlEncoded": "<ul> \n<li>Je bent lid van het kernteam (samen met de behandelend arts en programmacoördinator) met als specifieke verantwoordelijkheidsgebieden: \n<ul> \n<li>Je bent verantwoordelijk voor de organisatie, de continuïteit en de kwaliteit van de verpleegkundige processen en de verpleegkundige zorg binnen een zorgeenheid.</li> \n<li>Je geeft optimaal vorm aan een verpleegkundig beleid dat geïntegreerd is in de behandel- en beleidsvisie van het cluster en de zorgeenheid, en dit in samenwerking met het kernteam.</li> \n<li>Je ondersteunt en stimuleert de zorgverleners van je equipe om samen tot een efficiënte en effectieve werkorganisatie te komen.</li> \n<li>Je bent samen met de andere leden van het kernteam verantwoordelijk voor een professioneel gedragen interdisciplinaire samenwerking.</li> </ul> </li> \n<li>Je wordt leidinggevende van de zorgeenheid Herstel. Dit is een gespecialiseerde zorgeenheid gericht op de voortgezette behandeling van volwassenen met ernstige psychiatrische aandoeningen (EPA). De focus ligt op personen met een psychotische stoornis die soms in combinatie met ASS, persoonlijkheidsstoornissen, trauma en co-morbide verslaving voorkomen. Er zijn zorgvragen op verschillende levensdomeinen.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rekem"
           }
         }
       ]
