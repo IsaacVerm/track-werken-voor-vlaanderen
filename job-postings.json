@@ -1,10 +1,10 @@
 {
-  "totalItems": 215,
+  "totalItems": 216,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 214,
+  "lastItemOfPage": 215,
   "items": [
     {
       "link": "/Job/vdab-70751162",
@@ -5183,6 +5183,41 @@
         {
           "address": {
             "city": "Sint-Niklaas"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17796",
+      "internal": false,
+      "validThroughDate": "1745193600",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17796",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Hydrografisch surveyor"
+      },
+      "displayTitle": "Hydrografisch surveyor",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wie scheepvaart zegt denkt daarbij ook aan\nzeekaarten. Bij de Vlaamse\nHydrografie verzamelen we elke dag peildata om baggerwerkzaamheden aan te\nsturen en zeevarenden te voorzien van up-to-date kaarten. Daarvoor beschikken\nwe over een aantal hydrografische vaartuigen met hoogtechnologische apparatuur\ndie ervoor zorgt dat we voldoen aan de hoogste internationale hydrografische\nnormen.<br><br>Als hydrografisch surveyor maak je deel uit van de\nVlaamse Hydrografie en draag je bij aan het vlotte en veilige verloop van de\nscheepvaart van en naar de Vlaamse havens. Je job brengt je van de monding van\nde Schelde tot in de kronkels van haar kleinere bijrivieren.<br>Je voert hydrografische metingen uit aan boord van\neen hydrografisch schip en je verwerkt de data voor diverse doeleinden, zoals\nde opmaak van peilplannen, papieren en elektronische zeekaarten. Je voert soms\ntoezichtstaken uit op hydrografische opdrachten.<br>Een afwisselende en uitdagende job dus, met\nbovendien opleidingsmogelijkheden én een goede combinatie werk-privé.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wie scheepvaart zegt denkt daarbij ook aan\nzeekaarten. Bij de Vlaamse\nHydrografie verzamelen we elke dag peildata om baggerwerkzaamheden aan te\nsturen en zeevarenden te voorzien van up-to-date kaarten. Daarvoor beschikken\nwe over een aantal hydrografische vaartuigen met hoogtechnologische apparatuur\ndie ervoor zorgt dat we voldoen aan de hoogste internationale hydrografische\nnormen.<br><br>Als hydrografisch surveyor maak je deel uit van de\nVlaamse Hydrografie en draag je bij aan het vlotte en veilige verloop van de\nscheepvaart van en naar de Vlaamse havens. Je job brengt je van de monding van\nde Schelde tot in de kronkels van haar kleinere bijrivieren.<br>Je voert hydrografische metingen uit aan boord van\neen hydrografisch schip en je verwerkt de data voor diverse doeleinden, zoals\nde opmaak van peilplannen, papieren en elektronische zeekaarten. Je voert soms\ntoezichtstaken uit op hydrografische opdrachten.<br>Een afwisselende en uitdagende job dus, met\nbovendien opleidingsmogelijkheden én een goede combinatie werk-privé.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
           }
         }
       ]
