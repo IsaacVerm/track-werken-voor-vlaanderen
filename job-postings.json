@@ -1,10 +1,10 @@
 {
-  "totalItems": 220,
+  "totalItems": 221,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 219,
+  "lastItemOfPage": 220,
   "items": [
     {
       "link": "/Job/vdab-70757106",
@@ -6027,6 +6027,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17691",
+      "internal": false,
+      "validThroughDate": "1744934400",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17691",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker Roofkunst"
+      },
+      "displayTitle": "Onderzoeker Roofkunst",
+      "isProtected": false,
+      "description": {
+        "raw": "Het Departement Cultuur, Jeugd en Media maakt samen met het Koninklijk Museum Schone Kunsten te Antwerpen werk van het onderzoek naar de mogelijke aanwezigheid van Joodse roofkunst in de collectie(s) van de Vlaamse Gemeenschap. Zij sloten voor dit onderzoek een meerjarig samenwerkingsakkoord af.<br><br>Het Departement Cultuur, Jeugd en Media is binnen dit kader op zoek naar een onderzoeker Roofkunst met een specifieke focus op roofkunst uit Joodse kunstcollecties.. Als onderzoeker Roofkunst speel je een cruciale rol in het identificeren, onderzoeken en documenteren van deze kunstwerken, met als doel de herkomst te achterhalen en bij te dragen aan de eventuele restitutie ervan. Je voert tevens, in functie van de behandeling ervan door de vaste commissie Nazi-roofkunst, het herkomstonderzoek naar de werken uit de Vlaamse collectie(s) waarvoor een restitutievraag werd ingediend.<br><br>In deze rol voer je diepgaand historisch onderzoek uit naar de herkomst van kunstwerken afkomstig uit Joodse collecties. Dit onderzoek omvat het doorzoeken van archieven, zowel nationaal als internationaal, en het samenwerken met musea, archieven en andere relevante organisaties. Je verzamelt en analyseert gegevens, en deelt deze informatie met partners om een volledig beeld te krijgen van de herkomst van de kunstwerken. Je standplaats is het KMSKA, de partner binnen deze samenwerkingsovereenkomst.<br><br>Geïnteresseerd in de functie en het takenpakket? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
+        "htmlEncoded": "Het Departement Cultuur, Jeugd en Media maakt samen met het Koninklijk Museum Schone Kunsten te Antwerpen werk van het onderzoek naar de mogelijke aanwezigheid van Joodse roofkunst in de collectie(s) van de Vlaamse Gemeenschap. Zij sloten voor dit onderzoek een meerjarig samenwerkingsakkoord af.<br><br>Het Departement Cultuur, Jeugd en Media is binnen dit kader op zoek naar een onderzoeker Roofkunst met een specifieke focus op roofkunst uit Joodse kunstcollecties.. Als onderzoeker Roofkunst speel je een cruciale rol in het identificeren, onderzoeken en documenteren van deze kunstwerken, met als doel de herkomst te achterhalen en bij te dragen aan de eventuele restitutie ervan. Je voert tevens, in functie van de behandeling ervan door de vaste commissie Nazi-roofkunst, het herkomstonderzoek naar de werken uit de Vlaamse collectie(s) waarvoor een restitutievraag werd ingediend.<br><br>In deze rol voer je diepgaand historisch onderzoek uit naar de herkomst van kunstwerken afkomstig uit Joodse collecties. Dit onderzoek omvat het doorzoeken van archieven, zowel nationaal als internationaal, en het samenwerken met musea, archieven en andere relevante organisaties. Je verzamelt en analyseert gegevens, en deelt deze informatie met partners om een volledig beeld te krijgen van de herkomst van de kunstwerken. Je standplaats is het KMSKA, de partner binnen deze samenwerkingsovereenkomst.<br><br>Geïnteresseerd in de functie en het takenpakket? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17681",
       "internal": false,
       "validThroughDate": "1743724800",
@@ -6636,7 +6671,12 @@
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
