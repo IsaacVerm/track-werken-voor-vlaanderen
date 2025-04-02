@@ -1,16 +1,51 @@
 {
-  "totalItems": 220,
+  "totalItems": 221,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 219,
+  "lastItemOfPage": 220,
   "items": [
+    {
+      "link": "/Job/vdab-70779822",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70779822",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert Digitale dossierbehandeling (VLAIO) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product Owner Expert Digitale dossierbehandeling (VLAIO) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>VLAIO kent jaarlijks meer dan 300 miljoen euro innovatiesteun toe aan ondernemingen. Zo dragen we actief bij aan innovatie, ondernemerschap en oplossingen voor maatschappelijke uitdagingen. De behandeling van die steunaanvragen en de interactie met ondernemingen gebeurt via één groot digitaal platform. Voor dit dossierbehandelingssysteem zoeken we een enthousiaste product owner. Heb je oog voor wat beter kan en zie je daarbij meteen hoe je digitale opportuniteiten kan benutten? Ga je graag in interactie met gebruikers en software ontwikkelaars en denk je altijd eerst digitaal? Heb je organisatietalent? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</span></strong></p> \n<p><strong>Job-inhoud</strong></p> \n<p><span>Als product owner identificeer je nieuwe digitaliseringsbehoeften en stel je die op scherp. Je kent ook de juiste prioriteiten toe en bewaakt de kwaliteit van de oplossingen. Je werkt nauw samen met een team van business owners, met gebruikers en met het team dat het product ontwikkelt. Je denkt innovatief en benut waar relevant de opportuniteiten van nieuwe technologieën zoals artificiële intelligentie. </span></p> \n<p><span>Jouw taken kaderen steevast in digitaliseringstrajecten:</span></p> \n<ul> \n<li><span>Je identificeert en verheldert digitaliseringsbehoeften. Je werkt hiervoor nauw samen met gebruikers en een team van analisten en ontwikkelaars.</span></li> \n<li><span>Je houdt bij analyses zoveel mogelijk rekening met de verwachtingen van de gebruikers (agile werking, focus op gebruikerservaring, ..)</span></li> \n<li><span>Je bouwt kennis op van de applicatie-architectuur van VLAIO en van de Vlaamse overheid om waar mogelijk gebruik te maken van bestaande componenten.</span></li> \n<li><span>Je bepaalt de prioriteiten voor de ontwikkeling, in samenwerking met een 10-tal business owners. Je gaat samen met hen op zoek naar mogelijkheden om maximale waarde te creëren door digitalisering en het gebruik van data.</span></li> \n<li><span>Je zorgt tijdens de ontwikkeling van nieuwe applicaties voor een goede interactie met de interne klant, je organiseert een vlotte uitrol van de tools in de organisatie en hebt oog voor de gebruikerstevredenheid (testen, change management, communicatie, opleidingen,…).</span></li> \n<li><span>Je leidt de oplevering van kwalitatieve software in goede banen</span></li> \n<li><span>Je bouwt je netwerk binnen en buiten VLAIO (verder) uit en volgt evoluties rond digitalisering op. Je neemt een ambassadeursrol op vlak van digitalisering in de organisatie op.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>VLAIO kent jaarlijks meer dan 300 miljoen euro innovatiesteun toe aan ondernemingen. Zo dragen we actief bij aan innovatie, ondernemerschap en oplossingen voor maatschappelijke uitdagingen. De behandeling van die steunaanvragen en de interactie met ondernemingen gebeurt via één groot digitaal platform. Voor dit dossierbehandelingssysteem zoeken we een enthousiaste product owner. Heb je oog voor wat beter kan en zie je daarbij meteen hoe je digitale opportuniteiten kan benutten? Ga je graag in interactie met gebruikers en software ontwikkelaars en denk je altijd eerst digitaal? Heb je organisatietalent? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</span></strong></p> \n<p><strong>Job-inhoud</strong></p> \n<p><span>Als product owner identificeer je nieuwe digitaliseringsbehoeften en stel je die op scherp. Je kent ook de juiste prioriteiten toe en bewaakt de kwaliteit van de oplossingen. Je werkt nauw samen met een team van business owners, met gebruikers en met het team dat het product ontwikkelt. Je denkt innovatief en benut waar relevant de opportuniteiten van nieuwe technologieën zoals artificiële intelligentie. </span></p> \n<p><span>Jouw taken kaderen steevast in digitaliseringstrajecten:</span></p> \n<ul> \n<li><span>Je identificeert en verheldert digitaliseringsbehoeften. Je werkt hiervoor nauw samen met gebruikers en een team van analisten en ontwikkelaars.</span></li> \n<li><span>Je houdt bij analyses zoveel mogelijk rekening met de verwachtingen van de gebruikers (agile werking, focus op gebruikerservaring, ..)</span></li> \n<li><span>Je bouwt kennis op van de applicatie-architectuur van VLAIO en van de Vlaamse overheid om waar mogelijk gebruik te maken van bestaande componenten.</span></li> \n<li><span>Je bepaalt de prioriteiten voor de ontwikkeling, in samenwerking met een 10-tal business owners. Je gaat samen met hen op zoek naar mogelijkheden om maximale waarde te creëren door digitalisering en het gebruik van data.</span></li> \n<li><span>Je zorgt tijdens de ontwikkeling van nieuwe applicaties voor een goede interactie met de interne klant, je organiseert een vlotte uitrol van de tools in de organisatie en hebt oog voor de gebruikerstevredenheid (testen, change management, communicatie, opleidingen,…).</span></li> \n<li><span>Je leidt de oplevering van kwalitatieve software in goede banen</span></li> \n<li><span>Je bouwt je netwerk binnen en buiten VLAIO (verder) uit en volgt evoluties rond digitalisering op. Je neemt een ambassadeursrol op vlak van digitalisering in de organisatie op.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70773219",
       "internal": false,
       "validThroughDate": "1746576000",
-      "hiringOrganization": "VREG",
+      "hiringOrganization": "Vlaamse Nutsregulator",
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
@@ -3670,8 +3705,8 @@
       "displayTitle": "Jobstudent administratieve ondersteuning",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong><font size=\"3\">Je functie in het kort</font><br></strong><br>Op zoek\nnaar een boeiende vakantiejob?<br> Het Agentschap voor Infrastructuur in het Onderwijs (AGION) zoekt gemotiveerde\njobstudenten voor de afdeling Reguliere financiering en de afdeling Kennis en\nAdvisering in Brussel voor de periode <strong>juli en augustus</strong>.<br>Boeit en interesseert onderwijs of schoolinfrastructuur jou? Bekijk dan\nzeker ons aanbod.<br><br><strong>Voor de afdeling Reguliere Financiering (2 jobstudenten in juli, 2 in\naugustus)</strong></p><ul><li>Je staat in voor de controle van de bouwlocaties van werken aan scholen in het computersysteem</li><li>Je verzamelt, raadpleegt en controleert documenten en gegevens</li><li>Je zoekt dossiers op in het papieren archief</li><li>Je vult de lijst aan met de correcte locatie van de werken</li><li>Je klasseert dossiers in het archief, je steekt graag je handen uit de mouwen om archiefdozen te verplaatsen</li></ul><p>Telewerken\nis niet mogelijk voor dit takenpakket. Het takenpakket in het archief vereist\nlicht fysiek werk dat je enkel in Brussel kan uitvoeren.</p><p><strong>Voor de\nafdeling Kennis en Advisering (1 jobstudent bij voorkeur de eerste twee weken\nvan juli)</strong><br> </p><ul><li>Je actualiseert de (online) catalogus van het KennisPunt Scholenbouw<br><span>\t<br></span><span>\t</span>- Je vergelijkt de gegevens uit de catalogus met de publicaties in de bibliotheek<br><span>\t</span>- Hiervoor werk je in Brussel</li></ul><ul><li>Je vult de informatie over de publicaties verder aan in de digitale catalogus (coverfoto, inhoud, trefwoorden…)<br><br><span>\t</span>- Hiervoor zoek je online naar gegevens<br><span>\t</span>- Voor publicaties die online niet te vinden zijn, werk je in Brussel</li></ul>",
-        "htmlEncoded": "<p><strong><font size=\"3\">Je functie in het kort</font><br></strong><br>Op zoek\nnaar een boeiende vakantiejob?<br> Het Agentschap voor Infrastructuur in het Onderwijs (AGION) zoekt gemotiveerde\njobstudenten voor de afdeling Reguliere financiering en de afdeling Kennis en\nAdvisering in Brussel voor de periode <strong>juli en augustus</strong>.<br>Boeit en interesseert onderwijs of schoolinfrastructuur jou? Bekijk dan\nzeker ons aanbod.<br><br><strong>Voor de afdeling Reguliere Financiering (2 jobstudenten in juli, 2 in\naugustus)</strong></p><ul><li>Je staat in voor de controle van de bouwlocaties van werken aan scholen in het computersysteem</li><li>Je verzamelt, raadpleegt en controleert documenten en gegevens</li><li>Je zoekt dossiers op in het papieren archief</li><li>Je vult de lijst aan met de correcte locatie van de werken</li><li>Je klasseert dossiers in het archief, je steekt graag je handen uit de mouwen om archiefdozen te verplaatsen</li></ul><p>Telewerken\nis niet mogelijk voor dit takenpakket. Het takenpakket in het archief vereist\nlicht fysiek werk dat je enkel in Brussel kan uitvoeren.</p><p><strong>Voor de\nafdeling Kennis en Advisering (1 jobstudent bij voorkeur de eerste twee weken\nvan juli)</strong><br> </p><ul><li>Je actualiseert de (online) catalogus van het KennisPunt Scholenbouw<br><span>\t<br></span><span>\t</span>- Je vergelijkt de gegevens uit de catalogus met de publicaties in de bibliotheek<br><span>\t</span>- Hiervoor werk je in Brussel</li></ul><ul><li>Je vult de informatie over de publicaties verder aan in de digitale catalogus (coverfoto, inhoud, trefwoorden…)<br><br><span>\t</span>- Hiervoor zoek je online naar gegevens<br><span>\t</span>- Voor publicaties die online niet te vinden zijn, werk je in Brussel</li></ul>"
+        "raw": "<p>Op zoek\nnaar een boeiende vakantiejob?<br> Het Agentschap voor Infrastructuur in het Onderwijs (AGION) zoekt gemotiveerde\njobstudenten voor de afdeling Reguliere financiering en de afdeling Kennis en\nAdvisering in Brussel voor de periode <strong>juli en augustus</strong>.<br>Boeit en interesseert onderwijs of schoolinfrastructuur jou? Bekijk dan\nzeker ons aanbod.<br><br><strong>Voor de afdeling Reguliere Financiering (2 jobstudenten in juli, 2 in\naugustus)</strong></p><ul><li>Je staat in voor de controle van de bouwlocaties van werken aan scholen in het computersysteem</li><li>Je verzamelt, raadpleegt en controleert documenten en gegevens</li><li>Je zoekt dossiers op in het papieren archief</li><li>Je vult de lijst aan met de correcte locatie van de werken</li><li>Je klasseert dossiers in het archief, je steekt graag je handen uit de mouwen om archiefdozen te verplaatsen</li></ul><p>Telewerken\nis niet mogelijk voor dit takenpakket. Het takenpakket in het archief vereist\nlicht fysiek werk dat je enkel in Brussel kan uitvoeren.</p><p><strong>Voor de\nafdeling Kennis en Advisering (1 jobstudent bij voorkeur de eerste twee weken\nvan juli)</strong><br> </p><ul><li>Je actualiseert de (online) catalogus van het KennisPunt Scholenbouw<br><span>\t<br></span><span>\t</span>- Je vergelijkt de gegevens uit de catalogus met de publicaties in de bibliotheek<br><span>\t</span>- Hiervoor werk je in Brussel</li></ul><ul><li>Je vult de informatie over de publicaties verder aan in de digitale catalogus (coverfoto, inhoud, trefwoorden…)<br><br><span>\t</span>- Hiervoor zoek je online naar gegevens<br><span>\t</span>- Voor publicaties die online niet te vinden zijn, werk je in Brussel</li></ul>",
+        "htmlEncoded": "<p>Op zoek\nnaar een boeiende vakantiejob?<br> Het Agentschap voor Infrastructuur in het Onderwijs (AGION) zoekt gemotiveerde\njobstudenten voor de afdeling Reguliere financiering en de afdeling Kennis en\nAdvisering in Brussel voor de periode <strong>juli en augustus</strong>.<br>Boeit en interesseert onderwijs of schoolinfrastructuur jou? Bekijk dan\nzeker ons aanbod.<br><br><strong>Voor de afdeling Reguliere Financiering (2 jobstudenten in juli, 2 in\naugustus)</strong></p><ul><li>Je staat in voor de controle van de bouwlocaties van werken aan scholen in het computersysteem</li><li>Je verzamelt, raadpleegt en controleert documenten en gegevens</li><li>Je zoekt dossiers op in het papieren archief</li><li>Je vult de lijst aan met de correcte locatie van de werken</li><li>Je klasseert dossiers in het archief, je steekt graag je handen uit de mouwen om archiefdozen te verplaatsen</li></ul><p>Telewerken\nis niet mogelijk voor dit takenpakket. Het takenpakket in het archief vereist\nlicht fysiek werk dat je enkel in Brussel kan uitvoeren.</p><p><strong>Voor de\nafdeling Kennis en Advisering (1 jobstudent bij voorkeur de eerste twee weken\nvan juli)</strong><br> </p><ul><li>Je actualiseert de (online) catalogus van het KennisPunt Scholenbouw<br><span>\t<br></span><span>\t</span>- Je vergelijkt de gegevens uit de catalogus met de publicaties in de bibliotheek<br><span>\t</span>- Hiervoor werk je in Brussel</li></ul><ul><li>Je vult de informatie over de publicaties verder aan in de digitale catalogus (coverfoto, inhoud, trefwoorden…)<br><br><span>\t</span>- Hiervoor zoek je online naar gegevens<br><span>\t</span>- Voor publicaties die online niet te vinden zijn, werk je in Brussel</li></ul>"
       },
       "locations": [
         {
@@ -4848,6 +4883,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17878",
+      "internal": false,
+      "validThroughDate": "1745280000",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17878",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder visserij"
+      },
+      "displayTitle": "Dossierbeheerder visserij",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je een passie voor visserij en ben je op zoek naar een administratieve job met impact? Ben je sterk met financiële gegevens en dossieropvolging? Werk je graag samen met mensen en ben je flexibel ingesteld? Dan is de vacature van dossierbeheerder visserij binnen het Agentschap Landbouw en Zeevisserij iets voor jou! Het agentschap is op zoek naar een nieuwe collega die sociaal is in de omgang en zich snel kan aanpassen in een team van 4 collega’s.<span>&nbsp; </span></span></p> <p><span>Als dossierbeheerder binnen de beheerautoriteit van het Visserijfonds FIVA/EFMZVA volg je subsidiedossiers inzake visserij mee op. Voor deze opvolging wordt er momenteel een nieuwe IT-applicatie ontwikkeld. Samen met je collega’s werk je mee aan het efficiënter maken van de digitale dossierflow. </span></p> <p><span>De opvolging van subsidiedossiers gebeurt zowel op kantoor als via bedrijfsbezoeken (aan boord van vissersvaartuigen, aquacultuurbedrijven, visveilingen, visverwerkende bedrijven, onderzoeksinstellingen). Je verzamelt alle nodige informatie om op een gefundeerde manier subsidievoorstellen te formuleren over de ingediende subsidieaanvragen. Na uitvoering van investeringsprojecten voer je verificaties ter plaatse uit om erop toe te zien dat de aangevraagde investeringen correct werden uitgevoerd en opgenomen in de bedrijfsboekhouding. Je behandelt betalingsaanvragen voor goedgekeurde subsidieaanvragen.</span></p> <p><span>Je communiceert met externe klanten om deze te ondersteunen bij hun subsidieaanvragen. Je werkt daarbij nauw samen met de programmafacilitator die erop toeziet dat de Europese subsidies efficiënt besteed worden.</span></p> <p><span>Je werkt ook vlot samen met interne klanten: je verstuurt betalingsopdrachten, je verwerkt Europese ontvangsten, je geeft uitvoering aan het afsprakenkader met IF, je houdt gegevens bij voor rapporteringen…</span></p><p><span><strong>Lees meer\nover de job en het selectieproces in het selectiereglement als bijlage bij\n‘meer informatie’. Download dit document en hou het bij.</strong></span></p>",
+        "htmlEncoded": "<p><span>Heb je een passie voor visserij en ben je op zoek naar een administratieve job met impact? Ben je sterk met financiële gegevens en dossieropvolging? Werk je graag samen met mensen en ben je flexibel ingesteld? Dan is de vacature van dossierbeheerder visserij binnen het Agentschap Landbouw en Zeevisserij iets voor jou! Het agentschap is op zoek naar een nieuwe collega die sociaal is in de omgang en zich snel kan aanpassen in een team van 4 collega’s.<span>&nbsp; </span></span></p> <p><span>Als dossierbeheerder binnen de beheerautoriteit van het Visserijfonds FIVA/EFMZVA volg je subsidiedossiers inzake visserij mee op. Voor deze opvolging wordt er momenteel een nieuwe IT-applicatie ontwikkeld. Samen met je collega’s werk je mee aan het efficiënter maken van de digitale dossierflow. </span></p> <p><span>De opvolging van subsidiedossiers gebeurt zowel op kantoor als via bedrijfsbezoeken (aan boord van vissersvaartuigen, aquacultuurbedrijven, visveilingen, visverwerkende bedrijven, onderzoeksinstellingen). Je verzamelt alle nodige informatie om op een gefundeerde manier subsidievoorstellen te formuleren over de ingediende subsidieaanvragen. Na uitvoering van investeringsprojecten voer je verificaties ter plaatse uit om erop toe te zien dat de aangevraagde investeringen correct werden uitgevoerd en opgenomen in de bedrijfsboekhouding. Je behandelt betalingsaanvragen voor goedgekeurde subsidieaanvragen.</span></p> <p><span>Je communiceert met externe klanten om deze te ondersteunen bij hun subsidieaanvragen. Je werkt daarbij nauw samen met de programmafacilitator die erop toeziet dat de Europese subsidies efficiënt besteed worden.</span></p> <p><span>Je werkt ook vlot samen met interne klanten: je verstuurt betalingsopdrachten, je verwerkt Europese ontvangsten, je geeft uitvoering aan het afsprakenkader met IF, je houdt gegevens bij voor rapporteringen…</span></p><p><span><strong>Lees meer\nover de job en het selectieproces in het selectiereglement als bijlage bij\n‘meer informatie’. Download dit document en hou het bij.</strong></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17874",
       "internal": true,
       "validThroughDate": "1744329600",
@@ -5075,6 +5145,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17843",
+      "internal": true,
+      "validThroughDate": "1744934400",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17843",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Directeur communicatie"
+      },
+      "displayTitle": "Directeur communicatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Sport Vlaanderen is dé drijvende kracht achter sport in Vlaanderen. We zetten ons in om zoveel mogelijk Vlamingen in beweging te krijgen, van recreatieve sporters tot topsporters. Met een breed netwerk van sportcentra, innovatieve projecten en samenwerkingen met sportfederaties en lokale besturen, streven we naar een sportieve en gezonde samenleving.<br><br>Om onze missie nog sterker uit te dragen, zijn we op zoek naar een directeur communicatie die Sport Vlaanderen op de kaart zet en onze communicatiestrategie naar een hoger niveau tilt.<br><br>Als directeur communicatie maak je deel uit van het directieteam van de afdeling ‘ communicatie, marketing en externe evenementen’ en rapporteer je rechtstreeks aan het afdelingshoofd van deze afdeling. Je geeft leiding aan een team van communicatiespecialisten en werkt nauw samen met andere afdelingen.<br><br>Je hebt een sleutelrol in de profilering van Sport Vlaanderen, zowel bij het brede publiek als bij beleidsmakers en partners in de sportsector. Je bepaalt de strategische richting van onze communicatie- inspanningen en zorgt ervoor dat Sport Vlaanderen een herkenbare en impactvolle stem heeft.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>Sport Vlaanderen is dé drijvende kracht achter sport in Vlaanderen. We zetten ons in om zoveel mogelijk Vlamingen in beweging te krijgen, van recreatieve sporters tot topsporters. Met een breed netwerk van sportcentra, innovatieve projecten en samenwerkingen met sportfederaties en lokale besturen, streven we naar een sportieve en gezonde samenleving.<br><br>Om onze missie nog sterker uit te dragen, zijn we op zoek naar een directeur communicatie die Sport Vlaanderen op de kaart zet en onze communicatiestrategie naar een hoger niveau tilt.<br><br>Als directeur communicatie maak je deel uit van het directieteam van de afdeling ‘ communicatie, marketing en externe evenementen’ en rapporteer je rechtstreeks aan het afdelingshoofd van deze afdeling. Je geeft leiding aan een team van communicatiespecialisten en werkt nauw samen met andere afdelingen.<br><br>Je hebt een sleutelrol in de profilering van Sport Vlaanderen, zowel bij het brede publiek als bij beleidsmakers en partners in de sportsector. Je bepaalt de strategische richting van onze communicatie- inspanningen en zorgt ervoor dat Sport Vlaanderen een herkenbare en impactvolle stem heeft.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17836",
       "internal": false,
       "validThroughDate": "1745193600",
@@ -5220,41 +5325,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17819",
-      "internal": false,
-      "validThroughDate": "1743465600",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17819",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Bemiddelaar intensieve dienstverlening"
-      },
-      "displayTitle": "Bemiddelaar intensieve dienstverlening",
-      "isProtected": false,
-      "description": {
-        "raw": "VDAB Limburg zoekt een bemiddelaar voor het clusterteam\nintensieve dienstverlening regio Maasland.<br><br>Zie\njij in je klant de talenten en niet de beperkingen? Wil je kansen creëren voor\nwerkzoekenden met een grote afstand tot de arbeidsmarkt door samen te werken\nmet interne en externe partners? Kan je goed luisteren en motiveren? Dan ben\njij de bemiddelaar intensieve dienstverlening die we zoeken.<br><br>In\nde cluster intensieve dienstverlening werken we met klanten die een grote\nafstand tot de arbeidsmarkt hebben door<br>●ernstige gezondheidsproblemen <br>●ernstige psychische problemen <br>●ernstige problemen op andere levensdomeinen (wonen, financieel, sociale contacten, ...).<br><br>We\nstreven ernaar dat iedereen de basiscompetenties heeft om de nodige\ndienstverlening te bieden aan deze klanten. Afhankelijk van de noden in het\nteam kan de focus meer of minder op één of meerdere specialisaties liggen.<br><br>Je\nstart initieel in het subteam wijk-werken waar je werkzoekenden met een grote\nafstand tot de arbeidsmarkt ervaring laat opdoen in een laagdrempelige\nwerkomgeving in hun eigen regio (Maasland). Voor deze ervaring krijgen de\nwijk-werkers een kleine vergoeding boven op hun werkloosheidsuitkering. Met\ndeze gespecialiseerde dienstverlening bied je de werkzoekenden extra kansen bij\nhun zoektocht naar duurzaam werk.<br><br>Je\nconcrete taken als bemiddelaar wijk-werken zijn:<br>●Je matcht de werkzoekende met concrete opdrachten in het kader van wijk-werken en je volgt hem/ haar hierbij op (je hebt maandelijks contact met de wijkwerker).<br>●Je staat in nauw contact met de toeleider (VDAB-bemiddelaar of OCMW-consulent), waar je ook eventuele problemen of aandachtspunten naar signaleert.<br>●Je onderhoudt je contacten met de gebruikers (scholen, verenigingen, particulieren) in functie van opvolging van de werkzoekende/ leefloongerechtigde tijdens het wijk-werken.<br>●Je beheert het wijk-werkdossier in het wijk-werkplatform en vult het VDAB-dossier van de werkzoekende aan waar nodig en relevant.<br>●Je evalueert de wijkwerker en schrijft deze info weg in de ICF. <br>●Je zorgt voor de verwerking van de prestaties en de wijk-werkcheques en volgt de administratie op (inschrijvingsrecht, wijk-werkovereenkomsten, gebruikersovereenkomsten, arbeidsongevallen, schadegevallen…).<br>●Je doet prospectie naar potentiële nieuwe gebruikers in afstemming met de teamleider VDAB en de wijk-werkorganisator.<br><br>Jouw\ntroeven:<br>●Je hebt affiniteit met onze doelgroepen en staat open voor diversiteit. Je hebt zicht op de invloed van fysieke en psychische problemen op het werk en herkent de indicaties van armoede. Je kent tools om met anderstalige werkzoekenden te communiceren.<br>●Je bent positief ingesteld en sociaal voelend, maar kan ook bewaken dat personen hun verplichtingen nakomen. <br>●Je gezonde dosis creativiteit om oplossingen te bedenken, relativeringsvermogen en initiatiefname zijn echte pluspunten voor deze job.<br>●Je kan om met een hoge werkdruk en kan je organiseren zodat je je taken kan inplannen. Je bent flexibel inzetbaar in de ruime regio. Binnen deze regio verplaats je je naar de verschillende wijkwerkkantoren. <br>●Je bent een teamplayer en draagt bij tot het behalen van de teamdoelstellingen. Je kan feedback geven, maar op een constructieve manier.<br>●Je bent sterk in rapportering en bent bereid om ICF-verslaggeving aan te leren.<br>●Je hebt zicht op het partnerlandschap en de werkgevers in deze sector in de regio.<br><br>Lees in de bijlage meer over het gevraagde profiel.",
-        "htmlEncoded": "VDAB Limburg zoekt een bemiddelaar voor het clusterteam\nintensieve dienstverlening regio Maasland.<br><br>Zie\njij in je klant de talenten en niet de beperkingen? Wil je kansen creëren voor\nwerkzoekenden met een grote afstand tot de arbeidsmarkt door samen te werken\nmet interne en externe partners? Kan je goed luisteren en motiveren? Dan ben\njij de bemiddelaar intensieve dienstverlening die we zoeken.<br><br>In\nde cluster intensieve dienstverlening werken we met klanten die een grote\nafstand tot de arbeidsmarkt hebben door<br>●ernstige gezondheidsproblemen <br>●ernstige psychische problemen <br>●ernstige problemen op andere levensdomeinen (wonen, financieel, sociale contacten, ...).<br><br>We\nstreven ernaar dat iedereen de basiscompetenties heeft om de nodige\ndienstverlening te bieden aan deze klanten. Afhankelijk van de noden in het\nteam kan de focus meer of minder op één of meerdere specialisaties liggen.<br><br>Je\nstart initieel in het subteam wijk-werken waar je werkzoekenden met een grote\nafstand tot de arbeidsmarkt ervaring laat opdoen in een laagdrempelige\nwerkomgeving in hun eigen regio (Maasland). Voor deze ervaring krijgen de\nwijk-werkers een kleine vergoeding boven op hun werkloosheidsuitkering. Met\ndeze gespecialiseerde dienstverlening bied je de werkzoekenden extra kansen bij\nhun zoektocht naar duurzaam werk.<br><br>Je\nconcrete taken als bemiddelaar wijk-werken zijn:<br>●Je matcht de werkzoekende met concrete opdrachten in het kader van wijk-werken en je volgt hem/ haar hierbij op (je hebt maandelijks contact met de wijkwerker).<br>●Je staat in nauw contact met de toeleider (VDAB-bemiddelaar of OCMW-consulent), waar je ook eventuele problemen of aandachtspunten naar signaleert.<br>●Je onderhoudt je contacten met de gebruikers (scholen, verenigingen, particulieren) in functie van opvolging van de werkzoekende/ leefloongerechtigde tijdens het wijk-werken.<br>●Je beheert het wijk-werkdossier in het wijk-werkplatform en vult het VDAB-dossier van de werkzoekende aan waar nodig en relevant.<br>●Je evalueert de wijkwerker en schrijft deze info weg in de ICF. <br>●Je zorgt voor de verwerking van de prestaties en de wijk-werkcheques en volgt de administratie op (inschrijvingsrecht, wijk-werkovereenkomsten, gebruikersovereenkomsten, arbeidsongevallen, schadegevallen…).<br>●Je doet prospectie naar potentiële nieuwe gebruikers in afstemming met de teamleider VDAB en de wijk-werkorganisator.<br><br>Jouw\ntroeven:<br>●Je hebt affiniteit met onze doelgroepen en staat open voor diversiteit. Je hebt zicht op de invloed van fysieke en psychische problemen op het werk en herkent de indicaties van armoede. Je kent tools om met anderstalige werkzoekenden te communiceren.<br>●Je bent positief ingesteld en sociaal voelend, maar kan ook bewaken dat personen hun verplichtingen nakomen. <br>●Je gezonde dosis creativiteit om oplossingen te bedenken, relativeringsvermogen en initiatiefname zijn echte pluspunten voor deze job.<br>●Je kan om met een hoge werkdruk en kan je organiseren zodat je je taken kan inplannen. Je bent flexibel inzetbaar in de ruime regio. Binnen deze regio verplaats je je naar de verschillende wijkwerkkantoren. <br>●Je bent een teamplayer en draagt bij tot het behalen van de teamdoelstellingen. Je kan feedback geven, maar op een constructieve manier.<br>●Je bent sterk in rapportering en bent bereid om ICF-verslaggeving aan te leren.<br>●Je hebt zicht op het partnerlandschap en de werkgevers in deze sector in de regio.<br><br>Lees in de bijlage meer over het gevraagde profiel."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Maasmechelen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17815",
       "internal": true,
       "validThroughDate": "1744934400",
@@ -5340,41 +5410,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17807",
-      "internal": false,
-      "validThroughDate": "1743465600",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17807",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Bemiddelaar Business support en retail"
-      },
-      "displayTitle": "Bemiddelaar Business support en retail",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>VDAB Limburg zoekt een bemiddelaar voor het sectorteam\nBusiness support en retail.<br><br>Als\nsectoraal bemiddelaar ben je verantwoordelijk voor het begeleiden van\nwerkzoekenden. Je werkt met mensen die competentieversterking nodig hebben of\nhebben gevolgd, en je zorgt ervoor dat ze de juiste ondersteuning krijgen. Zo\nbreng je succesvolle arbeidsrelaties tot stand. Het uiteindelijke doel is om zo\nsnel mogelijk werkzoekenden en werkgevers te matchen en zo de\nwerkzaamheidsgraad in Limburg te verhogen.</p><ul><li>Je maakt per werkzoekende\n     een persoonlijk plan van aanpak volgens onze methodiek. Je gebruikt de input van\n     het dossier om de werkzoekende toe te leiden naar het juiste aanbod. Dit\n     kan een opleiding zijn of een traject bij één van onze partners.</li><li>Je activeert werkzoekenden\n     en volgt hun sollicitatieactiviteiten op. Je geeft hen concrete\n     opdrachten, houdt opvolgingsgesprekken en indien een werkzoekende niet\n     positief meewerkt, wijs je hem/haar op zijn/haar rechten en plichten.</li><li>Je organiseert activiteiten\n     tussen werkzoekenden en werkgevers. Denk aan jobbeurzen, speeddates,\n     werkplekleren, stages, …</li><li>Je ziet opportuniteiten op de arbeidsmarkt en contacteert spontaan\n     werkgevers om kansen te creëren voor de werkzoekenden.</li><li>Je evalueert proactief de\n     samenwerkingen met de werkgevers. Dit houdt in dat je de trajecten van de werkzoekenden\n     bij hen opvolgt.&nbsp;</li><li>Je bent verantwoordelijk\n     voor de administratieve taken. Je houdt het dossier van de werkzoekenden\n     gedetailleerd bij. Je zorgt voor de juiste registratie voor bijvoorbeeld\n     bewindvoerders, verblijfsdocumenten, controles, …</li></ul><p>Je taken als bemiddelaar:&nbsp;</p><ul><li>Je schat met korte doelgerichte gesprekken de afstand van de klant tot de huidige arbeidsmarkt in. Je bespreekt vragen en belemmeringen met werkzoekenden. Je gaat mee op zoek naar antwoorden en kansen om, via een plan van aanpak, duurzame tewerkstelling mogelijk te maken. Samen met je klant bepaal je het meest passende traject naar werk.</li><li>Je informeert de klant over het VDAB-aanbod en tewerkstellingsmogelijkheden binnen de sector. Hiervoor gebruik je verschillende kanalen (F2F, mail, telefoon, videocall, groepssessies), afgestemd op de behoefte van de klant.</li><li>Je maakt optimaal gebruik van de eigen dienstverlening en het aanbod van partners, zowel op het vlak van bemiddeling als competentieversterking. Wanneer klanten niet positief meewerken start je een transmissieprocedure op.</li><li>Je beheert alle dossiers in je klantenportefeuille via het dashboard nauwgezet, en volgt gemaakte afspraken actief en consequent op.</li><li>Je start initieel als bemiddelaar werkzoekenden, toch kan dit later gecombineerd worden met vacaturebeheer. Aangezien VDAB een continu veranderende organisatie is, zijn we afhankelijk van de gegeven opdracht.<br>- Je beheert vacatures met het oog op een matching van werkgevers met werkzoekenden (en omgekeerd). Je neemt contact op met werkgevers en bespreekt hun vacature en de acties die je eraan zal koppelen.<br>- Je werkt samen met je collega’s je proactieve acties uit voor de werkgevers zoals jobdates, jobbeurzen, ondersteunende acties zoals werkplekleren en competentieversterking.</li><li>Je bent een teamplayer en draagt actief bij aan het realiseren van de teamdoelstellingen.</li><li>Je neemt desgevallend tijdelijk de taken van een collega over in het belang van de continuïteit van dienstverlening. Je bent bereid om je voor een klantgerichte dienstverlening te verplaatsen naar andere locaties in Limburg.</li><li>Je hebt affiniteit met de sector Business support en retail en met onze doelgroep.</li><li>Je staat open voor het diverse en dynamische takenpakket van een bemiddelaar.</li></ul><p>Lees in de bijlage meer over het gevraagde profiel.</p>",
-        "htmlEncoded": "<p>VDAB Limburg zoekt een bemiddelaar voor het sectorteam\nBusiness support en retail.<br><br>Als\nsectoraal bemiddelaar ben je verantwoordelijk voor het begeleiden van\nwerkzoekenden. Je werkt met mensen die competentieversterking nodig hebben of\nhebben gevolgd, en je zorgt ervoor dat ze de juiste ondersteuning krijgen. Zo\nbreng je succesvolle arbeidsrelaties tot stand. Het uiteindelijke doel is om zo\nsnel mogelijk werkzoekenden en werkgevers te matchen en zo de\nwerkzaamheidsgraad in Limburg te verhogen.</p><ul><li>Je maakt per werkzoekende\n     een persoonlijk plan van aanpak volgens onze methodiek. Je gebruikt de input van\n     het dossier om de werkzoekende toe te leiden naar het juiste aanbod. Dit\n     kan een opleiding zijn of een traject bij één van onze partners.</li><li>Je activeert werkzoekenden\n     en volgt hun sollicitatieactiviteiten op. Je geeft hen concrete\n     opdrachten, houdt opvolgingsgesprekken en indien een werkzoekende niet\n     positief meewerkt, wijs je hem/haar op zijn/haar rechten en plichten.</li><li>Je organiseert activiteiten\n     tussen werkzoekenden en werkgevers. Denk aan jobbeurzen, speeddates,\n     werkplekleren, stages, …</li><li>Je ziet opportuniteiten op de arbeidsmarkt en contacteert spontaan\n     werkgevers om kansen te creëren voor de werkzoekenden.</li><li>Je evalueert proactief de\n     samenwerkingen met de werkgevers. Dit houdt in dat je de trajecten van de werkzoekenden\n     bij hen opvolgt.&nbsp;</li><li>Je bent verantwoordelijk\n     voor de administratieve taken. Je houdt het dossier van de werkzoekenden\n     gedetailleerd bij. Je zorgt voor de juiste registratie voor bijvoorbeeld\n     bewindvoerders, verblijfsdocumenten, controles, …</li></ul><p>Je taken als bemiddelaar:&nbsp;</p><ul><li>Je schat met korte doelgerichte gesprekken de afstand van de klant tot de huidige arbeidsmarkt in. Je bespreekt vragen en belemmeringen met werkzoekenden. Je gaat mee op zoek naar antwoorden en kansen om, via een plan van aanpak, duurzame tewerkstelling mogelijk te maken. Samen met je klant bepaal je het meest passende traject naar werk.</li><li>Je informeert de klant over het VDAB-aanbod en tewerkstellingsmogelijkheden binnen de sector. Hiervoor gebruik je verschillende kanalen (F2F, mail, telefoon, videocall, groepssessies), afgestemd op de behoefte van de klant.</li><li>Je maakt optimaal gebruik van de eigen dienstverlening en het aanbod van partners, zowel op het vlak van bemiddeling als competentieversterking. Wanneer klanten niet positief meewerken start je een transmissieprocedure op.</li><li>Je beheert alle dossiers in je klantenportefeuille via het dashboard nauwgezet, en volgt gemaakte afspraken actief en consequent op.</li><li>Je start initieel als bemiddelaar werkzoekenden, toch kan dit later gecombineerd worden met vacaturebeheer. Aangezien VDAB een continu veranderende organisatie is, zijn we afhankelijk van de gegeven opdracht.<br>- Je beheert vacatures met het oog op een matching van werkgevers met werkzoekenden (en omgekeerd). Je neemt contact op met werkgevers en bespreekt hun vacature en de acties die je eraan zal koppelen.<br>- Je werkt samen met je collega’s je proactieve acties uit voor de werkgevers zoals jobdates, jobbeurzen, ondersteunende acties zoals werkplekleren en competentieversterking.</li><li>Je bent een teamplayer en draagt actief bij aan het realiseren van de teamdoelstellingen.</li><li>Je neemt desgevallend tijdelijk de taken van een collega over in het belang van de continuïteit van dienstverlening. Je bent bereid om je voor een klantgerichte dienstverlening te verplaatsen naar andere locaties in Limburg.</li><li>Je hebt affiniteit met de sector Business support en retail en met onze doelgroep.</li><li>Je staat open voor het diverse en dynamische takenpakket van een bemiddelaar.</li></ul><p>Lees in de bijlage meer over het gevraagde profiel.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Genk"
           }
         }
       ]
@@ -6044,6 +6079,51 @@
         {
           "address": {
             "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17694",
+      "internal": false,
+      "validThroughDate": "1745366400",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 5,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17694",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Supervisor elektrische weginstallaties"
+      },
+      "displayTitle": "Supervisor elektrische weginstallaties",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bijdragen aan\nverkeersveiligheid, meewerken aan efficiënte wegen en zorgen voor betrouwbare\ninfrastructuur – dat zijn jouw rollen als supervisor elektrische\nweginstallaties. Interesse? Lees dan zeker verder!<br><br><strong>Het Agentschap Wegen en\nVerkeer is op zoek naar 5 supervisors elektrische weguitrusting: 2 voor\nafdeling Oost-Vlaanderen, 2 voor afdeling Antwerpen, 1 voor afdeling Limburg.\nBij jouw sollicitatie kan je aangeven welke regio jouw voorkeur is.</strong></p><p>Als supervisor elektrische weginstallaties bij het Agentschap Wegen en\nVerkeer speel je een cruciale rol binnen de Pijler Verkeersveiligheid en\nWeginfrastructuur van een provinciale wegenafdeling. Je bent verantwoordelijk\nvoor de uitvoering en het onderhoud van diverse elektrische weginstallaties\nzoals roodlichtcamera’s, snelheidscamera’s, dynamische borden,\nfilebeveiligingssystemen, verkeerslichten, verkeersregelaars en wegverlichting.\nJouw werk draagt direct bij aan de verbetering van de verkeersveiligheid en de\ndoorstroming op onze wegen.<br><br>Jouw takenpakket is\ndivers: </p><ul><li>Je plant en organiseert de werkzaamheden samen met je team</li><li>Je houdt contact met bedrijven die werken aan verkeersveiligheidsprojecten.</li><li>Je bezoekt de werklocaties, voert controles uit (soms ook 's nachts) en zorgt ervoor dat het werk veilig en volgens de goedgekeurde plannen wordt uitgevoerd.</li><li>Je werkt aan ramingen en studies, neemt deel aan werfvergaderingen en biedt technische ondersteuning en coördinatie aan aannemers.</li><li>Je schrijft een duidelijk rapport na elke controle en bespreekt de resultaten met alle betrokken partijen. Je geeft advies over mogelijke verbeteringen.</li></ul><p>Je doelen als supervisor elektrische weginstallaties realiseer je niet\nalleen, maar samen met je collega’s uit team Weguitrusting. Je kan steeds op\niedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km\nfietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met\niedereen. Het Agentschap Wegen en Verkeer wil dé toonaangevende,\ntoekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor\nvan veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid\nkomt bij ons steeds op de eerste plaats.&nbsp;</p>",
+        "htmlEncoded": "<p>Bijdragen aan\nverkeersveiligheid, meewerken aan efficiënte wegen en zorgen voor betrouwbare\ninfrastructuur – dat zijn jouw rollen als supervisor elektrische\nweginstallaties. Interesse? Lees dan zeker verder!<br><br><strong>Het Agentschap Wegen en\nVerkeer is op zoek naar 5 supervisors elektrische weguitrusting: 2 voor\nafdeling Oost-Vlaanderen, 2 voor afdeling Antwerpen, 1 voor afdeling Limburg.\nBij jouw sollicitatie kan je aangeven welke regio jouw voorkeur is.</strong></p><p>Als supervisor elektrische weginstallaties bij het Agentschap Wegen en\nVerkeer speel je een cruciale rol binnen de Pijler Verkeersveiligheid en\nWeginfrastructuur van een provinciale wegenafdeling. Je bent verantwoordelijk\nvoor de uitvoering en het onderhoud van diverse elektrische weginstallaties\nzoals roodlichtcamera’s, snelheidscamera’s, dynamische borden,\nfilebeveiligingssystemen, verkeerslichten, verkeersregelaars en wegverlichting.\nJouw werk draagt direct bij aan de verbetering van de verkeersveiligheid en de\ndoorstroming op onze wegen.<br><br>Jouw takenpakket is\ndivers: </p><ul><li>Je plant en organiseert de werkzaamheden samen met je team</li><li>Je houdt contact met bedrijven die werken aan verkeersveiligheidsprojecten.</li><li>Je bezoekt de werklocaties, voert controles uit (soms ook 's nachts) en zorgt ervoor dat het werk veilig en volgens de goedgekeurde plannen wordt uitgevoerd.</li><li>Je werkt aan ramingen en studies, neemt deel aan werfvergaderingen en biedt technische ondersteuning en coördinatie aan aannemers.</li><li>Je schrijft een duidelijk rapport na elke controle en bespreekt de resultaten met alle betrokken partijen. Je geeft advies over mogelijke verbeteringen.</li></ul><p>Je doelen als supervisor elektrische weginstallaties realiseer je niet\nalleen, maar samen met je collega’s uit team Weguitrusting. Je kan steeds op\niedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km\nfietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met\niedereen. Het Agentschap Wegen en Verkeer wil dé toonaangevende,\ntoekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor\nvan veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid\nkomt bij ons steeds op de eerste plaats.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
           }
         }
       ]
@@ -6731,41 +6811,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17595",
-      "internal": false,
-      "validThroughDate": "1743465600",
-      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17595",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Adviseur dossiers VLIF"
-      },
-      "displayTitle": "Adviseur dossiers VLIF",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Heb jij een passie voor de Vlaamse land- en tuinbouwsector en werk je graag met dossiers? Ben je nauwkeurig en analytisch? Dan zoeken wij jou!</span></p> <p><span>Als adviseur dossiers VLIF valideer je beslissingen in vestigings- en investeringsdossiers en optimaliseer je werkprocessen. Je ondersteunt dossierbeheerders, volgt investeringsdossiers op en fungeert als aanspreekpunt.</span></p> <p><span>Je werkt binnen een ervaren team verspreid over Vlaanderen en krijgt een mentor bij je start. Jouw inzichten dragen bij aan parlementaire en beleidsvragen, waardoor je impact hebt op de sector.</span></p> <p><span>Klaar om mee te bouwen aan een duurzame landbouw? Solliciteer nu!</span></p> <p><strong><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></strong><strong></strong></p>",
-        "htmlEncoded": "<p><span>Heb jij een passie voor de Vlaamse land- en tuinbouwsector en werk je graag met dossiers? Ben je nauwkeurig en analytisch? Dan zoeken wij jou!</span></p> <p><span>Als adviseur dossiers VLIF valideer je beslissingen in vestigings- en investeringsdossiers en optimaliseer je werkprocessen. Je ondersteunt dossierbeheerders, volgt investeringsdossiers op en fungeert als aanspreekpunt.</span></p> <p><span>Je werkt binnen een ervaren team verspreid over Vlaanderen en krijgt een mentor bij je start. Jouw inzichten dragen bij aan parlementaire en beleidsvragen, waardoor je impact hebt op de sector.</span></p> <p><span>Klaar om mee te bouwen aan een duurzame landbouw? Solliciteer nu!</span></p> <p><strong><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></strong><strong></strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
