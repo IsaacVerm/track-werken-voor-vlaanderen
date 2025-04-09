@@ -1,10 +1,10 @@
 {
-  "totalItems": 238,
+  "totalItems": 239,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 237,
+  "lastItemOfPage": 238,
   "items": [
     {
       "link": "/Job/vdab-70814805",
@@ -5800,6 +5800,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17839",
+      "internal": false,
+      "validThroughDate": "1746316800",
+      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17839",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Kok(s) Restaurant Pachthof"
+      },
+      "displayTitle": "Kok(s) Restaurant Pachthof",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Kom werken in het hart van de natuur bij de Plantentuin van Meise! Wij zoeken enthousiaste koks voor Restaurant Pachthof, ons bezoekers en personeelsrestaurant dat opent in het najaar.</p><p>Restaurant Pachthof wordt een gemoedelijk plek met een uniek aanbod. Een aanbod dat nauw aansluit bij het DNA van de Plantentuin, bijvoorbeeld in het aanbod van niet alledaagse producten zoals specerijenthee, huisbereide kruidenlimonade, plantentuinwijn, lavendelcake, kornoeljebier, … Streekeigen, seizoensgebonden, fair trade en met een beperkte ecologische voetafdruk zijn dankzij ons Green Key label onze leidende principes.</p><p>Als kok werk je samen met de hoofdchef aan de dagelijkse bereiding van gerechten en mise en place en ondersteun je de hoofdchef bij het uitvoeren van de culinaire visie.</p><p>Heb jij een passie voor eten en een servicegerichte instelling? Solliciteer nu en word deel van ons team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Kom werken in het hart van de natuur bij de Plantentuin van Meise! Wij zoeken enthousiaste koks voor Restaurant Pachthof, ons bezoekers en personeelsrestaurant dat opent in het najaar.</p><p>Restaurant Pachthof wordt een gemoedelijk plek met een uniek aanbod. Een aanbod dat nauw aansluit bij het DNA van de Plantentuin, bijvoorbeeld in het aanbod van niet alledaagse producten zoals specerijenthee, huisbereide kruidenlimonade, plantentuinwijn, lavendelcake, kornoeljebier, … Streekeigen, seizoensgebonden, fair trade en met een beperkte ecologische voetafdruk zijn dankzij ons Green Key label onze leidende principes.</p><p>Als kok werk je samen met de hoofdchef aan de dagelijkse bereiding van gerechten en mise en place en ondersteun je de hoofdchef bij het uitvoeren van de culinaire visie.</p><p>Heb jij een passie voor eten en een servicegerichte instelling? Solliciteer nu en word deel van ons team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Meise"
           }
         }
       ]
