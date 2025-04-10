@@ -1,11 +1,151 @@
 {
-  "totalItems": 237,
+  "totalItems": 230,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 236,
+  "lastItemOfPage": 229,
   "items": [
+    {
+      "link": "/Job/vdab-70837261",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70837261",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert & Teamlead (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product Owner Expert & Teamlead (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p>Binnen data-integratie zijn er 3 subteams die diverse producten beheren rond data-integratie. Van open tot gesloten systemen voor het ontsluiten van data via diverse kanalen. Deze data wordt gebruikt in bedrijfsprocessen en het erstrekken informatie omtrent diverse domeinen binnen de overheid (bv. Omgeving, persoon, etc…) .</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span><span>Digitalisering</span></span><span><span>staat</span></span><span><span>hoger</span></span><span><span> dan </span></span><span><span>ooit</span></span><span><span> op de </span></span><span><span>Vlaamse</span></span><span><span> agenda. </span></span><span><span>Digitaal</span></span><span><span> Vlaanderen </span></span><span><span>beantwoordt</span></span><span><span>aan</span></span><span><span>deze</span></span><span><span>nood</span></span><span><span>. We </span></span><span><span>willen</span></span><span><span> de motor </span></span><span><span>zijn</span></span><span><span>voor</span></span><span><span> de </span></span><span><span>digitale</span></span><span><span>transformatie</span></span><span><span> van </span></span><span><span>overheden</span></span><span><span> in Vlaanderen.</span></span></p> \n<p>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>In je rol van Product Owner zal je samenwerken met experten op het vlak van databeheer, datatransformatie en IT architecten binnen Digitaal Vlaanderen waarbij je als Product Owner mee vorm geeft aan een deelproces van onze data-keten en het bewaken van de functionaliteit, schaalbaarheid en beheerbaarheid van het systeem.</span></p> \n<p><span>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van klanten, stakeholders en eindgebruikers.</span></p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking, het ter beschikking stellen van nieuwe functionaliteiten binnen de bestaande systemen, het toekomstgericht opschalen van de systemen om te voldoen aan de toekomstige noden en het aanbieden van nieuwe data-formaten op basis van de evoluerende standaarden en aangereikte usecases. Je zorgt voor het opstellen van de budgetten en het opvolgen en rapporteren ervan in samenwerking met de financieel verantwoordelijken binnen de organisatie.</p> \n<p>In je rol als teamlead leid je één van de subteams in het team Data-integratie van de afdeling Data Platform van Digitaal Vlaanderen.In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de functionele teams. Je ondersteunt ook de persoonlijke en professionele groei van elk teamlid.</p> \n<p>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p>Binnen data-integratie zijn er 3 subteams die diverse producten beheren rond data-integratie. Van open tot gesloten systemen voor het ontsluiten van data via diverse kanalen. Deze data wordt gebruikt in bedrijfsprocessen en het erstrekken informatie omtrent diverse domeinen binnen de overheid (bv. Omgeving, persoon, etc…) .</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span><span>Digitalisering</span></span><span><span>staat</span></span><span><span>hoger</span></span><span><span> dan </span></span><span><span>ooit</span></span><span><span> op de </span></span><span><span>Vlaamse</span></span><span><span> agenda. </span></span><span><span>Digitaal</span></span><span><span> Vlaanderen </span></span><span><span>beantwoordt</span></span><span><span>aan</span></span><span><span>deze</span></span><span><span>nood</span></span><span><span>. We </span></span><span><span>willen</span></span><span><span> de motor </span></span><span><span>zijn</span></span><span><span>voor</span></span><span><span> de </span></span><span><span>digitale</span></span><span><span>transformatie</span></span><span><span> van </span></span><span><span>overheden</span></span><span><span> in Vlaanderen.</span></span></p> \n<p>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>In je rol van Product Owner zal je samenwerken met experten op het vlak van databeheer, datatransformatie en IT architecten binnen Digitaal Vlaanderen waarbij je als Product Owner mee vorm geeft aan een deelproces van onze data-keten en het bewaken van de functionaliteit, schaalbaarheid en beheerbaarheid van het systeem.</span></p> \n<p><span>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van klanten, stakeholders en eindgebruikers.</span></p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking, het ter beschikking stellen van nieuwe functionaliteiten binnen de bestaande systemen, het toekomstgericht opschalen van de systemen om te voldoen aan de toekomstige noden en het aanbieden van nieuwe data-formaten op basis van de evoluerende standaarden en aangereikte usecases. Je zorgt voor het opstellen van de budgetten en het opvolgen en rapporteren ervan in samenwerking met de financieel verantwoordelijken binnen de organisatie.</p> \n<p>In je rol als teamlead leid je één van de subteams in het team Data-integratie van de afdeling Data Platform van Digitaal Vlaanderen.In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de functionele teams. Je ondersteunt ook de persoonlijke en professionele groei van elk teamlid.</p> \n<p>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70837083",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70837083",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70837027",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70837027",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Enterprise Technology Architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Enterprise Technology Architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De functie van Enterprise Technology Architect is de lijm tussen de functies die de strategie van VDAB vorm geven, de functies die de IT-strategie </span><span><span><span>vormgeven </span></span></span><span>en de functies die het applicatie- en technologielandschap vormgeven, bouwen en onderhouden.</span></p> \n<p><span>Al deze functies focussen op en specialiseren zich in hun deel van het geheel. De functie van Enterprise Technology Architect specialiseert zich in geen van deze delen maar zorgt voor een overkoepelende consistentie en coherentie.</span></p> \n<p><span>De kandidaat wil impact hebben op </span><span><span><span>het portfolio van technologieën en hoe die</span></span></span><span> VDAB-brede strategie </span><span>en het applicatielandschap kunnen ondersteunen.</span></p> \n<p><span>Elk project dat via het PMO wordt uitgevoerd, wordt bekeken, gekaderd en opgevolgd door een Enterprise Business of Technology Architect.</span></p> \n<p><span><span>De projecten waar een Enterprise Technology Architect het meeste van de tijd aan zal besteden, zijn projecten met een grote change-impact op het portfolio van technologieën bij VDAB.</span></span></p> \n<p><strong><span>Jouw taken</span></strong></p> \n<p><strong></strong>● De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over hoe technologie de business services, capabilities, processen en applicatie services kunnen ondersteunen of realiseren.</p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin het huidige portfolio aan technologie de noden vanuit business services, capabilities, processen en applicatie services kan ondersteunen en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met een visie over hoe het portfolio aan technologie kan evolueren om mogelijke toekomstige noden te ondersteunen of realiseren.</span></p> \n<p><span><span>● </span></span><span>Beheren (maken, bijwerken) van het portfolio van technologieen die momenteel in gebruik zijn in de organisatie.</span></p> \n<p><span><span>● </span></span><span>Meten van en rapporteren over de mate waarin het portfolio van technologieen de huidige en mogelijke toekomstige noden van de business services, capabilities, processen en applicatie services ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Adviseren over mogelijke en zinvolle veranderingen in het portfolio van technologieen om de huidige en mogelijke toekomstige noden van de business services, capabilities, processen, applicatie services beter te ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Elk voorstel tot verandering (project) kaderen in het geheel van VDAB en adviseren over richtingen, risico's en aandachtspunten in de context van technologie.</span></p> \n<p><span><span>● </span></span><span>Het beheren van de life-cycle van de technologie om tijdig problemen, noodzakelijke evoluties of vervangingen te kunnen initieren.</span></p> \n<p><span><span>● </span></span><span>Onderhouden van contacten met leveranciers van technologieen om de impact van mogelijke evoluties op VDAB te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Opvolgen van nieuwe evoluties in de wereld van technologie om de opportuniteiten en bedreigingen voor VDAB tijdig te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Ondersteunen en uitbaten van de Architectuur Governance (Architecture Board, standaarden en patronen, etc.)</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De functie van Enterprise Technology Architect is de lijm tussen de functies die de strategie van VDAB vorm geven, de functies die de IT-strategie </span><span><span><span>vormgeven </span></span></span><span>en de functies die het applicatie- en technologielandschap vormgeven, bouwen en onderhouden.</span></p> \n<p><span>Al deze functies focussen op en specialiseren zich in hun deel van het geheel. De functie van Enterprise Technology Architect specialiseert zich in geen van deze delen maar zorgt voor een overkoepelende consistentie en coherentie.</span></p> \n<p><span>De kandidaat wil impact hebben op </span><span><span><span>het portfolio van technologieën en hoe die</span></span></span><span> VDAB-brede strategie </span><span>en het applicatielandschap kunnen ondersteunen.</span></p> \n<p><span>Elk project dat via het PMO wordt uitgevoerd, wordt bekeken, gekaderd en opgevolgd door een Enterprise Business of Technology Architect.</span></p> \n<p><span><span>De projecten waar een Enterprise Technology Architect het meeste van de tijd aan zal besteden, zijn projecten met een grote change-impact op het portfolio van technologieën bij VDAB.</span></span></p> \n<p><strong><span>Jouw taken</span></strong></p> \n<p><strong></strong>● De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over hoe technologie de business services, capabilities, processen en applicatie services kunnen ondersteunen of realiseren.</p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin het huidige portfolio aan technologie de noden vanuit business services, capabilities, processen en applicatie services kan ondersteunen en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met een visie over hoe het portfolio aan technologie kan evolueren om mogelijke toekomstige noden te ondersteunen of realiseren.</span></p> \n<p><span><span>● </span></span><span>Beheren (maken, bijwerken) van het portfolio van technologieen die momenteel in gebruik zijn in de organisatie.</span></p> \n<p><span><span>● </span></span><span>Meten van en rapporteren over de mate waarin het portfolio van technologieen de huidige en mogelijke toekomstige noden van de business services, capabilities, processen en applicatie services ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Adviseren over mogelijke en zinvolle veranderingen in het portfolio van technologieen om de huidige en mogelijke toekomstige noden van de business services, capabilities, processen, applicatie services beter te ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Elk voorstel tot verandering (project) kaderen in het geheel van VDAB en adviseren over richtingen, risico's en aandachtspunten in de context van technologie.</span></p> \n<p><span><span>● </span></span><span>Het beheren van de life-cycle van de technologie om tijdig problemen, noodzakelijke evoluties of vervangingen te kunnen initieren.</span></p> \n<p><span><span>● </span></span><span>Onderhouden van contacten met leveranciers van technologieen om de impact van mogelijke evoluties op VDAB te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Opvolgen van nieuwe evoluties in de wereld van technologie om de opportuniteiten en bedreigingen voor VDAB tijdig te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Ondersteunen en uitbaten van de Architectuur Governance (Architecture Board, standaarden en patronen, etc.)</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70836854",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70836854",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Data Protection Officer (Dept. Omgeving) via Vlaanderen Connect"
+      },
+      "displayTitle": "Data Protection Officer (Dept. Omgeving) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>",
+        "htmlEncoded": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70827740",
       "internal": false,
@@ -137,41 +277,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Als Security Officer </span><span>ondersteun je de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data</span><span>.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Onze IT afdeling bestaat uit een 490-tal enthousiaste IT-ers met een uitdagend IT landschap dat constant in verandering is. In ons IT Security team werken we \n<span>met de meest recente technologieën aan uitdagende projecten.</span></span></p> \n<p><span>Je ondersteunt de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data.</span></p> \n<p><span>Optimalisatie en innovatie staan centraal, bijleren doe je met volle goesting.</span></p> \n<p><span>Thuiswerk is de norm en af en toe (één keer per week) komen we naar kantoor te Brussel (op 5 minuten wandelen van het Station). </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als Security Officer werk je mee aan de Implementatie van informatiebeveiliging binnen de organisatie.</span></p> \n<p><span>Je vertaalt de informatiebeveiligingsbehoeften van de organisatie naar passende beveiligingsmaatregelen.</span></p> \n<p><span>Je werkt mee aan het opstellen en beheren van een beveiligingsplan, inclusief risicoanalyses, risicobewaking, incidentenregistratie, hulpmiddelen, training en evaluatie in het kader van informatiebeveiliging</span><span>.</span></p> \n<p><span>Je doet de Initiatie en sturing van projecten gericht op informatiebeveiliging en bewustwording.</span></p> \n<p><span>Je doet de monitoring en rapportage van informatiebeveiligingsrisico’s.</span></p> \n<p><span>Je onderhoud een gedocumenteerde kennisbasis voor informatiebeveiliging.</span></p> \n<p><span>Je ontwikkelt en verzorgt trainingen en opleidingen gericht op bewustwording van informatiebeveiliging.</span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Als Security Officer </span><span>ondersteun je de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data</span><span>.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Onze IT afdeling bestaat uit een 490-tal enthousiaste IT-ers met een uitdagend IT landschap dat constant in verandering is. In ons IT Security team werken we \n<span>met de meest recente technologieën aan uitdagende projecten.</span></span></p> \n<p><span>Je ondersteunt de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data.</span></p> \n<p><span>Optimalisatie en innovatie staan centraal, bijleren doe je met volle goesting.</span></p> \n<p><span>Thuiswerk is de norm en af en toe (één keer per week) komen we naar kantoor te Brussel (op 5 minuten wandelen van het Station). </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als Security Officer werk je mee aan de Implementatie van informatiebeveiliging binnen de organisatie.</span></p> \n<p><span>Je vertaalt de informatiebeveiligingsbehoeften van de organisatie naar passende beveiligingsmaatregelen.</span></p> \n<p><span>Je werkt mee aan het opstellen en beheren van een beveiligingsplan, inclusief risicoanalyses, risicobewaking, incidentenregistratie, hulpmiddelen, training en evaluatie in het kader van informatiebeveiliging</span><span>.</span></p> \n<p><span>Je doet de Initiatie en sturing van projecten gericht op informatiebeveiliging en bewustwording.</span></p> \n<p><span>Je doet de monitoring en rapportage van informatiebeveiligingsrisico’s.</span></p> \n<p><span>Je onderhoud een gedocumenteerde kennisbasis voor informatiebeveiliging.</span></p> \n<p><span>Je ontwikkelt en verzorgt trainingen en opleidingen gericht op bewustwording van informatiebeveiliging.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70802088",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70802088",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Manager digitale loketten (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Manager digitale loketten (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Manager digitale loketten ter versterking van onze \n<strong>afdeling Loket-oplossingen</strong>.</span></p> \n<p><span>Wil jij meewerken aan de digitale toekomst van Vlaanderen? Als Manager digitale loketten bij Digitaal Vlaanderen draag je actief bij aan de digitaliseringsopdracht van de organisatie. Je ondersteunt en adviseert afdelingen die digitale producten bouwen en klanten helpen bij hun digitaliseringsprojecten. Je werkt als partner voor de verschillende teams binnen Digitaal Vlaanderen en helpt hen om hun doelen te bereiken in een dynamische, snel veranderende omgeving.</span></p> \n<p><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze Strategische focus is gericht op</span><span> </span><strong><span>#partner,</span></strong><strong><span> </span></strong><strong><span>#ontzorgen</span></strong><strong><span> </span></strong><strong><span>en</span></strong><strong><span> </span></strong><strong><span>#éénteam</span></strong><span>, en ook jij zult bijdragen aan deze missie. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als manager leid je het team Digitale Loketten van de afdeling Loketplatform. Je bent hiërarchisch verantwoordelijke voor dit team en je hebt een brugfunctie tussen het directieteam en jouw teamleden. Naast people manager is je voornaamste opdracht het vertalen van de organisatiestrategie naar de dagelijkse werking van jouw team. Je werkt nauw samen met het directieteam, je werkt voorstellen uit en faciliteert bij de visie- en strategievorming.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je bent verantwoordelijk voor één van de 4 teams binnen de afdeling Loketplatform: digitale loketten (incl. Mijn Burgerprofiel en het onderliggende platform), infoplatform (incl. vlaanderen.be, Geopunt, Datavindplaats), Contact Center, Centraal team (service delivery, projectwerking, architecten en product partners). </span></p> \n<p><span>Als team manager digitale loketten heb je een dubbele rol: enerzijds stuur je hiërarchisch je team aan – zowel qua ontwikkeling van de mensen en cultuur, als realiseren van de tactische en operationele doelstelling. Anderzijds ben je ook een brugfiguur tussen het directieteam en jouw subteams: je zorgt voor een heldere doorvertaling van de tactische mijlpalen, en legt actief bruggen met andere teams binnen en buiten ons agentschap, om jouw en gedeelde deliverables te realiseren.</span></p> \n<p><span>Jouw team bestaat uit 2 subteams: enerzijds de front-end (app en web) van Mijn Burgerprofiel en afgeleide applicaties, anderzijds het platform van bouwstenen (generieke functionaliteiten, design system, marktplaats en selfservicing portal).</span></p> \n<p><span>Concreet binnen jouw afdeling ben je de dirigent van het operationaliseren van de hoofdlokettenstrategie. Dit betekent dat je de regierol opneemt om zowel bouwstenen voor hoofd- en thematische loketten in een platform te gieten. Daarnaast ontwikkel je ook de loketten verder die de bouwstenen gebruiken (zoals Mijn Burgerprofiel). Je werkt met een dubbele focus: enerzijds sta je in voor de operationele excellentie van jouw team. Dit betekent dat je de stabiliteit, toekomstgerichtheid en wendbaarheid van de delivery bewaakt en realiseert. Anderzijds vertrek je vanuit een sterke klantenfocus: je toetst continu de relevantie van de roadmap en deliverables af met de betrokken stakeholders.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Manager digitale loketten ter versterking van onze \n<strong>afdeling Loket-oplossingen</strong>.</span></p> \n<p><span>Wil jij meewerken aan de digitale toekomst van Vlaanderen? Als Manager digitale loketten bij Digitaal Vlaanderen draag je actief bij aan de digitaliseringsopdracht van de organisatie. Je ondersteunt en adviseert afdelingen die digitale producten bouwen en klanten helpen bij hun digitaliseringsprojecten. Je werkt als partner voor de verschillende teams binnen Digitaal Vlaanderen en helpt hen om hun doelen te bereiken in een dynamische, snel veranderende omgeving.</span></p> \n<p><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze Strategische focus is gericht op</span><span> </span><strong><span>#partner,</span></strong><strong><span> </span></strong><strong><span>#ontzorgen</span></strong><strong><span> </span></strong><strong><span>en</span></strong><strong><span> </span></strong><strong><span>#éénteam</span></strong><span>, en ook jij zult bijdragen aan deze missie. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als manager leid je het team Digitale Loketten van de afdeling Loketplatform. Je bent hiërarchisch verantwoordelijke voor dit team en je hebt een brugfunctie tussen het directieteam en jouw teamleden. Naast people manager is je voornaamste opdracht het vertalen van de organisatiestrategie naar de dagelijkse werking van jouw team. Je werkt nauw samen met het directieteam, je werkt voorstellen uit en faciliteert bij de visie- en strategievorming.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je bent verantwoordelijk voor één van de 4 teams binnen de afdeling Loketplatform: digitale loketten (incl. Mijn Burgerprofiel en het onderliggende platform), infoplatform (incl. vlaanderen.be, Geopunt, Datavindplaats), Contact Center, Centraal team (service delivery, projectwerking, architecten en product partners). </span></p> \n<p><span>Als team manager digitale loketten heb je een dubbele rol: enerzijds stuur je hiërarchisch je team aan – zowel qua ontwikkeling van de mensen en cultuur, als realiseren van de tactische en operationele doelstelling. Anderzijds ben je ook een brugfiguur tussen het directieteam en jouw subteams: je zorgt voor een heldere doorvertaling van de tactische mijlpalen, en legt actief bruggen met andere teams binnen en buiten ons agentschap, om jouw en gedeelde deliverables te realiseren.</span></p> \n<p><span>Jouw team bestaat uit 2 subteams: enerzijds de front-end (app en web) van Mijn Burgerprofiel en afgeleide applicaties, anderzijds het platform van bouwstenen (generieke functionaliteiten, design system, marktplaats en selfservicing portal).</span></p> \n<p><span>Concreet binnen jouw afdeling ben je de dirigent van het operationaliseren van de hoofdlokettenstrategie. Dit betekent dat je de regierol opneemt om zowel bouwstenen voor hoofd- en thematische loketten in een platform te gieten. Daarnaast ontwikkel je ook de loketten verder die de bouwstenen gebruiken (zoals Mijn Burgerprofiel). Je werkt met een dubbele focus: enerzijds sta je in voor de operationele excellentie van jouw team. Dit betekent dat je de stabiliteit, toekomstgerichtheid en wendbaarheid van de delivery bewaakt en realiseert. Anderzijds vertrek je vanuit een sterke klantenfocus: je toetst continu de relevantie van de roadmap en deliverables af met de betrokken stakeholders.</span></p>"
       },
       "locations": [
         {
@@ -1267,41 +1372,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70676722",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70676722",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Accountmanager (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Accountmanager (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br></span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>In onze klantgerichte organisatie speelt het accountmanagement-team een cruciale rol als verbindende schakel, zowel extern als intern. Dit team houdt het overzicht over alle samenwerkingen met onze partneroverheden en de oplossingen die we voor hen ontwikkelen.</span></p> \n<p><span>Als accountmanager ben jij het centrale en betrouwbare aanspreekpunt voor onze partneroverheden. Je ontwikkelt en beheert sterke relaties met als doel een duurzame, lange termijn samenwerking op te bouwen. Je bent proactief in het identificeren van hun noden en behoeften en leidt hen naar passende oplossingen. Kortom, je bent hun adviseur tijdens hun digitale transformatie.</span></p> \n<p><span>Je verdiept je in de domeinen van de partneroverheden waarmee je samenwerkt en hebt een sterke interesse in ICT en digitalisering. Daarnaast blijf je op de hoogte van nieuwe markttrends die relevant zijn voor jouw portefeuille van partneroverheden. Netwerken is voor jou vanzelfsprekend, zowel binnen Digitaal Vlaanderen als met onze partneroverheden.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><strong></strong><strong>Probleemanalyse:</strong></p> \n<p><span><span>- </span></span><span>Je identificeert nieuwe noden, behoeften en kansen binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je vertaalt, in overleg met interne stakeholders, de strategie van Digitaal Vlaanderen naar accountplannen met duidelijke doelstellingen.</span></p> \n<p><span><span>- </span></span><span>Je detecteert synergiën en afhankelijkheden en communiceert deze naar productpartners, product owners, projectleiders en programmamanagers.</span></p> \n<p><span>Informatie en advies:</span></p> \n<p><strong>Rapportering:</strong></p> \n<p><span><span>- </span></span><span>Je monitort de voortgang van de doelstellingen uit de accountplannen en rapporteert hierover aan het management.</span></p> \n<p><span><span>- </span></span><span>Je verantwoordt de omzet binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je geeft proactief input en advies aan het management over nieuwe strategische kansen en groei.</span></p> \n<p><strong>Bekendmaking van de dienstverlening en prospectie:</strong></p> \n<p><span><span>- </span></span><span>Je maakt de producten en diensten van Digitaal Vlaanderen bekend binnen jouw portefeuille en benadrukt de meerwaarde voor onze partneroverheden.</span></p> \n<p><span><span>- </span></span><span>Je ontwikkelt en realiseert nieuwe initiatieven om de afname binnen jouw portefeuille te verhogen.</span></p> \n<p><strong>Kennis m.b.t. het vakgebied:</strong></p> \n<p><span><span>- </span></span><span>Je verwerft grondige kennis van de organisatiedoelstellingen van de partneroverheden in jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je bouwt kennis op over de producten en diensten van Digitaal Vlaanderen en hun meerwaarde.</span></p> \n<p><span><span>- </span></span><span>Je verwerft kennis over accountmanagement en de strategie van Digitaal Vlaanderen.</span></p> \n<p><span><span>- </span></span><span>Je hebt interesse in of kennis van ICT en digitalisering.</span></p>",
-        "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br></span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>In onze klantgerichte organisatie speelt het accountmanagement-team een cruciale rol als verbindende schakel, zowel extern als intern. Dit team houdt het overzicht over alle samenwerkingen met onze partneroverheden en de oplossingen die we voor hen ontwikkelen.</span></p> \n<p><span>Als accountmanager ben jij het centrale en betrouwbare aanspreekpunt voor onze partneroverheden. Je ontwikkelt en beheert sterke relaties met als doel een duurzame, lange termijn samenwerking op te bouwen. Je bent proactief in het identificeren van hun noden en behoeften en leidt hen naar passende oplossingen. Kortom, je bent hun adviseur tijdens hun digitale transformatie.</span></p> \n<p><span>Je verdiept je in de domeinen van de partneroverheden waarmee je samenwerkt en hebt een sterke interesse in ICT en digitalisering. Daarnaast blijf je op de hoogte van nieuwe markttrends die relevant zijn voor jouw portefeuille van partneroverheden. Netwerken is voor jou vanzelfsprekend, zowel binnen Digitaal Vlaanderen als met onze partneroverheden.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><strong></strong><strong>Probleemanalyse:</strong></p> \n<p><span><span>- </span></span><span>Je identificeert nieuwe noden, behoeften en kansen binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je vertaalt, in overleg met interne stakeholders, de strategie van Digitaal Vlaanderen naar accountplannen met duidelijke doelstellingen.</span></p> \n<p><span><span>- </span></span><span>Je detecteert synergiën en afhankelijkheden en communiceert deze naar productpartners, product owners, projectleiders en programmamanagers.</span></p> \n<p><span>Informatie en advies:</span></p> \n<p><strong>Rapportering:</strong></p> \n<p><span><span>- </span></span><span>Je monitort de voortgang van de doelstellingen uit de accountplannen en rapporteert hierover aan het management.</span></p> \n<p><span><span>- </span></span><span>Je verantwoordt de omzet binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je geeft proactief input en advies aan het management over nieuwe strategische kansen en groei.</span></p> \n<p><strong>Bekendmaking van de dienstverlening en prospectie:</strong></p> \n<p><span><span>- </span></span><span>Je maakt de producten en diensten van Digitaal Vlaanderen bekend binnen jouw portefeuille en benadrukt de meerwaarde voor onze partneroverheden.</span></p> \n<p><span><span>- </span></span><span>Je ontwikkelt en realiseert nieuwe initiatieven om de afname binnen jouw portefeuille te verhogen.</span></p> \n<p><strong>Kennis m.b.t. het vakgebied:</strong></p> \n<p><span><span>- </span></span><span>Je verwerft grondige kennis van de organisatiedoelstellingen van de partneroverheden in jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je bouwt kennis op over de producten en diensten van Digitaal Vlaanderen en hun meerwaarde.</span></p> \n<p><span><span>- </span></span><span>Je verwerft kennis over accountmanagement en de strategie van Digitaal Vlaanderen.</span></p> \n<p><span><span>- </span></span><span>Je hebt interesse in of kennis van ICT en digitalisering.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70672421",
       "internal": false,
       "validThroughDate": "-1",
@@ -1577,41 +1647,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70631474",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "VDAB",
-      "reservedForDisability": null,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70631474",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Bemiddelaars VDAB Brussel"
-      },
-      "displayTitle": "Bemiddelaars VDAB Brussel",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Word jij onze gedreven bemiddelaar met een hart voor mensen?</strong></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p> </li> </ul> \n<p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na. </span></p> \n<p><br><strong>Meet &amp; Greet</strong><span><strong> :</strong> Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen? Dat kan! Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h) </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><span>mira.theunissen@vdab.be</span><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens. \n<br><br></span></p> \n<p><strong>Bekijk het volledige takenpakket via de bijlage. Daar vind je alle informatie terug. </strong></p> \n<p dir=\"ltr\"><strong>Geef jij mee vorm aan de toekomst? </strong></p>",
-        "htmlEncoded": "<p><strong>Word jij onze gedreven bemiddelaar met een hart voor mensen?</strong></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur? </span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p> </li> </ul> \n<p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na. </span></p> \n<p><br><strong>Meet &amp; Greet</strong><span><strong> :</strong> Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen? Dat kan! Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h) </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><span>mira.theunissen@vdab.be</span><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens. \n<br><br></span></p> \n<p><strong>Bekijk het volledige takenpakket via de bijlage. Daar vind je alle informatie terug. </strong></p> \n<p dir=\"ltr\"><strong>Geef jij mee vorm aan de toekomst? </strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Anderlecht"
           }
         }
       ]
@@ -3542,6 +3577,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18324",
+      "internal": false,
+      "validThroughDate": "1745452800",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18324",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker Media en Film"
+      },
+      "displayTitle": "Beleidsmedewerker Media en Film",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij graag bijdragen aan het audiovisueel en\nmediabeleid in Vlaanderen?</p><p>Wij zoeken een gemotiveerde beleidsondersteuner om\nons team Media en Film te versterken. <br>In deze functie ben je verantwoordelijk voor het voorbereiden\nvan dossiers, onderzoeken van beleidsmateries, het geven van advies en de\nuitvoering van plannen en projecten. Je werkt rond de thema’s film en\naudiovisueel beleid, gamebeleid, mediawijsheid en het digitaal\ntransformatieplan.<br><br>De inhoudelijke coördinatie van de dossiers gebeurt\ndoor jouw collega’s. Jij biedt hen ondersteuning bij de voorbereiding en\nuitvoering van deze dossiers. <br><br>Dossiers die momenteel voorliggen en waar je zal aan\nmeewerken zijn: coproductieakkoorden (specifiek Marokko), de samenwerking met\nhet Vlaams Audiovisueel Fonds, de beheersovereenkomst Organisaties met\nBijzondere Opdracht, het actieplan mediawijsheid, het gamebeleid en het digitaal\ntransformatieprogramma. <br><br>Meer concreet zal je bijvoorbeeld:</p><ul><li>Ondersteuning bieden bij de opmaak van dossiers voor de Vlaamse Regering</li><li>Parlementaire vragen behandelen</li><li>Verslag nemen bij vergaderingen en overlegmomenten</li><li>Ministeriële zendingen voorbereiden</li><li>Jaarlijks toezicht voorbereiden van subsidiedossiers media en audiovisuele zaken</li><li>Ondersteuning bieden bij onderhandelingen van beheersovereenkomsten</li><li>Een actieplan mediawijsheid opstellen in samenwerking met stakeholders.</li></ul><p>Wil je ervaring opdoen in een overheidscontext én dit\nin een functie waar je veel kan bijleren?<br>Aarzel dan niet om je kandidaat te stellen!</p>",
+        "htmlEncoded": "<p>Wil jij graag bijdragen aan het audiovisueel en\nmediabeleid in Vlaanderen?</p><p>Wij zoeken een gemotiveerde beleidsondersteuner om\nons team Media en Film te versterken. <br>In deze functie ben je verantwoordelijk voor het voorbereiden\nvan dossiers, onderzoeken van beleidsmateries, het geven van advies en de\nuitvoering van plannen en projecten. Je werkt rond de thema’s film en\naudiovisueel beleid, gamebeleid, mediawijsheid en het digitaal\ntransformatieplan.<br><br>De inhoudelijke coördinatie van de dossiers gebeurt\ndoor jouw collega’s. Jij biedt hen ondersteuning bij de voorbereiding en\nuitvoering van deze dossiers. <br><br>Dossiers die momenteel voorliggen en waar je zal aan\nmeewerken zijn: coproductieakkoorden (specifiek Marokko), de samenwerking met\nhet Vlaams Audiovisueel Fonds, de beheersovereenkomst Organisaties met\nBijzondere Opdracht, het actieplan mediawijsheid, het gamebeleid en het digitaal\ntransformatieprogramma. <br><br>Meer concreet zal je bijvoorbeeld:</p><ul><li>Ondersteuning bieden bij de opmaak van dossiers voor de Vlaamse Regering</li><li>Parlementaire vragen behandelen</li><li>Verslag nemen bij vergaderingen en overlegmomenten</li><li>Ministeriële zendingen voorbereiden</li><li>Jaarlijks toezicht voorbereiden van subsidiedossiers media en audiovisuele zaken</li><li>Ondersteuning bieden bij onderhandelingen van beheersovereenkomsten</li><li>Een actieplan mediawijsheid opstellen in samenwerking met stakeholders.</li></ul><p>Wil je ervaring opdoen in een overheidscontext én dit\nin een functie waar je veel kan bijleren?<br>Aarzel dan niet om je kandidaat te stellen!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18302",
       "internal": false,
       "validThroughDate": "1745280000",
@@ -4363,83 +4433,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18160",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18160",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "jobstudent als projectmedewerker voor bestrijding invasieve soorten"
-      },
-      "displayTitle": "jobstudent als projectmedewerker voor bestrijding invasieve soorten",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je 1 of 2 maal per maand, 2 dagen per week vrij (1 dag in de namiddag en de dag erna in de voormiddag)?</p><p>Wij zoeken een jobstudent voor het plaatsen en legen van fuiken in het grachtensysteem te Bocholt met als doel het wegvangen van de Noord-Aziatische modderkruiper. Fuiken moeten worden geplaatst en ’s anderendaags worden geledigd en verwijderd. De vangst en bijvangst moet worden geregistreerd evenals abiotische parameters. Noord-Aziatische modderkruipers en andere exotische vissoorten moeten geëuthanaseerd en gestockeerd worden voor verder onderzoek.</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>",
-        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je 1 of 2 maal per maand, 2 dagen per week vrij (1 dag in de namiddag en de dag erna in de voormiddag)?</p><p>Wij zoeken een jobstudent voor het plaatsen en legen van fuiken in het grachtensysteem te Bocholt met als doel het wegvangen van de Noord-Aziatische modderkruiper. Fuiken moeten worden geplaatst en ’s anderendaags worden geledigd en verwijderd. De vangst en bijvangst moet worden geregistreerd evenals abiotische parameters. Noord-Aziatische modderkruipers en andere exotische vissoorten moeten geëuthanaseerd en gestockeerd worden voor verder onderzoek.</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18159",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 4,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18159",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "jobstudent als terreininventariseerder"
-      },
-      "displayTitle": "jobstudent als terreininventariseerder",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je nauwgezet en kan je je goed oriënteren en verplaatsen in bos- en natuurgebieden? Heb jij zin om in onze natuurgebieden de kwaliteit van het recreatieve aanbod voor bezoekers in kaart te brengen? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>Als jobstudent zijn dit o.a. jouw taken :</div><div></div><ul><li>Je inventariseert in de domeinen van Natuur en Bos in de regio systematisch de recreatieve infrastructuur zoals bewegwijzering, infoborden, speeltuigen, bivakzones, uitkijktorens, … en noteert deze met een mobiele app op tablet in een digitaal platform (Kobo-tool: ODK collect) met geolocator.</li><li>Verplaatsingen binnen het gebied kunnen bij voorkeur gebeuren met eigen fiets.</li></ul><br>",
-        "htmlEncoded": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je nauwgezet en kan je je goed oriënteren en verplaatsen in bos- en natuurgebieden? Heb jij zin om in onze natuurgebieden de kwaliteit van het recreatieve aanbod voor bezoekers in kaart te brengen? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>Als jobstudent zijn dit o.a. jouw taken :</div><div></div><ul><li>Je inventariseert in de domeinen van Natuur en Bos in de regio systematisch de recreatieve infrastructuur zoals bewegwijzering, infoborden, speeltuigen, bivakzones, uitkijktorens, … en noteert deze met een mobiele app op tablet in een digitaal platform (Kobo-tool: ODK collect) met geolocator.</li><li>Verplaatsingen binnen het gebied kunnen bij voorkeur gebeuren met eigen fiets.</li></ul><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zedelgem"
-          }
-        },
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18136",
       "internal": false,
       "validThroughDate": "1744502400",
@@ -4845,198 +4838,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17997",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17997",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Jobstudent als IT-medewerker"
-      },
-      "displayTitle": "Jobstudent als IT-medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap voor Natuur en Bos koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen.</p><p>Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto ‘meer, beter en samen' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</p><p><strong>Ben jij een student en steek je graag je handen uit de mouwen? Ben je IT-minded en heb je een hart voor natuurgebied? Dan hebben wij dé ideale vakantiejob voor jou!</strong></p><p>Het Agentschap voor Natuur en Bos zoekt 4 jobstudenten met ieder een specifiek takenpakket. Wanneer je solliciteert, kan je je voorkeuren doorgeven (meerdere voorkeuren mogelijk).</p><ul><li><strong>Takenpakket 1: GIS – geo metadata: diverse geodata taken in het kader van de opzet van een datacatalogus</strong></li></ul><p>Als jobstudent ondersteun je ANB bij het invullen van informatie over geodata in een datacatalogus. Je werkt vervolgens ook enkele thematische kaarten uit waarin deze data geraadpleegd kunnen worden.</p><ul><li><span>Periode</span>: juli</li></ul><ul><li><strong>Takenpakket 2: Opmaak geodatabank goedgekeurde toegankelijkheidsregelingen</strong></li></ul><p>Het ANB beschikt over alle in Vlaanderen geldige toegankelijkheidsregelingen voor bossen en natuurreservaten en wenst deze samen te brengen in een centrale GIS databank om nadien te ontsluiten voor allerlei toepassingen. Een klein deel van deze data is nog niet op kaart ingetekend, een ander deel moet nog een kwaliteitscontrole ondergaan of ingeladen worden.</p><p>Als jobstudent ga je ANB helpen deze data samen te brengen in één globale geodatabank en de datakwaliteit ervan te verhogen. Daarbij ga je eventuele fouten opsporen, nakijken en corrigeren in de GIS toepassing (ArcGIS Pro).</p><ul><li><span>Periode</span>: 07/07/2025 tot 06/08/2025 EN/OF 01/08/2025 tot 31/08/2025 EN/OF 15/09/2025 tot 14/10/2025</li></ul><p>Interesse? Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Het Agentschap voor Natuur en Bos koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen.</p><p>Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto ‘meer, beter en samen' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</p><p><strong>Ben jij een student en steek je graag je handen uit de mouwen? Ben je IT-minded en heb je een hart voor natuurgebied? Dan hebben wij dé ideale vakantiejob voor jou!</strong></p><p>Het Agentschap voor Natuur en Bos zoekt 4 jobstudenten met ieder een specifiek takenpakket. Wanneer je solliciteert, kan je je voorkeuren doorgeven (meerdere voorkeuren mogelijk).</p><ul><li><strong>Takenpakket 1: GIS – geo metadata: diverse geodata taken in het kader van de opzet van een datacatalogus</strong></li></ul><p>Als jobstudent ondersteun je ANB bij het invullen van informatie over geodata in een datacatalogus. Je werkt vervolgens ook enkele thematische kaarten uit waarin deze data geraadpleegd kunnen worden.</p><ul><li><span>Periode</span>: juli</li></ul><ul><li><strong>Takenpakket 2: Opmaak geodatabank goedgekeurde toegankelijkheidsregelingen</strong></li></ul><p>Het ANB beschikt over alle in Vlaanderen geldige toegankelijkheidsregelingen voor bossen en natuurreservaten en wenst deze samen te brengen in een centrale GIS databank om nadien te ontsluiten voor allerlei toepassingen. Een klein deel van deze data is nog niet op kaart ingetekend, een ander deel moet nog een kwaliteitscontrole ondergaan of ingeladen worden.</p><p>Als jobstudent ga je ANB helpen deze data samen te brengen in één globale geodatabank en de datakwaliteit ervan te verhogen. Daarbij ga je eventuele fouten opsporen, nakijken en corrigeren in de GIS toepassing (ArcGIS Pro).</p><ul><li><span>Periode</span>: 07/07/2025 tot 06/08/2025 EN/OF 01/08/2025 tot 31/08/2025 EN/OF 15/09/2025 tot 14/10/2025</li></ul><p>Interesse? Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17995",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 12,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17995",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Jobstudent gastheer of gastvrouw in de natuurdomeinen"
-      },
-      "displayTitle": "Jobstudent gastheer of gastvrouw in de natuurdomeinen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je verantwoordelijk en heb je geen schrik om mensen aan te spreken? Heb jij zin om in onze natuurgebieden mee een oogje in het zeil te houden? Dan hebben wij dé ideale vakantiejob voor jou!.</span><br><br><span>Als jobstudent zijn dit o.a. jouw taken :</span></p><ul><li><span>&nbsp;</span><span>Je heet de bezoekers welkom als een goed gastheer/gastvrouw. Je beantwoordt de vragen van de bosbezoekers en maakt hen wegwijs in het gebied.</span></li><li><span>&nbsp;</span><span>Je detecteert discreet onregelmatig gedrag en speelt hier proactief op in. (honden aangelijnd houden, geen afval achterlaten, geen vuur maken, geen versterkte muziek,….</span></li><li><span>&nbsp;</span><span>Bij problemen die je niet zelf kan oplossen verwittig je de coördinator en/of de boswachter.</span></li><li><span>&nbsp;</span><span>Je controleert recreatieve infrastructuur, bewegwijzering, speeltuigen en bivakzones en noteert/rapporteert gebreken.</span></li><li><span>&nbsp;</span><span>Je gaat na of er geen afval achtergelaten werd. Indien wel, dan ruim je het zwerfvuil op.</span></li><li><span>&nbsp;</span><span>Je zorgt voor de nette staat van het buitensanitair en signaleert eventuele problemen, zoals schade.</span></li><li><span>&nbsp;</span><span>Kleine problemen los je zoveel mogelijk zelf op.</span></li><li><span>&nbsp;</span><span>Verplaatsingen binnen het gebied kunnen gebeuren met eigen fiets.</span></li><li><span>&nbsp;</span><span>Afhankelijk van de regio kan gevraagd worden om tijdens de rondgangen ook systematisch de recreatieve infrastructuur (bewegwijzering, infoborden, ed.) te inventariseren in een digitaal platform met een mobiele app op tablet (ODK collect uit de Kobo-toolbox) met geolocator (Dit is regionaal verschillend, zie standplaats invulformulier).</span></li><li><span>&nbsp;</span><span>Uitvoeren van administratieve taken zoals bijwerken van beheergegevens en/of databanken (Dit is regionaal verschillend, zie standplaats invulformulier).</span></li></ul>",
-        "htmlEncoded": "<p><span>Ben jij een student en op zoek naar een boeiende studentenjob? Ben je verantwoordelijk en heb je geen schrik om mensen aan te spreken? Heb jij zin om in onze natuurgebieden mee een oogje in het zeil te houden? Dan hebben wij dé ideale vakantiejob voor jou!.</span><br><br><span>Als jobstudent zijn dit o.a. jouw taken :</span></p><ul><li><span>&nbsp;</span><span>Je heet de bezoekers welkom als een goed gastheer/gastvrouw. Je beantwoordt de vragen van de bosbezoekers en maakt hen wegwijs in het gebied.</span></li><li><span>&nbsp;</span><span>Je detecteert discreet onregelmatig gedrag en speelt hier proactief op in. (honden aangelijnd houden, geen afval achterlaten, geen vuur maken, geen versterkte muziek,….</span></li><li><span>&nbsp;</span><span>Bij problemen die je niet zelf kan oplossen verwittig je de coördinator en/of de boswachter.</span></li><li><span>&nbsp;</span><span>Je controleert recreatieve infrastructuur, bewegwijzering, speeltuigen en bivakzones en noteert/rapporteert gebreken.</span></li><li><span>&nbsp;</span><span>Je gaat na of er geen afval achtergelaten werd. Indien wel, dan ruim je het zwerfvuil op.</span></li><li><span>&nbsp;</span><span>Je zorgt voor de nette staat van het buitensanitair en signaleert eventuele problemen, zoals schade.</span></li><li><span>&nbsp;</span><span>Kleine problemen los je zoveel mogelijk zelf op.</span></li><li><span>&nbsp;</span><span>Verplaatsingen binnen het gebied kunnen gebeuren met eigen fiets.</span></li><li><span>&nbsp;</span><span>Afhankelijk van de regio kan gevraagd worden om tijdens de rondgangen ook systematisch de recreatieve infrastructuur (bewegwijzering, infoborden, ed.) te inventariseren in een digitaal platform met een mobiele app op tablet (ODK collect uit de Kobo-toolbox) met geolocator (Dit is regionaal verschillend, zie standplaats invulformulier).</span></li><li><span>&nbsp;</span><span>Uitvoeren van administratieve taken zoals bijwerken van beheergegevens en/of databanken (Dit is regionaal verschillend, zie standplaats invulformulier).</span></li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zedelgem"
-          }
-        },
-        {
-          "address": {
-            "city": "Kalmthout"
-          }
-        },
-        {
-          "address": {
-            "city": "Hechtel-Eksel"
-          }
-        },
-        {
-          "address": {
-            "city": "Halle"
-          }
-        },
-        {
-          "address": {
-            "city": "Knokke-Heist"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17994",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 14,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17994",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Jobstudent als groenarbeider"
-      },
-      "displayTitle": "Jobstudent als groenarbeider",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij student en steek je graag je handen uit de mouwen? Heb jij zin om samen met de terreinploeg beheerwerken uit te voeren in de Vlaamse bos- en natuurgebieden? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>&nbsp;</div><div>Voorbeelden van dagdagelijkse taken zijn onderhoud van recreatieve infrastructuur en afsluitingen, maaien en afvoeren (rakelen), snoeien, verzorgen van dieren, zwerfvuil ruimen, …</div>",
-        "htmlEncoded": "<div>Ben jij student en steek je graag je handen uit de mouwen? Heb jij zin om samen met de terreinploeg beheerwerken uit te voeren in de Vlaamse bos- en natuurgebieden? Dan hebben wij dé ideale vakantiejob voor jou!</div><div></div><div>&nbsp;</div><div>Voorbeelden van dagdagelijkse taken zijn onderhoud van recreatieve infrastructuur en afsluitingen, maaien en afvoeren (rakelen), snoeien, verzorgen van dieren, zwerfvuil ruimen, …</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zedelgem"
-          }
-        },
-        {
-          "address": {
-            "city": "Wingene"
-          }
-        },
-        {
-          "address": {
-            "city": "Hoeilaart"
-          }
-        },
-        {
-          "address": {
-            "city": "Sint-Pieters-Leeuw"
-          }
-        },
-        {
-          "address": {
-            "city": "Brasschaat"
-          }
-        },
-        {
-          "address": {
-            "city": "De Panne"
-          }
-        },
-        {
-          "address": {
-            "city": "Halle"
-          }
-        },
-        {
-          "address": {
-            "city": "Maasmechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17993",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17993",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Dossierbeheerder Financieel Management"
-      },
-      "displayTitle": "Dossierbeheerder Financieel Management",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als\nDossierbeheerder maak je deel uit van ons enthousiaste team\nleveranciersboekhouding, bestaande uit 5 medewerkers. Jij speelt een sleutelrol\nin het dagelijkse proces van het inboeken van aankoopfacturen en zorgt ervoor\ndat alles in lijn is met de juiste procedures en richtlijnen.<br><br><strong>Jouw\ntaken en verantwoordelijkheden:</strong> <br><br>-<span>\t</span>Inboeken van aankoopfacturen: Zorgdragen voor de juiste verwerking van facturen, inclusief het linken aan de juiste P.O.&nbsp; <span>\t</span>nummers en werkorders. <br>-<span>\t</span>Beantwoorden van e-mails: Je beantwoordt vragen van leveranciers en andere stakeholders op een vlotte en professionele <span>\t</span>manier. <br>-<span>\t</span>Werken binnen een duidelijk kader: Je werkt binnen goed gedefinieerde processen en zorgt ervoor dat alle administratieve <span>\t</span>taken correct worden uitgevoerd. <br>-<span>\t</span>Facturen verwerken: Samen met het team verwerk je zo’n 55.000 facturen per jaar, wat betekent dat je dagelijks een <span>\t</span>belangrijke bijdrage levert aan het financieel beheer van de organisatie.</p><p><strong>Even\nvoorstellen:</strong></p><p><strong>&nbsp;</strong><br>De Vlaamse Waterweg\nnv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt\naan de economie, de welvaart en de leefbaarheid van Vlaanderen. We zetten volop\nin op binnenvaart, waterbeheersing en maken onze waterwegen aantrekkelijk voor\nrecreatie, toerisme en natuur. Met zo’n 1.350 collega’s, verspreid over\nHasselt, Willebroek, Brussel, Antwerpen, Merelbeke en Mol, bouwen we elke dag\naan een slim, veelzijdig en duurzaam waterwegennet.&nbsp;</p>",
-        "htmlEncoded": "<p>Als\nDossierbeheerder maak je deel uit van ons enthousiaste team\nleveranciersboekhouding, bestaande uit 5 medewerkers. Jij speelt een sleutelrol\nin het dagelijkse proces van het inboeken van aankoopfacturen en zorgt ervoor\ndat alles in lijn is met de juiste procedures en richtlijnen.<br><br><strong>Jouw\ntaken en verantwoordelijkheden:</strong> <br><br>-<span>\t</span>Inboeken van aankoopfacturen: Zorgdragen voor de juiste verwerking van facturen, inclusief het linken aan de juiste P.O.&nbsp; <span>\t</span>nummers en werkorders. <br>-<span>\t</span>Beantwoorden van e-mails: Je beantwoordt vragen van leveranciers en andere stakeholders op een vlotte en professionele <span>\t</span>manier. <br>-<span>\t</span>Werken binnen een duidelijk kader: Je werkt binnen goed gedefinieerde processen en zorgt ervoor dat alle administratieve <span>\t</span>taken correct worden uitgevoerd. <br>-<span>\t</span>Facturen verwerken: Samen met het team verwerk je zo’n 55.000 facturen per jaar, wat betekent dat je dagelijks een <span>\t</span>belangrijke bijdrage levert aan het financieel beheer van de organisatie.</p><p><strong>Even\nvoorstellen:</strong></p><p><strong>&nbsp;</strong><br>De Vlaamse Waterweg\nnv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt\naan de economie, de welvaart en de leefbaarheid van Vlaanderen. We zetten volop\nin op binnenvaart, waterbeheersing en maken onze waterwegen aantrekkelijk voor\nrecreatie, toerisme en natuur. Met zo’n 1.350 collega’s, verspreid over\nHasselt, Willebroek, Brussel, Antwerpen, Merelbeke en Mol, bouwen we elke dag\naan een slim, veelzijdig en duurzaam waterwegennet.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17958",
       "internal": true,
       "validThroughDate": "-1",
@@ -5149,7 +4950,7 @@
     {
       "link": "/Job/cornerstone-17944",
       "internal": false,
-      "validThroughDate": "1744156800",
+      "validThroughDate": "1744502400",
       "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -5523,6 +5324,38 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17864",
+      "internal": false,
+      "validThroughDate": "1745798400",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17864",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "1 Medewerker Kantine (D1)"
+      },
+      "displayTitle": "1 Medewerker Kantine (D1)",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil je je collega’s en de cursisten in het opleidingscentrum dagelijks laten genieten van een lekker kopje koffie of thee? Ben je klantvriendelijk, ordelijk en behulpzaam? Dan is deze vacature zeker iets voor jou!</div><div></div><div>Jouw werkplek wordt het VDAB-opleidingscentrum in Wondelgem. Als medewerker kantine werk je van maandag tot vrijdag van 08:30 uur tot 12:30. Je krijgt <strong>een deeltijds contract van bepaalde duur tot en met 30 december 2025.</strong></div><div></div><div>Je voornaamste taken als kantinemedewerker zijn:</div><div></div><ul><li>&nbsp;Je serveert drankjes, soep en broodjes aan de klanten, <strong>maar je hoeft zelf niets te maken. Alles wordt geleverd door een externe firma.</strong></li><li> Je waakt over de kwaliteit van de aangeboden service (naleven HACCP-regels) en je registreert binnenkomende goederen (temperatuur, vervaldag)</li><li> Je houdt de algemene administratie bij voor de kantine, zoals betalingen en bestellingen.</li><li>Je beheert de stock en zorgt voor het herbevoorraden van de koelkasten</li><li>Je poetst de kantine en de keuken</li><li>Je zet drank klaar voor vergaderzalen</li></ul><div></div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende, ook schriftelijk via e-mail. Je begrijpt korte geschreven boodschappen.</div><div></div><div>Ben je benieuwd naar je werkplek? Kom gerust eens langs op 18 April tussen 09u en 15u in het VDAB opleidingscentrum in Wondelgem (industrieweg 50, 9032) om een kijkje te nemen in de kantine. De leidinggevende zal aanwezig zijn zodat je ook vragen kan stellen.</div><div></div><div>Wil je graag nog meer informatie over de job, contacteer dan gerust de leidinggevende Els Van Echelpoel: +32471 28 15 32</div>",
+        "htmlEncoded": "<div>Wil je je collega’s en de cursisten in het opleidingscentrum dagelijks laten genieten van een lekker kopje koffie of thee? Ben je klantvriendelijk, ordelijk en behulpzaam? Dan is deze vacature zeker iets voor jou!</div><div></div><div>Jouw werkplek wordt het VDAB-opleidingscentrum in Wondelgem. Als medewerker kantine werk je van maandag tot vrijdag van 08:30 uur tot 12:30. Je krijgt <strong>een deeltijds contract van bepaalde duur tot en met 30 december 2025.</strong></div><div></div><div>Je voornaamste taken als kantinemedewerker zijn:</div><div></div><ul><li>&nbsp;Je serveert drankjes, soep en broodjes aan de klanten, <strong>maar je hoeft zelf niets te maken. Alles wordt geleverd door een externe firma.</strong></li><li> Je waakt over de kwaliteit van de aangeboden service (naleven HACCP-regels) en je registreert binnenkomende goederen (temperatuur, vervaldag)</li><li> Je houdt de algemene administratie bij voor de kantine, zoals betalingen en bestellingen.</li><li>Je beheert de stock en zorgt voor het herbevoorraden van de koelkasten</li><li>Je poetst de kantine en de keuken</li><li>Je zet drank klaar voor vergaderzalen</li></ul><div></div><div>Om deel te nemen aan deze procedure spreek je al wat Nederlands. Je kan instructies begrijpen en daarop reageren. Je kan communiceren met je collega’s en leidinggevende, ook schriftelijk via e-mail. Je begrijpt korte geschreven boodschappen.</div><div></div><div>Ben je benieuwd naar je werkplek? Kom gerust eens langs op 18 April tussen 09u en 15u in het VDAB opleidingscentrum in Wondelgem (industrieweg 50, 9032) om een kijkje te nemen in de kantine. De leidinggevende zal aanwezig zijn zodat je ook vragen kan stellen.</div><div></div><div>Wil je graag nog meer informatie over de job, contacteer dan gerust de leidinggevende Els Van Echelpoel: +32471 28 15 32</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Wondelgem"
           }
         }
       ]
@@ -6479,36 +6312,36 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17748",
+      "link": "/Job/cornerstone-17751",
       "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "validThroughDate": "1745798400",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
       "reservedForDisability": false,
-      "openPositions": 2,
+      "openPositions": 1,
       "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
+        "code": "C",
+        "name": "Secundair onderwijs"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17748",
+      "identifier": "cornerstone-17751",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtypeObject": null,
       "hubContentSubtypeObject": null,
       "title": {
-        "htmlEncoded": "2 Bemiddelaars VDAB Anderlecht"
+        "htmlEncoded": "Wegentoezichter"
       },
-      "displayTitle": "2 Bemiddelaars VDAB Anderlecht",
+      "displayTitle": "Wegentoezichter",
       "isProtected": false,
       "description": {
-        "raw": "<span></span><h1 dir=\"ltr\"><span>Word jij onze gedreven bemiddelaar met een hart voor mensen?</span><span> </span><span>&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p></li></ul><span><br></span><p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span><span>M</span><span>eet &amp; Greet</span><span> : Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen?&nbsp; Dat kan!&nbsp; Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h)&nbsp; </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><a href=\"mailto:mira.theunissen@vdab.be\"><span>mira.theunissen@vdab.be</span></a><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens.&nbsp;</span></span></p><div><span><br></span></div><div><span></span><h1 dir=\"ltr\"><span>Interessant takenpakket&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Vanuit onze locaties in Brussel ga je na welk traject het beste past bij de klanten die in jouw portefeuille komen. Je informeert werkzoekenden over hun kansen op de arbeidsmarkt, over hoe VDAB Brussel en jij, als bemiddelaar, hun kunnen helpen om een job te vinden, over de opleidingsmogelijkheden en over hun kansen naar werk na het eventueel volgen van een technische opleiding. Samen met de werkzoekende bepaal je de richtingen die hij of zij inslaat en wat er nodig is om aan de slag te gaan.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal Brusselse werkzoekenden motiveren, informeren en op weg helpen richting een job binnen de sector.</span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal ook Vlaamse werkzoekenden informeren en begeleiden in hun opleidingstraject. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt je klanten en volgt hun traject op van bij de start en tot als ze aan het werk zijn. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Tijdens dit traject zal je jouw klant inschatten, screenen, begeleiden tijdens de opleidingen, nazorg bieden en streven naar een duurzame tewerkstelling.&nbsp;</span></p></li></ul><span><br><br><br></span><p dir=\"ltr\"><span><span>Je standplaats is ons VDAB centrum, Bergensesteenweg 1440, 1070 Anderlecht. </span><span><br></span><span><br></span><span>Wil je al even de sfeer opsnuiven van wat het betekent om te werken bij VDAB Brussel? </span><a href=\"https://mediastock.vdab.be/p82iKYTcGN\"><span>Klik hier.</span></a><span>&nbsp;</span></span></p><p dir=\"ltr\"><span>&nbsp;</span></p><p dir=\"ltr\"><span>VDAB Brussel gaat een nieuwe richting uit vanaf medio 2025! Wat is jouw rol in deze innovatieve arbeidsbemiddeling?&nbsp;</span></p><p dir=\"ltr\"><span>We transformeren onze aanpak met een </span><span>dynamisch model</span><span>, waarin jij nog steeds het verschil zal maken.</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Jouw impact binnen de 2 nieuwe dienstverleningen :&nbsp;</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Inschattingsteam :</span><span> Jij bent de sleutel tot een efficiënte start van het parcours.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Matchingsteam:</span><span> Jij brengt talent en partners of werkgevers samen maar begeleidt ook</span><span> klanten die competentieversterking krijgen.</span></p></li></ul></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>De verandering:</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Duidelijke focus op: inschatten, begeleiden, matchen.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Sterke samenwerking met partners.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Meer efficiëntie door AI.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Continue verbetering voor de beste dienstverlening.</span></p></li></ul></li></ul><p dir=\"ltr\"><span>Jij bent de pionier die mee aan deze toekomst vormgeeft!</span></p></div>",
-        "htmlEncoded": "<span></span><h1 dir=\"ltr\"><span>Word jij onze gedreven bemiddelaar met een hart voor mensen?</span><span> </span><span>&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Wil jij je graag inzetten voor klanten op zoek naar een job?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Krijg je energie van een veelzijdig takenpakket en verplaats je je gemakkelijk door onze hoofdstad?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Is administratief nauwkeurig werken en goed rapporteren jouw tweede natuur?&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ben je een teamplayer die houdt van een dynamische werkomgeving?</span></p></li></ul><span><br></span><p dir=\"ltr\"><span>Je werkt nauw samen met collega’s en experts en krijgt alle nodige ondersteuning van je teamleider en een meter/peter.</span><span><br></span><span>Affiniteit hebben met de doelgroep van anderstalige Brusselaars en kennis van het Frans is een grote plus.</span><span><br></span><span>Ook een goed zicht hebben op de Brusselse arbeidsmarkt is een meerwaarde. Maar geen nood, wij hebben alle tools in huis om jou hierin continu te ondersteunen. </span><span><br></span><span>Je communiceert vlot met onze partners, klanten en collega’s, zowel mondeling als schriftelijk en komt steeds jouw gemaakte afspraken en deadlines na.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span><span>M</span><span>eet &amp; Greet</span><span> : Wil je graag meer te weten komen over de jobinhoud tijdens een </span><span>vrijblijvende Meet and Greet</span><span> en al jouw vragen kunnen stellen?&nbsp; Dat kan!&nbsp; Mira Theunissen geeft jou alle nodige inlichtingen op vrijdag 4 april 2025 om 13h30 (einde ongeveer 15h)&nbsp; </span><span>in het opleidingscentrum te VDAB Anderlecht</span><span>. Om erbij te zijn stuur je een mail naar </span><a href=\"mailto:mira.theunissen@vdab.be\"><span>mira.theunissen@vdab.be</span></a><span> (deadline voor de inschrijvingen is 1/4/25). Je vermeldt in het onderwerp van de mail : Meet &amp; Greet 4/4 en in de mail vermeld je je naam en contactgegevens.&nbsp;</span></span></p><div><span><br></span></div><div><span></span><h1 dir=\"ltr\"><span>Interessant takenpakket&nbsp;</span></h1><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Vanuit onze locaties in Brussel ga je na welk traject het beste past bij de klanten die in jouw portefeuille komen. Je informeert werkzoekenden over hun kansen op de arbeidsmarkt, over hoe VDAB Brussel en jij, als bemiddelaar, hun kunnen helpen om een job te vinden, over de opleidingsmogelijkheden en over hun kansen naar werk na het eventueel volgen van een technische opleiding. Samen met de werkzoekende bepaal je de richtingen die hij of zij inslaat en wat er nodig is om aan de slag te gaan.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal Brusselse werkzoekenden motiveren, informeren en op weg helpen richting een job binnen de sector.</span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je zal ook Vlaamse werkzoekenden informeren en begeleiden in hun opleidingstraject. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt je klanten en volgt hun traject op van bij de start en tot als ze aan het werk zijn. </span><span><br><br></span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Tijdens dit traject zal je jouw klant inschatten, screenen, begeleiden tijdens de opleidingen, nazorg bieden en streven naar een duurzame tewerkstelling.&nbsp;</span></p></li></ul><span><br><br><br></span><p dir=\"ltr\"><span><span>Je standplaats is ons VDAB centrum, Bergensesteenweg 1440, 1070 Anderlecht. </span><span><br></span><span><br></span><span>Wil je al even de sfeer opsnuiven van wat het betekent om te werken bij VDAB Brussel? </span><a href=\"https://mediastock.vdab.be/p82iKYTcGN\"><span>Klik hier.</span></a><span>&nbsp;</span></span></p><p dir=\"ltr\"><span>&nbsp;</span></p><p dir=\"ltr\"><span>VDAB Brussel gaat een nieuwe richting uit vanaf medio 2025! Wat is jouw rol in deze innovatieve arbeidsbemiddeling?&nbsp;</span></p><p dir=\"ltr\"><span>We transformeren onze aanpak met een </span><span>dynamisch model</span><span>, waarin jij nog steeds het verschil zal maken.</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Jouw impact binnen de 2 nieuwe dienstverleningen :&nbsp;</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Inschattingsteam :</span><span> Jij bent de sleutel tot een efficiënte start van het parcours.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Matchingsteam:</span><span> Jij brengt talent en partners of werkgevers samen maar begeleidt ook</span><span> klanten die competentieversterking krijgen.</span></p></li></ul></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>De verandering:</span></p><ul><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Duidelijke focus op: inschatten, begeleiden, matchen.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Sterke samenwerking met partners.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Meer efficiëntie door AI.</span></p></li><li aria-level=\"2\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Continue verbetering voor de beste dienstverlening.</span></p></li></ul></li></ul><p dir=\"ltr\"><span>Jij bent de pionier die mee aan deze toekomst vormgeeft!</span></p></div>"
+        "raw": "<p>Wil jij bijdragen aan een betere verkeersveiligheid\nvoor iedere weggebruiker? Ontsnapt geen enkel detail op en langs de weg aan\njouw oog? Ben je geboeid door infrastructuurprojecten in het kader van\nwegenbouw? Wil je er mee voor zorgen dat onze wegen er in de winter sneeuw- en\nijsvrij bijliggen? Solliciteer dan nu en wie weet bouw jij wel mee aan de weg\nvan morgen!</p><p>Als wegentoezichter ben je vertrouwd met de aan jou toegewezen wegen en ben je vaak met de wagen op pad om inspecties uit te voeren. Zo ben je de\neerste om op te merken wanneer er een herstelling of onderhoud nodig is aan de\nweg of neem je ter plaatse een kijkje naar aanleiding van een melding van een\nburger. In functie van de winterdienst check je ook de gladheid van de wegen of\nje controleert of kleine onderhoudswerken goed zijn uitgevoerd. Deze taken\nwissel je af met administratieve taken zoals het afleveren van adviezen op\nomgevingsvergunningen en vergunningen openbaar domein. <br><br>Je hebt een grote zelfstandigheid bij het\nuitvoeren van je taken, maar werkt samen met andere wegentoezichters,\nwerfcontroleurs, … en je hebt veel contacten met aannemers, burgers en openbare\nbesturen. Afhankelijk van je ervaring en interesses kan de focus in de toekomst\nverlegd worden naar het opvolgen van vergunningen of onderhoudswerken. Je neemt\ndeel aan winterdienst en permanente wachtdienst in een beurtrol.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>Wil jij bijdragen aan een betere verkeersveiligheid\nvoor iedere weggebruiker? Ontsnapt geen enkel detail op en langs de weg aan\njouw oog? Ben je geboeid door infrastructuurprojecten in het kader van\nwegenbouw? Wil je er mee voor zorgen dat onze wegen er in de winter sneeuw- en\nijsvrij bijliggen? Solliciteer dan nu en wie weet bouw jij wel mee aan de weg\nvan morgen!</p><p>Als wegentoezichter ben je vertrouwd met de aan jou toegewezen wegen en ben je vaak met de wagen op pad om inspecties uit te voeren. Zo ben je de\neerste om op te merken wanneer er een herstelling of onderhoud nodig is aan de\nweg of neem je ter plaatse een kijkje naar aanleiding van een melding van een\nburger. In functie van de winterdienst check je ook de gladheid van de wegen of\nje controleert of kleine onderhoudswerken goed zijn uitgevoerd. Deze taken\nwissel je af met administratieve taken zoals het afleveren van adviezen op\nomgevingsvergunningen en vergunningen openbaar domein. <br><br>Je hebt een grote zelfstandigheid bij het\nuitvoeren van je taken, maar werkt samen met andere wegentoezichters,\nwerfcontroleurs, … en je hebt veel contacten met aannemers, burgers en openbare\nbesturen. Afhankelijk van je ervaring en interesses kan de focus in de toekomst\nverlegd worden naar het opvolgen van vergunningen of onderhoudswerken. Je neemt\ndeel aan winterdienst en permanente wachtdienst in een beurtrol.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Anderlecht"
+            "city": "Bertem"
           }
         }
       ]
@@ -6791,46 +6624,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17701",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17701",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Specialist overheidsopdrachten natuur- en bosbeheer"
-      },
-      "displayTitle": "Specialist overheidsopdrachten natuur- en bosbeheer",
-      "isProtected": false,
-      "description": {
-        "raw": "Je houdt van projectmatig werken. Je voelt je verantwoordelijk voor het uitvoeren van de opdrachten die je krijgt en doet er alles aan om ze binnen de gegeven tijd op te leveren. Als iets niet volgens plan verloopt, blijf je kalm en stuur je bij. Je bent een kei in analyseren, structureren, organiseren en administratie. Je gaat zorgvuldig te werk en hebt oog voor detail. Je maakt duidelijke afspraken en laat deze respecteren. Waar nodig spreek je op een verbindende manier mensen aan om het beter te doen.&nbsp; Je werkt graag met anderen samen en zet hier actief op in.<br><br>Herken je jezelf in deze beschrijving? Dan ben jij de persoon die we zoeken!<br><br>De job die we je aanbieden is <strong>gegarandeerd gevarieerd</strong>!&nbsp; Als themaspecialist overheidsopdrachten natuur-, bos- en parkbeheer bereid jij al de facetten van een uit te besteden opdracht voor. Na overleg met de boswachter maak je de plannen, je beschrijft de technische specificaties van de uit te voeren werken en bepaalt de te gebruiken materialen. Je volgt de aanbestedingsprocedure van A tot Z op samen met collega’s. Daarnaast zorg je ervoor dat alle administratieve, financiële en juridische aspecten in orde zijn voor de start van de werken. Tenslotte zorg je, samen met de boswachter, voor de vlekkeloze uitvoering van de geplande werken op het terrein. Zo werk je mee aan de verbetering van de kwaliteit van de natuur in Vlaanderen.<br><br>Je bent voornamelijk actief in natuur-, bos- en parkdomeinen van Natuur en Bos in de (zuid)westrand van Brussel (zoals bijvoorbeeld Gaasbeek, Groenenberg en Ter Rijst). Je bent daar regelmatig op het terrein aanwezig om de projecten voor te bereiden en op te volgen. Je standplaats wordt Brussel of Gent.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Je houdt van projectmatig werken. Je voelt je verantwoordelijk voor het uitvoeren van de opdrachten die je krijgt en doet er alles aan om ze binnen de gegeven tijd op te leveren. Als iets niet volgens plan verloopt, blijf je kalm en stuur je bij. Je bent een kei in analyseren, structureren, organiseren en administratie. Je gaat zorgvuldig te werk en hebt oog voor detail. Je maakt duidelijke afspraken en laat deze respecteren. Waar nodig spreek je op een verbindende manier mensen aan om het beter te doen.&nbsp; Je werkt graag met anderen samen en zet hier actief op in.<br><br>Herken je jezelf in deze beschrijving? Dan ben jij de persoon die we zoeken!<br><br>De job die we je aanbieden is <strong>gegarandeerd gevarieerd</strong>!&nbsp; Als themaspecialist overheidsopdrachten natuur-, bos- en parkbeheer bereid jij al de facetten van een uit te besteden opdracht voor. Na overleg met de boswachter maak je de plannen, je beschrijft de technische specificaties van de uit te voeren werken en bepaalt de te gebruiken materialen. Je volgt de aanbestedingsprocedure van A tot Z op samen met collega’s. Daarnaast zorg je ervoor dat alle administratieve, financiële en juridische aspecten in orde zijn voor de start van de werken. Tenslotte zorg je, samen met de boswachter, voor de vlekkeloze uitvoering van de geplande werken op het terrein. Zo werk je mee aan de verbetering van de kwaliteit van de natuur in Vlaanderen.<br><br>Je bent voornamelijk actief in natuur-, bos- en parkdomeinen van Natuur en Bos in de (zuid)westrand van Brussel (zoals bijvoorbeeld Gaasbeek, Groenenberg en Ter Rijst). Je bent daar regelmatig op het terrein aanwezig om de projecten voor te bereiden en op te volgen. Je standplaats wordt Brussel of Gent.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17699",
       "internal": false,
       "validThroughDate": "1745452800",
@@ -6981,51 +6774,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17678",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17678",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Teamverantwoordelijke lokale dienstverlening - Kind en Gezin"
-      },
-      "displayTitle": "Teamverantwoordelijke lokale dienstverlening - Kind en Gezin",
-      "isProtected": false,
-      "description": {
-        "raw": "Krijg jij energie van mensen aansturen en coachen? Heb je een warm hart voor je eigen team en (toekomstige) gezinnen met jonge kinderen? Wil jij je leiderschapskwaliteiten inzetten in een job met maatschappelijke impact? Dan ben jij de collega die wij zoeken! <br><br><div>Als teamverantwoordelijke bij Kind en Gezin ben jij de motor achter een goed functionerend team. Je begeleidt, organiseert en ondersteunt jouw medewerkers, zodat zij de beste zorg en ondersteuning kunnen bieden aan gezinnen. Dankzij jouw inspanningen zorgen we voor een kwaliteitsvolle, klantgerichte dienstverlening die gezinnen in hun kracht zet. <br><br></div><div>Wat maakt deze job zo bijzonder? Kind en Gezin biedt (aanstaande) ouders en gezinnen met jonge kinderen gratis en laagdrempelige begeleiding via huisbezoeken en consultaties. De Kind en Gezin teams geven advies en ondersteuning rond gezondheid, ontwikkeling en opvoeding, met bijzondere aandacht voor preventieve zorg, zoals vaccinaties en vroege detectie van ontwikkelingsrisico’s. We werken samen met lokale partners aan een geïntegreerd gezinsbeleid en focussen op thema’s zoals bestrijden van kinderarmoede, opvoedingsondersteuning, ontwikkeling en ouderschap, medische preventie en preventie kindermishandeling.&nbsp;<br><br></div><div>Als teamverantwoordelijke zal je leidinggeven aan 2 teams. Deze teams bestaan samen uit een 30 tot 45 tal werknemers van Opgroeien en zijn op twee manieren samengesteld: de lokale Kind en Gezin-teams&nbsp;bestaan uit verpleegkundigen, sociaal werkers en gezinsondersteuners (multi-expertise teams). <br><br></div><div>De provinciale teams bestaan uit psychologen en/of pedagogen die in gezinnen aan de slag gaan rond thema’s als ouderschap en opvoedingsondersteuning, van basisondersteuning tot hulp bij verontrusting en daarnaast ook collega’s uit Kind en Gezin teams adviseren en ondersteunen. <br><br></div><div>Momenteel zoeken we 4 teamverantwoordelijken voor de volgende teams:&nbsp;</div><div>- 2 lokale Kind en Gezin-teams regio’s Aalst en Dendermonde (80%)&nbsp;</div><div>- 2 lokale Kind en Gezin-teams ten zuiden van stad Antwerpen: regio’s Puurs-St-Amands tot Wommelgem (80%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Antwerpen Centrum en een Antwerps (provinciaal) team van psychopedagogen (100%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Haspengouw (Sint-Truiden tot Voeren) en een Limburgs (provinciaal) team van psychopedagogen (80%)</div><p>Pluspunten voor deze functie?<br>- Je hebt bij voorkeur leidinggevende ervaring in de sociale of gezondheidssector<br>- Om een team psychopedagogen aan te sturen, heb je bij voorkeur kennis van pedagogische thema’s en verontrusting<br>- Je beschikt over een rijbewijs B</p><div><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p></div>",
-        "htmlEncoded": "Krijg jij energie van mensen aansturen en coachen? Heb je een warm hart voor je eigen team en (toekomstige) gezinnen met jonge kinderen? Wil jij je leiderschapskwaliteiten inzetten in een job met maatschappelijke impact? Dan ben jij de collega die wij zoeken! <br><br><div>Als teamverantwoordelijke bij Kind en Gezin ben jij de motor achter een goed functionerend team. Je begeleidt, organiseert en ondersteunt jouw medewerkers, zodat zij de beste zorg en ondersteuning kunnen bieden aan gezinnen. Dankzij jouw inspanningen zorgen we voor een kwaliteitsvolle, klantgerichte dienstverlening die gezinnen in hun kracht zet. <br><br></div><div>Wat maakt deze job zo bijzonder? Kind en Gezin biedt (aanstaande) ouders en gezinnen met jonge kinderen gratis en laagdrempelige begeleiding via huisbezoeken en consultaties. De Kind en Gezin teams geven advies en ondersteuning rond gezondheid, ontwikkeling en opvoeding, met bijzondere aandacht voor preventieve zorg, zoals vaccinaties en vroege detectie van ontwikkelingsrisico’s. We werken samen met lokale partners aan een geïntegreerd gezinsbeleid en focussen op thema’s zoals bestrijden van kinderarmoede, opvoedingsondersteuning, ontwikkeling en ouderschap, medische preventie en preventie kindermishandeling.&nbsp;<br><br></div><div>Als teamverantwoordelijke zal je leidinggeven aan 2 teams. Deze teams bestaan samen uit een 30 tot 45 tal werknemers van Opgroeien en zijn op twee manieren samengesteld: de lokale Kind en Gezin-teams&nbsp;bestaan uit verpleegkundigen, sociaal werkers en gezinsondersteuners (multi-expertise teams). <br><br></div><div>De provinciale teams bestaan uit psychologen en/of pedagogen die in gezinnen aan de slag gaan rond thema’s als ouderschap en opvoedingsondersteuning, van basisondersteuning tot hulp bij verontrusting en daarnaast ook collega’s uit Kind en Gezin teams adviseren en ondersteunen. <br><br></div><div>Momenteel zoeken we 4 teamverantwoordelijken voor de volgende teams:&nbsp;</div><div>- 2 lokale Kind en Gezin-teams regio’s Aalst en Dendermonde (80%)&nbsp;</div><div>- 2 lokale Kind en Gezin-teams ten zuiden van stad Antwerpen: regio’s Puurs-St-Amands tot Wommelgem (80%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Antwerpen Centrum en een Antwerps (provinciaal) team van psychopedagogen (100%)&nbsp;</div><div>- Een combinatie van een lokaal Kind en Gezin-team regio Haspengouw (Sint-Truiden tot Voeren) en een Limburgs (provinciaal) team van psychopedagogen (80%)</div><p>Pluspunten voor deze functie?<br>- Je hebt bij voorkeur leidinggevende ervaring in de sociale of gezondheidssector<br>- Om een team psychopedagogen aan te sturen, heb je bij voorkeur kennis van pedagogische thema’s en verontrusting<br>- Je beschikt over een rijbewijs B</p><div><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p></div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
@@ -7909,41 +7657,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17337",
-      "internal": false,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17337",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Dossierbehandelaar Personeel"
-      },
-      "displayTitle": "Dossierbehandelaar Personeel",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Jij bent nauwkeurig, klantgericht en administratief sterk? Jij hebt een passie voor zowel personeelsbeheer, als onderwijs? Dan is deze functie iets voor jou!<br></span><span><br>Als dossierbehandelaar personeel maak je deel uit van het team Personeel, dat verantwoordelijk is voor het tijdig en correct betalen van salarissen en het professioneel beheren van personeelsdossiers in het hoger en volwassenenonderwijs. . Jij bent het vaste aanspreekpunt voor het administratief beheer van deze dossiers binnen hoger onderwijsinstellingen, centra voor volwassenenonderwijs (CVO) en centra voor basiseducatie (CBE). Samen met je collega’s zorg je voor een vlotte en correcte afhandeling van betalingen, verzamel en beheer je personeelsgegevens, beantwoord je vragen en bied je ondersteuning aan onderwijsinstellingen en andere betrokken instanties.<br></span><span><br>Je gaat nauwkeurig te werk en volgt de geldende regelgeving en procedures strikt op. Je controleert en verwerkt aanvragen, voert salarisberekeningen uit en stelt documenten op. Daarnaast fungeer je als aanspreekpunt voor klanten, zoek je naar correcte en klantgerichte oplossingen bij vragen of problemen en adviseer je hen over hun dossier. Je rapporteert regelmatig over de stand van zaken aan je leidinggevende en onderhoudt contacten met collega’s en andere overheidsinstanties. Bovendien denk je actief mee over procesoptimalisatie en stel je verbeteringen voor om de verwerking van personeelsdossiers efficiënter te maken.<br></span><span><br>Concreet zijn wij op dit moment op zoek naar twee dossierbehandelaars personeel. Heb jij affiniteit met personeelsregelgeving en -procedures, leer je graag voortdurend bij en heb je een sterke zin voor verantwoordelijkheid en zorgvuldigheid? Ben je communicatief sterk, klantgericht en werk je graag binnen een gestructureerde administratieve omgeving? Solliciteer dan nu en misschien word jij onze nieuwe collega!<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.,</span></p>",
-        "htmlEncoded": "<p><span>Jij bent nauwkeurig, klantgericht en administratief sterk? Jij hebt een passie voor zowel personeelsbeheer, als onderwijs? Dan is deze functie iets voor jou!<br></span><span><br>Als dossierbehandelaar personeel maak je deel uit van het team Personeel, dat verantwoordelijk is voor het tijdig en correct betalen van salarissen en het professioneel beheren van personeelsdossiers in het hoger en volwassenenonderwijs. . Jij bent het vaste aanspreekpunt voor het administratief beheer van deze dossiers binnen hoger onderwijsinstellingen, centra voor volwassenenonderwijs (CVO) en centra voor basiseducatie (CBE). Samen met je collega’s zorg je voor een vlotte en correcte afhandeling van betalingen, verzamel en beheer je personeelsgegevens, beantwoord je vragen en bied je ondersteuning aan onderwijsinstellingen en andere betrokken instanties.<br></span><span><br>Je gaat nauwkeurig te werk en volgt de geldende regelgeving en procedures strikt op. Je controleert en verwerkt aanvragen, voert salarisberekeningen uit en stelt documenten op. Daarnaast fungeer je als aanspreekpunt voor klanten, zoek je naar correcte en klantgerichte oplossingen bij vragen of problemen en adviseer je hen over hun dossier. Je rapporteert regelmatig over de stand van zaken aan je leidinggevende en onderhoudt contacten met collega’s en andere overheidsinstanties. Bovendien denk je actief mee over procesoptimalisatie en stel je verbeteringen voor om de verwerking van personeelsdossiers efficiënter te maken.<br></span><span><br>Concreet zijn wij op dit moment op zoek naar twee dossierbehandelaars personeel. Heb jij affiniteit met personeelsregelgeving en -procedures, leer je graag voortdurend bij en heb je een sterke zin voor verantwoordelijkheid en zorgvuldigheid? Ben je communicatief sterk, klantgericht en werk je graag binnen een gestructureerde administratieve omgeving? Solliciteer dan nu en misschien word jij onze nieuwe collega!<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.,</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17218",
       "internal": false,
       "validThroughDate": "-1",
@@ -8009,38 +7722,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17138",
-      "internal": true,
-      "validThroughDate": "1744156800",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17138",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Tester"
-      },
-      "displayTitle": "Tester",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij iemand die gedreven is door kwaliteit en oog heeft voor detail? Als tester bij AHOVOKS speel je een cruciale rol in de ontwikkeling van innovatieve IT-oplossingen en het opsporen van bugs in bestaande toepassingen. Dankzij jouw expertise zorgen we ervoor dat onze software feilloos werkt en gebruiksvriendelijk is.</span></p> <p><span>&nbsp;</span></p> <p><span>Je test nieuwe en aangepaste functionaliteiten en controleert of de user story volledig en duidelijk is, of de opgeleverde functionaliteit de beschreven analyse volgt en of alles in alle omstandigheden correct werkt. Testresultaten documenteer je zorgvuldig, waarbij je testdefecten logt en rapporteert over de voortgang aan de product owner. Daarnaast werk je mee aan testautomatisering door testcases op te stellen die door het ontwikkelteam worden geïmplementeerd.</span></p> <p><span>&nbsp;</span></p> <p><span>Ook databanken kennen voor jou weinig geheimen. Je duikt in de data, creëert testgegevens en verifieert testresultaten met SQL-query’s. Wanneer er testdefecten of bugs opduiken, analyseer je ze grondig en draag je bij aan een structurele oplossing. Je blijft jezelf ontwikkelen via literatuur en opleidingen, waardoor je niet alleen je eigen werk naar een hoger niveau tilt, maar ook dat van je team.</span></p> <p><span><font face=\"FlandersArtSerif-Regular\" color=\"#171717\"><br></font>Ben jij klaar om als tester het verschil te maken bij AHOVOKS? Solliciteer nu en bouw mee aan betrouwbare IT-oplossingen!</span><span>&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><br>",
-        "htmlEncoded": "<p><span>Ben jij iemand die gedreven is door kwaliteit en oog heeft voor detail? Als tester bij AHOVOKS speel je een cruciale rol in de ontwikkeling van innovatieve IT-oplossingen en het opsporen van bugs in bestaande toepassingen. Dankzij jouw expertise zorgen we ervoor dat onze software feilloos werkt en gebruiksvriendelijk is.</span></p> <p><span>&nbsp;</span></p> <p><span>Je test nieuwe en aangepaste functionaliteiten en controleert of de user story volledig en duidelijk is, of de opgeleverde functionaliteit de beschreven analyse volgt en of alles in alle omstandigheden correct werkt. Testresultaten documenteer je zorgvuldig, waarbij je testdefecten logt en rapporteert over de voortgang aan de product owner. Daarnaast werk je mee aan testautomatisering door testcases op te stellen die door het ontwikkelteam worden geïmplementeerd.</span></p> <p><span>&nbsp;</span></p> <p><span>Ook databanken kennen voor jou weinig geheimen. Je duikt in de data, creëert testgegevens en verifieert testresultaten met SQL-query’s. Wanneer er testdefecten of bugs opduiken, analyseer je ze grondig en draag je bij aan een structurele oplossing. Je blijft jezelf ontwikkelen via literatuur en opleidingen, waardoor je niet alleen je eigen werk naar een hoger niveau tilt, maar ook dat van je team.</span></p> <p><span><font face=\"FlandersArtSerif-Regular\" color=\"#171717\"><br></font>Ben jij klaar om als tester het verschil te maken bij AHOVOKS? Solliciteer nu en bouw mee aan betrouwbare IT-oplossingen!</span><span>&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
