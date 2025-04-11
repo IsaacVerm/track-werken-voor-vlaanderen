@@ -1,11 +1,81 @@
 {
-  "totalItems": 228,
+  "totalItems": 230,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 227,
+  "lastItemOfPage": 229,
   "items": [
+    {
+      "link": "/Job/vdab-70847721",
+      "internal": false,
+      "validThroughDate": "1746316800",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70847721",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Projectcoördinator technische dienst"
+      },
+      "displayTitle": "Projectcoördinator technische dienst",
+      "isProtected": false,
+      "description": {
+        "raw": "<ul> \n<li>Je coördineert allerlei technische projecten van A tot Z en bepaalt met je team welke werken wel en niet worden uitbesteed en met welke prioriteit.</li> \n<li>Je verzekert een goede opvolging van projecten en communiceert de voortgang naar alle betrokken partijen.</li> \n<li>Je luistert naar de wensen van je interne klanten en vertaalt deze naar concrete dossiers.</li> \n<li>Voor de werken in eigen beheer, bepaal je de nodige tijd en middelen en plant deze efficiënt in.</li> \n<li>Bij aanbestedingsdossiers neem je het technische luik ter harte.</li> \n<li>Je evalueert offertes en bespreekt deze met je collega’s van de dienst Aanbestedingen.</li> \n<li>Je evalueert jaarlijks het lange termijn onderhoudsplan en stuurt bij waar nodig.</li> \n<li>Je werkt mee aan het opstellen van het meerjarenbudget.</li> </ul>",
+        "htmlEncoded": "<ul> \n<li>Je coördineert allerlei technische projecten van A tot Z en bepaalt met je team welke werken wel en niet worden uitbesteed en met welke prioriteit.</li> \n<li>Je verzekert een goede opvolging van projecten en communiceert de voortgang naar alle betrokken partijen.</li> \n<li>Je luistert naar de wensen van je interne klanten en vertaalt deze naar concrete dossiers.</li> \n<li>Voor de werken in eigen beheer, bepaal je de nodige tijd en middelen en plant deze efficiënt in.</li> \n<li>Bij aanbestedingsdossiers neem je het technische luik ter harte.</li> \n<li>Je evalueert offertes en bespreekt deze met je collega’s van de dienst Aanbestedingen.</li> \n<li>Je evalueert jaarlijks het lange termijn onderhoudsplan en stuurt bij waar nodig.</li> \n<li>Je werkt mee aan het opstellen van het meerjarenbudget.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70845729",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Sport Vlaanderen Genk",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70845729",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Medewerker schoonmaak Genk"
+      },
+      "displayTitle": "Medewerker schoonmaak Genk",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br> Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig als \n<strong>keukenmedewerker</strong> ook mee in de keuken van het centrum.</p> \n<p>Heb je bovendien affiniteit met \n<strong>paarden</strong>? Dan is dit zeker een extra plus, maar geen vereiste.</p>",
+        "htmlEncoded": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br> Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig als \n<strong>keukenmedewerker</strong> ook mee in de keuken van het centrum.</p> \n<p>Heb je bovendien affiniteit met \n<strong>paarden</strong>? Dan is dit zeker een extra plus, maar geen vereiste.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Genk"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70837353",
       "internal": false,
@@ -772,41 +842,6 @@
         {
           "address": {
             "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70751162",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70751162",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtypeObject": null,
-      "hubContentSubtypeObject": null,
-      "title": {
-        "htmlEncoded": "Senior Java Developer (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Senior Java Developer (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers</span></p> \n<p><span>Als Sr. Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p>",
-        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers</span></p> \n<p><span>Als Sr. Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -7161,6 +7196,46 @@
         {
           "address": {
             "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17611",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Eigen Vermogen Xperta",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17611",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtypeObject": null,
+      "hubContentSubtypeObject": null,
+      "title": {
+        "htmlEncoded": "Ingenieur staalconstructies"
+      },
+      "displayTitle": "Ingenieur staalconstructies",
+      "isProtected": false,
+      "description": {
+        "raw": "<div><div>Ben je geboeid door staalconstructies zoals bruggen, sluizen en kaaimuren én wil je bijdragen aan unieke projecten binnen Mobiliteit en Openbare Werken? Dan is deze functie iets voor jou!<br><br></div><div></div><div></div><div>Als ingenieur staalconstructies bij de afdeling Expertise Beton en Staal werk je binnen het studie- en controlebureau van de Vlaamse overheid op gebied van constructies van burgerlijke bouwkunde. je focust je op het keuren van bouwmaterialen en bouwproducten, het controleren van de uitvoering van bepaalde delen of het geheel van de constructies.&nbsp;<br><br></div><div></div><div></div><div>Je takenpakket omvat onder andere:</div><ul><li>&nbsp;Je bereidt technisch advies voor bij de constructie van stalen en betonnen kunstwerken (nazicht uitvoeringsdocumenten zoals uitvoeringstekeningen, lasplan, ITP,WPS, WPQR, ...).&nbsp;</li><li>&nbsp;Je maakt bestekteksten en technische voorschriften op en zorgt voor nazicht.</li><li>&nbsp;Je keurt materialen en controleert de uitvoering van de beton- en staalconstructies.</li><li>&nbsp;Je bent verantwoordelijk voor het tijdig afleveren van de keurings- en toezichtsverslagen en het geven van technisch advies.&nbsp;</li><li>&nbsp;Je staat mee in voor de verdere uitbouw van de voorschriften van het standaardbestek 260/270/280.</li></ul><div></div><div>Dit alles doe je niet alleen. Samen met je collega’s van de sectie Keuringen speel je een cruciale rol in het ondersteunen van onze klanten (zoals afdeling Maritieme Toegang of De Vlaamse Waterweg) bij de uitvoering van betonnen en stalen structuren.<br><br></div><div></div><div></div><div>Het team zit verspreid over onze kantoorgebouwen in Gent en Hasselt. Ook jij kan kiezen waar je werkt. Voor overleg word je occasioneel op de andere locatie of in Brussel verwacht.<br><br></div><div></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div><br>",
+        "htmlEncoded": "<div><div>Ben je geboeid door staalconstructies zoals bruggen, sluizen en kaaimuren én wil je bijdragen aan unieke projecten binnen Mobiliteit en Openbare Werken? Dan is deze functie iets voor jou!<br><br></div><div></div><div></div><div>Als ingenieur staalconstructies bij de afdeling Expertise Beton en Staal werk je binnen het studie- en controlebureau van de Vlaamse overheid op gebied van constructies van burgerlijke bouwkunde. je focust je op het keuren van bouwmaterialen en bouwproducten, het controleren van de uitvoering van bepaalde delen of het geheel van de constructies.&nbsp;<br><br></div><div></div><div></div><div>Je takenpakket omvat onder andere:</div><ul><li>&nbsp;Je bereidt technisch advies voor bij de constructie van stalen en betonnen kunstwerken (nazicht uitvoeringsdocumenten zoals uitvoeringstekeningen, lasplan, ITP,WPS, WPQR, ...).&nbsp;</li><li>&nbsp;Je maakt bestekteksten en technische voorschriften op en zorgt voor nazicht.</li><li>&nbsp;Je keurt materialen en controleert de uitvoering van de beton- en staalconstructies.</li><li>&nbsp;Je bent verantwoordelijk voor het tijdig afleveren van de keurings- en toezichtsverslagen en het geven van technisch advies.&nbsp;</li><li>&nbsp;Je staat mee in voor de verdere uitbouw van de voorschriften van het standaardbestek 260/270/280.</li></ul><div></div><div>Dit alles doe je niet alleen. Samen met je collega’s van de sectie Keuringen speel je een cruciale rol in het ondersteunen van onze klanten (zoals afdeling Maritieme Toegang of De Vlaamse Waterweg) bij de uitvoering van betonnen en stalen structuren.<br><br></div><div></div><div></div><div>Het team zit verspreid over onze kantoorgebouwen in Gent en Hasselt. Ook jij kan kiezen waar je werkt. Voor overleg word je occasioneel op de andere locatie of in Brussel verwacht.<br><br></div><div></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
