@@ -1,11 +1,116 @@
 {
-  "totalItems": 200,
+  "totalItems": 202,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 199,
+  "lastItemOfPage": 201,
   "items": [
+    {
+      "link": "/Job/vdab-70934955",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934955",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Educator - gedetacheerde lager onderwijs - De Vroente"
+      },
+      "displayTitle": "Educator - gedetacheerde lager onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70934862",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934862",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente"
+      },
+      "displayTitle": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70934597",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934597",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente"
+      },
+      "displayTitle": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70915812",
       "internal": false,
@@ -4452,41 +4557,6 @@
       "description": {
         "raw": "<p>Heb je een scherp oog voor detail en hou je van\nafwisseling in je werk? Wil je graag bijdragen aan de voedselveiligheid in\nBelgië? Dan hebben wij de perfecte job voor jou! Je krijgt de kans om je kennis\nte verdiepen, zelfstandig te werken en deel uit te maken van een team dat dagelijks\nimpact maakt.</p><p>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.</p>",
         "htmlEncoded": "<p>Heb je een scherp oog voor detail en hou je van\nafwisseling in je werk? Wil je graag bijdragen aan de voedselveiligheid in\nBelgië? Dan hebben wij de perfecte job voor jou! Je krijgt de kans om je kennis\nte verdiepen, zelfstandig te werken en deel uit te maken van een team dat dagelijks\nimpact maakt.</p><p>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18199",
-      "internal": false,
-      "validThroughDate": "1751241600",
-      "hiringOrganization": "ILVO Centrale Diensten",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18199",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Poetspersoneel"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Poetspersoneel",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben je gemotiveerd om in de schoonmaak te werken? Werk je graag samen met anderen, maar kun je ook zelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem je graag je taken af met collega's? Dan is deze job iets voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
-        "htmlEncoded": "Ben je gemotiveerd om in de schoonmaak te werken? Werk je graag samen met anderen, maar kun je ook zelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem je graag je taken af met collega's? Dan is deze job iets voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
       },
       "locations": [
         {
