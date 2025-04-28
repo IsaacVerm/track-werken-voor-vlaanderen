@@ -1,11 +1,46 @@
 {
-  "totalItems": 191,
+  "totalItems": 212,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 190,
+  "lastItemOfPage": 211,
   "items": [
+    {
+      "link": "/Job/vdab-70948751",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70948751",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Junior Solution Architect (Wonen in Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Junior Solution Architect (Wonen in Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>",
+        "htmlEncoded": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70948618",
       "internal": false,
@@ -32,6 +67,41 @@
       "description": {
         "raw": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>",
         "htmlEncoded": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70948513",
+      "internal": false,
+      "validThroughDate": "1749600000",
+      "hiringOrganization": "GO! Onderwijs",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70948513",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Vacature organisatieondersteuner POC+"
+      },
+      "displayTitle": "Vacature organisatieondersteuner POC+",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Over de Permanente Ondersteuningscel GO! (POC+ GO! CLB)</p> \n<p>De Permanente Ondersteuningscel (kortweg POC) maakt samen met de Pedagogische Begeleidingsdienst (PBD) deel uit van de pedagogische diensten van het GO!. De opdracht van de POC bestaat enerzijds uit de professionalisering van CLB-medewerkers en CLB’s als lerende organisaties, anderzijds uit de vertegenwoordiging en belangenbehartiging van de GO! CLB. Daarbij is het onze missie om de inspirerende en innoverende referentie te zijn in de lerende community van de GO! CLB. De POC+ profileert zich hierbij als een wendbare organisatie die, met beide voeten in de maatschappij, een brug wil slaan tussen evidence-based inzichten en de GO! CLB-praktijk. Verkennen, verbinden en versterken zijn daarbij onze kernwoorden.</p> \n<p>Ter versterking van de interne kwaliteitszorg is de POC+ op zoek naar:</p> \n<p>een \n<strong> organisatieondersteuner interne kwaliteitszorg (voltijds)</strong></p> \n<p>WAT HOUDT DE FUNCTIE IN?</p> \n<p>Als organisatieondersteuner bewaak je de interne processen en de kwaliteit van de dienstverlening van de POC+. Hierbij ben je als procesbegeleider verantwoordelijk voor het ontwikkelen, verfijnen, implementeren en borgen van een uitgebouwd en participatief kwaliteitsbeleid.</p> \n<p>Tot jouw takenpakket als organisatieondersteuner behoren:</p> \n<p>• Initiatieven nemen om de kwaliteit van de kernprocessen (professionalisering, beleidsvoorbereiding, vertegenwoordiging en belangenbehartiging) en de interne werking (waaronder personeels- en professionaliseringsbeleid) te monitoren en te optimaliseren.</p> \n<p>• Ontwikkelen, verfijnen en implementeren van een uitgebouwd en participatief kwaliteitsbeleid door (het):</p> \n<ul> \n<li>Ondersteunen bij het formuleren van resultaten en effecten;</li> \n<li>Evalueren van het begeleidingsplan en de acties;</li> \n<li>Voorstellen van verbeteracties waar nodig, in samenwerking met de teams;</li> \n<li>Zichtbaar maken voor internen en externen op welke manier er aan kwaliteit wordt gewerkt, o.a. via het opmaken en publiceren van het jaarverslag;</li> \n<li>Coördineren en toepassen van kwaliteitsplannen;</li> \n<li>Opmaken van een (beleids-)planning;</li> \n<li>Bewaken van prioritering;</li> \n<li>Ervoor te zorgen dat het kwaliteitsbeleid en de vooruitgang hiervan zichtbaar en toegankelijk zijn;</li> \n<li>Bewaken van de effecten van het kwaliteitsbeleid op korte, middellange en lange termijn;</li> \n<li>Zorgen voor de samenhang in de uitvoer van de kwaliteitsplannen;</li> \n<li>Bewaken dat alle initiatieven die genomen worden ter uitvoering van het kwaliteitsplan doelgericht zijn;</li> \n<li>Evalueren en waar nodig bijsturen van de systemen en structuren zodat deze het dagelijks werk ondersteunen en bijdragen aan de optimalisatie van de organisatie (rollen, taken en overlegstructuren zoals teamvergadering en personeelsvergadering).</li> </ul> \n<p>• Faciliteren van het team systemen – dit bestaat uit de organisatie-ondersteunende medewerkers:</p> \n<ul> \n<li>Teamdoelen, prioriteiten en afspraken bewaken.</li> \n<li>Begeleiden van processen zoals de opmaak van nieuwe procedures, evaluatie van de sharepointstructuur of opstart van projecten.</li> \n<li>Stimuleren van eigenaarschap en gedeeld leiderschap.</li> </ul> \n<p>• Onthalen van nieuwe medewerkers en opvolgen van de kwaliteitsvolle uitvoering van de aanvangsbegeleiding.</p> \n<p>• Samenwerken met de andere diensten binnen het Huis GO! in het kader van dienstverlening en afstemmen van kwaliteitszorg- en secundaire processen (bv procedure IT-middelen, welzijnsbeleid, enz.).</p> \n<p>Als organisatieondersteuner maak je deel uit van het team systemen en neem je deel aan de interne werkgroep kwaliteit.</p>",
+        "htmlEncoded": "<p>Over de Permanente Ondersteuningscel GO! (POC+ GO! CLB)</p> \n<p>De Permanente Ondersteuningscel (kortweg POC) maakt samen met de Pedagogische Begeleidingsdienst (PBD) deel uit van de pedagogische diensten van het GO!. De opdracht van de POC bestaat enerzijds uit de professionalisering van CLB-medewerkers en CLB’s als lerende organisaties, anderzijds uit de vertegenwoordiging en belangenbehartiging van de GO! CLB. Daarbij is het onze missie om de inspirerende en innoverende referentie te zijn in de lerende community van de GO! CLB. De POC+ profileert zich hierbij als een wendbare organisatie die, met beide voeten in de maatschappij, een brug wil slaan tussen evidence-based inzichten en de GO! CLB-praktijk. Verkennen, verbinden en versterken zijn daarbij onze kernwoorden.</p> \n<p>Ter versterking van de interne kwaliteitszorg is de POC+ op zoek naar:</p> \n<p>een \n<strong> organisatieondersteuner interne kwaliteitszorg (voltijds)</strong></p> \n<p>WAT HOUDT DE FUNCTIE IN?</p> \n<p>Als organisatieondersteuner bewaak je de interne processen en de kwaliteit van de dienstverlening van de POC+. Hierbij ben je als procesbegeleider verantwoordelijk voor het ontwikkelen, verfijnen, implementeren en borgen van een uitgebouwd en participatief kwaliteitsbeleid.</p> \n<p>Tot jouw takenpakket als organisatieondersteuner behoren:</p> \n<p>• Initiatieven nemen om de kwaliteit van de kernprocessen (professionalisering, beleidsvoorbereiding, vertegenwoordiging en belangenbehartiging) en de interne werking (waaronder personeels- en professionaliseringsbeleid) te monitoren en te optimaliseren.</p> \n<p>• Ontwikkelen, verfijnen en implementeren van een uitgebouwd en participatief kwaliteitsbeleid door (het):</p> \n<ul> \n<li>Ondersteunen bij het formuleren van resultaten en effecten;</li> \n<li>Evalueren van het begeleidingsplan en de acties;</li> \n<li>Voorstellen van verbeteracties waar nodig, in samenwerking met de teams;</li> \n<li>Zichtbaar maken voor internen en externen op welke manier er aan kwaliteit wordt gewerkt, o.a. via het opmaken en publiceren van het jaarverslag;</li> \n<li>Coördineren en toepassen van kwaliteitsplannen;</li> \n<li>Opmaken van een (beleids-)planning;</li> \n<li>Bewaken van prioritering;</li> \n<li>Ervoor te zorgen dat het kwaliteitsbeleid en de vooruitgang hiervan zichtbaar en toegankelijk zijn;</li> \n<li>Bewaken van de effecten van het kwaliteitsbeleid op korte, middellange en lange termijn;</li> \n<li>Zorgen voor de samenhang in de uitvoer van de kwaliteitsplannen;</li> \n<li>Bewaken dat alle initiatieven die genomen worden ter uitvoering van het kwaliteitsplan doelgericht zijn;</li> \n<li>Evalueren en waar nodig bijsturen van de systemen en structuren zodat deze het dagelijks werk ondersteunen en bijdragen aan de optimalisatie van de organisatie (rollen, taken en overlegstructuren zoals teamvergadering en personeelsvergadering).</li> </ul> \n<p>• Faciliteren van het team systemen – dit bestaat uit de organisatie-ondersteunende medewerkers:</p> \n<ul> \n<li>Teamdoelen, prioriteiten en afspraken bewaken.</li> \n<li>Begeleiden van processen zoals de opmaak van nieuwe procedures, evaluatie van de sharepointstructuur of opstart van projecten.</li> \n<li>Stimuleren van eigenaarschap en gedeeld leiderschap.</li> </ul> \n<p>• Onthalen van nieuwe medewerkers en opvolgen van de kwaliteitsvolle uitvoering van de aanvangsbegeleiding.</p> \n<p>• Samenwerken met de andere diensten binnen het Huis GO! in het kader van dienstverlening en afstemmen van kwaliteitszorg- en secundaire processen (bv procedure IT-middelen, welzijnsbeleid, enz.).</p> \n<p>Als organisatieondersteuner maak je deel uit van het team systemen en neem je deel aan de interne werkgroep kwaliteit.</p>"
       },
       "locations": [
         {
@@ -247,6 +317,111 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70934955",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934955",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Educator - gedetacheerde lager onderwijs - De Vroente"
+      },
+      "displayTitle": "Educator - gedetacheerde lager onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70934862",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934862",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente"
+      },
+      "displayTitle": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70934597",
+      "internal": false,
+      "validThroughDate": "1747612800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70934597",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente"
+      },
+      "displayTitle": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
+        "htmlEncoded": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kalmthout"
           }
         }
       ]
@@ -3787,6 +3962,566 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18472",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18472",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 27 DWLK - Jobstudent administratief medewerker internationale samenwerking - Aalst - augustus"
+      },
+      "displayTitle": "VW 25 27 DWLK - Jobstudent administratief medewerker internationale samenwerking - Aalst - augustus",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: Administratieve ondersteuning bij financiële rapportering samenwerkingsprojecten &amp; uitwerken kleinschalige acties ter ondersteuning van de (interne) communicatie.</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: Administratieve ondersteuning bij financiële rapportering samenwerkingsprojecten &amp; uitwerken kleinschalige acties ter ondersteuning van de (interne) communicatie.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18468",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18468",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 24 OND - Jobstudent administratief medewerker(st)er - Herentals - augustus"
+      },
+      "displayTitle": "VW 25 24 OND - Jobstudent administratief medewerker(st)er - Herentals - augustus",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18467",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18467",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 23 OND - Jobstudent administratief medewerker(st)er - Herentals - juli"
+      },
+      "displayTitle": "VW 25 23 OND - Jobstudent administratief medewerker(st)er - Herentals - juli",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18466",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18466",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 22 OND - Jobstudent administratief medewerker(st)er - Herentals - juni"
+      },
+      "displayTitle": "VW 25 22 OND - Jobstudent administratief medewerker(st)er - Herentals - juni",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18465",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18465",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 21 OND - Jobstudent onthaal medewerk(st)er - Gent - augustus"
+      },
+      "displayTitle": "VW 25 21 OND - Jobstudent onthaal medewerk(st)er - Gent - augustus",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18464",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18464",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 20 OND - Jobstudent onthaal medewerk(st)er - Gent - juli"
+      },
+      "displayTitle": "VW 25 20 OND - Jobstudent onthaal medewerk(st)er - Gent - juli",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18462",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18462",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 19 OND - Jobstudent onthaal medewerk(st)er - Gent - juni"
+      },
+      "displayTitle": "VW 25 19 OND - Jobstudent onthaal medewerk(st)er - Gent - juni",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18461",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18461",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 18 MON - Jobstudent medewerker meetnet waterkwaliteit - Gent - juli"
+      },
+      "displayTitle": "VW 25 18 MON - Jobstudent medewerker meetnet waterkwaliteit - Gent - juli",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Het takenpakket als medewerker water bij de dienst monsterneming en inventarisatie waterkwaliteit bestaat uit volgende aspecten:<br>• Het voorbereiden en uitvoeren van staalnames Waterbodem volgens de vastgestelde procedures : volgens planningskalender en noodzaak en onder begeleiding van het team;<br>• Het verwerken van macro-invertebratenstalen; triëren en determineren onder begeleiding van het team;<br>• Het uitvoeren van ecotoxiciteitstesten en het verwerken van de gegevens onder begeleiding van het team;<br>• Het administratief verwerken en opvragen van de meetgegevens: invoeren van de veldwaarnemingen,<br>invoeren van determinatielijsten;<br><br></p>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Het takenpakket als medewerker water bij de dienst monsterneming en inventarisatie waterkwaliteit bestaat uit volgende aspecten:<br>• Het voorbereiden en uitvoeren van staalnames Waterbodem volgens de vastgestelde procedures : volgens planningskalender en noodzaak en onder begeleiding van het team;<br>• Het verwerken van macro-invertebratenstalen; triëren en determineren onder begeleiding van het team;<br>• Het uitvoeren van ecotoxiciteitstesten en het verwerken van de gegevens onder begeleiding van het team;<br>• Het administratief verwerken en opvragen van de meetgegevens: invoeren van de veldwaarnemingen,<br>invoeren van determinatielijsten;<br><br></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18454",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18454",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 15 MON - Jobstudent praktisch medewerker labo - Gent - augustus"
+      },
+      "displayTitle": "VW 25 15 MON - Jobstudent praktisch medewerker labo - Gent - augustus",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding van water stalen, waterbodem en biota stalen door middel van verschillende extractie technieken (SPE, ASE…) voor GC-MS analyse. Algemene, ondersteunende taken binnen het labo.<br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding van water stalen, waterbodem en biota stalen door middel van verschillende extractie technieken (SPE, ASE…) voor GC-MS analyse. Algemene, ondersteunende taken binnen het labo.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18452",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18452",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 13 MON - Jobstudent praktisch medewerker labo - Gent - juli"
+      },
+      "displayTitle": "VW 25 13 MON - Jobstudent praktisch medewerker labo - Gent - juli",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding monsters die gebruikt worden voor Calux testen (= bio-assay testen). Monsters extraheren en indampen. Algemene labo-taken.<br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding monsters die gebruikt worden voor Calux testen (= bio-assay testen). Monsters extraheren en indampen. Algemene labo-taken.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18451",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18451",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 12 MON - Jobstudent praktisch medewerker labo - Gent - augustus"
+      },
+      "displayTitle": "VW 25 12 MON - Jobstudent praktisch medewerker labo - Gent - augustus",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding voor analyses van monsters, algemene taken binnen het laboratorium en routinematige analyse van totaal stikstof van oppervlaktewaters.<br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding voor analyses van monsters, algemene taken binnen het laboratorium en routinematige analyse van totaal stikstof van oppervlaktewaters.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18432",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18432",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 07 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Augustus - Aalst"
+      },
+      "displayTitle": "VW 25 07 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Augustus - Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18431",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18431",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 06 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Juli - Aalst"
+      },
+      "displayTitle": "VW 25 06 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Juli - Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18429",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18429",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 05 ADV - Jobstudent administratief medewerker - Juli - Gent"
+      },
+      "displayTitle": "VW 25 05 ADV - Jobstudent administratief medewerker - Juli - Gent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Klassement ontdoen van ballast en de relevante info scannen en linken in de AVOS databank<br>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Klassement ontdoen van ballast en de relevante info scannen en linken in de AVOS databank<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18427",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18427",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 04 LU - Jobstudent Dossierbeheerder - Juli - Aalst"
+      },
+      "displayTitle": "VW 25 04 LU - Jobstudent Dossierbeheerder - Juli - Aalst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>1) Archivering: inscannen papieren IMJV<br>De opdracht behelst enerzijds een repetitieve uitvoerende taak van het inscannen van documenten en digitaal archiveren ervan. Hiervoor is fysieke aanwezigheid gewenst. Geen voorkennis vereist<br>2) Integrale milieuverslagen (IMJV) nakijken op de aanwezigheid van vereiste bijlagen.Via mail bedrijven contacteren die vermoedelijk via IMJV Leak Detection and Repair – NMVOS moeten rapporteren = bijlage bij IMJV<br>Als tweede taak volgt een iets meer inhoudelijke taak. Voorkennis is niet vereist, fysieke aanwezigheid is niet vereist. Het betreft het screenen van bedrijfsdocumenten (het Integraal Milieujaarverslag) op aanwezigheid van een&nbsp;specifieke bijlage. Indien deze niet aanwezig is, dient het bedrijf gecontacteerd te worden met vraag dit alsnog te bezorgen. De data dienen finaal verwerkt te worden in een Excelbestand.<br>3) het screenen met CO-Pilot van de bestuursakkoorden van alle lokale besturen in Vlaanderen naar vermeldingen van Luchtkwaliteit, Gezonde lucht en dergelijke en eventuele acties daaromtrent.</p>",
+        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>1) Archivering: inscannen papieren IMJV<br>De opdracht behelst enerzijds een repetitieve uitvoerende taak van het inscannen van documenten en digitaal archiveren ervan. Hiervoor is fysieke aanwezigheid gewenst. Geen voorkennis vereist<br>2) Integrale milieuverslagen (IMJV) nakijken op de aanwezigheid van vereiste bijlagen.Via mail bedrijven contacteren die vermoedelijk via IMJV Leak Detection and Repair – NMVOS moeten rapporteren = bijlage bij IMJV<br>Als tweede taak volgt een iets meer inhoudelijke taak. Voorkennis is niet vereist, fysieke aanwezigheid is niet vereist. Het betreft het screenen van bedrijfsdocumenten (het Integraal Milieujaarverslag) op aanwezigheid van een&nbsp;specifieke bijlage. Indien deze niet aanwezig is, dient het bedrijf gecontacteerd te worden met vraag dit alsnog te bezorgen. De data dienen finaal verwerkt te worden in een Excelbestand.<br>3) het screenen met CO-Pilot van de bestuursakkoorden van alle lokale besturen in Vlaanderen naar vermeldingen van Luchtkwaliteit, Gezonde lucht en dergelijke en eventuele acties daaromtrent.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18419",
+      "internal": false,
+      "validThroughDate": "1746489600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18419",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VW 25 01 PIW Jobstudent data-analist/ medewerker data-verzameling - Juli - Leuven"
+      },
+      "displayTitle": "VW 25 01 PIW Jobstudent data-analist/ medewerker data-verzameling - Juli - Leuven",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De functie onderschrijft de visie van de VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>&nbsp;</p><p>Het takenpakket bestaat uit volgende aspecten:</p><p>Het veldmeetnet hydromorfologie heeft in 2024 een omschakeling gekend van een fysiek meetnet naar een desktopanalyse, waarop de hydromorfologische kwaliteit wordt ingeschat op basis van bestaande databanken, GIS-analyses en probabilistische modellen. Voor het versterken van deze probabilistische modellen zoeken we een&nbsp;jobstudent die op basis van fotomateriaal de trainingsdata kan aanvullen voor verschillende variabelen (bv.&nbsp;oeverversteviging, dood hout, sedimentbanken, etc.). Er is ook de mogelijkheid om één of meer dagen mee op het&nbsp;veld te gaan om voeling te krijgen met het onderwerp. De student heeft idealiter een (basis)kennis GIS.</p>",
+        "htmlEncoded": "<p>De functie onderschrijft de visie van de VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>&nbsp;</p><p>Het takenpakket bestaat uit volgende aspecten:</p><p>Het veldmeetnet hydromorfologie heeft in 2024 een omschakeling gekend van een fysiek meetnet naar een desktopanalyse, waarop de hydromorfologische kwaliteit wordt ingeschat op basis van bestaande databanken, GIS-analyses en probabilistische modellen. Voor het versterken van deze probabilistische modellen zoeken we een&nbsp;jobstudent die op basis van fotomateriaal de trainingsdata kan aanvullen voor verschillende variabelen (bv.&nbsp;oeverversteviging, dood hout, sedimentbanken, etc.). Er is ook de mogelijkheid om één of meer dagen mee op het&nbsp;veld te gaan om voeling te krijgen met het onderwerp. De student heeft idealiter een (basis)kennis GIS.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18401",
       "internal": false,
       "validThroughDate": "1746057600",
@@ -3964,7 +4699,7 @@
     {
       "link": "/Job/cornerstone-18301",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1746835200",
       "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
       "reservedForDisability": false,
       "openPositions": 1,
