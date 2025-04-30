@@ -1,11 +1,46 @@
 {
-  "totalItems": 209,
+  "totalItems": 212,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 208,
+  "lastItemOfPage": 211,
   "items": [
+    {
+      "link": "/Job/vdab-70967993",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70967993",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Change Manager (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Change Manager (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De functie van change manager omvat de volgende zaken :</span></p> \n<p><span> </span></p> \n<p><span>Change management: helpen om de werking van het data office beter te verankeren binnen VDAB..</span></p> \n<p><span> </span></p> \n<p><span>Projectbegeleiding: \"SCRUM master\". Werkzaamheden helpen prioriteren en ordenen. Communicatie binnen en buiten het team helpen vormgeven. Trainings helpen vormgeven en op de juiste kanalen plaatsen. </span></p> \n<p><span> </span></p> \n<p><span>Typische projecten zijn : Data governance – metadatamanagement (data catalogus) – datakwaliteit/referentie en master datamanagement – data legal compliance.</span></p>",
+        "htmlEncoded": "<p><span>De functie van change manager omvat de volgende zaken :</span></p> \n<p><span> </span></p> \n<p><span>Change management: helpen om de werking van het data office beter te verankeren binnen VDAB..</span></p> \n<p><span> </span></p> \n<p><span>Projectbegeleiding: \"SCRUM master\". Werkzaamheden helpen prioriteren en ordenen. Communicatie binnen en buiten het team helpen vormgeven. Trainings helpen vormgeven en op de juiste kanalen plaatsen. </span></p> \n<p><span> </span></p> \n<p><span>Typische projecten zijn : Data governance – metadatamanagement (data catalogus) – datakwaliteit/referentie en master datamanagement – data legal compliance.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70962984",
       "internal": false,
@@ -154,8 +189,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70948618",
@@ -3962,6 +3997,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18502",
+      "internal": false,
+      "validThroughDate": "1747785600",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18502",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Barmedewerker voor het Kasteel van Gaasbeek"
+      },
+      "displayTitle": "Barmedewerker voor het Kasteel van Gaasbeek",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je op zoek naar een dynamische job in een unieke,\nhistorische setting? Steek je graag je handen uit je mouwen, ben je sociaal en\nzorg je graag voor een warm welkom? Dan is deze vacature iets voor jou. <br><br>Caffè\nCarletto, de gezellige bar van het Kasteel van Gaasbeek, zoekt een gedreven barmedewerker om het team te versterken en de barverantwoordelijke te\nondersteunen. Samen zorgen we ervoor dat onze bezoekers genieten van een buitengewone\nervaring. <br><br>Als barmedewerker zal je:<br>&nbsp; -&nbsp; Bezoekers gastvrij ontvangen en te woord staan<br>&nbsp; -&nbsp; Bestellingen opnemen, afrekenen en serveren<br>&nbsp; -&nbsp; Tafels afruimen, schoonmaken en afwassen<br>&nbsp; -&nbsp; De voorraad beheren, aanvullen en signaleren wanneer producten op raken <br>&nbsp; -&nbsp; Creatief voorstellen doen om een betere service aan te bieden<br>&nbsp; -&nbsp; Taken verdelen tussen de vrijwilligers die mee helpen in het caffè. <br><br>Je werkt voornamelijk overdag. Er vinden regelmatig\nevenementen plaats, die af en toe ’s avonds doorgaan. Als flexibele\nteamplayer werk je ook 2 weekends per maand.</p><p>Je maakt deel uit van een fijn divers team van een\nvaste collega, vrijwilligers en jobstudenten.</p><p>Bij voorkeur kan je in mei starten of op korte\ntermijn.</p><p>Klinkt dit als een ideale uitdaging? Word onze\nnieuwe collega en kom werken in de bijzondere sfeer van het Kasteel van\nGaasbeek!</p>",
+        "htmlEncoded": "<p>Ben je op zoek naar een dynamische job in een unieke,\nhistorische setting? Steek je graag je handen uit je mouwen, ben je sociaal en\nzorg je graag voor een warm welkom? Dan is deze vacature iets voor jou. <br><br>Caffè\nCarletto, de gezellige bar van het Kasteel van Gaasbeek, zoekt een gedreven barmedewerker om het team te versterken en de barverantwoordelijke te\nondersteunen. Samen zorgen we ervoor dat onze bezoekers genieten van een buitengewone\nervaring. <br><br>Als barmedewerker zal je:<br>&nbsp; -&nbsp; Bezoekers gastvrij ontvangen en te woord staan<br>&nbsp; -&nbsp; Bestellingen opnemen, afrekenen en serveren<br>&nbsp; -&nbsp; Tafels afruimen, schoonmaken en afwassen<br>&nbsp; -&nbsp; De voorraad beheren, aanvullen en signaleren wanneer producten op raken <br>&nbsp; -&nbsp; Creatief voorstellen doen om een betere service aan te bieden<br>&nbsp; -&nbsp; Taken verdelen tussen de vrijwilligers die mee helpen in het caffè. <br><br>Je werkt voornamelijk overdag. Er vinden regelmatig\nevenementen plaats, die af en toe ’s avonds doorgaan. Als flexibele\nteamplayer werk je ook 2 weekends per maand.</p><p>Je maakt deel uit van een fijn divers team van een\nvaste collega, vrijwilligers en jobstudenten.</p><p>Bij voorkeur kan je in mei starten of op korte\ntermijn.</p><p>Klinkt dit als een ideale uitdaging? Word onze\nnieuwe collega en kom werken in de bijzondere sfeer van het Kasteel van\nGaasbeek!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gaasbeek"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18482",
       "internal": false,
       "validThroughDate": "1746489600",
@@ -6823,6 +6893,41 @@
         {
           "address": {
             "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17624",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17624",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager Scheepsbouw"
+      },
+      "displayTitle": "Manager Scheepsbouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
           }
         }
       ]
