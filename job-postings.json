@@ -1,10 +1,10 @@
 {
-  "totalItems": 208,
+  "totalItems": 211,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 207,
+  "lastItemOfPage": 210,
   "items": [
     {
       "link": "/Job/vdab-70978297",
@@ -4837,6 +4837,46 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18256",
+      "internal": false,
+      "validThroughDate": "1747785600",
+      "hiringOrganization": "Algemene Diensten Regio Oost",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18256",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administratief ondersteuner"
+      },
+      "displayTitle": "Administratief ondersteuner",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De Vlaamse Landmaatschappij (VLM) is op zoek naar een gemotiveerde administratieve ondersteuner voor de dienst Algemene Diensten in Regio Oost. Je zal voornamelijk werkzaam zijn in Hasselt of Herentals, waarbij je dagelijks wordt aangestuurd door een leidinggevende en samenwerkt met verschillende teams binnen de organisatie. Thuiswerken is mogelijk, altijd in overleg met je leidinggevende en team. Verplaatsingen binnen de bredere regio Oost zijn een vast onderdeel van de job.</p><p>Als administratieve ondersteuner ben je de spil van de entiteit en voer je cruciale taken uit om een vlotte en efficiënte werking te garanderen. Jouw verantwoordelijkheden omvatten onder andere telefonische permanentie, afhandeling van de briefwisseling, agendabeheer van leidinggevenden, en het organiseren van overlegmomenten met interne diensten en externen. Daarnaast bied je versterking aan andere diensten, zoals administratieve ondersteuning van leidinggevenden, PDPO-controles, en het beheer van volkstuintjes.</p><p>Je beheert en structureert administratieve dossiers en gegevens door documenten te ordenen, digitaliseren en beschikbaar te maken voor collega’s. Ook verzorg je de verslaggeving van vergaderingen en andere bijeenkomsten door notulen op te stellen en actiepunten op te volgen. Een vlotte administratieve organisatie wordt gewaarborgd door postverwerking, onthaal en coördinatie van planningen te beheren. Je beheert inkomende en uitgaande post, ontvangt bezoekers en stelt overzichten op van roosters en afspraken.</p><p>Naast deze kernverantwoordelijkheden voer je ook ondersteunende taken uit, variërend van logistieke ondersteuning tot het helpen bij het versturen van zendingen. Jouw veelzijdige rol draagt bij tot een vlotte werking van de dienst of afdeling. Als jij gedreven bent, organisatorisch sterk en een teamspeler, dan ben jij de persoon die we zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>De Vlaamse Landmaatschappij (VLM) is op zoek naar een gemotiveerde administratieve ondersteuner voor de dienst Algemene Diensten in Regio Oost. Je zal voornamelijk werkzaam zijn in Hasselt of Herentals, waarbij je dagelijks wordt aangestuurd door een leidinggevende en samenwerkt met verschillende teams binnen de organisatie. Thuiswerken is mogelijk, altijd in overleg met je leidinggevende en team. Verplaatsingen binnen de bredere regio Oost zijn een vast onderdeel van de job.</p><p>Als administratieve ondersteuner ben je de spil van de entiteit en voer je cruciale taken uit om een vlotte en efficiënte werking te garanderen. Jouw verantwoordelijkheden omvatten onder andere telefonische permanentie, afhandeling van de briefwisseling, agendabeheer van leidinggevenden, en het organiseren van overlegmomenten met interne diensten en externen. Daarnaast bied je versterking aan andere diensten, zoals administratieve ondersteuning van leidinggevenden, PDPO-controles, en het beheer van volkstuintjes.</p><p>Je beheert en structureert administratieve dossiers en gegevens door documenten te ordenen, digitaliseren en beschikbaar te maken voor collega’s. Ook verzorg je de verslaggeving van vergaderingen en andere bijeenkomsten door notulen op te stellen en actiepunten op te volgen. Een vlotte administratieve organisatie wordt gewaarborgd door postverwerking, onthaal en coördinatie van planningen te beheren. Je beheert inkomende en uitgaande post, ontvangt bezoekers en stelt overzichten op van roosters en afspraken.</p><p>Naast deze kernverantwoordelijkheden voer je ook ondersteunende taken uit, variërend van logistieke ondersteuning tot het helpen bij het versturen van zendingen. Jouw veelzijdige rol draagt bij tot een vlotte werking van de dienst of afdeling. Als jij gedreven bent, organisatorisch sterk en een teamspeler, dan ben jij de persoon die we zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18253",
       "internal": false,
       "validThroughDate": "1746921600",
@@ -5372,6 +5412,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18199",
+      "internal": false,
+      "validThroughDate": "1751241600",
+      "hiringOrganization": "ILVO Centrale Diensten",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18199",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Poetspersoneel"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Poetspersoneel",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben je gemotiveerd om in de schoonmaak te werken? Werk je graag samen met anderen, maar kun je ook zelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem je graag je taken af met collega's? Dan is deze job iets voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
+        "htmlEncoded": "Ben je gemotiveerd om in de schoonmaak te werken? Werk je graag samen met anderen, maar kun je ook zelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem je graag je taken af met collega's? Dan is deze job iets voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18194",
       "internal": false,
       "validThroughDate": "1747094400",
@@ -5679,6 +5754,41 @@
       "description": {
         "raw": "<p>Ben jij gedreven door duurzame landbouw? Ga je graag in gesprek met verschillende partijen om zo de toekomst van de Vlaamse landbouw mee vorm te geven? Werk je graag dossiermatig? Dan ben jij de collega waar wij naar op zoek zijn!<br><br>Als adviseur PAS-begeleiding in de kennisportefeuille zorg je ervoor dat aanvragen van landbouwers en dienstverleners voor advies in het kader van de Programmatorische Aanpak Stikstof (PAS) vlot verlopen. Je bent verantwoordelijke voor een correcte afhandeling en validatie van dossiers. Daarnaast werk je interne procedures uit voor de behandeling van de dossiers, sta je in voor het aanleveren van cijfergegevens over de maatregelen en heb je oog voor optimalisatiemogelijkheden. Je werkt hiervoor nauw samen met de collega’s binnen de dienst, de afdeling en met de IT-diensten. Je onderhoudt ook contacten met collega’s van andere afdelingen binnen de organisatie, met de partners van andere beleidsdomeinen en met de sector om zo de uitvoering van het subsidieproces optimaal af te stemmen op andere maatregelen of beleidsbeslissingen. Vanuit je expertise geef je input voor parlementaire vragen en beleidsvragen.<br><br>Je zal in hoofdzaak instaan voor de opvolging van dossiers m.b.t. PAS binnen de subsidiemaatregel ‘kennisportefeuille’ waarmee landbouwers subsidies kunnen aanvragen voor het volgen van vormingen en het aankopen van bedrijfsspecifieke adviezen. Daarnaast zal je vanuit jouw expertise ook betrokken worden bij de dossierbehandelingen van andere kennismaatregelen binnen de dienst zoals naschoolse landbouwvorming, demonstratieprojecten en Europese Innovatiepartnerschappen (EIP). Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
         "htmlEncoded": "<p>Ben jij gedreven door duurzame landbouw? Ga je graag in gesprek met verschillende partijen om zo de toekomst van de Vlaamse landbouw mee vorm te geven? Werk je graag dossiermatig? Dan ben jij de collega waar wij naar op zoek zijn!<br><br>Als adviseur PAS-begeleiding in de kennisportefeuille zorg je ervoor dat aanvragen van landbouwers en dienstverleners voor advies in het kader van de Programmatorische Aanpak Stikstof (PAS) vlot verlopen. Je bent verantwoordelijke voor een correcte afhandeling en validatie van dossiers. Daarnaast werk je interne procedures uit voor de behandeling van de dossiers, sta je in voor het aanleveren van cijfergegevens over de maatregelen en heb je oog voor optimalisatiemogelijkheden. Je werkt hiervoor nauw samen met de collega’s binnen de dienst, de afdeling en met de IT-diensten. Je onderhoudt ook contacten met collega’s van andere afdelingen binnen de organisatie, met de partners van andere beleidsdomeinen en met de sector om zo de uitvoering van het subsidieproces optimaal af te stemmen op andere maatregelen of beleidsbeslissingen. Vanuit je expertise geef je input voor parlementaire vragen en beleidsvragen.<br><br>Je zal in hoofdzaak instaan voor de opvolging van dossiers m.b.t. PAS binnen de subsidiemaatregel ‘kennisportefeuille’ waarmee landbouwers subsidies kunnen aanvragen voor het volgen van vormingen en het aankopen van bedrijfsspecifieke adviezen. Daarnaast zal je vanuit jouw expertise ook betrokken worden bij de dossierbehandelingen van andere kennismaatregelen binnen de dienst zoals naschoolse landbouwvorming, demonstratieprojecten en Europese Innovatiepartnerschappen (EIP). Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18094",
+      "internal": false,
+      "validThroughDate": "1747872000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18094",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Organisatieondersteuner Hulp-en Dienstverlening Gedetineerden"
+      },
+      "displayTitle": "Organisatieondersteuner Hulp-en Dienstverlening Gedetineerden",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden behoren volgende kerntaken tot jouw takenpakket:</p><ul><li>Je neemt de organisatorische planning van het hulp- en dienstverleningsaanbod in handen.</li><li>Je behartigt de bekendmaking van het hulp- en dienstverleningsaanbod aan gedetineerden en je stimuleert gedetineerden tot deelname aan de activiteiten.</li><li>Je beheert de registratie in het kader van de activiteiten en de participatie daaraan.</li><li>Je ondersteunt de medewerkers bij de dagelijkse uitvoering van hun hulp- en dienstverleningsopdrachten binnen de gevangenis.</li><li>Je organiseert de logistieke ondersteuning van het hulp- en dienstverleningsaanbod.</li><li>Je ontwikkelt procedures en instrumenten met het oog op de continuïteit en verbetering van de organisatie van de hulp- en dienstverlening.</li></ul><p>Je komt terecht in de afdeling Hulp- en Dienstverlening aan Gedetineerden. De afdeling bestaat uit verschillende teams en wordt geleid door het afdelingshoofd, bijgestaan door de regiodirecteurs van het kernteam. De afdeling heeft volgende taken:</p><ul><li>De coördinatie van hulp- en dienstverlening aan gedetineerden op bovenlokaal en lokaal niveau zoals vermeld in het Decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden.</li><li>De subsidiëring van de coördinatie en organisatie van sport en cultuur voor gedetineerden;</li><li>De erkenning en subsidiëring van de commissies voor juridische eerstelijnsbijstand.</li><li>Overleg en samenwerking met de andere gemeenschappen, de federale overheid en de partners inzake de uitvoering van de opdrachten.</li></ul><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden behoren volgende kerntaken tot jouw takenpakket:</p><ul><li>Je neemt de organisatorische planning van het hulp- en dienstverleningsaanbod in handen.</li><li>Je behartigt de bekendmaking van het hulp- en dienstverleningsaanbod aan gedetineerden en je stimuleert gedetineerden tot deelname aan de activiteiten.</li><li>Je beheert de registratie in het kader van de activiteiten en de participatie daaraan.</li><li>Je ondersteunt de medewerkers bij de dagelijkse uitvoering van hun hulp- en dienstverleningsopdrachten binnen de gevangenis.</li><li>Je organiseert de logistieke ondersteuning van het hulp- en dienstverleningsaanbod.</li><li>Je ontwikkelt procedures en instrumenten met het oog op de continuïteit en verbetering van de organisatie van de hulp- en dienstverlening.</li></ul><p>Je komt terecht in de afdeling Hulp- en Dienstverlening aan Gedetineerden. De afdeling bestaat uit verschillende teams en wordt geleid door het afdelingshoofd, bijgestaan door de regiodirecteurs van het kernteam. De afdeling heeft volgende taken:</p><ul><li>De coördinatie van hulp- en dienstverlening aan gedetineerden op bovenlokaal en lokaal niveau zoals vermeld in het Decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden.</li><li>De subsidiëring van de coördinatie en organisatie van sport en cultuur voor gedetineerden;</li><li>De erkenning en subsidiëring van de commissies voor juridische eerstelijnsbijstand.</li><li>Overleg en samenwerking met de andere gemeenschappen, de federale overheid en de partners inzake de uitvoering van de opdrachten.</li></ul><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
       },
       "locations": [
         {
