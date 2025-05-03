@@ -1,10 +1,10 @@
 {
-  "totalItems": 211,
+  "totalItems": 209,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 210,
+  "lastItemOfPage": 208,
   "items": [
     {
       "link": "/Job/vdab-70978297",
@@ -4697,6 +4697,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18300",
+      "internal": false,
+      "validThroughDate": "1747699200",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18300",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Communicatieadviseur"
+      },
+      "displayTitle": "Communicatieadviseur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bouw je mee aan sterke content en zichtbaar beleid? Word onze ervaren, strategische communicatieadviseur contentcreatie!</p> <p>Jij bent eindverantwoordelijk voor de (digitale) contentstrategie, garandeert kwaliteit en merkconsistentie. Je professionaliseert onze content, bouwt mee aan het imago van de Vlaamse overheid (binnen- en buitenland) en bent zowel strategisch als operationeel actief: je coördineert de planning, begeleidt collega’s en creëert zelf inhoud. Als rechterhand van de teamverantwoordelijke draag je bij aan de teamgroei en bewaak je de redactionele en visuele lijn.</p> <p><b>Een greep uit je takenpakket</b>:</p><ul><li><span>Jij ontwikkelt, implementeert en bewaakt de (digitale) contentstrategie in lijn met de communicatiestrategie en het merkbeleid van de Vlaamse overheid, waarbij jij consistentie in formats en boodschappen verzekert.</span></li><li><span>&nbsp;</span>Jij coördineert de dagelijkse contentwerking door de contentplanning te beheren en af te stemmen met interne klanten, accountmanagers en het contentteam.</li><li>Jij coacht en inspireert de collega’s binnen het contentteam, geeft constructieve feedback en ondersteunt hun professionele groei.</li><li>Jij ondersteunt de teamverantwoordelijke bij strategische vraagstukken, werkt mee aan de transitie en professionalisering van het team, en evalueert en optimaliseert de contentwerking op basis van data, resultaten en feedback.</li><li>Jij schrijft en redigeert zelf content voor diverse kanalen (o.a. web, nieuwsbrief, sociale media, pers), waaronder ook communicatie over beslissingen van de Vlaamse Regering, begeleidt externe partners en werkt nauw samen met andere teamleden voor synergie en voortgang.</li></ul> <p>Je komt terecht in het team Communicatie en Marketing. Een gedreven team dat werkt rond accountmanagement, contentmanagement en merkbeleid om beleids- en corporate communicatie te versterken en het merk Vlaanderen uit te bouwen.</p><p>Ben jij de contentexpert die we zoeken? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Bouw je mee aan sterke content en zichtbaar beleid? Word onze ervaren, strategische communicatieadviseur contentcreatie!</p> <p>Jij bent eindverantwoordelijk voor de (digitale) contentstrategie, garandeert kwaliteit en merkconsistentie. Je professionaliseert onze content, bouwt mee aan het imago van de Vlaamse overheid (binnen- en buitenland) en bent zowel strategisch als operationeel actief: je coördineert de planning, begeleidt collega’s en creëert zelf inhoud. Als rechterhand van de teamverantwoordelijke draag je bij aan de teamgroei en bewaak je de redactionele en visuele lijn.</p> <p><b>Een greep uit je takenpakket</b>:</p><ul><li><span>Jij ontwikkelt, implementeert en bewaakt de (digitale) contentstrategie in lijn met de communicatiestrategie en het merkbeleid van de Vlaamse overheid, waarbij jij consistentie in formats en boodschappen verzekert.</span></li><li><span>&nbsp;</span>Jij coördineert de dagelijkse contentwerking door de contentplanning te beheren en af te stemmen met interne klanten, accountmanagers en het contentteam.</li><li>Jij coacht en inspireert de collega’s binnen het contentteam, geeft constructieve feedback en ondersteunt hun professionele groei.</li><li>Jij ondersteunt de teamverantwoordelijke bij strategische vraagstukken, werkt mee aan de transitie en professionalisering van het team, en evalueert en optimaliseert de contentwerking op basis van data, resultaten en feedback.</li><li>Jij schrijft en redigeert zelf content voor diverse kanalen (o.a. web, nieuwsbrief, sociale media, pers), waaronder ook communicatie over beslissingen van de Vlaamse Regering, begeleidt externe partners en werkt nauw samen met andere teamleden voor synergie en voortgang.</li></ul> <p>Je komt terecht in het team Communicatie en Marketing. Een gedreven team dat werkt rond accountmanagement, contentmanagement en merkbeleid om beleids- en corporate communicatie te versterken en het merk Vlaanderen uit te bouwen.</p><p>Ben jij de contentexpert die we zoeken? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18298",
       "internal": true,
       "validThroughDate": "1747612800",
@@ -5307,41 +5342,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18214",
-      "internal": false,
-      "validThroughDate": "1746144000",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18214",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Management assistent"
-      },
-      "displayTitle": "Management assistent",
-      "isProtected": false,
-      "description": {
-        "raw": "<span>Word jij onze onmisbare schakel als Management Assistent? Ben jij een administratieve duizendpoot met een talent voor organisatie en coördinatie? Jij blijft steeds kalm en oplossingsgericht, zelfs in de meest hectische situaties? Hou je van afwisseling en neem je graag verantwoordelijkheid? Dan is deze functie iets voor jou!</span><br><br><span>Als Management Assistent ben jij de ruggengraat van onze afdeling. Je ondersteunt het afdelingshoofd en het team met uiteenlopende administratieve en organisatorische taken. Van agendabeheer en documentverwerking tot het voorbereiden van meetings en rapporten. Jij zorgt ervoor dat alles op rolletjes loopt. Dankzij jouw gestructureerde aanpak en oog voor detail blijft geen dossier liggen en verlopen processen vlot en efficiënt. Verder beantwoord je vragen van binnen de afdeling en zorg je ervoor dat ziekteverlof correct wordt ingepland.</span><br><br><span>Wat mag je verwachten? Een boeiende en gevarieerde job waarin je volop je talenten kan inzetten. Zie jij jezelf al in deze rol? Aarzel niet en solliciteer!</span><br><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span><br>",
-        "htmlEncoded": "<span>Word jij onze onmisbare schakel als Management Assistent? Ben jij een administratieve duizendpoot met een talent voor organisatie en coördinatie? Jij blijft steeds kalm en oplossingsgericht, zelfs in de meest hectische situaties? Hou je van afwisseling en neem je graag verantwoordelijkheid? Dan is deze functie iets voor jou!</span><br><br><span>Als Management Assistent ben jij de ruggengraat van onze afdeling. Je ondersteunt het afdelingshoofd en het team met uiteenlopende administratieve en organisatorische taken. Van agendabeheer en documentverwerking tot het voorbereiden van meetings en rapporten. Jij zorgt ervoor dat alles op rolletjes loopt. Dankzij jouw gestructureerde aanpak en oog voor detail blijft geen dossier liggen en verlopen processen vlot en efficiënt. Verder beantwoord je vragen van binnen de afdeling en zorg je ervoor dat ziekteverlof correct wordt ingepland.</span><br><br><span>Wat mag je verwachten? Een boeiende en gevarieerde job waarin je volop je talenten kan inzetten. Zie jij jezelf al in deze rol? Aarzel niet en solliciteer!</span><br><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18205",
       "internal": false,
       "validThroughDate": "1746316800",
@@ -5442,6 +5442,41 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18198",
+      "internal": false,
+      "validThroughDate": "1747699200",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18198",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Chauffeur wegmetingen"
+      },
+      "displayTitle": "Chauffeur wegmetingen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een ervaren chauffeur\nmet oog voor detail en een uitstekende rijvaardigheid? Heb je een passie voor\ndienstverlening en vind je het leuk om een bijdrage te kunnen leveren aan ons\nwegennet? Kijk je er tot slot ook naar uit om kleine administratieve taken uit\nte voeren? </p><p>Solliciteer dan nu en\nwie weet bouw jij wel mee aan de weg van morgen! Want jouw baan, daar werken we\naan!</p><p>De afdeling Assetinformatie\nen Inspecties Weginfrastructuur van het Agentschap Wegen en Verkeer is een studie- en adviesafdeling die\nondersteuning geeft aan het beleid en aan de uitvoerende territoriale\nafdelingen. De afdeling beschikt over speciale meetvoertuigen voor het in kaart\nte brengen van de toestand van de gewestwegen, het meten van het verkeerslawaai\nen voor de beoordeling van de kwaliteit van uitgevoerde werken. De afdeling\nbeschikt tevens over een laboratorium voor onderzoek op de kwaliteit van\nwegenbouwmaterialen.</p><p>Als chauffeur\nwegmetingen bestuur je een wagen en/of vrachtwagen die speciaal uitgerust is\nvoor het uitvoeren van technische proeven en metingen op de autosnelwegen en\ngewestwegen. Je staat in voor het dagelijks onderhoud van de gebruikte\nvoertuigen, het controleren van essentiële onderdelen en bij defect zelf\nherstellen of laten herstellen. &nbsp;Samen\nmet een collega ga je op pad, gedreven door een sterke teamspirit en de\novertuiging dat je samen meer bereikt dan alleen.</p><p><strong>Zin in deze job? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij een ervaren chauffeur\nmet oog voor detail en een uitstekende rijvaardigheid? Heb je een passie voor\ndienstverlening en vind je het leuk om een bijdrage te kunnen leveren aan ons\nwegennet? Kijk je er tot slot ook naar uit om kleine administratieve taken uit\nte voeren? </p><p>Solliciteer dan nu en\nwie weet bouw jij wel mee aan de weg van morgen! Want jouw baan, daar werken we\naan!</p><p>De afdeling Assetinformatie\nen Inspecties Weginfrastructuur van het Agentschap Wegen en Verkeer is een studie- en adviesafdeling die\nondersteuning geeft aan het beleid en aan de uitvoerende territoriale\nafdelingen. De afdeling beschikt over speciale meetvoertuigen voor het in kaart\nte brengen van de toestand van de gewestwegen, het meten van het verkeerslawaai\nen voor de beoordeling van de kwaliteit van uitgevoerde werken. De afdeling\nbeschikt tevens over een laboratorium voor onderzoek op de kwaliteit van\nwegenbouwmaterialen.</p><p>Als chauffeur\nwegmetingen bestuur je een wagen en/of vrachtwagen die speciaal uitgerust is\nvoor het uitvoeren van technische proeven en metingen op de autosnelwegen en\ngewestwegen. Je staat in voor het dagelijks onderhoud van de gebruikte\nvoertuigen, het controleren van essentiële onderdelen en bij defect zelf\nherstellen of laten herstellen. &nbsp;Samen\nmet een collega ga je op pad, gedreven door een sterke teamspirit en de\novertuiging dat je samen meer bereikt dan alleen.</p><p><strong>Zin in deze job? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Evere"
           }
         }
       ]
@@ -6079,41 +6114,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17887",
-      "internal": false,
-      "validThroughDate": "1746144000",
-      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17887",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker controle strategische goederen"
-      },
-      "displayTitle": "Beleidsmedewerker controle strategische goederen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Verdiep je je graag in complexe en gevoelige dossiers? Wil je een cruciale rol spelen in het beschermen&nbsp;<br>van Vlaamse strategische belangen en bijdragen aan een veiligere wereld? Dan is dit jouw kans!<br>De dienst strategische goederen (dCSG) zoekt versterking voor haar beleidscel om te kunnen inspelen op&nbsp;een stijgend aantal vergunningsaanvragen en beleidsuitdagingen op vlak van strategische goederen. Denk&nbsp;hierbij aan producten met zowel civiel als militair gebruik (dual-use items) of militaire goederen.<br><br>De dienst strategische goederen zet zich elke dag in voor de bescherming van de Vlaamse veiligheids- en&nbsp;economische belangen en werkt op Europese en internationale fora mee aan de versterking van het&nbsp;wereldwijde exportcontrolesysteem. Via exportcontrole waken wij erover dat Vlaamse strategische&nbsp;goederen en kennis niet worden aangewend voor malafide of ongewenste doeleinden en dragen zo bij&nbsp;aan internationale vrede en veiligheid. Van jou verwachten we richting te geven aan het beleid inzake&nbsp;controle op strategische goederen en het in de praktijk uit te voeren.<br><br>Het team bestaat uit een 18-tal collega’s (administratieve ondersteuning, dossierbehandelaars,&nbsp;beleidsmedewerkers/juristen en ingenieurs/technici). Je onderzoekt, communiceert en adviseert&nbsp;grotendeels zelfstandig, maar ook in teamverband zet je je 100% in om onze bedrijven een goede&nbsp;dienstverlening te geven.</p><p>Je takenpakket is divers en uitdagend, en kent 2 grote luiken:</p><p><strong>Dossierbehandeling</strong></p><ul><li>Je analyseert vergunningsdossiers voor strategische goederen en voert risicoanalyses uit op de eindgebruiker en het land van eindgebruik.</li><li>Je adviseert de minister over gevoelige vergunningsaanvragen.</li><li>Je informeert en sensibiliseert bedrijven, de onderzoekswereld en overheden over&nbsp;exportcontrole en zorgt voor een correcte communicatie over naleving van de Vlaamse&nbsp;en Europese regelgeving en overige internationale verplichtingen.</li><li>Je waarborgt de kwaliteit van de dienstverlening door actief je kennis te vergroten, trends&nbsp;en evoluties te volgen en ervaringen uit te wisselen.</li></ul><p><strong>Beleidswerk</strong></p><ul><li>Je werkt mee aan de ontwikkeling van beleidslijnen op het gebied van exportcontrole en&nbsp;economische veiligheid.</li><li>Je fungeert mee als eerste aanspreekpunt voor (inter)nationale partners, bedrijven en&nbsp;douane, je bereidt Vlaamse posities voor en verdedigt Vlaamse standpunten op fora in&nbsp;binnen- en buitenland.</li><li>Je draagt bij aan de bescherming van gevoelige technologie tegen misbruik.</li><li>Je denkt mee over een bredere visie op het economisch veiligheidsinstrumentarium.</li></ul>Klaar om het verschil te maken? Solliciteer nu en word deel van ons team!<br>",
-        "htmlEncoded": "<p>Verdiep je je graag in complexe en gevoelige dossiers? Wil je een cruciale rol spelen in het beschermen&nbsp;<br>van Vlaamse strategische belangen en bijdragen aan een veiligere wereld? Dan is dit jouw kans!<br>De dienst strategische goederen (dCSG) zoekt versterking voor haar beleidscel om te kunnen inspelen op&nbsp;een stijgend aantal vergunningsaanvragen en beleidsuitdagingen op vlak van strategische goederen. Denk&nbsp;hierbij aan producten met zowel civiel als militair gebruik (dual-use items) of militaire goederen.<br><br>De dienst strategische goederen zet zich elke dag in voor de bescherming van de Vlaamse veiligheids- en&nbsp;economische belangen en werkt op Europese en internationale fora mee aan de versterking van het&nbsp;wereldwijde exportcontrolesysteem. Via exportcontrole waken wij erover dat Vlaamse strategische&nbsp;goederen en kennis niet worden aangewend voor malafide of ongewenste doeleinden en dragen zo bij&nbsp;aan internationale vrede en veiligheid. Van jou verwachten we richting te geven aan het beleid inzake&nbsp;controle op strategische goederen en het in de praktijk uit te voeren.<br><br>Het team bestaat uit een 18-tal collega’s (administratieve ondersteuning, dossierbehandelaars,&nbsp;beleidsmedewerkers/juristen en ingenieurs/technici). Je onderzoekt, communiceert en adviseert&nbsp;grotendeels zelfstandig, maar ook in teamverband zet je je 100% in om onze bedrijven een goede&nbsp;dienstverlening te geven.</p><p>Je takenpakket is divers en uitdagend, en kent 2 grote luiken:</p><p><strong>Dossierbehandeling</strong></p><ul><li>Je analyseert vergunningsdossiers voor strategische goederen en voert risicoanalyses uit op de eindgebruiker en het land van eindgebruik.</li><li>Je adviseert de minister over gevoelige vergunningsaanvragen.</li><li>Je informeert en sensibiliseert bedrijven, de onderzoekswereld en overheden over&nbsp;exportcontrole en zorgt voor een correcte communicatie over naleving van de Vlaamse&nbsp;en Europese regelgeving en overige internationale verplichtingen.</li><li>Je waarborgt de kwaliteit van de dienstverlening door actief je kennis te vergroten, trends&nbsp;en evoluties te volgen en ervaringen uit te wisselen.</li></ul><p><strong>Beleidswerk</strong></p><ul><li>Je werkt mee aan de ontwikkeling van beleidslijnen op het gebied van exportcontrole en&nbsp;economische veiligheid.</li><li>Je fungeert mee als eerste aanspreekpunt voor (inter)nationale partners, bedrijven en&nbsp;douane, je bereidt Vlaamse posities voor en verdedigt Vlaamse standpunten op fora in&nbsp;binnen- en buitenland.</li><li>Je draagt bij aan de bescherming van gevoelige technologie tegen misbruik.</li><li>Je denkt mee over een bredere visie op het economisch veiligheidsinstrumentarium.</li></ul>Klaar om het verschil te maken? Solliciteer nu en word deel van ons team!<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17884",
       "internal": false,
       "validThroughDate": "1746748800",
@@ -6461,38 +6461,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-17832",
-      "internal": true,
-      "validThroughDate": "1746144000",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17832",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker energie- en klimaatrapportering"
-      },
-      "displayTitle": "Beleidsmedewerker energie- en klimaatrapportering",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Werk je al binnen het Vlaams Energie- en Klimaatagentschap en heb je een eerste ervaring met internationale en Europese rapporteringsverplichtingen met betrekking tot het Nationaal Energie- en Klimaatplan? </span><span>Dan is deze functie de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als beleidsmedewerker energie- en klimaatrapportering sta je in voor de opvolging van de rapporteringsverplichtingen die het Vlaams Gewest en België hebben ten opzichte van de Europese Unie en internationale organisaties (UNFCCC, OESO, IMF). Je verzamelt gegevens bij verschillende instanties, stemt alles op elkaar af en coördineert het rapportageproces. Daarbij maak je gebruik van specifieke rapporteringstools. Verder onderhoud je contacten met de Europese Commissie en zorg je voor toelichtingen aan het kabinet bij vragen.</span></p> <p><span>Naast deze kerntaak volg je ook het bredere Europese energie- en klimaatbeleid op. Je monitort beleidsontwikkelingen, brengt relevante informatie samen en vertaalt deze naar concrete beleidsvoorstellen.</span></p> <p><span>Binnen het team speel je een verbindende rol. Zo help je bijvoorbeeld bij de onboarding van nieuwe collega’s en neem je teamoverschrijdende initiatieven in het kader van welzijn en professionele ontwikkeling.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Werk je al binnen het Vlaams Energie- en Klimaatagentschap en heb je een eerste ervaring met internationale en Europese rapporteringsverplichtingen met betrekking tot het Nationaal Energie- en Klimaatplan? </span><span>Dan is deze functie de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als beleidsmedewerker energie- en klimaatrapportering sta je in voor de opvolging van de rapporteringsverplichtingen die het Vlaams Gewest en België hebben ten opzichte van de Europese Unie en internationale organisaties (UNFCCC, OESO, IMF). Je verzamelt gegevens bij verschillende instanties, stemt alles op elkaar af en coördineert het rapportageproces. Daarbij maak je gebruik van specifieke rapporteringstools. Verder onderhoud je contacten met de Europese Commissie en zorg je voor toelichtingen aan het kabinet bij vragen.</span></p> <p><span>Naast deze kerntaak volg je ook het bredere Europese energie- en klimaatbeleid op. Je monitort beleidsontwikkelingen, brengt relevante informatie samen en vertaalt deze naar concrete beleidsvoorstellen.</span></p> <p><span>Binnen het team speel je een verbindende rol. Zo help je bijvoorbeeld bij de onboarding van nieuwe collega’s en neem je teamoverschrijdende initiatieven in het kader van welzijn en professionele ontwikkeling.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17826",
       "internal": false,
       "validThroughDate": "1747440000",
@@ -6663,41 +6631,6 @@
         {
           "address": {
             "city": "Genk"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17771",
-      "internal": false,
-      "validThroughDate": "1746144000",
-      "hiringOrganization": "Wonen in Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17771",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data- en informatiebeheerder Sociale Woonprojecten"
-      },
-      "displayTitle": "Data- en informatiebeheerder Sociale Woonprojecten",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als data- en informatiebeheerder Sociale Woonprojecten kom je terecht in de <strong>afdeling Sociale Woonprojecten</strong>, <strong>dienst Ondersteuning Woonprojecten</strong>. De belangrijkste prioriteit van de afdeling Sociale Woonprojecten is de sociale huurmarkt vergroten en verduurzamen. De afdeling ondersteunt daartoe woonactoren en lokale besturen bij hun nieuwbouw- en renovatieprojecten en staat zelf in voor de infrastructuurwerken. Jouw dienst bundelt overkoepelende expertises, zowel op het vlak van kennisdisciplines (architectuur, infrastructuur, energie &amp; bouwtechniek…), als op het vlak van gespecialiseerde producten (Constructieve Benadering Overheidsopdrachten (CBO), D&amp;B, D&amp;I…) en interne processen (programmatie…).</p><p>Wonen in Vlaanderen zet sterk in op de <strong>digitalisering van informatiestromen en –processen</strong>. Als data- en informatiebeheerder Sociale Woonprojecten ben je verantwoordelijk, in overleg en in samenwerking met de andere diensten van de afdeling, voor de <strong>coördinatie van het informatie- en databeheer</strong> binnen de afdeling. Je ondersteunt de afdeling Sociale Woonprojecten bij het <strong>verzamelen en ontsluiten van gegevens</strong> en bij het <strong>bewaren en terugvinden van informatie</strong>, zowel op papier als digitaal.</p><p>We ondersteunen je om te kunnen groeien in deze functie. Je doorloopt een opleidingstraject onder begeleiding van collega’s van je eigen afdeling en van de afdeling Organisatieondersteuning. </p><p>Ben je iemand die graag en goed samenwerkt met uiteenlopende collega’s? Heb je al enige ervaring met of interesse in informatie- en of databeheer, vooral op het vlak van SharePoint, Teams, outlook…? Ben je geboeid door het thema wonen? Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’! Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als data- en informatiebeheerder Sociale Woonprojecten kom je terecht in de <strong>afdeling Sociale Woonprojecten</strong>, <strong>dienst Ondersteuning Woonprojecten</strong>. De belangrijkste prioriteit van de afdeling Sociale Woonprojecten is de sociale huurmarkt vergroten en verduurzamen. De afdeling ondersteunt daartoe woonactoren en lokale besturen bij hun nieuwbouw- en renovatieprojecten en staat zelf in voor de infrastructuurwerken. Jouw dienst bundelt overkoepelende expertises, zowel op het vlak van kennisdisciplines (architectuur, infrastructuur, energie &amp; bouwtechniek…), als op het vlak van gespecialiseerde producten (Constructieve Benadering Overheidsopdrachten (CBO), D&amp;B, D&amp;I…) en interne processen (programmatie…).</p><p>Wonen in Vlaanderen zet sterk in op de <strong>digitalisering van informatiestromen en –processen</strong>. Als data- en informatiebeheerder Sociale Woonprojecten ben je verantwoordelijk, in overleg en in samenwerking met de andere diensten van de afdeling, voor de <strong>coördinatie van het informatie- en databeheer</strong> binnen de afdeling. Je ondersteunt de afdeling Sociale Woonprojecten bij het <strong>verzamelen en ontsluiten van gegevens</strong> en bij het <strong>bewaren en terugvinden van informatie</strong>, zowel op papier als digitaal.</p><p>We ondersteunen je om te kunnen groeien in deze functie. Je doorloopt een opleidingstraject onder begeleiding van collega’s van je eigen afdeling en van de afdeling Organisatieondersteuning. </p><p>Ben je iemand die graag en goed samenwerkt met uiteenlopende collega’s? Heb je al enige ervaring met of interesse in informatie- en of databeheer, vooral op het vlak van SharePoint, Teams, outlook…? Ben je geboeid door het thema wonen? Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’! Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
