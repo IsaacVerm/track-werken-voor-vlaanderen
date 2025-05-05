@@ -1,11 +1,46 @@
 {
-  "totalItems": 199,
+  "totalItems": 201,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 198,
+  "lastItemOfPage": 200,
   "items": [
+    {
+      "link": "/Job/vdab-70995823",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70995823",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "verpleegkundigen"
+      },
+      "displayTitle": "verpleegkundigen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>e bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul>",
+        "htmlEncoded": "<p>e bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-70978297",
       "internal": false,
@@ -1507,41 +1542,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70720934",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70720934",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "verpleegkundigen"
-      },
-      "displayTitle": "verpleegkundigen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Onze verpleegkundige troef</p> \n<p> </p> \n<p>Je bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul> \n<p> </p>",
-        "htmlEncoded": "<p>Onze verpleegkundige troef</p> \n<p> </p> \n<p>Je bent bachelor in de verpleegkunde (A1), gegradueerd verpleegkundige (A2) of laatstejaarsstudent verpleegkunde. Werkervaring is een meerwaarde, maar geen vereiste. Volgende kwaliteiten maken van jou onze \n<strong>verpleegkundige troef</strong>:</p> \n<ul> \n<li>Je bent een actieve luisteraar met een groot empathisch vermogen.</li> \n<li>Je kunt gericht observeren en klinisch redeneren.</li> \n<li>Verantwoordelijkheidszin, positiviteit en proactief handelen typeren jou helemaal.</li> \n<li>Je kunt zelfstandig werken.</li> \n<li>Naast leergierig en innovatief ben je een teamplayer voor collega’s, patiënt en context.</li> \n<li>Je hebt een herstelgerichte mindset.</li> </ul> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -3297,41 +3297,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69383256",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69383256",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Full-stack java ontwikkelaar (Agentschap Wegen en Verkeer) via Vlaanderen Connect"
-      },
-      "displayTitle": "Full-stack java ontwikkelaar (Agentschap Wegen en Verkeer) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p> </p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website http://www.wegenenverkeer.be/ \n<span>.</span></p> \n<p> </p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern).</p> \n<p> </p> \n<p>Wat ons uniek maakt is dat onze IT applicaties eerder praktijkgericht en herkenbaar zijn langs onze wegen. Je kan met andere woorden rechtstreeks zien waar je aan meegewerkt hebt.</p> \n<p> </p> \n<p>Om onze werking te versterken zijn we op zoek naar een full-stack Java/Angular ontwikkelaar, welke binnen de pijler Digitalisering van de afdeling ICT en Innovatie zal ingezet worden.</p> \n<p> </p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 6 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen. Naast de ontwikkel teams zorgen het UX, Datawarehouse en Devops team voor de nodige ondersteuning.</p>",
-        "htmlEncoded": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p> </p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website http://www.wegenenverkeer.be/ \n<span>.</span></p> \n<p> </p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern).</p> \n<p> </p> \n<p>Wat ons uniek maakt is dat onze IT applicaties eerder praktijkgericht en herkenbaar zijn langs onze wegen. Je kan met andere woorden rechtstreeks zien waar je aan meegewerkt hebt.</p> \n<p> </p> \n<p>Om onze werking te versterken zijn we op zoek naar een full-stack Java/Angular ontwikkelaar, welke binnen de pijler Digitalisering van de afdeling ICT en Innovatie zal ingezet worden.</p> \n<p> </p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 6 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen. Naast de ontwikkel teams zorgen het UX, Datawarehouse en Devops team voor de nodige ondersteuning.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69310079",
       "internal": false,
       "validThroughDate": "-1",
@@ -4137,6 +4102,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18437",
+      "internal": true,
+      "validThroughDate": "1748822400",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18437",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "2 Experten Kennisbeheer XDDV"
+      },
+      "displayTitle": "2 Experten Kennisbeheer XDDV",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als expert kennisbeheer binnen de afdeling Digitale\nDienstverlening draag je bij aan het onderhouden en uitbouwen van de\nkennissystemen voor zowel interne collega’s als externen. Je werkt in het team XDDV nauw samen met zowel de experten\nDDV als de experten kennisbeheer.</p><p><strong><span>Taken kennisbeheer</span></strong></p><ul><li>Je ondersteunt XDDV bij het onderhoud van het\nkennissysteem Servicelijn en nieuwsbrieven;</li><li>Je maakt onderdeel uit van de leespool: je kijkt de\nFAQ’s na en ziet mee toe op de huisstijl;</li><li>Je beheert en onderhoudt de standaardmails voor\nServicelijn;</li><li>Je staat mee in voor de signalisatie van de\n(inhoudelijke) updates op onze externe website en werkt samen met het\ncopywriting team om de aanpassingen door te voeren.</li></ul><p><strong><span>Taken samenwerking XDDV</span></strong></p><ul><li>Je ondersteunt XDDV bij grote, overkoepelende\nVDAB-projecten en implementaties;</li><li>Je neemt kleinere (interne) projecten voor je rekening;</li><li>Je draait mee in de pool van Business Analyse bij\ntechnische problemen Servicelijn.</li></ul><p><strong><span>Taken BO / Expertisecentrum (EC)</span></strong></p><ul><li>Je staat in voor teamondersteuning en optimalisatie\nbinnen backoffices DDV zoals rapportering en analyse, AI-exploratie….;</li><li>Je ondersteunt de uitbouw van het Expertisecentrum;</li><li>Je werkt samen met andere collega’s binnen de afdeling\nDDV en doet actief aan kennis- en informatiedeling</li></ul><p>Meer informatie vind je in het selectiereglement in de bijlage.</p>",
+        "htmlEncoded": "<p>Als expert kennisbeheer binnen de afdeling Digitale\nDienstverlening draag je bij aan het onderhouden en uitbouwen van de\nkennissystemen voor zowel interne collega’s als externen. Je werkt in het team XDDV nauw samen met zowel de experten\nDDV als de experten kennisbeheer.</p><p><strong><span>Taken kennisbeheer</span></strong></p><ul><li>Je ondersteunt XDDV bij het onderhoud van het\nkennissysteem Servicelijn en nieuwsbrieven;</li><li>Je maakt onderdeel uit van de leespool: je kijkt de\nFAQ’s na en ziet mee toe op de huisstijl;</li><li>Je beheert en onderhoudt de standaardmails voor\nServicelijn;</li><li>Je staat mee in voor de signalisatie van de\n(inhoudelijke) updates op onze externe website en werkt samen met het\ncopywriting team om de aanpassingen door te voeren.</li></ul><p><strong><span>Taken samenwerking XDDV</span></strong></p><ul><li>Je ondersteunt XDDV bij grote, overkoepelende\nVDAB-projecten en implementaties;</li><li>Je neemt kleinere (interne) projecten voor je rekening;</li><li>Je draait mee in de pool van Business Analyse bij\ntechnische problemen Servicelijn.</li></ul><p><strong><span>Taken BO / Expertisecentrum (EC)</span></strong></p><ul><li>Je staat in voor teamondersteuning en optimalisatie\nbinnen backoffices DDV zoals rapportering en analyse, AI-exploratie….;</li><li>Je ondersteunt de uitbouw van het Expertisecentrum;</li><li>Je werkt samen met andere collega’s binnen de afdeling\nDDV en doet actief aan kennis- en informatiedeling</li></ul><p>Meer informatie vind je in het selectiereglement in de bijlage.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18432",
       "internal": false,
       "validThroughDate": "1746489600",
@@ -4662,6 +4662,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18281",
+      "internal": false,
+      "validThroughDate": "1748304000",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18281",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider Afstandsbewaking"
+      },
+      "displayTitle": "Projectleider Afstandsbewaking",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een gedreven\nprojectleider die complexe bewakingsinfrastructuur kan integreren met\ninnovatieve IT-systemen? Wil je met jouw expertise bijdragen aan veilige en\nvlotte verkeersstromen op onze wegen? Solliciteer dan nu en wie weet bouw\njij wel mee aan de weg van morgen! Want jouw baan, daar werken we aan! <br><br>Als Projectingenieur\nAfstandsbewaking ben jij de drijvende kracht achter onze ITS-projecten.&nbsp; Je leidt de projecten in het kader van\nintelligente transport systemen (ITS) en zorgt ervoor dat de talrijke\ntechnische weginstallaties geïntegreerd raken met de centrale IT-systemen in de\ncontrolezalen van het Verkeerscentrum. Je zet de behoeften van zowel de\ntechnische operatoren als de verkeersleiders om in functionele vereisten en\nzorgt ervoor dat de afstandsbewaking-systemen optimaal worden ingezet. <br><br>Hoe bouw jij mee aan de\nweg van morgen? Een greep uit je gevarieerde takenpakket: <br><br>Assetbeheer: je beheert de volledige levenscyclus van onze ITS applicaties en infrastructuur. Je zorgt voor een optimale configuratie van alle technische parameters. Je coördineert de aanpak van storingen en implementatie van optimalisatie ingrepen. Je beheert softwarelicenties en verzekert een efficiënt gebruik ervan. Je volgt de levenscyclus van onze systemen en zorgt voor tijdige vervanging of upgrades.</p><p>Projectcoördinatie: in nauwe samenwerking met de aannemers en je collega projectingenieurs ben je verantwoordelijk voor het plaatsen of aanpassen van de buiteninstallaties, voer je de technische projecten uit. Je stuurt de aannemers aan en volgt hun prestaties nauwgezet op tijdens alle fasen van het project. Van het uitwerken van de functionele eisen, over het opmaken van testschema’s en de coördinatie van de testen tot de eigenlijke indienstname van het afgewerkte IT-product. Je betrekt hierbij steeds de werfcontroleurs, zij staan in voor het beheer van de lokale installaties en zijn jouw ogen en oren op het terrein.</p><p>Expertise en advies: je bent het aanspreekpunt voor zowel interne collega’s als externe partners, zoals aannemers of leveranciers van technische weginstallaties en automatiseringsoplossingen. Je bent op de hoogte van nieuwe evoluties binnen afstandsbewakings- en bedieningssystemen en verdiept je in een aantal specifieke expertisedomeinen (vb. wegverlichting, pompinstallaties, tunnelafsluitsystemen,…).</p><p>Strategie en visie: je werkt een duidelijke visie uit voor de evolutie van onze afstandsbewakingssystemen, waarbij je rekening houdt met de nieuwste technologieën en de veranderende behoeften van onze gebruikers. Je waakt erover dat deze visie vertaald en bewaakt wordt binnen de dagdagelijkse werking en toekomstige projecten. </p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een gedreven\nprojectleider die complexe bewakingsinfrastructuur kan integreren met\ninnovatieve IT-systemen? Wil je met jouw expertise bijdragen aan veilige en\nvlotte verkeersstromen op onze wegen? Solliciteer dan nu en wie weet bouw\njij wel mee aan de weg van morgen! Want jouw baan, daar werken we aan! <br><br>Als Projectingenieur\nAfstandsbewaking ben jij de drijvende kracht achter onze ITS-projecten.&nbsp; Je leidt de projecten in het kader van\nintelligente transport systemen (ITS) en zorgt ervoor dat de talrijke\ntechnische weginstallaties geïntegreerd raken met de centrale IT-systemen in de\ncontrolezalen van het Verkeerscentrum. Je zet de behoeften van zowel de\ntechnische operatoren als de verkeersleiders om in functionele vereisten en\nzorgt ervoor dat de afstandsbewaking-systemen optimaal worden ingezet. <br><br>Hoe bouw jij mee aan de\nweg van morgen? Een greep uit je gevarieerde takenpakket: <br><br>Assetbeheer: je beheert de volledige levenscyclus van onze ITS applicaties en infrastructuur. Je zorgt voor een optimale configuratie van alle technische parameters. Je coördineert de aanpak van storingen en implementatie van optimalisatie ingrepen. Je beheert softwarelicenties en verzekert een efficiënt gebruik ervan. Je volgt de levenscyclus van onze systemen en zorgt voor tijdige vervanging of upgrades.</p><p>Projectcoördinatie: in nauwe samenwerking met de aannemers en je collega projectingenieurs ben je verantwoordelijk voor het plaatsen of aanpassen van de buiteninstallaties, voer je de technische projecten uit. Je stuurt de aannemers aan en volgt hun prestaties nauwgezet op tijdens alle fasen van het project. Van het uitwerken van de functionele eisen, over het opmaken van testschema’s en de coördinatie van de testen tot de eigenlijke indienstname van het afgewerkte IT-product. Je betrekt hierbij steeds de werfcontroleurs, zij staan in voor het beheer van de lokale installaties en zijn jouw ogen en oren op het terrein.</p><p>Expertise en advies: je bent het aanspreekpunt voor zowel interne collega’s als externe partners, zoals aannemers of leveranciers van technische weginstallaties en automatiseringsoplossingen. Je bent op de hoogte van nieuwe evoluties binnen afstandsbewakings- en bedieningssystemen en verdiept je in een aantal specifieke expertisedomeinen (vb. wegverlichting, pompinstallaties, tunnelafsluitsystemen,…).</p><p>Strategie en visie: je werkt een duidelijke visie uit voor de evolutie van onze afstandsbewakingssystemen, waarbij je rekening houdt met de nieuwste technologieën en de veranderende behoeften van onze gebruikers. Je waakt erover dat deze visie vertaald en bewaakt wordt binnen de dagdagelijkse werking en toekomstige projecten. </p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18279",
       "internal": false,
       "validThroughDate": "1746921600",
@@ -4700,7 +4735,7 @@
       "link": "/Job/cornerstone-18256",
       "internal": false,
       "validThroughDate": "1747785600",
-      "hiringOrganization": "Algemene Diensten Regio Oost",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
@@ -4732,6 +4767,41 @@
         {
           "address": {
             "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18255",
+      "internal": false,
+      "validThroughDate": "1748476800",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18255",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker mobiele eenheid VCET"
+      },
+      "displayTitle": "Medewerker mobiele eenheid VCET",
+      "isProtected": false,
+      "description": {
+        "raw": "Heb jij voeling met het justitielandschap en werk je graag mee aan een rechtvaardig Vlaanderen? Haal jij energie uit het ontmoeten van nieuwe mensen op nieuwe plaatsen? Ben jij iemand die graag met de auto rijdt? Heb jij technische feeling en ga je geen enkele praktische uitdaging uit de weg? Dan is deze functie als medewerker mobiele eenheid echt iets voor jou!<br><br>Als medewerker mobiele eenheid kom je terecht in het team Interventie en draag je bij aan de uitvoering van het elektronisch toezicht. Concreet sta je in voor de plaatsing en verwijdering van elektronisch toezichtmateriaal bij de enkelbanddrager thuis of in de gevangenis. Ook bij technische interventies wordt er op jou beroep gedaan. Jouw klantgerichte ingesteldheid, vlotte babbel en verantwoordelijkheidsgevoel maken van jou de medewerker die wij zoeken. Daarnaast sta je in voor de administratie gelinkt aan de technische interventies.<br><br>Je voert deze functie zelfstandig uit. De afdeling Vlaams Centrum Elektronisch Toezicht (VCET) staat garant voor een kwaliteitsvolle werkomgeving met respect voor de collega’s, de enkelbanddragers en onze partners. Voel jij je uitgedaagd door deze functie? Stel je dan zeker kandidaat en misschien word jij onze nieuwe collega.<br><br>Nog meer weten over de functie en het takenpakket? Bekijk zeker het filmpje dat je kan terug vinden in het selectiereglement Lees hier ook meer over de job en het selectieproces. Je vindt het selectiereglement als bijlage bij ‘meer informatie’ Download dit document en hou het bij.&nbsp;",
+        "htmlEncoded": "Heb jij voeling met het justitielandschap en werk je graag mee aan een rechtvaardig Vlaanderen? Haal jij energie uit het ontmoeten van nieuwe mensen op nieuwe plaatsen? Ben jij iemand die graag met de auto rijdt? Heb jij technische feeling en ga je geen enkele praktische uitdaging uit de weg? Dan is deze functie als medewerker mobiele eenheid echt iets voor jou!<br><br>Als medewerker mobiele eenheid kom je terecht in het team Interventie en draag je bij aan de uitvoering van het elektronisch toezicht. Concreet sta je in voor de plaatsing en verwijdering van elektronisch toezichtmateriaal bij de enkelbanddrager thuis of in de gevangenis. Ook bij technische interventies wordt er op jou beroep gedaan. Jouw klantgerichte ingesteldheid, vlotte babbel en verantwoordelijkheidsgevoel maken van jou de medewerker die wij zoeken. Daarnaast sta je in voor de administratie gelinkt aan de technische interventies.<br><br>Je voert deze functie zelfstandig uit. De afdeling Vlaams Centrum Elektronisch Toezicht (VCET) staat garant voor een kwaliteitsvolle werkomgeving met respect voor de collega’s, de enkelbanddragers en onze partners. Voel jij je uitgedaagd door deze functie? Stel je dan zeker kandidaat en misschien word jij onze nieuwe collega.<br><br>Nog meer weten over de functie en het takenpakket? Bekijk zeker het filmpje dat je kan terug vinden in het selectiereglement Lees hier ook meer over de job en het selectieproces. Je vindt het selectiereglement als bijlage bij ‘meer informatie’ Download dit document en hou het bij.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -5580,8 +5650,8 @@
       "displayTitle": "Organisatieondersteuner Hulp-en Dienstverlening Gedetineerden",
       "isProtected": false,
       "description": {
-        "raw": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden behoren volgende kerntaken tot jouw takenpakket:</p><ul><li>Je neemt de organisatorische planning van het hulp- en dienstverleningsaanbod in handen.</li><li>Je behartigt de bekendmaking van het hulp- en dienstverleningsaanbod aan gedetineerden en je stimuleert gedetineerden tot deelname aan de activiteiten.</li><li>Je beheert de registratie in het kader van de activiteiten en de participatie daaraan.</li><li>Je ondersteunt de medewerkers bij de dagelijkse uitvoering van hun hulp- en dienstverleningsopdrachten binnen de gevangenis.</li><li>Je organiseert de logistieke ondersteuning van het hulp- en dienstverleningsaanbod.</li><li>Je ontwikkelt procedures en instrumenten met het oog op de continuïteit en verbetering van de organisatie van de hulp- en dienstverlening.</li></ul><p>Je komt terecht in de afdeling Hulp- en Dienstverlening aan Gedetineerden. De afdeling bestaat uit verschillende teams en wordt geleid door het afdelingshoofd, bijgestaan door de regiodirecteurs van het kernteam. De afdeling heeft volgende taken:</p><ul><li>De coördinatie van hulp- en dienstverlening aan gedetineerden op bovenlokaal en lokaal niveau zoals vermeld in het Decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden.</li><li>De subsidiëring van de coördinatie en organisatie van sport en cultuur voor gedetineerden;</li><li>De erkenning en subsidiëring van de commissies voor juridische eerstelijnsbijstand.</li><li>Overleg en samenwerking met de andere gemeenschappen, de federale overheid en de partners inzake de uitvoering van de opdrachten.</li></ul><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
-        "htmlEncoded": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden behoren volgende kerntaken tot jouw takenpakket:</p><ul><li>Je neemt de organisatorische planning van het hulp- en dienstverleningsaanbod in handen.</li><li>Je behartigt de bekendmaking van het hulp- en dienstverleningsaanbod aan gedetineerden en je stimuleert gedetineerden tot deelname aan de activiteiten.</li><li>Je beheert de registratie in het kader van de activiteiten en de participatie daaraan.</li><li>Je ondersteunt de medewerkers bij de dagelijkse uitvoering van hun hulp- en dienstverleningsopdrachten binnen de gevangenis.</li><li>Je organiseert de logistieke ondersteuning van het hulp- en dienstverleningsaanbod.</li><li>Je ontwikkelt procedures en instrumenten met het oog op de continuïteit en verbetering van de organisatie van de hulp- en dienstverlening.</li></ul><p>Je komt terecht in de afdeling Hulp- en Dienstverlening aan Gedetineerden. De afdeling bestaat uit verschillende teams en wordt geleid door het afdelingshoofd, bijgestaan door de regiodirecteurs van het kernteam. De afdeling heeft volgende taken:</p><ul><li>De coördinatie van hulp- en dienstverlening aan gedetineerden op bovenlokaal en lokaal niveau zoals vermeld in het Decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden.</li><li>De subsidiëring van de coördinatie en organisatie van sport en cultuur voor gedetineerden;</li><li>De erkenning en subsidiëring van de commissies voor juridische eerstelijnsbijstand.</li><li>Overleg en samenwerking met de andere gemeenschappen, de federale overheid en de partners inzake de uitvoering van de opdrachten.</li></ul><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+        "raw": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben je een geboren ondersteuner en wil jij je organisatorisch talent inzetten voor een maatschappelijk relevante organisatie? Heb je interesse in de context van de gevangenis en de hulp- en dienstverlening aan gedetineerden? Ben jij een verbinder en wil je bijdragen aan de opdrachten van het Agentschap Justitie en Handhaving, dan zijn wij op zoek naar jou!</p><p>Als organisatieondersteuner maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden en ben je verantwoordelijk voor de praktische organisatie van de hulp- en dienstverlening in jouw gevangenis. Je ondersteunt verschillende domeinen waaronder welzijn, sport, tewerkstelling, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hierbij nauw samen met jouw leidinggevende, de beleidscoördinator, de verschillende hulp- en dienstverlenende organisatie in het coördinatieteam en het gevangenispersoneel. Je bent de spilfiguur van de organisatie van het Vlaams aanbod in je gevangenis. Je houdt nauwe voeling met de werkvloer en met wat er leeft bij de gedetineerden en het personeel. Je bent een bruggenbouwer die graag dienstoverschrijdend werkt Je rapporteert aan de beleidscoördinator.</p><p>We zoeken een organisatieondersteuner die het bestaande team van organisatieondersteuners in Brussel komt versterken en bereid is te werken in de drie Brusselse inrichtingen (Haren, Sint-Gillis en Vorst) en daar ook tewerkgesteld zal worden. Op basis van interesse en noden wordt de verdeling van wie voor welke inrichting verantwoordelijk is gaandeweg en na aanstelling nog bepaald.</p><ul><li>De gevangenis van Haren is een nieuwe gevangenis in het Brussels Hoofdstedelijk Gewest met een voorziene capaciteit van 1190 gedetineerden. De gevangenis is open sinds 2022 en er verblijven zowel beklaagden, veroordeelden als geïnterneerden. De hulp- en dienstverlening wordt er in samenwerking met de structurele samenwerkingspartners van de Brusselse gevangenissen voorbereid en uitgebouwd.</li><li>De gevangenis van Sint-Gillis is een gevangenis in het Brussels Hoofdstedelijk Gewest met een gemiddelde capaciteit van 500 gedetineerden. Er verblijven hoofdzakelijk beklaagden De hulp- en dienstverlening bestaat er uit een uitgebouwd netwerk aan structurele samenwerkingspartners.</li><li>Het detentiehuis in Vorst is het tweede detentiehuis van het land. Het biedt plaats aan 57 kortgestraften, hoofdzakelijk uit de Brusselse regio. Het detentiehuis bevindt zich op de site van de oude gevangenis van Vorst in de gebouwen van de voormalige vrouwenafdeling.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
       },
       "locations": [
         {
@@ -5597,7 +5667,7 @@
       "validThroughDate": "1747094400",
       "hiringOrganization": "Wonen in Vlaanderen",
       "reservedForDisability": false,
-      "openPositions": 2,
+      "openPositions": 1,
       "degreeLevel": {
         "code": "A",
         "name": "Masterdiploma"
@@ -5615,8 +5685,8 @@
       "displayTitle": "Wooninspecteur",
       "isProtected": false,
       "description": {
-        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als wooninspecteur kom je terecht in de <b>dienst Handhaving</b> van de <b>afdeling Premies &amp; Woningkwaliteit</b>. Je zal deel uitmaken van het <b>team Vlaamse Wooninspectie Vlabralim (Vlaams-Brabant en Limburg)</b>, met standplaats Leuven of Hasselt</p> <p>De Vlaamse Wooninspectie treedt strafrechtelijk op tegen krotverhuur en tracht daarbij eveneens het herstel van de woningkwaliteit na te streven. Onze wooninspecteurs voeren inspecties van woningen uit op locatie. Je gaat ter plaatse om controles uit te voeren en overtredingen op te sporen en/of vast te stellen. Je waakt er op die manier mee over dat de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) nageleefd wordt. Je verhoort betrokkenen, stelt een proces-verbaal en herstelvordering op en zorgt voor de volledige en correcte afhandeling van het dossier. Je volgt dit dossier op totdat er volledig herstel is vastgesteld. Daarnaast neem je ook deel aan overlegmomenten met diverse stakeholders. Je werkt op het terrein samen met verschillende partners en je neemt initiatief om een netwerk uit te bouwen.</p> <p>De inspecties voer je samen met een woningcontroleur uit. De woningcontroleur voert het technisch conformiteitsonderzoek uit, terwijl de wooninspecteur de andere noodzakelijke taken op zich neemt. <span>&nbsp;</span>De acties kunnen in sommige gevallen voor of na de standaardwerkuren doorgaan. De juridische opvolging van de dossiers gebeurt door de collega’s in Brussel.</p> <p>Dit zijn voorbeelden van mogelijke taken:</p><ul><li><span>Plannen en voorbereiden van inspecties van woningen</span></li><li><span>&nbsp;</span>Opsporen van overtredingen en ter plaatse controleren of de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) wordt nageleefd</li><li>Verhoren van betrokkenen</li><li>Opstellen van processen-verbaal en herstelvorderingen; inleiden van herstelvorderingen langs strafrechtelijke of burgerrechtelijke weg; informeren van overtreders en belanghebbenden over gedane vaststellingen en genomen maatregelen en de uitvoering van de herstelmaatregelen opvolgen</li><li>Deelnemen aan en organiseren van overlegmomenten met politiediensten, inspectiediensten, parketten, lokale besturen met het oog op informatie-uitwisseling, afstemming van activiteiten, prioriteiten in vervolging, het maken van werkafspraken, enz.&nbsp;</li></ul><p>Vind jij kwaliteitsvol wonen belangrijk? Wil je er mee op toezien dat de regelgeving correct wordt nageleefd? Zie je het niet zitten om altijd op kantoor te werken, maar ga je ook graag het terrein op? Lees hieronder dan zeker meer over het gezochte profiel en de selectieprocedure!</p><p>Leer hier Wonen in Vlaanderen beter kennen!</p>",
-        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als wooninspecteur kom je terecht in de <b>dienst Handhaving</b> van de <b>afdeling Premies &amp; Woningkwaliteit</b>. Je zal deel uitmaken van het <b>team Vlaamse Wooninspectie Vlabralim (Vlaams-Brabant en Limburg)</b>, met standplaats Leuven of Hasselt</p> <p>De Vlaamse Wooninspectie treedt strafrechtelijk op tegen krotverhuur en tracht daarbij eveneens het herstel van de woningkwaliteit na te streven. Onze wooninspecteurs voeren inspecties van woningen uit op locatie. Je gaat ter plaatse om controles uit te voeren en overtredingen op te sporen en/of vast te stellen. Je waakt er op die manier mee over dat de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) nageleefd wordt. Je verhoort betrokkenen, stelt een proces-verbaal en herstelvordering op en zorgt voor de volledige en correcte afhandeling van het dossier. Je volgt dit dossier op totdat er volledig herstel is vastgesteld. Daarnaast neem je ook deel aan overlegmomenten met diverse stakeholders. Je werkt op het terrein samen met verschillende partners en je neemt initiatief om een netwerk uit te bouwen.</p> <p>De inspecties voer je samen met een woningcontroleur uit. De woningcontroleur voert het technisch conformiteitsonderzoek uit, terwijl de wooninspecteur de andere noodzakelijke taken op zich neemt. <span>&nbsp;</span>De acties kunnen in sommige gevallen voor of na de standaardwerkuren doorgaan. De juridische opvolging van de dossiers gebeurt door de collega’s in Brussel.</p> <p>Dit zijn voorbeelden van mogelijke taken:</p><ul><li><span>Plannen en voorbereiden van inspecties van woningen</span></li><li><span>&nbsp;</span>Opsporen van overtredingen en ter plaatse controleren of de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) wordt nageleefd</li><li>Verhoren van betrokkenen</li><li>Opstellen van processen-verbaal en herstelvorderingen; inleiden van herstelvorderingen langs strafrechtelijke of burgerrechtelijke weg; informeren van overtreders en belanghebbenden over gedane vaststellingen en genomen maatregelen en de uitvoering van de herstelmaatregelen opvolgen</li><li>Deelnemen aan en organiseren van overlegmomenten met politiediensten, inspectiediensten, parketten, lokale besturen met het oog op informatie-uitwisseling, afstemming van activiteiten, prioriteiten in vervolging, het maken van werkafspraken, enz.&nbsp;</li></ul><p>Vind jij kwaliteitsvol wonen belangrijk? Wil je er mee op toezien dat de regelgeving correct wordt nageleefd? Zie je het niet zitten om altijd op kantoor te werken, maar ga je ook graag het terrein op? Lees hieronder dan zeker meer over het gezochte profiel en de selectieprocedure!</p><p>Leer hier Wonen in Vlaanderen beter kennen!</p>"
+        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als wooninspecteur kom je terecht in de <b>dienst Handhaving</b> van de <b>afdeling Premies &amp; Woningkwaliteit</b>. Je zal deel uitmaken van het <b>team Vlaamse Wooninspectie Vlabralim (Vlaams-Brabant en Limburg)</b>, met standplaats Leuven of Hasselt</p> <p>De Vlaamse Wooninspectie treedt strafrechtelijk op tegen krotverhuur en tracht daarbij eveneens het herstel van de woningkwaliteit na te streven. Onze wooninspecteurs voeren inspecties van woningen uit op locatie. Je gaat ter plaatse om controles uit te voeren en overtredingen op te sporen en/of vast te stellen. Je waakt er op die manier mee over dat de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) nageleefd wordt. Je verhoort betrokkenen, stelt een proces-verbaal en herstelvordering op en zorgt voor de volledige en correcte afhandeling van het dossier. Je volgt dit dossier op totdat er volledig herstel is vastgesteld. Daarnaast neem je ook deel aan overlegmomenten met diverse stakeholders. Je werkt op het terrein samen met verschillende partners en je neemt initiatief om een netwerk uit te bouwen.</p> <p>De inspecties voer je samen met een woningcontroleur uit. De woningcontroleur voert het technisch conformiteitsonderzoek uit, terwijl de wooninspecteur de andere noodzakelijke taken op zich neemt. <span>&nbsp;</span>De acties kunnen in sommige gevallen voor of na de standaardwerkuren doorgaan. De juridische opvolging van de dossiers gebeurt door de collega’s in Brussel.</p> <p>Dit zijn voorbeelden van mogelijke taken:</p><ul><li><span>Plannen en voorbereiden van inspecties van woningen</span></li><li><span>&nbsp;</span>Opsporen van overtredingen en ter plaatse controleren of de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) wordt nageleefd</li><li>Verhoren van betrokkenen</li><li>Opstellen van processen-verbaal en herstelvorderingen; inleiden van herstelvorderingen langs strafrechtelijke of burgerrechtelijke weg; informeren van overtreders en belanghebbenden over gedane vaststellingen en genomen maatregelen en de uitvoering van de herstelmaatregelen opvolgen</li><li>Deelnemen aan en organiseren van overlegmomenten met politiediensten, inspectiediensten, parketten, lokale besturen met het oog op informatie-uitwisseling, afstemming van activiteiten, prioriteiten in vervolging, het maken van werkafspraken, enz.&nbsp;</li></ul><p>Vind jij kwaliteitsvol wonen belangrijk? Wil je er mee op toezien dat de regelgeving correct wordt nageleefd? Zie je het niet zitten om altijd op kantoor te werken, maar ga je ook graag het terrein op? Lees hieronder dan zeker meer over het gezochte profiel en de selectieprocedure!</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>",
+        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b><i>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</i></b>.</p> <p>Het agentschap Wonen in Vlaanderen bestaat uit <b>7 afdelingen</b>: de afdeling Premies en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Klantenondersteuning, de afdeling Beleid, de afdeling Organisatieondersteuning en de afdeling Toezicht. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.</p> <p>Als wooninspecteur kom je terecht in de <b>dienst Handhaving</b> van de <b>afdeling Premies &amp; Woningkwaliteit</b>. Je zal deel uitmaken van het <b>team Vlaamse Wooninspectie Vlabralim (Vlaams-Brabant en Limburg)</b>, met standplaats Leuven of Hasselt</p> <p>De Vlaamse Wooninspectie treedt strafrechtelijk op tegen krotverhuur en tracht daarbij eveneens het herstel van de woningkwaliteit na te streven. Onze wooninspecteurs voeren inspecties van woningen uit op locatie. Je gaat ter plaatse om controles uit te voeren en overtredingen op te sporen en/of vast te stellen. Je waakt er op die manier mee over dat de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) nageleefd wordt. Je verhoort betrokkenen, stelt een proces-verbaal en herstelvordering op en zorgt voor de volledige en correcte afhandeling van het dossier. Je volgt dit dossier op totdat er volledig herstel is vastgesteld. Daarnaast neem je ook deel aan overlegmomenten met diverse stakeholders. Je werkt op het terrein samen met verschillende partners en je neemt initiatief om een netwerk uit te bouwen.</p> <p>De inspecties voer je samen met een woningcontroleur uit. De woningcontroleur voert het technisch conformiteitsonderzoek uit, terwijl de wooninspecteur de andere noodzakelijke taken op zich neemt. <span>&nbsp;</span>De acties kunnen in sommige gevallen voor of na de standaardwerkuren doorgaan. De juridische opvolging van de dossiers gebeurt door de collega’s in Brussel.</p> <p>Dit zijn voorbeelden van mogelijke taken:</p><ul><li><span>Plannen en voorbereiden van inspecties van woningen</span></li><li><span>&nbsp;</span>Opsporen van overtredingen en ter plaatse controleren of de regelgeving met betrekking tot woningkwaliteit (en ruimtelijke ordening) wordt nageleefd</li><li>Verhoren van betrokkenen</li><li>Opstellen van processen-verbaal en herstelvorderingen; inleiden van herstelvorderingen langs strafrechtelijke of burgerrechtelijke weg; informeren van overtreders en belanghebbenden over gedane vaststellingen en genomen maatregelen en de uitvoering van de herstelmaatregelen opvolgen</li><li>Deelnemen aan en organiseren van overlegmomenten met politiediensten, inspectiediensten, parketten, lokale besturen met het oog op informatie-uitwisseling, afstemming van activiteiten, prioriteiten in vervolging, het maken van werkafspraken, enz.&nbsp;</li></ul><p>Vind jij kwaliteitsvol wonen belangrijk? Wil je er mee op toezien dat de regelgeving correct wordt nageleefd? Zie je het niet zitten om altijd op kantoor te werken, maar ga je ook graag het terrein op? Lees hieronder dan zeker meer over het gezochte profiel en de selectieprocedure!</p><p><a href=\"https://www.youtube.com/watch?v=zmazfdKD8NE\">Leer hier Wonen in Vlaanderen beter kennen!</a></p>"
       },
       "locations": [
         {
@@ -5895,8 +5965,8 @@
       "displayTitle": "Teamgroeptrekker",
       "isProtected": false,
       "description": {
-        "raw": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;</div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.</div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;</div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.</div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+        "raw": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? <strong>Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. </strong>Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? <strong>Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. </strong>Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
       },
       "locations": [
         {
