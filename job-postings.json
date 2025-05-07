@@ -1,10 +1,10 @@
 {
-  "totalItems": 209,
+  "totalItems": 193,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 208,
+  "lastItemOfPage": 192,
   "items": [
     {
       "link": "/Job/vdab-71007016",
@@ -912,41 +912,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70888526",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Sport Vlaanderen Herentals",
-      "reservedForDisability": null,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70888526",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Centrummedewerker in Sport Vlaanderen Herentals"
-      },
-      "displayTitle": "Centrummedewerker in Sport Vlaanderen Herentals",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker in Herentals ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, schoonmaken, kleine herstellingen uitvoeren, toezicht uitoefenen , begeleiden van bezoekers ,…</span></p> \n<p><span lang=\"NL-BE\">In het sportcentrum van Herentals ligt de \n<strong>focus op onderhoud</strong>, waaronder heel specifieke taken voor de ijspiste, het onthaal en toezicht. In onderstaande beschrijving lees je meer over het gezochte profiel en de verdere selectieprocedure.</span></p>",
-        "htmlEncoded": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker in Herentals ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, schoonmaken, kleine herstellingen uitvoeren, toezicht uitoefenen , begeleiden van bezoekers ,…</span></p> \n<p><span lang=\"NL-BE\">In het sportcentrum van Herentals ligt de \n<strong>focus op onderhoud</strong>, waaronder heel specifieke taken voor de ijspiste, het onthaal en toezicht. In onderstaande beschrijving lees je meer over het gezochte profiel en de verdere selectieprocedure.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
           }
         }
       ]
@@ -3682,6 +3647,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18549",
+      "internal": false,
+      "validThroughDate": "1747785600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18549",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VTS-Operator"
+      },
+      "displayTitle": "VTS-Operator",
+      "isProtected": false,
+      "description": {
+        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
+        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18502",
       "internal": false,
       "validThroughDate": "1747785600",
@@ -3717,321 +3717,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18482",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18482",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 16 MON - Jobstudent praktisch medewerker labo - Gent - juli"
-      },
-      "displayTitle": "VW 25 16 MON - Jobstudent praktisch medewerker labo - Gent - juli",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Ontvangst van monsters in de ochtend: hiervoor zal de jobstudent moeten starten om 6h 's ochtends. Monsters moeten ingescand worden zodat ze beschikbaar zijn in het labo-informatica systeem voor de analisten en nadien verdeeld worden volgens de verschillende analyses. Na de taken van de monsterontvangst zal de jobstudent ingezet worden voor de voorbereiding van metaalanalysen (= destructie van stalen met zuren).<br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Ontvangst van monsters in de ochtend: hiervoor zal de jobstudent moeten starten om 6h 's ochtends. Monsters moeten ingescand worden zodat ze beschikbaar zijn in het labo-informatica systeem voor de analisten en nadien verdeeld worden volgens de verschillende analyses. Na de taken van de monsterontvangst zal de jobstudent ingezet worden voor de voorbereiding van metaalanalysen (= destructie van stalen met zuren).<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18472",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18472",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 27 DWLK - Jobstudent administratief medewerker internationale samenwerking - Aalst - augustus"
-      },
-      "displayTitle": "VW 25 27 DWLK - Jobstudent administratief medewerker internationale samenwerking - Aalst - augustus",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: Administratieve ondersteuning bij financiële rapportering samenwerkingsprojecten &amp; uitwerken kleinschalige acties ter ondersteuning van de (interne) communicatie.</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: Administratieve ondersteuning bij financiële rapportering samenwerkingsprojecten &amp; uitwerken kleinschalige acties ter ondersteuning van de (interne) communicatie.</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18468",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18468",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 24 OND - Jobstudent administratief medewerker(st)er - Herentals - augustus"
-      },
-      "displayTitle": "VW 25 24 OND - Jobstudent administratief medewerker(st)er - Herentals - augustus",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18467",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18467",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 23 OND - Jobstudent administratief medewerker(st)er - Herentals - juli"
-      },
-      "displayTitle": "VW 25 23 OND - Jobstudent administratief medewerker(st)er - Herentals - juli",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18466",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18466",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 22 OND - Jobstudent administratief medewerker(st)er - Herentals - juni"
-      },
-      "displayTitle": "VW 25 22 OND - Jobstudent administratief medewerker(st)er - Herentals - juni",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: administratieve taken (post inschrijven en uitschrijven, reservatie vergaderzalen, aanmaak treintickets,..), uitzuiveren archief ifv toekomstige verhuis, opvolging onderhoudstaken gebouwen,…</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18465",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18465",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 21 OND - Jobstudent onthaal medewerk(st)er - Gent - augustus"
-      },
-      "displayTitle": "VW 25 21 OND - Jobstudent onthaal medewerk(st)er - Gent - augustus",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18464",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18464",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 20 OND - Jobstudent onthaal medewerk(st)er - Gent - juli"
-      },
-      "displayTitle": "VW 25 20 OND - Jobstudent onthaal medewerk(st)er - Gent - juli",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18462",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18462",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 19 OND - Jobstudent onthaal medewerk(st)er - Gent - juni"
-      },
-      "displayTitle": "VW 25 19 OND - Jobstudent onthaal medewerk(st)er - Gent - juni",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten: post inschrijven en uitschrijven, onthaal bezoekers, leveringen aannemen, administratieve taken.</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18461",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18461",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 18 MON - Jobstudent medewerker meetnet waterkwaliteit - Gent - juli"
-      },
-      "displayTitle": "VW 25 18 MON - Jobstudent medewerker meetnet waterkwaliteit - Gent - juli",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Het takenpakket als medewerker water bij de dienst monsterneming en inventarisatie waterkwaliteit bestaat uit volgende aspecten:<br>• Het voorbereiden en uitvoeren van staalnames Waterbodem volgens de vastgestelde procedures : volgens planningskalender en noodzaak en onder begeleiding van het team;<br>• Het verwerken van macro-invertebratenstalen; triëren en determineren onder begeleiding van het team;<br>• Het uitvoeren van ecotoxiciteitstesten en het verwerken van de gegevens onder begeleiding van het team;<br>• Het administratief verwerken en opvragen van de meetgegevens: invoeren van de veldwaarnemingen,<br>invoeren van determinatielijsten;<br><br></p>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Het takenpakket als medewerker water bij de dienst monsterneming en inventarisatie waterkwaliteit bestaat uit volgende aspecten:<br>• Het voorbereiden en uitvoeren van staalnames Waterbodem volgens de vastgestelde procedures : volgens planningskalender en noodzaak en onder begeleiding van het team;<br>• Het verwerken van macro-invertebratenstalen; triëren en determineren onder begeleiding van het team;<br>• Het uitvoeren van ecotoxiciteitstesten en het verwerken van de gegevens onder begeleiding van het team;<br>• Het administratief verwerken en opvragen van de meetgegevens: invoeren van de veldwaarnemingen,<br>invoeren van determinatielijsten;<br><br></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18459",
       "internal": false,
       "validThroughDate": "1747785600",
@@ -4057,76 +3742,6 @@
       "description": {
         "raw": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Aalst en bezoekt de gezinnen thuis. </p><p>Op de <a href=\"https://kindengezin.sharepoint.com/sites/intranet/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fintranet%2FShared%20Documents%2Fgeokaarten%5Foktober%5F2023%2Donline%2Epdf&amp;parent=%2Fsites%2Fintranet%2FShared%20Documents\">kaarten</a>&nbsp;kan je bekijken in welke gemeenten dit team precies werkt.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>",
         "htmlEncoded": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Aalst en bezoekt de gezinnen thuis. </p><p>Op de <a href=\"https://kindengezin.sharepoint.com/sites/intranet/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fintranet%2FShared%20Documents%2Fgeokaarten%5Foktober%5F2023%2Donline%2Epdf&amp;parent=%2Fsites%2Fintranet%2FShared%20Documents\">kaarten</a>&nbsp;kan je bekijken in welke gemeenten dit team precies werkt.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18454",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18454",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 15 MON - Jobstudent praktisch medewerker labo - Gent - augustus"
-      },
-      "displayTitle": "VW 25 15 MON - Jobstudent praktisch medewerker labo - Gent - augustus",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding van water stalen, waterbodem en biota stalen door middel van verschillende extractie technieken (SPE, ASE…) voor GC-MS analyse. Algemene, ondersteunende taken binnen het labo.<br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding van water stalen, waterbodem en biota stalen door middel van verschillende extractie technieken (SPE, ASE…) voor GC-MS analyse. Algemene, ondersteunende taken binnen het labo.<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18451",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18451",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 12 MON - Jobstudent praktisch medewerker labo - Gent - augustus"
-      },
-      "displayTitle": "VW 25 12 MON - Jobstudent praktisch medewerker labo - Gent - augustus",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding voor analyses van monsters, algemene taken binnen het laboratorium en routinematige analyse van totaal stikstof van oppervlaktewaters.<br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Voorbereiding voor analyses van monsters, algemene taken binnen het laboratorium en routinematige analyse van totaal stikstof van oppervlaktewaters.<br>"
       },
       "locations": [
         {
@@ -4237,181 +3852,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18432",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18432",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 07 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Augustus - Aalst"
-      },
-      "displayTitle": "VW 25 07 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Augustus - Aalst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18431",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18431",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 06 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Juli - Aalst"
-      },
-      "displayTitle": "VW 25 06 DIG - Jobstudent archiefbeheerder/informatiebeheerder - Juli - Aalst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>Voornamelijk opdrachten in kader van archivering en informatiebeheer. De hoofdtaak zal bestaan uit het behandelen van papieren archief, waaronder het selecteren, het schonen, het vernietigen en het opnieuw ordelijk herverpakken en inventariseren van dossiers in kader van een overdracht naar een andere instelling.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18429",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18429",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 05 ADV - Jobstudent administratief medewerker - Juli - Gent"
-      },
-      "displayTitle": "VW 25 05 ADV - Jobstudent administratief medewerker - Juli - Gent",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Klassement ontdoen van ballast en de relevante info scannen en linken in de AVOS databank<br>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p>Klassement ontdoen van ballast en de relevante info scannen en linken in de AVOS databank<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18427",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18427",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 04 LU - Jobstudent Dossierbeheerder - Juli - Aalst"
-      },
-      "displayTitle": "VW 25 04 LU - Jobstudent Dossierbeheerder - Juli - Aalst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>1) Archivering: inscannen papieren IMJV<br>De opdracht behelst enerzijds een repetitieve uitvoerende taak van het inscannen van documenten en digitaal archiveren ervan. Hiervoor is fysieke aanwezigheid gewenst. Geen voorkennis vereist<br>2) Integrale milieuverslagen (IMJV) nakijken op de aanwezigheid van vereiste bijlagen.Via mail bedrijven contacteren die vermoedelijk via IMJV Leak Detection and Repair – NMVOS moeten rapporteren = bijlage bij IMJV<br>Als tweede taak volgt een iets meer inhoudelijke taak. Voorkennis is niet vereist, fysieke aanwezigheid is niet vereist. Het betreft het screenen van bedrijfsdocumenten (het Integraal Milieujaarverslag) op aanwezigheid van een&nbsp;specifieke bijlage. Indien deze niet aanwezig is, dient het bedrijf gecontacteerd te worden met vraag dit alsnog te bezorgen. De data dienen finaal verwerkt te worden in een Excelbestand.<br>3) het screenen met CO-Pilot van de bestuursakkoorden van alle lokale besturen in Vlaanderen naar vermeldingen van Luchtkwaliteit, Gezonde lucht en dergelijke en eventuele acties daaromtrent.</p>",
-        "htmlEncoded": "<p>De\nfunctie onderschrijft de&nbsp;visie&nbsp;van VMM&nbsp; als een\noplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Het&nbsp;takenpakket&nbsp;\nbestaat uit volgende aspecten:</p><p>1) Archivering: inscannen papieren IMJV<br>De opdracht behelst enerzijds een repetitieve uitvoerende taak van het inscannen van documenten en digitaal archiveren ervan. Hiervoor is fysieke aanwezigheid gewenst. Geen voorkennis vereist<br>2) Integrale milieuverslagen (IMJV) nakijken op de aanwezigheid van vereiste bijlagen.Via mail bedrijven contacteren die vermoedelijk via IMJV Leak Detection and Repair – NMVOS moeten rapporteren = bijlage bij IMJV<br>Als tweede taak volgt een iets meer inhoudelijke taak. Voorkennis is niet vereist, fysieke aanwezigheid is niet vereist. Het betreft het screenen van bedrijfsdocumenten (het Integraal Milieujaarverslag) op aanwezigheid van een&nbsp;specifieke bijlage. Indien deze niet aanwezig is, dient het bedrijf gecontacteerd te worden met vraag dit alsnog te bezorgen. De data dienen finaal verwerkt te worden in een Excelbestand.<br>3) het screenen met CO-Pilot van de bestuursakkoorden van alle lokale besturen in Vlaanderen naar vermeldingen van Luchtkwaliteit, Gezonde lucht en dergelijke en eventuele acties daaromtrent.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18419",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18419",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VW 25 01 PIW Jobstudent data-analist/ medewerker data-verzameling - Juli - Leuven"
-      },
-      "displayTitle": "VW 25 01 PIW Jobstudent data-analist/ medewerker data-verzameling - Juli - Leuven",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie onderschrijft de visie van de VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>&nbsp;</p><p>Het takenpakket bestaat uit volgende aspecten:</p><p>Het veldmeetnet hydromorfologie heeft in 2024 een omschakeling gekend van een fysiek meetnet naar een desktopanalyse, waarop de hydromorfologische kwaliteit wordt ingeschat op basis van bestaande databanken, GIS-analyses en probabilistische modellen. Voor het versterken van deze probabilistische modellen zoeken we een&nbsp;jobstudent die op basis van fotomateriaal de trainingsdata kan aanvullen voor verschillende variabelen (bv.&nbsp;oeverversteviging, dood hout, sedimentbanken, etc.). Er is ook de mogelijkheid om één of meer dagen mee op het&nbsp;veld te gaan om voeling te krijgen met het onderwerp. De student heeft idealiter een (basis)kennis GIS.</p>",
-        "htmlEncoded": "<p>De functie onderschrijft de visie van de VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>&nbsp;</p><p>Het takenpakket bestaat uit volgende aspecten:</p><p>Het veldmeetnet hydromorfologie heeft in 2024 een omschakeling gekend van een fysiek meetnet naar een desktopanalyse, waarop de hydromorfologische kwaliteit wordt ingeschat op basis van bestaande databanken, GIS-analyses en probabilistische modellen. Voor het versterken van deze probabilistische modellen zoeken we een&nbsp;jobstudent die op basis van fotomateriaal de trainingsdata kan aanvullen voor verschillende variabelen (bv.&nbsp;oeverversteviging, dood hout, sedimentbanken, etc.). Er is ook de mogelijkheid om één of meer dagen mee op het&nbsp;veld te gaan om voeling te krijgen met het onderwerp. De student heeft idealiter een (basis)kennis GIS.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
           }
         }
       ]
@@ -4632,10 +4072,10 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18357",
-      "internal": false,
-      "validThroughDate": "1746489600",
-      "hiringOrganization": "ILVO Landbouw en Maatschappij",
+      "link": "/Job/cornerstone-18356",
+      "internal": true,
+      "validThroughDate": "1747872000",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
@@ -4643,25 +4083,25 @@
         "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18357",
+      "identifier": "cornerstone-18356",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Doctoraatsbursaal Research Practice Gap"
+        "htmlEncoded": "Teamverantwoordelijke team kwaliteit"
       },
-      "displayTitle": "ILVO Eigen Vermogen Doctoraatsbursaal Research Practice Gap",
+      "displayTitle": "Teamverantwoordelijke team kwaliteit",
       "isProtected": false,
       "description": {
-        "raw": "<p>Wil jij\neen sleutelrol spelen in de verduurzaming van de Europese landbouw? Wil je je\nverdiepen in hoe je onderzoek opzet dat effectief bijdraagt aan verandering in\nde praktijk? Geloof je in de kracht van samenwerking bij het ontwikkelen van innovatieve\npraktijken? En zie je jezelf als een bruggenbouwer tussen onderzoekers,\nadviseurs en landbouwers? Dan hebben wij dé uitdaging voor jou.&nbsp;</p><p>Lees meer over de functie in het\nselectiereglement onderaan de pagina bij download documenten. Download dit\nselectiereglement en hou het bij voor het verdere verloop van de procedure.</p><p>For English see page 4 of\nthe selection rules</p>",
-        "htmlEncoded": "<p>Wil jij\neen sleutelrol spelen in de verduurzaming van de Europese landbouw? Wil je je\nverdiepen in hoe je onderzoek opzet dat effectief bijdraagt aan verandering in\nde praktijk? Geloof je in de kracht van samenwerking bij het ontwikkelen van innovatieve\npraktijken? En zie je jezelf als een bruggenbouwer tussen onderzoekers,\nadviseurs en landbouwers? Dan hebben wij dé uitdaging voor jou.&nbsp;</p><p>Lees meer over de functie in het\nselectiereglement onderaan de pagina bij download documenten. Download dit\nselectiereglement en hou het bij voor het verdere verloop van de procedure.</p><p>For English see page 4 of\nthe selection rules</p>"
+        "raw": "<p>Als teamverantwoordelijke\nvan het team Kwaliteit geef je richting aan een enthousiast team van 8 interne\nmedewerkers dat zich dagelijks inzet voor continue verbetering binnen AgO.\nSamen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende\ndienstverlening voor élke klant.<br><br>Je zet mensen en\nmiddelen in beweging, met als doel: een optimale balans tussen\nklanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in\nconcrete acties en zorgt ervoor dat de strategische doelstellingen realiteit\nworden in de dagelijkse praktijk.<br><br>Met jouw kritische blik\nhelp je AgO de juiste prioriteiten te stellen, strategische risico’s te managen\nen de vinger aan de pols te houden via datamonitoring. <br><br>Neem je graag het voortouw in\nprojecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die\nend-to-end en procesmatig kan denken en vanuit een dienstverlenende en\nklantgerichte houding werkt? <br><br>Hebben processen en het uitwerken van een\nkwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en\naansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer\njou energie? Dan ben jij de persoon die wij zoeken!<br><br>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en\naltijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</p><ul><li>Procesmanagement</li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als teamverantwoordelijke\nvan het team Kwaliteit geef je richting aan een enthousiast team van 8 interne\nmedewerkers dat zich dagelijks inzet voor continue verbetering binnen AgO.\nSamen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende\ndienstverlening voor élke klant.<br><br>Je zet mensen en\nmiddelen in beweging, met als doel: een optimale balans tussen\nklanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in\nconcrete acties en zorgt ervoor dat de strategische doelstellingen realiteit\nworden in de dagelijkse praktijk.<br><br>Met jouw kritische blik\nhelp je AgO de juiste prioriteiten te stellen, strategische risico’s te managen\nen de vinger aan de pols te houden via datamonitoring. <br><br>Neem je graag het voortouw in\nprojecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die\nend-to-end en procesmatig kan denken en vanuit een dienstverlenende en\nklantgerichte houding werkt? <br><br>Hebben processen en het uitwerken van een\nkwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en\naansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer\njou energie? Dan ben jij de persoon die wij zoeken!<br><br>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en\naltijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</p><ul><li>Procesmanagement</li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Merelbeke-Melle"
+            "city": "Brussel"
           }
         }
       ]
