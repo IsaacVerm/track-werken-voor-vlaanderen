@@ -1,10 +1,10 @@
 {
-  "totalItems": 195,
+  "totalItems": 196,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 194,
+  "lastItemOfPage": 195,
   "items": [
     {
       "link": "/Job/vdab-71028438",
@@ -6716,6 +6716,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-15952",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 7,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-15952",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundige monitoring"
+      },
+      "displayTitle": "Deskundige monitoring",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
