@@ -1,11 +1,46 @@
 {
-  "totalItems": 199,
+  "totalItems": 202,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 198,
+  "lastItemOfPage": 201,
   "items": [
+    {
+      "link": "/Job/vdab-71082417",
+      "internal": false,
+      "validThroughDate": "1748476800",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71082417",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "klinisch orthopedagoog"
+      },
+      "displayTitle": "klinisch orthopedagoog",
+      "isProtected": false,
+      "description": {
+        "raw": "<p> </p> \n<p><strong><span>Over PVT Salto</span></strong><span><br> PVT Salto bestaat uit twee wooneenheden voor volwassenen met een gestabiliseerde psychiatrische problematiek.</span></p> \n<ul type=\"disc\"> \n<li><strong><span>Salto 1</span></strong><span>: 30 bewoners met een bijkomende verstandelijke beperking</span></li> \n<li><strong><span>Salto 2</span></strong><span>: 45 bewoners</span></li> </ul> \n<p><span>Onze bewoners hebben geen ziekenhuisbehandeling meer nodig, zijn voldoende zelfredzaam en kunnen zich aanpassen aan het wonen in een groep. Wij bieden hen een warme, stabiele woonomgeving waar persoonlijk en sociaal herstel centraal staan. Daarbij kijken we naar de mens als geheel, met aandacht voor alle levensdomeinen.</span></p> \n<p><strong><span>Jouw rol</span></strong><span><br> Als klinisch orthopedagoog werk je mee aan een herstelgerichte woon- en leefomgeving. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>bouwt mee aan visie, beleid en methodieken binnen het PVT</span></li> \n<li><span>vertaalt de beleidslijnen van Zorgcentrum en GGZ-netwerk Kempen naar onze praktijk</span></li> \n<li><span>voert op indicatie individuele gesprekken met bewoners</span></li> \n<li><span>ondersteunt mentoren bij het opstellen van signalerings- en ondersteuningsplannen</span></li> \n<li><span>doet (zelden) psychodiagnostisch onderzoek</span></li> \n<li><span>begeleidt de teams via inter- en supervisiemomenten, individueel en in groep.</span></li> </ul>",
+        "htmlEncoded": "<p> </p> \n<p><strong><span>Over PVT Salto</span></strong><span><br> PVT Salto bestaat uit twee wooneenheden voor volwassenen met een gestabiliseerde psychiatrische problematiek.</span></p> \n<ul type=\"disc\"> \n<li><strong><span>Salto 1</span></strong><span>: 30 bewoners met een bijkomende verstandelijke beperking</span></li> \n<li><strong><span>Salto 2</span></strong><span>: 45 bewoners</span></li> </ul> \n<p><span>Onze bewoners hebben geen ziekenhuisbehandeling meer nodig, zijn voldoende zelfredzaam en kunnen zich aanpassen aan het wonen in een groep. Wij bieden hen een warme, stabiele woonomgeving waar persoonlijk en sociaal herstel centraal staan. Daarbij kijken we naar de mens als geheel, met aandacht voor alle levensdomeinen.</span></p> \n<p><strong><span>Jouw rol</span></strong><span><br> Als klinisch orthopedagoog werk je mee aan een herstelgerichte woon- en leefomgeving. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>bouwt mee aan visie, beleid en methodieken binnen het PVT</span></li> \n<li><span>vertaalt de beleidslijnen van Zorgcentrum en GGZ-netwerk Kempen naar onze praktijk</span></li> \n<li><span>voert op indicatie individuele gesprekken met bewoners</span></li> \n<li><span>ondersteunt mentoren bij het opstellen van signalerings- en ondersteuningsplannen</span></li> \n<li><span>doet (zelden) psychodiagnostisch onderzoek</span></li> \n<li><span>begeleidt de teams via inter- en supervisiemomenten, individueel en in groep.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71078059",
       "internal": false,
@@ -3647,6 +3682,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18640",
+      "internal": false,
+      "validThroughDate": "1748995200",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18640",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Examinator Nederlands en/of Engels (detachering onderwijs)"
+      },
+      "displayTitle": "Examinator Nederlands en/of Engels (detachering onderwijs)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een ervaren leerkracht talen? Neem je\ngraag mondelinge examens af en heb je een gezonde interesse voor\ntoetsontwikkeling? Wil je je expertise en passie inzetten voor jongeren die via\nzelfstudie en op eigen tempo een getuigschrift of diploma behalen via de\nExamencommissie Secundair Onderwijs? Solliciteer dan voor de job van examinator\nNederlands en/of Engels.<br><br>Als examinator werk je samen met andere\nmedewerkers en met de vakverantwoordelijke van je vakgroep. Je neemt mondelinge\nexamens af voor verschillende studierichtingen en graden. Daarnaast beoordeel\nje spreekopdrachten (eventueel ook schrijfopdrachten) en bied je waar nodig\nondersteuning bij toetsontwikkelingstaken. Je stelt je daarbij professioneel en\nflexibel op in je werk.<br><br>Je wordt één volledige dag per week ingezet om\nmondelinge examens af te nemen in ons examencentrum in Brussel\n(Consciencegebouw). Dit zal op donderdag zijn. Je examineert altijd samen met\neen collega, met opdrachten die door de Examencommissie ontwikkeld worden. Je\nbeoordeelt de kandidaten met behulp van een beoordelingswijzer. Op die manier\nbewaken we de kwaliteit en de uniformiteit van de beoordeling.<br><br>Solliciteer vandaag nog als jij de persoon bent\ndie we zoeken.</p><p><strong>&nbsp;</strong></p><p><strong>JE TAKENPAKKET</strong></p><ul><li>Je neemt samen met een collega mondelinge examens af voor verschillende studierichtingen en graden (dit is je hoofdopdracht).</li><li>Je beoordeelt de kandidaten volgens de procedures en kwaliteitsstandaarden van de Examencommissie.</li><li>Je beoordeelt eerder opgenomen spreekopdrachten (raten) en biedt waar nodig nodig ondersteuning bij diverse toetsontwikkelingstaken (itemontwikkeling, kwaliteitscontrole, itemscreening, opstellen lectuurfiches …).</li><li>Je neemt deel aan opleidingen en overleg in functie van je opdracht.</li></ul><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij een ervaren leerkracht talen? Neem je\ngraag mondelinge examens af en heb je een gezonde interesse voor\ntoetsontwikkeling? Wil je je expertise en passie inzetten voor jongeren die via\nzelfstudie en op eigen tempo een getuigschrift of diploma behalen via de\nExamencommissie Secundair Onderwijs? Solliciteer dan voor de job van examinator\nNederlands en/of Engels.<br><br>Als examinator werk je samen met andere\nmedewerkers en met de vakverantwoordelijke van je vakgroep. Je neemt mondelinge\nexamens af voor verschillende studierichtingen en graden. Daarnaast beoordeel\nje spreekopdrachten (eventueel ook schrijfopdrachten) en bied je waar nodig\nondersteuning bij toetsontwikkelingstaken. Je stelt je daarbij professioneel en\nflexibel op in je werk.<br><br>Je wordt één volledige dag per week ingezet om\nmondelinge examens af te nemen in ons examencentrum in Brussel\n(Consciencegebouw). Dit zal op donderdag zijn. Je examineert altijd samen met\neen collega, met opdrachten die door de Examencommissie ontwikkeld worden. Je\nbeoordeelt de kandidaten met behulp van een beoordelingswijzer. Op die manier\nbewaken we de kwaliteit en de uniformiteit van de beoordeling.<br><br>Solliciteer vandaag nog als jij de persoon bent\ndie we zoeken.</p><p><strong>&nbsp;</strong></p><p><strong>JE TAKENPAKKET</strong></p><ul><li>Je neemt samen met een collega mondelinge examens af voor verschillende studierichtingen en graden (dit is je hoofdopdracht).</li><li>Je beoordeelt de kandidaten volgens de procedures en kwaliteitsstandaarden van de Examencommissie.</li><li>Je beoordeelt eerder opgenomen spreekopdrachten (raten) en biedt waar nodig nodig ondersteuning bij diverse toetsontwikkelingstaken (itemontwikkeling, kwaliteitscontrole, itemscreening, opstellen lectuurfiches …).</li><li>Je neemt deel aan opleidingen en overleg in functie van je opdracht.</li></ul><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18618",
       "internal": false,
       "validThroughDate": "1748390400",
@@ -4113,8 +4183,8 @@
       "displayTitle": "Ecoloog",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Heb jij een passie voor natte natuur en wil je bijdragen aan het herstel en de bescherming van waardevolle ecosystemen? Wij zijn op zoek naar een ecoloog die zijn of haar specialistische ecologische en ecohydrologische kennis wil inzetten voor de ontwikkeling en uitvoering van inrichtingsmaatregelen in natuurgebieden.</span></p> <p><span>Als ecoloog werk je in projectteams onder aansturing van een projectmanager. Je bent verantwoordelijk voor de ecologische en ecohydrologische onderbouwing van projecten gericht op natte natuur. Daarbij lever je een belangrijke bijdrage aan het verbeteren van de abiotiek en het versterken van de biodiversiteit. Je standplaats is Herentals, maar je werkgebied is regio Oost (provincies Antwerpen, Limburg en Vlaams-Brabant). Je werkzaamheden zijn veelzijdig en praktijkgericht:</span></p> <ul type=\"disc\"> <li><b><span>Gebiedskennis opbouwen:</span></b><span> Je verzamelt gebiedsinformatie via desktopstudies, literatuuronderzoek, gesprekken met lokale experts en veldbezoeken. Zo krijg je een scherp beeld van de ecohydrologische situatie.</span></li> <li><b><span>Inventarisaties en visies opstellen:</span></b><span> Je voert zelf eco(hydro)logische inventarisaties uit en werkt visies en plannen uit voor specifieke gebieden. Soms begeleid je externe studies.</span></li> <li><b><span>Ontwerpen en maatregelen ontwikkelen:</span></b><span> Samen met andere vakspecialisten werk je aan effectieve inrichtingsmaatregelen en zorg je voor een goede afstemming met andere ontwerp- en beheeraspecten.</span></li> <li><b><span>Rapportages schrijven:</span></b><span> Je legt je bevindingen en voorstellen vast in heldere en onderbouwde rapporten, zoals landinrichtingsplannen en projectuitvoeringsplannen.</span></li> <li><b><span>Toetsingen en vergunningen:</span></b><span> Je levert input voor vergunningaanvragen en ecologische toetsen en zorgt voor de benodigde onderbouwing van de maatregelen.</span></li> </ul> <p><span>Herken jij jezelf in dit profiel en wil je je inzetten voor sterke, veerkrachtige natte natuur? Solliciteer dan vandaag nog en maak het verschil!</span></p>",
-        "htmlEncoded": "<p><span>Heb jij een passie voor natte natuur en wil je bijdragen aan het herstel en de bescherming van waardevolle ecosystemen? Wij zijn op zoek naar een ecoloog die zijn of haar specialistische ecologische en ecohydrologische kennis wil inzetten voor de ontwikkeling en uitvoering van inrichtingsmaatregelen in natuurgebieden.</span></p> <p><span>Als ecoloog werk je in projectteams onder aansturing van een projectmanager. Je bent verantwoordelijk voor de ecologische en ecohydrologische onderbouwing van projecten gericht op natte natuur. Daarbij lever je een belangrijke bijdrage aan het verbeteren van de abiotiek en het versterken van de biodiversiteit. Je standplaats is Herentals, maar je werkgebied is regio Oost (provincies Antwerpen, Limburg en Vlaams-Brabant). Je werkzaamheden zijn veelzijdig en praktijkgericht:</span></p> <ul type=\"disc\"> <li><b><span>Gebiedskennis opbouwen:</span></b><span> Je verzamelt gebiedsinformatie via desktopstudies, literatuuronderzoek, gesprekken met lokale experts en veldbezoeken. Zo krijg je een scherp beeld van de ecohydrologische situatie.</span></li> <li><b><span>Inventarisaties en visies opstellen:</span></b><span> Je voert zelf eco(hydro)logische inventarisaties uit en werkt visies en plannen uit voor specifieke gebieden. Soms begeleid je externe studies.</span></li> <li><b><span>Ontwerpen en maatregelen ontwikkelen:</span></b><span> Samen met andere vakspecialisten werk je aan effectieve inrichtingsmaatregelen en zorg je voor een goede afstemming met andere ontwerp- en beheeraspecten.</span></li> <li><b><span>Rapportages schrijven:</span></b><span> Je legt je bevindingen en voorstellen vast in heldere en onderbouwde rapporten, zoals landinrichtingsplannen en projectuitvoeringsplannen.</span></li> <li><b><span>Toetsingen en vergunningen:</span></b><span> Je levert input voor vergunningaanvragen en ecologische toetsen en zorgt voor de benodigde onderbouwing van de maatregelen.</span></li> </ul> <p><span>Herken jij jezelf in dit profiel en wil je je inzetten voor sterke, veerkrachtige natte natuur? Solliciteer dan vandaag nog en maak het verschil!</span></p>"
+        "raw": "<p><span>Heb jij een passie voor natuur en wil je bijdragen aan het herstel en de bescherming van waardevolle ecosystemen? Wij zijn op zoek naar een ecoloog die zijn of haar ecologische kennis wil inzetten voor de ontwikkeling en uitvoering van inrichtingsmaatregelen in natuurgebieden.</span></p> <p><span>Als ecoloog werk je in projectteams onder aansturing van een projectmanager. Je bent verantwoordelijk voor de ecologische onderbouwing van projecten gericht op het versterken van de open ruimte en randstedelijke gebieden. Daarbij lever je een belangrijke bijdrage aan het verbeteren van de abiotiek en het verhogen van de biodiversiteit. Je standplaats is Herentals, maar je werkgebied is regio Oost (provincies Antwerpen, Limburg en Vlaams-Brabant). Je werkzaamheden zijn veelzijdig en praktijkgericht:</span></p> <ul type=\"disc\"> <li><b><span>Gebiedskennis opbouwen:</span></b><span> Je verzamelt gebiedsinformatie via desktopstudies, literatuuronderzoek, gesprekken met lokale experts en veldbezoeken. Zo krijg je een scherp beeld van de ecologische situatie.</span></li> <li><b><span>Inventarisaties en visies opstellen:</span></b><span> Je voert zelf ecologische inventarisaties uit en werkt visies en plannen uit voor specifieke gebieden. Soms begeleid je externe studies.</span></li> <li><b><span>Ontwerpen en maatregelen ontwikkelen:</span></b><span> Samen met andere vakspecialisten werk je aan effectieve inrichtingsmaatregelen en zorg je voor een goede afstemming met andere ontwerp- en beheeraspecten.</span></li> <li><b><span>Rapportages schrijven:</span></b><span> Je legt je bevindingen en voorstellen vast in heldere en onderbouwde rapporten, zoals landinrichtingsplannen en projectuitvoeringsplannen.</span></li> <li><b><span>Toetsingen en vergunningen:</span></b><span> Je levert input voor vergunningaanvragen en ecologische toetsen en zorgt voor de benodigde onderbouwing van de maatregelen.</span></li> </ul> <p><span>Herken jij jezelf in dit profiel en wil je je inzetten voor sterke, veerkrachtige <span>&nbsp;</span>natuur? Solliciteer dan vandaag nog en maak het verschil!</span></p>",
+        "htmlEncoded": "<p><span>Heb jij een passie voor natuur en wil je bijdragen aan het herstel en de bescherming van waardevolle ecosystemen? Wij zijn op zoek naar een ecoloog die zijn of haar ecologische kennis wil inzetten voor de ontwikkeling en uitvoering van inrichtingsmaatregelen in natuurgebieden.</span></p> <p><span>Als ecoloog werk je in projectteams onder aansturing van een projectmanager. Je bent verantwoordelijk voor de ecologische onderbouwing van projecten gericht op het versterken van de open ruimte en randstedelijke gebieden. Daarbij lever je een belangrijke bijdrage aan het verbeteren van de abiotiek en het verhogen van de biodiversiteit. Je standplaats is Herentals, maar je werkgebied is regio Oost (provincies Antwerpen, Limburg en Vlaams-Brabant). Je werkzaamheden zijn veelzijdig en praktijkgericht:</span></p> <ul type=\"disc\"> <li><b><span>Gebiedskennis opbouwen:</span></b><span> Je verzamelt gebiedsinformatie via desktopstudies, literatuuronderzoek, gesprekken met lokale experts en veldbezoeken. Zo krijg je een scherp beeld van de ecologische situatie.</span></li> <li><b><span>Inventarisaties en visies opstellen:</span></b><span> Je voert zelf ecologische inventarisaties uit en werkt visies en plannen uit voor specifieke gebieden. Soms begeleid je externe studies.</span></li> <li><b><span>Ontwerpen en maatregelen ontwikkelen:</span></b><span> Samen met andere vakspecialisten werk je aan effectieve inrichtingsmaatregelen en zorg je voor een goede afstemming met andere ontwerp- en beheeraspecten.</span></li> <li><b><span>Rapportages schrijven:</span></b><span> Je legt je bevindingen en voorstellen vast in heldere en onderbouwde rapporten, zoals landinrichtingsplannen en projectuitvoeringsplannen.</span></li> <li><b><span>Toetsingen en vergunningen:</span></b><span> Je levert input voor vergunningaanvragen en ecologische toetsen en zorgt voor de benodigde onderbouwing van de maatregelen.</span></li> </ul> <p><span>Herken jij jezelf in dit profiel en wil je je inzetten voor sterke, veerkrachtige <span>&nbsp;</span>natuur? Solliciteer dan vandaag nog en maak het verschil!</span></p>"
       },
       "locations": [
         {
@@ -5826,6 +5896,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18028",
+      "internal": false,
+      "validThroughDate": "1748304000",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18028",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent Zomer: schoonmaak"
+      },
+      "displayTitle": "Jobstudent Zomer: schoonmaak",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een student en op zoek naar een boeiende\nstudentenjob? Het GO! zoekt een student schoonmaak.<br>In deze\njob ben je&nbsp;medeverantwoordelijk voor het schoon en hygiënisch\nhouden van kantoren, toiletten, kitchenettes, opslagruimten en andere gemeenschappelijke\nruimtes.<br>Je staat\nin voor het stofzuigen&nbsp;en dweilen van&nbsp;vloeren,<br>Je maakt\ntafels, stoelen en kasten schoon en vult sanitaire voorzieningen aan.<br>Daarnaast\nzorg je&nbsp;voor het legen van vuilnisbakken en het verwijderen\nvan stof en vuil op oppervlakken.<br>Soms\nvoer je ook extra taken uit, zoals zetels en stoelen reinigen, kasten\nuitwassen, etc…",
+        "htmlEncoded": "Ben jij een student en op zoek naar een boeiende\nstudentenjob? Het GO! zoekt een student schoonmaak.<br>In deze\njob ben je&nbsp;medeverantwoordelijk voor het schoon en hygiënisch\nhouden van kantoren, toiletten, kitchenettes, opslagruimten en andere gemeenschappelijke\nruimtes.<br>Je staat\nin voor het stofzuigen&nbsp;en dweilen van&nbsp;vloeren,<br>Je maakt\ntafels, stoelen en kasten schoon en vult sanitaire voorzieningen aan.<br>Daarnaast\nzorg je&nbsp;voor het legen van vuilnisbakken en het verwijderen\nvan stof en vuil op oppervlakken.<br>Soms\nvoer je ook extra taken uit, zoals zetels en stoelen reinigen, kasten\nuitwassen, etc…"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18022",
       "internal": false,
       "validThroughDate": "1749081600",
@@ -6463,7 +6565,7 @@
     {
       "link": "/Job/cornerstone-17720",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1747526400",
       "hiringOrganization": "agentschap Digitaal Vlaanderen",
       "reservedForDisability": false,
       "openPositions": 1,
