@@ -1,11 +1,46 @@
 {
-  "totalItems": 196,
+  "totalItems": 197,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 195,
+  "lastItemOfPage": 196,
   "items": [
+    {
+      "link": "/Job/vdab-71078059",
+      "internal": false,
+      "validThroughDate": "1749600000",
+      "hiringOrganization": "MUNTPUNT",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71078059",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectmedewerker De Grid (BIS-stage)"
+      },
+      "displayTitle": "Projectmedewerker De Grid (BIS-stage)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je vijf maanden lang meedraaien in een creatieve omgeving waar jonge makers, ideeën en events samenkomen? Heb je zin om je organisatorisch talent in te zetten in hartje Brussel, bij een team dat bruist van de plannen? Dan is deze stageplek bij De Grid misschien wel iets voor jou.</p> \n<p><strong><span>Over De Grid</span></strong></p> \n<p>De Grid is de creatieve doe- en maakplek op de vijfde verdieping van Muntpunt. Jongvolwassenen vinden er een medialab, atelier, studio en co-werkplekken, maar vooral: ruimte om ideeën vorm te geven, elkaar te inspireren en samen te werken. Naast de fysieke plek organiseren we trajecten, workshops en events waarbij jonge makers zelf het voortouw nemen.</p> \n<p>Als stagiair bouw je 5 maanden \n<span><span>mee aan een inspirerend programma voor young creatives</span></span>. \n<br><strong><span>Stageperiode: 14 juli tot en met 12 december 2025 </span></strong></p> \n<p><strong><span>Jouw opdracht</span></strong></p> \n<p><span><span>· </span></span>Je ondersteunt de community builder bij de communicatie: van posts op sociale media tot het verspreiden van gigs, guidance sessies en gatherings.</p> \n<p><span><span>· </span></span>Je verzorgt de opvolging van nieuwe membership-aanvragen en plant intakegesprekken in.</p> \n<p><span><span>· </span></span>Je houdt mee de agenda in de gaten en zorgt dat iedereen op de hoogte is van wat er gepland staat.</p> \n<p><span><span>· </span></span>Je verzorgt de pre- en postproductie van events in de Grid en helpt members bij de praktische uitwerking van hun project.</p> \n<p><span><span>· </span></span>Je bent aanwezig tijdens events, houdt het overzicht, lost problemen op en zorgt zo mee voor een vlot verloop.</p> \n<p><span><span>· </span></span>Je neemt de administratieve opvolging van events op.</p>",
+        "htmlEncoded": "<p>Wil je vijf maanden lang meedraaien in een creatieve omgeving waar jonge makers, ideeën en events samenkomen? Heb je zin om je organisatorisch talent in te zetten in hartje Brussel, bij een team dat bruist van de plannen? Dan is deze stageplek bij De Grid misschien wel iets voor jou.</p> \n<p><strong><span>Over De Grid</span></strong></p> \n<p>De Grid is de creatieve doe- en maakplek op de vijfde verdieping van Muntpunt. Jongvolwassenen vinden er een medialab, atelier, studio en co-werkplekken, maar vooral: ruimte om ideeën vorm te geven, elkaar te inspireren en samen te werken. Naast de fysieke plek organiseren we trajecten, workshops en events waarbij jonge makers zelf het voortouw nemen.</p> \n<p>Als stagiair bouw je 5 maanden \n<span><span>mee aan een inspirerend programma voor young creatives</span></span>. \n<br><strong><span>Stageperiode: 14 juli tot en met 12 december 2025 </span></strong></p> \n<p><strong><span>Jouw opdracht</span></strong></p> \n<p><span><span>· </span></span>Je ondersteunt de community builder bij de communicatie: van posts op sociale media tot het verspreiden van gigs, guidance sessies en gatherings.</p> \n<p><span><span>· </span></span>Je verzorgt de opvolging van nieuwe membership-aanvragen en plant intakegesprekken in.</p> \n<p><span><span>· </span></span>Je houdt mee de agenda in de gaten en zorgt dat iedereen op de hoogte is van wat er gepland staat.</p> \n<p><span><span>· </span></span>Je verzorgt de pre- en postproductie van events in de Grid en helpt members bij de praktische uitwerking van hun project.</p> \n<p><span><span>· </span></span>Je bent aanwezig tijdens events, houdt het overzicht, lost problemen op en zorgt zo mee voor een vlot verloop.</p> \n<p><span><span>· </span></span>Je neemt de administratieve opvolging van events op.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71073642",
       "internal": false,
