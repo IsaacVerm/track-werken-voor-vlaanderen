@@ -1,10 +1,10 @@
 {
-  "totalItems": 201,
+  "totalItems": 202,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 200,
+  "lastItemOfPage": 201,
   "items": [
     {
       "link": "/Job/vdab-71082417",
@@ -5649,6 +5649,41 @@
         {
           "address": {
             "city": "Hofstade"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18127",
+      "internal": false,
+      "validThroughDate": "1748995200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18127",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "teamleider I&T"
+      },
+      "displayTitle": "teamleider I&T",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Neem jij graag verantwoordelijkheid op en wil je\nmet jouw passie voor IT mensen op de werkvloer aansturen en ondersteunen??</p><p>Als teamleider On Site Support binnen de afdeling\nOperations sta jij mee in voor de vlotte digitale werking van VDAB. Je leidt\neen team van een 12-tal medewerkers die verspreid zitten over verschillende\nVDAB-locaties in Vlaanderen. Samen zorgen jullie voor directe ondersteuning aan\neindgebruikers, zowel bij dagdagelijkse IT-vragen als bij grotere projecten\nzoals voor de uitrol van laptops of smartphones. Je speelt een belangrijke rol\nin de implementatie van nieuwe technologieën, zoals Microsoft Intune voor eindpuntbeheer,\nen werkt nauw samen met de collega’s van Facility bij infrastructuurproblemen. Je bent een verbindende schakel tussen je team en\nde bredere organisatie: je overlegt wekelijks met andere teamleiders I&amp;T en\nje manager in Brussel, en organiseert regelmatig teamoverleg met de medewerkers\nOn Site Support om af te stemmen.</p><p>Een greep uit het gevarieerde takenpakket:</p><ul><li>Je\n     stuurt, coacht en ondersteunt jouw team On Site Support, verspreid over\n     Vlaanderen.</li><li>Je\n     ondersteunt het team waar nodig door af en toe op locatie aanwezig te\n     zijn.</li><li>Je\n     zorgt voor een efficiënte planning en opvolging van lokale\n     IT-ondersteuning.</li><li>Je\n     werkt actief mee aan projecten zoals de uitrol van laptops, smartphones en\n     andere IT-middelen.</li><li>Je\n     draagt bij aan de implementatie en het beheer van eindgebruikersapparatuur\n     via Microsoft Intune.</li><li>Je\n     werkt samen en overlegt met interne partners, zoals Facility, bij netwerk-\n     of infrastructuurproblemen.</li></ul><p>Je hoeft geen expert te zijn in elk IT-domein,\nmaar een stevige technische basiskennis is wel cruciaal om je team gericht te\nkunnen ondersteunen en de juiste beslissingen te nemen.</p><p>Sta jij te popelen om je schouders te zetten onder\neen team én technische uitdagingen aan te pakken met een oplossingsgerichte\nmindset? Ben jij enthousiast over het afwisselende karakter van de functie,\nwaarbij je zowel strategisch als hands-on je team en IT-projecten naar een\nhoger niveau tilt?</p><p>Lees dan meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Neem jij graag verantwoordelijkheid op en wil je\nmet jouw passie voor IT mensen op de werkvloer aansturen en ondersteunen??</p><p>Als teamleider On Site Support binnen de afdeling\nOperations sta jij mee in voor de vlotte digitale werking van VDAB. Je leidt\neen team van een 12-tal medewerkers die verspreid zitten over verschillende\nVDAB-locaties in Vlaanderen. Samen zorgen jullie voor directe ondersteuning aan\neindgebruikers, zowel bij dagdagelijkse IT-vragen als bij grotere projecten\nzoals voor de uitrol van laptops of smartphones. Je speelt een belangrijke rol\nin de implementatie van nieuwe technologieën, zoals Microsoft Intune voor eindpuntbeheer,\nen werkt nauw samen met de collega’s van Facility bij infrastructuurproblemen. Je bent een verbindende schakel tussen je team en\nde bredere organisatie: je overlegt wekelijks met andere teamleiders I&amp;T en\nje manager in Brussel, en organiseert regelmatig teamoverleg met de medewerkers\nOn Site Support om af te stemmen.</p><p>Een greep uit het gevarieerde takenpakket:</p><ul><li>Je\n     stuurt, coacht en ondersteunt jouw team On Site Support, verspreid over\n     Vlaanderen.</li><li>Je\n     ondersteunt het team waar nodig door af en toe op locatie aanwezig te\n     zijn.</li><li>Je\n     zorgt voor een efficiënte planning en opvolging van lokale\n     IT-ondersteuning.</li><li>Je\n     werkt actief mee aan projecten zoals de uitrol van laptops, smartphones en\n     andere IT-middelen.</li><li>Je\n     draagt bij aan de implementatie en het beheer van eindgebruikersapparatuur\n     via Microsoft Intune.</li><li>Je\n     werkt samen en overlegt met interne partners, zoals Facility, bij netwerk-\n     of infrastructuurproblemen.</li></ul><p>Je hoeft geen expert te zijn in elk IT-domein,\nmaar een stevige technische basiskennis is wel cruciaal om je team gericht te\nkunnen ondersteunen en de juiste beslissingen te nemen.</p><p>Sta jij te popelen om je schouders te zetten onder\neen team én technische uitdagingen aan te pakken met een oplossingsgerichte\nmindset? Ben jij enthousiast over het afwisselende karakter van de functie,\nwaarbij je zowel strategisch als hands-on je team en IT-projecten naar een\nhoger niveau tilt?</p><p>Lees dan meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
