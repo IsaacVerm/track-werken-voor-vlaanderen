@@ -1,10 +1,10 @@
 {
-  "totalItems": 202,
+  "totalItems": 201,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 201,
+  "lastItemOfPage": 200,
   "items": [
     {
       "link": "/Job/vdab-71082417",
@@ -632,41 +632,6 @@
         {
           "address": {
             "city": "Wemmel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70967993",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70967993",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Change Manager (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Change Manager (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De functie van change manager omvat de volgende zaken :</span></p> \n<p><span> </span></p> \n<p><span>Change management: helpen om de werking van het data office beter te verankeren binnen VDAB..</span></p> \n<p><span> </span></p> \n<p><span>Projectbegeleiding: \"SCRUM master\". Werkzaamheden helpen prioriteren en ordenen. Communicatie binnen en buiten het team helpen vormgeven. Trainings helpen vormgeven en op de juiste kanalen plaatsen. </span></p> \n<p><span> </span></p> \n<p><span>Typische projecten zijn : Data governance – metadatamanagement (data catalogus) – datakwaliteit/referentie en master datamanagement – data legal compliance.</span></p>",
-        "htmlEncoded": "<p><span>De functie van change manager omvat de volgende zaken :</span></p> \n<p><span> </span></p> \n<p><span>Change management: helpen om de werking van het data office beter te verankeren binnen VDAB..</span></p> \n<p><span> </span></p> \n<p><span>Projectbegeleiding: \"SCRUM master\". Werkzaamheden helpen prioriteren en ordenen. Communicatie binnen en buiten het team helpen vormgeven. Trainings helpen vormgeven en op de juiste kanalen plaatsen. </span></p> \n<p><span> </span></p> \n<p><span>Typische projecten zijn : Data governance – metadatamanagement (data catalogus) – datakwaliteit/referentie en master datamanagement – data legal compliance.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4128,6 +4093,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18515",
+      "internal": false,
+      "validThroughDate": "1749168000",
+      "hiringOrganization": "Departement Onderwijs en Vorming",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18515",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundige"
+      },
+      "displayTitle": "Deskundige",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het departement Onderwijs legt een werfreserve aan voor de functie van deskundige. Je komt terecht in een beleidsvoorbereidende organisatie waar jij volgens jouw expertise mee kan bouwen aan het onderwijsbeleid.<br><br>Concreet wordt er een werfreserve voor deskundigen binnen het departement Onderwijs en Vorming aangelegd (t.e.m. selectieronde 2 – zie verder onder de titel ‘Selectieprocedure’).<br><br>Deze werfreserve kan worden aangesproken voor o.a. volgende functies:</p><ul><li>Dossierbehandelaars</li><li>Projectmedewerkers ESF- en Erasmusprojecten</li><li>Redacteurs en communicatiefuncties</li><li>Allround medewerkers administratieve ondersteuning</li><li>…</li></ul>",
+        "htmlEncoded": "<p>Het departement Onderwijs legt een werfreserve aan voor de functie van deskundige. Je komt terecht in een beleidsvoorbereidende organisatie waar jij volgens jouw expertise mee kan bouwen aan het onderwijsbeleid.<br><br>Concreet wordt er een werfreserve voor deskundigen binnen het departement Onderwijs en Vorming aangelegd (t.e.m. selectieronde 2 – zie verder onder de titel ‘Selectieprocedure’).<br><br>Deze werfreserve kan worden aangesproken voor o.a. volgende functies:</p><ul><li>Dossierbehandelaars</li><li>Projectmedewerkers ESF- en Erasmusprojecten</li><li>Redacteurs en communicatiefuncties</li><li>Allround medewerkers administratieve ondersteuning</li><li>…</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18514",
+      "internal": false,
+      "validThroughDate": "1749168000",
+      "hiringOrganization": "Departement Onderwijs en Vorming",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18514",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adjunct van de directeur"
+      },
+      "displayTitle": "Adjunct van de directeur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als adjunct van de directeur word je binnen de organisatie ingezet om mee te werken aan de beleidsvoering van de minister van Onderwijs. Je zal in hoofdzaak beleidsuitvoerend werk verrichten in uitvoering van de beleidsnota Onderwijs.<br><br>Het departement is steeds op zoek naar kandidaten die kunnen ingezet worden voor de opvolging van verschillende beleidsdossiers. Het kan gaan over de opvolging van dossiers binnen het thema leerplichtonderwijs (dossier zomerscholen, educaties, financiële opvolging van subsidiedossiers, werking CLB enz.), maar ook binnen het domein van levenslang leren als het gaat om de opvolging van bijvoorbeeld ESR-projecten zoals duaal leren, opvolging van Erasmusprojecten, of opvolging van ICT- beleidsdossiers, opvolging van communicatiecampagnes, redactiewerk enz.<br><br>Concreet wordt er een werfreserve voor adjunct van de directeur binnen het departement Onderwijs en Vorming aangelegd (t.e.m. selectieronde 2 – zie verder onder de titel ‘Selectieprocedure)). Deze werfreserve kan worden aangesproken voor o.a. volgende functies:</p><ul><li>Beleidsmedewerkers</li><li>Organisatieondersteuners</li><li>Redacteurs en communicatiespecialisten</li><li>…</li></ul>",
+        "htmlEncoded": "<p>Als adjunct van de directeur word je binnen de organisatie ingezet om mee te werken aan de beleidsvoering van de minister van Onderwijs. Je zal in hoofdzaak beleidsuitvoerend werk verrichten in uitvoering van de beleidsnota Onderwijs.<br><br>Het departement is steeds op zoek naar kandidaten die kunnen ingezet worden voor de opvolging van verschillende beleidsdossiers. Het kan gaan over de opvolging van dossiers binnen het thema leerplichtonderwijs (dossier zomerscholen, educaties, financiële opvolging van subsidiedossiers, werking CLB enz.), maar ook binnen het domein van levenslang leren als het gaat om de opvolging van bijvoorbeeld ESR-projecten zoals duaal leren, opvolging van Erasmusprojecten, of opvolging van ICT- beleidsdossiers, opvolging van communicatiecampagnes, redactiewerk enz.<br><br>Concreet wordt er een werfreserve voor adjunct van de directeur binnen het departement Onderwijs en Vorming aangelegd (t.e.m. selectieronde 2 – zie verder onder de titel ‘Selectieprocedure)). Deze werfreserve kan worden aangesproken voor o.a. volgende functies:</p><ul><li>Beleidsmedewerkers</li><li>Organisatieondersteuners</li><li>Redacteurs en communicatiespecialisten</li><li>…</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18502",
       "internal": false,
       "validThroughDate": "1747785600",
@@ -4504,10 +4539,10 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18408",
+      "link": "/Job/cornerstone-18404",
       "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Opgroeien regie",
+      "validThroughDate": "1749168000",
+      "hiringOrganization": "Agentschap voor Natuur en Bos",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
@@ -4515,25 +4550,25 @@
         "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18408",
+      "identifier": "cornerstone-18404",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "HR account"
+        "htmlEncoded": "Celhoofd gebiedsprioriteiten"
       },
-      "displayTitle": "HR account",
+      "displayTitle": "Celhoofd gebiedsprioriteiten",
       "isProtected": false,
       "description": {
-        "raw": "<div>Het Agentschap Opgroeien is op zoek naar een collega om het team HR accounts te versterken. Ben jij gebeten door HR met een heel sterke focus op klantgerichtheid en ben je bereid om samen met de teams te bouwen aan een succesvol personeelsbeleid? Ben jij klaar om jouw HR expertise in te zetten binnen een dynamisch agentschap waar jouw ondersteuning een belangrijke meerwaarde kan hebben voor het management en voor de medewerkers? Werk jij graag in teamverband, maar ook met een zekere graad van autonomie? Dan ben jij misschien wel de collega die wij zoeken!<br><br>Als HR account vertaal je de HR kaders en -processen naar de afdelingen en teams toe (zowel werknemers als leidinggevenden) en capteer je de signalen waarmee je het personeelsbeleid verder vorm kan geven.<br><br>Met andere woorden, jij zorgt ervoor dat het HR-beleid aansluit bij de businessbehoeften en de groei van de organisatie:<br>- Je bent het eerste aanspreekpunt voor medewerkers en leidinggevenden<br>- Je onderhoudt voeling met de inhoudelijke werking van de afdelingen/teams<br>- Je bouwt een partnerschap uit met de teams en de afdelingen<br>- Je geeft input aan beleid en je bent als stakeholder betrokken bij beleidsvorming<br>- Je bouwt netwerken en kennis uit op vlak van HR</div><br>",
-        "htmlEncoded": "<div>Het Agentschap Opgroeien is op zoek naar een collega om het team HR accounts te versterken. Ben jij gebeten door HR met een heel sterke focus op klantgerichtheid en ben je bereid om samen met de teams te bouwen aan een succesvol personeelsbeleid? Ben jij klaar om jouw HR expertise in te zetten binnen een dynamisch agentschap waar jouw ondersteuning een belangrijke meerwaarde kan hebben voor het management en voor de medewerkers? Werk jij graag in teamverband, maar ook met een zekere graad van autonomie? Dan ben jij misschien wel de collega die wij zoeken!<br><br>Als HR account vertaal je de HR kaders en -processen naar de afdelingen en teams toe (zowel werknemers als leidinggevenden) en capteer je de signalen waarmee je het personeelsbeleid verder vorm kan geven.<br><br>Met andere woorden, jij zorgt ervoor dat het HR-beleid aansluit bij de businessbehoeften en de groei van de organisatie:<br>- Je bent het eerste aanspreekpunt voor medewerkers en leidinggevenden<br>- Je onderhoudt voeling met de inhoudelijke werking van de afdelingen/teams<br>- Je bouwt een partnerschap uit met de teams en de afdelingen<br>- Je geeft input aan beleid en je bent als stakeholder betrokken bij beleidsvorming<br>- Je bouwt netwerken en kennis uit op vlak van HR</div><br>"
+        "raw": "<div>Ben jij een geboren leider met een passie voor natuur en ecologie? Wil jij een sleutelrol spelen in het strategisch sturen van gebiedsprioriteiten en bijdragen aan een duurzaam natuurbeleid in Vlaanderen? Dan is deze functie bij het Agentschap Natuur en Bos iets voor jou!<br><br><strong>Wat ga je doen?</strong></div><div>Als celhoofd gebiedsprioriteiten ben je verantwoordelijk voor het aansturen van de cel en neem je deel aan de directieraad van Natuur en Bos. Je geeft strategische sturing aan de gebiedsprioriteiten. Je zorgt er zo voor dat de belangrijkste gebieden voorrang krijgen in ons beleid van inrichting en dat we deze opnemen in onze programma’s en projecten.</div><div>Je werkt volgens de kernwaarden van Natuur en Bos: open communicatie, vertrouwen, samenwerken en oog voor welzijn.<br><br><strong>Jouw verantwoordelijkheden</strong></div><ul><li>&nbsp;Je stuurt de cel gebiedsprioriteiten met 15 medewerkers op expert- en/of coördinatieniveau aan.</li><li>Je vertaalt beleidsdoelen en beleidsplannen met geografische focus naar concrete gebiedsgerichte prioriteiten en actieplannen.</li><li>Je stelt een rollend meerjarenprogramma op voor de inrichting van natuur op het terrein volgens de uitgestippelde beleidslijnen.</li><li>Je zet instrumenten voor inrichting en subsidiëring doelmatig in.</li><li>Je faciliteert de samenwerking met de afdelingen inrichting en terreinbeheer.</li><li>Je rapporteert aan de Administrateur-generaal.</li></ul><div><strong>Wat breng je mee?</strong></div><ul><li>&nbsp;Leiderschapskwaliteiten en ervaring in het aansturen van teams.</li><li>Sterke communicatieve vaardigheden en het vermogen om vertrouwen en samenwerking te bevorderen.</li><li>Kennis van ecologie en natuurbeheer.</li><li>Het vermogen om strategische beslissingen te nemen en deze te onderbouwen.</li><li>Een duidelijke visie en de capaciteit om knopen door te hakken.</li></ul><div><strong>Wat bieden wij?</strong></div><ul><li>&nbsp;Een uitdagende en veelzijdige functie binnen een dynamische organisatie.</li><li>De kans om een directe impact te hebben op de natuur in Vlaanderen.</li><li>Samenwerking met een team van experts en coördinatoren.</li><li>Een werkomgeving waarin welzijn en samenwerking centraal staan.</li></ul><div>Ben jij klaar om mee aan het stuur te zitten van wat verwezenlijkt kan worden in de natuurgebieden van Vlaanderen? Solliciteer dan nu en maak deel uit van ons gepassioneerde team bij Agentschap Natuur en Bos!<br><br>We kijken uit naar je sollicitatie!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Ben jij een geboren leider met een passie voor natuur en ecologie? Wil jij een sleutelrol spelen in het strategisch sturen van gebiedsprioriteiten en bijdragen aan een duurzaam natuurbeleid in Vlaanderen? Dan is deze functie bij het Agentschap Natuur en Bos iets voor jou!<br><br><strong>Wat ga je doen?</strong></div><div>Als celhoofd gebiedsprioriteiten ben je verantwoordelijk voor het aansturen van de cel en neem je deel aan de directieraad van Natuur en Bos. Je geeft strategische sturing aan de gebiedsprioriteiten. Je zorgt er zo voor dat de belangrijkste gebieden voorrang krijgen in ons beleid van inrichting en dat we deze opnemen in onze programma’s en projecten.</div><div>Je werkt volgens de kernwaarden van Natuur en Bos: open communicatie, vertrouwen, samenwerken en oog voor welzijn.<br><br><strong>Jouw verantwoordelijkheden</strong></div><ul><li>&nbsp;Je stuurt de cel gebiedsprioriteiten met 15 medewerkers op expert- en/of coördinatieniveau aan.</li><li>Je vertaalt beleidsdoelen en beleidsplannen met geografische focus naar concrete gebiedsgerichte prioriteiten en actieplannen.</li><li>Je stelt een rollend meerjarenprogramma op voor de inrichting van natuur op het terrein volgens de uitgestippelde beleidslijnen.</li><li>Je zet instrumenten voor inrichting en subsidiëring doelmatig in.</li><li>Je faciliteert de samenwerking met de afdelingen inrichting en terreinbeheer.</li><li>Je rapporteert aan de Administrateur-generaal.</li></ul><div><strong>Wat breng je mee?</strong></div><ul><li>&nbsp;Leiderschapskwaliteiten en ervaring in het aansturen van teams.</li><li>Sterke communicatieve vaardigheden en het vermogen om vertrouwen en samenwerking te bevorderen.</li><li>Kennis van ecologie en natuurbeheer.</li><li>Het vermogen om strategische beslissingen te nemen en deze te onderbouwen.</li><li>Een duidelijke visie en de capaciteit om knopen door te hakken.</li></ul><div><strong>Wat bieden wij?</strong></div><ul><li>&nbsp;Een uitdagende en veelzijdige functie binnen een dynamische organisatie.</li><li>De kans om een directe impact te hebben op de natuur in Vlaanderen.</li><li>Samenwerking met een team van experts en coördinatoren.</li><li>Een werkomgeving waarin welzijn en samenwerking centraal staan.</li></ul><div>Ben jij klaar om mee aan het stuur te zitten van wat verwezenlijkt kan worden in de natuurgebieden van Vlaanderen? Solliciteer dan nu en maak deel uit van ons gepassioneerde team bij Agentschap Natuur en Bos!<br><br>We kijken uit naar je sollicitatie!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
       },
       "locations": [
         {
           "address": {
-            "city": "Sint-Gillis"
+            "city": "Brussel"
           }
         }
       ]
@@ -4916,76 +4951,6 @@
       "description": {
         "raw": "<p>Wil jij mee je schouders zetten onder onder meer <b>Regelrecht</b>, het project van de minister-president rond administratieve vereenvoudiging en het terugdringen van regeldruk binnen de Vlaamse overheid? Zoek je een rol waarin je strategisch mag meedenken én zelf impactvolle communicatie realiseert? Dan ben jij misschien de collega die we zoeken!</p> <p>Als <b>accountmanager communicatie</b> ben jij het eerste aanspreekpunt voor onze interne klanten. Je luistert actief, denkt strategisch mee en vertaalt communicatienoden naar concrete plannen en acties. Dankzij jouw redactionele vaardigheden kan je ook inhoudelijk ondersteunen bij het schrijven en herschrijven van teksten. Je ondersteunt onder meer bij <span>&nbsp;</span>het project <b>Regelrecht</b>. Je doet dit in nauwe samenwerking met het projectteam, maar met het team Communicatie en Marketing als jouw thuisbasis. Binnen dit project zet je in op duidelijke, consistente en verbindende communicatie over administratieve vereenvoudiging binnen de Vlaamse overheid.</p> <p>Je komt terecht in het team Communicatie en Marketing, een strategische partner binnen de Vlaamse overheid. Met drie kernpijlers accountmanagement, contentmanagement en merkbeleid, realiseren we als één team heldere en impactvolle communicatie, ter ondersteuning van beleidscommunicatie, corporate branding en bouwen we aan een sterk merk Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>",
         "htmlEncoded": "<p>Wil jij mee je schouders zetten onder onder meer <b>Regelrecht</b>, het project van de minister-president rond administratieve vereenvoudiging en het terugdringen van regeldruk binnen de Vlaamse overheid? Zoek je een rol waarin je strategisch mag meedenken én zelf impactvolle communicatie realiseert? Dan ben jij misschien de collega die we zoeken!</p> <p>Als <b>accountmanager communicatie</b> ben jij het eerste aanspreekpunt voor onze interne klanten. Je luistert actief, denkt strategisch mee en vertaalt communicatienoden naar concrete plannen en acties. Dankzij jouw redactionele vaardigheden kan je ook inhoudelijk ondersteunen bij het schrijven en herschrijven van teksten. Je ondersteunt onder meer bij <span>&nbsp;</span>het project <b>Regelrecht</b>. Je doet dit in nauwe samenwerking met het projectteam, maar met het team Communicatie en Marketing als jouw thuisbasis. Binnen dit project zet je in op duidelijke, consistente en verbindende communicatie over administratieve vereenvoudiging binnen de Vlaamse overheid.</p> <p>Je komt terecht in het team Communicatie en Marketing, een strategische partner binnen de Vlaamse overheid. Met drie kernpijlers accountmanagement, contentmanagement en merkbeleid, realiseren we als één team heldere en impactvolle communicatie, ter ondersteuning van beleidscommunicatie, corporate branding en bouwen we aan een sterk merk Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18298",
-      "internal": true,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18298",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Preventieadviseur arbeidsveiligheid"
-      },
-      "displayTitle": "Preventieadviseur arbeidsveiligheid",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span data-contrast=\"none\">Wil je jouw expertise inzetten in een brede, adviserende rol waarbij je bijdraagt aan een veilige en gezonde werkomgeving voor duizenden collega’s? Dan is deze functie als preventieadviseur arbeidsveiligheid iets voor jou.</span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Als </span><span data-contrast=\"none\">Preventieadviseur arbeidsveiligheid</span><span data-contrast=\"none\"> kan je ingezet worden binnen elke entiteit van de Vlaamse overheid. Dit wil zeggen dat je op de verschillende locaties van de Vlaamse overheid, verdeeld over Vlaanderen aan de slag kan gaan.&nbsp;Naast jouw expertise in het brede veld, ben je ook gespecialiseerd in één of meerdere thema’s.</span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Je&nbsp;begeleidt en adviseert klanten over een breed scala aan welzijnsvraagstukken, met een bijzondere focus op veiligheid. Je draagt bij aan het naleven van wetgeving en regelgeving. Je bent een cruciale schakel in het uitvoeren én opvolgen van actieplannen, begeleidings- en verbetertrajecten. Als aanspreekpunt voor vragen over arbeidsveiligheid bouw je vertrouwen op en versterk je de eerstelijnsaanspreekpunten. </span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Wat je o.a. gaat doen:<br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">- Onderzoeken van meldingen.<br></span><span data-contrast=\"none\">- Uitvoeren van risicoanalyses en werkplekinspecties.<br></span><span data-contrast=\"none\">- Adviezen verlenen over maatregelen.<br></span><span data-contrast=\"none\">- Evalueren van gedane acties en ondernomen stappen.&nbsp;<br><br></span><span>Interesse? Solliciteer nu en bouw mee aan een veilige werkplek voor alle collega’s binnen de Vlaamse overheid.</span></p>",
-        "htmlEncoded": "<p><span data-contrast=\"none\">Wil je jouw expertise inzetten in een brede, adviserende rol waarbij je bijdraagt aan een veilige en gezonde werkomgeving voor duizenden collega’s? Dan is deze functie als preventieadviseur arbeidsveiligheid iets voor jou.</span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Als </span><span data-contrast=\"none\">Preventieadviseur arbeidsveiligheid</span><span data-contrast=\"none\"> kan je ingezet worden binnen elke entiteit van de Vlaamse overheid. Dit wil zeggen dat je op de verschillende locaties van de Vlaamse overheid, verdeeld over Vlaanderen aan de slag kan gaan.&nbsp;Naast jouw expertise in het brede veld, ben je ook gespecialiseerd in één of meerdere thema’s.</span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Je&nbsp;begeleidt en adviseert klanten over een breed scala aan welzijnsvraagstukken, met een bijzondere focus op veiligheid. Je draagt bij aan het naleven van wetgeving en regelgeving. Je bent een cruciale schakel in het uitvoeren én opvolgen van actieplannen, begeleidings- en verbetertrajecten. Als aanspreekpunt voor vragen over arbeidsveiligheid bouw je vertrouwen op en versterk je de eerstelijnsaanspreekpunten. </span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">Wat je o.a. gaat doen:<br></span><span><span>&nbsp;</span><br></span><span data-contrast=\"none\">- Onderzoeken van meldingen.<br></span><span data-contrast=\"none\">- Uitvoeren van risicoanalyses en werkplekinspecties.<br></span><span data-contrast=\"none\">- Adviezen verlenen over maatregelen.<br></span><span data-contrast=\"none\">- Evalueren van gedane acties en ondernomen stappen.&nbsp;<br><br></span><span>Interesse? Solliciteer nu en bouw mee aan een veilige werkplek voor alle collega’s binnen de Vlaamse overheid.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18296",
-      "internal": true,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18296",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Account Preventieadviseur"
-      },
-      "displayTitle": "Account Preventieadviseur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span data-contrast=\"none\">Ben jij een gedreven professional met een passie voor veiligheid en preventie? Heb je een scherp oog voor het detecteren van behoeften en het bepalen van prioriteiten? Dan zijn wij op zoek naar jou!<br><br></span><span data-contrast=\"none\">Als </span><span data-contrast=\"none\">Account Preventieadviseur</span><span data-contrast=\"none\"> speel je een cruciale rol binnen onze organisatie. Je hebt een helicopterview en brengt verschillende mensen samen om het beleid van de organisatie te ondersteunen. In deze coördinerende functie detecteer je behoeften en stel je prioriteiten vast. Je staat interne klanten bij door het ontwikkelen en uitbouwen van specifieke dienstverlening, met als doel de organisatie en haar medewerkers zo optimaal en efficiënt mogelijk te laten functioneren en de organisatiedoelstellingen te bereiken.<br><br></span><span>Wat ga je doen?<br></span><span>-&nbsp;</span><span>Samenbrengen van diverse stakeholders binnen de organisatie en bij de interne klanten.<br></span><span data-contrast=\"none\">- Coördineren van activiteiten en projecten op het gebied van veiligheid en preventie.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\"><br></span><span data-contrast=\"none\">- Detecteren van behoeften en vaststellen van prioriteiten.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\"><br></span><span>- Ontwikkelen en uitbouwen van specifieke dienstverlening voor interne klanten.<br><br></span><span>Wie zijn onze interne klanten?&nbsp;Je kan ingezet worden binnen elke entiteit van de Vlaamse overheid. Dit wil zeggen dat je op de verschillende locaties van de Vlaamse overheid verdeeld over Vlaanderen aan de slag kan gaan.</span></p><p><span>&nbsp;</span><span>Ben jij de Account Preventieadviseur die wij zoeken? Solliciteer dan nu en draag bij aan een veilige en efficiënte werkomgeving voor de hele Vlaamse overheid en haar verbonden organisaties!</span></p><p><span data-contrast=\"none\">Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>",
-        "htmlEncoded": "<p><span data-contrast=\"none\">Ben jij een gedreven professional met een passie voor veiligheid en preventie? Heb je een scherp oog voor het detecteren van behoeften en het bepalen van prioriteiten? Dan zijn wij op zoek naar jou!<br><br></span><span data-contrast=\"none\">Als </span><span data-contrast=\"none\">Account Preventieadviseur</span><span data-contrast=\"none\"> speel je een cruciale rol binnen onze organisatie. Je hebt een helicopterview en brengt verschillende mensen samen om het beleid van de organisatie te ondersteunen. In deze coördinerende functie detecteer je behoeften en stel je prioriteiten vast. Je staat interne klanten bij door het ontwikkelen en uitbouwen van specifieke dienstverlening, met als doel de organisatie en haar medewerkers zo optimaal en efficiënt mogelijk te laten functioneren en de organisatiedoelstellingen te bereiken.<br><br></span><span>Wat ga je doen?<br></span><span>-&nbsp;</span><span>Samenbrengen van diverse stakeholders binnen de organisatie en bij de interne klanten.<br></span><span data-contrast=\"none\">- Coördineren van activiteiten en projecten op het gebied van veiligheid en preventie.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\"><br></span><span data-contrast=\"none\">- Detecteren van behoeften en vaststellen van prioriteiten.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\"><br></span><span>- Ontwikkelen en uitbouwen van specifieke dienstverlening voor interne klanten.<br><br></span><span>Wie zijn onze interne klanten?&nbsp;Je kan ingezet worden binnen elke entiteit van de Vlaamse overheid. Dit wil zeggen dat je op de verschillende locaties van de Vlaamse overheid verdeeld over Vlaanderen aan de slag kan gaan.</span></p><p><span>&nbsp;</span><span>Ben jij de Account Preventieadviseur die wij zoeken? Solliciteer dan nu en draag bij aan een veilige en efficiënte werkomgeving voor de hele Vlaamse overheid en haar verbonden organisaties!</span></p><p><span data-contrast=\"none\">Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span><span data-ccp-props=\"{}\">&nbsp;</span></p>"
       },
       "locations": [
         {
@@ -5549,6 +5514,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18221",
+      "internal": true,
+      "validThroughDate": "1749168000",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18221",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar"
+      },
+      "displayTitle": "Dossierbehandelaar",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij gebeten door digitale platformen en hou je ervan om zowel technisch als commercieel het verschil te maken? Dan ben jij misschien de spilfiguur die we zoeken voor het beheer en de verdere ontwikkeling van het PlusPas-platform!<br><br>Jouw hoofdtaak? Zorgen dat het platform steeds vlot werkt én inhoudelijk sterk staat. Je staat in voor de opvolging, updates en optimalisaties van de app en website, en je onderhoudt dagelijks het contact met aanbieders. Je zorgt ervoor dat er altijd voldoende bonnen en voordelen klaarstaan, onderhandelt nieuwe deals en bouwt het aanbod strategisch uit met aantrekkelijke, kwalitatieve partners.<br><br>Daarbij hou je de vinger aan de pols bij gebruikers, volg je data- en cybersecurity op en werk je nauw samen met onze IT-partner voor het uitrollen van nieuwe functionaliteiten. Of het nu gaat om saldo-beheer, digitale portefeuilles of gerichte communicatiecampagnes: jij houdt het overzicht en zorgt voor een performante, klantgerichte gebruikerservaring.<br><br>Ook het financieel beheer van het rollend fonds behoort tot jouw verantwoordelijkheden. Je waakt erover dat het budget efficiënt wordt ingezet en zorgt zo mee voor de continuïteit van het aanbod op het platform.<br><br>Met jouw drive en inzicht zorg je ervoor dat PlusPas blijft groeien en vooroploopt als voordeelplatform voor duizenden gebruikers.<br><br>",
+        "htmlEncoded": "Ben jij gebeten door digitale platformen en hou je ervan om zowel technisch als commercieel het verschil te maken? Dan ben jij misschien de spilfiguur die we zoeken voor het beheer en de verdere ontwikkeling van het PlusPas-platform!<br><br>Jouw hoofdtaak? Zorgen dat het platform steeds vlot werkt én inhoudelijk sterk staat. Je staat in voor de opvolging, updates en optimalisaties van de app en website, en je onderhoudt dagelijks het contact met aanbieders. Je zorgt ervoor dat er altijd voldoende bonnen en voordelen klaarstaan, onderhandelt nieuwe deals en bouwt het aanbod strategisch uit met aantrekkelijke, kwalitatieve partners.<br><br>Daarbij hou je de vinger aan de pols bij gebruikers, volg je data- en cybersecurity op en werk je nauw samen met onze IT-partner voor het uitrollen van nieuwe functionaliteiten. Of het nu gaat om saldo-beheer, digitale portefeuilles of gerichte communicatiecampagnes: jij houdt het overzicht en zorgt voor een performante, klantgerichte gebruikerservaring.<br><br>Ook het financieel beheer van het rollend fonds behoort tot jouw verantwoordelijkheden. Je waakt erover dat het budget efficiënt wordt ingezet en zorgt zo mee voor de continuïteit van het aanbod op het platform.<br><br>Met jouw drive en inzicht zorg je ervoor dat PlusPas blijft groeien en vooroploopt als voordeelplatform voor duizenden gebruikers.<br><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18219",
       "internal": true,
       "validThroughDate": "1748649600",
@@ -6065,41 +6062,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18014",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18014",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectleider collectie bij MASEREEL"
-      },
-      "displayTitle": "Projectleider collectie bij MASEREEL",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je op zoek naar een deeltijdse job waarin je jouw interesse in het <strong>beheren van kunstcollecties</strong> en je organisatorisch talent kwijt kan? Ben je iemand die zorgvuldig te werk gaat maar ook goed het overzicht kan behouden? Dan ben jij misschien de collega die wij zoeken!<br><br>Kunstencentrum MASEREEL in Kasterlee zoekt een <strong>hands-on projectleider</strong> om de inventarisatie van haar uitgebreide collectie (voornamelijk print-gerelateerd) in goede banen te leiden én mee uit te voeren. Je zorgt niet alleen voor een correcte registratie en digitalisering van de collectie, maar begeleidt ook een klein team bij deze opdracht. Je werkt gestructureerd, bent zorgvuldig en nauwgezet en draagt bij aan het toekomstgericht beheer van de collectiestukken, van historische werken tot nieuwe toevoegingen.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je organiseert en coördineert het inventariseren, registreren en digitaliseren van de collectie.</li><li>Je voert zelf registratietaken uit en controleert nauwkeurig metingen en gegevens.</li><li>Je stuurt een klein projectteam aan en zorgt voor een vlot verloop van de werkzaamheden.</li><li>Je onderhoudt heldere communicatie met collega’s en externe partners.</li><li>Je volgt, indien nodig, restauratiedossiers op of onderneemt acties rond behoud en beheer.</li></ul><p>MASEREEL (voorheen Frans Masereel Centrum) is een internationaal kunstencentrum voor hedendaagse beeldende kunst. Naast een kunstenaarsgericht artistiek programma heeft het een dynamische residentiewerking voor kunstenaars en critici, met een bijzondere focus op ‘printed matter at large’. Het kunstencentrum is niet alleen een plek voor creatie, maar ook een platform voor kennisuitwisseling, internationale samenwerking en reflectie.&nbsp;<br><br>Het team bestaat uit 11 medewerkers en is klaar om een extra collega te verwelkomen.&nbsp; Om een maximale samenwerking met de collega’s te bekomen, werk je bij voorkeur op de dagen maandag, dinsdag en woensdag. Maandag is een must, andere werkdagen zijn evt. bespreekbaar. We zoeken iemand die bij voorkeur kan starten begin september 2025.<br><br>Kan jij mensen motiveren en heb je tegelijk zin om zelf de handen uit de mouwen steken? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben je op zoek naar een deeltijdse job waarin je jouw interesse in het <strong>beheren van kunstcollecties</strong> en je organisatorisch talent kwijt kan? Ben je iemand die zorgvuldig te werk gaat maar ook goed het overzicht kan behouden? Dan ben jij misschien de collega die wij zoeken!<br><br>Kunstencentrum MASEREEL in Kasterlee zoekt een <strong>hands-on projectleider</strong> om de inventarisatie van haar uitgebreide collectie (voornamelijk print-gerelateerd) in goede banen te leiden én mee uit te voeren. Je zorgt niet alleen voor een correcte registratie en digitalisering van de collectie, maar begeleidt ook een klein team bij deze opdracht. Je werkt gestructureerd, bent zorgvuldig en nauwgezet en draagt bij aan het toekomstgericht beheer van de collectiestukken, van historische werken tot nieuwe toevoegingen.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je organiseert en coördineert het inventariseren, registreren en digitaliseren van de collectie.</li><li>Je voert zelf registratietaken uit en controleert nauwkeurig metingen en gegevens.</li><li>Je stuurt een klein projectteam aan en zorgt voor een vlot verloop van de werkzaamheden.</li><li>Je onderhoudt heldere communicatie met collega’s en externe partners.</li><li>Je volgt, indien nodig, restauratiedossiers op of onderneemt acties rond behoud en beheer.</li></ul><p>MASEREEL (voorheen Frans Masereel Centrum) is een internationaal kunstencentrum voor hedendaagse beeldende kunst. Naast een kunstenaarsgericht artistiek programma heeft het een dynamische residentiewerking voor kunstenaars en critici, met een bijzondere focus op ‘printed matter at large’. Het kunstencentrum is niet alleen een plek voor creatie, maar ook een platform voor kennisuitwisseling, internationale samenwerking en reflectie.&nbsp;<br><br>Het team bestaat uit 11 medewerkers en is klaar om een extra collega te verwelkomen.&nbsp; Om een maximale samenwerking met de collega’s te bekomen, werk je bij voorkeur op de dagen maandag, dinsdag en woensdag. Maandag is een must, andere werkdagen zijn evt. bespreekbaar. We zoeken iemand die bij voorkeur kan starten begin september 2025.<br><br>Kan jij mensen motiveren en heb je tegelijk zin om zelf de handen uit de mouwen steken? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Kasterlee"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-17999",
       "internal": false,
       "validThroughDate": "1748908800",
@@ -6290,7 +6252,7 @@
         "code": "A",
         "name": "Masterdiploma"
       },
-      "degreeEqualByExperience": true,
+      "degreeEqualByExperience": false,
       "identifier": "cornerstone-17881",
       "contentType": "Job",
       "collectionType": null,
@@ -6325,7 +6287,7 @@
         "code": "A",
         "name": "Masterdiploma"
       },
-      "degreeEqualByExperience": true,
+      "degreeEqualByExperience": false,
       "identifier": "cornerstone-17880",
       "contentType": "Job",
       "collectionType": null,
@@ -6360,7 +6322,7 @@
         "code": "A",
         "name": "Masterdiploma"
       },
-      "degreeEqualByExperience": true,
+      "degreeEqualByExperience": false,
       "identifier": "cornerstone-17879",
       "contentType": "Job",
       "collectionType": null,
