@@ -1,10 +1,10 @@
 {
-  "totalItems": 204,
+  "totalItems": 193,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 203,
+  "lastItemOfPage": 192,
   "items": [
     {
       "link": "/Job/vdab-71110161",
@@ -602,41 +602,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71000959",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71000959",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "zorgkundige"
-      },
-      "displayTitle": "zorgkundige",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Over ons</span></strong><span><br> Binnen onze \n<strong>divisie Ouderen</strong> bieden we gespecialiseerde zorg aan mensen van 60 jaar en ouder met een psychiatrische kwetsbaarheid. We streven naar een zo hoog mogelijke levenskwaliteit, met zorg op maat in een warme, respectvolle omgeving. Onze zorg is herstelgericht: we focussen op ieders sterktes, eigen regie en veerkracht. Patiënten én hun familie worden actief betrokken.</span></p> \n<p><span>We werken met multidisciplinaire teams, zodat elke patiënt kan rekenen op een brede, persoonlijke aanpak.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong><span><br> We hebben momenteel een vacature op de \n<strong>Behandeleenheid Ouderen</strong>.\n<br> Deze afdeling biedt langdurige zorg aan ouderen met complexe psychiatrische problemen. De behandeling is afgestemd op het individu, met aandacht voor vier belangrijke domeinen:</span></p> \n<ul type=\"disc\"> \n<li><span>Somatische zorg (lichamelijk welzijn)</span></li> \n<li><span>Psychologische ondersteuning</span></li> \n<li><span>Sociale verbinding</span></li> \n<li><span>Existentiële begeleiding (zingeving)</span></li> </ul> \n<p><span>We bieden een duidelijke structuur, maar geven ook ruimte aan eigen regie. We helpen patiënten omgaan met prikkels, stimuleren gezond gedrag en verminderen waar mogelijk ongezonde patronen — altijd met als doel: een betere levenskwaliteit.</span></p> \n<p><span>Je komt terecht in een enthousiast en warm team van betrokken collega’s.</span></p> \n<p><strong><span>Jouw rol</span></strong><span><br> Als zorgkundige bied je zorg en ondersteuning op maat. Je werkt nauw samen met de patiënten en het team.</span></p>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Over ons</span></strong><span><br> Binnen onze \n<strong>divisie Ouderen</strong> bieden we gespecialiseerde zorg aan mensen van 60 jaar en ouder met een psychiatrische kwetsbaarheid. We streven naar een zo hoog mogelijke levenskwaliteit, met zorg op maat in een warme, respectvolle omgeving. Onze zorg is herstelgericht: we focussen op ieders sterktes, eigen regie en veerkracht. Patiënten én hun familie worden actief betrokken.</span></p> \n<p><span>We werken met multidisciplinaire teams, zodat elke patiënt kan rekenen op een brede, persoonlijke aanpak.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong><span><br> We hebben momenteel een vacature op de \n<strong>Behandeleenheid Ouderen</strong>.\n<br> Deze afdeling biedt langdurige zorg aan ouderen met complexe psychiatrische problemen. De behandeling is afgestemd op het individu, met aandacht voor vier belangrijke domeinen:</span></p> \n<ul type=\"disc\"> \n<li><span>Somatische zorg (lichamelijk welzijn)</span></li> \n<li><span>Psychologische ondersteuning</span></li> \n<li><span>Sociale verbinding</span></li> \n<li><span>Existentiële begeleiding (zingeving)</span></li> </ul> \n<p><span>We bieden een duidelijke structuur, maar geven ook ruimte aan eigen regie. We helpen patiënten omgaan met prikkels, stimuleren gezond gedrag en verminderen waar mogelijk ongezonde patronen — altijd met als doel: een betere levenskwaliteit.</span></p> \n<p><span>Je komt terecht in een enthousiast en warm team van betrokken collega’s.</span></p> \n<p><strong><span>Jouw rol</span></strong><span><br> Als zorgkundige bied je zorg en ondersteuning op maat. Je werkt nauw samen met de patiënten en het team.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71000457",
       "internal": false,
       "validThroughDate": "1748131200",
@@ -1082,146 +1047,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Productpartner </strong>om het centraal team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als oplossingsgerichte brugfunctie tussen klant-partner \n<span><span><span><span>[</span></span></span></span>en onze productspecialisten meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? \n<strong> </strong></span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Product Partner </strong>kom je terecht in het Centraal Team van de afdeling Loketplatform. Het Centraal Team bundelt de transversale rollen – analisten, UX designers, projectleiders, architecten, service delivery team en product partners - binnen de afdeling. Per transversale rol stemmen we onze methodologie af en gebruiken we elkaar als klankbord. Zo garanderen we dat we elke vraag van een klant-partner zo holistisch mogelijk benaderen.</span></p> \n<p><span>Vanuit het Centraal Team word je toegewezen aan één of meerdere specifieke teams om samen aan een oplossing te werken :</span></p> \n<ul> \n<li><span>Digitale loketten omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht.</span></li> \n<li><span>Infoplatform is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden.</span></li> \n<li><span>Het centrale contactcenter is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></li> </ul> \n<p><span>We verwachten je minimaal 50% van de werktijd op kantoor. Je vaste werkplek is ons kantoor in \n<strong>Brussel.</strong></span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Productpartner </strong>om het centraal team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als oplossingsgerichte brugfunctie tussen klant-partner \n<span><span><span><span>[</span></span></span></span>en onze productspecialisten meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? \n<strong> </strong></span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Product Partner </strong>kom je terecht in het Centraal Team van de afdeling Loketplatform. Het Centraal Team bundelt de transversale rollen – analisten, UX designers, projectleiders, architecten, service delivery team en product partners - binnen de afdeling. Per transversale rol stemmen we onze methodologie af en gebruiken we elkaar als klankbord. Zo garanderen we dat we elke vraag van een klant-partner zo holistisch mogelijk benaderen.</span></p> \n<p><span>Vanuit het Centraal Team word je toegewezen aan één of meerdere specifieke teams om samen aan een oplossing te werken :</span></p> \n<ul> \n<li><span>Digitale loketten omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht.</span></li> \n<li><span>Infoplatform is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden.</span></li> \n<li><span>Het centrale contactcenter is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></li> </ul> \n<p><span>We verwachten je minimaal 50% van de werktijd op kantoor. Je vaste werkplek is ons kantoor in \n<strong>Brussel.</strong></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70934955",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70934955",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Educator - gedetacheerde lager onderwijs - De Vroente"
-      },
-      "displayTitle": "Educator - gedetacheerde lager onderwijs - De Vroente",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
-        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het lager onderwijs?</p> \n<p>Ben je een gedreven, communicatieve teamplayer met zin voor initiatief en wil je graag mee je schouders zetten onder de uitwerking van een innovatief natuur- en milieu-educatief aanbod en vormingsprogramma?</p> \n<p>Dan is onderstaande functie iets voor jou!</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie inbedden in de educatieve werking van De Vroente, Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als educator bouw je mee de inhoudelijke werking uit voor De Vroente, Duurzaam Educatiepunt rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een performant innovatief educatief aanbod samen te stellen, aan te bieden en te verspreiden voor diverse doelgroepen en zo bij te dragen tot de doelstellingen van het Departement Omgeving en de Vlaamse overheid.</p> \n<p>Je werkt mee aan het ontwikkelen van een innovatief educatief aanbod, je geeft vormingen &amp; workshops en neemt deel aan netwerkmomenten. Op deze manier zorg je dat De Vroente en de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen \n<span>.</span></p> \n<p>Je doet zelf niet aan eerstelijnseducatie naar leerlingen en burgers, tenzij in proeftuinfunctie.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Kalmthout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70934862",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70934862",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente"
-      },
-      "displayTitle": "Procesbegeleider educatie - gedetacheerde secundair onderwijs - De Vroente",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
-        "htmlEncoded": "<p>Ben je een vast benoemd leerkracht in het secundair onderwijs?</p> \n<p>Wil je via een detachering graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt van het Departement Omgeving van de Vlaamse overheid? </p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je zet (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt. Daarnaast bouw je de inhoudelijke werking voor De Vroente, Duurzaam Educatiepunt mee uit rond de centrale thema’s natuur, milieu, omgeving en duurzame ontwikkeling om zo een innovatief educatief aanbod te ontwikkelen, aan te bieden en te verspreiden. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere centra en aanbieders van educatie in Vlaanderen.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten! </p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Kalmthout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70934597",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70934597",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente"
-      },
-      "displayTitle": "Procesbegeleider educatie - gedetacheerde hoger onderwijs - De Vroente",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>",
-        "htmlEncoded": "<p>Wil je als procesbegeleider educatie graag het verschil maken om een duurzame samenleving mee vorm te geven?</p> \n<p>Wil je deel uitmaken van De Vroente, Duurzaam Educatiepunt eninnovatie en onderzoek structureel inbedden in de educatieve werking van de Centra Duurzaam Educatiepunt?</p> \n<p>Ben je docent of werknemer in het hoger onderwijs?</p> \n<p>Dan zijn wij naar jou op zoek!</p> \n<p>Als procesbegeleider educatie ben je verantwoordelijk voor het vertalen van internationale en onderzoekmatige inzichten in de werking en het aanbod van de Centra Duurzaam Educatiepunt. Je bent ook betrokken bij het uitwerken en opvolgen van het internationale en Vlaamse beleid op vlak van duurzaamheids-, natuur- en milieueducatie, maar zet ook (internationale) onderzoeksprojecten op in de Centra Duurzaam Educatiepunt zelf. Op deze manier zorg je dat de Centra Duurzaam Educatiepunt tooncentra zijn voor andere Vlaamse centra en aanbieders van educatie.</p> \n<p>Je werkt hierbij nauw samen met de collega’s van De Vroente, Duurzaam Educatiepunt en van de andere Centra Duurzaam Educatiepunt en met de collega’s van Duurzaam Educatiepunt in Brussel.</p> \n<p><span lang=\"NL\">De Vroente, Duurzaam Educatiepunt en bij uitbreiding de Centra Duurzaam Educatiepunt stimuleren en ondersteunen educatie en vorming rond milieu, natuur, omgeving en duurzame ontwikkeling. De Vroente en de Centra Duurzaam Educatiepunt ontwikkelen innoverende educatieve producten, vormingen en methodieken voor diverse doelgroepen.</span></p> \n<p>Je werkt binnen De Vroente en de Centra Duurzaam Educatiepunt in een tof team van gedreven ambtenaren en enthousiaste gedetacheerde leerkrachten!</p> \n<p>Lees hieronder meer over het gezochte profiel en de selectieprocedure.</p> \n<p><span>Interesse? Solliciteer dan nu</span> via vdab.be</p> \n<p> </p> \n<p> </p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Kalmthout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70915812",
-      "internal": false,
-      "validThroughDate": "1747612800",
-      "hiringOrganization": "Fonds voor wetenschappelijk Onderzoek - Vlaanderen",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70915812",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Adviseur financiering en begroting"
-      },
-      "displayTitle": "Adviseur financiering en begroting",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Fonds Wetenschappelijk Onderzoek – Vlaanderen (FWO) stimuleert en ondersteunt fundamenteel wetenschappelijk onderzoek, strategisch basisonderzoek, klinisch-wetenschappelijk onderzoek en (middel)zware onderzoeksinfrastructuur. Daarnaast faciliteert het de deelname aan internationale onderzoeksinfrastructuur en het beheer van grote rekenfaciliteiten in Vlaanderen. Met financiële middelen, voornamelijk afkomstig van de Vlaamse regering, subsidieert het FWO mandaten, onderzoeksprojecten, infrastructuur, reisbeurzen en (inter)nationale wetenschappelijke samenwerkingen. Momenteel is het FWO op zoek naar een (m/v/x): \n<strong>adviseur financiering en begroting.</strong></p> \n<p><strong>Jobinhoud</strong></p> \n<p>Je speelt een centrale rol in het financieel beleid van het FWO. Als adviseur financiering en begroting sta je in voor de opmaak, opvolging en optimalisatie van de begroting, en voor het beheer van de bijhorende financiële processen. Je zorgt er mee voor dat betalingen aan onderzoekers tijdig en correct verlopen en bewaakt de kwaliteit van de financiële rapportering. Je stelt procedures en richtlijnen op voor de controle van financiële verslagen en fungeert als aanspreekpunt voor zowel interne collega’s als externe partners.</p> \n<p>Daarnaast lever je actief input voor audits, werk je mee aan IT-ontwikkeling in functie van financieel beheer, en ondersteun je het management met advies rond begrotingstechnische vraagstukken. Je krijgt hierdoor een veelzijdige functie met impact en verantwoordelijkheid binnen het operationele hart van het FWO.</p> \n<p>Je wordt rechtstreeks aangestuurd door de directeur operationeel beheer.</p>",
-        "htmlEncoded": "<p>Het Fonds Wetenschappelijk Onderzoek – Vlaanderen (FWO) stimuleert en ondersteunt fundamenteel wetenschappelijk onderzoek, strategisch basisonderzoek, klinisch-wetenschappelijk onderzoek en (middel)zware onderzoeksinfrastructuur. Daarnaast faciliteert het de deelname aan internationale onderzoeksinfrastructuur en het beheer van grote rekenfaciliteiten in Vlaanderen. Met financiële middelen, voornamelijk afkomstig van de Vlaamse regering, subsidieert het FWO mandaten, onderzoeksprojecten, infrastructuur, reisbeurzen en (inter)nationale wetenschappelijke samenwerkingen. Momenteel is het FWO op zoek naar een (m/v/x): \n<strong>adviseur financiering en begroting.</strong></p> \n<p><strong>Jobinhoud</strong></p> \n<p>Je speelt een centrale rol in het financieel beleid van het FWO. Als adviseur financiering en begroting sta je in voor de opmaak, opvolging en optimalisatie van de begroting, en voor het beheer van de bijhorende financiële processen. Je zorgt er mee voor dat betalingen aan onderzoekers tijdig en correct verlopen en bewaakt de kwaliteit van de financiële rapportering. Je stelt procedures en richtlijnen op voor de controle van financiële verslagen en fungeert als aanspreekpunt voor zowel interne collega’s als externe partners.</p> \n<p>Daarnaast lever je actief input voor audits, werk je mee aan IT-ontwikkeling in functie van financieel beheer, en ondersteun je het management met advies rond begrotingstechnische vraagstukken. Je krijgt hierdoor een veelzijdige functie met impact en verantwoordelijkheid binnen het operationele hart van het FWO.</p> \n<p>Je wordt rechtstreeks aangestuurd door de directeur operationeel beheer.</p>"
       },
       "locations": [
         {
@@ -4402,38 +4227,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18448",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "DAB Vloot",
-      "reservedForDisability": false,
-      "openPositions": 6,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18448",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "MDK_Vloot_jobstudent veerdienst Oostende en Antwerpen"
-      },
-      "displayTitle": "MDK_Vloot_jobstudent veerdienst Oostende en Antwerpen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob? Het Departement Agentschap Maritieme&nbsp;<br>Dienstverlening zoekt studenten voor de veerdienst Oostende en Antwerpen.</p><p><span>\t</span>• Je bent verantwoordelijk voor het aan- en ontmeren van het schip en helpt bij het in- en&nbsp;<br><span>\t</span>&nbsp; &nbsp;uitstappen van passagiers<br><span>\t</span>• Je ondersteunt de schipper door allerlei dekwerkzaamheden te verrichten en/of communicatie\u0002activiteiten te vervullen&nbsp;<br><span>\t</span>• Je houdt het schip proper en in goede staat (bv. materiaal op juiste plaats opbergen,&nbsp;<br><span>\t</span>&nbsp; &nbsp;onderhouden,…)<br><span>\t</span>• Je werkt onder leiding van de gezagvoerder van het vaartuig</p><br>",
-        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob? Het Departement Agentschap Maritieme&nbsp;<br>Dienstverlening zoekt studenten voor de veerdienst Oostende en Antwerpen.</p><p><span>\t</span>• Je bent verantwoordelijk voor het aan- en ontmeren van het schip en helpt bij het in- en&nbsp;<br><span>\t</span>&nbsp; &nbsp;uitstappen van passagiers<br><span>\t</span>• Je ondersteunt de schipper door allerlei dekwerkzaamheden te verrichten en/of communicatie\u0002activiteiten te vervullen&nbsp;<br><span>\t</span>• Je houdt het schip proper en in goede staat (bv. materiaal op juiste plaats opbergen,&nbsp;<br><span>\t</span>&nbsp; &nbsp;onderhouden,…)<br><span>\t</span>• Je werkt onder leiding van de gezagvoerder van het vaartuig</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18444",
       "internal": true,
       "validThroughDate": "1749168000",
@@ -4996,76 +4789,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18300",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18300",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Communicatieadviseur"
-      },
-      "displayTitle": "Communicatieadviseur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bouw je mee aan sterke content en zichtbaar beleid? Word onze ervaren, strategische communicatieadviseur contentcreatie!</p> <p>Jij bent eindverantwoordelijk voor de (digitale) contentstrategie, garandeert kwaliteit en merkconsistentie. Je professionaliseert onze content, bouwt mee aan het imago van de Vlaamse overheid (binnen- en buitenland) en bent zowel strategisch als operationeel actief: je coördineert de planning, begeleidt collega’s en creëert zelf inhoud. Als rechterhand van de teamverantwoordelijke draag je bij aan de teamgroei en bewaak je de redactionele en visuele lijn.</p> <p><b>Een greep uit je takenpakket</b>:</p><ul><li><span>Jij ontwikkelt, implementeert en bewaakt de (digitale) contentstrategie in lijn met de communicatiestrategie en het merkbeleid van de Vlaamse overheid, waarbij jij consistentie in formats en boodschappen verzekert.</span></li><li><span>&nbsp;</span>Jij coördineert de dagelijkse contentwerking door de contentplanning te beheren en af te stemmen met interne klanten, accountmanagers en het contentteam.</li><li>Jij coacht en inspireert de collega’s binnen het contentteam, geeft constructieve feedback en ondersteunt hun professionele groei.</li><li>Jij ondersteunt de teamverantwoordelijke bij strategische vraagstukken, werkt mee aan de transitie en professionalisering van het team, en evalueert en optimaliseert de contentwerking op basis van data, resultaten en feedback.</li><li>Jij schrijft en redigeert zelf content voor diverse kanalen (o.a. web, nieuwsbrief, sociale media, pers), waaronder ook communicatie over beslissingen van de Vlaamse Regering, begeleidt externe partners en werkt nauw samen met andere teamleden voor synergie en voortgang.</li></ul> <p>Je komt terecht in het team Communicatie en Marketing. Een gedreven team dat werkt rond accountmanagement, contentmanagement en merkbeleid om beleids- en corporate communicatie te versterken en het merk Vlaanderen uit te bouwen.</p><p>Ben jij de contentexpert die we zoeken? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Bouw je mee aan sterke content en zichtbaar beleid? Word onze ervaren, strategische communicatieadviseur contentcreatie!</p> <p>Jij bent eindverantwoordelijk voor de (digitale) contentstrategie, garandeert kwaliteit en merkconsistentie. Je professionaliseert onze content, bouwt mee aan het imago van de Vlaamse overheid (binnen- en buitenland) en bent zowel strategisch als operationeel actief: je coördineert de planning, begeleidt collega’s en creëert zelf inhoud. Als rechterhand van de teamverantwoordelijke draag je bij aan de teamgroei en bewaak je de redactionele en visuele lijn.</p> <p><b>Een greep uit je takenpakket</b>:</p><ul><li><span>Jij ontwikkelt, implementeert en bewaakt de (digitale) contentstrategie in lijn met de communicatiestrategie en het merkbeleid van de Vlaamse overheid, waarbij jij consistentie in formats en boodschappen verzekert.</span></li><li><span>&nbsp;</span>Jij coördineert de dagelijkse contentwerking door de contentplanning te beheren en af te stemmen met interne klanten, accountmanagers en het contentteam.</li><li>Jij coacht en inspireert de collega’s binnen het contentteam, geeft constructieve feedback en ondersteunt hun professionele groei.</li><li>Jij ondersteunt de teamverantwoordelijke bij strategische vraagstukken, werkt mee aan de transitie en professionalisering van het team, en evalueert en optimaliseert de contentwerking op basis van data, resultaten en feedback.</li><li>Jij schrijft en redigeert zelf content voor diverse kanalen (o.a. web, nieuwsbrief, sociale media, pers), waaronder ook communicatie over beslissingen van de Vlaamse Regering, begeleidt externe partners en werkt nauw samen met andere teamleden voor synergie en voortgang.</li></ul> <p>Je komt terecht in het team Communicatie en Marketing. Een gedreven team dat werkt rond accountmanagement, contentmanagement en merkbeleid om beleids- en corporate communicatie te versterken en het merk Vlaanderen uit te bouwen.</p><p>Ben jij de contentexpert die we zoeken? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18299",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18299",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Accountmanager communicatie"
-      },
-      "displayTitle": "Accountmanager communicatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij mee je schouders zetten onder onder meer <b>Regelrecht</b>, het project van de minister-president rond administratieve vereenvoudiging en het terugdringen van regeldruk binnen de Vlaamse overheid? Zoek je een rol waarin je strategisch mag meedenken én zelf impactvolle communicatie realiseert? Dan ben jij misschien de collega die we zoeken!</p> <p>Als <b>accountmanager communicatie</b> ben jij het eerste aanspreekpunt voor onze interne klanten. Je luistert actief, denkt strategisch mee en vertaalt communicatienoden naar concrete plannen en acties. Dankzij jouw redactionele vaardigheden kan je ook inhoudelijk ondersteunen bij het schrijven en herschrijven van teksten. Je ondersteunt onder meer bij <span>&nbsp;</span>het project <b>Regelrecht</b>. Je doet dit in nauwe samenwerking met het projectteam, maar met het team Communicatie en Marketing als jouw thuisbasis. Binnen dit project zet je in op duidelijke, consistente en verbindende communicatie over administratieve vereenvoudiging binnen de Vlaamse overheid.</p> <p>Je komt terecht in het team Communicatie en Marketing, een strategische partner binnen de Vlaamse overheid. Met drie kernpijlers accountmanagement, contentmanagement en merkbeleid, realiseren we als één team heldere en impactvolle communicatie, ter ondersteuning van beleidscommunicatie, corporate branding en bouwen we aan een sterk merk Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Wil jij mee je schouders zetten onder onder meer <b>Regelrecht</b>, het project van de minister-president rond administratieve vereenvoudiging en het terugdringen van regeldruk binnen de Vlaamse overheid? Zoek je een rol waarin je strategisch mag meedenken én zelf impactvolle communicatie realiseert? Dan ben jij misschien de collega die we zoeken!</p> <p>Als <b>accountmanager communicatie</b> ben jij het eerste aanspreekpunt voor onze interne klanten. Je luistert actief, denkt strategisch mee en vertaalt communicatienoden naar concrete plannen en acties. Dankzij jouw redactionele vaardigheden kan je ook inhoudelijk ondersteunen bij het schrijven en herschrijven van teksten. Je ondersteunt onder meer bij <span>&nbsp;</span>het project <b>Regelrecht</b>. Je doet dit in nauwe samenwerking met het projectteam, maar met het team Communicatie en Marketing als jouw thuisbasis. Binnen dit project zet je in op duidelijke, consistente en verbindende communicatie over administratieve vereenvoudiging binnen de Vlaamse overheid.</p> <p>Je komt terecht in het team Communicatie en Marketing, een strategische partner binnen de Vlaamse overheid. Met drie kernpijlers accountmanagement, contentmanagement en merkbeleid, realiseren we als één team heldere en impactvolle communicatie, ter ondersteuning van beleidscommunicatie, corporate branding en bouwen we aan een sterk merk Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18295",
       "internal": false,
       "validThroughDate": "1748908800",
@@ -5444,76 +5167,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18242",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18242",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Hospitality medewerker"
-      },
-      "displayTitle": "Hospitality medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Als hospitality medewerker bij Het Facilitair Bedrijf ben jij het gezicht van onze moderne vergaderzalen. Je verwelkomt interne en externe klanten en zorgt ervoor dat alles vlekkeloos verloopt. Of het nu gaat om het uitleggen van hybride vergadermogelijkheden zoals clickshare en audiovisueel materiaal, het controleren van de catering, of het zorgen dat de zalen tiptop in orde zijn, jij bent overal bij betrokken. We verwachten een proactieve houding wanneer er onverwachte zaken gebeuren. Je moet je dus flexibel opstellen doorheen de dag. We werken in 2 shiften, van 8u tot 16u of van 10u tot 18u. Je hebt glijdende uren dus als het niet perfect uitkomt met je trein dan is dit bespreekbaar. Uiteraard werkt het in twee richtingen, we verwachten dan ook die flexibiliteit in functie van de dienstverlening.</div><div></div><div>Je biedt klanten een warm welkom en een uitstekende service. Daarnaast denk je altijd een stap vooruit, weet flexibel in te spelen op de wensen van de klant en durft assertief op te treden waar nodig. Je ondersteunt ook het cateringteam door bestellingen naar de juiste zaal te brengen en klanten te bedienen.</div><div></div><div>De uitdaging bij het Herman Teirlinck gebouw in Brussel ligt hem in de grootte van het gebouw. Het is een groot modern passief gebouw waar zeer uiteenlopende zaken kunnen voorvallen. Hier komen ook heel veel externe klanten dus de durf om te communiceren met klanten en (proactief) in te grijpen bij problemen is belangrijk.&nbsp;</div><div></div><div>Bij Het Facilitair Bedrijf staan klanten centraal, en met jouw enthousiasme, hands-on mentaliteit en oplossingsgericht denken maak jij het verschil. Ben jij klaar voor een dynamische en uitdagende rol? Solliciteer nu!&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Als hospitality medewerker bij Het Facilitair Bedrijf ben jij het gezicht van onze moderne vergaderzalen. Je verwelkomt interne en externe klanten en zorgt ervoor dat alles vlekkeloos verloopt. Of het nu gaat om het uitleggen van hybride vergadermogelijkheden zoals clickshare en audiovisueel materiaal, het controleren van de catering, of het zorgen dat de zalen tiptop in orde zijn, jij bent overal bij betrokken. We verwachten een proactieve houding wanneer er onverwachte zaken gebeuren. Je moet je dus flexibel opstellen doorheen de dag. We werken in 2 shiften, van 8u tot 16u of van 10u tot 18u. Je hebt glijdende uren dus als het niet perfect uitkomt met je trein dan is dit bespreekbaar. Uiteraard werkt het in twee richtingen, we verwachten dan ook die flexibiliteit in functie van de dienstverlening.</div><div></div><div>Je biedt klanten een warm welkom en een uitstekende service. Daarnaast denk je altijd een stap vooruit, weet flexibel in te spelen op de wensen van de klant en durft assertief op te treden waar nodig. Je ondersteunt ook het cateringteam door bestellingen naar de juiste zaal te brengen en klanten te bedienen.</div><div></div><div>De uitdaging bij het Herman Teirlinck gebouw in Brussel ligt hem in de grootte van het gebouw. Het is een groot modern passief gebouw waar zeer uiteenlopende zaken kunnen voorvallen. Hier komen ook heel veel externe klanten dus de durf om te communiceren met klanten en (proactief) in te grijpen bij problemen is belangrijk.&nbsp;</div><div></div><div>Bij Het Facilitair Bedrijf staan klanten centraal, en met jouw enthousiasme, hands-on mentaliteit en oplossingsgericht denken maak jij het verschil. Ben jij klaar voor een dynamische en uitdagende rol? Solliciteer nu!&nbsp;</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18238",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18238",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Districtstoezichter haven van Gent"
-      },
-      "displayTitle": "Districtstoezichter haven van Gent",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als districtstoezichter ben jij, samen met het districtshoofd, het aanspreekpunt voor het beheer en onderhoud van de infrastructuur in de haven van Gent. Jij zorgt ervoor dat alle assets zoals kaaimuren, oevers, gronden en groenvoorzieningen goed worden onderhouden en in optimale staat verkeren. Daarnaast ben je betrokken bij inspecties, het opstellen van en bewaken van de uitvoering van onderhoudsplannen, en het opvolgen van werken volgens de opgemaakte bestekken.</p> <p><b>Belangrijke taken:</b></p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je inspecteert en beheert het patrimonium en de infrastructuur, van zowel op het droge als van op het water.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je plant onderhoudswerken in en volgt deze op (maaien, bomen vellen, kleine investeringswerken zoals de herstelling van een stuk weggespoelde oever, …).</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je zorgt voor het voorbereidend werk bij de opmaak van bestekken en houdt toezicht op de gestelde bestaansvoorwaarden en de veiligheid bij uitvoering.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je volgt zelf kleine investeringswerken op, zoals de vernieuwing van veerhavens of <span>&nbsp;</span>een oeververdediging.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je geeft input vanuit inspecties in het assetmanagementsysteem. De inspecties en daarop volgende acties volg je samen met het districtshoofd op via digitale platformen en op de werkvloer zelf.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je levert input betreffende vergunningsaanvragen en neemt deel aan coördinatievergaderingen.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je ondersteunt de collega’s van het team Investeren en Infrastructuur bij grootschalige werken door toezicht te houden op projecten.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Een deel van de eigendommen van Maritieme Toegang zijn in beheer gegeven aan de haven die op hun beurt concessies geven aan bedrijven, mede daardoor kom je vaak in contact met stakeholders <span>&nbsp;</span>op verschillende niveaus, van werfleiders tot hogere bedrijfscontacten bij North Sea Port en/of concessiehouders.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je hebt ook enkele “politionele” verantwoordelijkheden: zoals vaststellingen doen, pv’s opstellen, en waarschuwingen geven bij calamiteiten.</p> <p>Je bent bereid om buiten kantooruren op te treden, vooral bij calamiteiten. Dit kan ‘s nachts of buiten normale werkuren plaatsvinden. Bij afwezigheden en verlof nemen jij en het districtshoofd (een deel van) elkaars taken over, wat zorgt voor een sterke teamdynamiek.</p> <p>Je bent hands-on ingesteld, en je beschikt over een flexibel karakter. Zwemvaardigheid wordt geapprecieerd, aangezien inspecties soms ook aan de waterkant of op het water plaatsvinden.</p>",
-        "htmlEncoded": "<p>Als districtstoezichter ben jij, samen met het districtshoofd, het aanspreekpunt voor het beheer en onderhoud van de infrastructuur in de haven van Gent. Jij zorgt ervoor dat alle assets zoals kaaimuren, oevers, gronden en groenvoorzieningen goed worden onderhouden en in optimale staat verkeren. Daarnaast ben je betrokken bij inspecties, het opstellen van en bewaken van de uitvoering van onderhoudsplannen, en het opvolgen van werken volgens de opgemaakte bestekken.</p> <p><b>Belangrijke taken:</b></p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je inspecteert en beheert het patrimonium en de infrastructuur, van zowel op het droge als van op het water.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je plant onderhoudswerken in en volgt deze op (maaien, bomen vellen, kleine investeringswerken zoals de herstelling van een stuk weggespoelde oever, …).</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je zorgt voor het voorbereidend werk bij de opmaak van bestekken en houdt toezicht op de gestelde bestaansvoorwaarden en de veiligheid bij uitvoering.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je volgt zelf kleine investeringswerken op, zoals de vernieuwing van veerhavens of <span>&nbsp;</span>een oeververdediging.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je geeft input vanuit inspecties in het assetmanagementsysteem. De inspecties en daarop volgende acties volg je samen met het districtshoofd op via digitale platformen en op de werkvloer zelf.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je levert input betreffende vergunningsaanvragen en neemt deel aan coördinatievergaderingen.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je ondersteunt de collega’s van het team Investeren en Infrastructuur bij grootschalige werken door toezicht te houden op projecten.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Een deel van de eigendommen van Maritieme Toegang zijn in beheer gegeven aan de haven die op hun beurt concessies geven aan bedrijven, mede daardoor kom je vaak in contact met stakeholders <span>&nbsp;</span>op verschillende niveaus, van werfleiders tot hogere bedrijfscontacten bij North Sea Port en/of concessiehouders.</p> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Je hebt ook enkele “politionele” verantwoordelijkheden: zoals vaststellingen doen, pv’s opstellen, en waarschuwingen geven bij calamiteiten.</p> <p>Je bent bereid om buiten kantooruren op te treden, vooral bij calamiteiten. Dit kan ‘s nachts of buiten normale werkuren plaatsvinden. Bij afwezigheden en verlof nemen jij en het districtshoofd (een deel van) elkaars taken over, wat zorgt voor een sterke teamdynamiek.</p> <p>Je bent hands-on ingesteld, en je beschikt over een flexibel karakter. Zwemvaardigheid wordt geapprecieerd, aangezien inspecties soms ook aan de waterkant of op het water plaatsvinden.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18230",
       "internal": false,
       "validThroughDate": "1748563200",
@@ -5783,41 +5436,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18198",
-      "internal": false,
-      "validThroughDate": "1747699200",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18198",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Chauffeur wegmetingen"
-      },
-      "displayTitle": "Chauffeur wegmetingen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een ervaren chauffeur\nmet oog voor detail en een uitstekende rijvaardigheid? Heb je een passie voor\ndienstverlening en vind je het leuk om een bijdrage te kunnen leveren aan ons\nwegennet? Kijk je er tot slot ook naar uit om kleine administratieve taken uit\nte voeren? </p><p>Solliciteer dan nu en\nwie weet bouw jij wel mee aan de weg van morgen! Want jouw baan, daar werken we\naan!</p><p>De afdeling Assetinformatie\nen Inspecties Weginfrastructuur van het Agentschap Wegen en Verkeer is een studie- en adviesafdeling die\nondersteuning geeft aan het beleid en aan de uitvoerende territoriale\nafdelingen. De afdeling beschikt over speciale meetvoertuigen voor het in kaart\nte brengen van de toestand van de gewestwegen, het meten van het verkeerslawaai\nen voor de beoordeling van de kwaliteit van uitgevoerde werken. De afdeling\nbeschikt tevens over een laboratorium voor onderzoek op de kwaliteit van\nwegenbouwmaterialen.</p><p>Als chauffeur\nwegmetingen bestuur je een wagen en/of vrachtwagen die speciaal uitgerust is\nvoor het uitvoeren van technische proeven en metingen op de autosnelwegen en\ngewestwegen. Je staat in voor het dagelijks onderhoud van de gebruikte\nvoertuigen, het controleren van essentiële onderdelen en bij defect zelf\nherstellen of laten herstellen. &nbsp;Samen\nmet een collega ga je op pad, gedreven door een sterke teamspirit en de\novertuiging dat je samen meer bereikt dan alleen.</p><p><strong>Zin in deze job? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Ben jij een ervaren chauffeur\nmet oog voor detail en een uitstekende rijvaardigheid? Heb je een passie voor\ndienstverlening en vind je het leuk om een bijdrage te kunnen leveren aan ons\nwegennet? Kijk je er tot slot ook naar uit om kleine administratieve taken uit\nte voeren? </p><p>Solliciteer dan nu en\nwie weet bouw jij wel mee aan de weg van morgen! Want jouw baan, daar werken we\naan!</p><p>De afdeling Assetinformatie\nen Inspecties Weginfrastructuur van het Agentschap Wegen en Verkeer is een studie- en adviesafdeling die\nondersteuning geeft aan het beleid en aan de uitvoerende territoriale\nafdelingen. De afdeling beschikt over speciale meetvoertuigen voor het in kaart\nte brengen van de toestand van de gewestwegen, het meten van het verkeerslawaai\nen voor de beoordeling van de kwaliteit van uitgevoerde werken. De afdeling\nbeschikt tevens over een laboratorium voor onderzoek op de kwaliteit van\nwegenbouwmaterialen.</p><p>Als chauffeur\nwegmetingen bestuur je een wagen en/of vrachtwagen die speciaal uitgerust is\nvoor het uitvoeren van technische proeven en metingen op de autosnelwegen en\ngewestwegen. Je staat in voor het dagelijks onderhoud van de gebruikte\nvoertuigen, het controleren van essentiële onderdelen en bij defect zelf\nherstellen of laten herstellen. &nbsp;Samen\nmet een collega ga je op pad, gedreven door een sterke teamspirit en de\novertuiging dat je samen meer bereikt dan alleen.</p><p><strong>Zin in deze job? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong></p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Evere"
           }
         }
       ]
