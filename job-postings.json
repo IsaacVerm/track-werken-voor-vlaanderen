@@ -1,11 +1,81 @@
 {
-  "totalItems": 194,
+  "totalItems": 196,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 193,
+  "lastItemOfPage": 195,
   "items": [
+    {
+      "link": "/Job/vdab-71130167",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71130167",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71126903",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71126903",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Test automator (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Test automator (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Werk jij graag aan het automatiseren van functionele, technische en E2E testen? Draag jij graag je expertise bij aan het team om automatische testen te schrijven om kwaliteistvolle software op te leveren en snelheid van oplevering te verhogen? Dan ben jij de Test Automator die we zoeken!</span></p> \n<p><span lang=\"NL\">Als Test Automator zal je functionele en automatische testen opzetten, ontwikkelen en uitvoeren. Je zal Shift left en een QA mindset mee introduceren en versterken binnen het team. En binnen de verschillende teams de samenwerking met betrekking tot testing stimuleren met behulp van je collega’s.</span></p> \n<p><strong><span lang=\"NL\">Wat ga je doen?</span></strong></p> \n<ul> \n<li><span lang=\"NL\">Je zal functionele testen opzetten, ontwikkelen, uitvoeren en deze automatiseren (indien opportuun), waarbij je kwaliteit hoog in het vaandel draagt, maar repetitieve taken wilt vermijden.</span></li> \n<li><span lang=\"NL\">Je zal mee werken aan de input hoe het testen van applicaties aangepakt wordt en zorgen voor de automatisatie van E2E testen.</span></li> \n<li><span lang=\"NL\">Je volgt de testresultaten op en komt met verbeteringsvoorstellen (indien nodig).</span></li> \n<li><span lang=\"NL\">Je ondersteunt niet-test automators bij het automatiseren van testen.</span></li> \n<li><span lang=\"NL\">Je voert aanpassingen uit aan het test automation framework ism andere test automators.</span></li> \n<li><span lang=\"NL\">Je assisteert bij het defectmanagement door het uitvoeren van Root Cause Analyses.</span></li> \n<li><span lang=\"NL\">Je kan je team adviseren met betrekking tot de testaanpak en het uitvoeren van testen.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span lang=\"NL\">Werk jij graag aan het automatiseren van functionele, technische en E2E testen? Draag jij graag je expertise bij aan het team om automatische testen te schrijven om kwaliteistvolle software op te leveren en snelheid van oplevering te verhogen? Dan ben jij de Test Automator die we zoeken!</span></p> \n<p><span lang=\"NL\">Als Test Automator zal je functionele en automatische testen opzetten, ontwikkelen en uitvoeren. Je zal Shift left en een QA mindset mee introduceren en versterken binnen het team. En binnen de verschillende teams de samenwerking met betrekking tot testing stimuleren met behulp van je collega’s.</span></p> \n<p><strong><span lang=\"NL\">Wat ga je doen?</span></strong></p> \n<ul> \n<li><span lang=\"NL\">Je zal functionele testen opzetten, ontwikkelen, uitvoeren en deze automatiseren (indien opportuun), waarbij je kwaliteit hoog in het vaandel draagt, maar repetitieve taken wilt vermijden.</span></li> \n<li><span lang=\"NL\">Je zal mee werken aan de input hoe het testen van applicaties aangepakt wordt en zorgen voor de automatisatie van E2E testen.</span></li> \n<li><span lang=\"NL\">Je volgt de testresultaten op en komt met verbeteringsvoorstellen (indien nodig).</span></li> \n<li><span lang=\"NL\">Je ondersteunt niet-test automators bij het automatiseren van testen.</span></li> \n<li><span lang=\"NL\">Je voert aanpassingen uit aan het test automation framework ism andere test automators.</span></li> \n<li><span lang=\"NL\">Je assisteert bij het defectmanagement door het uitvoeren van Root Cause Analyses.</span></li> \n<li><span lang=\"NL\">Je kan je team adviseren met betrekking tot de testaanpak en het uitvoeren van testen.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71120818",
       "internal": false,
@@ -2352,41 +2422,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70595983",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70595983",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel Applicatie Architect Drupal (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel Applicatie Architect Drupal (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De functioneel applicatie architect vertaalt het functioneel (detail)ontwerp naar duidelijke richtlijnen voor het ontwikkelteam. Dit in functie van een high level project met als doel een vernieuwing/verbetering van onze diensten. Hij/zij ondersteunt inschattingen op de resourceplanning, bewaakt de operationele stabiliteit van toepassingen en fungeert als coach voor analisten binnen het team.</span></p> \n<p><span>Werkt samen met de technisch en enterprise architecten om de functionele architectuur van Drupal te bepalen en te implementeren.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je speelt een cruciale rol in de brugfunctie tussen functioneel ontwerp en technische implementatie.</span></p> \n<p><span>Je werkt nauw samen met zowel ontwikkelteams als operations, technische applicatie architecten en business stakeholders</span></p> \n<p><span>Je krijgt de kans om coaching en mentoring op te nemen binnen een groeiend en dynamisch team.</span></p> \n<p><span>Je hebt directe impact op de stabiliteit en onderhoudbaarheid van bedrijfskritische toepassingen.</span></p> \n<p><strong><span>Hoe is het team samengesteld?</span></strong></p> \n<p><span>Het team wordt aangestuurd door een teamleider, ondersteund door een technisch applicatie architect, functioneel applicatie architect, drupal front-end/back-end ontwikkelaars, analisten en een tester.</span></p> \n<p><strong><span>Wat zijn de typische projecten waar we aan werken?</span></strong></p> \n<p><span>Onderhoud en beheer van 4 grote websites en multisite, projecten gerelateerd aan deze websites (nieuwe functionaliteiten, technische/security verbeteringen, accessibility,...) ism business redactie teams, designteam. </span></p> \n<p><span>Integratie van widgets en ondersteuning van toepassing met onze headless headers/footers en services.</span></p> \n<p><strong><span>Welke technologieën worden gebruikt in de afdeling?</span></strong></p> \n<p><span>Drupal-stack, Elasticsearch engine (er is een project om te migreren naar Opensearch), authenticatie door een derde partij (IAM), testingstack (Behat en Backstop JS)</span></p> \n<p><span>Raakvlak teams werken meestal met de Java stack, maar er zijn ook AI en data teams.</span></p>",
-        "htmlEncoded": "<p><span>De functioneel applicatie architect vertaalt het functioneel (detail)ontwerp naar duidelijke richtlijnen voor het ontwikkelteam. Dit in functie van een high level project met als doel een vernieuwing/verbetering van onze diensten. Hij/zij ondersteunt inschattingen op de resourceplanning, bewaakt de operationele stabiliteit van toepassingen en fungeert als coach voor analisten binnen het team.</span></p> \n<p><span>Werkt samen met de technisch en enterprise architecten om de functionele architectuur van Drupal te bepalen en te implementeren.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je speelt een cruciale rol in de brugfunctie tussen functioneel ontwerp en technische implementatie.</span></p> \n<p><span>Je werkt nauw samen met zowel ontwikkelteams als operations, technische applicatie architecten en business stakeholders</span></p> \n<p><span>Je krijgt de kans om coaching en mentoring op te nemen binnen een groeiend en dynamisch team.</span></p> \n<p><span>Je hebt directe impact op de stabiliteit en onderhoudbaarheid van bedrijfskritische toepassingen.</span></p> \n<p><strong><span>Hoe is het team samengesteld?</span></strong></p> \n<p><span>Het team wordt aangestuurd door een teamleider, ondersteund door een technisch applicatie architect, functioneel applicatie architect, drupal front-end/back-end ontwikkelaars, analisten en een tester.</span></p> \n<p><strong><span>Wat zijn de typische projecten waar we aan werken?</span></strong></p> \n<p><span>Onderhoud en beheer van 4 grote websites en multisite, projecten gerelateerd aan deze websites (nieuwe functionaliteiten, technische/security verbeteringen, accessibility,...) ism business redactie teams, designteam. </span></p> \n<p><span>Integratie van widgets en ondersteuning van toepassing met onze headless headers/footers en services.</span></p> \n<p><strong><span>Welke technologieën worden gebruikt in de afdeling?</span></strong></p> \n<p><span>Drupal-stack, Elasticsearch engine (er is een project om te migreren naar Opensearch), authenticatie door een derde partij (IAM), testingstack (Behat en Backstop JS)</span></p> \n<p><span>Raakvlak teams werken meestal met de Java stack, maar er zijn ook AI en data teams.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70551225",
       "internal": false,
       "validThroughDate": "-1",
@@ -3612,6 +3647,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18670",
+      "internal": false,
+      "validThroughDate": "1749945600",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18670",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onafhankelijke leden auditcomité"
+      },
+      "displayTitle": "Onafhankelijke leden auditcomité",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het VUTG doet een oproep tot kandidaatstelling voor 2 mandaten van lid van het auditcomité ter uitvoering van het oprichtingsdecreet van het Agentschap.</span></p> <p><span>Het VUTG heeft als opdracht de stipte, correcte en continue uitbetaling van toelagen in het kader van het gezinsbeleid te verzorgen (het “Groeipakket”), samen met de private uitbetalingsactoren. Het agentschap verzorgt een klantvriendelijke en kwaliteitsvol aanbod, waarin de gezinnen en in het bijzonder de meest kwetsbare gezinnen maximaal bijgestaan worden in de uitoefening van hun recht op toelagen in het kader van het gezinsbeleid. Het agentschap onderzoekt, waar mogelijk, proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en de uitbetaling in het kader van het gezinsbeleid. Met het oog op het uitvoeren van de missie en de taken, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met het agentschap Opgroeien (Kind en Gezin) en met de Huizen van het Kind. </span></p> <p><span>De entiteit staat in voor de correcte uitbetaling van het Groeipakket aan de aangesloten gezinnen via de publieke uitbetaler FONS, het beheer van de uitbetalingssector met de private uitbetalingsactoren, de verdeling van de werkingsmiddelen bestemd voor de private uitbetalingsactoren en de middelen bestemd voor de eigen werking. Een belangrijke opdracht voor het Agentschap is tevens het beheer van de gemeenschappelijke betaalmotor voor het Groeipakket. Verder biedt het Agentschap ook ondersteuning aan de lokale besturen bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid.</span></p> <p><span>Binnen het agentschap richt de raad van bestuur een auditcomité op. Dit auditcomité is zowel bevoegd voor de interne controle van de bedrijfsprocessen en activiteiten van het agentschap als voor de externe controle van alle bedrijfsprocessen en activiteiten van de private uitbetalingsactoren. Het auditcomité houdt rekening met de bevoegdheden van Audit Vlaanderen conform aan art. III 115 van het Bestuursdecreet en met het Besluit van de Vlaamse Regering betreffende controle en single audit. Het auditcomité staat de raad van bestuur bij op de volgende domeinen: </span></p><ul><li><span>het bereiken van de opgelegde doelstellingen en het effectieve en efficiënte beheer van risico’s;</span></li><li><span>de naleving van regelgeving en procedures;</span></li><li><span>de betrouwbaarheid van de financiële en de beheersrapportering;</span></li><li><span>de effectieve en efficiënte werking van activiteiten en de efficiënte inzet van middelen;</span></li><li><span>de bescherming van de activa van het agentschap en de voorkoming van fraude; </span></li><li><span>de financiële responsabilisering van de uitbetalingsactoren.</span></li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij. Let op, voor deze functie kan je <strong>niet online solliciteren</strong>, in het selectiereglement staat onder punt 6 beschreven hoe je je kandidaat kan stellen.</span></p>",
+        "htmlEncoded": "<p><span>Het VUTG doet een oproep tot kandidaatstelling voor 2 mandaten van lid van het auditcomité ter uitvoering van het oprichtingsdecreet van het Agentschap.</span></p> <p><span>Het VUTG heeft als opdracht de stipte, correcte en continue uitbetaling van toelagen in het kader van het gezinsbeleid te verzorgen (het “Groeipakket”), samen met de private uitbetalingsactoren. Het agentschap verzorgt een klantvriendelijke en kwaliteitsvol aanbod, waarin de gezinnen en in het bijzonder de meest kwetsbare gezinnen maximaal bijgestaan worden in de uitoefening van hun recht op toelagen in het kader van het gezinsbeleid. Het agentschap onderzoekt, waar mogelijk, proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en de uitbetaling in het kader van het gezinsbeleid. Met het oog op het uitvoeren van de missie en de taken, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met het agentschap Opgroeien (Kind en Gezin) en met de Huizen van het Kind. </span></p> <p><span>De entiteit staat in voor de correcte uitbetaling van het Groeipakket aan de aangesloten gezinnen via de publieke uitbetaler FONS, het beheer van de uitbetalingssector met de private uitbetalingsactoren, de verdeling van de werkingsmiddelen bestemd voor de private uitbetalingsactoren en de middelen bestemd voor de eigen werking. Een belangrijke opdracht voor het Agentschap is tevens het beheer van de gemeenschappelijke betaalmotor voor het Groeipakket. Verder biedt het Agentschap ook ondersteuning aan de lokale besturen bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid.</span></p> <p><span>Binnen het agentschap richt de raad van bestuur een auditcomité op. Dit auditcomité is zowel bevoegd voor de interne controle van de bedrijfsprocessen en activiteiten van het agentschap als voor de externe controle van alle bedrijfsprocessen en activiteiten van de private uitbetalingsactoren. Het auditcomité houdt rekening met de bevoegdheden van Audit Vlaanderen conform aan art. III 115 van het Bestuursdecreet en met het Besluit van de Vlaamse Regering betreffende controle en single audit. Het auditcomité staat de raad van bestuur bij op de volgende domeinen: </span></p><ul><li><span>het bereiken van de opgelegde doelstellingen en het effectieve en efficiënte beheer van risico’s;</span></li><li><span>de naleving van regelgeving en procedures;</span></li><li><span>de betrouwbaarheid van de financiële en de beheersrapportering;</span></li><li><span>de effectieve en efficiënte werking van activiteiten en de efficiënte inzet van middelen;</span></li><li><span>de bescherming van de activa van het agentschap en de voorkoming van fraude; </span></li><li><span>de financiële responsabilisering van de uitbetalingsactoren.</span></li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij. Let op, voor deze functie kan je <strong>niet online solliciteren</strong>, in het selectiereglement staat onder punt 6 beschreven hoe je je kandidaat kan stellen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18669",
+      "internal": false,
+      "validThroughDate": "1749945600",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 5,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18669",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onafhankelijke bestuurders Raad van Bestuur"
+      },
+      "displayTitle": "Onafhankelijke bestuurders Raad van Bestuur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het VUTG doet een oproep tot kandidaatstelling voor 5 mandaten van onafhankelijk bestuurder voor haar raad van bestuur.</span></p> <p><span>Het VUTG heeft als opdracht de stipte, correcte en continue uitbetaling van toelagen in het kader van het gezinsbeleid te verzorgen, samen met de private uitbetalingsactoren. Het agentschap verzorgt een klantvriendelijke en kwaliteitsvol aanbod, waarin de gezinnen en in het bijzonder de meest kwetsbare gezinnen maximaal bijgestaan worden in de uitoefening van hun recht op toelagen in het kader van het gezinsbeleid. Het agentschap onderzoekt, waar mogelijk, proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en de uitbetaling in het kader van het gezinsbeleid. Met het oog op het uitvoeren van de missie en de taken, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met het agentschap Opgroeien (Kind en Gezin) en met de Huizen van het Kind. </span></p> <p><span>De entiteit staat in voor de correcte uitbetaling van het Groeipakket aan de aangesloten gezinnen via de publieke uitbetaler FONS, het beheer van de uitbetalingssector met de private uitbetalingsactoren, de verdeling van de werkingsmiddelen bestemd voor de private uitbetalingsactoren en de middelen bestemd voor de eigen werking. Een belangrijke opdracht voor het Agentschap is tevens het beheer van de gemeenschappelijke betaalmotor voor het Groeipakket. Verder biedt het Agentschap ook ondersteuning aan de lokale besturen bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij. Let op, voor deze functie kan je <strong>niet online solliciteren</strong>, in het selectiereglement staat onder punt 6 beschreven hoe je je kandidaat kan stellen.</span></p>",
+        "htmlEncoded": "<p><span>Het VUTG doet een oproep tot kandidaatstelling voor 5 mandaten van onafhankelijk bestuurder voor haar raad van bestuur.</span></p> <p><span>Het VUTG heeft als opdracht de stipte, correcte en continue uitbetaling van toelagen in het kader van het gezinsbeleid te verzorgen, samen met de private uitbetalingsactoren. Het agentschap verzorgt een klantvriendelijke en kwaliteitsvol aanbod, waarin de gezinnen en in het bijzonder de meest kwetsbare gezinnen maximaal bijgestaan worden in de uitoefening van hun recht op toelagen in het kader van het gezinsbeleid. Het agentschap onderzoekt, waar mogelijk, proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en de uitbetaling in het kader van het gezinsbeleid. Met het oog op het uitvoeren van de missie en de taken, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met het agentschap Opgroeien (Kind en Gezin) en met de Huizen van het Kind. </span></p> <p><span>De entiteit staat in voor de correcte uitbetaling van het Groeipakket aan de aangesloten gezinnen via de publieke uitbetaler FONS, het beheer van de uitbetalingssector met de private uitbetalingsactoren, de verdeling van de werkingsmiddelen bestemd voor de private uitbetalingsactoren en de middelen bestemd voor de eigen werking. Een belangrijke opdracht voor het Agentschap is tevens het beheer van de gemeenschappelijke betaalmotor voor het Groeipakket. Verder biedt het Agentschap ook ondersteuning aan de lokale besturen bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij. Let op, voor deze functie kan je <strong>niet online solliciteren</strong>, in het selectiereglement staat onder punt 6 beschreven hoe je je kandidaat kan stellen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18640",
       "internal": false,
       "validThroughDate": "1748995200",
@@ -3918,41 +4023,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18557",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18557",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "2 Scheepvaartbegeleiders Buffer - Zemst"
-      },
-      "displayTitle": "2 Scheepvaartbegeleiders Buffer - Zemst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18552",
       "internal": false,
       "validThroughDate": "1748304000",
@@ -3983,41 +4053,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18549",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18549",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VTS-Operator"
-      },
-      "displayTitle": "VTS-Operator",
-      "isProtected": false,
-      "description": {
-        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
-        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
           }
         }
       ]
@@ -4128,36 +4163,86 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18502",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "link": "/Job/cornerstone-18505",
+      "internal": true,
+      "validThroughDate": "1749513600",
+      "hiringOrganization": "De Vlaamse Waterweg",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18502",
+      "identifier": "cornerstone-18505",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Barmedewerker voor het Kasteel van Gaasbeek"
+        "htmlEncoded": "Projectmanager Expert"
       },
-      "displayTitle": "Barmedewerker voor het Kasteel van Gaasbeek",
+      "displayTitle": "Projectmanager Expert",
       "isProtected": false,
       "description": {
-        "raw": "<p>Ben je op zoek naar een dynamische job in een unieke,\nhistorische setting? Steek je graag je handen uit je mouwen, ben je sociaal en\nzorg je graag voor een warm welkom? Dan is deze vacature iets voor jou. <br><br>Caffè\nCarletto, de gezellige bar van het Kasteel van Gaasbeek, zoekt een gedreven barmedewerker om het team te versterken en de barverantwoordelijke te\nondersteunen. Samen zorgen we ervoor dat onze bezoekers genieten van een buitengewone\nervaring. <br><br>Als barmedewerker zal je:<br>&nbsp; -&nbsp; Bezoekers gastvrij ontvangen en te woord staan<br>&nbsp; -&nbsp; Bestellingen opnemen, afrekenen en serveren<br>&nbsp; -&nbsp; Tafels afruimen, schoonmaken en afwassen<br>&nbsp; -&nbsp; De voorraad beheren, aanvullen en signaleren wanneer producten op raken <br>&nbsp; -&nbsp; Creatief voorstellen doen om een betere service aan te bieden<br>&nbsp; -&nbsp; Taken verdelen tussen de vrijwilligers die mee helpen in het caffè. <br><br>Je werkt voornamelijk overdag. Er vinden regelmatig\nevenementen plaats, die af en toe ’s avonds doorgaan. Als flexibele\nteamplayer werk je ook 2 weekends per maand.</p><p>Je maakt deel uit van een fijn divers team van een\nvaste collega, vrijwilligers en jobstudenten.</p><p>Bij voorkeur kan je in mei starten of op korte\ntermijn.</p><p>Klinkt dit als een ideale uitdaging? Word onze\nnieuwe collega en kom werken in de bijzondere sfeer van het Kasteel van\nGaasbeek!</p>",
-        "htmlEncoded": "<p>Ben je op zoek naar een dynamische job in een unieke,\nhistorische setting? Steek je graag je handen uit je mouwen, ben je sociaal en\nzorg je graag voor een warm welkom? Dan is deze vacature iets voor jou. <br><br>Caffè\nCarletto, de gezellige bar van het Kasteel van Gaasbeek, zoekt een gedreven barmedewerker om het team te versterken en de barverantwoordelijke te\nondersteunen. Samen zorgen we ervoor dat onze bezoekers genieten van een buitengewone\nervaring. <br><br>Als barmedewerker zal je:<br>&nbsp; -&nbsp; Bezoekers gastvrij ontvangen en te woord staan<br>&nbsp; -&nbsp; Bestellingen opnemen, afrekenen en serveren<br>&nbsp; -&nbsp; Tafels afruimen, schoonmaken en afwassen<br>&nbsp; -&nbsp; De voorraad beheren, aanvullen en signaleren wanneer producten op raken <br>&nbsp; -&nbsp; Creatief voorstellen doen om een betere service aan te bieden<br>&nbsp; -&nbsp; Taken verdelen tussen de vrijwilligers die mee helpen in het caffè. <br><br>Je werkt voornamelijk overdag. Er vinden regelmatig\nevenementen plaats, die af en toe ’s avonds doorgaan. Als flexibele\nteamplayer werk je ook 2 weekends per maand.</p><p>Je maakt deel uit van een fijn divers team van een\nvaste collega, vrijwilligers en jobstudenten.</p><p>Bij voorkeur kan je in mei starten of op korte\ntermijn.</p><p>Klinkt dit als een ideale uitdaging? Word onze\nnieuwe collega en kom werken in de bijzondere sfeer van het Kasteel van\nGaasbeek!</p>"
+        "raw": "<p>De Vlaamse Waterweg is op zoek naar projectmanagers experts die de koers bepalen van projecten binnen één of meerdere domeinen zoals infrastructuur, ICT, waterwegtechnologie of commercieel beheer.&nbsp;<br><br>In deze rol neem je het voortouw in de analyse, planning en uitvoering van multidisciplinaire projecten. Je werkt zowel op strategisch als op operationeel niveau. Je bent de spil tussen de technische teams, beleidsmakers en externe partners. Met jouw expertise en leiderschap bewaar je overzicht, bewaak je kwaliteit, tijd en budget en stuur je het projectteam aan.&nbsp;<br><strong>Je taken omvatten onder andere:</strong><br>•Het analyseren van noden, randvoorwaarden en risico’s om tot een heldere projectdefinitie te komen.<br>•Opstellen van projectplannen, communicatieplannen, risicoanalyses en budgetramingen.<br>•Aansturen en coördineren van de uitvoering van het project binnen de afgesproken scope, timing, kwaliteit en kosten.<br>•Leiden van stuurgroepen, werkgroepen en overlegmomenten met uiteenlopende stakeholders.<br>•Verzorgen van rapportering en documentatie richting opdrachtgevers en betrokken partijen.<br>•Zorgen voor kennisoverdracht en kwaliteitsborging na oplevering van het project.<br>•Optreden als eerste aanspreekpunt voor het project en actief bijdragen aan kennisdeling binnen de organisatie.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.&nbsp;<br><br></p><br>",
+        "htmlEncoded": "<p>De Vlaamse Waterweg is op zoek naar projectmanagers experts die de koers bepalen van projecten binnen één of meerdere domeinen zoals infrastructuur, ICT, waterwegtechnologie of commercieel beheer.&nbsp;<br><br>In deze rol neem je het voortouw in de analyse, planning en uitvoering van multidisciplinaire projecten. Je werkt zowel op strategisch als op operationeel niveau. Je bent de spil tussen de technische teams, beleidsmakers en externe partners. Met jouw expertise en leiderschap bewaar je overzicht, bewaak je kwaliteit, tijd en budget en stuur je het projectteam aan.&nbsp;<br><strong>Je taken omvatten onder andere:</strong><br>•Het analyseren van noden, randvoorwaarden en risico’s om tot een heldere projectdefinitie te komen.<br>•Opstellen van projectplannen, communicatieplannen, risicoanalyses en budgetramingen.<br>•Aansturen en coördineren van de uitvoering van het project binnen de afgesproken scope, timing, kwaliteit en kosten.<br>•Leiden van stuurgroepen, werkgroepen en overlegmomenten met uiteenlopende stakeholders.<br>•Verzorgen van rapportering en documentatie richting opdrachtgevers en betrokken partijen.<br>•Zorgen voor kennisoverdracht en kwaliteitsborging na oplevering van het project.<br>•Optreden als eerste aanspreekpunt voor het project en actief bijdragen aan kennisdeling binnen de organisatie.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij 'meer informatie'. Download dit document en hou het bij.&nbsp;<br><br></p><br>"
       },
       "locations": [
         {
           "address": {
-            "city": "Gaasbeek"
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        },
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18501",
+      "internal": false,
+      "validThroughDate": "1749772800",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18501",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierverantwoordelijke dagprijzen"
+      },
+      "displayTitle": "Dossierverantwoordelijke dagprijzen",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij werken aan een betaalbare en correcte zorg voor ouderen in Vlaanderen? Als dossierverantwoordelijke dagprijzen zorg je ervoor dat o.a. woonzorgcentra correcte, transparante en verantwoorde prijzen aanrekenen. Jij bent de onmisbare schakel die dossiers nauwkeurig opvolgt, aanvragen controleert en helder communiceert met zorgvoorzieningen.<br><br>Je duikt in een mix van cijfers en regelgeving – zonder dat je een financieel expert hoeft te zijn. Met een scherpe blik en oog voor detail bewaak je de volledigheid van dossiers, stel je brieven en beslissingen op en zorg je voor een vlotte afhandeling in het e-loket.<br><br>Daarnaast ben je het aanspreekpunt voor zorgvoorzieningen met vragen, en denk je actief mee over hoe we procedures nog beter en efficiënter kunnen maken. Je komt terecht in een geëngageerd team dat ook andere subsidies voor ouderenzorg beheert – jouw bijdrage is dus meteen voelbaar op het terrein.<br><br>Naast de administratieve opvolging van de dossiers ben je ook het aanspreekpunt voor de voorzieningen waarbij je hun vragen beantwoordt en meedenkt over de toepassing van de wetgeving.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij werken aan een betaalbare en correcte zorg voor ouderen in Vlaanderen? Als dossierverantwoordelijke dagprijzen zorg je ervoor dat o.a. woonzorgcentra correcte, transparante en verantwoorde prijzen aanrekenen. Jij bent de onmisbare schakel die dossiers nauwkeurig opvolgt, aanvragen controleert en helder communiceert met zorgvoorzieningen.<br><br>Je duikt in een mix van cijfers en regelgeving – zonder dat je een financieel expert hoeft te zijn. Met een scherpe blik en oog voor detail bewaak je de volledigheid van dossiers, stel je brieven en beslissingen op en zorg je voor een vlotte afhandeling in het e-loket.<br><br>Daarnaast ben je het aanspreekpunt voor zorgvoorzieningen met vragen, en denk je actief mee over hoe we procedures nog beter en efficiënter kunnen maken. Je komt terecht in een geëngageerd team dat ook andere subsidies voor ouderenzorg beheert – jouw bijdrage is dus meteen voelbaar op het terrein.<br><br>Naast de administratieve opvolging van de dossiers ben je ook het aanspreekpunt voor de voorzieningen waarbij je hun vragen beantwoordt en meedenkt over de toepassing van de wetgeving.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4257,41 +4342,6 @@
         {
           "address": {
             "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18459",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18459",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundige Kind en Gezin team Aalst"
-      },
-      "displayTitle": "Verpleegkundige Kind en Gezin team Aalst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Aalst en bezoekt de gezinnen thuis. </p><p>Op de <a href=\"https://kindengezin.sharepoint.com/sites/intranet/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fintranet%2FShared%20Documents%2Fgeokaarten%5Foktober%5F2023%2Donline%2Epdf&amp;parent=%2Fsites%2Fintranet%2FShared%20Documents\">kaarten</a>&nbsp;kan je bekijken in welke gemeenten dit team precies werkt.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>",
-        "htmlEncoded": "<p>Gezocht: verpleegkundigen en vroedvrouwen die smelten voor jonge kinderen én jonge kinderen doen smelten. Als verpleegkundige volg je bij ons de&nbsp;groei, gezondheid en ontwikkeling van jonge kinderen&nbsp;op. Je werkt voor één van de lokale teams van Kind en gezin, team Aalst en bezoekt de gezinnen thuis. </p><p>Op de <a href=\"https://kindengezin.sharepoint.com/sites/intranet/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fintranet%2FShared%20Documents%2Fgeokaarten%5Foktober%5F2023%2Donline%2Epdf&amp;parent=%2Fsites%2Fintranet%2FShared%20Documents\">kaarten</a>&nbsp;kan je bekijken in welke gemeenten dit team precies werkt.</p><p><strong>Een dag uit je leven als verpleegkundige</strong></p><ul><li>Je dient&nbsp;vaccins&nbsp;toe, en neemt&nbsp;gehoor- en oogtesten&nbsp;af.&nbsp;&nbsp;</li><li>Je test de&nbsp;motoriek, communicatie en het gedrag&nbsp;van kinderen.&nbsp;</li><li>Je zorgt dat de&nbsp;gegevens van de kinderen&nbsp;correct en actueel zijn.&nbsp;</li><li>Je geeft informatie aan&nbsp;ouders, beantwoordt vragen en geeft advies.&nbsp;&nbsp;</li><li>Daarnaast zorg je mee voor het&nbsp;medische materiaal&nbsp;in het consultatiebureau. Je beheert vaccins en controleert de apparaten.&nbsp;</li></ul><p><strong>&nbsp;<br>Waarom deze job echt iets voor jou is</strong></p><ul><li>Je mag elke dag werken met&nbsp;hele jonge kinderen van 0 tot 30 maanden.&nbsp;</li><li>Je komt in contact met&nbsp;diverse&nbsp;culturen, nationaliteiten en gewoonten.&nbsp;Al die&nbsp;ouders hebben iets moois gemeen: ze willen het beste voor hun kind.&nbsp;&nbsp;</li><li>Je staat er nooit alleen voor.&nbsp;Samen met&nbsp;jou werkt een team&nbsp;van onder meer verpleegkundigen, een psychopedagoog, sociaal werker en gezinsondersteuner. Als je het even niet meer weet, ondersteunen zij jou om de gezinnen te helpen.&nbsp;&nbsp;</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
@@ -4472,6 +4522,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18406",
+      "internal": false,
+      "validThroughDate": "1749427200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18406",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Stafmedewerker Financiële Cel"
+      },
+      "displayTitle": "Stafmedewerker Financiële Cel",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij sterk met cijfers én gemotiveerd om écht maatschappelijke waarde te creëren? Zoek je een job waar jouw analytisch talent rechtstreeks bijdraagt aan betere zorg en ondersteuning voor de Vlaming?<br><br>Als stafmedewerker in de financiële cel krijg je een sleutelrol binnen de Vlaamse Sociale Bescherming. Jij beheert niet alleen indrukwekkende budgetten (4,3 miljard euro per jaar en een reservefonds van 1 miljard), je zorgt er ook voor dat zorgbudgetten en tegemoetkomingen correct en tijdig bij burgers terechtkomen. Jouw werk heeft directe impact op het leven van tienduizenden mensen.<br><br>Je bent veel meer dan een cijferaar achter de schermen:</div><ul><li>Je stelt begrotingen op, beheert de boekhouding en rapporteert aan controleorganen.</li><li>Je ondersteunt beleidsmakers en collega’s met financiële analyses, simulaties en prognoses.</li><li>Je denkt mee na over nieuwe processen, slimme digitalisering en het opzetten van dashboards.</li><li>Je detecteert financiële risico’s én zet je schouders onder verbetertrajecten.<br><br></li></ul><div>Samenwerken staat centraal. Je werkt nauw samen met interne teams, andere afdelingen binnen het Departement Zorg en met de zorgkassen. Met jouw inzichten en adviezen help je hen om beslissingen te nemen die écht het verschil maken — zowel financieel als maatschappelijk.<br><br><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div>",
+        "htmlEncoded": "<div>Ben jij sterk met cijfers én gemotiveerd om écht maatschappelijke waarde te creëren? Zoek je een job waar jouw analytisch talent rechtstreeks bijdraagt aan betere zorg en ondersteuning voor de Vlaming?<br><br>Als stafmedewerker in de financiële cel krijg je een sleutelrol binnen de Vlaamse Sociale Bescherming. Jij beheert niet alleen indrukwekkende budgetten (4,3 miljard euro per jaar en een reservefonds van 1 miljard), je zorgt er ook voor dat zorgbudgetten en tegemoetkomingen correct en tijdig bij burgers terechtkomen. Jouw werk heeft directe impact op het leven van tienduizenden mensen.<br><br>Je bent veel meer dan een cijferaar achter de schermen:</div><ul><li>Je stelt begrotingen op, beheert de boekhouding en rapporteert aan controleorganen.</li><li>Je ondersteunt beleidsmakers en collega’s met financiële analyses, simulaties en prognoses.</li><li>Je denkt mee na over nieuwe processen, slimme digitalisering en het opzetten van dashboards.</li><li>Je detecteert financiële risico’s én zet je schouders onder verbetertrajecten.<br><br></li></ul><div>Samenwerken staat centraal. Je werkt nauw samen met interne teams, andere afdelingen binnen het Departement Zorg en met de zorgkassen. Met jouw inzichten en adviezen help je hen om beslissingen te nemen die écht het verschil maken — zowel financieel als maatschappelijk.<br><br><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18404",
       "internal": false,
       "validThroughDate": "1749168000",
@@ -4497,6 +4582,38 @@
       "description": {
         "raw": "<div>Ben jij een geboren leider met een passie voor natuur en ecologie? Wil jij een sleutelrol spelen in het strategisch sturen van gebiedsprioriteiten en bijdragen aan een duurzaam natuurbeleid in Vlaanderen? Dan is deze functie bij het Agentschap Natuur en Bos iets voor jou!<br><br><strong>Wat ga je doen?</strong></div><div>Als celhoofd gebiedsprioriteiten ben je verantwoordelijk voor het aansturen van de cel en neem je deel aan de directieraad van Natuur en Bos. Je geeft strategische sturing aan de gebiedsprioriteiten. Je zorgt er zo voor dat de belangrijkste gebieden voorrang krijgen in ons beleid van inrichting en dat we deze opnemen in onze programma’s en projecten.</div><div>Je werkt volgens de kernwaarden van Natuur en Bos: open communicatie, vertrouwen, samenwerken en oog voor welzijn.<br><br><strong>Jouw verantwoordelijkheden</strong></div><ul><li>&nbsp;Je stuurt de cel gebiedsprioriteiten met 15 medewerkers op expert- en/of coördinatieniveau aan.</li><li>Je vertaalt beleidsdoelen en beleidsplannen met geografische focus naar concrete gebiedsgerichte prioriteiten en actieplannen.</li><li>Je stelt een rollend meerjarenprogramma op voor de inrichting van natuur op het terrein volgens de uitgestippelde beleidslijnen.</li><li>Je zet instrumenten voor inrichting en subsidiëring doelmatig in.</li><li>Je faciliteert de samenwerking met de afdelingen inrichting en terreinbeheer.</li><li>Je rapporteert aan de Administrateur-generaal.</li></ul><div><strong>Wat breng je mee?</strong></div><ul><li>&nbsp;Leiderschapskwaliteiten en ervaring in het aansturen van teams.</li><li>Sterke communicatieve vaardigheden en het vermogen om vertrouwen en samenwerking te bevorderen.</li><li>Kennis van ecologie en natuurbeheer.</li><li>Het vermogen om strategische beslissingen te nemen en deze te onderbouwen.</li><li>Een duidelijke visie en de capaciteit om knopen door te hakken.</li></ul><div><strong>Wat bieden wij?</strong></div><ul><li>&nbsp;Een uitdagende en veelzijdige functie binnen een dynamische organisatie.</li><li>De kans om een directe impact te hebben op de natuur in Vlaanderen.</li><li>Samenwerking met een team van experts en coördinatoren.</li><li>Een werkomgeving waarin welzijn en samenwerking centraal staan.</li></ul><div>Ben jij klaar om mee aan het stuur te zitten van wat verwezenlijkt kan worden in de natuurgebieden van Vlaanderen? Solliciteer dan nu en maak deel uit van ons gepassioneerde team bij Agentschap Natuur en Bos!<br><br>We kijken uit naar je sollicitatie!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
         "htmlEncoded": "<div>Ben jij een geboren leider met een passie voor natuur en ecologie? Wil jij een sleutelrol spelen in het strategisch sturen van gebiedsprioriteiten en bijdragen aan een duurzaam natuurbeleid in Vlaanderen? Dan is deze functie bij het Agentschap Natuur en Bos iets voor jou!<br><br><strong>Wat ga je doen?</strong></div><div>Als celhoofd gebiedsprioriteiten ben je verantwoordelijk voor het aansturen van de cel en neem je deel aan de directieraad van Natuur en Bos. Je geeft strategische sturing aan de gebiedsprioriteiten. Je zorgt er zo voor dat de belangrijkste gebieden voorrang krijgen in ons beleid van inrichting en dat we deze opnemen in onze programma’s en projecten.</div><div>Je werkt volgens de kernwaarden van Natuur en Bos: open communicatie, vertrouwen, samenwerken en oog voor welzijn.<br><br><strong>Jouw verantwoordelijkheden</strong></div><ul><li>&nbsp;Je stuurt de cel gebiedsprioriteiten met 15 medewerkers op expert- en/of coördinatieniveau aan.</li><li>Je vertaalt beleidsdoelen en beleidsplannen met geografische focus naar concrete gebiedsgerichte prioriteiten en actieplannen.</li><li>Je stelt een rollend meerjarenprogramma op voor de inrichting van natuur op het terrein volgens de uitgestippelde beleidslijnen.</li><li>Je zet instrumenten voor inrichting en subsidiëring doelmatig in.</li><li>Je faciliteert de samenwerking met de afdelingen inrichting en terreinbeheer.</li><li>Je rapporteert aan de Administrateur-generaal.</li></ul><div><strong>Wat breng je mee?</strong></div><ul><li>&nbsp;Leiderschapskwaliteiten en ervaring in het aansturen van teams.</li><li>Sterke communicatieve vaardigheden en het vermogen om vertrouwen en samenwerking te bevorderen.</li><li>Kennis van ecologie en natuurbeheer.</li><li>Het vermogen om strategische beslissingen te nemen en deze te onderbouwen.</li><li>Een duidelijke visie en de capaciteit om knopen door te hakken.</li></ul><div><strong>Wat bieden wij?</strong></div><ul><li>&nbsp;Een uitdagende en veelzijdige functie binnen een dynamische organisatie.</li><li>De kans om een directe impact te hebben op de natuur in Vlaanderen.</li><li>Samenwerking met een team van experts en coördinatoren.</li><li>Een werkomgeving waarin welzijn en samenwerking centraal staan.</li></ul><div>Ben jij klaar om mee aan het stuur te zitten van wat verwezenlijkt kan worden in de natuurgebieden van Vlaanderen? Solliciteer dan nu en maak deel uit van ons gepassioneerde team bij Agentschap Natuur en Bos!<br><br>We kijken uit naar je sollicitatie!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18397",
+      "internal": false,
+      "validThroughDate": "1749427200",
+      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18397",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Stafmedewerker Beleidscoördinatie"
+      },
+      "displayTitle": "Stafmedewerker Beleidscoördinatie",
+      "isProtected": false,
+      "description": {
+        "raw": "Als stafmedewerker\nbeleidscoördinatie werk je in een dynamisch team en ondersteun je onder andere\nbij de coördinatie van de parlementaire vragen en burgervragen. Je neemt\ninterne dispatch van verschillende mailboxen onder je hoede en zorgt ervoor dat\nde juiste informatie of vragen bij de juiste personen terechtkomen. Wanneer\nnodig, zorg je ook voor de terugkoppeling van de antwoorden en waak je er over\ndat onze antwoorden aan de vormvereisten voldoen. Daarnaast denk je mee na over\nmogelijkheden tot procesverbetering en digitalisering. Je werkt nauw samen met\nhet team, de afdeling, het afdelingshoofd en collega’s van andere afdelingen.\nJe bent communicatief, ondernemend en oplossingsgericht.<br><br>Bij voorkeur heb je\naffiniteit met digitalisering en AI en ben je enthousiast om de opportuniteiten\nhiervan binnen de afdeling te verkennen. Bij ons krijg je de kans om je kennis\nen ervaring te delen en verder te ontwikkelen.<br><br>Ben jij klaar om samen\nmet ons te werken aan een efficiënte en kwalitatieve dienstverlening?\nSolliciteer dan nu en word onze nieuwe Stafmedewerker Beleidscoördinatie!",
+        "htmlEncoded": "Als stafmedewerker\nbeleidscoördinatie werk je in een dynamisch team en ondersteun je onder andere\nbij de coördinatie van de parlementaire vragen en burgervragen. Je neemt\ninterne dispatch van verschillende mailboxen onder je hoede en zorgt ervoor dat\nde juiste informatie of vragen bij de juiste personen terechtkomen. Wanneer\nnodig, zorg je ook voor de terugkoppeling van de antwoorden en waak je er over\ndat onze antwoorden aan de vormvereisten voldoen. Daarnaast denk je mee na over\nmogelijkheden tot procesverbetering en digitalisering. Je werkt nauw samen met\nhet team, de afdeling, het afdelingshoofd en collega’s van andere afdelingen.\nJe bent communicatief, ondernemend en oplossingsgericht.<br><br>Bij voorkeur heb je\naffiniteit met digitalisering en AI en ben je enthousiast om de opportuniteiten\nhiervan binnen de afdeling te verkennen. Bij ons krijg je de kans om je kennis\nen ervaring te delen en verder te ontwikkelen.<br><br>Ben jij klaar om samen\nmet ons te werken aan een efficiënte en kwalitatieve dienstverlening?\nSolliciteer dan nu en word onze nieuwe Stafmedewerker Beleidscoördinatie!"
       },
       "locations": [
         {
@@ -4791,7 +4908,7 @@
     {
       "link": "/Job/cornerstone-18320",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1749513600",
       "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
       "reservedForDisability": false,
       "openPositions": 4,
@@ -5162,46 +5279,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18256",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "Vlaamse Landmaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18256",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Administratief ondersteuner"
-      },
-      "displayTitle": "Administratief ondersteuner",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De Vlaamse Landmaatschappij (VLM) is op zoek naar een gemotiveerde administratieve ondersteuner voor de dienst Algemene Diensten in Regio Oost. Je zal voornamelijk werkzaam zijn in Hasselt of Herentals, waarbij je dagelijks wordt aangestuurd door een leidinggevende en samenwerkt met verschillende teams binnen de organisatie. Thuiswerken is mogelijk, altijd in overleg met je leidinggevende en team. Verplaatsingen binnen de bredere regio Oost zijn een vast onderdeel van de job.</p><p>Als administratieve ondersteuner ben je de spil van de entiteit en voer je cruciale taken uit om een vlotte en efficiënte werking te garanderen. Jouw verantwoordelijkheden omvatten onder andere telefonische permanentie, afhandeling van de briefwisseling, agendabeheer van leidinggevenden, en het organiseren van overlegmomenten met interne diensten en externen. Daarnaast bied je versterking aan andere diensten, zoals administratieve ondersteuning van leidinggevenden, PDPO-controles, en het beheer van volkstuintjes.</p><p>Je beheert en structureert administratieve dossiers en gegevens door documenten te ordenen, digitaliseren en beschikbaar te maken voor collega’s. Ook verzorg je de verslaggeving van vergaderingen en andere bijeenkomsten door notulen op te stellen en actiepunten op te volgen. Een vlotte administratieve organisatie wordt gewaarborgd door postverwerking, onthaal en coördinatie van planningen te beheren. Je beheert inkomende en uitgaande post, ontvangt bezoekers en stelt overzichten op van roosters en afspraken.</p><p>Naast deze kernverantwoordelijkheden voer je ook ondersteunende taken uit, variërend van logistieke ondersteuning tot het helpen bij het versturen van zendingen. Jouw veelzijdige rol draagt bij tot een vlotte werking van de dienst of afdeling. Als jij gedreven bent, organisatorisch sterk en een teamspeler, dan ben jij de persoon die we zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
-        "htmlEncoded": "<p>De Vlaamse Landmaatschappij (VLM) is op zoek naar een gemotiveerde administratieve ondersteuner voor de dienst Algemene Diensten in Regio Oost. Je zal voornamelijk werkzaam zijn in Hasselt of Herentals, waarbij je dagelijks wordt aangestuurd door een leidinggevende en samenwerkt met verschillende teams binnen de organisatie. Thuiswerken is mogelijk, altijd in overleg met je leidinggevende en team. Verplaatsingen binnen de bredere regio Oost zijn een vast onderdeel van de job.</p><p>Als administratieve ondersteuner ben je de spil van de entiteit en voer je cruciale taken uit om een vlotte en efficiënte werking te garanderen. Jouw verantwoordelijkheden omvatten onder andere telefonische permanentie, afhandeling van de briefwisseling, agendabeheer van leidinggevenden, en het organiseren van overlegmomenten met interne diensten en externen. Daarnaast bied je versterking aan andere diensten, zoals administratieve ondersteuning van leidinggevenden, PDPO-controles, en het beheer van volkstuintjes.</p><p>Je beheert en structureert administratieve dossiers en gegevens door documenten te ordenen, digitaliseren en beschikbaar te maken voor collega’s. Ook verzorg je de verslaggeving van vergaderingen en andere bijeenkomsten door notulen op te stellen en actiepunten op te volgen. Een vlotte administratieve organisatie wordt gewaarborgd door postverwerking, onthaal en coördinatie van planningen te beheren. Je beheert inkomende en uitgaande post, ontvangt bezoekers en stelt overzichten op van roosters en afspraken.</p><p>Naast deze kernverantwoordelijkheden voer je ook ondersteunende taken uit, variërend van logistieke ondersteuning tot het helpen bij het versturen van zendingen. Jouw veelzijdige rol draagt bij tot een vlotte werking van de dienst of afdeling. Als jij gedreven bent, organisatorisch sterk en een teamspeler, dan ben jij de persoon die we zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18255",
       "internal": false,
       "validThroughDate": "1748476800",
@@ -5541,6 +5618,38 @@
         {
           "address": {
             "city": "Hofstade"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18171",
+      "internal": true,
+      "validThroughDate": "1749945600",
+      "hiringOrganization": "Onroerend Erfgoed",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18171",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Management assistant"
+      },
+      "displayTitle": "Management assistant",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij een organisatorisch talent met oog voor detail? Wij zijn op zoek naar een enthousiaste management assistent om onze administrateur-generaal, Peter De Wilde, te ondersteunen.<span>&nbsp;<br><br></span></span><span>Als management assistent ben je de steun en toeverlaat voor onze leidend ambtenaar. Je zorgt ervoor dat hij zich ten volle kan focussen op het managen van het agentschap en daarbij sterk ondersteund wordt.<br><br></span><span>Je bent het eerste aanspreekpunt voor interne en externe klanten die hem wensen te contacteren. Het agendabeheer en achterliggend proces ervan kent voor jou geen geheimen meer en je organiseert binnen- en buitenlandse dienstreizen, teamdagen voor de staf van de administrateur-generaal en events in opdracht van de leidend ambtenaar voor het agentschap Onroerend Erfgoed. Jij coördineert en regelt alles tot in de puntjes, van a tot z, van voorbereiding tot nazorg.<br><br></span><span>Je geeft leiding aan de directiesecretaresse en de chauffeur van onze administrateur-generaal. Samen zorgen jullie ervoor dat hij gedocumenteerd naar zijn afspraken kan gaan en over de nodige informatie beschikt, tijdig aanwezig is op zijn afspraken en efficiënt zijn opdracht als leidend ambtenaar van het agentschap Onroerend Erfgoed kan uitvoeren. Je werkt heel nauw samen met de collega’s van het directieteam en van de staf van de administrateur-generaal.</span><span>&nbsp;<br><br></span><span>Je hebt een scherp oog voor detail, bent communicatief sterk en weet precies hoe je de juiste prioriteiten stelt. Jouw sterke organisatorische vaardigheden en proactief handelen zijn jouw troeven. Flexibiliteit is belangrijk om de drukke agenda van de administrateur-generaal te organiseren. Je moet snel kunnen schakelen wanneer er opdrachten komen. Discretie draag je hoog in het vaandel en je bent eveneens heel oplossingsgericht.<br><br></span><span>Jouw werk heeft direct invloed op de reputatie van ons agentschap als betrouwbare en dynamische organisatie, die zorgt voor een gemeenschap begeesterd door erfgoed in Vlaanderen.<br><br></span><span>We zoeken iemand die resultaat- en kwaliteitsgericht werkt en die zich hieraan vasthoudt, maar tegelijk ook flexibel is in aanpak richting de collega’s. Ben je een ondersteuner in hart en nieren? Spreekt deze uitdaging je aan? Solliciteer dan nu en word de steunpilaar voor onze administrateur-generaal.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij een organisatorisch talent met oog voor detail? Wij zijn op zoek naar een enthousiaste management assistent om onze administrateur-generaal, Peter De Wilde, te ondersteunen.<span>&nbsp;<br><br></span></span><span>Als management assistent ben je de steun en toeverlaat voor onze leidend ambtenaar. Je zorgt ervoor dat hij zich ten volle kan focussen op het managen van het agentschap en daarbij sterk ondersteund wordt.<br><br></span><span>Je bent het eerste aanspreekpunt voor interne en externe klanten die hem wensen te contacteren. Het agendabeheer en achterliggend proces ervan kent voor jou geen geheimen meer en je organiseert binnen- en buitenlandse dienstreizen, teamdagen voor de staf van de administrateur-generaal en events in opdracht van de leidend ambtenaar voor het agentschap Onroerend Erfgoed. Jij coördineert en regelt alles tot in de puntjes, van a tot z, van voorbereiding tot nazorg.<br><br></span><span>Je geeft leiding aan de directiesecretaresse en de chauffeur van onze administrateur-generaal. Samen zorgen jullie ervoor dat hij gedocumenteerd naar zijn afspraken kan gaan en over de nodige informatie beschikt, tijdig aanwezig is op zijn afspraken en efficiënt zijn opdracht als leidend ambtenaar van het agentschap Onroerend Erfgoed kan uitvoeren. Je werkt heel nauw samen met de collega’s van het directieteam en van de staf van de administrateur-generaal.</span><span>&nbsp;<br><br></span><span>Je hebt een scherp oog voor detail, bent communicatief sterk en weet precies hoe je de juiste prioriteiten stelt. Jouw sterke organisatorische vaardigheden en proactief handelen zijn jouw troeven. Flexibiliteit is belangrijk om de drukke agenda van de administrateur-generaal te organiseren. Je moet snel kunnen schakelen wanneer er opdrachten komen. Discretie draag je hoog in het vaandel en je bent eveneens heel oplossingsgericht.<br><br></span><span>Jouw werk heeft direct invloed op de reputatie van ons agentschap als betrouwbare en dynamische organisatie, die zorgt voor een gemeenschap begeesterd door erfgoed in Vlaanderen.<br><br></span><span>We zoeken iemand die resultaat- en kwaliteitsgericht werkt en die zich hieraan vasthoudt, maar tegelijk ook flexibel is in aanpak richting de collega’s. Ben je een ondersteuner in hart en nieren? Spreekt deze uitdaging je aan? Solliciteer dan nu en word de steunpilaar voor onze administrateur-generaal.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -5990,46 +6099,6 @@
         {
           "address": {
             "city": "Leuven"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17883",
-      "internal": false,
-      "validThroughDate": "1747785600",
-      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17883",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamgroeptrekker"
-      },
-      "displayTitle": "Teamgroeptrekker",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? <strong>Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. </strong>Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>Wil jij een sleutelrol spelen in een klantgerichte en efficiënte dienstverlening? <strong>Als Teamgroeptrekker&nbsp; bij de afdeling FONS stuur je de werking van teamgroep West (kantoor Gent en Brugge), vertaal je beleidsdoelen naar concrete acties en ondersteun je teams in hun ontwikkeling. </strong>Je bouwt aan sterk samenwerkende teams, stimuleert gedeeld leiderschap en zet je in voor kwaliteitsverbetering en innovatie. Je bent een verbindende schakel tussen uitvoering en beleid en draagt actief bij aan een betere dienstverlening voor gezinnen. Je benut hiervoor je coachende vaardigheden, je zin voor initiatief en innovatie en je communicatie skills. Om de teams die werken op verschillende locaties optimaal te begeleiden, is het belangrijk dat je je regelmatig verplaatst.&nbsp; &nbsp; &nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als Teamgroeptrekker wellicht jouw ideale match.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!&nbsp;</div><div></div><div>Interesse? Solliciteer nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
