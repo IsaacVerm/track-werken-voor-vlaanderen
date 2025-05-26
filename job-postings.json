@@ -1,11 +1,46 @@
 {
-  "totalItems": 187,
+  "totalItems": 191,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 186,
+  "lastItemOfPage": 190,
   "items": [
+    {
+      "link": "/Job/vdab-71160065",
+      "internal": false,
+      "validThroughDate": "1749945600",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71160065",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker systeemherstel Schelde"
+      },
+      "displayTitle": "Onderzoeker systeemherstel Schelde",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Wil je bijdragen aan het begrip van biodiversiteit, ecosysteemherstel en de impact van inrichting en beheer op de ecologische toestand in het Scheldebekken? Dan is deze vacature iets voor jou! </span></p> \n<p dir=\"ltr\"><span>Je onderzoeksfocus zal liggen op het ecosysteemherstel van het Scheldebekken. Je verwerkt, interpreteert, rapporteert (monitorings)data om bij te dragen aan beleidsrelevante kennisvraagstukken rond natuurherstel en -inrichting in het Scheldebekken (bv. in het kader van Sigmaplan). Het hoofddoel van je functie is de integratie van verschillende bestaande databases, het uitvoeren van geavanceerde statistische analyses in het kader van specifieke onderzoeksvragen inzake ecosysteemherstel, rapportage over ecosysteemherstel en het initiëren en schrijven van wetenschappelijke publicaties.</span></p> \n<p dir=\"ltr\"><span>Als onderzoeker bij Team Estuaria kom je terecht in een dynamisch en multidisciplinair onderzoeksteam dat zich richt op het verkennen en begrijpen van complexe ecosystemen. Jouw rol is cruciaal in het uitvoeren van (toegepast) wetenschappelijk onderzoek, waarbij je samenwerkt met deskundige collega's om relevante inzichten te verwerven en aan te bieden aan beleidsmakers en beheerders.</span></p> \n<p dir=\"ltr\"> </p>",
+        "htmlEncoded": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Wil je bijdragen aan het begrip van biodiversiteit, ecosysteemherstel en de impact van inrichting en beheer op de ecologische toestand in het Scheldebekken? Dan is deze vacature iets voor jou! </span></p> \n<p dir=\"ltr\"><span>Je onderzoeksfocus zal liggen op het ecosysteemherstel van het Scheldebekken. Je verwerkt, interpreteert, rapporteert (monitorings)data om bij te dragen aan beleidsrelevante kennisvraagstukken rond natuurherstel en -inrichting in het Scheldebekken (bv. in het kader van Sigmaplan). Het hoofddoel van je functie is de integratie van verschillende bestaande databases, het uitvoeren van geavanceerde statistische analyses in het kader van specifieke onderzoeksvragen inzake ecosysteemherstel, rapportage over ecosysteemherstel en het initiëren en schrijven van wetenschappelijke publicaties.</span></p> \n<p dir=\"ltr\"><span>Als onderzoeker bij Team Estuaria kom je terecht in een dynamisch en multidisciplinair onderzoeksteam dat zich richt op het verkennen en begrijpen van complexe ecosystemen. Jouw rol is cruciaal in het uitvoeren van (toegepast) wetenschappelijk onderzoek, waarbij je samenwerkt met deskundige collega's om relevante inzichten te verwerven en aan te bieden aan beleidsmakers en beheerders.</span></p> \n<p dir=\"ltr\"> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71136321",
       "internal": false,
@@ -2562,41 +2597,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70513832",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70513832",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ontwikkelaar expert (Agentschap Uitbetaling Groeipakket) via Vlaanderen Connect"
-      },
-      "displayTitle": "Ontwikkelaar expert (Agentschap Uitbetaling Groeipakket) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Het \n<strong>Agentschap Uitbetaling Groeipakket </strong>(VUTG), opgericht op 1 januari 2019, heeft als missie het stipt, correct en continu uitbetalen van toelagen in het kader van het gezinsbeleid, samen met de private uitbetalingsactoren. \n<strong>FONS</strong>, de Vlaamse overheidsdienst die het Groeipakket uitbetaalt, zorgt voor een luisterend oor en een warme dienstverlening.\n<span> </span>Samen met hun partners helpen ze de gezinnen zo goed mogelijk. \n<strong>Zo krijgt ieder kind waar het recht op heeft! In onze organisatie kan je een bijdrage leveren aan de maatschappij</strong>. Samen anticiperen we op evoluties en behoeften die actueel zijn in de samenleving.</span></p> \n<p><span><span>Als jong en dynamisch agentschap staan we voor veel IT-uitdagingen. Ons agentschap streeft naar </span></span><span><span lang=\"NL\">een goede balans tussen de bijzonder noodzakelijke </span></span><span><strong><span>innovatie</span></strong></span><span><span lang=\"NL\"> en tegelijk ervoor zorgen</span></span><span><span> dat </span></span><span><span lang=\"NL\">onze </span></span><span><span>bestaande \n<strong>toepassingen</strong> blijven draaien en de \n<strong>dagelijkse werking</strong> ondersteund wordt.</span></span><span><span lang=\"NL\"> We leggen focus </span></span><span><span>op </span></span><span><span lang=\"NL\">a</span></span><span><span>rtificiële </span></span><span><span lang=\"NL\">i</span></span><span><span>ntelligentie (</span></span><span><span lang=\"NL\">met ambitieuze </span></span><span><span>A</span></span><span><span lang=\"NL\">I-projecten</span></span><span><span>)</span></span><span><span lang=\"NL\"> en data gedreven innovatief werken, en we </span></span><span><span>zetten vol in op automatisering</span></span><span><span lang=\"NL\"> van allerlei taken en dienstverleningen. Denk in dat kader bijvoorbeeld aan de schooltoeslag of het ondersteunen van lokale besturen bij het uitbetalen van hun toelagen aan burgers.</span></span></p> \n<p><span><span>Je komt terecht bij het team \n<strong>BIMT</strong> (Business Informatie Management &amp; Technologie) waar je samenwerkt met een 20-tal topcollega’s die zorgen voor de verdere ontwikkeling van samenwerking en telefonie, ondersteuning bieden bij IT-problemen en vragen, verantwoordelijk zijn voor de ontwikkeling en beheer van verschillende IT-toepassingen en ondersteuning geven aan verschillende BIMT-projecten. </span></span></p> \n<p><span><span>Als je jezelf herkent in de \n<strong>kernwaarden van ons agentschap</strong> – ‘samen en warm’, ‘voor klanten’, ‘dynamisch innoveren’, ‘deskundig durven’ en ‘vertrouwen’ - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als \n<strong>Ontwikkelaar expert </strong>wellicht de ideale match!</span></span></p> \n<p><span><span>Het Agentschap Uitbetaling Groeipakket wil graag dat zijn personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!</span></span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>Ben jij de \n<strong>ontwikkelaar expert</strong> die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><span>Het Agentschap Uitbetaling Groeipakket (VUTG) zoekt een ontwikkelaar die verantwoordelijk is voor het ontwikkelen en implementeren van high-quality softwareapplicaties.\n<span> </span></span></p> \n<p><span>Als ontwikkelaar expert sta je in om softwareoplossingen te ontwerpen, ontwikkelen, testen, verbeteren en onderhouden. Het uiteindelijke doel is om toepassingen te creëren die waarde toevoegen voor de organisatie of de gebruiker.</span></p>",
-        "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>Het \n<strong>Agentschap Uitbetaling Groeipakket </strong>(VUTG), opgericht op 1 januari 2019, heeft als missie het stipt, correct en continu uitbetalen van toelagen in het kader van het gezinsbeleid, samen met de private uitbetalingsactoren. \n<strong>FONS</strong>, de Vlaamse overheidsdienst die het Groeipakket uitbetaalt, zorgt voor een luisterend oor en een warme dienstverlening.\n<span> </span>Samen met hun partners helpen ze de gezinnen zo goed mogelijk. \n<strong>Zo krijgt ieder kind waar het recht op heeft! In onze organisatie kan je een bijdrage leveren aan de maatschappij</strong>. Samen anticiperen we op evoluties en behoeften die actueel zijn in de samenleving.</span></p> \n<p><span><span>Als jong en dynamisch agentschap staan we voor veel IT-uitdagingen. Ons agentschap streeft naar </span></span><span><span lang=\"NL\">een goede balans tussen de bijzonder noodzakelijke </span></span><span><strong><span>innovatie</span></strong></span><span><span lang=\"NL\"> en tegelijk ervoor zorgen</span></span><span><span> dat </span></span><span><span lang=\"NL\">onze </span></span><span><span>bestaande \n<strong>toepassingen</strong> blijven draaien en de \n<strong>dagelijkse werking</strong> ondersteund wordt.</span></span><span><span lang=\"NL\"> We leggen focus </span></span><span><span>op </span></span><span><span lang=\"NL\">a</span></span><span><span>rtificiële </span></span><span><span lang=\"NL\">i</span></span><span><span>ntelligentie (</span></span><span><span lang=\"NL\">met ambitieuze </span></span><span><span>A</span></span><span><span lang=\"NL\">I-projecten</span></span><span><span>)</span></span><span><span lang=\"NL\"> en data gedreven innovatief werken, en we </span></span><span><span>zetten vol in op automatisering</span></span><span><span lang=\"NL\"> van allerlei taken en dienstverleningen. Denk in dat kader bijvoorbeeld aan de schooltoeslag of het ondersteunen van lokale besturen bij het uitbetalen van hun toelagen aan burgers.</span></span></p> \n<p><span><span>Je komt terecht bij het team \n<strong>BIMT</strong> (Business Informatie Management &amp; Technologie) waar je samenwerkt met een 20-tal topcollega’s die zorgen voor de verdere ontwikkeling van samenwerking en telefonie, ondersteuning bieden bij IT-problemen en vragen, verantwoordelijk zijn voor de ontwikkeling en beheer van verschillende IT-toepassingen en ondersteuning geven aan verschillende BIMT-projecten. </span></span></p> \n<p><span><span>Als je jezelf herkent in de \n<strong>kernwaarden van ons agentschap</strong> – ‘samen en warm’, ‘voor klanten’, ‘dynamisch innoveren’, ‘deskundig durven’ en ‘vertrouwen’ - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als \n<strong>Ontwikkelaar expert </strong>wellicht de ideale match!</span></span></p> \n<p><span><span>Het Agentschap Uitbetaling Groeipakket wil graag dat zijn personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid, iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!</span></span></p> \n<p><strong><span>Doel</span></strong></p> \n<p><span>Ben jij de \n<strong>ontwikkelaar expert</strong> die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><span>Het Agentschap Uitbetaling Groeipakket (VUTG) zoekt een ontwikkelaar die verantwoordelijk is voor het ontwikkelen en implementeren van high-quality softwareapplicaties.\n<span> </span></span></p> \n<p><span>Als ontwikkelaar expert sta je in om softwareoplossingen te ontwerpen, ontwikkelen, testen, verbeteren en onderhouden. Het uiteindelijke doel is om toepassingen te creëren die waarde toevoegen voor de organisatie of de gebruiker.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70508182",
       "internal": false,
       "validThroughDate": "-1",
@@ -3612,9 +3612,9 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18700",
+      "link": "/Job/cornerstone-18701",
       "internal": false,
-      "validThroughDate": "1749945600",
+      "validThroughDate": "1751241600",
       "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -3623,7 +3623,7 @@
         "name": "Secundair onderwijs"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18700",
+      "identifier": "cornerstone-18701",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
@@ -3817,6 +3817,38 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18607",
+      "internal": false,
+      "validThroughDate": "1748995200",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18607",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent communicatie"
+      },
+      "displayTitle": "Jobstudent communicatie",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij student en op zoek naar een boeiende studentenjob? Ben je gebeten door communicatie? Dan ben jij misschien wel de student communicatie die het Departement Kanselarij en Buitenlandse Zaken (DKBUZA) zoekt!<br><br>Als jobstudent in het team Communicatie en Marketing sta je mee in voor het schrijven van wervende teksten, zowel voor de website als voor de sociale mediakanalen van DKBUZA. Je ondersteunt de collega’s waar nodig bij andere taken. Indien je ervaring hebt met foto- en videografie en bewerking, is dat een grote troef.<br><br>",
+        "htmlEncoded": "Ben jij student en op zoek naar een boeiende studentenjob? Ben je gebeten door communicatie? Dan ben jij misschien wel de student communicatie die het Departement Kanselarij en Buitenlandse Zaken (DKBUZA) zoekt!<br><br>Als jobstudent in het team Communicatie en Marketing sta je mee in voor het schrijven van wervende teksten, zowel voor de website als voor de sociale mediakanalen van DKBUZA. Je ondersteunt de collega’s waar nodig bij andere taken. Indien je ervaring hebt met foto- en videografie en bewerking, is dat een grote troef.<br><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4216,6 +4248,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18499",
+      "internal": false,
+      "validThroughDate": "1749772800",
+      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18499",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectregisseur Duaal Leren"
+      },
+      "displayTitle": "Projectregisseur Duaal Leren",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als projectregisseur duaal leren ben je sterk in projectmatig\nwerken.&nbsp;Je\nvormt bruggen om beleid en praktijk zo goed mogelijk op elkaar af te stemmen &nbsp;en je coördineert samenwerkingen vanuit de\nafdeling Duaal Leren en Sectoren met diverse stakeholders. &nbsp;Jouw\ntakenpakket is gevarieerd, van het opstellen van nota’s tot het faciliteren en\nopvolgen van samenwerkingen en projecten. Hiervoor is een vlotte pen en het\nvermogen om je schriftelijk en mondeling helder uit te drukken een absolute\nnoodzaak. De projectregisseur\nvoert verschillende taken uit, enkel voorbeelden zijn: </p><ul><li>de coördinatie en het verbinden van beleid en de operationele uitvoering door accountmanagers, sectoren, RTC en opleidings- en onderwijsverstrekkers met het oog op visievorming, kwaliteitsverbeteringen en de groei van duaal leren,</li><li>het coördineren van de inspanningen in het kader van duaal leren in het volwassenenonderwijs binnen de afdeling, het onderzoek naar nieuwe opportuniteiten in het kader van duaal leren in bijvoorbeeld het hoger onderwijs, de opvolging van de impact van de beroepskwalificaties op duaal leren, ….,</li><li>het uitschrijven en opvolgen van processen en procedures binnen de afdeling om de werking te verbeteren,</li><li>het opvolgen van de werking van de interregionale mobiliteit, meewerken aan het jaarrapport Vlaams Partnerschap Duaal Leren,</li><li>de coördinatie en het opstellen van nota’s voor het kabinet, het Vlaams Partnerschap Duaal Leren en parlementaire vragen.</li></ul><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Als projectregisseur duaal leren ben je sterk in projectmatig\nwerken.&nbsp;Je\nvormt bruggen om beleid en praktijk zo goed mogelijk op elkaar af te stemmen &nbsp;en je coördineert samenwerkingen vanuit de\nafdeling Duaal Leren en Sectoren met diverse stakeholders. &nbsp;Jouw\ntakenpakket is gevarieerd, van het opstellen van nota’s tot het faciliteren en\nopvolgen van samenwerkingen en projecten. Hiervoor is een vlotte pen en het\nvermogen om je schriftelijk en mondeling helder uit te drukken een absolute\nnoodzaak. De projectregisseur\nvoert verschillende taken uit, enkel voorbeelden zijn: </p><ul><li>de coördinatie en het verbinden van beleid en de operationele uitvoering door accountmanagers, sectoren, RTC en opleidings- en onderwijsverstrekkers met het oog op visievorming, kwaliteitsverbeteringen en de groei van duaal leren,</li><li>het coördineren van de inspanningen in het kader van duaal leren in het volwassenenonderwijs binnen de afdeling, het onderzoek naar nieuwe opportuniteiten in het kader van duaal leren in bijvoorbeeld het hoger onderwijs, de opvolging van de impact van de beroepskwalificaties op duaal leren, ….,</li><li>het uitschrijven en opvolgen van processen en procedures binnen de afdeling om de werking te verbeteren,</li><li>het opvolgen van de werking van de interregionale mobiliteit, meewerken aan het jaarrapport Vlaams Partnerschap Duaal Leren,</li><li>de coördinatie en het opstellen van nota’s voor het kabinet, het Vlaams Partnerschap Duaal Leren en parlementaire vragen.</li></ul><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18483",
       "internal": false,
       "validThroughDate": "1749427200",
@@ -4281,6 +4348,41 @@
         {
           "address": {
             "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18469",
+      "internal": false,
+      "validThroughDate": "1750118400",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18469",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker digitale veiligheid"
+      },
+      "displayTitle": "Beleidsmedewerker digitale veiligheid",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gefascineerd door cybersecurity en wil je een impactvolle rol spelen in het beschermen van digitale infrastructuren? Dan is deze kans bij Digitaal Vlaanderen jouw perfecte match! </p><p>Als beleidsmedewerker Digitale Veiligheid zal je het beleid uitstippelen, implementeren en monitoren, advies geven over ondersteuningstrajecten en samenwerken met partners zoals het Agentschap Binnenlands Bestuur en Audit Vlaanderen. Je zal nauw samenwerken met andere overheidsdiensten en stakeholders om de cyberweerbaarheid van de Vlaamse administraties te versterken en te blijven innoveren in een snel evoluerend cyberlandschap.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij gefascineerd door cybersecurity en wil je een impactvolle rol spelen in het beschermen van digitale infrastructuren? Dan is deze kans bij Digitaal Vlaanderen jouw perfecte match! </p><p>Als beleidsmedewerker Digitale Veiligheid zal je het beleid uitstippelen, implementeren en monitoren, advies geven over ondersteuningstrajecten en samenwerken met partners zoals het Agentschap Binnenlands Bestuur en Audit Vlaanderen. Je zal nauw samenwerken met andere overheidsdiensten en stakeholders om de cyberweerbaarheid van de Vlaamse administraties te versterken en te blijven innoveren in een snel evoluerend cyberlandschap.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
@@ -4386,6 +4488,41 @@
         {
           "address": {
             "city": "Leuven"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18407",
+      "internal": true,
+      "validThroughDate": "1749772800",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18407",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectcoördinator energie en klimaat"
+      },
+      "displayTitle": "Projectcoördinator energie en klimaat",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap en ben je op zoek naar een nieuwe uitdaging? Heb je zin om je organisatorische talenten in te zetten voor projecten die mee het verschil maken in de (Vlaamse) energie- en klimaattransitie? Dan is deze functie misschien wel iets voor jou!</span></p> <p><span>Als projectcoördinator werk je aan verschillende projecten binnen het domein energie en klimaat. Je bent verantwoordelijk voor de dagelijkse opvolging van projectplanningen, de afstemming met interne en externe partners en het rapporteren over de voortgang en resultaten. Je bewaakt deadlines, stuurt bij waar nodig en houdt rekening met risico’s en beschikbare middelen. Het samenwerken met diverse stakeholders is een essentieel onderdeel van je rol, je weet dan ook helder en professioneel te communiceren, zowel mondeling als schriftelijk.</span></p> <p><span>In eerste instantie zal je instaan voor de coördinatie van het Europese FOSSTER-project, dat loopt tot november 2025. Binnen dit project werk je nauw samen met meerdere internationale partners en zorg je voor een strakke opvolging van planning, rapportage en risico’s. Na afloop van FOSSTER zal je overstappen naar de verdere uitbouw van de Woningpas, een digitale toepassing die eigenaars inzicht geeft in de energetische staat van hun woning. Ook hier werk je met veel stakeholders – zowel binnen de Vlaamse overheid als extern – en begeleid je inhoudelijke én IT-gerelateerde aanpassingen. Beide trajecten vereisen een stevige portie projectmanagement, gestructureerde samenwerking en oog voor resultaat.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap en ben je op zoek naar een nieuwe uitdaging? Heb je zin om je organisatorische talenten in te zetten voor projecten die mee het verschil maken in de (Vlaamse) energie- en klimaattransitie? Dan is deze functie misschien wel iets voor jou!</span></p> <p><span>Als projectcoördinator werk je aan verschillende projecten binnen het domein energie en klimaat. Je bent verantwoordelijk voor de dagelijkse opvolging van projectplanningen, de afstemming met interne en externe partners en het rapporteren over de voortgang en resultaten. Je bewaakt deadlines, stuurt bij waar nodig en houdt rekening met risico’s en beschikbare middelen. Het samenwerken met diverse stakeholders is een essentieel onderdeel van je rol, je weet dan ook helder en professioneel te communiceren, zowel mondeling als schriftelijk.</span></p> <p><span>In eerste instantie zal je instaan voor de coördinatie van het Europese FOSSTER-project, dat loopt tot november 2025. Binnen dit project werk je nauw samen met meerdere internationale partners en zorg je voor een strakke opvolging van planning, rapportage en risico’s. Na afloop van FOSSTER zal je overstappen naar de verdere uitbouw van de Woningpas, een digitale toepassing die eigenaars inzicht geeft in de energetische staat van hun woning. Ook hier werk je met veel stakeholders – zowel binnen de Vlaamse overheid als extern – en begeleid je inhoudelijke én IT-gerelateerde aanpassingen. Beide trajecten vereisen een stevige portie projectmanagement, gestructureerde samenwerking en oog voor resultaat.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
