@@ -1,16 +1,16 @@
 {
-  "totalItems": 193,
+  "totalItems": 197,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 192,
+  "lastItemOfPage": 196,
   "items": [
     {
-      "link": "/Job/vdab-71160065",
+      "link": "/Job/vdab-71188820",
       "internal": false,
-      "validThroughDate": "1749945600",
-      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
@@ -18,20 +18,90 @@
         "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "vdab-71160065",
+      "identifier": "vdab-71188820",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Onderzoeker systeemherstel Schelde"
+        "htmlEncoded": "ICT Architect Applicaties (VLAIO) via Vlaanderen Connect"
       },
-      "displayTitle": "Onderzoeker systeemherstel Schelde",
+      "displayTitle": "ICT Architect Applicaties (VLAIO) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Wil je bijdragen aan het begrip van biodiversiteit, ecosysteemherstel en de impact van inrichting en beheer op de ecologische toestand in het Scheldebekken? Dan is deze vacature iets voor jou! </span></p> \n<p dir=\"ltr\"><span>Je onderzoeksfocus zal liggen op het ecosysteemherstel van het Scheldebekken. Je verwerkt, interpreteert, rapporteert (monitorings)data om bij te dragen aan beleidsrelevante kennisvraagstukken rond natuurherstel en -inrichting in het Scheldebekken (bv. in het kader van Sigmaplan). Het hoofddoel van je functie is de integratie van verschillende bestaande databases, het uitvoeren van geavanceerde statistische analyses in het kader van specifieke onderzoeksvragen inzake ecosysteemherstel, rapportage over ecosysteemherstel en het initiëren en schrijven van wetenschappelijke publicaties.</span></p> \n<p dir=\"ltr\"><span>Als onderzoeker bij Team Estuaria kom je terecht in een dynamisch en multidisciplinair onderzoeksteam dat zich richt op het verkennen en begrijpen van complexe ecosystemen. Jouw rol is cruciaal in het uitvoeren van (toegepast) wetenschappelijk onderzoek, waarbij je samenwerkt met deskundige collega's om relevante inzichten te verwerven en aan te bieden aan beleidsmakers en beheerders.</span></p> \n<p dir=\"ltr\"> </p>",
-        "htmlEncoded": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Wil je bijdragen aan het begrip van biodiversiteit, ecosysteemherstel en de impact van inrichting en beheer op de ecologische toestand in het Scheldebekken? Dan is deze vacature iets voor jou! </span></p> \n<p dir=\"ltr\"><span>Je onderzoeksfocus zal liggen op het ecosysteemherstel van het Scheldebekken. Je verwerkt, interpreteert, rapporteert (monitorings)data om bij te dragen aan beleidsrelevante kennisvraagstukken rond natuurherstel en -inrichting in het Scheldebekken (bv. in het kader van Sigmaplan). Het hoofddoel van je functie is de integratie van verschillende bestaande databases, het uitvoeren van geavanceerde statistische analyses in het kader van specifieke onderzoeksvragen inzake ecosysteemherstel, rapportage over ecosysteemherstel en het initiëren en schrijven van wetenschappelijke publicaties.</span></p> \n<p dir=\"ltr\"><span>Als onderzoeker bij Team Estuaria kom je terecht in een dynamisch en multidisciplinair onderzoeksteam dat zich richt op het verkennen en begrijpen van complexe ecosystemen. Jouw rol is cruciaal in het uitvoeren van (toegepast) wetenschappelijk onderzoek, waarbij je samenwerkt met deskundige collega's om relevante inzichten te verwerven en aan te bieden aan beleidsmakers en beheerders.</span></p> \n<p dir=\"ltr\"> </p>"
+        "raw": "<p>Je bent een gepassioneerd ICT’er die ervan houdt om zowel zelf de handen uit de mouwen te steken als het overzicht te bewaren en mee strategische keuzes te bepalen. Je gaat graag in interactie met de business en vertaalt de behoeften naar performante ICT-oplossingen. Daarbij heb je steevast oog voor de coherentie van het geheel aan toepassingen binnen en buiten de organisatie. Jij zorgt ervoor dat modules en componenten maximaal hergebruikt worden en dat verschillende oplossingen vlot met elkaar ‘spreken’.</p> \n<p><strong>Als ICT-architect applicaties heb je twee hoofdtaken:</strong></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Je bent de ICT-architect voor alle VLAIO-applicaties waarmee we de interne bedrijfsvoering en de klanten ondersteunen </span></span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Je zorgt mee voor de technische en architecturale implementatie van het e-loket voor ondernemers.</span></span></p> \n<p><strong>Jouw belangrijkste verantwoordelijkheden: </strong></p> \n<p><span><span>·\n<span> </span></span></span><span><span>Visie &amp; strategie: Samen met de andere architecten een visie en strategie voor de VLAIO ICT-architectuur en het e-loket voor ondernemers uitwerken, waarbij business- informatie- en technische aspecten mee in rekening gebracht worden. Je houdt ook rekening met essentiële randvoorwaarden zoals s</span></span><span><span>ynergie, modulariteit, </span></span><span><span lang=\"NL\">gedeelde uitgangspunten, regels, standaarden en richtlijnen zoals bijvoorbeeld de Europese verordening ‘Single Digital Gateway’ </span></span><span><span>. VLAIO werkt met verschillende technologieën: .Net (</span></span><em><span>C#</span></em><span>) en Java, </span><span><span>Azure en AWS, Drupal, Angular, MS Dynamics, …</span></span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Richting geven bij implementatie: Zorgen voor een heldere vertaling van deze strategie naar een kader en praktische richtlijnen, aansluitend waken over de praktische implementatie van dit kader en praktische richtlijnen. Indien relevant stuur je het architectuurontwerp bij. Voor het e-loket betekent dat een sterk business-, informatie- en technisch-architecturaal ontwerp. In al je ontwerpen en richtlijnen besteed je de nodige aandacht aan monitoring en security.</span></span></p> \n<p><span><span>·\n<span> </span></span></span><span><span>Advies verlenen: Vanuit jouw praktijkervaring geef je advies op vlak van architectuur, met oog voor de strategie. Je doet dat bij de ontwikkeling van nieuwe toepassingen en bij de bijsturing van bestaande toepassingen. Daarnaast </span></span><span><span>neem je actief deel aan</span></span><span><span> de Adviesraad ICT-architectuur van VLAIO (2 ICT-architecten, data-architect, teamleiders, stakeholders).</span></span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning bij implementatie: Je faciliteert </span><span>op technisch en architecturaal vlak bij de aansluiting van (nieuwe) partners op bouwstenen zodat ze kunnen participeren aan het ecosysteem van het e-loket voor ondernemers. Je waakt daarbij over het toepassen van de principes van single sign-on (SSO) en gericht aanmelden.</span></p> \n<p><span lang=\"nl\"><span>·\n<span> </span></span></span><span>Overleg met partners: Waar relevant ga je in overleg met ander partijen om gezamenlijke ontwikkelingen mee vorm te geven.</span></p>",
+        "htmlEncoded": "<p>Je bent een gepassioneerd ICT’er die ervan houdt om zowel zelf de handen uit de mouwen te steken als het overzicht te bewaren en mee strategische keuzes te bepalen. Je gaat graag in interactie met de business en vertaalt de behoeften naar performante ICT-oplossingen. Daarbij heb je steevast oog voor de coherentie van het geheel aan toepassingen binnen en buiten de organisatie. Jij zorgt ervoor dat modules en componenten maximaal hergebruikt worden en dat verschillende oplossingen vlot met elkaar ‘spreken’.</p> \n<p><strong>Als ICT-architect applicaties heb je twee hoofdtaken:</strong></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Je bent de ICT-architect voor alle VLAIO-applicaties waarmee we de interne bedrijfsvoering en de klanten ondersteunen </span></span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Je zorgt mee voor de technische en architecturale implementatie van het e-loket voor ondernemers.</span></span></p> \n<p><strong>Jouw belangrijkste verantwoordelijkheden: </strong></p> \n<p><span><span>·\n<span> </span></span></span><span><span>Visie &amp; strategie: Samen met de andere architecten een visie en strategie voor de VLAIO ICT-architectuur en het e-loket voor ondernemers uitwerken, waarbij business- informatie- en technische aspecten mee in rekening gebracht worden. Je houdt ook rekening met essentiële randvoorwaarden zoals s</span></span><span><span>ynergie, modulariteit, </span></span><span><span lang=\"NL\">gedeelde uitgangspunten, regels, standaarden en richtlijnen zoals bijvoorbeeld de Europese verordening ‘Single Digital Gateway’ </span></span><span><span>. VLAIO werkt met verschillende technologieën: .Net (</span></span><em><span>C#</span></em><span>) en Java, </span><span><span>Azure en AWS, Drupal, Angular, MS Dynamics, …</span></span></p> \n<p><span><span><span>·\n<span> </span></span></span></span><span><span>Richting geven bij implementatie: Zorgen voor een heldere vertaling van deze strategie naar een kader en praktische richtlijnen, aansluitend waken over de praktische implementatie van dit kader en praktische richtlijnen. Indien relevant stuur je het architectuurontwerp bij. Voor het e-loket betekent dat een sterk business-, informatie- en technisch-architecturaal ontwerp. In al je ontwerpen en richtlijnen besteed je de nodige aandacht aan monitoring en security.</span></span></p> \n<p><span><span>·\n<span> </span></span></span><span><span>Advies verlenen: Vanuit jouw praktijkervaring geef je advies op vlak van architectuur, met oog voor de strategie. Je doet dat bij de ontwikkeling van nieuwe toepassingen en bij de bijsturing van bestaande toepassingen. Daarnaast </span></span><span><span>neem je actief deel aan</span></span><span><span> de Adviesraad ICT-architectuur van VLAIO (2 ICT-architecten, data-architect, teamleiders, stakeholders).</span></span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning bij implementatie: Je faciliteert </span><span>op technisch en architecturaal vlak bij de aansluiting van (nieuwe) partners op bouwstenen zodat ze kunnen participeren aan het ecosysteem van het e-loket voor ondernemers. Je waakt daarbij over het toepassen van de principes van single sign-on (SSO) en gericht aanmelden.</span></p> \n<p><span lang=\"nl\"><span>·\n<span> </span></span></span><span>Overleg met partners: Waar relevant ga je in overleg met ander partijen om gezamenlijke ontwikkelingen mee vorm te geven.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71188747",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71188747",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ICT Infrastructuur Architect (VLAIO) via Vlaanderen Connect"
+      },
+      "displayTitle": "ICT Infrastructuur Architect (VLAIO) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>We zijn op zoek naar een ICT’er om onze ICT-infrastructuur efficiënt te beheren en klaar te stomen voor de toekomst. Je zorgt ervoor dat onze applicaties en platformen maximaal kunnen integreren en met de juiste middelen beveiligd worden. Het zwaartepunt van de functie ligt op cloud infrastructuur. Voel je je als een vis in het water in de cloud en weet je als geen ander hoe een performante ICT-infrastructuur er moet uitzien? Ben je een teamspeler die graag samen met collega’s een complexe IT-infrastructuur beheert? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</strong></p> \n<p><strong>Job-inhoud</strong></p> \n<p>Jouw voornaamste taken en verantwoordelijkheden zijn:</p> \n<ul> \n<li><span>Verder uittekenen van de VLAIO-architectuur</span>: Je bouwt de VLAIO IT- architectuur verder uit en houdt daarbij rekening met verschillende omgevingen en infrastructuur onderdelen. Waar relevant hou je ook rekening met interactiemogelijkheden met toepassingen, platformen, data, … van andere entiteiten. Jouw voornaamste focus binnen dit alles is de IT-infrastructuur die VLAIO in eigen beheer heeft en die zich grotendeels in de Azure cloud bevindt.</li> \n<li><span>Aligneren met strategie en gebruikersnoden:</span> Je waakt erover dat de VLAIO-architectuur naadloos aansluit bij onze strategische doelstellingen en de steeds veranderende technische vereisten van een cloudomgeving. Je overlegt met de verschillende teams van de afdeling om ervoor te zorgen dat onze architectuur voldoet aan de behoeften van alle stakeholders.</li> \n<li><span>Beheer en onderhoud van de IT-infrastructuur</span>: Voor de IT-infrastructuur in eigen beheer van VLAIO teken je procedures uit en documenteer je die. Je overlegt met partners en stuurt collega’s (systeembeheerders) en consultants aan met oog op de praktische implementatie van de VLAIO cloudinfrastructuur. Waar nodig steek je zelf mee de handen uit de mouwen.</li> \n<li><span>Beveiliging van de IT-infrastructuur</span>: Je waarborgt de veiligheid en integriteit van onze infrastructuur in overleg met de security officer. Samen met collega’s los je proactief mogelijke issues op en optimaliseer je de VLAIO ITIL processen zoals toegangsbeheer (access management) en middelenbeheer (asset management) op onze cloudinfrastructuur.</li> \n<li><span>Advies verlenen</span>: Samen met andere architecten neem je deel aan de adviesraad architectuur data &amp; digitaal. In die raad draag je vanuit jouw expertise bij aan adviezen op vlak van applicaties, data en achterliggende technologie die in het kader van concrete projecten gevraagd worden.</li> \n<li><span>Strategie en visie mee uittekenen</span>: Vanuit deze opdracht kijk je ruimer dan de Azure cloudomgeving die VLAIO in eigen beheer heeft. Je houdt overzicht op onze hele infrastructuur en het cloudlandschap daarbuiten om tot een cloudstrategie voor VLAIO te komen. Via deelname aan de adviesraad architectuur data &amp; digitaal draag je ook bij aan een overkoepelende visie op vlak van applicaties, data en achterliggende technologie.</li> \n<li><span>Voortdurend vernieuwen</span>: Je zorgt ervoor dat je op de hoogte blijft van de nieuwste trends en ontwikkelingen op vlak van IT-infrastructuur en cloudtechnologieën. Waar relevant pas je die dan toe om onze systemen te verbeteren.</li> </ul>",
+        "htmlEncoded": "<p><strong>We zijn op zoek naar een ICT’er om onze ICT-infrastructuur efficiënt te beheren en klaar te stomen voor de toekomst. Je zorgt ervoor dat onze applicaties en platformen maximaal kunnen integreren en met de juiste middelen beveiligd worden. Het zwaartepunt van de functie ligt op cloud infrastructuur. Voel je je als een vis in het water in de cloud en weet je als geen ander hoe een performante ICT-infrastructuur er moet uitzien? Ben je een teamspeler die graag samen met collega’s een complexe IT-infrastructuur beheert? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</strong></p> \n<p><strong>Job-inhoud</strong></p> \n<p>Jouw voornaamste taken en verantwoordelijkheden zijn:</p> \n<ul> \n<li><span>Verder uittekenen van de VLAIO-architectuur</span>: Je bouwt de VLAIO IT- architectuur verder uit en houdt daarbij rekening met verschillende omgevingen en infrastructuur onderdelen. Waar relevant hou je ook rekening met interactiemogelijkheden met toepassingen, platformen, data, … van andere entiteiten. Jouw voornaamste focus binnen dit alles is de IT-infrastructuur die VLAIO in eigen beheer heeft en die zich grotendeels in de Azure cloud bevindt.</li> \n<li><span>Aligneren met strategie en gebruikersnoden:</span> Je waakt erover dat de VLAIO-architectuur naadloos aansluit bij onze strategische doelstellingen en de steeds veranderende technische vereisten van een cloudomgeving. Je overlegt met de verschillende teams van de afdeling om ervoor te zorgen dat onze architectuur voldoet aan de behoeften van alle stakeholders.</li> \n<li><span>Beheer en onderhoud van de IT-infrastructuur</span>: Voor de IT-infrastructuur in eigen beheer van VLAIO teken je procedures uit en documenteer je die. Je overlegt met partners en stuurt collega’s (systeembeheerders) en consultants aan met oog op de praktische implementatie van de VLAIO cloudinfrastructuur. Waar nodig steek je zelf mee de handen uit de mouwen.</li> \n<li><span>Beveiliging van de IT-infrastructuur</span>: Je waarborgt de veiligheid en integriteit van onze infrastructuur in overleg met de security officer. Samen met collega’s los je proactief mogelijke issues op en optimaliseer je de VLAIO ITIL processen zoals toegangsbeheer (access management) en middelenbeheer (asset management) op onze cloudinfrastructuur.</li> \n<li><span>Advies verlenen</span>: Samen met andere architecten neem je deel aan de adviesraad architectuur data &amp; digitaal. In die raad draag je vanuit jouw expertise bij aan adviezen op vlak van applicaties, data en achterliggende technologie die in het kader van concrete projecten gevraagd worden.</li> \n<li><span>Strategie en visie mee uittekenen</span>: Vanuit deze opdracht kijk je ruimer dan de Azure cloudomgeving die VLAIO in eigen beheer heeft. Je houdt overzicht op onze hele infrastructuur en het cloudlandschap daarbuiten om tot een cloudstrategie voor VLAIO te komen. Via deelname aan de adviesraad architectuur data &amp; digitaal draag je ook bij aan een overkoepelende visie op vlak van applicaties, data en achterliggende technologie.</li> \n<li><span>Voortdurend vernieuwen</span>: Je zorgt ervoor dat je op de hoogte blijft van de nieuwste trends en ontwikkelingen op vlak van IT-infrastructuur en cloudtechnologieën. Waar relevant pas je die dan toe om onze systemen te verbeteren.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71188604",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71188604",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Lead Data Engineer (VLAIO) via Vlaanderen Connect"
+      },
+      "displayTitle": "Lead Data Engineer (VLAIO) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>We zijn op zoek naar een\n<strong> Lead Data Engineer</strong> om onze data-infrastructuur efficiënt te beheren en data maximaal te integreren in onze producten en platformen. Het zwaartepunt van de functie ligt op werken met Azure Databricks. Je speelt een belangrijke rol bij de ontwikkeling van de datamodellen en de producten volgens de behoeften van de gebruikers. Ben je een teamspeler en denk je graag organisatiebreed? Heb je een passie voor data en zie je als geen ander hoe je ze gericht kan inzetten om meerwaarde te creëren voor een organisatie? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</p> \n<p><strong>Job-inhoud</strong></p> \n<p>Als Lead Data Engineer speel je een sleutelrol in de digitale transformatie van \n<strong>VLAIO</strong>. Je ontwikkelt robuuste en toekomstbestendige datamodellen boven op onze data-architectuur en vertaalt complexe vereisten naar innovatieve en schaalbare oplossingen. Je waarborgt de veiligheid van onze data-activiteiten en zorgt voor een naadloze integratie van de nieuwste technologieën boven op onze data-architectuur. Je bent verantwoordelijk voor de transformatie van verschillende bronnen en zorgt ervoor dat de data-opslag en datawarehousing in Azure efficiënt en effectief zijn ingericht. Bij dit alles waak je erover dat de oplossingen die je beschikbaar stelt, maximaal inspelen op de gebruikersnoden.</p> \n<p>Jouw voornaamste taken en verantwoordelijkheden zijn:</p> \n<ul> \n<li>Ontwerpen en ontwikkelen van data-producten: Je bent verantwoordelijk voor het ontwerpen en bouwen van schaalbare data-modellen, data-applicaties en domeinen die grote hoeveelheden data kunnen verwerken en opslaan.</li> \n<li>Data-integratie en -transformatie: Je integreert data uit diverse bronnen in Azure Data Lake Storage en transformeert deze naar bruikbare datamodellen. Dit omvat het gebruik van ETL (Extract, Transform, Load) en ELT (Extract, Load, Transform) processen. Je ontwerpt en onderhoudt daartoe een optimale ELT-architectuur via Azure Data Factory en Azure Databricks.</li> \n<li>Beschikbaarheid van de data: Je zorgt ervoor dat de data beschikbaar zijn in ster-modellen waarmee de noden van de gebruikers efficiënt kunnen ingevuld worden. Bij een release plaats je deze modellen in de productieomgevingen via Azure DevOps, en zorgt voor een naadloze integratie en werking.</li> \n<li>Dataplatform beheer: Je onderhoudt het VLAIO-dataplatform en optimaliseert en schaalt het om ervoor te zorgen dat het efficiënt en betrouwbaar blijft werken. Je past de technische onderbouw van het platform aan als dat nodig is om aan bepaalde gebruikersnoden te voldoen.</li> \n<li>Beveiliging en integriteit van data: Je waarborgt de beveiliging, betrouwbaarheid en integriteit van de data binnen de systemen. Dit omvat het implementeren van best practices voor data governance en compliance.</li> \n<li>Samenwerking: Je stemt af met gebruikers voor je oplossingen uitwerkt. Om hun noden te implementeren, werk je nauw samen met zowel interne als externe data scientists, data analisten, en andere data engineers.</li> \n<li>Implementatie van modellen in productie: Je implementeert datamodellen en processen in productieomgevingen via tools zoals Azure DevOps, je zorgt voor een naadloze integratie en werking.</li> \n<li>Bijblijven met trends en ontwikkelingen: Je blijft op de hoogte van de nieuwste trends en ontwikkelingen in data engineering en cloud-technologieën en past deze toe om de systemen te verbeteren en te innoveren.</li> \n<li>Ondersteuning en kennisdeling: Je ondersteunt collega’s en bevordert kennisdeling en samenwerken binnen het team en het agentschap, zodat iedereen op de hoogte blijft van de beste praktijken en nieuwe technologieën.</li> </ul>",
+        "htmlEncoded": "<p>We zijn op zoek naar een\n<strong> Lead Data Engineer</strong> om onze data-infrastructuur efficiënt te beheren en data maximaal te integreren in onze producten en platformen. Het zwaartepunt van de functie ligt op werken met Azure Databricks. Je speelt een belangrijke rol bij de ontwikkeling van de datamodellen en de producten volgens de behoeften van de gebruikers. Ben je een teamspeler en denk je graag organisatiebreed? Heb je een passie voor data en zie je als geen ander hoe je ze gericht kan inzetten om meerwaarde te creëren voor een organisatie? Dan zou dit de geknipte job voor jou kunnen zijn! Aarzel niet en solliciteer nu!</p> \n<p><strong>Job-inhoud</strong></p> \n<p>Als Lead Data Engineer speel je een sleutelrol in de digitale transformatie van \n<strong>VLAIO</strong>. Je ontwikkelt robuuste en toekomstbestendige datamodellen boven op onze data-architectuur en vertaalt complexe vereisten naar innovatieve en schaalbare oplossingen. Je waarborgt de veiligheid van onze data-activiteiten en zorgt voor een naadloze integratie van de nieuwste technologieën boven op onze data-architectuur. Je bent verantwoordelijk voor de transformatie van verschillende bronnen en zorgt ervoor dat de data-opslag en datawarehousing in Azure efficiënt en effectief zijn ingericht. Bij dit alles waak je erover dat de oplossingen die je beschikbaar stelt, maximaal inspelen op de gebruikersnoden.</p> \n<p>Jouw voornaamste taken en verantwoordelijkheden zijn:</p> \n<ul> \n<li>Ontwerpen en ontwikkelen van data-producten: Je bent verantwoordelijk voor het ontwerpen en bouwen van schaalbare data-modellen, data-applicaties en domeinen die grote hoeveelheden data kunnen verwerken en opslaan.</li> \n<li>Data-integratie en -transformatie: Je integreert data uit diverse bronnen in Azure Data Lake Storage en transformeert deze naar bruikbare datamodellen. Dit omvat het gebruik van ETL (Extract, Transform, Load) en ELT (Extract, Load, Transform) processen. Je ontwerpt en onderhoudt daartoe een optimale ELT-architectuur via Azure Data Factory en Azure Databricks.</li> \n<li>Beschikbaarheid van de data: Je zorgt ervoor dat de data beschikbaar zijn in ster-modellen waarmee de noden van de gebruikers efficiënt kunnen ingevuld worden. Bij een release plaats je deze modellen in de productieomgevingen via Azure DevOps, en zorgt voor een naadloze integratie en werking.</li> \n<li>Dataplatform beheer: Je onderhoudt het VLAIO-dataplatform en optimaliseert en schaalt het om ervoor te zorgen dat het efficiënt en betrouwbaar blijft werken. Je past de technische onderbouw van het platform aan als dat nodig is om aan bepaalde gebruikersnoden te voldoen.</li> \n<li>Beveiliging en integriteit van data: Je waarborgt de beveiliging, betrouwbaarheid en integriteit van de data binnen de systemen. Dit omvat het implementeren van best practices voor data governance en compliance.</li> \n<li>Samenwerking: Je stemt af met gebruikers voor je oplossingen uitwerkt. Om hun noden te implementeren, werk je nauw samen met zowel interne als externe data scientists, data analisten, en andere data engineers.</li> \n<li>Implementatie van modellen in productie: Je implementeert datamodellen en processen in productieomgevingen via tools zoals Azure DevOps, je zorgt voor een naadloze integratie en werking.</li> \n<li>Bijblijven met trends en ontwikkelingen: Je blijft op de hoogte van de nieuwste trends en ontwikkelingen in data engineering en cloud-technologieën en past deze toe om de systemen te verbeteren en te innoveren.</li> \n<li>Ondersteuning en kennisdeling: Je ondersteunt collega’s en bevordert kennisdeling en samenwerken binnen het team en het agentschap, zodat iedereen op de hoogte blijft van de beste praktijken en nieuwe technologieën.</li> </ul>"
       },
       "locations": [
         {
@@ -2352,41 +2422,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70628678",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70628678",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ICT Security Manager / Security Operations Lead (Wegen en Verkeer) via Vlaanderen Connect"
-      },
-      "displayTitle": "ICT Security Manager / Security Operations Lead (Wegen en Verkeer) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Je functie in het kort:</span></strong><strong><span> </span></strong><strong></strong></p> \n<p><span>Het \n<strong>Agentschap Wegen en Verkeer</strong> is onder de NIS 2 wet aangeduid als een essentiële entiteit. Dit houdt in dat er op vlak van informatieveiligheid een aantal nieuwe of verscherpte maatregelen getroffen moeten worden. Deze maatregelen moeten eerst in informatieveiligheidsbeleid vertaald worden. Daarna moet dit beleid ook effectief in de verschillende afdelingen verspreid, gedocumenteerd en geïmplementeerd worden. De grootste impact hierbij zal bij de afdelingen ICT en Innovatie (I&amp;I) en het Verkeerscentrum (VC) liggen.</span></p> \n<p><span>Binnen de afdeling ICT &amp; Innovatie van het Agentschap Wegen en Verkeer zetelt de CIO Office die over de afdelingen heen de nodige richtlijnen opstelt op vlak van privacy (DPO) en security (CISO). De afdeling I&amp;I ontwikkelt ook verschillende bedrijfstoepassingen ter ondersteuning van de werking van het Agentschap.</span></p> \n<p><span>De afdeling Verkeerscentrum maakt gebruik van diverse geavanceerde toepassingen om het verkeer in goede banen te leiden. Denk hierbij aan intelligente transportsystemen (ITS), verkeersmonitoring en -controle systemen, en systemen die real-time verkeersinformatie verzamelen en weergeven. De activiteiten van het Verkeerscentrum vinden plaats op een afgescheiden netwerkomgeving: het Telematica netwerk, ook wel de OT omgeving genoemd.</span></p> \n<p><span>Verschillende security oplossingen zijn reeds actief in deze OT omgeving. Een in-house SOC team monitort deze oplossingen en zorgt ervoor dat de nodige alerts geëscaleerd en aangepakt worden.</span></p> \n<p><span>AWV is op zoek naar een ervaren en gedreven \n<strong>Security Manager / Security Operations Lead</strong>. In deze rol ben je verantwoordelijk voor het implementeren van het informatieveiligheidsbeleid binnen AWV. Je zet de juiste processen op, documenteert deze aan de hand van procedures, en ziet erop toe dat deze procedures nauwgezet worden gevolgd. Daarnaast stuur je het SOC-team aan en zorg je voor een veilige en efficiënte OT omgeving.</span></p> \n<p><span> </span></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Implementeren van het informatieveiligheidsbeleid binnen AWV.</span></li> \n<li><span>Ontwikkelen, documenteren en onderhouden van beveiligingsprocedures en -processen.</span></li> \n<li><span>Toezien op de implementatie en naleving van beveiligingsprocedures en -processen.</span></li> \n<li><span>Aansturen en begeleiden van het SOC-team.</span></li> \n<li><span>Identificeren en mitigeren van beveiligingsrisico’s binnen de OT omgeving.</span></li> \n<li><span>Samenwerken met interne en externe stakeholders om beveiligingsdoelstellingen te bereiken.</span></li> \n<li><span>Monitoren van beveiligingsincidenten en coördineren van incident response activiteiten.</span></li> \n<li><span>Organiseren van regelmatige beveiligingsaudits, pentests en assessments.</span></li> \n<li><span>Rapporteren van beveiligingsstatus en incidenten aan het management.</span></li> </ul> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Het kantoor bevindt zich op korte wandelafstand van het station Brussel-Noord, in het Marie-Elisabeth Belpaire gebouw. We werken 2 vaste dagen - maandag en donderdag - fysiek op kantoor.</span></p> \n<p><span> </span></p>",
-        "htmlEncoded": "<p><strong><span>Je functie in het kort:</span></strong><strong><span> </span></strong><strong></strong></p> \n<p><span>Het \n<strong>Agentschap Wegen en Verkeer</strong> is onder de NIS 2 wet aangeduid als een essentiële entiteit. Dit houdt in dat er op vlak van informatieveiligheid een aantal nieuwe of verscherpte maatregelen getroffen moeten worden. Deze maatregelen moeten eerst in informatieveiligheidsbeleid vertaald worden. Daarna moet dit beleid ook effectief in de verschillende afdelingen verspreid, gedocumenteerd en geïmplementeerd worden. De grootste impact hierbij zal bij de afdelingen ICT en Innovatie (I&amp;I) en het Verkeerscentrum (VC) liggen.</span></p> \n<p><span>Binnen de afdeling ICT &amp; Innovatie van het Agentschap Wegen en Verkeer zetelt de CIO Office die over de afdelingen heen de nodige richtlijnen opstelt op vlak van privacy (DPO) en security (CISO). De afdeling I&amp;I ontwikkelt ook verschillende bedrijfstoepassingen ter ondersteuning van de werking van het Agentschap.</span></p> \n<p><span>De afdeling Verkeerscentrum maakt gebruik van diverse geavanceerde toepassingen om het verkeer in goede banen te leiden. Denk hierbij aan intelligente transportsystemen (ITS), verkeersmonitoring en -controle systemen, en systemen die real-time verkeersinformatie verzamelen en weergeven. De activiteiten van het Verkeerscentrum vinden plaats op een afgescheiden netwerkomgeving: het Telematica netwerk, ook wel de OT omgeving genoemd.</span></p> \n<p><span>Verschillende security oplossingen zijn reeds actief in deze OT omgeving. Een in-house SOC team monitort deze oplossingen en zorgt ervoor dat de nodige alerts geëscaleerd en aangepakt worden.</span></p> \n<p><span>AWV is op zoek naar een ervaren en gedreven \n<strong>Security Manager / Security Operations Lead</strong>. In deze rol ben je verantwoordelijk voor het implementeren van het informatieveiligheidsbeleid binnen AWV. Je zet de juiste processen op, documenteert deze aan de hand van procedures, en ziet erop toe dat deze procedures nauwgezet worden gevolgd. Daarnaast stuur je het SOC-team aan en zorg je voor een veilige en efficiënte OT omgeving.</span></p> \n<p><span> </span></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Implementeren van het informatieveiligheidsbeleid binnen AWV.</span></li> \n<li><span>Ontwikkelen, documenteren en onderhouden van beveiligingsprocedures en -processen.</span></li> \n<li><span>Toezien op de implementatie en naleving van beveiligingsprocedures en -processen.</span></li> \n<li><span>Aansturen en begeleiden van het SOC-team.</span></li> \n<li><span>Identificeren en mitigeren van beveiligingsrisico’s binnen de OT omgeving.</span></li> \n<li><span>Samenwerken met interne en externe stakeholders om beveiligingsdoelstellingen te bereiken.</span></li> \n<li><span>Monitoren van beveiligingsincidenten en coördineren van incident response activiteiten.</span></li> \n<li><span>Organiseren van regelmatige beveiligingsaudits, pentests en assessments.</span></li> \n<li><span>Rapporteren van beveiligingsstatus en incidenten aan het management.</span></li> </ul> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Het kantoor bevindt zich op korte wandelafstand van het station Brussel-Noord, in het Marie-Elisabeth Belpaire gebouw. We werken 2 vaste dagen - maandag en donderdag - fysiek op kantoor.</span></p> \n<p><span> </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70627969",
       "internal": false,
       "validThroughDate": "-1",
@@ -3612,6 +3647,81 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18714",
+      "internal": false,
+      "validThroughDate": "1749600000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18714",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider - Zemst"
+      },
+      "displayTitle": "Scheepvaartbegeleider - Zemst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
+        "htmlEncoded": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18708",
+      "internal": false,
+      "validThroughDate": "1749513600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18708",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "RIS-medewerker (River Information Services)"
+      },
+      "displayTitle": "RIS-medewerker (River Information Services)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>&nbsp;In deze boeiende functie staat communicatie met verschillende mensen centraal. Je staat immers in voor een correcte berichtgeving van het RIS (River Information Services of binnenvaartinformatiediensten) zoals het verspreiden van scheepvaartberichten, hoogwaterberichten,… via telefoon, mail, website. Je bent het aanspreekpunt bij calamiteiten en incidenten en beantwoordt allerlei vragen. Bovendien fungeer je als helpdeskmedewerker van het RIS voor onze scheepvaartbegeleiders. Uiteraard verwachten we dat je ook diverse administratieve taken vervult zoals het ophalen, aanvullen en corrigeren van data, het opmaken van rapportages en het ingeven van boekhoudkundige gegevens. Je kan ingeschakeld worden ofwel in de dagdienst (zonder nachten en weekendwerk) ofwel in een volcontinu-systeem. Dit laatste gebeurt in een 2-ploegensysteem (shiften van 12 uren) met weekendwerk.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp; </p>",
+        "htmlEncoded": "<p>&nbsp;In deze boeiende functie staat communicatie met verschillende mensen centraal. Je staat immers in voor een correcte berichtgeving van het RIS (River Information Services of binnenvaartinformatiediensten) zoals het verspreiden van scheepvaartberichten, hoogwaterberichten,… via telefoon, mail, website. Je bent het aanspreekpunt bij calamiteiten en incidenten en beantwoordt allerlei vragen. Bovendien fungeer je als helpdeskmedewerker van het RIS voor onze scheepvaartbegeleiders. Uiteraard verwachten we dat je ook diverse administratieve taken vervult zoals het ophalen, aanvullen en corrigeren van data, het opmaken van rapportages en het ingeven van boekhoudkundige gegevens. Je kan ingeschakeld worden ofwel in de dagdienst (zonder nachten en weekendwerk) ofwel in een volcontinu-systeem. Dit laatste gebeurt in een 2-ploegensysteem (shiften van 12 uren) met weekendwerk.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp; </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18701",
       "internal": false,
       "validThroughDate": "1751241600",
@@ -3983,6 +4093,41 @@
         {
           "address": {
             "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18573",
+      "internal": false,
+      "validThroughDate": "1750032000",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18573",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "2 HR specialisten"
+      },
+      "displayTitle": "2 HR specialisten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gepassioneerd door mensen, processen en heb je affiniteit met HR?</p> <p><b>Dan is deze vacature misschien iets voor jou!</b></p> <p>Wij zoeken een gedreven HR specialist die op zoek is naar een job met <b>veel autonomie</b>, waar jij je <b>luisterend oor en inlevingsvermogen</b> kan inzetten om anderen te begrijpen en te ondersteunen. Je kan <b>helder en empathisch communiceren</b> en brengt gevoelige of complexe informatie op een respectvolle en constructieve manier over. Je krijgt energie van het <b>nemen van initiatieven</b> en je reageert <b>proactief</b> op de verschillende mogelijkheden die zich voordoen.</p> <p><b>Als HR-specialist bij de Vlaamse overheid maak je écht het verschil</b>. </p> <p>Je begeleidt medewerkers in hun loopbaantraject, ondersteunt re-integratie en inclusie, en speelt een sleutelrol in rekrutering en selectie. Wanneer je de woorden ‘communicatief vaardig’ hoort, denk je onmiddellijk aan jezelf.</p> <p><strong>Heb jij die positieve ingesteldheid die wij zoeken? Dan word jij misschien wel onze nieuwe collega!</strong></p><p><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18573+-+HR+specialist+-+functiebeschrijving.pdf\">Lees hier meer details over de job van HR specialist.</a></p><p><span>Lees meer over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p>Ben jij gepassioneerd door mensen, processen en heb je affiniteit met HR?</p> <p><b>Dan is deze vacature misschien iets voor jou!</b></p> <p>Wij zoeken een gedreven HR specialist die op zoek is naar een job met <b>veel autonomie</b>, waar jij je <b>luisterend oor en inlevingsvermogen</b> kan inzetten om anderen te begrijpen en te ondersteunen. Je kan <b>helder en empathisch communiceren</b> en brengt gevoelige of complexe informatie op een respectvolle en constructieve manier over. Je krijgt energie van het <b>nemen van initiatieven</b> en je reageert <b>proactief</b> op de verschillende mogelijkheden die zich voordoen.</p> <p><b>Als HR-specialist bij de Vlaamse overheid maak je écht het verschil</b>. </p> <p>Je begeleidt medewerkers in hun loopbaantraject, ondersteunt re-integratie en inclusie, en speelt een sleutelrol in rekrutering en selectie. Wanneer je de woorden ‘communicatief vaardig’ hoort, denk je onmiddellijk aan jezelf.</p> <p><strong>Heb jij die positieve ingesteldheid die wij zoeken? Dan word jij misschien wel onze nieuwe collega!</strong></p><p><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18573+-+HR+specialist+-+functiebeschrijving.pdf\">Lees hier meer details over de job van HR specialist.</a></p><p><span>Lees meer over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -5644,8 +5789,8 @@
       "displayTitle": "Sporttechnisch coördinator Waregem",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br> <br> </span></p> <p><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br> <br> </span></p> <p><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken. <br> <br> </span></p> <p><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen. <br> <br> </span></p> <p><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>",
-        "htmlEncoded": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br> <br> </span></p> <p><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br> <br> </span></p> <p><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken. <br> <br> </span></p> <p><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen. <br> <br> </span></p> <p><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>"
+        "raw": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br><br></span><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br><br></span><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken.<br><br></span><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen.<br><br></span><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>",
+        "htmlEncoded": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br><br></span><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br><br></span><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken.<br><br></span><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen.<br><br></span><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>"
       },
       "locations": [
         {
