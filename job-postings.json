@@ -1,10 +1,10 @@
 {
-  "totalItems": 195,
+  "totalItems": 196,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 194,
+  "lastItemOfPage": 195,
   "items": [
     {
       "link": "/Job/vdab-71188820",
@@ -807,41 +807,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71003792",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "VLAM",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71003792",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectcoördinator Promotie (tijdelijk) (m/v/x)"
-      },
-      "displayTitle": "Projectcoördinator Promotie (tijdelijk) (m/v/x)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><em><span lang=\"NL\">VLAM (Vlaams Centrum voor Agro- en Visserijmarketing) is een unieke samenwerking tussen de Vlaamse overheid en het bedrijfsleven. Met gerichte promotie-acties, communicatiecampagnes en events overtuigt VLAM consument en handel, in binnen- en buitenland, om bewust te kiezen voor het vakmanschap van Vlaamse producenten. Een ploeg van ongeveer 75 medewerkers zet zich dagelijks in om de producten van bij ons te doen schitteren. </span></em></p> \n<p><em><span lang=\"NL\">Maak jij graag deel uit van ons team? We zijn op zoek naar een…</span></em></p> \n<p> </p> \n<p align=\"center\"><strong><span lang=\"NL\">PROJECTCOÖRDINATOR PROMOTIE (TIJDELIJK) (m/v/x) \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Bij VLAM werk je mee aan de promotie van “groen van bij ons” en \"lekker van bij ons\", sterke merken die de kwaliteit en het vakmanschap van de Vlaamse land- en tuinbouw in de kijker zetten. Als projectcoördinator neem jij het voortouw in verschillende promotieactiviteiten, met focus op de sierteeltsector. Je krijgt een veelzijdige functie waarin je verantwoordelijk bent van A tot Z: van planning en budgetbeheer tot uitvoering. Je werkt nauw samen met collega’s en rapporteert aan een promotiemanager.</span></p> \n<p>Gedreven door communicatie, marketing én trots op producten van bij ons? Dan ben jij misschien de collega die we zoeken!</p> \n<p><strong><span><br> Wat ga je doen?</span></strong></p> \n<ul> \n<li><span>Jij bent het aanspreekpunt voor de campagnes binnen “groen van bij ons” en werkt vanuit jouw talenten mee aan een aantal andere promotieprojecten.</span></li> \n<li><span>Je beheert jouw projecten van A tot Z: van budget en planning tot uitvoering, samen met enkele collega’s.</span></li> \n<li><span>Je coördineert de creatieve en communicatieve uitwerking van campagnes met interne en externe partners (zoals reclamebureaus).</span></li> \n<li><span>Je volgt alles nauwgezet op en rapporteert regelmatig aan de promotiemanager over de voortgang en resultaten.</span></li> </ul>",
-        "htmlEncoded": "<p><em><span lang=\"NL\">VLAM (Vlaams Centrum voor Agro- en Visserijmarketing) is een unieke samenwerking tussen de Vlaamse overheid en het bedrijfsleven. Met gerichte promotie-acties, communicatiecampagnes en events overtuigt VLAM consument en handel, in binnen- en buitenland, om bewust te kiezen voor het vakmanschap van Vlaamse producenten. Een ploeg van ongeveer 75 medewerkers zet zich dagelijks in om de producten van bij ons te doen schitteren. </span></em></p> \n<p><em><span lang=\"NL\">Maak jij graag deel uit van ons team? We zijn op zoek naar een…</span></em></p> \n<p> </p> \n<p align=\"center\"><strong><span lang=\"NL\">PROJECTCOÖRDINATOR PROMOTIE (TIJDELIJK) (m/v/x) \n<br> \n<br> </span></strong></p> \n<p><span lang=\"NL\">Bij VLAM werk je mee aan de promotie van “groen van bij ons” en \"lekker van bij ons\", sterke merken die de kwaliteit en het vakmanschap van de Vlaamse land- en tuinbouw in de kijker zetten. Als projectcoördinator neem jij het voortouw in verschillende promotieactiviteiten, met focus op de sierteeltsector. Je krijgt een veelzijdige functie waarin je verantwoordelijk bent van A tot Z: van planning en budgetbeheer tot uitvoering. Je werkt nauw samen met collega’s en rapporteert aan een promotiemanager.</span></p> \n<p>Gedreven door communicatie, marketing én trots op producten van bij ons? Dan ben jij misschien de collega die we zoeken!</p> \n<p><strong><span><br> Wat ga je doen?</span></strong></p> \n<ul> \n<li><span>Jij bent het aanspreekpunt voor de campagnes binnen “groen van bij ons” en werkt vanuit jouw talenten mee aan een aantal andere promotieprojecten.</span></li> \n<li><span>Je beheert jouw projecten van A tot Z: van budget en planning tot uitvoering, samen met enkele collega’s.</span></li> \n<li><span>Je coördineert de creatieve en communicatieve uitwerking van campagnes met interne en externe partners (zoals reclamebureaus).</span></li> \n<li><span>Je volgt alles nauwgezet op en rapporteert regelmatig aan de promotiemanager over de voortgang en resultaten.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -3647,6 +3612,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18721",
+      "internal": false,
+      "validThroughDate": "1750291200",
+      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18721",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Kok(s) Restaurant Pachthof"
+      },
+      "displayTitle": "Kok(s) Restaurant Pachthof",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Kom werken in een groene oase aan de rand van de stad. Plantentuin Meise is op zoek naar een sterk en enthousiast keukenteam voor de start van ons nieuwe restaurant Pachthof. Het restaurant opent in het najaar en ligt midden in onze botanische tuin. Samen bezorgen we de bezoekers en ons eigen personeel een culinaire ervaring die nauw samenhangt met het DNA van de Plantentuin. </p><p>We gaan voor een gemoedelijke sfeer en een uniek aanbod waar de Plantentuin touch nooit mag ontbreken. Lokale producenten leveren verse, unieke en soms minder bekende producten die we op de kaart zetten. Creativiteit, authenticiteit, het ophalen van nostalgie en consistentie in kwaliteit zijn waarden waar we op inzetten en die we nastreven.</p><p> We denken na over de impact van onze aangeboden producten en zien het als onze taak om bezoekers nieuwe gerechten te laten ontdekken en die ervaring en gedachtegang mee te nemen naar huis. Die gedachtegang houdt in dat we streekeigen, seizoensgebonden en met een beperkte ecologische voetafdruk werken. Ons Green Key label is hiervoor onze leidraad en aan die principes hechten we veel belang.</p><p>Is het je passie om mensen een smaakvolle ervaring te bezorgen en heb je een servicegerichte instelling? Solliciteer nu en maak deel uit van ons team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Kom werken in een groene oase aan de rand van de stad. Plantentuin Meise is op zoek naar een sterk en enthousiast keukenteam voor de start van ons nieuwe restaurant Pachthof. Het restaurant opent in het najaar en ligt midden in onze botanische tuin. Samen bezorgen we de bezoekers en ons eigen personeel een culinaire ervaring die nauw samenhangt met het DNA van de Plantentuin. </p><p>We gaan voor een gemoedelijke sfeer en een uniek aanbod waar de Plantentuin touch nooit mag ontbreken. Lokale producenten leveren verse, unieke en soms minder bekende producten die we op de kaart zetten. Creativiteit, authenticiteit, het ophalen van nostalgie en consistentie in kwaliteit zijn waarden waar we op inzetten en die we nastreven.</p><p> We denken na over de impact van onze aangeboden producten en zien het als onze taak om bezoekers nieuwe gerechten te laten ontdekken en die ervaring en gedachtegang mee te nemen naar huis. Die gedachtegang houdt in dat we streekeigen, seizoensgebonden en met een beperkte ecologische voetafdruk werken. Ons Green Key label is hiervoor onze leidraad en aan die principes hechten we veel belang.</p><p>Is het je passie om mensen een smaakvolle ervaring te bezorgen en heb je een servicegerichte instelling? Solliciteer nu en maak deel uit van ons team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18714",
       "internal": false,
       "validThroughDate": "1749600000",
@@ -4673,6 +4673,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18440",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 4,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18440",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jurist omgevingsrecht bodemsanering"
+      },
+      "displayTitle": "Jurist omgevingsrecht bodemsanering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben je begaan met de manier waarop mensen en bedrijven omgaan met het milieu?<br> <br> </span><span>Heb jij als jurist een goede kennis van diverse domeinen van het omgevingsrecht? Kan je goed verbanden leggen en zaken vanuit verschillende invalshoeken benaderen</span><span>? Wil je bijdragen aan het delen van juridische kennis met onze stakeholders? Dan is deze functie iets voor jou!<br> <br> <span>Je behandelt in teamverband diverse types van administratieve beroepen tegen beslissingen genomen door de OVAM inzake bodemsanering, je overlegt hierover met je collega-juristen en schrijft ontwerpen van beroepsbesluiten uit. Daarnaast geef je juridisch advies over de toepassing en interpretatie van de betrokken regelgeving. Tevens beheer je rechtszaken in deze materie. Je doet dit in overleg met de inhoudelijk betrokken entiteit en waar nodig met het kabinet. Daarnaast instrueer je in deze rechtszaken de aangestelde advocaten. Voor al deze taken werk je nauw samen met collega-juristen en andere beleidsmedewerkers. Om op de hoogte te blijven van de laatste ontwikkelingen, stem je voortdurend af met collega’s binnen de afdeling en met de relevante stakeholders. Zo bouw je een netwerk op waarin je kansen zoekt om samen te werken, kennis te verzamelen en uit te wisselen.<br><br> </span></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben je begaan met de manier waarop mensen en bedrijven omgaan met het milieu?<br> <br> </span><span>Heb jij als jurist een goede kennis van diverse domeinen van het omgevingsrecht? Kan je goed verbanden leggen en zaken vanuit verschillende invalshoeken benaderen</span><span>? Wil je bijdragen aan het delen van juridische kennis met onze stakeholders? Dan is deze functie iets voor jou!<br> <br> <span>Je behandelt in teamverband diverse types van administratieve beroepen tegen beslissingen genomen door de OVAM inzake bodemsanering, je overlegt hierover met je collega-juristen en schrijft ontwerpen van beroepsbesluiten uit. Daarnaast geef je juridisch advies over de toepassing en interpretatie van de betrokken regelgeving. Tevens beheer je rechtszaken in deze materie. Je doet dit in overleg met de inhoudelijk betrokken entiteit en waar nodig met het kabinet. Daarnaast instrueer je in deze rechtszaken de aangestelde advocaten. Voor al deze taken werk je nauw samen met collega-juristen en andere beleidsmedewerkers. Om op de hoogte te blijven van de laatste ontwikkelingen, stem je voortdurend af met collega’s binnen de afdeling en met de relevante stakeholders. Zo bouw je een netwerk op waarin je kansen zoekt om samen te werken, kennis te verzamelen en uit te wisselen.<br><br> </span></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18413",
       "internal": false,
       "validThroughDate": "1749427200",
@@ -5052,6 +5087,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18328",
+      "internal": true,
+      "validThroughDate": "1750032000",
+      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18328",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adjunct data-analist"
+      },
+      "displayTitle": "Adjunct data-analist",
+      "isProtected": false,
+      "description": {
+        "raw": "Als adjunct data-analist ondersteun je belanghebbenden binnen DMOW bij het nemen van data-gedreven beslissingen. Je werkt samen met ontwikkelaars, businessanalisten en eindgebruikers om functionele vereisten te begrijpen en te vertalen naar technische oplossingen zoals AI, Power BI en datawarehouses. <br><br>Daarnaast ondersteun je een cultuur van verandering binnen het innovatieteam en stem je AI-projecten af op de richtlijnen van het AI-Competence Center, waarbij je kennis deelt binnen de AI-community van de Vlaamse Overheid. Regelmatige en duidelijke communicatie met stakeholders is hierbij essentieel.<br><br>Je neemt deel aan vergaderingen ter ondersteuning van de projectmanager en zorgt voor een vlotte informatie-uitwisseling tussen verschillende partijen. Je volgt projecten op en lost problemen op in samenwerking met het IT-team, waarbij je functionele specificaties en testplannen documenteert.<br><br>Daarnaast ben je verantwoordelijk voor het inhuren en opvolgen van externe technische profielen en geef je leiding aan een kleine groep externe IT-consultants. Je ondersteunt de projectleider van het innovatieteam door de vragen en requirements van de business te begrijpen en de juiste onderzoeksvraag te stellen.<br><br>Als adjunct data-analist evalueer je de bruikbaarheid van data op basis van correctheid, manier van verwerven en beschikbaarheid. Je houdt rekening met de consequenties van het omgaan met GDPR-gevoelige data en beheert metadata, die je transparant communiceert naar de business en gebruikers.<br><br>Tot slot werk je mee aan de bewustwording van de mogelijkheden en valkuilen van AI, zodat alle medewerkers AI kunnen omarmen en de toegevoegde waarde optimaal kunnen benutten.",
+        "htmlEncoded": "Als adjunct data-analist ondersteun je belanghebbenden binnen DMOW bij het nemen van data-gedreven beslissingen. Je werkt samen met ontwikkelaars, businessanalisten en eindgebruikers om functionele vereisten te begrijpen en te vertalen naar technische oplossingen zoals AI, Power BI en datawarehouses. <br><br>Daarnaast ondersteun je een cultuur van verandering binnen het innovatieteam en stem je AI-projecten af op de richtlijnen van het AI-Competence Center, waarbij je kennis deelt binnen de AI-community van de Vlaamse Overheid. Regelmatige en duidelijke communicatie met stakeholders is hierbij essentieel.<br><br>Je neemt deel aan vergaderingen ter ondersteuning van de projectmanager en zorgt voor een vlotte informatie-uitwisseling tussen verschillende partijen. Je volgt projecten op en lost problemen op in samenwerking met het IT-team, waarbij je functionele specificaties en testplannen documenteert.<br><br>Daarnaast ben je verantwoordelijk voor het inhuren en opvolgen van externe technische profielen en geef je leiding aan een kleine groep externe IT-consultants. Je ondersteunt de projectleider van het innovatieteam door de vragen en requirements van de business te begrijpen en de juiste onderzoeksvraag te stellen.<br><br>Als adjunct data-analist evalueer je de bruikbaarheid van data op basis van correctheid, manier van verwerven en beschikbaarheid. Je houdt rekening met de consequenties van het omgaan met GDPR-gevoelige data en beheert metadata, die je transparant communiceert naar de business en gebruikers.<br><br>Tot slot werk je mee aan de bewustwording van de mogelijkheden en valkuilen van AI, zodat alle medewerkers AI kunnen omarmen en de toegevoegde waarde optimaal kunnen benutten."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18320",
       "internal": false,
       "validThroughDate": "1749513600",
@@ -5412,41 +5482,6 @@
       "description": {
         "raw": "<p>Wil je aan de slag als beleidsmedewerker met een hart voor de kust, een cruciale toeristische, economische en ecologische regio in ons land? Toerisme Vlaanderen kijkt uit naar je kandidatuur als Beleidsmedewerker Kust. In deze rol leid je kustbrede projecten voor toerisme mee in goede banen.<br>&nbsp;<br>Afwisseling, verantwoordelijkheid, uitdaging en een maatschappelijke impact om u tegen te zeggen: je vindt het allemaal in deze boeiende functie. Zoals de naam al zegt, combineer je beleidswerk in Brussel met kustbrede projecten.&nbsp; In deze projecten wordt toerisme ingezet om de regio te versterken en te doen floreren. Je werkt daarvoor samen met boeiende en ondernemende mensen, van kustburgemeesters tot bezoekers, van kunstenaars tot ontwikkelaars, de professionals van Westtoer en de collega's van diverse Vlaamse agentschappen.<br>&nbsp;<br>Je trekt projecten om het toeristisch aanbod aan de kust te verbreden, om de kust internationaal te promoten als toeristische bestemming.&nbsp; Van de Beaufort Triënnale over het fietswerk en wandelnetwerk tot de jachthavens, de horeca en de jeugdverblijven - elke dag is anders in deze gevarieerde job.<br>&nbsp;<br>Onder leiding van Westtoer werk jij actief mee aan het project 'Kust in balans'. Als vertegenwoordiger van Toerisme Vlaanderen verzeker je de connectie tussen dit project en onze werking. Samen met je collega, programma coördinator Kust, volg je ook het project 'kustvisie' op welk focust op een toekomstgericht kustbescherming. Je zet mee de 'toeristische' lijnen uit, waarbij je toerisme, natuur en economie op elkaar afstemt.<br>&nbsp;<br>Je verveelt je geen dag in deze boeiende functie. Geïnteresseerd? We kijken uit naar jouw kandidatuur.</p><p>Lees meer over de functie in het selectiereglement als bijlage bij \"hoe solliciteren\". Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.&nbsp;</p>",
         "htmlEncoded": "<p>Wil je aan de slag als beleidsmedewerker met een hart voor de kust, een cruciale toeristische, economische en ecologische regio in ons land? Toerisme Vlaanderen kijkt uit naar je kandidatuur als Beleidsmedewerker Kust. In deze rol leid je kustbrede projecten voor toerisme mee in goede banen.<br>&nbsp;<br>Afwisseling, verantwoordelijkheid, uitdaging en een maatschappelijke impact om u tegen te zeggen: je vindt het allemaal in deze boeiende functie. Zoals de naam al zegt, combineer je beleidswerk in Brussel met kustbrede projecten.&nbsp; In deze projecten wordt toerisme ingezet om de regio te versterken en te doen floreren. Je werkt daarvoor samen met boeiende en ondernemende mensen, van kustburgemeesters tot bezoekers, van kunstenaars tot ontwikkelaars, de professionals van Westtoer en de collega's van diverse Vlaamse agentschappen.<br>&nbsp;<br>Je trekt projecten om het toeristisch aanbod aan de kust te verbreden, om de kust internationaal te promoten als toeristische bestemming.&nbsp; Van de Beaufort Triënnale over het fietswerk en wandelnetwerk tot de jachthavens, de horeca en de jeugdverblijven - elke dag is anders in deze gevarieerde job.<br>&nbsp;<br>Onder leiding van Westtoer werk jij actief mee aan het project 'Kust in balans'. Als vertegenwoordiger van Toerisme Vlaanderen verzeker je de connectie tussen dit project en onze werking. Samen met je collega, programma coördinator Kust, volg je ook het project 'kustvisie' op welk focust op een toekomstgericht kustbescherming. Je zet mee de 'toeristische' lijnen uit, waarbij je toerisme, natuur en economie op elkaar afstemt.<br>&nbsp;<br>Je verveelt je geen dag in deze boeiende functie. Geïnteresseerd? We kijken uit naar jouw kandidatuur.</p><p>Lees meer over de functie in het selectiereglement als bijlage bij \"hoe solliciteren\". Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18227",
-      "internal": false,
-      "validThroughDate": "1748736000",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18227",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Administratieve duizendpoot"
-      },
-      "displayTitle": "Administratieve duizendpoot",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Jij\nzorgt ervoor dat alles op administratief gebied op rolletjes loopt, terwijl je\nals de vriendelijke stem aan de telefoon onze klanten ondersteunt. Als\nadministratieve kracht in de pijler Exploitatie en Veiligheid speel je een\ncruciale rol in het succes van tal van projecten en initiatieven van het\nAgentschap Wegen en Verkeer. Solliciteer vandaag nog en wie weet bouw jij binnenkort\nwel mee aan de vele realisaties die het Agentschap Wegen en Verkeer voor haar\nrekening neemt!</p><p>Hoe ziet jouw takenpakket als administratieve\nduizendpoot er precies uit? Als <strong>administratief medewerker gebouwen,\nveiligheid en districtwerking</strong> verzorg je een aantal administratieve taken\nter ondersteuning van team gebouwen, veiligheid en districtswerking. Je bent\nverantwoordelijk voor de ontzorging van de verschillende teams op\nadministratief vlak. Concreet betekent dit:</p><ul><li>je maakt en volgt afsprakenlijsten op;</li><li>je zorgt voor de administratieve afhandeling van verschillende zaken rond materieel, veiligheid en gebouwen;</li><li>je volgt de desbetreffende budgetprogramma’s op;</li><li>je onderhoudt nauwe contacten met de teams Exploitatie binnen de provinciale wegenafdelingen en de administratieve teams Aanbesteding, Contracten en Vastlegging.</li></ul><p>Je doelen als administratief medewerker\nrealiseer je niet alleen, maar samen met je collega’s uit de <strong>pijler exploitatie en veiligheid</strong>. Je kan steeds op iedereen\nrekenen en iedereen rekent op jou. Onze 7000&nbsp;km wegen en 7700&nbsp;km fietspaden van Agentschap Wegen en Verkeer\nverbinden namelijk alles met iedereen. Dat lukt alleen als die verbindingen\nveilig, vlot en duurzaam zijn voor alle weggebruikers in Vlaanderen, nu en\nmorgen. Daar zetten we volop in; zowel fysiek&nbsp;als&nbsp;digitaal.</p>",
-        "htmlEncoded": "<p>Jij\nzorgt ervoor dat alles op administratief gebied op rolletjes loopt, terwijl je\nals de vriendelijke stem aan de telefoon onze klanten ondersteunt. Als\nadministratieve kracht in de pijler Exploitatie en Veiligheid speel je een\ncruciale rol in het succes van tal van projecten en initiatieven van het\nAgentschap Wegen en Verkeer. Solliciteer vandaag nog en wie weet bouw jij binnenkort\nwel mee aan de vele realisaties die het Agentschap Wegen en Verkeer voor haar\nrekening neemt!</p><p>Hoe ziet jouw takenpakket als administratieve\nduizendpoot er precies uit? Als <strong>administratief medewerker gebouwen,\nveiligheid en districtwerking</strong> verzorg je een aantal administratieve taken\nter ondersteuning van team gebouwen, veiligheid en districtswerking. Je bent\nverantwoordelijk voor de ontzorging van de verschillende teams op\nadministratief vlak. Concreet betekent dit:</p><ul><li>je maakt en volgt afsprakenlijsten op;</li><li>je zorgt voor de administratieve afhandeling van verschillende zaken rond materieel, veiligheid en gebouwen;</li><li>je volgt de desbetreffende budgetprogramma’s op;</li><li>je onderhoudt nauwe contacten met de teams Exploitatie binnen de provinciale wegenafdelingen en de administratieve teams Aanbesteding, Contracten en Vastlegging.</li></ul><p>Je doelen als administratief medewerker\nrealiseer je niet alleen, maar samen met je collega’s uit de <strong>pijler exploitatie en veiligheid</strong>. Je kan steeds op iedereen\nrekenen en iedereen rekent op jou. Onze 7000&nbsp;km wegen en 7700&nbsp;km fietspaden van Agentschap Wegen en Verkeer\nverbinden namelijk alles met iedereen. Dat lukt alleen als die verbindingen\nveilig, vlot en duurzaam zijn voor alle weggebruikers in Vlaanderen, nu en\nmorgen. Daar zetten we volop in; zowel fysiek&nbsp;als&nbsp;digitaal.</p>"
       },
       "locations": [
         {
@@ -6368,7 +6403,7 @@
       "validThroughDate": "-1",
       "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
       "reservedForDisability": false,
-      "openPositions": 1,
+      "openPositions": 2,
       "degreeLevel": {
         "code": "D",
         "name": "Geen specifieke studievereisten"
@@ -6403,7 +6438,7 @@
       "validThroughDate": "-1",
       "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
       "reservedForDisability": false,
-      "openPositions": 1,
+      "openPositions": 2,
       "degreeLevel": {
         "code": "D",
         "name": "Geen specifieke studievereisten"
