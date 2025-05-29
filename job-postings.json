@@ -1,10 +1,10 @@
 {
-  "totalItems": 196,
+  "totalItems": 189,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 195,
+  "lastItemOfPage": 188,
   "items": [
     {
       "link": "/Job/vdab-71188820",
@@ -1092,41 +1092,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70948243",
-      "internal": false,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "VLAAMS PARLEMENT",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70948243",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "HR & Payroll medewerker"
-      },
-      "displayTitle": "HR & Payroll medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als HR &amp; Payroll medewerker maak je deel uit van de stafdienst HR, die bestaat uit 14 medewerkers en wordt aangestuurd door een HR-manager. Het team HR &amp; Payroll bestaat uit 6 medewerkers. </span></p> \n<p><span lang=\"NL\">Als HR &amp; Payroll medewerker ben je sterk in payroll, verwerk je samen met je collega’s lonen en vergoedingen, ben je een vlot aanspreekpunt voor medewerkers, hou je onze HR-data op punt en maakt je analyses die ons HR-beleid versterken. </span></p> \n<p><strong><span>Als HR &amp; Payroll medewerker heb je de volgende verantwoordelijkheden:</span></strong></p> \n<ul> \n<li><span>Je doet mee de payrollverwerking van A tot Z, inclusief de periodieke aangiftes en betalingen van vergoedingen en voordelen aan medewerkers — dit alles zonder de ondersteuning van een sociaal secretariaat.</span></li> \n<li><span>Je fungeert als aanspreekpunt voor medewerkers en leidinggevenden met HR-gerelateerde vragen.</span></li> \n<li><span>Je begeleidt medewerkers van de onboarding tot de offboarding.</span></li> \n<li><span>Je beheert en houdt HR-databases en personeelsdossiers actueel.</span></li> \n<li><span>Je voert data-analyses uit en signaleert optimalisaties.</span></li> \n<li><span>Je werkt mee aan HR-projecten, processen en interne communicatie.</span></li> </ul> \n<p><strong><span>Wat breng je mee?</span></strong></p> \n<ul> \n<li><span>Je hebt grondige kennis van sociale wetgeving en sociale organisaties en je werkt vlot met HR-tools.</span></li> \n<li><span>Kennis van Easypay en SuccesFactors is een pluspunt.</span></li> \n<li><span lang=\"NL\">Je bent in staat</span><span> om de regels en afspraken van diverse interne reglementen en externe wetgeving toe te passen.</span></li> \n<li><span>Je ben IT-minded en maakt vlot gebruik van M365.</span></li> \n<li><span lang=\"NL\">Je bent analytisch sterk, werkt zorgvuldig en resultaatgericht, en werkt actief mee aan innovatie-initiatieven.</span></li> \n<li><span lang=\"NL\">Je bent klantgericht en een echte teamspeler: je bent betrouwbaar, ondersteunt je collega’s en stimuleert de samenwerking.</span></li> </ul>",
-        "htmlEncoded": "<p><span>Als HR &amp; Payroll medewerker maak je deel uit van de stafdienst HR, die bestaat uit 14 medewerkers en wordt aangestuurd door een HR-manager. Het team HR &amp; Payroll bestaat uit 6 medewerkers. </span></p> \n<p><span lang=\"NL\">Als HR &amp; Payroll medewerker ben je sterk in payroll, verwerk je samen met je collega’s lonen en vergoedingen, ben je een vlot aanspreekpunt voor medewerkers, hou je onze HR-data op punt en maakt je analyses die ons HR-beleid versterken. </span></p> \n<p><strong><span>Als HR &amp; Payroll medewerker heb je de volgende verantwoordelijkheden:</span></strong></p> \n<ul> \n<li><span>Je doet mee de payrollverwerking van A tot Z, inclusief de periodieke aangiftes en betalingen van vergoedingen en voordelen aan medewerkers — dit alles zonder de ondersteuning van een sociaal secretariaat.</span></li> \n<li><span>Je fungeert als aanspreekpunt voor medewerkers en leidinggevenden met HR-gerelateerde vragen.</span></li> \n<li><span>Je begeleidt medewerkers van de onboarding tot de offboarding.</span></li> \n<li><span>Je beheert en houdt HR-databases en personeelsdossiers actueel.</span></li> \n<li><span>Je voert data-analyses uit en signaleert optimalisaties.</span></li> \n<li><span>Je werkt mee aan HR-projecten, processen en interne communicatie.</span></li> </ul> \n<p><strong><span>Wat breng je mee?</span></strong></p> \n<ul> \n<li><span>Je hebt grondige kennis van sociale wetgeving en sociale organisaties en je werkt vlot met HR-tools.</span></li> \n<li><span>Kennis van Easypay en SuccesFactors is een pluspunt.</span></li> \n<li><span lang=\"NL\">Je bent in staat</span><span> om de regels en afspraken van diverse interne reglementen en externe wetgeving toe te passen.</span></li> \n<li><span>Je ben IT-minded en maakt vlot gebruik van M365.</span></li> \n<li><span lang=\"NL\">Je bent analytisch sterk, werkt zorgvuldig en resultaatgericht, en werkt actief mee aan innovatie-initiatieven.</span></li> \n<li><span lang=\"NL\">Je bent klantgericht en een echte teamspeler: je bent betrouwbaar, ondersteunt je collega’s en stimuleert de samenwerking.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70947534",
       "internal": false,
       "validThroughDate": "-1",
@@ -1850,8 +1815,8 @@
       "displayTitle": "Scrum Team lead (Departement Omgeving) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden?  Lees dan verder of deze functie bij je past.</span></span> </p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span><span><span> </span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>",
-        "htmlEncoded": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden?  Lees dan verder of deze functie bij je past.</span></span> </p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span><span><span> </span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>"
+        "raw": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden? Lees dan verder of deze functie bij je past.</span></span></p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>",
+        "htmlEncoded": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden? Lees dan verder of deze functie bij je past.</span></span></p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>"
       },
       "locations": [
         {
@@ -3862,41 +3827,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18618",
-      "internal": false,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18618",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Buffer - Oudenaarde"
-      },
-      "displayTitle": "Scheepvaartbegeleider Buffer - Oudenaarde",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dicht bij het water? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en dicht bij het water? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Oudenaarde"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18611",
       "internal": false,
       "validThroughDate": "1749772800",
@@ -5262,134 +5192,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18288",
-      "internal": true,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18288",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Senior financieel dossier- en gegevensbeheerder"
-      },
-      "displayTitle": "Senior financieel dossier- en gegevensbeheerder",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap (VEKA) en heb je ruime ervaring met boekhouding en begroting binnen de Vlaamse overheid? Ben je sterk in administratie en organisatie, en heb je oog voor detail? Dan is deze functie de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als senior financieel dossier- en gegevensbeheerder ben je verantwoordelijk voor het beheren en behandelen van financiële dossiers binnen het VEKA. Je zorgt ervoor dat alle gegevens rond ontvangsten en uitgaven correct worden verwerkt, zowel boekhoudkundig als budgettair. Dankzij jouw expertise en nauwkeurige aanpak draag je bij aan een betrouwbare financiële werking van het agentschap.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap (VEKA) en heb je ruime ervaring met boekhouding en begroting binnen de Vlaamse overheid? Ben je sterk in administratie en organisatie, en heb je oog voor detail? Dan is deze functie de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als senior financieel dossier- en gegevensbeheerder ben je verantwoordelijk voor het beheren en behandelen van financiële dossiers binnen het VEKA. Je zorgt ervoor dat alle gegevens rond ontvangsten en uitgaven correct worden verwerkt, zowel boekhoudkundig als budgettair. Dankzij jouw expertise en nauwkeurige aanpak draag je bij aan een betrouwbare financiële werking van het agentschap.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18287",
-      "internal": true,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18287",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbeheerder EPB-handhaving"
-      },
-      "displayTitle": "Dossierbeheerder EPB-handhaving",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Werk je al binnen het Vlaams Energie- en Klimaatagentschap en heb je ervaring met dossierbeheer rond EPB-handhaving? Heb je een stevige kennis van de energieprestatieregelgeving en ben je sterk in administratie en organisatie? Dan is deze functie misschien wel de ideale uitdaging voor jou!</span></p> <p><span>Als dossierbeheerder EPB-handhaving ben je verantwoordelijk voor het beheren en behandelen van dossiers en gegevens rond EPB (EnergiePrestaties en Binnenklimaat). Je zorgt ervoor dat de processen efficiënt, correct en klantvriendelijk verlopen, met respect voor de geldende procedures, wetgeving en regelgeving. Met je nauwkeurige en gestructureerde aanpak draag je bij aan een efficiënte werking van de handhavingsprocessen binnen het agentschap.</span></p> <p><span>Een greep uit je boeiende takenpakket:</span></p> <ul><li><span>Je start dossiers op, volgt ze op en beheert ze binnen het kader van EPB-handhaving.</span></li><li><span>Je gaat na of de vereisten van de EPB-regelgeving correct zijn nageleefd.</span></li><li><span>Je controleert gegevens en documenten, en verzamelt indien nodig bijkomende informatie.</span></li><li><span>Je beantwoordt schriftelijke en telefonische vragen over handhavingsdossiers en algemene EPB-vragen.</span></li></ul>    <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Werk je al binnen het Vlaams Energie- en Klimaatagentschap en heb je ervaring met dossierbeheer rond EPB-handhaving? Heb je een stevige kennis van de energieprestatieregelgeving en ben je sterk in administratie en organisatie? Dan is deze functie misschien wel de ideale uitdaging voor jou!</span></p> <p><span>Als dossierbeheerder EPB-handhaving ben je verantwoordelijk voor het beheren en behandelen van dossiers en gegevens rond EPB (EnergiePrestaties en Binnenklimaat). Je zorgt ervoor dat de processen efficiënt, correct en klantvriendelijk verlopen, met respect voor de geldende procedures, wetgeving en regelgeving. Met je nauwkeurige en gestructureerde aanpak draag je bij aan een efficiënte werking van de handhavingsprocessen binnen het agentschap.</span></p> <p><span>Een greep uit je boeiende takenpakket:</span></p> <ul><li><span>Je start dossiers op, volgt ze op en beheert ze binnen het kader van EPB-handhaving.</span></li><li><span>Je gaat na of de vereisten van de EPB-regelgeving correct zijn nageleefd.</span></li><li><span>Je controleert gegevens en documenten, en verzamelt indien nodig bijkomende informatie.</span></li><li><span>Je beantwoordt schriftelijke en telefonische vragen over handhavingsdossiers en algemene EPB-vragen.</span></li></ul>    <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18286",
-      "internal": true,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18286",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Coördinerend secretariaatsmedewerker"
-      },
-      "displayTitle": "Coördinerend secretariaatsmedewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap (VEKA) en heb je ervaring met administratieve en organisatorische ondersteuning over de hele organisatie heen? Ben jij een echte duizendpoot die graag het overzicht bewaart, vlot plant en organiseert én graag actief meedenkt? Dan is deze job de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als coördinerend secretariaatsmedewerker neem je een centrale rol op in het algemeen secretariaat van het VEKA. Je coördineert en ondersteunt de dagelijkse werking en zorgt ervoor dat alles op wieltjes loopt. Je schakelt vlot tussen taken, speelt flexibel in op de prioriteiten van de dag en weet steeds het overzicht te bewaren, ook wanneer er veel tegelijk op je afkomt.</span></p> <p><span>Daarnaast bied je administratieve ondersteuning op het vlak van personeelszaken binnen het team P&amp;O en rechtstreeks aan de administrateur-generaal. Samen met je collega’s ben je hét aanspreekpunt voor uiteenlopende administratieve en logistieke vragen. Zo zorg je mee voor een vlotte en efficiënte dienstverlening binnen het agentschap.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Werk je al bij het Vlaams Energie- en Klimaatagentschap (VEKA) en heb je ervaring met administratieve en organisatorische ondersteuning over de hele organisatie heen? Ben jij een echte duizendpoot die graag het overzicht bewaart, vlot plant en organiseert én graag actief meedenkt? Dan is deze job de ideale nieuwe uitdaging voor jou!</span></p> <p><span>Als coördinerend secretariaatsmedewerker neem je een centrale rol op in het algemeen secretariaat van het VEKA. Je coördineert en ondersteunt de dagelijkse werking en zorgt ervoor dat alles op wieltjes loopt. Je schakelt vlot tussen taken, speelt flexibel in op de prioriteiten van de dag en weet steeds het overzicht te bewaren, ook wanneer er veel tegelijk op je afkomt.</span></p> <p><span>Daarnaast bied je administratieve ondersteuning op het vlak van personeelszaken binnen het team P&amp;O en rechtstreeks aan de administrateur-generaal. Samen met je collega’s ben je hét aanspreekpunt voor uiteenlopende administratieve en logistieke vragen. Zo zorg je mee voor een vlotte en efficiënte dienstverlening binnen het agentschap.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18285",
-      "internal": true,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18285",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ICT-medewerker eerstelijnsondersteuning"
-      },
-      "displayTitle": "ICT-medewerker eerstelijnsondersteuning",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Werk je binnen het Vlaams Energie- en Klimaatagentschap en heb je ervaring in ICT-eerstelijnsondersteuning? Combineer je technische kennis met een vlotte aanpak en administratief-organisatorisch talent? Dan is deze functie misschien wel de ideale uitdaging voor jou!</span></p> <p><span>Als ICT-medewerker eerstelijnsondersteuning zorg je voor de eerstelijnsondersteuning binnen ons agentschap. Je bent het aanspreekpunt voor collega’s met ICT-vragen en houdt het overzicht over de werkaanvragen die bij externe ICT-dienstverleners binnenkomen. Jij coördineert, volgt op en zorgt dat alles vlot verloopt.</span></p> <p><span>Daarnaast sta je in voor de aankoop van ICT-hardware en ondersteun je je collega’s bij het gebruik ervan. Gebruikersbeheer? Dat neem jij zonder moeite op. Jij zorgt ervoor dat nieuwe collega’s vlot opstarten en alles goed werkt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Werk je binnen het Vlaams Energie- en Klimaatagentschap en heb je ervaring in ICT-eerstelijnsondersteuning? Combineer je technische kennis met een vlotte aanpak en administratief-organisatorisch talent? Dan is deze functie misschien wel de ideale uitdaging voor jou!</span></p> <p><span>Als ICT-medewerker eerstelijnsondersteuning zorg je voor de eerstelijnsondersteuning binnen ons agentschap. Je bent het aanspreekpunt voor collega’s met ICT-vragen en houdt het overzicht over de werkaanvragen die bij externe ICT-dienstverleners binnenkomen. Jij coördineert, volgt op en zorgt dat alles vlot verloopt.</span></p> <p><span>Daarnaast sta je in voor de aankoop van ICT-hardware en ondersteun je je collega’s bij het gebruik ervan. Gebruikersbeheer? Dat neem jij zonder moeite op. Jij zorgt ervoor dat nieuwe collega’s vlot opstarten en alles goed werkt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18255",
       "internal": false,
       "validThroughDate": "1748476800",
@@ -5898,41 +5700,6 @@
         {
           "address": {
             "city": "Sint-Jans-Molenbeek"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18099",
-      "internal": true,
-      "validThroughDate": "1748390400",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18099",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "administratief ondersteuner omgevingsinspectie"
-      },
-      "displayTitle": "administratief ondersteuner omgevingsinspectie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij een administratieve alleskunner die graag de inspecteurs ondersteunt in hun dagelijkse werkzaamheden? Dan zijn wij op zoek naar jou!<br><br> In deze veelzijdige functie ben je verantwoordelijk voor het behandelen van alle inkomende en uitgaande poststukken. Je registreert en schrijft deze in onze opvolgingssystemen. Daarnaast ben je de back-up voor alles wat te maken heeft met administratieve ondersteuning van personeel, materiaal en logistiek.<br><br> Je wordt ook regelmatig bevraagd voor het opstellen van rapporten. Bij binnenkomst van documenten controleer je de inhoud, zodat ze bij de juiste inspecteur terechtkomen. Je behandelt vragen rond openbaarheid van bestuur en zorgt ervoor dat algemene vragen van buurtbewoners bij de juiste inspecteur terechtkomen.<br><br> Je maakt evaluaties van administratieve stukken en oordeelt over het soort documenten, of het nu gaat over milieu, ruimtelijke ordening of Onroerend erfgoed. Je ondersteunt de inspecteurs en weet precies waar de documenten naartoe moeten.&nbsp;Kortom, jij bent de spil in het evalueren en beoordelen van administratieve stromen binnen onze organisatie.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij een administratieve alleskunner die graag de inspecteurs ondersteunt in hun dagelijkse werkzaamheden? Dan zijn wij op zoek naar jou!<br><br> In deze veelzijdige functie ben je verantwoordelijk voor het behandelen van alle inkomende en uitgaande poststukken. Je registreert en schrijft deze in onze opvolgingssystemen. Daarnaast ben je de back-up voor alles wat te maken heeft met administratieve ondersteuning van personeel, materiaal en logistiek.<br><br> Je wordt ook regelmatig bevraagd voor het opstellen van rapporten. Bij binnenkomst van documenten controleer je de inhoud, zodat ze bij de juiste inspecteur terechtkomen. Je behandelt vragen rond openbaarheid van bestuur en zorgt ervoor dat algemene vragen van buurtbewoners bij de juiste inspecteur terechtkomen.<br><br> Je maakt evaluaties van administratieve stukken en oordeelt over het soort documenten, of het nu gaat over milieu, ruimtelijke ordening of Onroerend erfgoed. Je ondersteunt de inspecteurs en weet precies waar de documenten naartoe moeten.&nbsp;Kortom, jij bent de spil in het evalueren en beoordelen van administratieve stromen binnen onze organisatie.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
