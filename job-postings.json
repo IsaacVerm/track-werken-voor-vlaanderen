@@ -1,10 +1,10 @@
 {
-  "totalItems": 176,
+  "totalItems": 177,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 175,
+  "lastItemOfPage": 176,
   "items": [
     {
       "link": "/Job/vdab-71225090",
@@ -3918,6 +3918,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18543",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18543",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "IT specialist"
+      },
+      "displayTitle": "IT specialist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Word IT-Specialist bij het Agentschap Maritieme Dienstverlening en Kust (AMDK)</strong><br><br>Als IT-Specialist bij AMDK speel je een cruciale rol in het waarborgen van de veiligheid van de Belgische kust en maritieme dienstverlening.&nbsp; Samen met andere relevante partijen werk je aan innovatieve oplossingen die de maritieme sector transformeren.<br><br><strong>Wat ga je doen?&nbsp;</strong></p><ul><li>Conceptueel denken: Je implementeert softwareontwikkelingen en IT-architecturen die de maritieme veiligheid verbeteren.</li><li>Sleutelrol: Je volgt en bouwt het IT-applicatielandschap van het Gemeenschappelijk Nautisch Beheer Scheldegebied uit.</li><li>Data-uitwisseling: Je ontwikkelt applicaties voor een efficiënte data-uitwisseling met nautische ketenpartners.</li><li>Innovatie: Je blijft op de hoogte van technologische innovaties en digitalisering binnen de maritieme context.</li></ul><p><strong>Jouw team en werkomgeving</strong><br><br>Je maakt deel uit van een technische cluster binnen de afdeling Scheepvaartbegeleiding, bestaande uit 10 getalenteerde collega's.&nbsp; Je werkt nauw samen met partners binnen en buiten de Vlaamse overheid.&nbsp; Je maakt deel uit van het Beheer en Exploitatieteam voor de Schelderadarketen, een Vlaams-Nederlands expertisecentrum voor technische systemen voor verkeersbegeleiding.<br><br><strong>Internationale samenwerking</strong><br><br>Als internationale speler krijg je de kans om samen te werken met en te leren van organisaties in het buitenland.&nbsp;<br><br><strong>Waarom deze functie?</strong><br><br>De functie biedt een uitdagende en dynamische omgeving waarin je een aanzienlijke impact kunt hebben op de maritieme veiligheid en technologische vooruitgang. De digitalisering in de scheepvaart zal de komende jaren sterk groeien, en jij hebt de kans om hieraan actief bij te dragen.<br><br><strong>Benieuwd naar jouw werkomgeving</strong>? Bekijk <a href=\"https://www.youtube.com/watch?v=e9nHrdHI1JU,\">ons filmpje over de afdeling Scheepvaartbegeleiding</a>.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Word IT-Specialist bij het Agentschap Maritieme Dienstverlening en Kust (AMDK)</strong><br><br>Als IT-Specialist bij AMDK speel je een cruciale rol in het waarborgen van de veiligheid van de Belgische kust en maritieme dienstverlening.&nbsp; Samen met andere relevante partijen werk je aan innovatieve oplossingen die de maritieme sector transformeren.<br><br><strong>Wat ga je doen?&nbsp;</strong></p><ul><li>Conceptueel denken: Je implementeert softwareontwikkelingen en IT-architecturen die de maritieme veiligheid verbeteren.</li><li>Sleutelrol: Je volgt en bouwt het IT-applicatielandschap van het Gemeenschappelijk Nautisch Beheer Scheldegebied uit.</li><li>Data-uitwisseling: Je ontwikkelt applicaties voor een efficiënte data-uitwisseling met nautische ketenpartners.</li><li>Innovatie: Je blijft op de hoogte van technologische innovaties en digitalisering binnen de maritieme context.</li></ul><p><strong>Jouw team en werkomgeving</strong><br><br>Je maakt deel uit van een technische cluster binnen de afdeling Scheepvaartbegeleiding, bestaande uit 10 getalenteerde collega's.&nbsp; Je werkt nauw samen met partners binnen en buiten de Vlaamse overheid.&nbsp; Je maakt deel uit van het Beheer en Exploitatieteam voor de Schelderadarketen, een Vlaams-Nederlands expertisecentrum voor technische systemen voor verkeersbegeleiding.<br><br><strong>Internationale samenwerking</strong><br><br>Als internationale speler krijg je de kans om samen te werken met en te leren van organisaties in het buitenland.&nbsp;<br><br><strong>Waarom deze functie?</strong><br><br>De functie biedt een uitdagende en dynamische omgeving waarin je een aanzienlijke impact kunt hebben op de maritieme veiligheid en technologische vooruitgang. De digitalisering in de scheepvaart zal de komende jaren sterk groeien, en jij hebt de kans om hieraan actief bij te dragen.<br><br><strong>Benieuwd naar jouw werkomgeving</strong>? Bekijk <a href=\"https://www.youtube.com/watch?v=e9nHrdHI1JU,\">ons filmpje over de afdeling Scheepvaartbegeleiding</a>.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Vlissingen"
           }
         }
       ]
