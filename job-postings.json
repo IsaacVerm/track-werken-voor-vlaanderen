@@ -1,10 +1,10 @@
 {
-  "totalItems": 166,
+  "totalItems": 165,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 165,
+  "lastItemOfPage": 164,
   "items": [
     {
       "link": "/Job/vdab-71261854",
@@ -1647,41 +1647,6 @@
         {
           "address": {
             "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70789781",
-      "internal": false,
-      "validThroughDate": "1749168000",
-      "hiringOrganization": "VLAAMS PARLEMENT",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70789781",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Chief Information Security Officer (CISO)"
-      },
-      "displayTitle": "Chief Information Security Officer (CISO)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als CISO ben je verantwoordelijk voor het versterken van de cybersecuritystrategie binnen het Vlaams Parlement. Je vertaalt strategische doelstellingen naar operationele acties en zorgt ervoor dat informatieveiligheid geïntegreerd is in alle lagen van de organisatie. Je werkt nauw samen met IT-specialisten en netwerkbeheerders om een robuuste beveiliging te garanderen.</span></p> \n<ul type=\"disc\"> \n<li><span>Ontwikkelen en beheren van het informatieveiligheidsbeleid: Het verder uitrollen en actualiseren van het beleid op basis van risicoanalyses en politieke en maatschappelijke ontwikkelingen binnen cybersecurity.</span></li> \n<li><span>Naleving en risicobeheer: Coördineren van het informatieveiligheidsprogramma, beheren van risico’s (inclusief die van derden) en toezien op naleving van wet- en regelgeving.</span></li> \n<li><span>Strategische en operationele afstemming: Bepalen en bewaken van beleidslijnen rond beveiliging en privacy, en deze vertalen naar praktische maatregelen.</span></li> \n<li><span>Beveiligingsarchitectuur en incidentbeheer: Ontwikkelen van een veilige IT-architectuur, coördineren van securitytesten en beheren van beveiligingsincidenten.</span></li> \n<li><span>Technische ondersteuning en monitoring: Bieden van ondersteuning aan projectteams en gebruikers, analyseren van security-events en detecteren van ongebruikelijke activiteiten.</span></li> \n<li><span>Security-awareness en training: Uitvoeren van awareness-programma’s en trainingen om informatieveiligheid binnen de organisatie te versterken.</span></li> \n<li><span>Begeleiding en kennisontwikkeling: Fungeren als aanspreekpunt voor cybersecurity en medewerkers begeleiden in hun ontwikkeling op dit gebied.</span></li> </ul>",
-        "htmlEncoded": "<p><span>Als CISO ben je verantwoordelijk voor het versterken van de cybersecuritystrategie binnen het Vlaams Parlement. Je vertaalt strategische doelstellingen naar operationele acties en zorgt ervoor dat informatieveiligheid geïntegreerd is in alle lagen van de organisatie. Je werkt nauw samen met IT-specialisten en netwerkbeheerders om een robuuste beveiliging te garanderen.</span></p> \n<ul type=\"disc\"> \n<li><span>Ontwikkelen en beheren van het informatieveiligheidsbeleid: Het verder uitrollen en actualiseren van het beleid op basis van risicoanalyses en politieke en maatschappelijke ontwikkelingen binnen cybersecurity.</span></li> \n<li><span>Naleving en risicobeheer: Coördineren van het informatieveiligheidsprogramma, beheren van risico’s (inclusief die van derden) en toezien op naleving van wet- en regelgeving.</span></li> \n<li><span>Strategische en operationele afstemming: Bepalen en bewaken van beleidslijnen rond beveiliging en privacy, en deze vertalen naar praktische maatregelen.</span></li> \n<li><span>Beveiligingsarchitectuur en incidentbeheer: Ontwikkelen van een veilige IT-architectuur, coördineren van securitytesten en beheren van beveiligingsincidenten.</span></li> \n<li><span>Technische ondersteuning en monitoring: Bieden van ondersteuning aan projectteams en gebruikers, analyseren van security-events en detecteren van ongebruikelijke activiteiten.</span></li> \n<li><span>Security-awareness en training: Uitvoeren van awareness-programma’s en trainingen om informatieveiligheid binnen de organisatie te versterken.</span></li> \n<li><span>Begeleiding en kennisontwikkeling: Fungeren als aanspreekpunt voor cybersecurity en medewerkers begeleiden in hun ontwikkeling op dit gebied.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
