@@ -1,10 +1,10 @@
 {
-  "totalItems": 165,
+  "totalItems": 164,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 164,
+  "lastItemOfPage": 163,
   "items": [
     {
       "link": "/Job/vdab-71261854",
@@ -3682,38 +3682,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18575",
-      "internal": false,
-      "validThroughDate": "1749340800",
-      "hiringOrganization": "Schoonmaakteam",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18575",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent Schoonmaak"
-      },
-      "displayTitle": "Jobstudent Schoonmaak",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een student en op zoek naar een boeiende\nstudentenjob? Wel we hebben goed nieuws.</p><p>Vanaf mei breiden we onze werkzaamheden uit en bieden we nu ook de\nmogelijkheid om in het weekend te werken, specifiek gericht op het schoonmaken\nvan&nbsp;rond publieke gebouwen en het reinigen van sanitair.</p><p>Concreet gaat het om werkzaamheden op&nbsp;<strong>zaterdag en zondag</strong>,\nevenals op&nbsp;<strong>feestdagen</strong>, telkens van&nbsp;09u00 tot\n17u00, inclusief een pauze van 30 minuten. Tijdens deze uren zul je\nverantwoordelijk zijn voor het lopen van schoonmaakronden en het waarborgen van\nde hygiëne in de toegewezen publieke gebouwen en sanitaire ruimtes.</p><p>Wij zijn nu op zoek naar gemotiveerde medewerkers die interesse hebben om\ntijdens deze weekenduren te werken en ervaring hebben met of bereid zijn te\nleren over het effectief schoonmaken van publieke ruimtes en sanitair.</p>",
-        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende\nstudentenjob? Wel we hebben goed nieuws.</p><p>Vanaf mei breiden we onze werkzaamheden uit en bieden we nu ook de\nmogelijkheid om in het weekend te werken, specifiek gericht op het schoonmaken\nvan&nbsp;rond publieke gebouwen en het reinigen van sanitair.</p><p>Concreet gaat het om werkzaamheden op&nbsp;<strong>zaterdag en zondag</strong>,\nevenals op&nbsp;<strong>feestdagen</strong>, telkens van&nbsp;09u00 tot\n17u00, inclusief een pauze van 30 minuten. Tijdens deze uren zul je\nverantwoordelijk zijn voor het lopen van schoonmaakronden en het waarborgen van\nde hygiëne in de toegewezen publieke gebouwen en sanitaire ruimtes.</p><p>Wij zijn nu op zoek naar gemotiveerde medewerkers die interesse hebben om\ntijdens deze weekenduren te werken en ervaring hebben met of bereid zijn te\nleren over het effectief schoonmaken van publieke ruimtes en sanitair.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Meise"
           }
         }
       ]
