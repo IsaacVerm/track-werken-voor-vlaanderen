@@ -1,10 +1,10 @@
 {
-  "totalItems": 165,
+  "totalItems": 166,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 164,
+  "lastItemOfPage": 165,
   "items": [
     {
       "link": "/Job/vdab-71274307",
@@ -3867,6 +3867,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18580",
+      "internal": false,
+      "validThroughDate": "1751328000",
+      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18580",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Wetenschappelijk attaché - herkomst analyse"
+      },
+      "displayTitle": "Wetenschappelijk attaché - herkomst analyse",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij bijdragen aan wetenschappelijk onderzoek dat écht impact heeft op beleid, duurzaamheid en juridische besluitvorming? Heb je een passie voor innovatieve analysetechnieken, data science en internationale samenwerking? Dan zijn wij op zoek naar jou!</p><p>Wij zoeken een gedreven onderzoeker die wil meewerken aan baanbrekend forensisch en toegepast wetenschappelijk onderzoek naar de herkomst van hout en forest risk commodities zoals koffie, cacao en soja. Je ontwikkelt nieuwe methodes met onder meer stabiele isotopen, trace-elementen, DNA en machine learning, en vertaalt deze naar bruikbare inzichten voor beleidsmakers, ngo’s, en juridische instanties.</p><p>Je krijgt de kans om veldwerk te organiseren, referentiedata op te bouwen, modellen te ontwikkelen én je werk te publiceren in gerenommeerde wetenschappelijke tijdschriften. Daarnaast begeleid je eindwerken, werk je in internationale netwerken en deel je jouw expertise via workshops, gastcolleges en congressen.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Wil jij bijdragen aan wetenschappelijk onderzoek dat écht impact heeft op beleid, duurzaamheid en juridische besluitvorming? Heb je een passie voor innovatieve analysetechnieken, data science en internationale samenwerking? Dan zijn wij op zoek naar jou!</p><p>Wij zoeken een gedreven onderzoeker die wil meewerken aan baanbrekend forensisch en toegepast wetenschappelijk onderzoek naar de herkomst van hout en forest risk commodities zoals koffie, cacao en soja. Je ontwikkelt nieuwe methodes met onder meer stabiele isotopen, trace-elementen, DNA en machine learning, en vertaalt deze naar bruikbare inzichten voor beleidsmakers, ngo’s, en juridische instanties.</p><p>Je krijgt de kans om veldwerk te organiseren, referentiedata op te bouwen, modellen te ontwikkelen én je werk te publiceren in gerenommeerde wetenschappelijke tijdschriften. Daarnaast begeleid je eindwerken, werk je in internationale netwerken en deel je jouw expertise via workshops, gastcolleges en congressen.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Meise"
           }
         }
       ]
