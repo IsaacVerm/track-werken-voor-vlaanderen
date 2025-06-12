@@ -1,11 +1,46 @@
 {
-  "totalItems": 161,
+  "totalItems": 160,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 160,
+  "lastItemOfPage": 159,
   "items": [
+    {
+      "link": "/Job/vdab-71288997",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71288997",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Full-stack java-ontwikkelaar (WEWIS) via Vlaanderen Connect"
+      },
+      "displayTitle": "Full-stack java-ontwikkelaar (WEWIS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>",
+        "htmlEncoded": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71281592",
       "internal": false,
@@ -567,41 +602,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71078059",
-      "internal": false,
-      "validThroughDate": "1749600000",
-      "hiringOrganization": "MUNTPUNT",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71078059",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectmedewerker De Grid (BIS-stage)"
-      },
-      "displayTitle": "Projectmedewerker De Grid (BIS-stage)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil je vijf maanden lang meedraaien in een creatieve omgeving waar jonge makers, ideeën en events samenkomen? Heb je zin om je organisatorisch talent in te zetten in hartje Brussel, bij een team dat bruist van de plannen? Dan is deze stageplek bij De Grid misschien wel iets voor jou.</p> \n<p><strong><span>Over De Grid</span></strong></p> \n<p>De Grid is de creatieve doe- en maakplek op de vijfde verdieping van Muntpunt. Jongvolwassenen vinden er een medialab, atelier, studio en co-werkplekken, maar vooral: ruimte om ideeën vorm te geven, elkaar te inspireren en samen te werken. Naast de fysieke plek organiseren we trajecten, workshops en events waarbij jonge makers zelf het voortouw nemen.</p> \n<p>Als stagiair bouw je 5 maanden \n<span><span>mee aan een inspirerend programma voor young creatives</span></span>. \n<br><strong><span>Stageperiode: 14 juli tot en met 12 december 2025 </span></strong></p> \n<p><strong><span>Jouw opdracht</span></strong></p> \n<p><span><span>· </span></span>Je ondersteunt de community builder bij de communicatie: van posts op sociale media tot het verspreiden van gigs, guidance sessies en gatherings.</p> \n<p><span><span>· </span></span>Je verzorgt de opvolging van nieuwe membership-aanvragen en plant intakegesprekken in.</p> \n<p><span><span>· </span></span>Je houdt mee de agenda in de gaten en zorgt dat iedereen op de hoogte is van wat er gepland staat.</p> \n<p><span><span>· </span></span>Je verzorgt de pre- en postproductie van events in de Grid en helpt members bij de praktische uitwerking van hun project.</p> \n<p><span><span>· </span></span>Je bent aanwezig tijdens events, houdt het overzicht, lost problemen op en zorgt zo mee voor een vlot verloop.</p> \n<p><span><span>· </span></span>Je neemt de administratieve opvolging van events op.</p>",
-        "htmlEncoded": "<p>Wil je vijf maanden lang meedraaien in een creatieve omgeving waar jonge makers, ideeën en events samenkomen? Heb je zin om je organisatorisch talent in te zetten in hartje Brussel, bij een team dat bruist van de plannen? Dan is deze stageplek bij De Grid misschien wel iets voor jou.</p> \n<p><strong><span>Over De Grid</span></strong></p> \n<p>De Grid is de creatieve doe- en maakplek op de vijfde verdieping van Muntpunt. Jongvolwassenen vinden er een medialab, atelier, studio en co-werkplekken, maar vooral: ruimte om ideeën vorm te geven, elkaar te inspireren en samen te werken. Naast de fysieke plek organiseren we trajecten, workshops en events waarbij jonge makers zelf het voortouw nemen.</p> \n<p>Als stagiair bouw je 5 maanden \n<span><span>mee aan een inspirerend programma voor young creatives</span></span>. \n<br><strong><span>Stageperiode: 14 juli tot en met 12 december 2025 </span></strong></p> \n<p><strong><span>Jouw opdracht</span></strong></p> \n<p><span><span>· </span></span>Je ondersteunt de community builder bij de communicatie: van posts op sociale media tot het verspreiden van gigs, guidance sessies en gatherings.</p> \n<p><span><span>· </span></span>Je verzorgt de opvolging van nieuwe membership-aanvragen en plant intakegesprekken in.</p> \n<p><span><span>· </span></span>Je houdt mee de agenda in de gaten en zorgt dat iedereen op de hoogte is van wat er gepland staat.</p> \n<p><span><span>· </span></span>Je verzorgt de pre- en postproductie van events in de Grid en helpt members bij de praktische uitwerking van hun project.</p> \n<p><span><span>· </span></span>Je bent aanwezig tijdens events, houdt het overzicht, lost problemen op en zorgt zo mee voor een vlot verloop.</p> \n<p><span><span>· </span></span>Je neemt de administratieve opvolging van events op.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71063710",
       "internal": false,
       "validThroughDate": "-1",
@@ -942,41 +942,6 @@
       "description": {
         "raw": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>",
         "htmlEncoded": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70948513",
-      "internal": false,
-      "validThroughDate": "1749600000",
-      "hiringOrganization": "GO! Onderwijs",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70948513",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Vacature organisatieondersteuner POC+"
-      },
-      "displayTitle": "Vacature organisatieondersteuner POC+",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Over de Permanente Ondersteuningscel GO! (POC+ GO! CLB)</p> \n<p>De Permanente Ondersteuningscel (kortweg POC) maakt samen met de Pedagogische Begeleidingsdienst (PBD) deel uit van de pedagogische diensten van het GO!. De opdracht van de POC bestaat enerzijds uit de professionalisering van CLB-medewerkers en CLB’s als lerende organisaties, anderzijds uit de vertegenwoordiging en belangenbehartiging van de GO! CLB. Daarbij is het onze missie om de inspirerende en innoverende referentie te zijn in de lerende community van de GO! CLB. De POC+ profileert zich hierbij als een wendbare organisatie die, met beide voeten in de maatschappij, een brug wil slaan tussen evidence-based inzichten en de GO! CLB-praktijk. Verkennen, verbinden en versterken zijn daarbij onze kernwoorden.</p> \n<p>Ter versterking van de interne kwaliteitszorg is de POC+ op zoek naar:</p> \n<p>een \n<strong> organisatieondersteuner interne kwaliteitszorg (voltijds)</strong></p> \n<p>WAT HOUDT DE FUNCTIE IN?</p> \n<p>Als organisatieondersteuner bewaak je de interne processen en de kwaliteit van de dienstverlening van de POC+. Hierbij ben je als procesbegeleider verantwoordelijk voor het ontwikkelen, verfijnen, implementeren en borgen van een uitgebouwd en participatief kwaliteitsbeleid.</p> \n<p>Tot jouw takenpakket als organisatieondersteuner behoren:</p> \n<p>• Initiatieven nemen om de kwaliteit van de kernprocessen (professionalisering, beleidsvoorbereiding, vertegenwoordiging en belangenbehartiging) en de interne werking (waaronder personeels- en professionaliseringsbeleid) te monitoren en te optimaliseren.</p> \n<p>• Ontwikkelen, verfijnen en implementeren van een uitgebouwd en participatief kwaliteitsbeleid door (het):</p> \n<ul> \n<li>Ondersteunen bij het formuleren van resultaten en effecten;</li> \n<li>Evalueren van het begeleidingsplan en de acties;</li> \n<li>Voorstellen van verbeteracties waar nodig, in samenwerking met de teams;</li> \n<li>Zichtbaar maken voor internen en externen op welke manier er aan kwaliteit wordt gewerkt, o.a. via het opmaken en publiceren van het jaarverslag;</li> \n<li>Coördineren en toepassen van kwaliteitsplannen;</li> \n<li>Opmaken van een (beleids-)planning;</li> \n<li>Bewaken van prioritering;</li> \n<li>Ervoor te zorgen dat het kwaliteitsbeleid en de vooruitgang hiervan zichtbaar en toegankelijk zijn;</li> \n<li>Bewaken van de effecten van het kwaliteitsbeleid op korte, middellange en lange termijn;</li> \n<li>Zorgen voor de samenhang in de uitvoer van de kwaliteitsplannen;</li> \n<li>Bewaken dat alle initiatieven die genomen worden ter uitvoering van het kwaliteitsplan doelgericht zijn;</li> \n<li>Evalueren en waar nodig bijsturen van de systemen en structuren zodat deze het dagelijks werk ondersteunen en bijdragen aan de optimalisatie van de organisatie (rollen, taken en overlegstructuren zoals teamvergadering en personeelsvergadering).</li> </ul> \n<p>• Faciliteren van het team systemen – dit bestaat uit de organisatie-ondersteunende medewerkers:</p> \n<ul> \n<li>Teamdoelen, prioriteiten en afspraken bewaken.</li> \n<li>Begeleiden van processen zoals de opmaak van nieuwe procedures, evaluatie van de sharepointstructuur of opstart van projecten.</li> \n<li>Stimuleren van eigenaarschap en gedeeld leiderschap.</li> </ul> \n<p>• Onthalen van nieuwe medewerkers en opvolgen van de kwaliteitsvolle uitvoering van de aanvangsbegeleiding.</p> \n<p>• Samenwerken met de andere diensten binnen het Huis GO! in het kader van dienstverlening en afstemmen van kwaliteitszorg- en secundaire processen (bv procedure IT-middelen, welzijnsbeleid, enz.).</p> \n<p>Als organisatieondersteuner maak je deel uit van het team systemen en neem je deel aan de interne werkgroep kwaliteit.</p>",
-        "htmlEncoded": "<p>Over de Permanente Ondersteuningscel GO! (POC+ GO! CLB)</p> \n<p>De Permanente Ondersteuningscel (kortweg POC) maakt samen met de Pedagogische Begeleidingsdienst (PBD) deel uit van de pedagogische diensten van het GO!. De opdracht van de POC bestaat enerzijds uit de professionalisering van CLB-medewerkers en CLB’s als lerende organisaties, anderzijds uit de vertegenwoordiging en belangenbehartiging van de GO! CLB. Daarbij is het onze missie om de inspirerende en innoverende referentie te zijn in de lerende community van de GO! CLB. De POC+ profileert zich hierbij als een wendbare organisatie die, met beide voeten in de maatschappij, een brug wil slaan tussen evidence-based inzichten en de GO! CLB-praktijk. Verkennen, verbinden en versterken zijn daarbij onze kernwoorden.</p> \n<p>Ter versterking van de interne kwaliteitszorg is de POC+ op zoek naar:</p> \n<p>een \n<strong> organisatieondersteuner interne kwaliteitszorg (voltijds)</strong></p> \n<p>WAT HOUDT DE FUNCTIE IN?</p> \n<p>Als organisatieondersteuner bewaak je de interne processen en de kwaliteit van de dienstverlening van de POC+. Hierbij ben je als procesbegeleider verantwoordelijk voor het ontwikkelen, verfijnen, implementeren en borgen van een uitgebouwd en participatief kwaliteitsbeleid.</p> \n<p>Tot jouw takenpakket als organisatieondersteuner behoren:</p> \n<p>• Initiatieven nemen om de kwaliteit van de kernprocessen (professionalisering, beleidsvoorbereiding, vertegenwoordiging en belangenbehartiging) en de interne werking (waaronder personeels- en professionaliseringsbeleid) te monitoren en te optimaliseren.</p> \n<p>• Ontwikkelen, verfijnen en implementeren van een uitgebouwd en participatief kwaliteitsbeleid door (het):</p> \n<ul> \n<li>Ondersteunen bij het formuleren van resultaten en effecten;</li> \n<li>Evalueren van het begeleidingsplan en de acties;</li> \n<li>Voorstellen van verbeteracties waar nodig, in samenwerking met de teams;</li> \n<li>Zichtbaar maken voor internen en externen op welke manier er aan kwaliteit wordt gewerkt, o.a. via het opmaken en publiceren van het jaarverslag;</li> \n<li>Coördineren en toepassen van kwaliteitsplannen;</li> \n<li>Opmaken van een (beleids-)planning;</li> \n<li>Bewaken van prioritering;</li> \n<li>Ervoor te zorgen dat het kwaliteitsbeleid en de vooruitgang hiervan zichtbaar en toegankelijk zijn;</li> \n<li>Bewaken van de effecten van het kwaliteitsbeleid op korte, middellange en lange termijn;</li> \n<li>Zorgen voor de samenhang in de uitvoer van de kwaliteitsplannen;</li> \n<li>Bewaken dat alle initiatieven die genomen worden ter uitvoering van het kwaliteitsplan doelgericht zijn;</li> \n<li>Evalueren en waar nodig bijsturen van de systemen en structuren zodat deze het dagelijks werk ondersteunen en bijdragen aan de optimalisatie van de organisatie (rollen, taken en overlegstructuren zoals teamvergadering en personeelsvergadering).</li> </ul> \n<p>• Faciliteren van het team systemen – dit bestaat uit de organisatie-ondersteunende medewerkers:</p> \n<ul> \n<li>Teamdoelen, prioriteiten en afspraken bewaken.</li> \n<li>Begeleiden van processen zoals de opmaak van nieuwe procedures, evaluatie van de sharepointstructuur of opstart van projecten.</li> \n<li>Stimuleren van eigenaarschap en gedeeld leiderschap.</li> </ul> \n<p>• Onthalen van nieuwe medewerkers en opvolgen van de kwaliteitsvolle uitvoering van de aanvangsbegeleiding.</p> \n<p>• Samenwerken met de andere diensten binnen het Huis GO! in het kader van dienstverlening en afstemmen van kwaliteitszorg- en secundaire processen (bv procedure IT-middelen, welzijnsbeleid, enz.).</p> \n<p>Als organisatieondersteuner maak je deel uit van het team systemen en neem je deel aan de interne werkgroep kwaliteit.</p>"
       },
       "locations": [
         {
@@ -3332,41 +3297,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18714",
-      "internal": false,
-      "validThroughDate": "1749600000",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18714",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider - Zemst"
-      },
-      "displayTitle": "Scheepvaartbegeleider - Zemst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18701",
       "internal": false,
       "validThroughDate": "1751241600",
@@ -3532,6 +3462,41 @@
       "description": {
         "raw": "<p>Wil jij een cruciale rol spelen in de digitale transformatie van Vlaanderen? Bij Digitaal Vlaanderen krijg je als deskundige werving en selectie de kans om talent aan te trekken en te behouden voor baanbrekende digitaliseringsprojecten. </p><p>Je werkt nauw samen met diverse teams, ondersteunt bij de selectie van zowel interne als externe professionals, en draagt bij aan het optimaliseren van ons wervingsproces. Met jouw sterke communicatievaardigheden en technisch inzicht speel je een essentiële rol in het versterken van onze teams. Sluit je aan bij ons ambitieuze HR-team en maak impact in een dynamische omgeving.</p><p> Solliciteer vandaag nog en bouw mee aan de toekomst van Vlaanderen!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
         "htmlEncoded": "<p>Wil jij een cruciale rol spelen in de digitale transformatie van Vlaanderen? Bij Digitaal Vlaanderen krijg je als deskundige werving en selectie de kans om talent aan te trekken en te behouden voor baanbrekende digitaliseringsprojecten. </p><p>Je werkt nauw samen met diverse teams, ondersteunt bij de selectie van zowel interne als externe professionals, en draagt bij aan het optimaliseren van ons wervingsproces. Met jouw sterke communicatievaardigheden en technisch inzicht speel je een essentiële rol in het versterken van onze teams. Sluit je aan bij ons ambitieuze HR-team en maak impact in een dynamische omgeving.</p><p> Solliciteer vandaag nog en bouw mee aan de toekomst van Vlaanderen!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18629",
+      "internal": false,
+      "validThroughDate": "1751241600",
+      "hiringOrganization": "Vlaamse Onderwijsraad",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18629",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker onderwijs"
+      },
+      "displayTitle": "Beleidsmedewerker onderwijs",
+      "isProtected": false,
+      "description": {
+        "raw": "De Vlaamse Onderwijsraad (Vlor) is de strategische adviesraad voor het beleidsdomein Onderwijs en Vorming. Hij adviseert de overheid en bouwt op die manier mee aan het onderwijs van morgen. Vertegenwoordigers uit het hele onderwijslandschap overleggen in de Vlor over het onderwijs- en vormingsbeleid. Op basis daarvan geeft de Vlor adviezen aan de Vlaamse minister van Onderwijs en Vorming en het Vlaams parlement.<br><br>Als inhoudelijk stafmedewerker bij het permanent secretariaat van de Vlor, bestaat jouw hoofdtaak erin om het overleg tussen de onderwijspartners te faciliteren, zoals vastgelegd in het participatiedecreet, met als hoofddoel om adviezen te geven aan de bevoegde minister(s). Daartoe organiseer je zelf overlegstructuren (raden, commissies, werkgroepen, …) en je neemt eraan deel. Je coördineert het adviesproces: je plant de nodige stappen in binnen de vooropgestelde, vaak krappe, timing en je schrijft de teksten.<br><br>Je komt terecht in een relatief kleine entiteit waar overleg met collega’s frequent voorkomt en belangrijk is, maar waar je ook zelfstandig werkt.&nbsp; Zowel om inhoudelijk te sparren als voor de operationele, praktische uitwerking kan je beroep doen op collega’s.&nbsp; Je bent objectief en onpartijdig. Je bepaalt het onderwijsbeleid niet zelf, maar je zorgt ervoor dat beleidsmakers beschikken over gedragen documenten en standpunten die afgetoetst zijn bij de stakeholders van het brede onderwijslandschap.<br>",
+        "htmlEncoded": "De Vlaamse Onderwijsraad (Vlor) is de strategische adviesraad voor het beleidsdomein Onderwijs en Vorming. Hij adviseert de overheid en bouwt op die manier mee aan het onderwijs van morgen. Vertegenwoordigers uit het hele onderwijslandschap overleggen in de Vlor over het onderwijs- en vormingsbeleid. Op basis daarvan geeft de Vlor adviezen aan de Vlaamse minister van Onderwijs en Vorming en het Vlaams parlement.<br><br>Als inhoudelijk stafmedewerker bij het permanent secretariaat van de Vlor, bestaat jouw hoofdtaak erin om het overleg tussen de onderwijspartners te faciliteren, zoals vastgelegd in het participatiedecreet, met als hoofddoel om adviezen te geven aan de bevoegde minister(s). Daartoe organiseer je zelf overlegstructuren (raden, commissies, werkgroepen, …) en je neemt eraan deel. Je coördineert het adviesproces: je plant de nodige stappen in binnen de vooropgestelde, vaak krappe, timing en je schrijft de teksten.<br><br>Je komt terecht in een relatief kleine entiteit waar overleg met collega’s frequent voorkomt en belangrijk is, maar waar je ook zelfstandig werkt.&nbsp; Zowel om inhoudelijk te sparren als voor de operationele, praktische uitwerking kan je beroep doen op collega’s.&nbsp; Je bent objectief en onpartijdig. Je bepaalt het onderwijsbeleid niet zelf, maar je zorgt ervoor dat beleidsmakers beschikken over gedragen documenten en standpunten die afgetoetst zijn bij de stakeholders van het brede onderwijslandschap.<br>"
       },
       "locations": [
         {
