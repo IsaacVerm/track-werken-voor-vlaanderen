@@ -1,11 +1,81 @@
 {
-  "totalItems": 163,
+  "totalItems": 165,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 162,
+  "lastItemOfPage": 164,
   "items": [
+    {
+      "link": "/Job/vdab-71297883",
+      "internal": false,
+      "validThroughDate": "1751760000",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71297883",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data-analist"
+      },
+      "displayTitle": "Data-analist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je gebeten door data? Bouw je graag heldere dashboards? Dan is de functie van data-analist bij de Vlaamse Nutsregulator iets voor jou. Je werkt in een kleine organisatie en hebt grote impact. Je toekomstig team beheert alle applicaties van de Vlaamse Nutsregulator.</p> \n<p><strong>Over Vlaamse Nutsregulator:</strong><br>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je \n<strong>verzamelt, bewerkt en deelt </strong>data van collega’s en het brede publiek. </li> \n<li>Je brengt \n<strong>databehoeften </strong>over de energiemarkt \n<strong>in kaart</strong> in overleg met collega’s en externe partners. In de toekomst komt er de watersector bij.</li> \n<li>Je onderzoekt welke data beschikbaar is en welke noden moeten worden ingevuld. Je stelt in overleg met je collega’s een \n<strong>plan van aanpak</strong> op om die noden op te vullen. </li> \n<li>Je \n<strong>overlegt met marktspelers</strong> over welke data zal uitgewisseld worden, hoe die wordt uitgewisseld en hoe vaak. De Vlaamse Nutsregulator kan marktspelers verplichten om data aan te leveren om zijn taken uit te oefenen.</li> \n<li>Je volgt nieuwe ontwikkelingen in data-analyse en -verwerking op en werkt samen met IT aan verbeteringen.</li> \n<li>Je waakt over privacy en vertrouwelijkheid van data. Je overlegt met onze DPO en juristen.</li> \n<li>Je hebt je eigen verantwoordelijkheden, maar werkt vooral in \n<strong>team</strong>. Je overlegt met je collega’s en verschillende marktpartijen, toetst voorstellen af bij belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul> \n<p> </p>",
+        "htmlEncoded": "<p>Ben je gebeten door data? Bouw je graag heldere dashboards? Dan is de functie van data-analist bij de Vlaamse Nutsregulator iets voor jou. Je werkt in een kleine organisatie en hebt grote impact. Je toekomstig team beheert alle applicaties van de Vlaamse Nutsregulator.</p> \n<p><strong>Over Vlaamse Nutsregulator:</strong><br>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je \n<strong>verzamelt, bewerkt en deelt </strong>data van collega’s en het brede publiek. </li> \n<li>Je brengt \n<strong>databehoeften </strong>over de energiemarkt \n<strong>in kaart</strong> in overleg met collega’s en externe partners. In de toekomst komt er de watersector bij.</li> \n<li>Je onderzoekt welke data beschikbaar is en welke noden moeten worden ingevuld. Je stelt in overleg met je collega’s een \n<strong>plan van aanpak</strong> op om die noden op te vullen. </li> \n<li>Je \n<strong>overlegt met marktspelers</strong> over welke data zal uitgewisseld worden, hoe die wordt uitgewisseld en hoe vaak. De Vlaamse Nutsregulator kan marktspelers verplichten om data aan te leveren om zijn taken uit te oefenen.</li> \n<li>Je volgt nieuwe ontwikkelingen in data-analyse en -verwerking op en werkt samen met IT aan verbeteringen.</li> \n<li>Je waakt over privacy en vertrouwelijkheid van data. Je overlegt met onze DPO en juristen.</li> \n<li>Je hebt je eigen verantwoordelijkheden, maar werkt vooral in \n<strong>team</strong>. Je overlegt met je collega’s en verschillende marktpartijen, toetst voorstellen af bij belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71297850",
+      "internal": false,
+      "validThroughDate": "1751760000",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71297850",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jurist"
+      },
+      "displayTitle": "Jurist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Juridisch sterk, affiniteit met cijfers en maatschappelijk betrokken? Dan is deze functie iets voor jou. Je versterkt het juridisch team. Samen met het team tarieven werk je aan de juridische basis van de tariefregulering voor de elektriciteits- en aardgassector. Je combineert juridische analyse met economisch inzicht. Je draagt bij aan transparante en evenwichtige tarieven voor burgers en bedrijven. </p> \n<p><strong>Over Vlaamse Nutsregulator</strong></p> \n<p>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<ul> \n<li>Je biedt \n<strong>juridische ondersteuning</strong> bij de opmaak en wijziging van de tariefmethodologie voor de distributie van elektriciteit en aardgas. </li> \n<li>Je werkt samen met economische en technische experten. </li> \n<li>Je bestudeert de \n<strong>energiewetgeving </strong>(Vlaams, federaal en Europees), rechtspraak en rechtsleer en de nieuwe evoluties hierin. </li> \n<li>Je \n<strong>analyseert </strong>beleidsdocumenten en schrijft adviezen, nota’s en andere juridische documenten. </li> \n<li>Je werkt procedures, afspraken en richtlijnen uit. Je treedt gepast op als deze niet worden nageleefd. </li> \n<li>Je neemt deel aan overleg met regulatoren en andere stakeholders.</li> </ul>",
+        "htmlEncoded": "<p>Juridisch sterk, affiniteit met cijfers en maatschappelijk betrokken? Dan is deze functie iets voor jou. Je versterkt het juridisch team. Samen met het team tarieven werk je aan de juridische basis van de tariefregulering voor de elektriciteits- en aardgassector. Je combineert juridische analyse met economisch inzicht. Je draagt bij aan transparante en evenwichtige tarieven voor burgers en bedrijven. </p> \n<p><strong>Over Vlaamse Nutsregulator</strong></p> \n<p>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<ul> \n<li>Je biedt \n<strong>juridische ondersteuning</strong> bij de opmaak en wijziging van de tariefmethodologie voor de distributie van elektriciteit en aardgas. </li> \n<li>Je werkt samen met economische en technische experten. </li> \n<li>Je bestudeert de \n<strong>energiewetgeving </strong>(Vlaams, federaal en Europees), rechtspraak en rechtsleer en de nieuwe evoluties hierin. </li> \n<li>Je \n<strong>analyseert </strong>beleidsdocumenten en schrijft adviezen, nota’s en andere juridische documenten. </li> \n<li>Je werkt procedures, afspraken en richtlijnen uit. Je treedt gepast op als deze niet worden nageleefd. </li> \n<li>Je neemt deel aan overleg met regulatoren en andere stakeholders.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71294116",
       "internal": false,
@@ -912,41 +982,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70961071",
-      "internal": false,
-      "validThroughDate": "1749686400",
-      "hiringOrganization": "Inter - Private Stichting Toegankelijk Vlaanderen",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70961071",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Onafhankelijk bestuurder"
-      },
-      "displayTitle": "Onafhankelijk bestuurder",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het agentschap Toegankelijk Vlaanderen is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, opgericht in de vorm van een private stichting, onder de werknaam Inter.</p> \n<p>Inter werkt als Vlaams expertisecentrum voor toegankelijkheid en inclusief ontwerpen aan een leefomgeving zonder drempels, waarin iedereen alle kansen krijgt, jong, oud, met en zonder beperking en onder alle omstandigheden.</p> \n<p>Inter heeft als opdracht zowel overheden als de private sector te informeren, te sensibiliseren en te begeleiden en is de instantie die de verplichte adviezen uitbrengt in het kader van de toegankelijkheidsverordening. Daarnaast heeft Inter de rol om beleid, professionelen en gebruikers met elkaar in verbinding te brengen en zo samenhang in beleid en praktijk na te streven. In die rol evolueert Inter van adviserend partner naar beleidspartner van het Vlaamse toegankelijkheidsbeleid.</p> \n<p>In uitvoering van het bestuursdecreet van 7 december 2018 zoekt Inter voor zijn bestuursorgaan onafhankelijke bestuurders (m/v/x).</p> \n<p><strong>Momenteel heeft Inter dan ook 5 vacatures voor een onafhankelijk bestuurder.</strong></p> \n<p>Bestuursorgaan</p> \n<ul> \n<li>Het bestuursorgaan bestaat op dit moment uit acht leden en een regeringscommissaris.</li> \n<li>Het bestuursorgaan bepaalt het algemeen beleid van Inter, in nauwe samenwerking met de dagelijkse directie. Het bestuursorgaan komt niet tussen in de operationele werking, maar controleert hoe de directie de strategische keuzes uitvoert.</li> \n<li>Het bestuursorgaan bewaakt bij alle opdrachten de missie van Inter.</li> </ul> \n<p>Competentieprofiel</p> \n<p>U combineert meerdere van de volgende competenties of ervaringen</p> \n<ul> \n<li>de maatschappelijke thema’s toegankelijkheid en handicap</li> \n<li>marketing en communicatie</li> \n<li>innovatie en digitalisering</li> \n<li>ondernemerschap</li> \n<li>financieel beleid en organisatiebeheer</li> \n<li>organisatieontwikkeling</li> \n<li>beleidsontwikkeling.</li> </ul> \n<p>U denkt strategisch mee over de toekomst van Inter. U helpt langetermijndoelen vormgeven en zet mee de koers uit naar een inclusieve samenleving.</p> \n<p>U bent sterk verbonden met de missie van Inter: een samenleving zonder drempels waarin iedereen volwaardig kan meedoen.</p> \n<p>U handelt met integriteit en verantwoordelijkheidszin, en u hebt een morele en maatschappelijk onberispelijke houding.</p> \n<p>U bent politiek onafhankelijk en treedt ook in het bestuursorgaan op vanuit die onafhankelijkheid.</p>",
-        "htmlEncoded": "<p>Het agentschap Toegankelijk Vlaanderen is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, opgericht in de vorm van een private stichting, onder de werknaam Inter.</p> \n<p>Inter werkt als Vlaams expertisecentrum voor toegankelijkheid en inclusief ontwerpen aan een leefomgeving zonder drempels, waarin iedereen alle kansen krijgt, jong, oud, met en zonder beperking en onder alle omstandigheden.</p> \n<p>Inter heeft als opdracht zowel overheden als de private sector te informeren, te sensibiliseren en te begeleiden en is de instantie die de verplichte adviezen uitbrengt in het kader van de toegankelijkheidsverordening. Daarnaast heeft Inter de rol om beleid, professionelen en gebruikers met elkaar in verbinding te brengen en zo samenhang in beleid en praktijk na te streven. In die rol evolueert Inter van adviserend partner naar beleidspartner van het Vlaamse toegankelijkheidsbeleid.</p> \n<p>In uitvoering van het bestuursdecreet van 7 december 2018 zoekt Inter voor zijn bestuursorgaan onafhankelijke bestuurders (m/v/x).</p> \n<p><strong>Momenteel heeft Inter dan ook 5 vacatures voor een onafhankelijk bestuurder.</strong></p> \n<p>Bestuursorgaan</p> \n<ul> \n<li>Het bestuursorgaan bestaat op dit moment uit acht leden en een regeringscommissaris.</li> \n<li>Het bestuursorgaan bepaalt het algemeen beleid van Inter, in nauwe samenwerking met de dagelijkse directie. Het bestuursorgaan komt niet tussen in de operationele werking, maar controleert hoe de directie de strategische keuzes uitvoert.</li> \n<li>Het bestuursorgaan bewaakt bij alle opdrachten de missie van Inter.</li> </ul> \n<p>Competentieprofiel</p> \n<p>U combineert meerdere van de volgende competenties of ervaringen</p> \n<ul> \n<li>de maatschappelijke thema’s toegankelijkheid en handicap</li> \n<li>marketing en communicatie</li> \n<li>innovatie en digitalisering</li> \n<li>ondernemerschap</li> \n<li>financieel beleid en organisatiebeheer</li> \n<li>organisatieontwikkeling</li> \n<li>beleidsontwikkeling.</li> </ul> \n<p>U denkt strategisch mee over de toekomst van Inter. U helpt langetermijndoelen vormgeven en zet mee de koers uit naar een inclusieve samenleving.</p> \n<p>U bent sterk verbonden met de missie van Inter: een samenleving zonder drempels waarin iedereen volwaardig kan meedoen.</p> \n<p>U handelt met integriteit en verantwoordelijkheidszin, en u hebt een morele en maatschappelijk onberispelijke houding.</p> \n<p>U bent politiek onafhankelijk en treedt ook in het bestuursorgaan op vanuit die onafhankelijkheid.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
           }
         }
       ]
@@ -2737,41 +2772,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69383308",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69383308",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel Analist Expert (Agentschap Wegen en Verkeer) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel Analist Expert (Agentschap Wegen en Verkeer) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p> </p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern). Wat ons uniek maakt is dat onze IT applicaties eerder praktijkgericht en herkenbaar zijn langs onze wegen. Je kan met andere woorden rechtstreeks zien waar je aan meegewerkt hebt.</p> \n<p> </p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 6 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p> </p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p> </p>",
-        "htmlEncoded": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p> </p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern). Wat ons uniek maakt is dat onze IT applicaties eerder praktijkgericht en herkenbaar zijn langs onze wegen. Je kan met andere woorden rechtstreeks zien waar je aan meegewerkt hebt.</p> \n<p> </p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 6 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p> </p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69310079",
       "internal": false,
       "validThroughDate": "-1",
@@ -3437,6 +3437,46 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18675",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18675",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VIP Kok"
+      },
+      "displayTitle": "VIP Kok",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een gedreven kok met een passie voor heerlijk eten en wil je deel uitmaken van ons bruisende team in ons moderne gebouw? Dan zijn wij op zoek naar jou!</p> <p>We zijn op zoek naar <b>twee verfijnde koks voor de VIP-keukens</b> in het Belpairegebouw (Simon Bolivarlaan 17, Brussel) en het Herman Teirlinckgebouw (Havenlaan 88, 1000 Brussel) <span>&nbsp;</span>Je staat in voor de uitvoering van VIP-lunches, recepties en andere events. In deze rol ben je verantwoordelijk voor het plannen van werkzaamheden, het plaatsen van bestellingen en nog veel meer. Je bent niet alleen de steunpilaar van de chef catering, maar je hebt ook de mogelijkheid om het personeel te begeleiden en te superviseren bij de bereiding van (VIP-) maaltijden. Met jouw creatieve input draag je bij aan de samenstelling van onze heerlijke menu’s voor belangrijke gelegenheden. Enige ervaring in een gastronomisch restaurant is wel aangeraden. We verwachten dat je kan werken met de meest moderne technieken (vacüumgaren, roken, fermenteren, pekelen,…) en toestellen (roner, thermomix, ijsmachine,…).</p> <p>In onze gebouwen zijn ook grootkeukens waar jij ook regelmatig zal in meedraaien.. We verwachten dus enige flexibiliteit. Samen met de chef catering, de back-up chef, collegakoks en verschillende keukenhulpen zorgen jullie voor een breed aanbod aan maaltijden. Je bereidt schotels, desserts, warme maaltijden, helpt bij evenementen enz. Je stuurt de keukenhulpen aan en begeleidt hen bij de uitvoering van hun taken.</p> <p>Wil je graag nog meer details over de job van VIP kok? <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18675+-+VIP+kok_FB.pdf\">Lees dan verder via deze link</a>.</p><p>Wil je meer weten over Het Facilitair Bedrijf en waar wij voor staan? <a href=\"https://www.vlaanderen.be/het-facilitair-bedrijf\">Neem dan zeker een kijkje op onze website.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een gedreven kok met een passie voor heerlijk eten en wil je deel uitmaken van ons bruisende team in ons moderne gebouw? Dan zijn wij op zoek naar jou!</p> <p>We zijn op zoek naar <b>twee verfijnde koks voor de VIP-keukens</b> in het Belpairegebouw (Simon Bolivarlaan 17, Brussel) en het Herman Teirlinckgebouw (Havenlaan 88, 1000 Brussel) <span>&nbsp;</span>Je staat in voor de uitvoering van VIP-lunches, recepties en andere events. In deze rol ben je verantwoordelijk voor het plannen van werkzaamheden, het plaatsen van bestellingen en nog veel meer. Je bent niet alleen de steunpilaar van de chef catering, maar je hebt ook de mogelijkheid om het personeel te begeleiden en te superviseren bij de bereiding van (VIP-) maaltijden. Met jouw creatieve input draag je bij aan de samenstelling van onze heerlijke menu’s voor belangrijke gelegenheden. Enige ervaring in een gastronomisch restaurant is wel aangeraden. We verwachten dat je kan werken met de meest moderne technieken (vacüumgaren, roken, fermenteren, pekelen,…) en toestellen (roner, thermomix, ijsmachine,…).</p> <p>In onze gebouwen zijn ook grootkeukens waar jij ook regelmatig zal in meedraaien.. We verwachten dus enige flexibiliteit. Samen met de chef catering, de back-up chef, collegakoks en verschillende keukenhulpen zorgen jullie voor een breed aanbod aan maaltijden. Je bereidt schotels, desserts, warme maaltijden, helpt bij evenementen enz. Je stuurt de keukenhulpen aan en begeleidt hen bij de uitvoering van hun taken.</p> <p>Wil je graag nog meer details over de job van VIP kok? <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18675+-+VIP+kok_FB.pdf\">Lees dan verder via deze link</a>.</p><p>Wil je meer weten over Het Facilitair Bedrijf en waar wij voor staan? <a href=\"https://www.vlaanderen.be/het-facilitair-bedrijf\">Neem dan zeker een kijkje op onze website.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18670",
       "internal": false,
       "validThroughDate": "1749945600",
@@ -3764,6 +3804,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18585",
+      "internal": false,
+      "validThroughDate": "1751241600",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18585",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Rattenbestrijder"
+      },
+      "displayTitle": "Rattenbestrijder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als ratten- en exotenbestrijder ga je elke dag op pad om de natuur in evenwicht te houden. Je bent verantwoordelijk voor het bestrijden van ratten (muskusratten, bruine ratten, beverratten) die een risico vormen voor de dijken, oevers en inheemse fauna. Je werkt in of rond waterlopen die onder het beheer van de Vlaamse Milieumaatschappij (VMM) vallen, of gebieden waarvoor een samenwerkingsovereenkomst werd afgesloten.&nbsp;<br><br>Maar je doet meer dan dat. Je zet je ook in tegen zorgwekkende, invasieve exoten zoals grote waternavel, parelvederkruid, waterteunisbloem en de Chinese wolhandkrab. Jij helpt onze ecosystemen beschermen, én zorgt ervoor dat zwerfvuil uit onze waterlopen verdwijnt.<br><br>Ook speciale opdrachten komen op jouw pad: je neemt deel aan Europese projecten, ondersteunt toegepast wetenschappelijk onderzoek en helpt bij het monitoring of verplaatsen van bevers. Geen dag is dezelfde, en je werk maakt echt een verschil!&nbsp;<br><br>Je komt terecht in het team Exotenbestrijding binnen de Kern Beheer en Investeringen Waterlopen (BIW). De Kern BIW beheert en voert investeringswerken uit aan de onbevaarbare waterlopen van 1ste categorie, staat in voor hydrometrie en exotenbestrijding, geeft advies in het kader van de watertoets en verzekert de alarm- en incidentenwerking met betrekking tot de waterkwantiteit.&nbsp;<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.<br><br>Hou je van buiten werken, ben je niet bang om je vuil te maken en wil jij mee zorgen voor propere, veilige en gezonde waterlopen in Vlaanderen? Dan pas jij perfect in ons team!&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Als ratten- en exotenbestrijder ga je elke dag op pad om de natuur in evenwicht te houden. Je bent verantwoordelijk voor het bestrijden van ratten (muskusratten, bruine ratten, beverratten) die een risico vormen voor de dijken, oevers en inheemse fauna. Je werkt in of rond waterlopen die onder het beheer van de Vlaamse Milieumaatschappij (VMM) vallen, of gebieden waarvoor een samenwerkingsovereenkomst werd afgesloten.&nbsp;<br><br>Maar je doet meer dan dat. Je zet je ook in tegen zorgwekkende, invasieve exoten zoals grote waternavel, parelvederkruid, waterteunisbloem en de Chinese wolhandkrab. Jij helpt onze ecosystemen beschermen, én zorgt ervoor dat zwerfvuil uit onze waterlopen verdwijnt.<br><br>Ook speciale opdrachten komen op jouw pad: je neemt deel aan Europese projecten, ondersteunt toegepast wetenschappelijk onderzoek en helpt bij het monitoring of verplaatsen van bevers. Geen dag is dezelfde, en je werk maakt echt een verschil!&nbsp;<br><br>Je komt terecht in het team Exotenbestrijding binnen de Kern Beheer en Investeringen Waterlopen (BIW). De Kern BIW beheert en voert investeringswerken uit aan de onbevaarbare waterlopen van 1ste categorie, staat in voor hydrometrie en exotenbestrijding, geeft advies in het kader van de watertoets en verzekert de alarm- en incidentenwerking met betrekking tot de waterkwantiteit.&nbsp;<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.<br><br>Hou je van buiten werken, ben je niet bang om je vuil te maken en wil jij mee zorgen voor propere, veilige en gezonde waterlopen in Vlaanderen? Dan pas jij perfect in ons team!&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
@@ -4559,41 +4634,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18441",
-      "internal": false,
-      "validThroughDate": "1749772800",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18441",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "medewerker voor de Commissie Afwijkende PAS-Referentiesituatie (CAPAS)"
-      },
-      "displayTitle": "medewerker voor de Commissie Afwijkende PAS-Referentiesituatie (CAPAS)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben je op zoek naar een boeiende, tijdelijke uitdaging die je werkdag een nieuwe invulling geeft? Heb je oog voor detail én interesse in dossiers met maatschappelijke impact? Wil je je steentje bijdragen aan de praktische uitvoering van het Vlaamse stikstofbeleid? Dan is deze functie als medewerker voor de Commissie Afwijkende PAS-referentiesituatie (</span><span><a href=\"https://www.vlaanderen.be/stikstof-in-vlaanderen/afwijkende-berekeningsmethode\"><span>CAPAS</span></a></span><span>) perfect voor jou! <br> <b><br>Waarom deze kans interessant is: <br></b></span></p><ul><li><span><b>Afwisseling in je job</b>: even een frisse wind in je carrière door een tijdelijke functie waarin je inhoudelijke én administratieve skills combineert. <b><br></b></span></li><li><span><b>Nieuwe inzichten</b>: je verdiept je in diverse aanvraagdossiers en krijgt de kans om jouw kennis en competenties verder te ontwikkelen. <b><br></b></span></li><li><span><b>Betekenisvol werk</b>: je draagt bij aan een duurzame omgeving en toekomstgerichte landbouw in Vlaanderen. <b><br> </b></span></li></ul><p><span>De Commissie Afwijkende PAS-referentiesituatie (CAPAS) wordt opgericht door het departement Omgeving. De commissie werd eind april 2025 opgestart. Om de aanvragen te behandelen is de afdeling GOP van het departement Omgeving op zoek naar versterking (2 collega’s) voor een periode van 2 jaar om zo snel mogelijk te starten. <br> Het takenpakket van de secretaris bestaat voornamelijk uit:<br> <b></b></span></p><ul><li><span><b>De praktische organisatie van vergaderingen</b>: je ondersteunt de voorzitter bij het inplannen van vergaderingen, je stelt de agenda op en deelt deze met de leden van de commissie. <br> <b></b></span></li><li><span><b>Dossieropvolging</b>: je waakt over de termijnen waarin beslissingen genomen moeten worden. <br> <b></b></span></li><li><span><b>Voorbereiding van beslissingen</b>: je controleert de volledigheid en juistheid van de aanvraag, je toetst het dossier aan de opgestelde kaders en stelt voorstellen van beslissingen op. <br> <b></b></span></li><li><span><b>Secretaris op de vergaderingen</b>: je staat de voorzitter tijdens vergaderingen bij en maakt een beknopt verslag van de vergadering op. <br> <b></b></span></li><li><span><b>Archiefbeheer en rapportering</b>: je zorgt ervoor dat de dossiers geordend en digitaal gearchiveerd worden op zo’n manier dat de gegevens nadien bruikbaar zijn voor consultatie en rapportering.</span></li><li><span>&nbsp;</span><b>Beantwoorden van vragen</b><span>: je beantwoordt vragen van burgers omtrent het toepassingsgebied en de werking van de CAPAS.</span></li></ul><p><span>&nbsp;</span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p><span>Ben je op zoek naar een boeiende, tijdelijke uitdaging die je werkdag een nieuwe invulling geeft? Heb je oog voor detail én interesse in dossiers met maatschappelijke impact? Wil je je steentje bijdragen aan de praktische uitvoering van het Vlaamse stikstofbeleid? Dan is deze functie als medewerker voor de Commissie Afwijkende PAS-referentiesituatie (</span><span><a href=\"https://www.vlaanderen.be/stikstof-in-vlaanderen/afwijkende-berekeningsmethode\"><span>CAPAS</span></a></span><span>) perfect voor jou! <br> <b><br>Waarom deze kans interessant is: <br></b></span></p><ul><li><span><b>Afwisseling in je job</b>: even een frisse wind in je carrière door een tijdelijke functie waarin je inhoudelijke én administratieve skills combineert. <b><br></b></span></li><li><span><b>Nieuwe inzichten</b>: je verdiept je in diverse aanvraagdossiers en krijgt de kans om jouw kennis en competenties verder te ontwikkelen. <b><br></b></span></li><li><span><b>Betekenisvol werk</b>: je draagt bij aan een duurzame omgeving en toekomstgerichte landbouw in Vlaanderen. <b><br> </b></span></li></ul><p><span>De Commissie Afwijkende PAS-referentiesituatie (CAPAS) wordt opgericht door het departement Omgeving. De commissie werd eind april 2025 opgestart. Om de aanvragen te behandelen is de afdeling GOP van het departement Omgeving op zoek naar versterking (2 collega’s) voor een periode van 2 jaar om zo snel mogelijk te starten. <br> Het takenpakket van de secretaris bestaat voornamelijk uit:<br> <b></b></span></p><ul><li><span><b>De praktische organisatie van vergaderingen</b>: je ondersteunt de voorzitter bij het inplannen van vergaderingen, je stelt de agenda op en deelt deze met de leden van de commissie. <br> <b></b></span></li><li><span><b>Dossieropvolging</b>: je waakt over de termijnen waarin beslissingen genomen moeten worden. <br> <b></b></span></li><li><span><b>Voorbereiding van beslissingen</b>: je controleert de volledigheid en juistheid van de aanvraag, je toetst het dossier aan de opgestelde kaders en stelt voorstellen van beslissingen op. <br> <b></b></span></li><li><span><b>Secretaris op de vergaderingen</b>: je staat de voorzitter tijdens vergaderingen bij en maakt een beknopt verslag van de vergadering op. <br> <b></b></span></li><li><span><b>Archiefbeheer en rapportering</b>: je zorgt ervoor dat de dossiers geordend en digitaal gearchiveerd worden op zo’n manier dat de gegevens nadien bruikbaar zijn voor consultatie en rapportering.</span></li><li><span>&nbsp;</span><b>Beantwoorden van vragen</b><span>: je beantwoordt vragen van burgers omtrent het toepassingsgebied en de werking van de CAPAS.</span></li></ul><p><span>&nbsp;</span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18439",
       "internal": true,
       "validThroughDate": "1750118400",
@@ -5315,6 +5355,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17792",
+      "internal": false,
+      "validThroughDate": "1751587200",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-17792",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker schoonmaak (50%) voor het VCC Voeren"
+      },
+      "displayTitle": "Medewerker schoonmaak (50%) voor het VCC Voeren",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gedreven om bij te dragen aan een schone en gastvrije omgeving voor bezoekers en gebruikers van ons cultuurcentrum? Draag je orde en netheid hoog in het vaandel? Dan ben jij de persoon die wij zoeken!<br><br>Het Vlaams Cultuurcentrum Voeren is een warme plek waar mensen samenkomen voor cultuur, ontmoeting en beleving. We zoeken een enthousiaste collega die helpt om onze ruimtes proper en uitnodigend te houden voor publiek en collega’s.<br><br>Als poetshulp maak je deel uit van een klein, geëngageerd team dat werkt op twee locaties: <strong>de Voerpoort </strong>in Moelingen (Dorpsstraat 36) en <strong>Het Paviljoen </strong>in Sint-Martens-Voeren (Kwinten 5). Je draagt mee zorg voor de dagelijkse werking en bent een belangrijke schakel in het onthaal van onze bezoekers.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je zorgt voor het schoonmaken en onderhouden van diverse ruimtes zoals vergaderzalen, trappenhallen, sanitair, inkomhal, gangen en podiumzaal.</li><li>Je helpt mee bij het klaarzetten en inrichten van zalen volgens de geplande activiteiten.</li><li>Je biedt occasionele ondersteuning bij evenementen, bijvoorbeeld tijdens catering of bediening.</li><li>Je signaleert defecten of noden in de infrastructuur en denkt proactief mee over verbeteringen.</li><li>Je draagt actief bij aan een gastvrije en klantvriendelijke sfeer in het cultuurcentrum.</li></ul><p>Je werkt in een <strong>deeltijdse functie van 50%</strong>, met maandag als vaste werkdag. De overige dagen zijn bespreekbaar. We zoeken iemand die beschikbaar is vanaf begin september 2025.</p><p>Ben jij een betrokken, zorgzame en flexibele collega met oog voor netheid en hart voor cultuur?&nbsp; Lees dan meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij gedreven om bij te dragen aan een schone en gastvrije omgeving voor bezoekers en gebruikers van ons cultuurcentrum? Draag je orde en netheid hoog in het vaandel? Dan ben jij de persoon die wij zoeken!<br><br>Het Vlaams Cultuurcentrum Voeren is een warme plek waar mensen samenkomen voor cultuur, ontmoeting en beleving. We zoeken een enthousiaste collega die helpt om onze ruimtes proper en uitnodigend te houden voor publiek en collega’s.<br><br>Als poetshulp maak je deel uit van een klein, geëngageerd team dat werkt op twee locaties: <strong>de Voerpoort </strong>in Moelingen (Dorpsstraat 36) en <strong>Het Paviljoen </strong>in Sint-Martens-Voeren (Kwinten 5). Je draagt mee zorg voor de dagelijkse werking en bent een belangrijke schakel in het onthaal van onze bezoekers.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je zorgt voor het schoonmaken en onderhouden van diverse ruimtes zoals vergaderzalen, trappenhallen, sanitair, inkomhal, gangen en podiumzaal.</li><li>Je helpt mee bij het klaarzetten en inrichten van zalen volgens de geplande activiteiten.</li><li>Je biedt occasionele ondersteuning bij evenementen, bijvoorbeeld tijdens catering of bediening.</li><li>Je signaleert defecten of noden in de infrastructuur en denkt proactief mee over verbeteringen.</li><li>Je draagt actief bij aan een gastvrije en klantvriendelijke sfeer in het cultuurcentrum.</li></ul><p>Je werkt in een <strong>deeltijdse functie van 50%</strong>, met maandag als vaste werkdag. De overige dagen zijn bespreekbaar. We zoeken iemand die beschikbaar is vanaf begin september 2025.</p><p>Ben jij een betrokken, zorgzame en flexibele collega met oog voor netheid en hart voor cultuur?&nbsp; Lees dan meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Voeren"
           }
         }
       ]
