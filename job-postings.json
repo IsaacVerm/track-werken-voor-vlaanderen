@@ -1,10 +1,10 @@
 {
-  "totalItems": 159,
+  "totalItems": 155,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 158,
+  "lastItemOfPage": 154,
   "items": [
     {
       "link": "/Job/vdab-71313693",
@@ -959,8 +959,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71015532",
@@ -4331,41 +4331,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18529",
-      "internal": false,
-      "validThroughDate": "1750118400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18529",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Polyvalent Onderhoudsmedewerker"
-      },
-      "displayTitle": "Polyvalent Onderhoudsmedewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als polyvalent onderhoudsmedewerker ben je verantwoordelijk voor het uitvoeren van onderhoud en herstellingen aan infrastructuur beheerd door De Vlaamse Waterweg.<br><br>Je takenpakket omvat onder andere:</p><ul><li>Uitvoeren van alle elementaire onderhoudswerken aan oevers, wegen, grachten, kunstwerken, … Je maakt hiervoor gebruik van gemotoriseerde werktuigen zoals een bosmaaier, bladblazer, kettingzaag, hakselaar, …</li><li>Bedienen van machines zoals graafmachine, heftruck, hoogtewerker,…</li><li>Ophalen van sluikstorten en drijfvuil opruimen en deponeren in afvalverzamelplaats.</li><li>In deze functie vang je ook noodsituaties op bij calamiteiten aan waterwegen, oevers en jaagpaden.</li></ul><p>Bij deze taken hou je de nodige aandacht voor een goed nazicht en onderhoud van je materiaal en zorg je voor een correcte en nauwkeurige administratie.<br><br>Op basis van een weekplanning neem je taken op en voer je opdrachten uit samen met je collega’s. Indien nodig signaleer je problemen en bespreek je deze met je leidinggevende. Daarnaast zijn er opleidingsmogelijkheden, zoals het besturen van specifieke voertuigen en machines.<br><br>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. Met ongeveer 1.350 medewerkers werken we vanuit verschillende afdelingen aan een veelzijdig en slim waterwegennet.<br><br>Op korte termijn zijn er vacatures in regio Oost met standplaatsen Ham, Neeroeteren, Schoten, Arendonk. We wensen echter een werfreserve aan te leggen om hier ook voor de potentieel toekomstige plaatsen van regio West en regio Centraal beroep op te kunnen doen.</p><p>Ben jij iemand die graag buiten werkt en zich inzet voor het onderhoud van onze waterwegen? Heb je oog voor kwaliteit en duurzaamheid?</p>",
-        "htmlEncoded": "<p>Als polyvalent onderhoudsmedewerker ben je verantwoordelijk voor het uitvoeren van onderhoud en herstellingen aan infrastructuur beheerd door De Vlaamse Waterweg.<br><br>Je takenpakket omvat onder andere:</p><ul><li>Uitvoeren van alle elementaire onderhoudswerken aan oevers, wegen, grachten, kunstwerken, … Je maakt hiervoor gebruik van gemotoriseerde werktuigen zoals een bosmaaier, bladblazer, kettingzaag, hakselaar, …</li><li>Bedienen van machines zoals graafmachine, heftruck, hoogtewerker,…</li><li>Ophalen van sluikstorten en drijfvuil opruimen en deponeren in afvalverzamelplaats.</li><li>In deze functie vang je ook noodsituaties op bij calamiteiten aan waterwegen, oevers en jaagpaden.</li></ul><p>Bij deze taken hou je de nodige aandacht voor een goed nazicht en onderhoud van je materiaal en zorg je voor een correcte en nauwkeurige administratie.<br><br>Op basis van een weekplanning neem je taken op en voer je opdrachten uit samen met je collega’s. Indien nodig signaleer je problemen en bespreek je deze met je leidinggevende. Daarnaast zijn er opleidingsmogelijkheden, zoals het besturen van specifieke voertuigen en machines.<br><br>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. Met ongeveer 1.350 medewerkers werken we vanuit verschillende afdelingen aan een veelzijdig en slim waterwegennet.<br><br>Op korte termijn zijn er vacatures in regio Oost met standplaatsen Ham, Neeroeteren, Schoten, Arendonk. We wensen echter een werfreserve aan te leggen om hier ook voor de potentieel toekomstige plaatsen van regio West en regio Centraal beroep op te kunnen doen.</p><p>Ben jij iemand die graag buiten werkt en zich inzet voor het onderhoud van onze waterwegen? Heb je oog voor kwaliteit en duurzaamheid?</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18527",
       "internal": false,
       "validThroughDate": "1754265600",
@@ -4696,111 +4661,6 @@
         {
           "address": {
             "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18469",
-      "internal": false,
-      "validThroughDate": "1750118400",
-      "hiringOrganization": "agentschap Digitaal Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18469",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker digitale veiligheid"
-      },
-      "displayTitle": "Beleidsmedewerker digitale veiligheid",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij gefascineerd door cybersecurity en wil je een impactvolle rol spelen in het beschermen van digitale infrastructuren? Dan is deze kans bij Digitaal Vlaanderen jouw perfecte match! </p><p>Als beleidsmedewerker Digitale Veiligheid zal je het beleid uitstippelen, implementeren en monitoren, advies geven over ondersteuningstrajecten en samenwerken met partners zoals het Agentschap Binnenlands Bestuur en Audit Vlaanderen. Je zal nauw samenwerken met andere overheidsdiensten en stakeholders om de cyberweerbaarheid van de Vlaamse administraties te versterken en te blijven innoveren in een snel evoluerend cyberlandschap.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij gefascineerd door cybersecurity en wil je een impactvolle rol spelen in het beschermen van digitale infrastructuren? Dan is deze kans bij Digitaal Vlaanderen jouw perfecte match! </p><p>Als beleidsmedewerker Digitale Veiligheid zal je het beleid uitstippelen, implementeren en monitoren, advies geven over ondersteuningstrajecten en samenwerken met partners zoals het Agentschap Binnenlands Bestuur en Audit Vlaanderen. Je zal nauw samenwerken met andere overheidsdiensten en stakeholders om de cyberweerbaarheid van de Vlaamse administraties te versterken en te blijven innoveren in een snel evoluerend cyberlandschap.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": ""
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18439",
-      "internal": true,
-      "validThroughDate": "1750118400",
-      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18439",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Chauffeur kabinetsondersteuning"
-      },
-      "displayTitle": "Chauffeur kabinetsondersteuning",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie van chauffeur situeert zich binnen de cel\nkabinetsondersteuning van het departement. Je wordt tewerkgesteld op\nhet kabinet van de minister van Mobiliteit en Openbare Werken.</p><p>Je takenpakket bestaat\nuit volgende zaken:</p><ul><li>Als chauffeur sta je in voor alle verplaatsingen met de dienstwagen van de minister of de kabinetschef van de minister en zorg je ervoor dat hij tijdig en vlot op zijn verschillende afspraken geraakt.</li><li>Je houdt hierbij o.a. rekening met de agenda van de minister/kabinetschef, de benodigde tijd voor de verplaatsing en de (verwachte) verkeersdrukte.</li><li>Ook ben je verantwoordelijk voor het beheer en het onderhoud van de dienstwagen van de kabinetschef (dagelijks nazicht, schoonmaken etc.).</li><li>Je werkt nauw samen met het secretariaat van de minister/kabinetschef voor de planning alsook met je collega-chauffeur met wie je in een ploegensysteem werkt .</li><li>Discretie en integriteit staan bij de uitoefening van je taken voorop.</li><li>Naast je taken als chauffeur word je ook ingeschakeld voor andere administratieve en ondersteunende taken binnen het kabinet in functie van je beschikbaarheid. Het vervoeren van belangrijke documenten of bezorgen van dringende post behoort eveneens tot je takenpakket.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>De functie van chauffeur situeert zich binnen de cel\nkabinetsondersteuning van het departement. Je wordt tewerkgesteld op\nhet kabinet van de minister van Mobiliteit en Openbare Werken.</p><p>Je takenpakket bestaat\nuit volgende zaken:</p><ul><li>Als chauffeur sta je in voor alle verplaatsingen met de dienstwagen van de minister of de kabinetschef van de minister en zorg je ervoor dat hij tijdig en vlot op zijn verschillende afspraken geraakt.</li><li>Je houdt hierbij o.a. rekening met de agenda van de minister/kabinetschef, de benodigde tijd voor de verplaatsing en de (verwachte) verkeersdrukte.</li><li>Ook ben je verantwoordelijk voor het beheer en het onderhoud van de dienstwagen van de kabinetschef (dagelijks nazicht, schoonmaken etc.).</li><li>Je werkt nauw samen met het secretariaat van de minister/kabinetschef voor de planning alsook met je collega-chauffeur met wie je in een ploegensysteem werkt .</li><li>Discretie en integriteit staan bij de uitoefening van je taken voorop.</li><li>Naast je taken als chauffeur word je ook ingeschakeld voor andere administratieve en ondersteunende taken binnen het kabinet in functie van je beschikbaarheid. Het vervoeren van belangrijke documenten of bezorgen van dringende post behoort eveneens tot je takenpakket.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18438",
-      "internal": true,
-      "validThroughDate": "1750118400",
-      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18438",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Secretariaatsmedewerker kabinetsondersteuning"
-      },
-      "displayTitle": "Secretariaatsmedewerker kabinetsondersteuning",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie van secretariaatsmedewerker situeert zich binnen de cel kabinetsondersteuning van het departement. Je wordt tewerkgesteld op het kabinet van de minister van Mobiliteit en Openbare Werken.</p><p>Je takenpakket bestaat uit volgende zaken: Instaan voor het onthaal en verlenen van administratief ondersteunende taken binnen de cel kabinetsondersteuning om bij te dragen tot een vlotte, efficiënte administratieve werking van het kabinet.</p><ul><li>Agendabeheer: Beheren van de agenda van kabinetsmedewerkers om bij te dragen tot een goed beheer van hun tijd en een efficiënte organisatie van het werk.<ul><li>Afspraken maken</li><li>Signaleren of herinneren aan afspraken</li><li>Reservaties maken,…</li><li>Bij agendawijzigingen, de betrokkenen informeren en de nodige stappen zetten om afspraken te verzetten, derden verwittigen,…</li></ul></li><li>Informatiebeheer:<ul><li>Registratie van gegevens om op elk ogenblik correcte en recente informatie ter beschikking te hebben.</li><li>Verzorgen en ontsluiten van een digitaal klassement om zichzelf en anderen in staat te stellen snel de gevraagde informatie terug te vinden.</li><li>Informatiedoorstroom met administratie</li></ul></li></ul><ul><li>Dossierbehandeling ondersteunen:<ul><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen om bij te dragen tot een correcte en volledige afhandeling van een dossier.</li><li>Voorbereiden, opstellen en nazien van documenten om de informatie vast te leggen voor verder gebruik door anderen.</li></ul></li><li>Ondersteuning bij personeelsbeheer.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
-        "htmlEncoded": "<p>De functie van secretariaatsmedewerker situeert zich binnen de cel kabinetsondersteuning van het departement. Je wordt tewerkgesteld op het kabinet van de minister van Mobiliteit en Openbare Werken.</p><p>Je takenpakket bestaat uit volgende zaken: Instaan voor het onthaal en verlenen van administratief ondersteunende taken binnen de cel kabinetsondersteuning om bij te dragen tot een vlotte, efficiënte administratieve werking van het kabinet.</p><ul><li>Agendabeheer: Beheren van de agenda van kabinetsmedewerkers om bij te dragen tot een goed beheer van hun tijd en een efficiënte organisatie van het werk.<ul><li>Afspraken maken</li><li>Signaleren of herinneren aan afspraken</li><li>Reservaties maken,…</li><li>Bij agendawijzigingen, de betrokkenen informeren en de nodige stappen zetten om afspraken te verzetten, derden verwittigen,…</li></ul></li><li>Informatiebeheer:<ul><li>Registratie van gegevens om op elk ogenblik correcte en recente informatie ter beschikking te hebben.</li><li>Verzorgen en ontsluiten van een digitaal klassement om zichzelf en anderen in staat te stellen snel de gevraagde informatie terug te vinden.</li><li>Informatiedoorstroom met administratie</li></ul></li></ul><ul><li>Dossierbehandeling ondersteunen:<ul><li>Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen om bij te dragen tot een correcte en volledige afhandeling van een dossier.</li><li>Voorbereiden, opstellen en nazien van documenten om de informatie vast te leggen voor verder gebruik door anderen.</li></ul></li><li>Ondersteuning bij personeelsbeheer.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
