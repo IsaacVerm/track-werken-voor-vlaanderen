@@ -1,11 +1,151 @@
 {
-  "totalItems": 158,
+  "totalItems": 160,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 157,
+  "lastItemOfPage": 159,
   "items": [
+    {
+      "link": "/Job/vdab-71346721",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71346721",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Oracle APEX ontwikkelaar (AHOVOKS) via Vlaanderen Connect."
+      },
+      "displayTitle": "Oracle APEX ontwikkelaar (AHOVOKS) via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wat zal je moeten doen?</span></p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen deze missie te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe inschrijfmodule voor de toelatingsexamen Arts-Tandarts-Dierenarts, waarmee burgers zich inschrijven voor deze examens; evenals aan het EC-platform, dit is de toepassing waarmee de examencommissie secundair onderwijs examens plant; de onderwijsdoelendatabank,... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 5 jaar. Je komt terecht binnen ons Oracle-APEX ontwikkelteam, dat centraal voor het agentschap werkt, waar je samen met je collega’s bedrijf kritische toepassingen op maat ontwikkelt. Je krijgt hierbij zowel afwisseling tussen de verschillende domeinen/toepassingen, als diepgang op één van de domeinen/toepassingen. Je ontwikkelt projecten (grote veranderingen aan de toepassingen), onderhoudt en werkt mee aan oplossingen voor incidenten.</p> \n<p><span>Je takenpakket </span>bestaat onder andere uit volgende uitdagingen:</p> \n<p> </p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt.</li> \n<li>Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkelt hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je bent een coach voor ontwikkelaars binnen je team en je kan aan de hand van code reviews de kwaliteit van de ontwikkelde software bewaken.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul>",
+        "htmlEncoded": "<p><span>Wat zal je moeten doen?</span></p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen deze missie te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe inschrijfmodule voor de toelatingsexamen Arts-Tandarts-Dierenarts, waarmee burgers zich inschrijven voor deze examens; evenals aan het EC-platform, dit is de toepassing waarmee de examencommissie secundair onderwijs examens plant; de onderwijsdoelendatabank,... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 5 jaar. Je komt terecht binnen ons Oracle-APEX ontwikkelteam, dat centraal voor het agentschap werkt, waar je samen met je collega’s bedrijf kritische toepassingen op maat ontwikkelt. Je krijgt hierbij zowel afwisseling tussen de verschillende domeinen/toepassingen, als diepgang op één van de domeinen/toepassingen. Je ontwikkelt projecten (grote veranderingen aan de toepassingen), onderhoudt en werkt mee aan oplossingen voor incidenten.</p> \n<p><span>Je takenpakket </span>bestaat onder andere uit volgende uitdagingen:</p> \n<p> </p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt.</li> \n<li>Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkelt hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je bent een coach voor ontwikkelaars binnen je team en je kan aan de hand van code reviews de kwaliteit van de ontwikkelde software bewaken.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71346477",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71346477",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Tester (AHOVOKS) via Vlaanderen Connect."
+      },
+      "displayTitle": "Tester (AHOVOKS) via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Waar kom je terecht?</span></p> \n<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Wat zal je moeten doen? Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiele schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische testen, validatie- en andere testen op, en voert deze uit. Je volgt hierbij de teststrategie en standaarden van AHOVOKS.</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of: de user story volledig en duidelijk is, de opgeleverde functionaliteit de beschreven analyse volgt en de functionaliteit in alle omstandigheden correct werkt.</li> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je logt testdefecten, rapporteren over testresultaten en de voortuitgang van de testen aan de product owner</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>",
+        "htmlEncoded": "<p><span>Waar kom je terecht?</span></p> \n<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Wat zal je moeten doen? Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiele schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische testen, validatie- en andere testen op, en voert deze uit. Je volgt hierbij de teststrategie en standaarden van AHOVOKS.</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of: de user story volledig en duidelijk is, de opgeleverde functionaliteit de beschreven analyse volgt en de functionaliteit in alle omstandigheden correct werkt.</li> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je logt testdefecten, rapporteren over testresultaten en de voortuitgang van de testen aan de product owner</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71346089",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71346089",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data Scientist (Vlaamse Statistische Autoriteit) via Vlaanderen Connect."
+      },
+      "displayTitle": "Data Scientist (Vlaamse Statistische Autoriteit) via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Waar kom je terecht?</span></p> \n<p>Je werkt als datascientist bij de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers. De leden van het netwerk Statistiek Vlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare statistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering en opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als onderzoekers, pers, organisaties, bedrijven en individuele burgers.</p> \n<p>Als datascientist geef je ondersteuning aan collega’s binnen de VSA en aan entiteiten in het netwerk Statistiek Vlaanderen rond ontwikkeling, productie en verspreiding van bestaande en nieuwe Vlaamse openbare statistieken via innovatieve technieken zoals machine learning en deep learning.</p> \n<p>Als data scientist werk je intensief mee aan data science projecten van idee tot implementatie volgens de juiste methodologische principes. Je motiveert en ondersteunt ook de verschillende entiteiten van het netwerk Statistiek Vlaanderen om data science technieken toe te passen en nieuwe databronnen aan te boren. De VSA verkent al enkele jaren de toepassing van nieuwe data science technieken binnen haar statistiekproductiesysteem, met het oog op de ontwikkeling van nieuwe openbare statistieken, de verbetering van bestaande openbare statistieken en de professionalisering van de interne productieprocessen. Er is echter nog veel ruimte om als nieuwe medewerker bij te dragen aan de verdere uitbouw en vormgeving van deze activiteiten.</p> \n<p><span>Doel</span></p> \n<ul> \n<li>Je draagt bij aan de productie van innovatieve kwalitatieve openbare statistieken die gebruikt worden voor de voorbereiding en opvolging van het Vlaams beleid.</li> \n<li>Je werkt mee aan diverse data science projecten op conceptueel, experimenteel en operationeel vlak. Hiervoor ga je op zoek naar de gepaste databron (vb. tekstdata, bevolkingsgegevens, webpagina’s, telefoondata en satelliet data), en gebruik je data science technieken zoals machine learning en deep learning. Je hebt hierbij ook oog voor relevante methodologische principes om tot betrouwbare statistieken te komen.</li> \n<li>Je volgt relevante literatuur op de voet, begrijpt geavanceerde algoritmes en integreert deze waar nodig in je eigen datascience projecten.</li> \n<li>Je helpt mee een tech-stack op te zetten om succesvolle experimenten te operationaliseren.</li> \n<li>Je onderneemt mee acties om de verschillende entiteiten van het netwerk Statistiek Vlaanderen te motiveren om data science technieken toe te passen voor statistiekproductie. Je biedt deze entiteiten ook ondersteuning op maat bij hun verschillende projecten.</li> \n<li>Je onderhoudt mee een netwerk van relevante connecties rond data science binnen de overheid, industrie en onderzoeksinstellingen op zowel Vlaams, interfederaal als internationaal niveau.</li> \n<li>Je werkt mee aan de professionalisering van de statistiekproductieprocessen binnen de VSA met behulp van data science technieken. Je helpt ook mee de concrete noden van het team op dit vlak in kaart te brengen om de teamdoelstellingen te realiseren.</li> \n<li>Je presenteert je werk op relevante congressen en/of verwerkt je bevindingen tot rapporten.</li> </ul>",
+        "htmlEncoded": "<p><span>Waar kom je terecht?</span></p> \n<p>Je werkt als datascientist bij de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers. De leden van het netwerk Statistiek Vlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare statistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering en opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als onderzoekers, pers, organisaties, bedrijven en individuele burgers.</p> \n<p>Als datascientist geef je ondersteuning aan collega’s binnen de VSA en aan entiteiten in het netwerk Statistiek Vlaanderen rond ontwikkeling, productie en verspreiding van bestaande en nieuwe Vlaamse openbare statistieken via innovatieve technieken zoals machine learning en deep learning.</p> \n<p>Als data scientist werk je intensief mee aan data science projecten van idee tot implementatie volgens de juiste methodologische principes. Je motiveert en ondersteunt ook de verschillende entiteiten van het netwerk Statistiek Vlaanderen om data science technieken toe te passen en nieuwe databronnen aan te boren. De VSA verkent al enkele jaren de toepassing van nieuwe data science technieken binnen haar statistiekproductiesysteem, met het oog op de ontwikkeling van nieuwe openbare statistieken, de verbetering van bestaande openbare statistieken en de professionalisering van de interne productieprocessen. Er is echter nog veel ruimte om als nieuwe medewerker bij te dragen aan de verdere uitbouw en vormgeving van deze activiteiten.</p> \n<p><span>Doel</span></p> \n<ul> \n<li>Je draagt bij aan de productie van innovatieve kwalitatieve openbare statistieken die gebruikt worden voor de voorbereiding en opvolging van het Vlaams beleid.</li> \n<li>Je werkt mee aan diverse data science projecten op conceptueel, experimenteel en operationeel vlak. Hiervoor ga je op zoek naar de gepaste databron (vb. tekstdata, bevolkingsgegevens, webpagina’s, telefoondata en satelliet data), en gebruik je data science technieken zoals machine learning en deep learning. Je hebt hierbij ook oog voor relevante methodologische principes om tot betrouwbare statistieken te komen.</li> \n<li>Je volgt relevante literatuur op de voet, begrijpt geavanceerde algoritmes en integreert deze waar nodig in je eigen datascience projecten.</li> \n<li>Je helpt mee een tech-stack op te zetten om succesvolle experimenten te operationaliseren.</li> \n<li>Je onderneemt mee acties om de verschillende entiteiten van het netwerk Statistiek Vlaanderen te motiveren om data science technieken toe te passen voor statistiekproductie. Je biedt deze entiteiten ook ondersteuning op maat bij hun verschillende projecten.</li> \n<li>Je onderhoudt mee een netwerk van relevante connecties rond data science binnen de overheid, industrie en onderzoeksinstellingen op zowel Vlaams, interfederaal als internationaal niveau.</li> \n<li>Je werkt mee aan de professionalisering van de statistiekproductieprocessen binnen de VSA met behulp van data science technieken. Je helpt ook mee de concrete noden van het team op dit vlak in kaart te brengen om de teamdoelstellingen te realiseren.</li> \n<li>Je presenteert je werk op relevante congressen en/of verwerkt je bevindingen tot rapporten.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71345843",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71345843",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Datasteward (Vlaamse Statistische Autoriteit) Via Vlaanderen Connect"
+      },
+      "displayTitle": "Datasteward (Vlaamse Statistische Autoriteit) Via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Waar kom je terecht?</span></p> \n<p>Je werkt als datasteward bij de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers. De leden van het netwerk Statistiek Vlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare statistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering en opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als onderzoekers, pers, organisaties, bedrijven en individuele burgers.</p> \n<p>Als datasteward geef je ondersteuning aan collega’s binnen de VSA en aan entiteiten in het netwerk Statistiek Vlaanderen door het verzamelen en beheren van data die zij kunnen gebruiken voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken. Je werkt als datasteward nauw samen met een coördinator, de data engineers, een data protection officer en een information security officer. Bij de concrete uitwerking van de data-aanvragen ga je ook in overleg met VSA-analisten en -themaspecialisten en met specialisten uit de entiteiten van het netwerk Statistiek Vlaanderen.</p> \n<p><span>Taken en Verantwoordelijkheden:</span></p> \n<ul> \n<li>Je ontwikkelt en implementeert beleidslijnen, procedures en strategieën voor een gecoördineerde, efficiënte, reproduceerbare en veilige aanvraag van statistische gegevens en bijhorende informatie bij de bronleveranciers, opslag binnen de VSA en uitwisseling met derden.</li> \n<li>Je volgt binnen de VSA de administratie op die gepaard gaat met de Algemene Verordening Gegevensbescherming (AVG) bij gegevensverwerkingen.</li> \n<li>Je coördineert het volledige proces van de Trusted Third Party (TTP) activiteiten van de VSA voor de partners van het netwerk Statistiek Vlaanderen en externen. Je begeleidt hen bij de indiening van data-aanvragen, neemt deel aan de intake en verkenning, onderhoudt het register, verzorgt de noodzakelijke administratieve documenten, en geeft het signaal wanneer gegevens geleverd mogen worden.</li> \n<li>Je coördineert de safe room activiteiten van de VSA voor netwerkpartners en externen, inclusief de administratieve voorbereiding, de planning en de voorziening van technische infrastructuur.</li> \n<li>Je coördineert en behandelt gegevensaanvragen bij partners uit het Interfederaal Instituut voor de Statistiek (IIS) en bij externe dataleveranciers. Je volgt ook de werkzaamheden van de IIS-werkgroep DPO op.</li> \n<li>Je coördineert en behandelt de gegevensaanleveringen aan derden.</li> \n<li>Je beheert de Non-Disclosure Agreements (NDA) met dataleveranciers en volgt de naleving hiervan op.</li> \n<li>Je coördineert en actualiseert de registers van de gegevensverwerkingen binnen de VSA.</li> \n<li>Je beheert en organiseert de informatieplatformen van de VSA waarop statistische gegevens en bijhorende informatie worden bewaard.</li> </ul> \n<p><span>Samenwerking:</span></p> \n<ul> \n<li>Je werkt nauw samen met de data protection officer (DPO) en de information security officer (ISO) van de VSA.</li> \n<li>Je stemt je werkzaamheden af met de kwaliteitsmanager (bv. metadata) en methodoloog (bv. methode van Statistical Disclosure Controle (SDC)).</li> \n<li>Je fungeert als aanspreekpunt voor collega’s binnen de VSA, maar ook ruimer binnen het netwerk Statistiek Vlaanderen en het IIS voor vragen met betrekking tot het (her)gebruik van gegevens voor statistische doeleinden.</li> \n<li>Je adviseert andere VSA-medewerkers bij gegevensverwerkingsactiviteiten zoals het beheer en verwerking van atomaire data.</li> </ul>",
+        "htmlEncoded": "<p><span>Waar kom je terecht?</span></p> \n<p>Je werkt als datasteward bij de Vlaamse Statistische Autoriteit (VSA, Departement Kanselarij en Buitenlandse Zaken). De VSA is de coördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen dat bestaat uit alle Vlaamse overheidsinstanties die openbare statistieken produceren en publiceren. De VSA wordt aangestuurd door de hoofdstatisticus en bestaat uit een 40-tal medewerkers. De leden van het netwerk Statistiek Vlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare statistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering en opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als onderzoekers, pers, organisaties, bedrijven en individuele burgers.</p> \n<p>Als datasteward geef je ondersteuning aan collega’s binnen de VSA en aan entiteiten in het netwerk Statistiek Vlaanderen door het verzamelen en beheren van data die zij kunnen gebruiken voor de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken. Je werkt als datasteward nauw samen met een coördinator, de data engineers, een data protection officer en een information security officer. Bij de concrete uitwerking van de data-aanvragen ga je ook in overleg met VSA-analisten en -themaspecialisten en met specialisten uit de entiteiten van het netwerk Statistiek Vlaanderen.</p> \n<p><span>Taken en Verantwoordelijkheden:</span></p> \n<ul> \n<li>Je ontwikkelt en implementeert beleidslijnen, procedures en strategieën voor een gecoördineerde, efficiënte, reproduceerbare en veilige aanvraag van statistische gegevens en bijhorende informatie bij de bronleveranciers, opslag binnen de VSA en uitwisseling met derden.</li> \n<li>Je volgt binnen de VSA de administratie op die gepaard gaat met de Algemene Verordening Gegevensbescherming (AVG) bij gegevensverwerkingen.</li> \n<li>Je coördineert het volledige proces van de Trusted Third Party (TTP) activiteiten van de VSA voor de partners van het netwerk Statistiek Vlaanderen en externen. Je begeleidt hen bij de indiening van data-aanvragen, neemt deel aan de intake en verkenning, onderhoudt het register, verzorgt de noodzakelijke administratieve documenten, en geeft het signaal wanneer gegevens geleverd mogen worden.</li> \n<li>Je coördineert de safe room activiteiten van de VSA voor netwerkpartners en externen, inclusief de administratieve voorbereiding, de planning en de voorziening van technische infrastructuur.</li> \n<li>Je coördineert en behandelt gegevensaanvragen bij partners uit het Interfederaal Instituut voor de Statistiek (IIS) en bij externe dataleveranciers. Je volgt ook de werkzaamheden van de IIS-werkgroep DPO op.</li> \n<li>Je coördineert en behandelt de gegevensaanleveringen aan derden.</li> \n<li>Je beheert de Non-Disclosure Agreements (NDA) met dataleveranciers en volgt de naleving hiervan op.</li> \n<li>Je coördineert en actualiseert de registers van de gegevensverwerkingen binnen de VSA.</li> \n<li>Je beheert en organiseert de informatieplatformen van de VSA waarop statistische gegevens en bijhorende informatie worden bewaard.</li> </ul> \n<p><span>Samenwerking:</span></p> \n<ul> \n<li>Je werkt nauw samen met de data protection officer (DPO) en de information security officer (ISO) van de VSA.</li> \n<li>Je stemt je werkzaamheden af met de kwaliteitsmanager (bv. metadata) en methodoloog (bv. methode van Statistical Disclosure Controle (SDC)).</li> \n<li>Je fungeert als aanspreekpunt voor collega’s binnen de VSA, maar ook ruimer binnen het netwerk Statistiek Vlaanderen en het IIS voor vragen met betrekking tot het (her)gebruik van gegevens voor statistische doeleinden.</li> \n<li>Je adviseert andere VSA-medewerkers bij gegevensverwerkingsactiviteiten zoals het beheer en verwerking van atomaire data.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71335333",
       "internal": false,
@@ -1239,8 +1379,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70947534",
@@ -2114,8 +2254,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70636208",
@@ -2167,41 +2307,6 @@
       "description": {
         "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br></span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>In onze klantgerichte organisatie speelt het accountmanagement-team een cruciale rol als verbindende schakel, zowel extern als intern. Dit team houdt het overzicht over alle samenwerkingen met onze partneroverheden en de oplossingen die we voor hen ontwikkelen.</span></p> \n<p><span>Als accountmanager ben jij het centrale en betrouwbare aanspreekpunt voor onze partneroverheden. Je ontwikkelt en beheert sterke relaties met als doel een duurzame, lange termijn samenwerking op te bouwen. Je bent proactief in het identificeren van hun noden en behoeften en leidt hen naar passende oplossingen. Kortom, je bent hun adviseur tijdens hun digitale transformatie.</span></p> \n<p><span>Je verdiept je in de domeinen van de partneroverheden waarmee je samenwerkt en hebt een sterke interesse in ICT en digitalisering. Daarnaast blijf je op de hoogte van nieuwe markttrends die relevant zijn voor jouw portefeuille van partneroverheden. Netwerken is voor jou vanzelfsprekend, zowel binnen Digitaal Vlaanderen als met onze partneroverheden.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><strong></strong><strong>Probleemanalyse:</strong></p> \n<p><span><span>- </span></span><span>Je identificeert nieuwe noden, behoeften en kansen binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je vertaalt, in overleg met interne stakeholders, de strategie van Digitaal Vlaanderen naar accountplannen met duidelijke doelstellingen.</span></p> \n<p><span><span>- </span></span><span>Je detecteert synergiën en afhankelijkheden en communiceert deze naar productpartners, product owners, projectleiders en programmamanagers.</span></p> \n<p><span>Informatie en advies:</span></p> \n<p><strong>Rapportering:</strong></p> \n<p><span><span>- </span></span><span>Je monitort de voortgang van de doelstellingen uit de accountplannen en rapporteert hierover aan het management.</span></p> \n<p><span><span>- </span></span><span>Je verantwoordt de omzet binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je geeft proactief input en advies aan het management over nieuwe strategische kansen en groei.</span></p> \n<p><strong>Bekendmaking van de dienstverlening en prospectie:</strong></p> \n<p><span><span>- </span></span><span>Je maakt de producten en diensten van Digitaal Vlaanderen bekend binnen jouw portefeuille en benadrukt de meerwaarde voor onze partneroverheden.</span></p> \n<p><span><span>- </span></span><span>Je ontwikkelt en realiseert nieuwe initiatieven om de afname binnen jouw portefeuille te verhogen.</span></p> \n<p><strong>Kennis m.b.t. het vakgebied:</strong></p> \n<p><span><span>- </span></span><span>Je verwerft grondige kennis van de organisatiedoelstellingen van de partneroverheden in jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je bouwt kennis op over de producten en diensten van Digitaal Vlaanderen en hun meerwaarde.</span></p> \n<p><span><span>- </span></span><span>Je verwerft kennis over accountmanagement en de strategie van Digitaal Vlaanderen.</span></p> \n<p><span><span>- </span></span><span>Je hebt interesse in of kennis van ICT en digitalisering.</span></p>",
         "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><strong><span>Digitaal Vlaanderen</span></strong><span> is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de voorlopers van de digitalisering in Europa. \n<br></span>Jouw werkplek is ons kantoor in \n<strong>Gent en Brussel</strong>, uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>In onze klantgerichte organisatie speelt het accountmanagement-team een cruciale rol als verbindende schakel, zowel extern als intern. Dit team houdt het overzicht over alle samenwerkingen met onze partneroverheden en de oplossingen die we voor hen ontwikkelen.</span></p> \n<p><span>Als accountmanager ben jij het centrale en betrouwbare aanspreekpunt voor onze partneroverheden. Je ontwikkelt en beheert sterke relaties met als doel een duurzame, lange termijn samenwerking op te bouwen. Je bent proactief in het identificeren van hun noden en behoeften en leidt hen naar passende oplossingen. Kortom, je bent hun adviseur tijdens hun digitale transformatie.</span></p> \n<p><span>Je verdiept je in de domeinen van de partneroverheden waarmee je samenwerkt en hebt een sterke interesse in ICT en digitalisering. Daarnaast blijf je op de hoogte van nieuwe markttrends die relevant zijn voor jouw portefeuille van partneroverheden. Netwerken is voor jou vanzelfsprekend, zowel binnen Digitaal Vlaanderen als met onze partneroverheden.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><strong></strong><strong>Probleemanalyse:</strong></p> \n<p><span><span>- </span></span><span>Je identificeert nieuwe noden, behoeften en kansen binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je vertaalt, in overleg met interne stakeholders, de strategie van Digitaal Vlaanderen naar accountplannen met duidelijke doelstellingen.</span></p> \n<p><span><span>- </span></span><span>Je detecteert synergiën en afhankelijkheden en communiceert deze naar productpartners, product owners, projectleiders en programmamanagers.</span></p> \n<p><span>Informatie en advies:</span></p> \n<p><strong>Rapportering:</strong></p> \n<p><span><span>- </span></span><span>Je monitort de voortgang van de doelstellingen uit de accountplannen en rapporteert hierover aan het management.</span></p> \n<p><span><span>- </span></span><span>Je verantwoordt de omzet binnen jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je geeft proactief input en advies aan het management over nieuwe strategische kansen en groei.</span></p> \n<p><strong>Bekendmaking van de dienstverlening en prospectie:</strong></p> \n<p><span><span>- </span></span><span>Je maakt de producten en diensten van Digitaal Vlaanderen bekend binnen jouw portefeuille en benadrukt de meerwaarde voor onze partneroverheden.</span></p> \n<p><span><span>- </span></span><span>Je ontwikkelt en realiseert nieuwe initiatieven om de afname binnen jouw portefeuille te verhogen.</span></p> \n<p><strong>Kennis m.b.t. het vakgebied:</strong></p> \n<p><span><span>- </span></span><span>Je verwerft grondige kennis van de organisatiedoelstellingen van de partneroverheden in jouw portefeuille.</span></p> \n<p><span><span>- </span></span><span>Je bouwt kennis op over de producten en diensten van Digitaal Vlaanderen en hun meerwaarde.</span></p> \n<p><span><span>- </span></span><span>Je verwerft kennis over accountmanagement en de strategie van Digitaal Vlaanderen.</span></p> \n<p><span><span>- </span></span><span>Je hebt interesse in of kennis van ICT en digitalisering.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70626848",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70626848",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data analist (DMOW) via Vlaanderen Connect"
-      },
-      "displayTitle": "Data analist (DMOW) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Ben jij geïnteresseerd in data en data-analyse? Heb jij een sterk analytisch vermogen en hou je ervan om zorgvuldig te werken? Wil jij jouw steentje bijdragen in het uitbouwen van infrastructuurprojecten? Dan ben jij misschien dé\n<span> </span>data analist die wij bij het Departement Mobiliteit en Openbare Werken nodig hebben! We zijn op zoek naar een werkkracht die graag de schouders onder dataprojecten over wegenis, bruggen, tunnels, tramsporen, sluizen en kaaimuren wil zetten.</strong></p> \n<p>Takenpakket</p> \n<ul> \n<li>Je verzamelt, schoont op, verrijkt en structureert technische en economische data.</li> \n<li>Je combineert technische en economische data om kengetallen en modellen te creëren zodat infrastructuurprojecten sneller en accurater geraamd kunnen worden.</li> \n<li>Je analyseert de data om opportuniteiten te zien en inzichten te verwerven vanuit het standpunt van de investeerder in openbare infrastructuur.</li> </ul> \n<ul> \n<li>Je visualiseert de data door middel van rapporten en dashboards.</li> \n<li>Je publiceert rapporten en dashboards.</li> \n<li>Je beheert rapporten en dashboards, zoals het monitoren van hun correct functioneren en van de nauwkeurigheid.</li> </ul> \n<p>Je werkt onder meer samen met de celcoördinator, de cost engineer, de Coördinator MEDIAAN, de business projectleiders van DMOW en de verschillende ICT-collega’s en -betrokkenen (ICT-chiefarchitect, informatici, ICT-projectleiders, DPO, dataspecialist, GIS-specialist). De focus zal hier voornamelijk op het verzamelen, verwerken, analyseren en visualiseren van economische en technische data liggen. Zo word je betrokken bij verschillende infrastructuurprojecten zoals het aanleggen of vernieuwen van wegenis, bruggen, tunnels, tramsporen, sluizen en kaaimuren.</p> \n<p><strong>Benieuwd naar een praktisch voorbeeld en wat jouw rol als data analist kan zijn. Bekijk het voorbeeld kengetal wegbrug onderaan in\n<span> </span>bijlage.</strong></p> \n<p>Bijkomende informatie over het takenpakket van het Departement Mobiliteit en Openbare Werken en de afdeling waar de functie vacant is, vind je op \n<span>https://www.vlaanderen.be/departement</span><span>-</span><span>mobiliteit</span><span>en</span><span>-</span><span>openbare</span><span>-</span><span>werken </span></p>",
-        "htmlEncoded": "<p><strong>Ben jij geïnteresseerd in data en data-analyse? Heb jij een sterk analytisch vermogen en hou je ervan om zorgvuldig te werken? Wil jij jouw steentje bijdragen in het uitbouwen van infrastructuurprojecten? Dan ben jij misschien dé\n<span> </span>data analist die wij bij het Departement Mobiliteit en Openbare Werken nodig hebben! We zijn op zoek naar een werkkracht die graag de schouders onder dataprojecten over wegenis, bruggen, tunnels, tramsporen, sluizen en kaaimuren wil zetten.</strong></p> \n<p>Takenpakket</p> \n<ul> \n<li>Je verzamelt, schoont op, verrijkt en structureert technische en economische data.</li> \n<li>Je combineert technische en economische data om kengetallen en modellen te creëren zodat infrastructuurprojecten sneller en accurater geraamd kunnen worden.</li> \n<li>Je analyseert de data om opportuniteiten te zien en inzichten te verwerven vanuit het standpunt van de investeerder in openbare infrastructuur.</li> </ul> \n<ul> \n<li>Je visualiseert de data door middel van rapporten en dashboards.</li> \n<li>Je publiceert rapporten en dashboards.</li> \n<li>Je beheert rapporten en dashboards, zoals het monitoren van hun correct functioneren en van de nauwkeurigheid.</li> </ul> \n<p>Je werkt onder meer samen met de celcoördinator, de cost engineer, de Coördinator MEDIAAN, de business projectleiders van DMOW en de verschillende ICT-collega’s en -betrokkenen (ICT-chiefarchitect, informatici, ICT-projectleiders, DPO, dataspecialist, GIS-specialist). De focus zal hier voornamelijk op het verzamelen, verwerken, analyseren en visualiseren van economische en technische data liggen. Zo word je betrokken bij verschillende infrastructuurprojecten zoals het aanleggen of vernieuwen van wegenis, bruggen, tunnels, tramsporen, sluizen en kaaimuren.</p> \n<p><strong>Benieuwd naar een praktisch voorbeeld en wat jouw rol als data analist kan zijn. Bekijk het voorbeeld kengetal wegbrug onderaan in\n<span> </span>bijlage.</strong></p> \n<p>Bijkomende informatie over het takenpakket van het Departement Mobiliteit en Openbare Werken en de afdeling waar de functie vacant is, vind je op \n<span>https://www.vlaanderen.be/departement</span><span>-</span><span>mobiliteit</span><span>en</span><span>-</span><span>openbare</span><span>-</span><span>werken </span></p>"
       },
       "locations": [
         {
@@ -2639,8 +2744,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70093745",
@@ -2744,8 +2849,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70055296",
@@ -3572,41 +3677,6 @@
         {
           "address": {
             "city": "Hofstade"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18701",
-      "internal": false,
-      "validThroughDate": "1751241600",
-      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18701",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ondersteuner team protocol (BI-stage)"
-      },
-      "displayTitle": "Ondersteuner team protocol (BI-stage)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij op zoek naar een stage waar je écht iets bijleert? Waar je meedraait in een team dat werkt op het kruispunt van diplomatie, organisatie en administratie? Dan is deze stageplek iets voor jou!</p><p>Wat ga je doen?</p><p>Tijdens je stage ondersteun je ons team op verschillende vlakken. Geen dag is dezelfde! Je takenpakket is gevarieerd en je krijgt de kans om te groeien in:</p><p>Logistiek:</p><ul><li>Zorgen dat de eventlocatie klaar is voor ontvangst: tafels, stoelen, geluidsinstallatie, enz.</li><li>Materiaal (zoals relatiegeschenken en vlaggen) brengen en ophalen naar locaties in Brussel en daarbuiten. Je kan hiervoor een dienstwagen gebruiken.</li><li>De inventaris van vlaggen en relatiegeschenken beheren</li><li>Documenten, adviesvragen en foto’s klasseren in ons digitaal archief (SharePoint)</li><li>Meehelpen bij evenementen op locatie</li></ul><p>Administratie:</p><ul><li>Drukwerk voorbereiden:&nbsp;printen en opmaken van naamborden, enveloppen, badges, uitnodigingen, speeches, enz.</li><li>Contactgegevens van diplomaten en andere belangrijke relaties bijwerken in het CRM-systeem</li><li>Ondersteunen bij financiële administratie: bestellingen opmaken, facturen nakijken, rapporten maken.</li><li>Meedenken over hoe we onze werking kunnen verbeteren, zoals het stroomlijnen van interne communicatie en het documenteren van werkinstructies.</li></ul><p>Je versterkt het dynamische team Protocol en Ontvangst binnen de afdeling Kanselarij van het Departement Kanselarij en Buitenlandse Zaken. Dit team biedt strategische en operationele ondersteuning aan de minister-president van de Vlaamse Regering en zorgt voor een sterk Vlaams imago in binnen- en buitenland. </p><p>We organiseren officiële evenementen zoals de Nieuwjaars- en 11 juli recepties, coördineren ministeriële ontvangsten en netwerkevenementen voor nieuwe ambassadeurs. Daarnaast beheren we het prestigieuze Errerahuis, de ambtswoning en de ontvangst van buitenlandse gasten. &nbsp;</p>",
-        "htmlEncoded": "<p>Ben jij op zoek naar een stage waar je écht iets bijleert? Waar je meedraait in een team dat werkt op het kruispunt van diplomatie, organisatie en administratie? Dan is deze stageplek iets voor jou!</p><p>Wat ga je doen?</p><p>Tijdens je stage ondersteun je ons team op verschillende vlakken. Geen dag is dezelfde! Je takenpakket is gevarieerd en je krijgt de kans om te groeien in:</p><p>Logistiek:</p><ul><li>Zorgen dat de eventlocatie klaar is voor ontvangst: tafels, stoelen, geluidsinstallatie, enz.</li><li>Materiaal (zoals relatiegeschenken en vlaggen) brengen en ophalen naar locaties in Brussel en daarbuiten. Je kan hiervoor een dienstwagen gebruiken.</li><li>De inventaris van vlaggen en relatiegeschenken beheren</li><li>Documenten, adviesvragen en foto’s klasseren in ons digitaal archief (SharePoint)</li><li>Meehelpen bij evenementen op locatie</li></ul><p>Administratie:</p><ul><li>Drukwerk voorbereiden:&nbsp;printen en opmaken van naamborden, enveloppen, badges, uitnodigingen, speeches, enz.</li><li>Contactgegevens van diplomaten en andere belangrijke relaties bijwerken in het CRM-systeem</li><li>Ondersteunen bij financiële administratie: bestellingen opmaken, facturen nakijken, rapporten maken.</li><li>Meedenken over hoe we onze werking kunnen verbeteren, zoals het stroomlijnen van interne communicatie en het documenteren van werkinstructies.</li></ul><p>Je versterkt het dynamische team Protocol en Ontvangst binnen de afdeling Kanselarij van het Departement Kanselarij en Buitenlandse Zaken. Dit team biedt strategische en operationele ondersteuning aan de minister-president van de Vlaamse Regering en zorgt voor een sterk Vlaams imago in binnen- en buitenland. </p><p>We organiseren officiële evenementen zoals de Nieuwjaars- en 11 juli recepties, coördineren ministeriële ontvangsten en netwerkevenementen voor nieuwe ambassadeurs. Daarnaast beheren we het prestigieuze Errerahuis, de ambtswoning en de ontvangst van buitenlandse gasten. &nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5506,7 +5576,7 @@
       "validThroughDate": "-1",
       "hiringOrganization": "Opgroeien regie",
       "reservedForDisability": false,
-      "openPositions": 3,
+      "openPositions": 1,
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
