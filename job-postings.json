@@ -1,10 +1,10 @@
 {
-  "totalItems": 159,
+  "totalItems": 158,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 158,
+  "lastItemOfPage": 157,
   "items": [
     {
       "link": "/Job/vdab-71335333",
@@ -3833,7 +3833,10 @@
       "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
       "reservedForDisability": false,
       "openPositions": 1,
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-18642",
       "contentType": "Job",
@@ -4906,41 +4909,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18195",
-      "internal": false,
-      "validThroughDate": "1750204800",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18195",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Sporttechnisch coördinator Waregem"
-      },
-      "displayTitle": "Sporttechnisch coördinator Waregem",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br><br></span><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br><br></span><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken.<br><br></span><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen.<br><br></span><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>",
-        "htmlEncoded": "<p><span>Ben jij een geboren organisator met passie voor de paardensport? Sport Vlaanderen Waregem zoekt een sporttechnisch coördinator die mee wil bouwen aan het sportieve hart van ons ruitersportcentrum!<br><br></span><span>In deze veelzijdige rol leid je een team van drie sportmedewerkers en geef je vorm aan een dynamisch sportaanbod met focus op opleiding, eventing en topsport. Je organiseert sportkampen, sportlessen, scholenactiviteiten en topsportstages en onderhoudt contacten met externe lesgevers en docenten.<br><br></span><span>Je coördineert en ondersteunt lesgevers, beheert sportmateriaal en stuurt marketinginitiatieven aan. Je organiseert en coördineert ook onze sportstages voor wedstrijdruiters. Je bent bevoegd voor de paardrijsimulator en neemt initiatief om deze te promoten. Sporadisch geef je zelf les en coach je je team met enthousiasme en visie. Dit is geen 9 tot 5 functie, dus afhankelijk van de situatie zal je ook in het weekend en ‘s avonds werken.<br><br></span><span>Werk mee aan de toekomst van de paardensport in een unieke state of the art sportaccommodatie, voorzien van kwaliteitspistes, een oefenpiste voor galop, waterpartij- en eventinghindernissen.<br><br></span><span>Klaar om het verschil te maken? Solliciteer nu en zet jouw sportieve stempel op Waregem!</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Waregem"
           }
         }
       ]
