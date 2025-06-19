@@ -1,10 +1,10 @@
 {
-  "totalItems": 158,
+  "totalItems": 159,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 157,
+  "lastItemOfPage": 158,
   "items": [
     {
       "link": "/Job/vdab-71335333",
@@ -3924,6 +3924,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18620",
+      "internal": false,
+      "validThroughDate": "1752624000",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18620",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Aansluitingsbeheerder (junior)"
+      },
+      "displayTitle": "Aansluitingsbeheerder (junior)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Word jij Aansluitingsbeheerder bij Digitaal Vlaanderen?</p><p> Digitaal Vlaanderen zoekt twee gedreven Aansluitingsbeheerders voor het team Dataplatform. Jij beheert aansluitingen op digitale diensten zoals MAGDA en begeleidt klanten van aanvraag tot realisatie.</p><p>Je analyseert juridische aspecten, volgt aanvragen op en werkt nauw samen met technische teams. Daarnaast optimaliseer je processen, ondersteun je complexe integraties en zorg je voor duidelijke documentatie.</p><p>Je komt terecht in een innovatief team dat data inzet voor de digitale transformatie van Vlaanderen. We bieden je een boeiende functie met impact, in een vooruitstrevende en inclusieve werkomgeving.</p><p>Zin om mee te bouwen aan een digitaal Vlaanderen? Solliciteer vandaag nog!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Word jij Aansluitingsbeheerder bij Digitaal Vlaanderen?</p><p> Digitaal Vlaanderen zoekt twee gedreven Aansluitingsbeheerders voor het team Dataplatform. Jij beheert aansluitingen op digitale diensten zoals MAGDA en begeleidt klanten van aanvraag tot realisatie.</p><p>Je analyseert juridische aspecten, volgt aanvragen op en werkt nauw samen met technische teams. Daarnaast optimaliseer je processen, ondersteun je complexe integraties en zorg je voor duidelijke documentatie.</p><p>Je komt terecht in een innovatief team dat data inzet voor de digitale transformatie van Vlaanderen. We bieden je een boeiende functie met impact, in een vooruitstrevende en inclusieve werkomgeving.</p><p>Zin om mee te bouwen aan een digitaal Vlaanderen? Solliciteer vandaag nog!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
