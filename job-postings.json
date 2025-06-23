@@ -1582,41 +1582,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70879437",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70879437",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect"
-      },
-      "displayTitle": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70871332",
       "internal": false,
       "validThroughDate": "-1",
@@ -1642,41 +1607,6 @@
       "description": {
         "raw": "<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend.</p> \n<p><span> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. \n<br> Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span><span>Als Productpartner kom je terecht in het Centraal Team binnen de afdeling ICT-platform dat ondersteunend werkt naar de verschillende product teams binnen de afdeling en de brug legt met het niveau van het agentschap. De product teams binnen de afdeling zijn gefocust op het product management en de service delivery inzake ICT-producten. Deze omvatten diensten op vlak van de digitale werkplek, cloud- en datacenter, netwerk, applicaties, veiligheidsbouwstenen en informatieveiligheid. Voor de realisatie van deze diensten doen de product teams beroep op meerdere ICT-partners met wie verschillende raamcontracten werden afgesloten.</span></span></p> \n<p><span><span>Als Productpartner binnen de afdeling IT-platform sta je klanten, gebruikers en partners bij mbt vertaling van de toepassingsmogelijkheden van de producten van de afdeling IT-platform naar oplossingen in functie van de noden. Je gaat samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></span></p> \n<p><span><span>Dit houdt onder andere het volgende in:</span></span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams en bent het aanspreekpunt voor account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met o.a. de andere Productpartners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klanten en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, PMO, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor de registratie in CRM en de afstemming met account- en demand management, productmanagement mbt mogelijke problemen, knelpunten, nieuwe behoeften of opportuniteiten, mogelijke synergiën en interafhankelijkheden.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand management en werkt hiervoor nauw samen met de service delivery managers, de product owners en het aansluitbeheer.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team van IT-platform en bewaakt de transversale werking en visie met de andere Productpartners.</span></p> \n<p><span><span>· </span></span><span>Je stemt presales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p>",
         "htmlEncoded": "<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend.</p> \n<p><span> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. \n<br> Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span><span>Als Productpartner kom je terecht in het Centraal Team binnen de afdeling ICT-platform dat ondersteunend werkt naar de verschillende product teams binnen de afdeling en de brug legt met het niveau van het agentschap. De product teams binnen de afdeling zijn gefocust op het product management en de service delivery inzake ICT-producten. Deze omvatten diensten op vlak van de digitale werkplek, cloud- en datacenter, netwerk, applicaties, veiligheidsbouwstenen en informatieveiligheid. Voor de realisatie van deze diensten doen de product teams beroep op meerdere ICT-partners met wie verschillende raamcontracten werden afgesloten.</span></span></p> \n<p><span><span>Als Productpartner binnen de afdeling IT-platform sta je klanten, gebruikers en partners bij mbt vertaling van de toepassingsmogelijkheden van de producten van de afdeling IT-platform naar oplossingen in functie van de noden. Je gaat samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></span></p> \n<p><span><span>Dit houdt onder andere het volgende in:</span></span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams en bent het aanspreekpunt voor account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met o.a. de andere Productpartners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klanten en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, PMO, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor de registratie in CRM en de afstemming met account- en demand management, productmanagement mbt mogelijke problemen, knelpunten, nieuwe behoeften of opportuniteiten, mogelijke synergiën en interafhankelijkheden.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand management en werkt hiervoor nauw samen met de service delivery managers, de product owners en het aansluitbeheer.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team van IT-platform en bewaakt de transversale werking en visie met de andere Productpartners.</span></p> \n<p><span><span>· </span></span><span>Je stemt presales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70870491",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70870491",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Chief Information & Security Officer (Departement Omgeving) via Vlaanderen Connect"
-      },
-      "displayTitle": "Chief Information & Security Officer (Departement Omgeving) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span><span>Het Departement Omgeving is gevat onder de toepassing van de NIS2-regelgeving. Dit houdt in dat er op vlak van informatieveiligheid een aantal nieuwe of verscherpte maatregelen getroffen moeten worden. </span></span></p> \n<p><span><span>Deze maatregelen moeten eerst in informatieveiligheidsbeleid vertaald worden. Daarna moet dit beleid ook effectief in de verschillende afdelingen verspreid, gedocumenteerd en geïmplementeerd worden.</span></span></p> \n<p><span><span>Als CISO trek jij deze trajecten binnen de entiteiten in lijn de Informatieveiligheidsstrategie van de VO. Je werkt daarbij nauw samen met de CIO’s en DPO’s van beide entiteiten.</span></span></p> \n<p><span><span>Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></span></p> \n<p><span><span>Daarnaast speel je ook een rol op het niveau van het beleidsdomein Omgeving, dat een aantal entiteiten die bevoegdheden hebben rond het Omgevingsbeleid binnen de Vlaamse Overheid omvat. Je coördineert gezamenlijke acties rond informatieveiligheid en vertegenwoordigt het beleidsdomein in kennisdeling en overleg binnen de Vlaamse Overheid.</span></span></p> \n<p><span><span>Kortom, je verzekert en controleert voor beide organisaties de informatieveiligheid teneinde de vertrouwelijkheid (confidentiality), de beschikbaarheid (availability), de integriteit (integrity), de onbetwistbaarheid (non repudiation) en de toerekenbaarheid (accountability) van de verwerkte informatie te verzekeren.</span></span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span><span>Het Departement Omgeving is gevat onder de toepassing van de NIS2-regelgeving. Dit houdt in dat er op vlak van informatieveiligheid een aantal nieuwe of verscherpte maatregelen getroffen moeten worden. </span></span></p> \n<p><span><span>Deze maatregelen moeten eerst in informatieveiligheidsbeleid vertaald worden. Daarna moet dit beleid ook effectief in de verschillende afdelingen verspreid, gedocumenteerd en geïmplementeerd worden.</span></span></p> \n<p><span><span>Als CISO trek jij deze trajecten binnen de entiteiten in lijn de Informatieveiligheidsstrategie van de VO. Je werkt daarbij nauw samen met de CIO’s en DPO’s van beide entiteiten.</span></span></p> \n<p><span><span>Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></span></p> \n<p><span><span>Daarnaast speel je ook een rol op het niveau van het beleidsdomein Omgeving, dat een aantal entiteiten die bevoegdheden hebben rond het Omgevingsbeleid binnen de Vlaamse Overheid omvat. Je coördineert gezamenlijke acties rond informatieveiligheid en vertegenwoordigt het beleidsdomein in kennisdeling en overleg binnen de Vlaamse Overheid.</span></span></p> \n<p><span><span>Kortom, je verzekert en controleert voor beide organisaties de informatieveiligheid teneinde de vertrouwelijkheid (confidentiality), de beschikbaarheid (availability), de integriteit (integrity), de onbetwistbaarheid (non repudiation) en de toerekenbaarheid (accountability) van de verwerkte informatie te verzekeren.</span></span></p>"
       },
       "locations": [
         {
@@ -3221,6 +3151,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18852",
+      "internal": false,
+      "validThroughDate": "1752019200",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18852",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administratief deskundige aanbesteding en gunning"
+      },
+      "displayTitle": "Administratief deskundige aanbesteding en gunning",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het team Contractmanagement van de overkoepelende diensten van het GO! houdt zich bezig met bouwprojecten en studieopdrachten voor gebouwen in heel Vlaanderen. Samen met je collega’s schrijf je studieopdrachten uit om te onderzoeken wat er precies nodig is om de infrastructuur in die gebouwen te verbeteren. Via aanbestedingen zoek je naar geschikte partners om die opdrachten uit te voeren. Je doet de budgetcontrole en kijkt offertes rekenkundig na. Moet er ook een milieuonderzoek of een bodemopmeting plaatsvinden? Dan plan je de procedures daarvoor zelf in. Zo breng je elk dossier tot een goed einde: een gunning aan de geschiktste partij.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Het team Contractmanagement van de overkoepelende diensten van het GO! houdt zich bezig met bouwprojecten en studieopdrachten voor gebouwen in heel Vlaanderen. Samen met je collega’s schrijf je studieopdrachten uit om te onderzoeken wat er precies nodig is om de infrastructuur in die gebouwen te verbeteren. Via aanbestedingen zoek je naar geschikte partners om die opdrachten uit te voeren. Je doet de budgetcontrole en kijkt offertes rekenkundig na. Moet er ook een milieuonderzoek of een bodemopmeting plaatsvinden? Dan plan je de procedures daarvoor zelf in. Zo breng je elk dossier tot een goed einde: een gunning aan de geschiktste partij.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18834",
       "internal": false,
       "validThroughDate": "1752019200",
@@ -3431,41 +3396,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18727",
-      "internal": false,
-      "validThroughDate": "1750550400",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18727",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Casusregisseur Halle-Vilvoorde"
-      },
-      "displayTitle": "Casusregisseur Halle-Vilvoorde",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb je interesse in het outreachend en actief werken met gezinnen die te maken hebben met intrafamiliaal geweld? Geloof jij dat regie binnen gezinnen een oplossing kan bieden wanneer er diverse organisaties betrokken zijn? Ben jij iemand die streeft naar een efficiënte samenwerking tussen betrokken professionals en wil je de veiligheid van gezinsleden mee centraal stellen tijdens dit proces? Wie weet is dit dan de uitdaging die jij zoekt!<br><br>Als casusregisseur vorm je mee de brug tussen politie, parket, hulpverlening én de betrokken gezinnen in de aanpak en preventie van intrafamiliaal geweld. Je verheldert, vervolledigt en analyseert de hulpvragen binnen het gezin met als doel over de nodige gegevens en inzichten te beschikken om een gepaste hulp- en dienstverlening of doorverwijzing te kunnen uitwerken. Je biedt als casusregisseur professionele informatie, advies en begeleiding om de cliënten inzichten te verschaffen en oplossingen aan te reiken of hen maximaal te ondersteunen. Je maakt samen met de betrokken organisaties een gezamenlijk plan van aanpak op en betrekt de cliënten hierbij. Je begeleidt het gezin en ondersteunt de betrokken organisaties bij de uitvoering van het plan van aanpak. Je bent het aanspreekpunt voor zowel de gezinsleden als de betrokken diensten in het gezin.<br><br>Op dit moment zijn er 2 vacatures in Veilig Huis Halle-Vilvoorde. Je uitvalsbasis is Halle. Je werkt met gezinnen binnen de volledige regio Halle-Vilvoorde.&nbsp;<br><br>Lees meer over het takenpakket in de functiebeschrijving (doorklikken op selectiereglement). Download dit document en hou het bij.</p><p>Hoe verloopt de <strong>procedure</strong> verder? In de week van 23 juni 2025 is er een CV screening. In de week van 30 juni krijg je te horen of je al dan niet uitgenodigd wordt voor een jurygesprek. De jurygesprekken gaan door in Brussel en staan ingepland op dinsdag 15 juli 2025. Hou deze dag alvast vrij.&nbsp;</p><br>",
-        "htmlEncoded": "<p>Heb je interesse in het outreachend en actief werken met gezinnen die te maken hebben met intrafamiliaal geweld? Geloof jij dat regie binnen gezinnen een oplossing kan bieden wanneer er diverse organisaties betrokken zijn? Ben jij iemand die streeft naar een efficiënte samenwerking tussen betrokken professionals en wil je de veiligheid van gezinsleden mee centraal stellen tijdens dit proces? Wie weet is dit dan de uitdaging die jij zoekt!<br><br>Als casusregisseur vorm je mee de brug tussen politie, parket, hulpverlening én de betrokken gezinnen in de aanpak en preventie van intrafamiliaal geweld. Je verheldert, vervolledigt en analyseert de hulpvragen binnen het gezin met als doel over de nodige gegevens en inzichten te beschikken om een gepaste hulp- en dienstverlening of doorverwijzing te kunnen uitwerken. Je biedt als casusregisseur professionele informatie, advies en begeleiding om de cliënten inzichten te verschaffen en oplossingen aan te reiken of hen maximaal te ondersteunen. Je maakt samen met de betrokken organisaties een gezamenlijk plan van aanpak op en betrekt de cliënten hierbij. Je begeleidt het gezin en ondersteunt de betrokken organisaties bij de uitvoering van het plan van aanpak. Je bent het aanspreekpunt voor zowel de gezinsleden als de betrokken diensten in het gezin.<br><br>Op dit moment zijn er 2 vacatures in Veilig Huis Halle-Vilvoorde. Je uitvalsbasis is Halle. Je werkt met gezinnen binnen de volledige regio Halle-Vilvoorde.&nbsp;<br><br>Lees meer over het takenpakket in de functiebeschrijving (doorklikken op selectiereglement). Download dit document en hou het bij.</p><p>Hoe verloopt de <strong>procedure</strong> verder? In de week van 23 juni 2025 is er een CV screening. In de week van 30 juni krijg je te horen of je al dan niet uitgenodigd wordt voor een jurygesprek. De jurygesprekken gaan door in Brussel en staan ingepland op dinsdag 15 juli 2025. Hou deze dag alvast vrij.&nbsp;</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Halle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18704",
       "internal": true,
       "validThroughDate": "1751414400",
@@ -3536,6 +3466,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18695",
+      "internal": false,
+      "validThroughDate": "1754179200",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18695",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Back-up chef catering"
+      },
+      "displayTitle": "Back-up chef catering",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een\nkeukenliefhebber met een organisatorisch talent en leidinggevende skills? Heb\nje een passie voor het bedenken van culinaire hoogstandjes en wil je deze\nrealiseren binnen een moderne grootkeuken? Dan ben jij de Back-up Chef Catering\ndie we zoeken!<br><br>Als Back-up Chef\nCatering voor onze grote keuken, werk je nauw samen met de cateringmedewerkers\nen koks van jouw team, dat bestaat uit meer dan 30 leden. In overleg met de\nChef Catering geef je leiding en coach je het team, zorg je voor een duidelijke\nopdrachtverdeling en streven jullie samen naar tevreden klanten. Dagelijks\nvoorzien jullie een gevarieerd aanbod van warme maaltijden in het\nbedrijfsrestaurant, verzorgen jullie broodjes, events en beheren jullie de\nkoffiebar. Onze VIP-keuken is het kroonjuweel, waar jij actief deel uitmaakt\nvan het creatieve proces.<br><br>Belangrijk voor jou is\neen klantgerichte dienstverlening met focus op kwaliteit. Jouw positieve\ninstelling en sterke werkethiek maken je een voorbeeldfiguur op het gebied van\nhygiëne en voedselveiligheid.<br><br>De Vlaamse overheid\nondersteunt een gezonde werk-privé balans. Je reguliere werkschema is van 7u\ntot 15u, met afwisselend shifts van 9u tot 17u, 6u30 tot 14u30 en 8u-16u\nvolgens een beurtrol. Deze schema's worden ruim op voorhand gecommuniceerd, met\nrespect voor jouw persoonlijke voorkeuren en gezinssituatie. Soms vragen we\nflexibiliteit voor catering events die tot 19u duren. Deze extra uren worden\ngeregistreerd als overuren en kunnen opgenomen worden als verlof.<br><br>Kortom, ben jij klaar\nom met jouw culinaire passie en leiderschap bij te dragen aan smaakvolle\nherinneringen en tevreden klanten? Solliciteer nu en maak deel uit van ons\ndynamisch cateringteam!<br><strong>Lees hieronder\nmeer over het gezochte profiel en hoe de sollicitatieprocedure verloopt. Lees\nmeer over de job en het selectieproces in het selectiereglement als bijlage bij\n‘Meer informatie’. Download dit document en hou het bij.</strong>",
+        "htmlEncoded": "Ben jij een\nkeukenliefhebber met een organisatorisch talent en leidinggevende skills? Heb\nje een passie voor het bedenken van culinaire hoogstandjes en wil je deze\nrealiseren binnen een moderne grootkeuken? Dan ben jij de Back-up Chef Catering\ndie we zoeken!<br><br>Als Back-up Chef\nCatering voor onze grote keuken, werk je nauw samen met de cateringmedewerkers\nen koks van jouw team, dat bestaat uit meer dan 30 leden. In overleg met de\nChef Catering geef je leiding en coach je het team, zorg je voor een duidelijke\nopdrachtverdeling en streven jullie samen naar tevreden klanten. Dagelijks\nvoorzien jullie een gevarieerd aanbod van warme maaltijden in het\nbedrijfsrestaurant, verzorgen jullie broodjes, events en beheren jullie de\nkoffiebar. Onze VIP-keuken is het kroonjuweel, waar jij actief deel uitmaakt\nvan het creatieve proces.<br><br>Belangrijk voor jou is\neen klantgerichte dienstverlening met focus op kwaliteit. Jouw positieve\ninstelling en sterke werkethiek maken je een voorbeeldfiguur op het gebied van\nhygiëne en voedselveiligheid.<br><br>De Vlaamse overheid\nondersteunt een gezonde werk-privé balans. Je reguliere werkschema is van 7u\ntot 15u, met afwisselend shifts van 9u tot 17u, 6u30 tot 14u30 en 8u-16u\nvolgens een beurtrol. Deze schema's worden ruim op voorhand gecommuniceerd, met\nrespect voor jouw persoonlijke voorkeuren en gezinssituatie. Soms vragen we\nflexibiliteit voor catering events die tot 19u duren. Deze extra uren worden\ngeregistreerd als overuren en kunnen opgenomen worden als verlof.<br><br>Kortom, ben jij klaar\nom met jouw culinaire passie en leiderschap bij te dragen aan smaakvolle\nherinneringen en tevreden klanten? Solliciteer nu en maak deel uit van ons\ndynamisch cateringteam!<br><strong>Lees hieronder\nmeer over het gezochte profiel en hoe de sollicitatieprocedure verloopt. Lees\nmeer over de job en het selectieproces in het selectiereglement als bijlage bij\n‘Meer informatie’. Download dit document en hou het bij.</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18688",
       "internal": false,
       "validThroughDate": "1750982400",
@@ -3566,6 +3531,41 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18680",
+      "internal": false,
+      "validThroughDate": "1754006400",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18680",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Kok"
+      },
+      "displayTitle": "Kok",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een enthousiaste kok met liefde voor\nsmaakvolle gerechten en werk je graag in een moderne en professionele omgeving?\nDan hebben wij dé job voor jou!<br><br>Voor onze keuken in het Conscience-gebouw in\nBrussel zoeken we een gedreven kok. Daarnaast leggen we een werfreserve aan\nvoor toekomstige vacatures in de grootkeuken.<br><br>Als kok ben je verantwoordelijk voor de bereiding\nvan gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse\noverheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en\norganisatie in de keuken. Je werkt met moderne technieken en toestellen en\ndraagt actief bij aan de ontwikkeling van nieuwe menu’s.<br><br>Samen met je collega’s waaronder een back-up chef,\nandere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude\nen warme gerechten, desserts en andere lekkernijen. Je werkt in een\nregeneratiekeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en\nklantvriendelijkheid.<br><br><strong>Klinkt dit als iets voor jou? Lees dan snel verder\nom te ontdekken welk profiel we zoeken en hoe je kan solliciteren!</strong>",
+        "htmlEncoded": "Ben jij een enthousiaste kok met liefde voor\nsmaakvolle gerechten en werk je graag in een moderne en professionele omgeving?\nDan hebben wij dé job voor jou!<br><br>Voor onze keuken in het Conscience-gebouw in\nBrussel zoeken we een gedreven kok. Daarnaast leggen we een werfreserve aan\nvoor toekomstige vacatures in de grootkeuken.<br><br>Als kok ben je verantwoordelijk voor de bereiding\nvan gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse\noverheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en\norganisatie in de keuken. Je werkt met moderne technieken en toestellen en\ndraagt actief bij aan de ontwikkeling van nieuwe menu’s.<br><br>Samen met je collega’s waaronder een back-up chef,\nandere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude\nen warme gerechten, desserts en andere lekkernijen. Je werkt in een\nregeneratiekeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en\nklantvriendelijkheid.<br><br><strong>Klinkt dit als iets voor jou? Lees dan snel verder\nom te ontdekken welk profiel we zoeken en hoe je kan solliciteren!</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
