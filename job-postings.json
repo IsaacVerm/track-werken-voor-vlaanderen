@@ -1,10 +1,10 @@
 {
-  "totalItems": 147,
+  "totalItems": 155,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 146,
+  "lastItemOfPage": 154,
   "items": [
     {
       "link": "/Job/vdab-71364642",
@@ -189,8 +189,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71346089",
@@ -1582,6 +1582,41 @@
       ]
     },
     {
+      "link": "/Job/vdab-70879437",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70879437",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect"
+      },
+      "displayTitle": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-70871332",
       "internal": false,
       "validThroughDate": "-1",
@@ -2527,6 +2562,111 @@
       ]
     },
     {
+      "link": "/Job/vdab-70428787",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70428787",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel analist (AHOVOKS) via Vlaanderen Connect"
+      },
+      "displayTitle": "Functioneel analist (AHOVOKS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Inleiding</strong></p> \n<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als analist wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat!\n<span> </span></p> \n<p><em><span> </span></em><strong>Waar kom je terecht? </strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.\n<span> </span></p> \n<p>AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Als medewerker van AHOVOKS werk je samen met jouw collega’s aan de realisatie van deze missie en help je hiermee burgers:</p> \n<p> -          NARIC-Vlaanderen. NARIC helpt burgers die in het buitenland een diploma behaald hebben, en in Vlaanderen wil werken met dat diploma (bv. als arts). NARIC-Vlaanderen onderzoekt of het buitenlandse diploma dezelfde waarde heeft in Vlaanderen en kent een gelijkwaardigheid toe. Met die gelijkwaardigheid kan de burger dan aan het werk. </p> \n<p><span>-\n<span> </span></span>De Examencommissie Secundair onderwijs: dit team biedt een tweede kans aan jongeren en volwassenen om buiten een schoolse context een getuigschrift of diploma te behalen.\n<span> </span></p> \n<p><span>-\n<span> </span></span>Studietoelagen: studietoelagen helpt studenten die het financieel moeilijk hebben, met het betalen van hun studies hoger onderwijs en creëert zo maximale ontplooiingskansen voor deze burgers.</p> \n<p><span>-\n<span> </span></span>Hoger- en Volwassenenonderwijs: dit team staat in voor financiering van universiteiten, hogescholen en centra voor volwassenenonderwijs, en ondersteund een aantal gegevensuitwisselingen tussen deze onderwijsinstellingen en de overheid.</p> \n<p><span>-\n<span> </span></span>Kwalificaties en curriculum: dit team zorgt voor het kader waar inhouden voor onderwijs en opleidingen vorm krijgen. Binnen het raamwerk van de Vlaamse kwalificatiestructuur ontwikkelt de afdeling beroeps- en onderwijskwalificaties die bijdragen aan een betere afstemming tussen onderwijs en arbeidsmarkt.</p> \n<p><span>-\n<span> </span></span>De leer-en ervaringsbewijzendatabank: dit is onze Vlaamse diplomadatabank waar burgers en organisaties alle diploma’s die in Vlaanderen uitgereikt zijn, terugvinden</p> \n<p> \n<strong>Wat zal je moeten doen? </strong></p> \n<p>Als analist ben je een essentiële schakel in de verdere automatisering van onze dienstverlening aan burgers, instellingen, interne medewerkers en de maatschappij. Je vertrekpunt is een behoefte, die je verder onderzoekt en uitdiept en, vertaalt naar een conceptueel ontwerp. Je doet dit in nauwe samenwerking met interne medewerkers en externe belanghebbenden, en in een nauwe samenwerking met de ontwikkelaars.</p> \n<p>Binnen IT werk je mee aan een sterke IT-organisatie, je deelt je kennis en informatie, neemt deel aan de guild werking en maakt deel uit van een team van analisten en een groter team van IT-professionals. </p>",
+        "htmlEncoded": "<p><strong>Inleiding</strong></p> \n<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als analist wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat!\n<span> </span></p> \n<p><em><span> </span></em><strong>Waar kom je terecht? </strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.\n<span> </span></p> \n<p>AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Als medewerker van AHOVOKS werk je samen met jouw collega’s aan de realisatie van deze missie en help je hiermee burgers:</p> \n<p> -          NARIC-Vlaanderen. NARIC helpt burgers die in het buitenland een diploma behaald hebben, en in Vlaanderen wil werken met dat diploma (bv. als arts). NARIC-Vlaanderen onderzoekt of het buitenlandse diploma dezelfde waarde heeft in Vlaanderen en kent een gelijkwaardigheid toe. Met die gelijkwaardigheid kan de burger dan aan het werk. </p> \n<p><span>-\n<span> </span></span>De Examencommissie Secundair onderwijs: dit team biedt een tweede kans aan jongeren en volwassenen om buiten een schoolse context een getuigschrift of diploma te behalen.\n<span> </span></p> \n<p><span>-\n<span> </span></span>Studietoelagen: studietoelagen helpt studenten die het financieel moeilijk hebben, met het betalen van hun studies hoger onderwijs en creëert zo maximale ontplooiingskansen voor deze burgers.</p> \n<p><span>-\n<span> </span></span>Hoger- en Volwassenenonderwijs: dit team staat in voor financiering van universiteiten, hogescholen en centra voor volwassenenonderwijs, en ondersteund een aantal gegevensuitwisselingen tussen deze onderwijsinstellingen en de overheid.</p> \n<p><span>-\n<span> </span></span>Kwalificaties en curriculum: dit team zorgt voor het kader waar inhouden voor onderwijs en opleidingen vorm krijgen. Binnen het raamwerk van de Vlaamse kwalificatiestructuur ontwikkelt de afdeling beroeps- en onderwijskwalificaties die bijdragen aan een betere afstemming tussen onderwijs en arbeidsmarkt.</p> \n<p><span>-\n<span> </span></span>De leer-en ervaringsbewijzendatabank: dit is onze Vlaamse diplomadatabank waar burgers en organisaties alle diploma’s die in Vlaanderen uitgereikt zijn, terugvinden</p> \n<p> \n<strong>Wat zal je moeten doen? </strong></p> \n<p>Als analist ben je een essentiële schakel in de verdere automatisering van onze dienstverlening aan burgers, instellingen, interne medewerkers en de maatschappij. Je vertrekpunt is een behoefte, die je verder onderzoekt en uitdiept en, vertaalt naar een conceptueel ontwerp. Je doet dit in nauwe samenwerking met interne medewerkers en externe belanghebbenden, en in een nauwe samenwerking met de ontwikkelaars.</p> \n<p>Binnen IT werk je mee aan een sterke IT-organisatie, je deelt je kennis en informatie, neemt deel aan de guild werking en maakt deel uit van een team van analisten en een groter team van IT-professionals. </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70424797",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70424797",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product Owner Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span>een \n<strong>Product Owner Expert AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan boeiende AI &amp; analytics use cases? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span></p> \n<p><br> \n<span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als </span></span><strong><span>Product Owner Expert AI &amp; Analytics</span></strong><span><span>ben je verantwoordelijk voor het succesvol leiden van diverse projecten van start tot finish. Je vertaalt klantverwachtingen naar concrete projectplannen, zorgt ervoor dat doelen helder zijn en bewaakt de voortgang, scope, budget en planning. \n<br> Je coördineert projectteams, begeleidt hen naar de gewenste resultaten en houdt alle betrokkenen op de hoogte van de voortgang. Daarnaast beheer je projectrisico’s en knelpunten, en zorg je voor duidelijke communicatie met de klant. \n<br> Je zal werken met innovatieve AI &amp; Analytics use cases, waarbij je streeft naar oplossingen die betrouwbaar en verklaarbaar zijn. Daarnaast neem je als Product Owner Expert de vertaling van de business noden van de partners naar concrete AI-oplossingen op jou.</span></span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span>een \n<strong>Product Owner Expert AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan boeiende AI &amp; analytics use cases? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span></p> \n<p><br> \n<span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p> </p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als </span></span><strong><span>Product Owner Expert AI &amp; Analytics</span></strong><span><span>ben je verantwoordelijk voor het succesvol leiden van diverse projecten van start tot finish. Je vertaalt klantverwachtingen naar concrete projectplannen, zorgt ervoor dat doelen helder zijn en bewaakt de voortgang, scope, budget en planning. \n<br> Je coördineert projectteams, begeleidt hen naar de gewenste resultaten en houdt alle betrokkenen op de hoogte van de voortgang. Daarnaast beheer je projectrisico’s en knelpunten, en zorg je voor duidelijke communicatie met de klant. \n<br> Je zal werken met innovatieve AI &amp; Analytics use cases, waarbij je streeft naar oplossingen die betrouwbaar en verklaarbaar zijn. Daarnaast neem je als Product Owner Expert de vertaling van de business noden van de partners naar concrete AI-oplossingen op jou.</span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-70410630",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70410630",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Solution Architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Solution Architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span lang=\"NL\">Als Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p> \n<p><span lang=\"NL\"><br></span></p> \n<p><strong><span>Wat doe je (graag) ?</span></strong></p> \n<p><strong></strong>·         Je vertaalt een concrete vraag van de business naar veranderingen die nodig zijn in het applicatielandschap. Dit doe je door brainstormsessies te leiden waar mogelijke oplossing voor business problemen worden bedacht, door opportuniteiten voor procesverbeteringen te identificeren, door samen te werken met business en IT.</p> \n<p><span><span>·\n<span> </span></span></span><span>Je bent verantwoordelijk voor de “fit for purpose” van de oplossing en de alignering met het kader geschept door de Enterprise Architecten. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je steunt daarbij op de Applicatie Architecten voor concrete detailkennis over de functionele en technische aspecten van de betrokken applicaties en het uitwerken van veranderingen eraan. De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin business services, capabilities, processen en applicatie services voldoen aan de huidige noden en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><strong><span>Jouw toekomstig team </span></strong></p> \n<p><strong><span> </span></strong>Het team bestaat uit een twintigtal collega’s, die onderverdeeld zijn in domeinen en diverse projecten begeleiden. De samenwerking met de ontwikkelteams en met business is een cruciaal onderdeel van je job. Je wordt dus niet alleen verondersteld analyses of architecturen aan te leveren, maar ervoor te zorgen dat je jouw visie op de juiste manier en aan de juiste mensen overdraagt.</p> \n<p><span>Collegialiteit, openheid en goede communicatie zijn daarbij cruciaal</span></p> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</span></p> \n<p><span lang=\"NL\"><br></span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span lang=\"NL\">Als Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p> \n<p><span lang=\"NL\"><br></span></p> \n<p><strong><span>Wat doe je (graag) ?</span></strong></p> \n<p><strong></strong>·         Je vertaalt een concrete vraag van de business naar veranderingen die nodig zijn in het applicatielandschap. Dit doe je door brainstormsessies te leiden waar mogelijke oplossing voor business problemen worden bedacht, door opportuniteiten voor procesverbeteringen te identificeren, door samen te werken met business en IT.</p> \n<p><span><span>·\n<span> </span></span></span><span>Je bent verantwoordelijk voor de “fit for purpose” van de oplossing en de alignering met het kader geschept door de Enterprise Architecten. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je steunt daarbij op de Applicatie Architecten voor concrete detailkennis over de functionele en technische aspecten van de betrokken applicaties en het uitwerken van veranderingen eraan. De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin business services, capabilities, processen en applicatie services voldoen aan de huidige noden en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><strong><span>Jouw toekomstig team </span></strong></p> \n<p><strong><span> </span></strong>Het team bestaat uit een twintigtal collega’s, die onderverdeeld zijn in domeinen en diverse projecten begeleiden. De samenwerking met de ontwikkelteams en met business is een cruciaal onderdeel van je job. Je wordt dus niet alleen verondersteld analyses of architecturen aan te leveren, maar ervoor te zorgen dat je jouw visie op de juiste manier en aan de juiste mensen overdraagt.</p> \n<p><span>Collegialiteit, openheid en goede communicatie zijn daarbij cruciaal</span></p> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</span></p> \n<p><span lang=\"NL\"><br></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-70341940",
       "internal": false,
       "validThroughDate": "-1",
@@ -2702,6 +2842,41 @@
       ]
     },
     {
+      "link": "/Job/vdab-70055296",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-70055296",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel analist (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Functioneel analist (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB is een omgeving met een zeer moderne technologische omgeving waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Als functioneel analist heb je als taak om de behoeften van de business te vertalen naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. Als functioneel analist ben je de ‘functionele expert’ van de portefeuille van de applicaties binnen het team. </span></p> \n<p><span>Als functioneel analist zet je wanneer nodig de functionele kennis in bij de ondersteuningsverantwoordelijkheid van het team (leveren van support, beantwoorden van functionele vragen, troubleshooten van incidenten). Als functioneel analist neem je actief deel aan het overlegorgaan (gilde) van alle analisten en deelt er ervaringen en goede praktijken. Als functioneel analist\n<span> </span>hanteer je de best practices, de juiste methodieken en modelleertalen maar vooral een pragmatische aanpak zodat je snel tot bruikbare resultaten en oplossingen komt. Je profileert je hierbij als een partner van de organisatie en je interne en externe klanten. Als functioneel analist bij team Icarus stel je ook testsenario’s op voor proxy testing, als ook het opstellen van SQL queries voor impactstudie van analyse en voor testing.</span></p> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB is een omgeving met een zeer moderne technologische omgeving waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Als functioneel analist heb je als taak om de behoeften van de business te vertalen naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. Als functioneel analist ben je de ‘functionele expert’ van de portefeuille van de applicaties binnen het team. </span></p> \n<p><span>Als functioneel analist zet je wanneer nodig de functionele kennis in bij de ondersteuningsverantwoordelijkheid van het team (leveren van support, beantwoorden van functionele vragen, troubleshooten van incidenten). Als functioneel analist neem je actief deel aan het overlegorgaan (gilde) van alle analisten en deelt er ervaringen en goede praktijken. Als functioneel analist\n<span> </span>hanteer je de best practices, de juiste methodieken en modelleertalen maar vooral een pragmatische aanpak zodat je snel tot bruikbare resultaten en oplossingen komt. Je profileert je hierbij als een partner van de organisatie en je interne en externe klanten. Als functioneel analist bij team Icarus stel je ook testsenario’s op voor proxy testing, als ook het opstellen van SQL queries voor impactstudie van analyse en voor testing.</span></p> \n<p><span>Het team werkt hybride met twee vaste kantoordagen te Brussel. In overleg worden afspraken gemaakt rond kantoorwerk versus thuiswerk, klantenbereikbaarheid en servicelevel-afspraken. Dit biedt je een hoge flexibiliteit en autonomie om je taken in te regelen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-70025644",
       "internal": false,
       "validThroughDate": "-1",
@@ -2842,6 +3017,41 @@
       ]
     },
     {
+      "link": "/Job/vdab-69615980",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-69615980",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Enterprise Infrastructure Architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Enterprise Infrastructure Architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>I&amp;T Operations is verantwoordelijk voor de dagelijkse werking van de meeste Informatie &amp; Technologie componenten zoals de digitale werkplek, netwerk, telefonie, applicatie infrastructuur (multi cloud en on-prem) en de digitale campus. Het team verzorgt ook het End-to-End Delivery beheer, dit omvat alle diensten die nodig zijn om afzonderlijke I&amp;T diensten te integreren tot één coherent en consistent geheel.</span> </p> \n<p><span>Als Enterprise Infrastructure Architect maak je deel uit van het VDAB I&amp;T Operations management team en rapporteer je aan de I&amp;T Operations Directeur.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><strong><span> </span></strong>●      Je bepaalt de VDAB  Enterprise Infrastructure Architectuur op basis van jouw beleidslijnen en bewaakt deze.</p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent eigenaar van de I&amp;T Operations Infrastructuur Roadmap.\n<span> </span></span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je ontwerpt samenhangende oplossingen op vlak van eindgebruikers infrastructuur, netwerk, telefonie en applicatie infrastructuur. Hierbij hou je rekening met de verschillende verplichtingen (contracten, licentie voorwaarden, bescherming van gegevens,...) waarbij je nauw samenwerkt met de service delivery managers en andere I&amp;T directies (I&amp;T Security, Software-ontwikkeling en Architectuur &amp; innovatie).</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je werkt samen met projectteams om de infrastructuur architectuur opdrachten uit te voeren en identificeert de noodzaak om de opzet aan te passen waar nodig.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je neemt samen met je andere collega’s IT architecten deel aan het ontwikkelen en beheren van de governance structuur.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je verzorgt documentatie van je volledige architectuurontwerp.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent ons klankbord om infrastructuur oplossingen te ontwikkelen.</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>I&amp;T Operations is verantwoordelijk voor de dagelijkse werking van de meeste Informatie &amp; Technologie componenten zoals de digitale werkplek, netwerk, telefonie, applicatie infrastructuur (multi cloud en on-prem) en de digitale campus. Het team verzorgt ook het End-to-End Delivery beheer, dit omvat alle diensten die nodig zijn om afzonderlijke I&amp;T diensten te integreren tot één coherent en consistent geheel.</span> </p> \n<p><span>Als Enterprise Infrastructure Architect maak je deel uit van het VDAB I&amp;T Operations management team en rapporteer je aan de I&amp;T Operations Directeur.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><strong><span> </span></strong>●      Je bepaalt de VDAB  Enterprise Infrastructure Architectuur op basis van jouw beleidslijnen en bewaakt deze.</p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent eigenaar van de I&amp;T Operations Infrastructuur Roadmap.\n<span> </span></span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je ontwerpt samenhangende oplossingen op vlak van eindgebruikers infrastructuur, netwerk, telefonie en applicatie infrastructuur. Hierbij hou je rekening met de verschillende verplichtingen (contracten, licentie voorwaarden, bescherming van gegevens,...) waarbij je nauw samenwerkt met de service delivery managers en andere I&amp;T directies (I&amp;T Security, Software-ontwikkeling en Architectuur &amp; innovatie).</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je werkt samen met projectteams om de infrastructuur architectuur opdrachten uit te voeren en identificeert de noodzaak om de opzet aan te passen waar nodig.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je neemt samen met je andere collega’s IT architecten deel aan het ontwikkelen en beheren van de governance structuur.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je verzorgt documentatie van je volledige architectuurontwerp.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent ons klankbord om infrastructuur oplossingen te ontwikkelen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-69310079",
       "internal": false,
       "validThroughDate": "-1",
@@ -2919,8 +3129,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-68784271",
@@ -3052,6 +3262,41 @@
       ]
     },
     {
+      "link": "/Job/vdab-65034106",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-65034106",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data Engineer (Dep. Onderwijs & Vorming) via Vlaanderen Connect"
+      },
+      "displayTitle": "Data Engineer (Dep. Onderwijs & Vorming) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het departement Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de migratie en verdere uitbouw van het centrale dataplatform. </span></p> \n<p><span>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie. </span></p> \n<p><span>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform te vernieuwen en verder uit te breiden. </span></p> \n<p><span>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat!</span></p> \n<p> </p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je wordt tewerkgesteld binnen het departement Onderwijs en Vorming, maar je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs. </span></p> \n<p><span>De kantoren van het Departement Onderwijs en Vorming zijn gevestigd in Brussel. Meer bepaald in het Hendrick Consciencegebouw, Koning Albert II-laan 15. Uiteraard ben je ook in de mogelijkheid om thuis te werken. </span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li><span>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</span></li> \n<li><span>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</span></li> \n<li><span>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</span></li> \n<li><span>Schrijven van ETL-code om data te transformeren.</span></li> \n<li><span>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</span></li> \n<li><span>Opzetten van het rechtenmodel van een dataproduct.</span></li> \n<li><span>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</span></li> \n<li><span>Documenteren van de end-to-end oplossing</span></li> \n<li><span>Ondersteuning leveren bij problemen, performance issues, …</span></li> \n<li><span>Meedenken aan procesverbeteringen en -optimalisaties.</span></li> </ul>",
+        "htmlEncoded": "<p><span>Het departement Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de migratie en verdere uitbouw van het centrale dataplatform. </span></p> \n<p><span>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie. </span></p> \n<p><span>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform te vernieuwen en verder uit te breiden. </span></p> \n<p><span>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat!</span></p> \n<p> </p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Je wordt tewerkgesteld binnen het departement Onderwijs en Vorming, maar je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs. </span></p> \n<p><span>De kantoren van het Departement Onderwijs en Vorming zijn gevestigd in Brussel. Meer bepaald in het Hendrick Consciencegebouw, Koning Albert II-laan 15. Uiteraard ben je ook in de mogelijkheid om thuis te werken. </span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li><span>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</span></li> \n<li><span>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</span></li> \n<li><span>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</span></li> \n<li><span>Schrijven van ETL-code om data te transformeren.</span></li> \n<li><span>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</span></li> \n<li><span>Opzetten van het rechtenmodel van een dataproduct.</span></li> \n<li><span>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</span></li> \n<li><span>Documenteren van de end-to-end oplossing</span></li> \n<li><span>Ondersteuning leveren bij problemen, performance issues, …</span></li> \n<li><span>Meedenken aan procesverbeteringen en -optimalisaties.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-63154845",
       "internal": false,
       "validThroughDate": "-1",
@@ -3107,8 +3352,8 @@
       "displayTitle": "Beleidsmedewerker Vaccinatie",
       "isProtected": false,
       "description": {
-        "raw": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Deze preventie gebeurt via:&nbsp;<br>• het voorbereiden en organiseren van het vaccinatiebeleid en het verspreiden van gratis vaccins aan de vaccinatoren;&nbsp;<br>• uitbraakdetectie en -controle via verplichte melding;&nbsp;<br>• het verstrekken van informatie over de epidemiologie en de preventie van infecties;&nbsp;<br>• surveillance van infectieziekten via eigen werk en onder meer ook via overeenkomsten met Sciensano, het ITG en de VRGT.&nbsp;<br><br>Jouw functie focust zich op de eerste activiteit, m.n. het vaccinatiebeleid.</p>",
-        "htmlEncoded": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Deze preventie gebeurt via:&nbsp;<br>• het voorbereiden en organiseren van het vaccinatiebeleid en het verspreiden van gratis vaccins aan de vaccinatoren;&nbsp;<br>• uitbraakdetectie en -controle via verplichte melding;&nbsp;<br>• het verstrekken van informatie over de epidemiologie en de preventie van infecties;&nbsp;<br>• surveillance van infectieziekten via eigen werk en onder meer ook via overeenkomsten met Sciensano, het ITG en de VRGT.&nbsp;<br><br>Jouw functie focust zich op de eerste activiteit, m.n. het vaccinatiebeleid.</p>"
+        "raw": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Jouw hoofdtaken in deze functie bestaan uit</p><ul><li>Het\n     coördineren, organiseren en opvolgen van de covid-vaccinatie voor de\n     verschillende doelgroepen en het overkoepelend implementeren van de\n     covid-19 vaccinatie door o.a.:<br>      - Het mee uitwerken van een communicatieplan, dit mee uitvoeren,\n     coördineren en opvolgen<br>      - Het voorbereiden van beleidsnota’s en rapporten over de Covidvaccinatie<br>      - Het voorbereiden, deelnemen of voorzitten van vergaderingen tot\n     voorbereiding van de covid-vaccinatie<br>      - Het voorbereiden van en meewerken aan vaccinatie-initiatieven\n     (rechtstreeks of onrechtstreeks) in het kader van de strijd tegen covid-19<br>      - Het coördineren en opvolgen van de processen m.b.t. de Covidvaccinatie<br>      - Het opvolgen van de stand van zaken van de Covid-19 vaccinatie in de\n     verschillende doelgroepen</li><li>Daarnaast\n     sta je ook voor o.a. volgende taken:<br>      - Je bent de aanspreekpersoon m.b.t. Covidvaccinatie zowel intern als voor\n     externe stakeholders<br>      - Promoten en faciliteren van Vaccinnet<br>      - Vaccinatielevering enstock opvolgen<br>      - Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>      - Communicatie met burgers/vaccinatoren<br>      - Verwerken van cijfergegevens vaccinaties</li></ul>",
+        "htmlEncoded": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Jouw hoofdtaken in deze functie bestaan uit</p><ul><li>Het\n     coördineren, organiseren en opvolgen van de covid-vaccinatie voor de\n     verschillende doelgroepen en het overkoepelend implementeren van de\n     covid-19 vaccinatie door o.a.:<br>      - Het mee uitwerken van een communicatieplan, dit mee uitvoeren,\n     coördineren en opvolgen<br>      - Het voorbereiden van beleidsnota’s en rapporten over de Covidvaccinatie<br>      - Het voorbereiden, deelnemen of voorzitten van vergaderingen tot\n     voorbereiding van de covid-vaccinatie<br>      - Het voorbereiden van en meewerken aan vaccinatie-initiatieven\n     (rechtstreeks of onrechtstreeks) in het kader van de strijd tegen covid-19<br>      - Het coördineren en opvolgen van de processen m.b.t. de Covidvaccinatie<br>      - Het opvolgen van de stand van zaken van de Covid-19 vaccinatie in de\n     verschillende doelgroepen</li><li>Daarnaast\n     sta je ook voor o.a. volgende taken:<br>      - Je bent de aanspreekpersoon m.b.t. Covidvaccinatie zowel intern als voor\n     externe stakeholders<br>      - Promoten en faciliteren van Vaccinnet<br>      - Vaccinatielevering enstock opvolgen<br>      - Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>      - Communicatie met burgers/vaccinatoren<br>      - Verwerken van cijfergegevens vaccinaties</li></ul>"
       },
       "locations": [
         {
@@ -3139,8 +3384,8 @@
       "displayTitle": "Administratief Medewerker Vaccinatie",
       "isProtected": false,
       "description": {
-        "raw": "De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten. Deze preventie gebeurt via:<br><br>&nbsp;- het&nbsp; voorbereiden en organiseren van het vaccinatiebeleid en het verspreiden van gratis vaccins aan de&nbsp; vaccinatoren;<br>&nbsp;- uitbraakdetectie&nbsp; en -controle via verplichte&nbsp; melding;<br>&nbsp;- het&nbsp; verstrekken van informatie over de epidemiologie en de preventie van infecties;<br>&nbsp;- surveillance&nbsp; van infectieziekten via eigen werk en onder meer ook via overeenkomsten met&nbsp; Sciensano, het ITG en&nbsp; de&nbsp; VRGT.<br>&nbsp;&nbsp;<br>Jouw functie focust zich op de eerste activiteit, m.n. vaccinatie.",
-        "htmlEncoded": "De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten. Deze preventie gebeurt via:<br><br>&nbsp;- het&nbsp; voorbereiden en organiseren van het vaccinatiebeleid en het verspreiden van gratis vaccins aan de&nbsp; vaccinatoren;<br>&nbsp;- uitbraakdetectie&nbsp; en -controle via verplichte&nbsp; melding;<br>&nbsp;- het&nbsp; verstrekken van informatie over de epidemiologie en de preventie van infecties;<br>&nbsp;- surveillance&nbsp; van infectieziekten via eigen werk en onder meer ook via overeenkomsten met&nbsp; Sciensano, het ITG en&nbsp; de&nbsp; VRGT.<br>&nbsp;&nbsp;<br>Jouw functie focust zich op de eerste activiteit, m.n. vaccinatie."
+        "raw": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Jouw hoofdtaken bestaan uit:</p><ul><li>Het mee organiseren van de covid-vaccinatie voor de verschillende doelgroepen en het helpen bij het overkoepelend implementeren van de covid-19 vaccinatie door o.a.:<br>- Het ondersteunen en aanpassen van de bestellingen van covid-vaccins<br>- Het administratief ondersteunen van vaccinatoren zowel telefonisch als via e-mail<br>- Het ondersteunen bij de dagelijks werking rond de covid-19 vaccinatie<br>- Het meewerken aan het opstellen en uitvoeren van de communicatie rond covid-19 vaccinatie&nbsp;<br>- Het voorbereiden, organiseren en ondersteunen (notuleren) van vergaderingen in het kader van de covid-vaccinatie</li><li>Daarnaast sta je ook voor o.a. volgende taken:&nbsp;<br>- Faciliteren van het gebruik van Vaccinnet (het bestel- en registratiesysteem voor vaccins van de Vlaamse overheid)<br>- Meewerken aan de uitrol van het vernieuwde Vaccinnet (2026)<br>- Vaccinatielevering opvolgen<br>- Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>- Communicatie met burgers/vaccinatoren<br><br></li></ul>",
+        "htmlEncoded": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Jouw hoofdtaken bestaan uit:</p><ul><li>Het mee organiseren van de covid-vaccinatie voor de verschillende doelgroepen en het helpen bij het overkoepelend implementeren van de covid-19 vaccinatie door o.a.:<br>- Het ondersteunen en aanpassen van de bestellingen van covid-vaccins<br>- Het administratief ondersteunen van vaccinatoren zowel telefonisch als via e-mail<br>- Het ondersteunen bij de dagelijks werking rond de covid-19 vaccinatie<br>- Het meewerken aan het opstellen en uitvoeren van de communicatie rond covid-19 vaccinatie&nbsp;<br>- Het voorbereiden, organiseren en ondersteunen (notuleren) van vergaderingen in het kader van de covid-vaccinatie</li><li>Daarnaast sta je ook voor o.a. volgende taken:&nbsp;<br>- Faciliteren van het gebruik van Vaccinnet (het bestel- en registratiesysteem voor vaccins van de Vlaamse overheid)<br>- Meewerken aan de uitrol van het vernieuwde Vaccinnet (2026)<br>- Vaccinatielevering opvolgen<br>- Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>- Communicatie met burgers/vaccinatoren<br><br></li></ul>"
       },
       "locations": [
         {
@@ -3536,6 +3781,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18682",
+      "internal": false,
+      "validThroughDate": "1753142400",
+      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18682",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Operationele eventmedewerker"
+      },
+      "displayTitle": "Operationele eventmedewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gepassioneerd door het organiseren van evenementen? Dan is dit jouw kans! We zoeken twee veelzijdige teamleden die ons willen versterken.</p><p>Van paasspeurtocht tot Winterfloridylle: jij bent erbij van creatieve brainstormsessies tot praktische opbouw en afbraak. Je bent zowel een administratieve kracht als een praktische duizendpoot, klaar om samen met ons unieke ervaringen te creëren voor bezoekers. Fysieke paraatheid is belangrijk, evenals flexibiliteit met avond- en weekendwerk.</p><p>Als jij graag samenwerkt, snel schakelt en mensen weet te motiveren, dan pas jij perfect bij ons dynamische team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij gepassioneerd door het organiseren van evenementen? Dan is dit jouw kans! We zoeken twee veelzijdige teamleden die ons willen versterken.</p><p>Van paasspeurtocht tot Winterfloridylle: jij bent erbij van creatieve brainstormsessies tot praktische opbouw en afbraak. Je bent zowel een administratieve kracht als een praktische duizendpoot, klaar om samen met ons unieke ervaringen te creëren voor bezoekers. Fysieke paraatheid is belangrijk, evenals flexibiliteit met avond- en weekendwerk.</p><p>Als jij graag samenwerkt, snel schakelt en mensen weet te motiveren, dan pas jij perfect bij ons dynamische team!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18680",
       "internal": false,
       "validThroughDate": "1754006400",
@@ -3839,9 +4119,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Aansluitingsbeheerder (junior)"
+        "htmlEncoded": "Aansluitingsbeheerder"
       },
-      "displayTitle": "Aansluitingsbeheerder (junior)",
+      "displayTitle": "Aansluitingsbeheerder",
       "isProtected": false,
       "description": {
         "raw": "<p>Word jij Aansluitingsbeheerder bij Digitaal Vlaanderen?</p><p> Digitaal Vlaanderen zoekt twee gedreven Aansluitingsbeheerders voor het team Dataplatform. Jij beheert aansluitingen op digitale diensten zoals MAGDA en begeleidt klanten van aanvraag tot realisatie.</p><p>Je analyseert juridische aspecten, volgt aanvragen op en werkt nauw samen met technische teams. Daarnaast optimaliseer je processen, ondersteun je complexe integraties en zorg je voor duidelijke documentatie.</p><p>Je komt terecht in een innovatief team dat data inzet voor de digitale transformatie van Vlaanderen. We bieden je een boeiende functie met impact, in een vooruitstrevende en inclusieve werkomgeving.</p><p>Zin om mee te bouwen aan een digitaal Vlaanderen? Solliciteer vandaag nog!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
