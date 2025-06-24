@@ -532,41 +532,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71294116",
-      "internal": false,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71294116",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "begeleider DAC De Pas"
-      },
-      "displayTitle": "begeleider DAC De Pas",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><span>Heb jij een hart voor mensen met een psychische kwetsbaarheid? Wil je écht een verschil maken in hun dagelijks leven? Dan zijn wij op zoek naar jou!</span></p> \n<p><strong><span>Over DAC De Pas</span></strong><span><br> Binnen ons dagactiviteitencentrum bieden we een warme en veilige omgeving voor volwassenen met een psychische kwetsbaarheid. Ons doel? Hen ondersteunen bij hun maatschappelijke integratie en het zinvol invullen van hun dag. We focussen op ontspannende activiteiten, ontmoeting en verbinding – met ruimte voor creativiteit, persoonlijke ontwikkeling en sociale interactie.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong><span><br> Als begeleider ben je dagelijks in de weer met het begeleiden van deelnemers bij uiteenlopende groeps- en individuele activiteiten. Je helpt hen om structuur te vinden, zelfvertrouwen op te bouwen en sociale contacten aan te gaan. Geen dag is hetzelfde – jouw enthousiasme, empathie en creativiteit maken elke dag de moeite waard.</span></p>",
-        "htmlEncoded": "<p> </p> \n<p><span>Heb jij een hart voor mensen met een psychische kwetsbaarheid? Wil je écht een verschil maken in hun dagelijks leven? Dan zijn wij op zoek naar jou!</span></p> \n<p><strong><span>Over DAC De Pas</span></strong><span><br> Binnen ons dagactiviteitencentrum bieden we een warme en veilige omgeving voor volwassenen met een psychische kwetsbaarheid. Ons doel? Hen ondersteunen bij hun maatschappelijke integratie en het zinvol invullen van hun dag. We focussen op ontspannende activiteiten, ontmoeting en verbinding – met ruimte voor creativiteit, persoonlijke ontwikkeling en sociale interactie.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong><span><br> Als begeleider ben je dagelijks in de weer met het begeleiden van deelnemers bij uiteenlopende groeps- en individuele activiteiten. Je helpt hen om structuur te vinden, zelfvertrouwen op te bouwen en sociale contacten aan te gaan. Geen dag is hetzelfde – jouw enthousiasme, empathie en creativiteit maken elke dag de moeite waard.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71288997",
       "internal": false,
       "validThroughDate": "-1",
@@ -1029,8 +994,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71110161",
@@ -1484,8 +1449,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70946883",
@@ -1729,8 +1694,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70837261",
@@ -2219,8 +2184,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70658972",
@@ -3641,6 +3606,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18723",
+      "internal": false,
+      "validThroughDate": "1754006400",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18723",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectmanager bouw"
+      },
+      "displayTitle": "Projectmanager bouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een geboren project -en people manager met een passie voor bouwen én onderwijs? Bij het GO! Onderwijs krijg je de kans om grootschalige bouwprojecten te leiden die het verschil maken voor duizenden leerlingen in Vlaanderen. </p><p>Als projectmanager bouw ben je verantwoordelijk voor je eigen projecten, verspreid over heel Vlaanderen. Je bent vaak op het terrein te vinden: op werven, in overleg met scholen en scholengroepen, of in gesprek met aannemers, studieteams en veiligheidscoördinatoren. Je zorgt ervoor dat iedereen – van architect tot gebruiker – op één lijn zit en dat het project vlot en kwaliteitsvol verloopt.</p><p> Je werkt zelfstandig en krijgt veel verantwoordelijkheid, maar staat er nooit alleen voor. Je maakt deel uit van een hecht team van een dertigtal collega’s die je ondersteunen in de functie. .Samen zorgen jullie ervoor dat elk project voldoet aan de verwachtingen op vlak van timing, budget en kwaliteit. </p><p>Je bent de spilfiguur die de strategische visie van het GO! vertaalt naar concrete, toekomstgerichte leeromgevingen. Je bewaakt het overzicht, legt het besproken bouwprogramma vast in een projectdefinitie, leidt werfvergaderingen, volgt de uitvoering op en grijpt in waar nodig. Dankzij jouw inzicht en aanpak werken alle betrokken partijen efficiënt samen aan één doel: een inspirerende, veilige en duurzame schoolomgeving. </p><p>Bij het GO! werk je in een dynamische omgeving waar samenwerking, innovatie en maatschappelijke meerwaarde centraal staan. Je krijgt de kans om impact te maken op het onderwijs van de toekomst, in een organisatie die inzet op duurzaamheid, kwaliteit en gelijke kansen. </p><p>Klaar om je stempel te drukken op het onderwijs van morgen? Solliciteer en bouw mee aan de favoriete leerplek van elke leerling! Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij een geboren project -en people manager met een passie voor bouwen én onderwijs? Bij het GO! Onderwijs krijg je de kans om grootschalige bouwprojecten te leiden die het verschil maken voor duizenden leerlingen in Vlaanderen. </p><p>Als projectmanager bouw ben je verantwoordelijk voor je eigen projecten, verspreid over heel Vlaanderen. Je bent vaak op het terrein te vinden: op werven, in overleg met scholen en scholengroepen, of in gesprek met aannemers, studieteams en veiligheidscoördinatoren. Je zorgt ervoor dat iedereen – van architect tot gebruiker – op één lijn zit en dat het project vlot en kwaliteitsvol verloopt.</p><p> Je werkt zelfstandig en krijgt veel verantwoordelijkheid, maar staat er nooit alleen voor. Je maakt deel uit van een hecht team van een dertigtal collega’s die je ondersteunen in de functie. .Samen zorgen jullie ervoor dat elk project voldoet aan de verwachtingen op vlak van timing, budget en kwaliteit. </p><p>Je bent de spilfiguur die de strategische visie van het GO! vertaalt naar concrete, toekomstgerichte leeromgevingen. Je bewaakt het overzicht, legt het besproken bouwprogramma vast in een projectdefinitie, leidt werfvergaderingen, volgt de uitvoering op en grijpt in waar nodig. Dankzij jouw inzicht en aanpak werken alle betrokken partijen efficiënt samen aan één doel: een inspirerende, veilige en duurzame schoolomgeving. </p><p>Bij het GO! werk je in een dynamische omgeving waar samenwerking, innovatie en maatschappelijke meerwaarde centraal staan. Je krijgt de kans om impact te maken op het onderwijs van de toekomst, in een organisatie die inzet op duurzaamheid, kwaliteit en gelijke kansen. </p><p>Klaar om je stempel te drukken op het onderwijs van morgen? Solliciteer en bouw mee aan de favoriete leerplek van elke leerling! Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18720",
+      "internal": false,
+      "validThroughDate": "1754006400",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18720",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beheerder vastgoeddossiers"
+      },
+      "displayTitle": "Beheerder vastgoeddossiers",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een gedreven professional met een passie voor vastgoed en administratie? Heb je ervaring in het beheren van dossiers en ben je toe aan een nieuwe uitdaging? Dan ben jij wellicht de dossierbeheerder waar GO! Onderwijs van de Vlaamse gemeenschap naar op zoek is! </p><p>Als dossierbeheerder ben je de spil in het efficiënte beheer van vastgoed- en verkoop dossiers. Je bent het eerste aanspreekpunt voor vastgoedverkopen, waarbij je zorgt voor een vlotte communicatie met alle betrokken partijen. Vanaf de opstart tot aan de afronding, ben jij verantwoordelijk voor de volledige administratieve opvolging. Je beheert en coördineert vastgoedverkopen van begin tot eind, verzamelt de benodigde informatie, stelt verkoopdossiers samen en houdt alle betrokkenen op de hoogte.&nbsp;</p><p> Daarnaast verzorg je de publiciteit rond de verkopen op onze website, via mailing en op onze LinkedInpagina en vorm je de communicatieve brug tussen verschillende actoren. Voor plaats bezoeken ga je regelmatig op verplaatsingen. Je beantwoordt vragen, lost eventuele problemen op en waakt over de correcte toepassing en naleving van wet- en regelgeving met betrekking tot vastgoedtransacties.&nbsp; </p><p>Je beschikt over uitstekende communicatieve vaardigheden en werk je nauwkeurig en punctueel. Met een passie voor administratie, affiniteit voor dossierbeheer en eventueel kennis van vastgoedtransacties, ben jij de professional die wij zoeken.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij een gedreven professional met een passie voor vastgoed en administratie? Heb je ervaring in het beheren van dossiers en ben je toe aan een nieuwe uitdaging? Dan ben jij wellicht de dossierbeheerder waar GO! Onderwijs van de Vlaamse gemeenschap naar op zoek is! </p><p>Als dossierbeheerder ben je de spil in het efficiënte beheer van vastgoed- en verkoop dossiers. Je bent het eerste aanspreekpunt voor vastgoedverkopen, waarbij je zorgt voor een vlotte communicatie met alle betrokken partijen. Vanaf de opstart tot aan de afronding, ben jij verantwoordelijk voor de volledige administratieve opvolging. Je beheert en coördineert vastgoedverkopen van begin tot eind, verzamelt de benodigde informatie, stelt verkoopdossiers samen en houdt alle betrokkenen op de hoogte.&nbsp;</p><p> Daarnaast verzorg je de publiciteit rond de verkopen op onze website, via mailing en op onze LinkedInpagina en vorm je de communicatieve brug tussen verschillende actoren. Voor plaats bezoeken ga je regelmatig op verplaatsingen. Je beantwoordt vragen, lost eventuele problemen op en waakt over de correcte toepassing en naleving van wet- en regelgeving met betrekking tot vastgoedtransacties.&nbsp; </p><p>Je beschikt over uitstekende communicatieve vaardigheden en werk je nauwkeurig en punctueel. Met een passie voor administratie, affiniteit voor dossierbeheer en eventueel kennis van vastgoedtransacties, ben jij de professional die wij zoeken.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18704",
       "internal": true,
       "validThroughDate": "1751414400",
@@ -4433,6 +4468,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18574",
+      "internal": true,
+      "validThroughDate": "1752105600",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18574",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Erfgoedinspecteur"
+      },
+      "displayTitle": "Erfgoedinspecteur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je een hart voor ons Vlaams\nerfgoed? Wil je meewerken aan het behoud van dit erfgoed?<br> <br> Als inspecteur Onroerend Erfgoed sta je in voor het toezicht op de naleving en\nde handhaving van de regelgeving onroerend en varend erfgoed. Je komt terecht\nin het team van Omgevingsinspectie Antwerpen binnen de afdeling Handhaving van\nhet Departement Omgeving. Je gebruikt jouw expertise binnen dit team om schendingen tegen het\nOnroerend- en Varenderfgoeddecreet te detecteren, vast te stellen en de\novertreders aan te zetten tot herstel door gepaste maatregelen te nemen.&nbsp; Het spreekt voor zich dat je hierbij oog\ndient te hebben voorde toepasselijke beleidskeuzes, regels en juridische\nconsequenties.<br><br> Naast het inzetten van de gepaste instrumenten om overtreders aan te zetten om\nzich in regel te stellen (bijvoorbeeld herstelvordering of bestuurlijke\nmaatregel), volg je ook de gerechtelijke procedures, die hieruit voortvloeien\nnauwgezet op.&nbsp; Je werkt nauw samen met de\nerfgoedinspecteurs uit de andere provincies en met de erfgoedconsulenten van\nhet agentschap Onroerend Erfgoed.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als\nbijlage bij ‘meer informatie’. Download dit document en hou het bij.<span><br></span></p>",
+        "htmlEncoded": "<p>Heb je een hart voor ons Vlaams\nerfgoed? Wil je meewerken aan het behoud van dit erfgoed?<br> <br> Als inspecteur Onroerend Erfgoed sta je in voor het toezicht op de naleving en\nde handhaving van de regelgeving onroerend en varend erfgoed. Je komt terecht\nin het team van Omgevingsinspectie Antwerpen binnen de afdeling Handhaving van\nhet Departement Omgeving. Je gebruikt jouw expertise binnen dit team om schendingen tegen het\nOnroerend- en Varenderfgoeddecreet te detecteren, vast te stellen en de\novertreders aan te zetten tot herstel door gepaste maatregelen te nemen.&nbsp; Het spreekt voor zich dat je hierbij oog\ndient te hebben voorde toepasselijke beleidskeuzes, regels en juridische\nconsequenties.<br><br> Naast het inzetten van de gepaste instrumenten om overtreders aan te zetten om\nzich in regel te stellen (bijvoorbeeld herstelvordering of bestuurlijke\nmaatregel), volg je ook de gerechtelijke procedures, die hieruit voortvloeien\nnauwgezet op.&nbsp; Je werkt nauw samen met de\nerfgoedinspecteurs uit de andere provincies en met de erfgoedconsulenten van\nhet agentschap Onroerend Erfgoed.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als\nbijlage bij ‘meer informatie’. Download dit document en hou het bij.<span><br></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18568",
       "internal": false,
       "validThroughDate": "1751241600",
@@ -4458,6 +4528,111 @@
       "description": {
         "raw": "<p>Wil jij bijdragen aan de ruimtelijk-economische ontwikkeling van de\nRupelstreek en in het bijzonder ook aan de ontwikkeling van onderbenutte sites\nof brownfields met het oog op het creëren van nieuwe, duurzame werklocaties? <br><br>Als projectadviseur ruimtelijke economie voer je mee het beleid uit\nrond bedrijventerreinen en andere vestigingsmilieus. Specifiek voor de\nRupelstreek impliceert dat ook het zoeken naar en concipiëren van geschikte\nvestigingsmilieus voor activiteiten onder de noemer entertainment technology\nzoals onder meer in het te ontwikkelen terrein De Klamp. Je ondersteunt daarbij\nook de planningsprocessen die andere actoren opstarten en je faciliteert de\nrealisatie van de beoogde projecten. Naast de projecten waar VLAIO een rol in\nopneemt, organiseer je ook de totstandkoming en opvolging van een ruimere\nportfolio aan streekontwikkelingsprojecten.<br><br>VLAIO beschikt over een aantal hefbomen om het\nbedrijfshuisvestingsbeleid te regisseren. Het gaat zowel om het uitbesteden van\nstudiewerk, adviserende bevoegdheden, het toekennen van subsidies en het\nfaciliteren van overleg met andere actoren en regisseurs, bijvoorbeeld in het\nkader van brownfieldconvenanten. Ter bevordering van de\nstreekontwikkelingsdossiers voor de Rupelstreek en specifiek ook de\nontwikkeling van het terrein De Klamp zullen budgetten en instrumenten van\nverschillende overheidsniveaus en beleidsdomeinen gecoördineerd ingezet moeten\nworden vanuit een kader dat door de Vlaamse Regering bekrachtigd wordt.<br><br><strong>Het doel van de functie kan als volgt omschreven worden:</strong></p><ul><li>het detecteren van interessante vestigingsmilieus en streekontwikkelingsdossiers voor de Rupelstreek;</li><li>het mee doorvertalen van de bekommernissen van de verschillende stakeholders tot haalbare ambities voor elk project;</li><li>het bespoedigen van de voortgang en realisatie van de projecten. </li></ul>",
         "htmlEncoded": "<p>Wil jij bijdragen aan de ruimtelijk-economische ontwikkeling van de\nRupelstreek en in het bijzonder ook aan de ontwikkeling van onderbenutte sites\nof brownfields met het oog op het creëren van nieuwe, duurzame werklocaties? <br><br>Als projectadviseur ruimtelijke economie voer je mee het beleid uit\nrond bedrijventerreinen en andere vestigingsmilieus. Specifiek voor de\nRupelstreek impliceert dat ook het zoeken naar en concipiëren van geschikte\nvestigingsmilieus voor activiteiten onder de noemer entertainment technology\nzoals onder meer in het te ontwikkelen terrein De Klamp. Je ondersteunt daarbij\nook de planningsprocessen die andere actoren opstarten en je faciliteert de\nrealisatie van de beoogde projecten. Naast de projecten waar VLAIO een rol in\nopneemt, organiseer je ook de totstandkoming en opvolging van een ruimere\nportfolio aan streekontwikkelingsprojecten.<br><br>VLAIO beschikt over een aantal hefbomen om het\nbedrijfshuisvestingsbeleid te regisseren. Het gaat zowel om het uitbesteden van\nstudiewerk, adviserende bevoegdheden, het toekennen van subsidies en het\nfaciliteren van overleg met andere actoren en regisseurs, bijvoorbeeld in het\nkader van brownfieldconvenanten. Ter bevordering van de\nstreekontwikkelingsdossiers voor de Rupelstreek en specifiek ook de\nontwikkeling van het terrein De Klamp zullen budgetten en instrumenten van\nverschillende overheidsniveaus en beleidsdomeinen gecoördineerd ingezet moeten\nworden vanuit een kader dat door de Vlaamse Regering bekrachtigd wordt.<br><br><strong>Het doel van de functie kan als volgt omschreven worden:</strong></p><ul><li>het detecteren van interessante vestigingsmilieus en streekontwikkelingsdossiers voor de Rupelstreek;</li><li>het mee doorvertalen van de bekommernissen van de verschillende stakeholders tot haalbare ambities voor elk project;</li><li>het bespoedigen van de voortgang en realisatie van de projecten. </li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18562",
+      "internal": true,
+      "validThroughDate": "1752105600",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18562",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel beheerder Vlimpers Talent"
+      },
+      "displayTitle": "Functioneel beheerder Vlimpers Talent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je affiniteit met HR systemen en processen? Ben je vaak bezig met wat beter kan? En werk je graag op het snijvlak van HR en IT? Dan is onderstaande vacature misschien iets voor jou!<br><br> Je hebt als functioneel beheerder een veelzijdig takenpakket. Zo sta je in voor het inhoudelijke en functioneel-technisch beheer van het personeelssysteem Vlimpers Talent. Je zal vooral focussen op<span>&nbsp; </span>de modules Leren en Ploeg, maar ook meewerken aan onder meer Rekrutering.<span>&nbsp; </span>Je bouwt mee aan een klantgerichte dienstverlening door het eerste aanspreekpunt te zijn voor de dossierbeheerders van het Dienstencentrum Personeelsadministratie en het Dienstencentrum Loopbaan inzake complexere en technische vragen. Daarnaast behandel je ook vragen en problemen van selectieverantwoordelijken, leidinggevenden, HRBP’s en personeelsleden en los je incidenten op die binnenkomen via het online contactformulier Vlimpers. <br><br> Je probeert zelfstandig tot oplossingen te komen en je documenteert ze in functie van latere vragen voor jezelf en je collega’s. Wekelijks zit je ook samen met de andere collega’s die verantwoordelijk zijn voor Vlimpers Talent, waar je aan kennisdeling doet en je je buigt over moeilijkere dossiers. <br><br> Je helpt medewerkers om het systeem goed te gebruiken door het opstellen van onder meer handleidingen. Af en toe geef je in deze functie ook training aan medewerkers over een correct gebruik van het systeem.<span>&nbsp; </span>In deze functie werk je veel met mensen, dus sociale vaardigheden zijn belangrijk.<br><br> Verder denk je ook kritisch na over manieren om de functionaliteit te verbeteren. In het kader daarvan zoek je mee naar optimalisaties en werk je mee aan (systeem)testen.<br><br> Solliciteer en zet je skills in als functioneel beheerder bij het Agentschap Overheidspersoneel! <br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Heb je affiniteit met HR systemen en processen? Ben je vaak bezig met wat beter kan? En werk je graag op het snijvlak van HR en IT? Dan is onderstaande vacature misschien iets voor jou!<br><br> Je hebt als functioneel beheerder een veelzijdig takenpakket. Zo sta je in voor het inhoudelijke en functioneel-technisch beheer van het personeelssysteem Vlimpers Talent. Je zal vooral focussen op<span>&nbsp; </span>de modules Leren en Ploeg, maar ook meewerken aan onder meer Rekrutering.<span>&nbsp; </span>Je bouwt mee aan een klantgerichte dienstverlening door het eerste aanspreekpunt te zijn voor de dossierbeheerders van het Dienstencentrum Personeelsadministratie en het Dienstencentrum Loopbaan inzake complexere en technische vragen. Daarnaast behandel je ook vragen en problemen van selectieverantwoordelijken, leidinggevenden, HRBP’s en personeelsleden en los je incidenten op die binnenkomen via het online contactformulier Vlimpers. <br><br> Je probeert zelfstandig tot oplossingen te komen en je documenteert ze in functie van latere vragen voor jezelf en je collega’s. Wekelijks zit je ook samen met de andere collega’s die verantwoordelijk zijn voor Vlimpers Talent, waar je aan kennisdeling doet en je je buigt over moeilijkere dossiers. <br><br> Je helpt medewerkers om het systeem goed te gebruiken door het opstellen van onder meer handleidingen. Af en toe geef je in deze functie ook training aan medewerkers over een correct gebruik van het systeem.<span>&nbsp; </span>In deze functie werk je veel met mensen, dus sociale vaardigheden zijn belangrijk.<br><br> Verder denk je ook kritisch na over manieren om de functionaliteit te verbeteren. In het kader daarvan zoek je mee naar optimalisaties en werk je mee aan (systeem)testen.<br><br> Solliciteer en zet je skills in als functioneel beheerder bij het Agentschap Overheidspersoneel! <br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18561",
+      "internal": true,
+      "validThroughDate": "1752105600",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18561",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Expert applicatiebeheerder"
+      },
+      "displayTitle": "Expert applicatiebeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb jij al ervaring als applicatiebeheerder? Lees dan zeker verder!<br><br> Als expert applicatiebeheerder sta je mee in voor het functioneel en technisch beheer van het personeelssysteem en gerelateerde systemen van de Vlaamse overheid. Het doel is de klanten (gebruikersorganisaties, beleid en andere toepassingen) een geïntegreerd, performant, veilig en gebruiksvriendelijk systeem aan te bieden dat in lijn blijft met de strategische, tactische en operationele doelstellingen.<br><br> Naast het beheren van je eigen module als expert applicatiebeheerder, verbreed jij graag je kennis en ben jij in staat om ook linken en verbanden te leggen met de andere modules van de applicatie. Je verwerft graag een inzicht in het samenspel tussen de verschillende modules en begrijpt de mogelijke impact ervan op elkaar. <br><br> Je beheert onze soft HR applicaties (Cornerstone On Demand),<span>&nbsp;</span>en kan ook linken leggen en interferenties benoemen met zowel de andere soft HR processen, als relevante applicaties die hier rechtstreeks mee gelinkt zijn (apps, leerbibliotheken, autoringtools,…). Je begrijpt de processen van releasewerking en bent in staat om deze in praktijk toe te passen. Je weet hoe wijzigingen de weg van ontwikkeling over test naar productie volgen en respecteert hierbij de aanpak en vereisten naar testing (testscope, testscenario’s, leiden van testsessies, beslissing GO/NOGO,…). Je hebt ook aantoonbare ervaring in SaaS technologie, waar kennis van bovenstaande ALM factoren nog belangrijker zijn. Je bent in staat om de releasedocumentatie van de leverancier door te nemen en deze door te vertalen naar de technische opzet van de toepassing. Je vertaalt deze technische vereisten voor de business en diens processen.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Heb jij al ervaring als applicatiebeheerder? Lees dan zeker verder!<br><br> Als expert applicatiebeheerder sta je mee in voor het functioneel en technisch beheer van het personeelssysteem en gerelateerde systemen van de Vlaamse overheid. Het doel is de klanten (gebruikersorganisaties, beleid en andere toepassingen) een geïntegreerd, performant, veilig en gebruiksvriendelijk systeem aan te bieden dat in lijn blijft met de strategische, tactische en operationele doelstellingen.<br><br> Naast het beheren van je eigen module als expert applicatiebeheerder, verbreed jij graag je kennis en ben jij in staat om ook linken en verbanden te leggen met de andere modules van de applicatie. Je verwerft graag een inzicht in het samenspel tussen de verschillende modules en begrijpt de mogelijke impact ervan op elkaar. <br><br> Je beheert onze soft HR applicaties (Cornerstone On Demand),<span>&nbsp;</span>en kan ook linken leggen en interferenties benoemen met zowel de andere soft HR processen, als relevante applicaties die hier rechtstreeks mee gelinkt zijn (apps, leerbibliotheken, autoringtools,…). Je begrijpt de processen van releasewerking en bent in staat om deze in praktijk toe te passen. Je weet hoe wijzigingen de weg van ontwikkeling over test naar productie volgen en respecteert hierbij de aanpak en vereisten naar testing (testscope, testscenario’s, leiden van testsessies, beslissing GO/NOGO,…). Je hebt ook aantoonbare ervaring in SaaS technologie, waar kennis van bovenstaande ALM factoren nog belangrijker zijn. Je bent in staat om de releasedocumentatie van de leverancier door te nemen en deze door te vertalen naar de technische opzet van de toepassing. Je vertaalt deze technische vereisten voor de business en diens processen.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18560",
+      "internal": true,
+      "validThroughDate": "1752105600",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18560",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Senior IT-projectleider"
+      },
+      "displayTitle": "Senior IT-projectleider",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij sterk in oordeelsvorming? Ben jij klantgericht en planmatig? Heb jij ervaring met projectcoördinatie en IT? Dan ben jij de kandidaat die wij zoeken. </span></p> <p><span>Als IT-projectleider sta jij in voor de coördinatie van strategische IT-projecten, waaronder:</span></p> <ul><li><span>het succesvol <strong>implementeren en beheren van het interoperabele datadelingsaanbod waaronder API's</strong>, en het <strong>uitbreiden van de technische dienstverlening</strong> die hierop gebaseerd is.</span></li><li>alle activiteiten gericht op het succesvol behalen, implementeren en onderhouden van een <strong>security management ecosysteem</strong> conform de <strong>ISO 27001-norm</strong> en het <strong>Cyfun raamwerk en dat in samenwerking met de senior security officer</strong></li></ul> <ul><li><span>coördinatie van IT architectuurstudies</span></li></ul> <ul><li><span>…</span></li></ul> <p><span>Je neemt daarbij ook de rol op van <strong>senior functioneel analist</strong>, zodat de technologische oplossingen goed aansluiten bij de business noden.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij sterk in oordeelsvorming? Ben jij klantgericht en planmatig? Heb jij ervaring met projectcoördinatie en IT? Dan ben jij de kandidaat die wij zoeken. </span></p> <p><span>Als IT-projectleider sta jij in voor de coördinatie van strategische IT-projecten, waaronder:</span></p> <ul><li><span>het succesvol <strong>implementeren en beheren van het interoperabele datadelingsaanbod waaronder API's</strong>, en het <strong>uitbreiden van de technische dienstverlening</strong> die hierop gebaseerd is.</span></li><li>alle activiteiten gericht op het succesvol behalen, implementeren en onderhouden van een <strong>security management ecosysteem</strong> conform de <strong>ISO 27001-norm</strong> en het <strong>Cyfun raamwerk en dat in samenwerking met de senior security officer</strong></li></ul> <ul><li><span>coördinatie van IT architectuurstudies</span></li></ul> <ul><li><span>…</span></li></ul> <p><span>Je neemt daarbij ook de rol op van <strong>senior functioneel analist</strong>, zodat de technologische oplossingen goed aansluiten bij de business noden.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -4663,76 +4838,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18517",
-      "internal": false,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "Departement Onderwijs en Vorming",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18517",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsondersteuner Vlaamse Toetsen"
-      },
-      "displayTitle": "Beleidsondersteuner Vlaamse Toetsen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Jij bent gepassioneerd\ndoor onderwijs en wil meebouwen aan een sterk beleid? Uitdagende projecten\ngeven je energie en je werkt graag met vernieuwende onderwijsthema’s? Dan ben\njij de beleidsondersteuner die we zoeken!</p><p>Binnen de afdeling Strategie en Kennis werk je als beleidsondersteuner Vlaamse Toetsen mee aan een project van indrukwekkende schaal: de jaarlijkse afname van de Vlaamse toetsen bij zo’n 300.000 leerlingen in bijna 4.000 scholen. Het team Vlaamse Toetsen staat in voor de verdere uitrol van deze grootschalige toetsen, de implementatie van nieuw beleid en een vlot georganiseerde afname. En deze functie speelt daarin een centrale rol.</p><p>Als spilfiguur in de praktische organisatie en communicatie zorg je ervoor dat scholen tijdig, helder en correct geïnformeerd worden. Je werkt nauw samen met collega’s van de afdeling Communicatie en beantwoordt vragen van directeurs en toetscoördinatoren. Daarnaast monitor je de voorbereiding van scholen, denk je mee na over verbeteringen en vertaal je die inzichten naar vlottere processen en minder administratie voor het onderwijsveld.</p><p>Ook op het terrein ben je onmisbaar: van het opstellen en opvolgen van planningen tot het mee coördineren van de helpdesk tijdens de afnameperiode. Je schrijft mee aan scripts, ondersteunt nieuwe helpdeskmedewerkers en helpt scholen bij herplanning of registratie van leerlingen. Je bent dus zowel organisator, communicator als probleemoplosser.</p><p>Na afloop van de toetsafname ondersteun je mee de verspreiding van feedback aan scholen én de praktische organisatie van toetsinzage voor ouders en leerlingen.</p><p>Maak mee het verschil in het onderwijs – versterk het team Vlaamse Toetsen!</p>",
-        "htmlEncoded": "<p>Jij bent gepassioneerd\ndoor onderwijs en wil meebouwen aan een sterk beleid? Uitdagende projecten\ngeven je energie en je werkt graag met vernieuwende onderwijsthema’s? Dan ben\njij de beleidsondersteuner die we zoeken!</p><p>Binnen de afdeling Strategie en Kennis werk je als beleidsondersteuner Vlaamse Toetsen mee aan een project van indrukwekkende schaal: de jaarlijkse afname van de Vlaamse toetsen bij zo’n 300.000 leerlingen in bijna 4.000 scholen. Het team Vlaamse Toetsen staat in voor de verdere uitrol van deze grootschalige toetsen, de implementatie van nieuw beleid en een vlot georganiseerde afname. En deze functie speelt daarin een centrale rol.</p><p>Als spilfiguur in de praktische organisatie en communicatie zorg je ervoor dat scholen tijdig, helder en correct geïnformeerd worden. Je werkt nauw samen met collega’s van de afdeling Communicatie en beantwoordt vragen van directeurs en toetscoördinatoren. Daarnaast monitor je de voorbereiding van scholen, denk je mee na over verbeteringen en vertaal je die inzichten naar vlottere processen en minder administratie voor het onderwijsveld.</p><p>Ook op het terrein ben je onmisbaar: van het opstellen en opvolgen van planningen tot het mee coördineren van de helpdesk tijdens de afnameperiode. Je schrijft mee aan scripts, ondersteunt nieuwe helpdeskmedewerkers en helpt scholen bij herplanning of registratie van leerlingen. Je bent dus zowel organisator, communicator als probleemoplosser.</p><p>Na afloop van de toetsafname ondersteun je mee de verspreiding van feedback aan scholen én de praktische organisatie van toetsinzage voor ouders en leerlingen.</p><p>Maak mee het verschil in het onderwijs – versterk het team Vlaamse Toetsen!</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18516",
-      "internal": false,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "Departement Onderwijs en Vorming",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18516",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsondersteuner Onderwijs - Welzijn"
-      },
-      "displayTitle": "Beleidsondersteuner Onderwijs - Welzijn",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij mee het verschil maken voor leerlingen in kwetsbare situaties? Combineer jouw expertise in onderwijs en welzijn in een betekenisvolle beleidsfunctie.</p><p>Zie jij elke dag hoe sommige leerlingen meer nodig hebben dan enkel goed onderwijs? Ben je overtuigd van het belang van sterke leerlingenbegeleiding en een nauwe samenwerking tussen onderwijs en welzijn? Dan is deze functie als beleidsondersteuner leerlingenbegeleiding en zorg iets voor jou.</p><p>Je komt terecht op een strategisch kruispunt waar onderwijs en welzijn elkaar raken. Vanuit jouw rol bouw je mee aan toekomstgericht beleid voor leerlingen die extra zorg of begeleiding nodig hebben. Of het nu gaat om gezondheid en welbevinden op school, ondersteuning van leerlingen met een beperking of de werking van de CLB’s – jij werkt aan maatregelen die echt het verschil maken in het leven van kinderen en jongeren.</p><p>Wat mag je verwachten? Je ontwikkelt en schrijft vernieuwend beleid, werkt regelgevend mee aan decreten en besluiten, en zorgt ervoor dat voorstellen gedragen zijn door partners in het werkveld. Je analyseert cijfers en signalen vanop het terrein en vertaalt die naar gerichte acties. Je volgt de uitvoering van het beleid op, stuurt bij waar nodig en ondersteunt het bredere beleid met heldere communicatie en onderbouwde analyses.</p><p>Je komt terecht in het team Leerlingenbegeleiding en Zorg binnen de afdeling Leerplicht. Samen werken jullie aan beleid rond CLB’s, leerlingen met specifieke onderwijsbehoeften, gewettigde afwezigheden, en andere thema’s op het raakvlak tussen onderwijs en zorg. In deze rol ligt je eerste focus op leerlingenbegeleiding en de werking van de CLB’s.</p><p>Ben jij analytisch sterk, sociaal geëngageerd en gebeten door onderwijs én welzijn? Solliciteer nu en help mee beleid maken dat telt.</p>",
-        "htmlEncoded": "<p>Wil jij mee het verschil maken voor leerlingen in kwetsbare situaties? Combineer jouw expertise in onderwijs en welzijn in een betekenisvolle beleidsfunctie.</p><p>Zie jij elke dag hoe sommige leerlingen meer nodig hebben dan enkel goed onderwijs? Ben je overtuigd van het belang van sterke leerlingenbegeleiding en een nauwe samenwerking tussen onderwijs en welzijn? Dan is deze functie als beleidsondersteuner leerlingenbegeleiding en zorg iets voor jou.</p><p>Je komt terecht op een strategisch kruispunt waar onderwijs en welzijn elkaar raken. Vanuit jouw rol bouw je mee aan toekomstgericht beleid voor leerlingen die extra zorg of begeleiding nodig hebben. Of het nu gaat om gezondheid en welbevinden op school, ondersteuning van leerlingen met een beperking of de werking van de CLB’s – jij werkt aan maatregelen die echt het verschil maken in het leven van kinderen en jongeren.</p><p>Wat mag je verwachten? Je ontwikkelt en schrijft vernieuwend beleid, werkt regelgevend mee aan decreten en besluiten, en zorgt ervoor dat voorstellen gedragen zijn door partners in het werkveld. Je analyseert cijfers en signalen vanop het terrein en vertaalt die naar gerichte acties. Je volgt de uitvoering van het beleid op, stuurt bij waar nodig en ondersteunt het bredere beleid met heldere communicatie en onderbouwde analyses.</p><p>Je komt terecht in het team Leerlingenbegeleiding en Zorg binnen de afdeling Leerplicht. Samen werken jullie aan beleid rond CLB’s, leerlingen met specifieke onderwijsbehoeften, gewettigde afwezigheden, en andere thema’s op het raakvlak tussen onderwijs en zorg. In deze rol ligt je eerste focus op leerlingenbegeleiding en de werking van de CLB’s.</p><p>Ben jij analytisch sterk, sociaal geëngageerd en gebeten door onderwijs én welzijn? Solliciteer nu en help mee beleid maken dat telt.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18497",
       "internal": false,
       "validThroughDate": "1750982400",
@@ -4863,108 +4968,6 @@
       "description": {
         "raw": "<p><span>Ben jij gebeten door techniek én duurzaamheid? Combineer je moeiteloos technische expertise met heldere communicatie? Dan ben jij misschien wel de nieuwe Manager Technieken bij Het Facilitair Bedrijf van de Vlaamse overheid! <br> <br> In deze rol werk je mee aan diverse, maatschappelijk relevante projecten zoals kantoorgebouwen, culturele infrastructuur en natuurbeheer. Je verdiept je in duurzame gebouwinstallaties, bewaakt technische kwaliteit én stuurt externe studiebureaus aan. Bovendien ben je van bij het ontwerp tot op de werf een sleutelfiguur in het projectteam.<br> <br> Als manager technieken word je ingezet binnen een aantal projectteams van middelgrote- en grote projecten. Je bent verantwoordelijk voor het managen van de werkpakketten gerelateerd aan de technieken, het behouden van het overzicht en het bewaken van de vooropgestelde baten en rapporteer je naar de projectmanager van het project, zowel technisch als financieel (inschatten kostprijzen). Binnen jouw takenpakket ligt de focus op de studie fase van het dossier, maar ook tijdens de werffase adviseer je de projectmanager waar nodig. <br> <br> In het begin van een project ben je in staat om samen met de projectmanager de juiste technische noden te detecteren in functie van de noden van de klant. Je bent verantwoordelijk voor de te ondernemen acties en beslissingen welke noodzakelijk zijn om jouw werkpakket tot een goed resultaat te volbrengen.<span>&nbsp; </span>Je managet de taken die toegewezen worden aan externe studiebureaus en architecten. Je controleert de status, volledigheid en kwaliteit van de ontvangen output (vb. technisch dossier) en communiceert hierover regelmatig met de projectmanager. <br> <br> Daarnaast adviseer je ook de projectmanagers die projecten leiden waarbij geen manager technieken is toegewezen.<span>&nbsp; </span>In puur technische dossiers ben je zelf de projectmanager. Door deze grote verscheidenheid aan projecten heb je gevarieerd takenpakket. Als manager technieken ben je zowel in staat om proactief de beste oplossing te kiezen (en te bewaken) als ‘ad hoc’ oplossingen te bedenken voor onverwachtse problemen of situaties die kunnen ontstaan tijdens de werkzaamheden. </span></p> <p><span>Wil je graag nog meer details over het team en de organisatie waar je bij terecht komt? Ga dan zeker naar </span><span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/Team_organisatie_ManagerTechnieken_ExtraLink.pdf\"><span>deze link.</span></a></span><span> <br> <br> Ben je benieuwd naar onze projecten? Neem dan eens een kijkje op </span><span><a href=\"https://www.facebook.com/bouwprojectenvandevlaamseoverheid/\"><span>https://www.facebook.com/bouwprojectenvandevlaamseoverheid/</span></a></span><span> of </span><span><a href=\"http://www.vlaanderen.be/bouwprojecten\"><span>www.vlaanderen.be/bouwprojecten</span></a></span><span>.</span></p> <p><span>&nbsp;</span></p> <p><b><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></b></p><br>",
         "htmlEncoded": "<p><span>Ben jij gebeten door techniek én duurzaamheid? Combineer je moeiteloos technische expertise met heldere communicatie? Dan ben jij misschien wel de nieuwe Manager Technieken bij Het Facilitair Bedrijf van de Vlaamse overheid! <br> <br> In deze rol werk je mee aan diverse, maatschappelijk relevante projecten zoals kantoorgebouwen, culturele infrastructuur en natuurbeheer. Je verdiept je in duurzame gebouwinstallaties, bewaakt technische kwaliteit én stuurt externe studiebureaus aan. Bovendien ben je van bij het ontwerp tot op de werf een sleutelfiguur in het projectteam.<br> <br> Als manager technieken word je ingezet binnen een aantal projectteams van middelgrote- en grote projecten. Je bent verantwoordelijk voor het managen van de werkpakketten gerelateerd aan de technieken, het behouden van het overzicht en het bewaken van de vooropgestelde baten en rapporteer je naar de projectmanager van het project, zowel technisch als financieel (inschatten kostprijzen). Binnen jouw takenpakket ligt de focus op de studie fase van het dossier, maar ook tijdens de werffase adviseer je de projectmanager waar nodig. <br> <br> In het begin van een project ben je in staat om samen met de projectmanager de juiste technische noden te detecteren in functie van de noden van de klant. Je bent verantwoordelijk voor de te ondernemen acties en beslissingen welke noodzakelijk zijn om jouw werkpakket tot een goed resultaat te volbrengen.<span>&nbsp; </span>Je managet de taken die toegewezen worden aan externe studiebureaus en architecten. Je controleert de status, volledigheid en kwaliteit van de ontvangen output (vb. technisch dossier) en communiceert hierover regelmatig met de projectmanager. <br> <br> Daarnaast adviseer je ook de projectmanagers die projecten leiden waarbij geen manager technieken is toegewezen.<span>&nbsp; </span>In puur technische dossiers ben je zelf de projectmanager. Door deze grote verscheidenheid aan projecten heb je gevarieerd takenpakket. Als manager technieken ben je zowel in staat om proactief de beste oplossing te kiezen (en te bewaken) als ‘ad hoc’ oplossingen te bedenken voor onverwachtse problemen of situaties die kunnen ontstaan tijdens de werkzaamheden. </span></p> <p><span>Wil je graag nog meer details over het team en de organisatie waar je bij terecht komt? Ga dan zeker naar </span><span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/Team_organisatie_ManagerTechnieken_ExtraLink.pdf\"><span>deze link.</span></a></span><span> <br> <br> Ben je benieuwd naar onze projecten? Neem dan eens een kijkje op </span><span><a href=\"https://www.facebook.com/bouwprojectenvandevlaamseoverheid/\"><span>https://www.facebook.com/bouwprojectenvandevlaamseoverheid/</span></a></span><span> of </span><span><a href=\"http://www.vlaanderen.be/bouwprojecten\"><span>www.vlaanderen.be/bouwprojecten</span></a></span><span>.</span></p> <p><span>&nbsp;</span></p> <p><b><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></b></p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18072",
-      "internal": true,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18072",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Themaspecialist applicaties"
-      },
-      "displayTitle": "Themaspecialist applicaties",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij je\nIT-vaardigheden inzetten om collega’s optimaal te ondersteunen en wegwijs te\nmaken in interne digitale applicaties? Als medewerker informatica bij het\nAgentschap Innoveren &amp; Ondernemen (VLAIO) speel je een sleutelrol in de\nondersteuning en begeleiding van gebruikers van onze dossier- en CRM-toepassing\nKRIS (Klant &amp; Relatie Informatiesysteem) en onze CRM-toepassing FLOW. Zo\ndraag je bij aan de vlotte digitale werking van onze organisatie.<br>KRIS wordt door zo’n\n400 van de 450 medewerkers gebruikt voor onder andere het registreren van\ncontacten met ondernemingen en het behandelen van subsidiedossiers (van\ndigitale indiening tot beslissingen en uitbetalingen). FLOW wordt gebruikt door\neen 20-tal medewerkers van het Contact Center. Jij zorgt ervoor dat onze\ncollega’s efficiënt met KRIS en FLOW kunnen werken en dat ze de nodige\nondersteuning en vorming krijgen.<br><br><strong>Wat ga je doen?</strong></p><ul><li>Je bent het eerste aanspreekpunt voor\n     vragen over KRIS en FLOW. Je beantwoordt eenvoudige of veelvoorkomende\n     vragen zelf, en zorgt ervoor dat complexere vragen bij de juiste collega\n     terechtkomen.</li><li>Je ontwikkelt en onderhoudt\n     ondersteunende documentatie, zoals FAQ’s en korte handleidingen (ook in\n     videoformaat).</li><li>Je speelt een actieve rol in het\n     opleiden van gebruikers. Je organiseert en geeft opleidingen aan nieuwe\n     collega’s of bij nieuwe functionaliteiten, en zorgt ervoor dat iedereen\n     goed mee is.</li><li>Je test nieuwe ontwikkelingen in KRIS of\n     FLOW en vertaalt deze op een begrijpelijke manier naar de praktijk van de\n     eindgebruikers.</li></ul>",
-        "htmlEncoded": "<p>Wil jij je\nIT-vaardigheden inzetten om collega’s optimaal te ondersteunen en wegwijs te\nmaken in interne digitale applicaties? Als medewerker informatica bij het\nAgentschap Innoveren &amp; Ondernemen (VLAIO) speel je een sleutelrol in de\nondersteuning en begeleiding van gebruikers van onze dossier- en CRM-toepassing\nKRIS (Klant &amp; Relatie Informatiesysteem) en onze CRM-toepassing FLOW. Zo\ndraag je bij aan de vlotte digitale werking van onze organisatie.<br>KRIS wordt door zo’n\n400 van de 450 medewerkers gebruikt voor onder andere het registreren van\ncontacten met ondernemingen en het behandelen van subsidiedossiers (van\ndigitale indiening tot beslissingen en uitbetalingen). FLOW wordt gebruikt door\neen 20-tal medewerkers van het Contact Center. Jij zorgt ervoor dat onze\ncollega’s efficiënt met KRIS en FLOW kunnen werken en dat ze de nodige\nondersteuning en vorming krijgen.<br><br><strong>Wat ga je doen?</strong></p><ul><li>Je bent het eerste aanspreekpunt voor\n     vragen over KRIS en FLOW. Je beantwoordt eenvoudige of veelvoorkomende\n     vragen zelf, en zorgt ervoor dat complexere vragen bij de juiste collega\n     terechtkomen.</li><li>Je ontwikkelt en onderhoudt\n     ondersteunende documentatie, zoals FAQ’s en korte handleidingen (ook in\n     videoformaat).</li><li>Je speelt een actieve rol in het\n     opleiden van gebruikers. Je organiseert en geeft opleidingen aan nieuwe\n     collega’s of bij nieuwe functionaliteiten, en zorgt ervoor dat iedereen\n     goed mee is.</li><li>Je test nieuwe ontwikkelingen in KRIS of\n     FLOW en vertaalt deze op een begrijpelijke manier naar de praktijk van de\n     eindgebruikers.</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17863",
-      "internal": false,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17863",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Applicatiebeheerder HR systemen"
-      },
-      "displayTitle": "Applicatiebeheerder HR systemen",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben jij een ervaren of leergierige persoon met een interesse in HR-processen en digitale systemen? Wil je aan de slag in een stabiele, hybride job bij de Vlaamse overheid?<br><br>Als applicatiebeheerder binnen het Agentschap Overheidspersoneel zorg je ervoor dat de HR-systemen van de Vlaamse overheid (Vlimpers) blijven draaien als een goed geoliede machine. Je duikt in de processen rond verloning, loopbanen en afwezigheden, analyseert fouten, test IT-oplossingen en implementeert IT-verbeteringen. Hiervoor werk je met PeopleSoft HCM en SAP. Daarnaast denk je mee over IT-optimalisaties en volg je technologische innovaties (binnen HR-IT) op de voet.<br><br>Je komt terecht in een multidisciplinair team met een stevige IT/HR-kennis en krijgt de kans om bij te leren en verantwoordelijkheid op te nemen. Je bent geen allesweter, maar wel iemand die graag bijleert, zelfstandig werkt en oplossingsgericht denkt.<br><br>Klaar voor een innoverende en uitdagende job bij de afdeling HR Technologie &amp; Data?&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Ben jij een ervaren of leergierige persoon met een interesse in HR-processen en digitale systemen? Wil je aan de slag in een stabiele, hybride job bij de Vlaamse overheid?<br><br>Als applicatiebeheerder binnen het Agentschap Overheidspersoneel zorg je ervoor dat de HR-systemen van de Vlaamse overheid (Vlimpers) blijven draaien als een goed geoliede machine. Je duikt in de processen rond verloning, loopbanen en afwezigheden, analyseert fouten, test IT-oplossingen en implementeert IT-verbeteringen. Hiervoor werk je met PeopleSoft HCM en SAP. Daarnaast denk je mee over IT-optimalisaties en volg je technologische innovaties (binnen HR-IT) op de voet.<br><br>Je komt terecht in een multidisciplinair team met een stevige IT/HR-kennis en krijgt de kans om bij te leren en verantwoordelijkheid op te nemen. Je bent geen allesweter, maar wel iemand die graag bijleert, zelfstandig werkt en oplossingsgericht denkt.<br><br>Klaar voor een innoverende en uitdagende job bij de afdeling HR Technologie &amp; Data?&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17862",
-      "internal": false,
-      "validThroughDate": "1750636800",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17862",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "IT-developer"
-      },
-      "displayTitle": "IT-developer",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Maak impact met je code – bouw slimme HR-tools voor de Vlaamse overheid</strong><br><br>Ben jij een proactieve, analytische en oplossingsgerichte IT’er met zin in uitdagende projecten? Dan hebben wij dé job voor jou.<br><br>Binnen het Agentschap Overheidspersoneel ontwikkel en onderhoud je als IT-developer innovatieve HR-toepassingen zoals:</p><ul><li>Simulatietools voor loon- en budgetberekeningen</li><li>Automatisaties via Robot Process Automation (RPA)</li><li>Apps voor welzijn, integriteit of re-integratie</li></ul><p><strong>Hoe jouw dag eruitziet:</strong></p><ul><li>Je werkt samen met collega’s uit IT én HR – van IT-analisten tot projectleiders;</li><li>Je denkt mee over technische IT-oplossingen en legt deze helder uit;</li><li>Je volgt trends in IT-softwareontwikkeling op de voet (zoals RPA, integraties...);</li><li>Je bewaakt planning, kwaliteit en efficiëntie in de IT-projecten;</li><li>Je groeit in je rol en wordt mee ambassadeur van digitale innovatie binnen HR.</li></ul><p>Klaar voor een innovatieve job waarin je het verschil maakt?<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p><strong>Maak impact met je code – bouw slimme HR-tools voor de Vlaamse overheid</strong><br><br>Ben jij een proactieve, analytische en oplossingsgerichte IT’er met zin in uitdagende projecten? Dan hebben wij dé job voor jou.<br><br>Binnen het Agentschap Overheidspersoneel ontwikkel en onderhoud je als IT-developer innovatieve HR-toepassingen zoals:</p><ul><li>Simulatietools voor loon- en budgetberekeningen</li><li>Automatisaties via Robot Process Automation (RPA)</li><li>Apps voor welzijn, integriteit of re-integratie</li></ul><p><strong>Hoe jouw dag eruitziet:</strong></p><ul><li>Je werkt samen met collega’s uit IT én HR – van IT-analisten tot projectleiders;</li><li>Je denkt mee over technische IT-oplossingen en legt deze helder uit;</li><li>Je volgt trends in IT-softwareontwikkeling op de voet (zoals RPA, integraties...);</li><li>Je bewaakt planning, kwaliteit en efficiëntie in de IT-projecten;</li><li>Je groeit in je rol en wordt mee ambassadeur van digitale innovatie binnen HR.</li></ul><p>Klaar voor een innovatieve job waarin je het verschil maakt?<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
