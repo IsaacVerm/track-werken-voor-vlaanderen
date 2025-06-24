@@ -1,11 +1,46 @@
 {
-  "totalItems": 155,
+  "totalItems": 156,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 154,
+  "lastItemOfPage": 155,
   "items": [
+    {
+      "link": "/Job/vdab-71381951",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71381951",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Analist Digitale Matching (VDAB) via Vlaanderen Connect."
+      },
+      "displayTitle": "Analist Digitale Matching (VDAB) via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>VDAB zoekt een gedreven analist Digitale Matching om ons team te versterken. In deze boeiende functie speel je een cruciale rol in het optimaliseren van de match tussen vraag en aanbod op de arbeidsmarkt door je expertise in te zetten op het gebied van digitale matchingstechnologieën.</p> \n<p>Wil je een concrete bijdrage leveren aan een inclusieve arbeidsmarkt waar elk talent een kans krijgt op een zinvolle loopbaan? Heb je een sterke interesse in de technische werking van matching algoritmes en wil je samen met diverse partners onze dienstverlening voor werkzoekenden, werknemers en werkgevers verder vormgeven? Dan is dit jouw kans!</p>",
+        "htmlEncoded": "<p>VDAB zoekt een gedreven analist Digitale Matching om ons team te versterken. In deze boeiende functie speel je een cruciale rol in het optimaliseren van de match tussen vraag en aanbod op de arbeidsmarkt door je expertise in te zetten op het gebied van digitale matchingstechnologieën.</p> \n<p>Wil je een concrete bijdrage leveren aan een inclusieve arbeidsmarkt waar elk talent een kans krijgt op een zinvolle loopbaan? Heb je een sterke interesse in de technische werking van matching algoritmes en wil je samen met diverse partners onze dienstverlening voor werkzoekenden, werknemers en werkgevers verder vormgeven? Dan is dit jouw kans!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71364642",
       "internal": false,
@@ -3017,41 +3052,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69310079",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69310079",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "JAVA - Kotlin ontwikkelaar (ATHUMI) via Vlaanderen Connect"
-      },
-      "displayTitle": "JAVA - Kotlin ontwikkelaar (ATHUMI) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong><strong></strong></p> \n<p><span>Bij athumi, het Vlaams Datanutsbedrijf, gaan we op zoek naar een \n<strong>JAVA / Kotlin developer</strong> ter versterking van onze platform delivery afdeling binnen het team van het vastgoedinformatieplatform (VIP). </span></p> \n<p><span>Het Vastgoedinformatieplatform is gelanceerd op 3 oktober 2022 voor een 12-tal gemeenten, notarissen en makelaars en dit met een basisversie. Het project is ondertussen succesvol afgerond en er zijn 300 aangesloten gemeenten samen met alle andere actoren.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als developer wil meewerken aan de transversale processen binnen strategie en ondersteuning? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><span>Ons DNA is doen. Ervaring uit de praktijk en expertise in data, maken dat we steeds de beste oplossing realiseren voor onze klanten. We bieden een optimale werkomgeving voor onze medewerkers die dezelfde passie delen voor oplossingen met een duidelijke maatschappelijke meerwaarde. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Athumi, het Vlaams Datanutsbedrijf, is een recent opgericht agentschap met een sterke focus op digitale transformatie en business acceleratie naar de professionele markt.</span></span></p> \n<p><span><span><br> </span></span><span>Het vastgoedinformatieplatform zit verspreid over Vlaanderen met een focus in Gent. \n<br> </span><span><span>Hybride werken is hierbij zeker mogelijk maar we verwachten dat je minstens 2 keer per week fysiek aanwezig kan zijn in het kantoor van Gent (Virginie Loveling gebouw) en sporadisch deel kan nemen aan meetings in Brussel (gebouw Herman Teirlinck). </span></span></p> \n<p><span>Je komt in een dev-team terecht waar we ervoor kiezen om Extreme Programming toe te passen. \n<br> Dit betekent dat we meestal in ensemble (of mob) werken. </span><span><br> \n<br> </span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong><strong></strong></p> \n<p><span>Bij athumi, het Vlaams Datanutsbedrijf, gaan we op zoek naar een \n<strong>JAVA / Kotlin developer</strong> ter versterking van onze platform delivery afdeling binnen het team van het vastgoedinformatieplatform (VIP). </span></p> \n<p><span>Het Vastgoedinformatieplatform is gelanceerd op 3 oktober 2022 voor een 12-tal gemeenten, notarissen en makelaars en dit met een basisversie. Het project is ondertussen succesvol afgerond en er zijn 300 aangesloten gemeenten samen met alle andere actoren.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als developer wil meewerken aan de transversale processen binnen strategie en ondersteuning? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><span>Ons DNA is doen. Ervaring uit de praktijk en expertise in data, maken dat we steeds de beste oplossing realiseren voor onze klanten. We bieden een optimale werkomgeving voor onze medewerkers die dezelfde passie delen voor oplossingen met een duidelijke maatschappelijke meerwaarde. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Athumi, het Vlaams Datanutsbedrijf, is een recent opgericht agentschap met een sterke focus op digitale transformatie en business acceleratie naar de professionele markt.</span></span></p> \n<p><span><span><br> </span></span><span>Het vastgoedinformatieplatform zit verspreid over Vlaanderen met een focus in Gent. \n<br> </span><span><span>Hybride werken is hierbij zeker mogelijk maar we verwachten dat je minstens 2 keer per week fysiek aanwezig kan zijn in het kantoor van Gent (Virginie Loveling gebouw) en sporadisch deel kan nemen aan meetings in Brussel (gebouw Herman Teirlinck). </span></span></p> \n<p><span>Je komt in een dev-team terecht waar we ervoor kiezen om Extreme Programming toe te passen. \n<br> Dit betekent dat we meestal in ensemble (of mob) werken. </span><span><br> \n<br> </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69136651",
       "internal": false,
       "validThroughDate": "-1",
@@ -3496,6 +3496,41 @@
         {
           "address": {
             "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18802",
+      "internal": false,
+      "validThroughDate": "1752796800",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18802",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist Landbouw"
+      },
+      "displayTitle": "Specialist Landbouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gepassioneerd door landbouw en wil je jouw expertise inzetten voor een duurzame inrichting van onze open ruimte? Dan ben jij misschien de specialist landbouw die wij zoeken! </p><p>Als specialist landbouw bij de dienst Landinrichting en Grondenbank ben jij de brug tussen landbouwpraktijk en ruimtelijke projecten. Je brengt jouw kennis en ervaring in bij de ontwikkeling van inrichtingsprojecten die het landschap versterken én landbouwers perspectief bieden. Je analyseert landbouwgebieden, voert terreinverkenningen uit, spreekt met landbouwers aan de keukentafel en vertaalt hun noden naar concrete maatregelen. Of het nu gaat om het opstellen van landbouwstudies, het adviseren over grondenruil of het inschatten van de impact van bebossing op landbouwactiviteiten – jij zorgt voor onderbouwd advies dat het verschil maakt.</p><p> Concreet zal je een centrale rol opnemen in het opstellen van een landbouwstudie voor de Voerstreek. Deze studie moet inzicht geven in de actuele landbouwstructuur, de uitdagingen en kansen in dit bijzonder waardevolle en tegelijk kwetsbare gebied. Je analyseert het ruimtegebruik, betrekt lokale landbouwers intensief, en formuleert gedragen aanbevelingen die richting geven aan toekomstige ruimtelijke ingrepen en beleid. </p><p>Je werkt nauw samen met collega’s van andere diensten en externe partners. Je bent hun aanspreekpunt voor alles wat met landbouw te maken heeft. Je denkt mee over innovatieve projecten rond landbouwtransitie en bodemkoolstofopbouw, en je neemt een trekkersrol op in thema’s zoals ‘Ruimte voor Voedsel’. Je combineert veldwerk met studiewerk, en je blijft voortdurend op de hoogte van de nieuwste inzichten en regelgeving in de sector. </p><p>Kortom: jij zorgt ervoor dat landbouw een volwaardige plek krijgt in de ruimtelijke ontwikkeling van Vlaanderen. En dat doe je niet alleen met kennis, maar ook met visie, betrokkenheid en een flinke dosis boerenverstand.</p><p> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij gepassioneerd door landbouw en wil je jouw expertise inzetten voor een duurzame inrichting van onze open ruimte? Dan ben jij misschien de specialist landbouw die wij zoeken! </p><p>Als specialist landbouw bij de dienst Landinrichting en Grondenbank ben jij de brug tussen landbouwpraktijk en ruimtelijke projecten. Je brengt jouw kennis en ervaring in bij de ontwikkeling van inrichtingsprojecten die het landschap versterken én landbouwers perspectief bieden. Je analyseert landbouwgebieden, voert terreinverkenningen uit, spreekt met landbouwers aan de keukentafel en vertaalt hun noden naar concrete maatregelen. Of het nu gaat om het opstellen van landbouwstudies, het adviseren over grondenruil of het inschatten van de impact van bebossing op landbouwactiviteiten – jij zorgt voor onderbouwd advies dat het verschil maakt.</p><p> Concreet zal je een centrale rol opnemen in het opstellen van een landbouwstudie voor de Voerstreek. Deze studie moet inzicht geven in de actuele landbouwstructuur, de uitdagingen en kansen in dit bijzonder waardevolle en tegelijk kwetsbare gebied. Je analyseert het ruimtegebruik, betrekt lokale landbouwers intensief, en formuleert gedragen aanbevelingen die richting geven aan toekomstige ruimtelijke ingrepen en beleid. </p><p>Je werkt nauw samen met collega’s van andere diensten en externe partners. Je bent hun aanspreekpunt voor alles wat met landbouw te maken heeft. Je denkt mee over innovatieve projecten rond landbouwtransitie en bodemkoolstofopbouw, en je neemt een trekkersrol op in thema’s zoals ‘Ruimte voor Voedsel’. Je combineert veldwerk met studiewerk, en je blijft voortdurend op de hoogte van de nieuwste inzichten en regelgeving in de sector. </p><p>Kortom: jij zorgt ervoor dat landbouw een volwaardige plek krijgt in de ruimtelijke ontwikkeling van Vlaanderen. En dat doe je niet alleen met kennis, maar ook met visie, betrokkenheid en een flinke dosis boerenverstand.</p><p> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
