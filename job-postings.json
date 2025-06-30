@@ -1,10 +1,10 @@
 {
-  "totalItems": 142,
+  "totalItems": 139,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 141,
+  "lastItemOfPage": 138,
   "items": [
     {
       "link": "/Job/vdab-71398390",
@@ -672,41 +672,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71274307",
-      "internal": false,
-      "validThroughDate": "1751155200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71274307",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "verpleegkundige of sociotherapeut Opname-eenheid 1"
-      },
-      "displayTitle": "verpleegkundige of sociotherapeut Opname-eenheid 1",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, residentiële </span>24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige of sociotherapeut ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, residentiële </span>24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige of sociotherapeut ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71251080",
       "internal": false,
       "validThroughDate": "1751241600",
@@ -924,8 +889,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71136321",
@@ -935,9 +900,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Lead Full-stack Java Developer (AHOVOKS) via Vlaanderen Connect"
+        "htmlEncoded": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect"
       },
-      "displayTitle": "Lead Full-stack Java Developer (AHOVOKS) via Vlaanderen Connect",
+      "displayTitle": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
         "raw": "<p><strong><span>Inleiding </span></strong><strong></strong></p> \n<p><span>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Full-stack Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft.</span></p> \n<p><span>Ben jij een ervaren full-stack developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als \n<strong>lead developer</strong> ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan \n<strong>kritieke publieke systemen</strong> zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen \n<strong>stabiel, performant en toekomstgericht</strong> blijven — met een toekomsthorizon van 2 tot 5 jaar.</span></p> \n<p><span>Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met \n<strong>moderne technologieën</strong> (Angular, Java 21, Spring Boot) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor \n<strong>technische richting, codekwaliteit en mentoring.</strong>Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten.</span></p> \n<p><span>Met jouw ruime ervaring speel je een actieve rol in onze \n<strong>full-stack guild.</strong> Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je \n<strong>coacht collega’s</strong>, bewaakt de technische richting, en \n<strong>zet mee de standaard</strong> voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert als \n<strong>brug tussen development en architectuur</strong>, en hebt een duidelijke stem in </span><span lang=\"nl\">strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</span></p> \n<p><strong>Naar wie zijn wij op zoek?</strong></p> \n<p>We zoeken een \n<strong>ervaren en technisch onderlegde full-stack developer</strong> die beschikt over de \n<strong>maturiteit, visie en communicatieve vaardigheden</strong> om een leidende rol op te nemen binnen ons team en de full-stack guild. Je bent iemand die ownership neemt, actief meedenkt over technische richting en met enthousiasme collega’s begeleidt en laat groeien.</p> \n<p>Je hebt minstens \n<strong>7 jaar ervaring in softwareontwikkeling</strong>, bij voorkeur in verschillende projecten en contexten. Je weet hoe het is om te werken in complexe en schaalbare omgevingen en je hebt mogelijk al ervaring als \n<strong>tech lead of senior teamlid</strong>. Je combineert je brede achtergrond met een \n<strong>diepgaande kennis van Java</strong> (JDK 17–21), en bent vertrouwd met moderne full-stack technologieën.</p>",
@@ -1467,41 +1432,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner ter versterking van het team Data-integratie. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-integratie, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Binnen Data-integratie zoeken wij een Product Owner om het subteam Data-integratie diensten te versterken. Dit subteam richt zich voornamelijk op het ontsluiten van diverse datastromen over meerdere domeinen via de bouwstenen van Digitaal Vlaanderen. De data wordt gebruikt in bedrijfsprocessen en het verstrekken informatie aan diverse overheidsinstanties en burgers. </span></p> \n<p><span>Deze data wordt gebruikt door diverse stakeholders binnen het brede overheidslandschap. Van Federale, vlaamse, lokale entiteiten tot burgers binnen diverse functies.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span><span>Digitaal Vlaanderen is </span></span><span><span>een </span></span><span><span>geëngageerde</span></span><span><span>, </span></span><span><span>klantgerichte </span></span><span><span>businesspartner </span></span><span><span>voor </span></span><span><span>Vlaamse </span></span><span><span>overheidsdiensten </span></span><span><span>en </span></span><span><span>lokale</span></span><span><span>overheden</span></span><span><span>. We </span></span><span><span>bieden</span></span><span><span> hen </span></span><span><span>een </span></span><span><span>voorsprong</span></span><span><span> door </span></span><span><span>digitale </span></span><span><span>oplossingen </span></span><span><span>aan </span></span><span><span>te </span></span><span><span>bieden</span></span><span><span> die </span></span><span><span>binnen </span></span><span><span>een</span></span><span><span> breed </span></span><span><span>en </span></span><span><span>schaalbaar </span></span><span><span>ecosysteem </span></span><span><span>te </span></span><span><span>situeren </span></span><span><span>zijn</span></span><span><span>. Een </span></span><span><span>intelligente </span></span><span><span>en </span></span><span><span>wendbare </span></span><span><span>dienstverlening </span></span><span><span>staat </span></span><span><span>hierbij</span></span><span><span> steeds </span></span><span><span>centraal</span></span><span><span>.</span></span></p> \n<p><span>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als Product Owner krijg je bij ons de kans om mee richting te geven aan onze software en ben je het eerste aanspreekpunt zowel intern als extern naar onze partners toe.</span></p> \n<p><span>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner ter versterking van het team Data-integratie. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-integratie, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Binnen Data-integratie zoeken wij een Product Owner om het subteam Data-integratie diensten te versterken. Dit subteam richt zich voornamelijk op het ontsluiten van diverse datastromen over meerdere domeinen via de bouwstenen van Digitaal Vlaanderen. De data wordt gebruikt in bedrijfsprocessen en het verstrekken informatie aan diverse overheidsinstanties en burgers. </span></p> \n<p><span>Deze data wordt gebruikt door diverse stakeholders binnen het brede overheidslandschap. Van Federale, vlaamse, lokale entiteiten tot burgers binnen diverse functies.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span><span>Digitaal Vlaanderen is </span></span><span><span>een </span></span><span><span>geëngageerde</span></span><span><span>, </span></span><span><span>klantgerichte </span></span><span><span>businesspartner </span></span><span><span>voor </span></span><span><span>Vlaamse </span></span><span><span>overheidsdiensten </span></span><span><span>en </span></span><span><span>lokale</span></span><span><span>overheden</span></span><span><span>. We </span></span><span><span>bieden</span></span><span><span> hen </span></span><span><span>een </span></span><span><span>voorsprong</span></span><span><span> door </span></span><span><span>digitale </span></span><span><span>oplossingen </span></span><span><span>aan </span></span><span><span>te </span></span><span><span>bieden</span></span><span><span> die </span></span><span><span>binnen </span></span><span><span>een</span></span><span><span> breed </span></span><span><span>en </span></span><span><span>schaalbaar </span></span><span><span>ecosysteem </span></span><span><span>te </span></span><span><span>situeren </span></span><span><span>zijn</span></span><span><span>. Een </span></span><span><span>intelligente </span></span><span><span>en </span></span><span><span>wendbare </span></span><span><span>dienstverlening </span></span><span><span>staat </span></span><span><span>hierbij</span></span><span><span> steeds </span></span><span><span>centraal</span></span><span><span>.</span></span></p> \n<p><span>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als Product Owner krijg je bij ons de kans om mee richting te geven aan onze software en ben je het eerste aanspreekpunt zowel intern als extern naar onze partners toe.</span></p> \n<p><span>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70915072",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70915072",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ervaren Cloud Engineer (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Ervaren Cloud Engineer (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse Gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan een deel zich toelegt op infrastructuurbeheer, cloud services en technische architectuur.</span></p> \n<p><span>Als Cloud Engineer maak je deel uit van het team ICT Infrastructuur &amp; Operations – een team van een 12-tal experten die samen instaan voor het beheer, de evolutie en de beveiliging van de volledige ICT-infrastructuur. Binnen dit team werk je nauw samen met collega’s met uiteenlopende specialisaties, waaronder cloud engineers, netwerk- en systeembeheerders en security engineers. Het team werkt in tandem met technische architecten en security experten om te zorgen voor performante, veilige en toekomstgerichte IT-oplossingen.</span></p> \n<p><span>Als Cloud Engineer speel je een sleutelrol in het ontwerpen, implementeren, beheren en optimaliseren van cloudoplossingen binnen onze hybride omgeving (Azure &amp; AWS). Je werkt samen met collega’s uit verschillende teams om onze cloudstrategie verder uit te bouwen en veilige, schaalbare en performante infrastructuurdiensten aan te bieden aan onze interne en externe gebruikers.</span></p> \n<p><span>Je taken omvatten onder meer:</span></p> \n<p><span><span>· </span></span><span>Ontwerpen en uitrollen van cloudinfrastructuur in Azure en AWS.</span></p> \n<p><span><span>· </span></span><span>Beheren en optimaliseren van bestaande cloudomgevingen.</span></p> \n<p><span><span>· </span></span><span>Opzetten van Infrastructure-as-Code (IaC) a.d.h.v. Terraform.</span></p> \n<p><span><span>· </span></span><span>Meewerken aan de migratie van on-premise workloads naar de cloud.</span></p> \n<p><span><span>· </span></span><span>Automatiseren van repetitieve taken via scripting (bijv. PowerShell, Python, Bash).</span></p> \n<p><span><span>· </span></span><span>Opzetten van monitoring, logging en alerting van cloudomgevingen.</span></p> \n<p><span><span>· </span></span><span>Mee bewaken van security en compliance, in samenwerking met onze security experten.</span></p> \n<p><span><span>· </span></span><span>Ondersteunen van applicatieteams bij het gebruik van cloudservices.</span></p> \n<p><span><span>· </span></span><span>Opvolgen van nieuwe ontwikkelingen in cloudtechnologie en vertalen naar voorstellen voor de organisatie.</span></p> \n<p> </p> \n<p><span>Daarnaast ben je actief betrokken in projecten waarbij cloudcomponenten</span><span> worden geïntroduceerd of gewijzigd, en geef je advies bij architecturale keuzes en voor het verhogen van de kostenefficiëntie. Je werkt ook samen met externe partners (zoals leveranciers, Digitaal Vlaanderen, …).</span></p> \n<p> </p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en functioneel aan de ICT Infrastructuur &amp; Operations teamcoördinator of aan de projectleiders van de teams waarmee je werkt in projectmodus</span>.</p>",
-        "htmlEncoded": "<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse Gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan een deel zich toelegt op infrastructuurbeheer, cloud services en technische architectuur.</span></p> \n<p><span>Als Cloud Engineer maak je deel uit van het team ICT Infrastructuur &amp; Operations – een team van een 12-tal experten die samen instaan voor het beheer, de evolutie en de beveiliging van de volledige ICT-infrastructuur. Binnen dit team werk je nauw samen met collega’s met uiteenlopende specialisaties, waaronder cloud engineers, netwerk- en systeembeheerders en security engineers. Het team werkt in tandem met technische architecten en security experten om te zorgen voor performante, veilige en toekomstgerichte IT-oplossingen.</span></p> \n<p><span>Als Cloud Engineer speel je een sleutelrol in het ontwerpen, implementeren, beheren en optimaliseren van cloudoplossingen binnen onze hybride omgeving (Azure &amp; AWS). Je werkt samen met collega’s uit verschillende teams om onze cloudstrategie verder uit te bouwen en veilige, schaalbare en performante infrastructuurdiensten aan te bieden aan onze interne en externe gebruikers.</span></p> \n<p><span>Je taken omvatten onder meer:</span></p> \n<p><span><span>· </span></span><span>Ontwerpen en uitrollen van cloudinfrastructuur in Azure en AWS.</span></p> \n<p><span><span>· </span></span><span>Beheren en optimaliseren van bestaande cloudomgevingen.</span></p> \n<p><span><span>· </span></span><span>Opzetten van Infrastructure-as-Code (IaC) a.d.h.v. Terraform.</span></p> \n<p><span><span>· </span></span><span>Meewerken aan de migratie van on-premise workloads naar de cloud.</span></p> \n<p><span><span>· </span></span><span>Automatiseren van repetitieve taken via scripting (bijv. PowerShell, Python, Bash).</span></p> \n<p><span><span>· </span></span><span>Opzetten van monitoring, logging en alerting van cloudomgevingen.</span></p> \n<p><span><span>· </span></span><span>Mee bewaken van security en compliance, in samenwerking met onze security experten.</span></p> \n<p><span><span>· </span></span><span>Ondersteunen van applicatieteams bij het gebruik van cloudservices.</span></p> \n<p><span><span>· </span></span><span>Opvolgen van nieuwe ontwikkelingen in cloudtechnologie en vertalen naar voorstellen voor de organisatie.</span></p> \n<p> </p> \n<p><span>Daarnaast ben je actief betrokken in projecten waarbij cloudcomponenten</span><span> worden geïntroduceerd of gewijzigd, en geef je advies bij architecturale keuzes en voor het verhogen van de kostenefficiëntie. Je werkt ook samen met externe partners (zoals leveranciers, Digitaal Vlaanderen, …).</span></p> \n<p> </p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en functioneel aan de ICT Infrastructuur &amp; Operations teamcoördinator of aan de projectleiders van de teams waarmee je werkt in projectmodus</span>.</p>"
       },
       "locations": [
         {
@@ -2352,41 +2282,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70475017",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70475017",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data Scientist Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Data Scientist Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Data Scientist Expert</strong> \n<strong>AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je </span><span><span>een sleutelrol kan opnemen in de implementatie van innovatieve datamodellen en algoritmes om specifieke bedrijfsvraagstukken op te lossen?</span></span><span> Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Data Scientist AI&amp;Analytics speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><span><span>Als o</span></span><span><span>nderdeel van de afdeling dataplatform, werd recent een nieuw team Data Insights opgezet. Door het ontsluiten van de kracht van data en AI-technologieën zetten we grote hoeveelheden data om in bruikbare inzichten Dit leidt tot een betere, snellere en efficiëntere data-gedreven dienstverlening. Een intelligente benadering van data, AI-gedreven innovatie en trendanalyse zorgt voor voorspellende inzichten voor strategische besluitvorming.\n<span> </span></span></span></p> \n<p><span><span>Data Insights biedt partners geautomatiseerd advies voor optimale dataminimalisatie en value-driven businesslogica. We bieden waarde door inzichtelijke rapportages en dashboards te leveren. Onze datakwaliteit monitoring garandeert betrouwbare informatie, terwijl benchmarking en trendanalyse helpen bij strategische besluitvorming. Door in te zetten op Data innovatieve technologieën maken we data beter beschikbaar wat de herbruikbaarheid van de data stimuleert. We maken data AI ready via de ontwikkeling van innovatieve tools en bouwblokken die de datakwaliteit verbetert. We bieden een analyse platform en beschermde verwerkingsomgeving waarop op een gecontroleerde en beveiligde manier data kan geanalyseerd worden voor het creëren van data inzichten.</span></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als ervaren \n<strong>Data Scientist</strong> \n<strong>Expert </strong>met AI-kennis heb je een kloppend hart voor kwalitatieve data science en Big Data oplossingen en streef je hierbij ook naar een kwalitatieve en cleane code. Met jouw ervaring, kritische ingesteldheid en analytisch vermogen versterk je het team van data engineers, data scientists, developers, architecten, analisten en projectmanagers. Zo help je de klanten hun data te gebruiken om inzichten te creëren die hen helpen om weloverwogen beslissingen te nemen, bedrijfsresultaten te verbeteren en hun prestaties te versnellen.</span></span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Data Scientist Expert</strong> \n<strong>AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je </span><span><span>een sleutelrol kan opnemen in de implementatie van innovatieve datamodellen en algoritmes om specifieke bedrijfsvraagstukken op te lossen?</span></span><span> Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Data Scientist AI&amp;Analytics speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><span><span>Als o</span></span><span><span>nderdeel van de afdeling dataplatform, werd recent een nieuw team Data Insights opgezet. Door het ontsluiten van de kracht van data en AI-technologieën zetten we grote hoeveelheden data om in bruikbare inzichten Dit leidt tot een betere, snellere en efficiëntere data-gedreven dienstverlening. Een intelligente benadering van data, AI-gedreven innovatie en trendanalyse zorgt voor voorspellende inzichten voor strategische besluitvorming.\n<span> </span></span></span></p> \n<p><span><span>Data Insights biedt partners geautomatiseerd advies voor optimale dataminimalisatie en value-driven businesslogica. We bieden waarde door inzichtelijke rapportages en dashboards te leveren. Onze datakwaliteit monitoring garandeert betrouwbare informatie, terwijl benchmarking en trendanalyse helpen bij strategische besluitvorming. Door in te zetten op Data innovatieve technologieën maken we data beter beschikbaar wat de herbruikbaarheid van de data stimuleert. We maken data AI ready via de ontwikkeling van innovatieve tools en bouwblokken die de datakwaliteit verbetert. We bieden een analyse platform en beschermde verwerkingsomgeving waarop op een gecontroleerde en beveiligde manier data kan geanalyseerd worden voor het creëren van data inzichten.</span></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als ervaren \n<strong>Data Scientist</strong> \n<strong>Expert </strong>met AI-kennis heb je een kloppend hart voor kwalitatieve data science en Big Data oplossingen en streef je hierbij ook naar een kwalitatieve en cleane code. Met jouw ervaring, kritische ingesteldheid en analytisch vermogen versterk je het team van data engineers, data scientists, developers, architecten, analisten en projectmanagers. Zo help je de klanten hun data te gebruiken om inzichten te creëren die hen helpen om weloverwogen beslissingen te nemen, bedrijfsresultaten te verbeteren en hun prestaties te versnellen.</span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70428787",
       "internal": false,
       "validThroughDate": "-1",
@@ -3052,70 +2947,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18857",
-      "internal": false,
-      "validThroughDate": "1751155200",
-      "hiringOrganization": "Departement Zorg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18857",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker Vaccinatie"
-      },
-      "displayTitle": "Beleidsmedewerker Vaccinatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Jouw hoofdtaken in deze functie bestaan uit</p><ul><li>Het\n     coördineren, organiseren en opvolgen van de covid-vaccinatie voor de\n     verschillende doelgroepen en het overkoepelend implementeren van de\n     covid-19 vaccinatie door o.a.:<br>      - Het mee uitwerken van een communicatieplan, dit mee uitvoeren,\n     coördineren en opvolgen<br>      - Het voorbereiden van beleidsnota’s en rapporten over de Covidvaccinatie<br>      - Het voorbereiden, deelnemen of voorzitten van vergaderingen tot\n     voorbereiding van de covid-vaccinatie<br>      - Het voorbereiden van en meewerken aan vaccinatie-initiatieven\n     (rechtstreeks of onrechtstreeks) in het kader van de strijd tegen covid-19<br>      - Het coördineren en opvolgen van de processen m.b.t. de Covidvaccinatie<br>      - Het opvolgen van de stand van zaken van de Covid-19 vaccinatie in de\n     verschillende doelgroepen</li><li>Daarnaast\n     sta je ook voor o.a. volgende taken:<br>      - Je bent de aanspreekpersoon m.b.t. Covidvaccinatie zowel intern als voor\n     externe stakeholders<br>      - Promoten en faciliteren van Vaccinnet<br>      - Vaccinatielevering enstock opvolgen<br>      - Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>      - Communicatie met burgers/vaccinatoren<br>      - Verwerken van cijfergegevens vaccinaties</li></ul>",
-        "htmlEncoded": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.&nbsp;</p><p>Het team Infectieziektebestrijding en vaccinatie draagt bij tot de preventie van infectieziekten.&nbsp;<br><br>Jouw hoofdtaken in deze functie bestaan uit</p><ul><li>Het\n     coördineren, organiseren en opvolgen van de covid-vaccinatie voor de\n     verschillende doelgroepen en het overkoepelend implementeren van de\n     covid-19 vaccinatie door o.a.:<br>      - Het mee uitwerken van een communicatieplan, dit mee uitvoeren,\n     coördineren en opvolgen<br>      - Het voorbereiden van beleidsnota’s en rapporten over de Covidvaccinatie<br>      - Het voorbereiden, deelnemen of voorzitten van vergaderingen tot\n     voorbereiding van de covid-vaccinatie<br>      - Het voorbereiden van en meewerken aan vaccinatie-initiatieven\n     (rechtstreeks of onrechtstreeks) in het kader van de strijd tegen covid-19<br>      - Het coördineren en opvolgen van de processen m.b.t. de Covidvaccinatie<br>      - Het opvolgen van de stand van zaken van de Covid-19 vaccinatie in de\n     verschillende doelgroepen</li><li>Daarnaast\n     sta je ook voor o.a. volgende taken:<br>      - Je bent de aanspreekpersoon m.b.t. Covidvaccinatie zowel intern als voor\n     externe stakeholders<br>      - Promoten en faciliteren van Vaccinnet<br>      - Vaccinatielevering enstock opvolgen<br>      - Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>      - Communicatie met burgers/vaccinatoren<br>      - Verwerken van cijfergegevens vaccinaties</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18856",
-      "internal": false,
-      "validThroughDate": "1751155200",
-      "hiringOrganization": "Departement Zorg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18856",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Administratief Medewerker Vaccinatie"
-      },
-      "displayTitle": "Administratief Medewerker Vaccinatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Jouw hoofdtaken bestaan uit:</p><ul><li>Het mee organiseren van de covid-vaccinatie voor de verschillende doelgroepen en het helpen bij het overkoepelend implementeren van de covid-19 vaccinatie door o.a.:<br>- Het ondersteunen en aanpassen van de bestellingen van covid-vaccins<br>- Het administratief ondersteunen van vaccinatoren zowel telefonisch als via e-mail<br>- Het ondersteunen bij de dagelijks werking rond de covid-19 vaccinatie<br>- Het meewerken aan het opstellen en uitvoeren van de communicatie rond covid-19 vaccinatie&nbsp;<br>- Het voorbereiden, organiseren en ondersteunen (notuleren) van vergaderingen in het kader van de covid-vaccinatie</li><li>Daarnaast sta je ook voor o.a. volgende taken:&nbsp;<br>- Faciliteren van het gebruik van Vaccinnet (het bestel- en registratiesysteem voor vaccins van de Vlaamse overheid)<br>- Meewerken aan de uitrol van het vernieuwde Vaccinnet (2026)<br>- Vaccinatielevering opvolgen<br>- Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>- Communicatie met burgers/vaccinatoren<br><br></li></ul>",
-        "htmlEncoded": "<p>De functie situeert zich binnen het team Infectieziektebestrijding en vaccinatie dat naast het team Gezondheidsbevordering en vroegdetectie en het team Milieugezondheidszorg deel uitmaakt van de afdeling Preventief Gezondheidsbeleid binnen het Departement Zorg.<br><br>Jouw hoofdtaken bestaan uit:</p><ul><li>Het mee organiseren van de covid-vaccinatie voor de verschillende doelgroepen en het helpen bij het overkoepelend implementeren van de covid-19 vaccinatie door o.a.:<br>- Het ondersteunen en aanpassen van de bestellingen van covid-vaccins<br>- Het administratief ondersteunen van vaccinatoren zowel telefonisch als via e-mail<br>- Het ondersteunen bij de dagelijks werking rond de covid-19 vaccinatie<br>- Het meewerken aan het opstellen en uitvoeren van de communicatie rond covid-19 vaccinatie&nbsp;<br>- Het voorbereiden, organiseren en ondersteunen (notuleren) van vergaderingen in het kader van de covid-vaccinatie</li><li>Daarnaast sta je ook voor o.a. volgende taken:&nbsp;<br>- Faciliteren van het gebruik van Vaccinnet (het bestel- en registratiesysteem voor vaccins van de Vlaamse overheid)<br>- Meewerken aan de uitrol van het vernieuwde Vaccinnet (2026)<br>- Vaccinatielevering opvolgen<br>- Informatie verstrekken over vaccinatie aan burgers/vaccinatoren/…<br>- Communicatie met burgers/vaccinatoren<br><br></li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18852",
       "internal": false,
       "validThroughDate": "1752019200",
@@ -3216,41 +3047,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18810",
-      "internal": false,
-      "validThroughDate": "1751155200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18810",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VTS-Operator"
-      },
-      "displayTitle": "VTS-Operator",
-      "isProtected": false,
-      "description": {
-        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
-        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
           }
         }
       ]
@@ -3651,6 +3447,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18681",
+      "internal": true,
+      "validThroughDate": "1752710400",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18681",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR-Generalist"
+      },
+      "displayTitle": "HR-Generalist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een HR-professional met een <strong>brede interesse </strong>binnen personeelsbeleid en organisatieontwikkeling, met in het bijzonder een focus op rekrutering en selectie? Werk je graag mee aan een <strong>kwaliteitsvolle HR-dienstverlening</strong> en neem je vlot de coördinatie van HR-processen en projecten op? Dan ben jij misschien wel de HR-Generalist die we zoeken!<br><br>Het team Personeel en Organisatie van het Departement Cultuur, Jeugd en Media zoekt versterking. We zoeken een collega die zich met enthousiasme inzet voor het begeleiden van selectieprocedures en daarnaast een actieve bijdrage levert aan diverse HR-projecten. <strong>Je schakelt vlot </strong>tussen dagelijkse operationele taken en meer strategische uitdagingen binnen het HR-domein.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je voert interne en externe selectieprocedures uit van voorbereiding tot afronding.</li><li>Je coördineert selectieprocedures in samenwerking met het selectiecentrum van AgO.</li><li>Je werkt actief mee aan de verdere ontwikkeling van het rekruterings-, selectie- en stagebeleid.</li><li>Je bewaakt en coördineert processen rond in-, door- en uitstroom, met aandacht voor de aansluiting bij het talentmanagementbeleid van het departement.</li><li>Je ontwikkelt en implementeert initiatieven op het vlak van prestatiemanagement.</li><li>Je beantwoordt vragen van medewerkers en leidinggevenden over personeelsbeleid en juridische HR-kaders (zoals arbeidsrecht en het VPS).</li><li>Je levert een inhoudelijke bijdrage aan projecten rond HR, leiderschap en organisatieontwikkeling.</li><li>Je ondersteunt collega’s binnen andere HR-expertisedomeinen en fungeert als back-up waar nodig.</li></ul><p>Je maakt deel uit van de cluster Instroom, Ondersteuning en Rapportering, waar je nauw samenwerkt met vijf collega’s binnen een team van twaalf. Samen streven we naar een professionele, klantgerichte en toekomstgerichte HR-aanpak die medewerkers en leidinggevenden optimaal ondersteunt.</p><p>Binnen het departement zetten we samen in op een modern en gedragen HR-beleid dat afgestemd is op de noden van vandaag én morgen.&nbsp; Wil jij als HR-Generalist mee het verschil maken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een HR-professional met een <strong>brede interesse </strong>binnen personeelsbeleid en organisatieontwikkeling, met in het bijzonder een focus op rekrutering en selectie? Werk je graag mee aan een <strong>kwaliteitsvolle HR-dienstverlening</strong> en neem je vlot de coördinatie van HR-processen en projecten op? Dan ben jij misschien wel de HR-Generalist die we zoeken!<br><br>Het team Personeel en Organisatie van het Departement Cultuur, Jeugd en Media zoekt versterking. We zoeken een collega die zich met enthousiasme inzet voor het begeleiden van selectieprocedures en daarnaast een actieve bijdrage levert aan diverse HR-projecten. <strong>Je schakelt vlot </strong>tussen dagelijkse operationele taken en meer strategische uitdagingen binnen het HR-domein.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je voert interne en externe selectieprocedures uit van voorbereiding tot afronding.</li><li>Je coördineert selectieprocedures in samenwerking met het selectiecentrum van AgO.</li><li>Je werkt actief mee aan de verdere ontwikkeling van het rekruterings-, selectie- en stagebeleid.</li><li>Je bewaakt en coördineert processen rond in-, door- en uitstroom, met aandacht voor de aansluiting bij het talentmanagementbeleid van het departement.</li><li>Je ontwikkelt en implementeert initiatieven op het vlak van prestatiemanagement.</li><li>Je beantwoordt vragen van medewerkers en leidinggevenden over personeelsbeleid en juridische HR-kaders (zoals arbeidsrecht en het VPS).</li><li>Je levert een inhoudelijke bijdrage aan projecten rond HR, leiderschap en organisatieontwikkeling.</li><li>Je ondersteunt collega’s binnen andere HR-expertisedomeinen en fungeert als back-up waar nodig.</li></ul><p>Je maakt deel uit van de cluster Instroom, Ondersteuning en Rapportering, waar je nauw samenwerkt met vijf collega’s binnen een team van twaalf. Samen streven we naar een professionele, klantgerichte en toekomstgerichte HR-aanpak die medewerkers en leidinggevenden optimaal ondersteunt.</p><p>Binnen het departement zetten we samen in op een modern en gedragen HR-beleid dat afgestemd is op de noden van vandaag én morgen.&nbsp; Wil jij als HR-Generalist mee het verschil maken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18680",
       "internal": false,
       "validThroughDate": "1754006400",
@@ -3866,6 +3697,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18638",
+      "internal": false,
+      "validThroughDate": "1754006400",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18638",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd ad interim Regio West"
+      },
+      "displayTitle": "Afdelingshoofd ad interim Regio West",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De Vlaamse Waterweg wordt aangestuurd door het directiecomité dat bestaat uit de gedelegeerd bestuurder, de algemeen directeur en de operationeel directeur. Zij leggen verantwoording af aan de Raad van Bestuur. De organisatie zelf bestaat uit zeven afdelingen: afdeling Algemene Ondersteuning, afdeling Commercieel Beheer, afdeling Regio West, afdeling Regio Centraal, afdeling Regio Oost, afdeling Techniek en afdeling Sturing. Aan het hoofd van elke afdeling staat telkens een afdelingshoofd.</span></p> <p><span>Momenteel zijn we op zoek naar een afdelingshoofd voor de afdeling Regio West. </span></p> <p><span>Als afdelingshoofd afdeling Regio West rapporteer je aan de operationeel directeur. Je bent ook lid van de directieraad van De Vlaamse Waterweg, en samen met de andere afdelingshoofden en het directiecomité draag je mee verantwoordelijkheid in het organisatiebreed bepalen en realiseren van de doelstellingen, die onder meer zijn opgenomen in het ondernemingsplan. <br> In deze functie draag je de waarden van de organisatie uit. Je vertegenwoordigt de vennootschap in allerhande overlegfora met interne en externe partners. <br> Daarnaast geef je als afdelingshoofd voornamelijk dagdagelijkse leiding aan de celhoofden en ben je verantwoordelijk voor een goed beheer, verantwoording van de toegekende budgetten en de optimalisering van de werking van de afdeling.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<p><span>De Vlaamse Waterweg wordt aangestuurd door het directiecomité dat bestaat uit de gedelegeerd bestuurder, de algemeen directeur en de operationeel directeur. Zij leggen verantwoording af aan de Raad van Bestuur. De organisatie zelf bestaat uit zeven afdelingen: afdeling Algemene Ondersteuning, afdeling Commercieel Beheer, afdeling Regio West, afdeling Regio Centraal, afdeling Regio Oost, afdeling Techniek en afdeling Sturing. Aan het hoofd van elke afdeling staat telkens een afdelingshoofd.</span></p> <p><span>Momenteel zijn we op zoek naar een afdelingshoofd voor de afdeling Regio West. </span></p> <p><span>Als afdelingshoofd afdeling Regio West rapporteer je aan de operationeel directeur. Je bent ook lid van de directieraad van De Vlaamse Waterweg, en samen met de andere afdelingshoofden en het directiecomité draag je mee verantwoordelijkheid in het organisatiebreed bepalen en realiseren van de doelstellingen, die onder meer zijn opgenomen in het ondernemingsplan. <br> In deze functie draag je de waarden van de organisatie uit. Je vertegenwoordigt de vennootschap in allerhande overlegfora met interne en externe partners. <br> Daarnaast geef je als afdelingshoofd voornamelijk dagdagelijkse leiding aan de celhoofden en ben je verantwoordelijk voor een goed beheer, verantwoording van de toegekende budgetten en de optimalisering van de werking van de afdeling.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18632",
+      "internal": false,
+      "validThroughDate": "1753833600",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18632",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker Filmkeuring"
+      },
+      "displayTitle": "Medewerker Filmkeuring",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een administratieve duizendpoot met oog voor detail én maatschappelijke betrokkenheid? Hou je ervan om financiële en analytische processen in goede banen te leiden, en werk je graag in een context waar mediawijsheid en jeugdbeleid samenkomen? Dan ben jij misschien wel de medewerker filmkeuring die wij zoeken!<br><br>De filmkeuring in België bepaalt voor elke film die in ons land wordt vertoond welke leeftijdsclassificatie van toepassing is en of er mogelijk schadelijke inhoud voor minderjarigen vertoond wordt. Sinds 2019 is er een vernieuwd, Belgisch systeem van filmclassificatie van kracht. Het Departement Cultuur, Jeugd en Media ondersteunt de werking van dit classificatiesysteem.<br><br>Als medewerker filmkeuring ben jij ondergebracht in het “secretariaat filmkeuring” en ben je de spil in de dagelijkse werking van dit systeem. Je zorgt voor een feilloze administratieve opvolging en brengt structuur in afspraken, cijfers en overleg. Je schakelt vlot tussen vergaderingen, klachtenprocedures en budgettaire opvolging, en werkt samen met diverse stakeholders: van producenten en distributeurs tot consumentenorganisaties en collega’s uit andere overheden.<br>&nbsp;<br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je ondersteunt de beleidsmedewerker en de ambtelijke stuurgroep: je bereidt vergaderingen voor, maakt verslagen op en volgt de uitvoering van beslissingen op.</li><li>Je bent verantwoordelijk voor de administratieve en financiële afhandeling van dossiers, onder meer over klachtenbehandeling en filmclassificaties.</li><li>Je staat in voor de opmaak van de begroting, de opvolging van facturen en een correcte rapportering.</li><li>Je informeert en ondersteunt de codeurs (de personen die films beoordelen) en volgt hun werking op.</li><li>Je onderhoudt contacten met stakeholders uit de audiovisuele sector en het brede medialandschap.</li></ul><p>Het gaat om een deeltijdse functie (50%, met werkdagen bespreekbaar in onderling overleg) op basis van een contract van bepaalde duur (1 jaar), met mogelijkheid tot verlenging. De opstart is voorzien rond september 2025.</p>Wil jij mee het verschil maken in het filmclassificatiesysteem van morgen?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>",
+        "htmlEncoded": "<p>Ben jij een administratieve duizendpoot met oog voor detail én maatschappelijke betrokkenheid? Hou je ervan om financiële en analytische processen in goede banen te leiden, en werk je graag in een context waar mediawijsheid en jeugdbeleid samenkomen? Dan ben jij misschien wel de medewerker filmkeuring die wij zoeken!<br><br>De filmkeuring in België bepaalt voor elke film die in ons land wordt vertoond welke leeftijdsclassificatie van toepassing is en of er mogelijk schadelijke inhoud voor minderjarigen vertoond wordt. Sinds 2019 is er een vernieuwd, Belgisch systeem van filmclassificatie van kracht. Het Departement Cultuur, Jeugd en Media ondersteunt de werking van dit classificatiesysteem.<br><br>Als medewerker filmkeuring ben jij ondergebracht in het “secretariaat filmkeuring” en ben je de spil in de dagelijkse werking van dit systeem. Je zorgt voor een feilloze administratieve opvolging en brengt structuur in afspraken, cijfers en overleg. Je schakelt vlot tussen vergaderingen, klachtenprocedures en budgettaire opvolging, en werkt samen met diverse stakeholders: van producenten en distributeurs tot consumentenorganisaties en collega’s uit andere overheden.<br>&nbsp;<br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je ondersteunt de beleidsmedewerker en de ambtelijke stuurgroep: je bereidt vergaderingen voor, maakt verslagen op en volgt de uitvoering van beslissingen op.</li><li>Je bent verantwoordelijk voor de administratieve en financiële afhandeling van dossiers, onder meer over klachtenbehandeling en filmclassificaties.</li><li>Je staat in voor de opmaak van de begroting, de opvolging van facturen en een correcte rapportering.</li><li>Je informeert en ondersteunt de codeurs (de personen die films beoordelen) en volgt hun werking op.</li><li>Je onderhoudt contacten met stakeholders uit de audiovisuele sector en het brede medialandschap.</li></ul><p>Het gaat om een deeltijdse functie (50%, met werkdagen bespreekbaar in onderling overleg) op basis van een contract van bepaalde duur (1 jaar), met mogelijkheid tot verlenging. De opstart is voorzien rond september 2025.</p>Wil jij mee het verschil maken in het filmclassificatiesysteem van morgen?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18629",
       "internal": false,
       "validThroughDate": "1751241600",
@@ -3973,41 +3874,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18601",
-      "internal": false,
-      "validThroughDate": "1751155200",
-      "hiringOrganization": "Departement Zorg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18601",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Gegevensbeheerder Sociale Kaart en Rechtenverkenner"
-      },
-      "displayTitle": "Gegevensbeheerder Sociale Kaart en Rechtenverkenner",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Zorg jij mee voor correcte en actuele informatie over welzijn en gezondheid? Als gegevensbeheerder speel je een cruciale rol in het onderhoud en de kwaliteitsbewaking van twee belangrijke digitale instrumenten: de <a href=\"https://www.desocialekaart.be/\">Sociale Kaart</a> en de <a href=\"https://www.rechtenverkenner.be/home\">Rechtenverkenner</a>. Je zorgt er samen met je team voor dat burgers en hulpverleners snel en vlot hun weg vinden naar correcte en actuele informatie over zorgaanbieders en sociale rechten.<br> <br> Je bouwt mee aan een sterke backoffice en neemt het voortouw in het organiseren en verbeteren van het gegevensbeheer. Je werkt gestructureerd, denkt kritisch mee over datakwaliteit en neemt een coördinerende rol op naar je collega’s. Je onderhoudt actief contact met zorg- en welzijnsorganisaties om hun gegevens up-to-date te houden, en je verdiept je in de verschillende sectoren die in de databanken zijn opgenomen.<br> <br> Ook in de Rechtenverkenner help je mee om de informatie betrouwbaar en bruikbaar te houden, zodat mensen op een toegankelijke manier hun sociale rechten kunnen verkennen. Met jouw oog voor detail en maatschappelijke betrokkenheid maak je écht het verschil.<br><br>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Zorg jij mee voor correcte en actuele informatie over welzijn en gezondheid? Als gegevensbeheerder speel je een cruciale rol in het onderhoud en de kwaliteitsbewaking van twee belangrijke digitale instrumenten: de <a href=\"https://www.desocialekaart.be/\">Sociale Kaart</a> en de <a href=\"https://www.rechtenverkenner.be/home\">Rechtenverkenner</a>. Je zorgt er samen met je team voor dat burgers en hulpverleners snel en vlot hun weg vinden naar correcte en actuele informatie over zorgaanbieders en sociale rechten.<br> <br> Je bouwt mee aan een sterke backoffice en neemt het voortouw in het organiseren en verbeteren van het gegevensbeheer. Je werkt gestructureerd, denkt kritisch mee over datakwaliteit en neemt een coördinerende rol op naar je collega’s. Je onderhoudt actief contact met zorg- en welzijnsorganisaties om hun gegevens up-to-date te houden, en je verdiept je in de verschillende sectoren die in de databanken zijn opgenomen.<br> <br> Ook in de Rechtenverkenner help je mee om de informatie betrouwbaar en bruikbaar te houden, zodat mensen op een toegankelijke manier hun sociale rechten kunnen verkennen. Met jouw oog voor detail en maatschappelijke betrokkenheid maak je écht het verschil.<br><br>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4483,6 +4349,38 @@
         {
           "address": {
             "city": "Sint-Denijs-Westrem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18409",
+      "internal": true,
+      "validThroughDate": "1752796800",
+      "hiringOrganization": "Opgroeien",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18409",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Leidinggevend hoofdnachtwaker"
+      },
+      "displayTitle": "Leidinggevend hoofdnachtwaker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b>Agentschap Opgroeien</b> is op zoek naar een gemotiveerde en ervaren medewerker voor de bevorderingsprocedure tot <b>leidinggevend hoofdnachtwaker</b> binnen de gemeenschapsinstelling <b>‘De Kempen’ en ‘De Grubbe’</b>. Heb jij minstens 8 jaar relevante ervaring en ben je klaar om een leidende rol op te nemen in het nachtteam? Dan is deze functie misschien iets voor jou.</p> <p>Als leidinggevend hoofdnachtwaker draag je de eindverantwoordelijkheid voor het functioneren van het nachtwakersteam. Je zorgt ervoor dat de werking tijdens de nacht veilig, ordelijk en volgens de afgesproken procedures verloopt. Je werkt nauw samen met de directeur ondersteunende diensten, campusverantwoordelijke en andere collega’s binnen de instelling.</p> <p>Je neemt een actieve en coachende rol op in het aansturen van je collega’s, en je bent een voorbeeld in het toepassen van de waarden en normen van het Agentschap Opgroeien.</p> <p><b>Jouw profiel</b></p> <ul type=\"disc\"> <li>Je beschikt over <b>minstens 8 jaar relevante ervaring</b> binnen een gesloten forensische setting met minderjarigen </li> <li>Je hebt een goed inzicht in de leefwereld van jongeren in een gesloten setting</li> <li>Je bent stressbestendig, verantwoordelijk en besluitvaardig</li> <li>Je bent communicatief sterk en kan collega’s motiveren en coachen</li> <li>Je kan zelfstandig werken, maar ook in teamverband leiding geven</li> <li>Je bent bereid om volgens een flexibel uurrooster te werken, inclusief nachten, weekends en feestdagen</li> </ul>",
+        "htmlEncoded": "<p><b>Agentschap Opgroeien</b> is op zoek naar een gemotiveerde en ervaren medewerker voor de bevorderingsprocedure tot <b>leidinggevend hoofdnachtwaker</b> binnen de gemeenschapsinstelling <b>‘De Kempen’ en ‘De Grubbe’</b>. Heb jij minstens 8 jaar relevante ervaring en ben je klaar om een leidende rol op te nemen in het nachtteam? Dan is deze functie misschien iets voor jou.</p> <p>Als leidinggevend hoofdnachtwaker draag je de eindverantwoordelijkheid voor het functioneren van het nachtwakersteam. Je zorgt ervoor dat de werking tijdens de nacht veilig, ordelijk en volgens de afgesproken procedures verloopt. Je werkt nauw samen met de directeur ondersteunende diensten, campusverantwoordelijke en andere collega’s binnen de instelling.</p> <p>Je neemt een actieve en coachende rol op in het aansturen van je collega’s, en je bent een voorbeeld in het toepassen van de waarden en normen van het Agentschap Opgroeien.</p> <p><b>Jouw profiel</b></p> <ul type=\"disc\"> <li>Je beschikt over <b>minstens 8 jaar relevante ervaring</b> binnen een gesloten forensische setting met minderjarigen </li> <li>Je hebt een goed inzicht in de leefwereld van jongeren in een gesloten setting</li> <li>Je bent stressbestendig, verantwoordelijk en besluitvaardig</li> <li>Je bent communicatief sterk en kan collega’s motiveren en coachen</li> <li>Je kan zelfstandig werken, maar ook in teamverband leiding geven</li> <li>Je bent bereid om volgens een flexibel uurrooster te werken, inclusief nachten, weekends en feestdagen</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Everberg"
           }
         }
       ]
