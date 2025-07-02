@@ -1,11 +1,46 @@
 {
-  "totalItems": 131,
+  "totalItems": 133,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 130,
+  "lastItemOfPage": 132,
   "items": [
+    {
+      "link": "/Job/vdab-71434329",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71434329",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Ervaren Database Expert (Wonen in Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Ervaren Database Expert (Wonen in Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren Database Expert / Database Administrator (DBA). Je staat in voor het volledige dagelijks beheer van een set van vnl. SQL Server-gebaseerde database servers. Je hebt een sterke dienstverlenende instelling en kan vlot samenwerken met je belangrijkste interne ‘klanten’: security architect en engineer, DPO, infrastructuurverantwoordelijken, ons BI-team en onze ontwikkelteams.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse Gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan een deel zich toelegt op infrastructuurbeheer, cloud services en technische architectuur.</span></p> \n<p><span>Als DBA maak je deel uit van het team ICT Infrastructuur &amp; Operations – een team van een 12-tal experten die samen instaan voor het beheer, de evolutie en de beveiliging van de volledige ICT-infrastructuur. Binnen dit team werk je nauw samen met collega’s met uiteenlopende specialisaties, waaronder cloud engineers, netwerk- en systeembeheerders en security engineers. Je werkt ook intensief samen met ons Business Intelligence (BI) team – dat onze data warehouse en analytische rapporteringstools beheert – en de diverse agile ontwikkelteams.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren Database Expert / Database Administrator (DBA). Je staat in voor het volledige dagelijks beheer van een set van vnl. SQL Server-gebaseerde database servers. Je hebt een sterke dienstverlenende instelling en kan vlot samenwerken met je belangrijkste interne ‘klanten’: security architect en engineer, DPO, infrastructuurverantwoordelijken, ons BI-team en onze ontwikkelteams.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse Gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan een deel zich toelegt op infrastructuurbeheer, cloud services en technische architectuur.</span></p> \n<p><span>Als DBA maak je deel uit van het team ICT Infrastructuur &amp; Operations – een team van een 12-tal experten die samen instaan voor het beheer, de evolutie en de beveiliging van de volledige ICT-infrastructuur. Binnen dit team werk je nauw samen met collega’s met uiteenlopende specialisaties, waaronder cloud engineers, netwerk- en systeembeheerders en security engineers. Je werkt ook intensief samen met ons Business Intelligence (BI) team – dat onze data warehouse en analytische rapporteringstools beheert – en de diverse agile ontwikkelteams.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71416541",
       "internal": false,
@@ -1372,41 +1407,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70879437",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70879437",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect"
-      },
-      "displayTitle": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p><span> </span>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><span> </span><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70871332",
       "internal": false,
       "validThroughDate": "-1",
@@ -1589,8 +1589,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70836854",
@@ -1607,41 +1607,6 @@
       "description": {
         "raw": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>",
         "htmlEncoded": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70827740",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70827740",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ervaren Testcoördinator (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Ervaren Testcoördinator (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren (senior) Testcoördinator. Je wordt verantwoordelijk voor het plannen, coördineren en (deels) uitvoeren van adequate testactiviteiten en kwaliteitsbewaking van één of meer software development projecten.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. </span><span>Deze dienst staat in voor een optimale ICT-ondersteuning van de business afdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. </span><span>De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan meer dan de helft betrokken zijn in teams en projecten voor applicatieontwikkeling en -onderhoud. De typische setup is daarbij een (insourced of outsourced) ontwikkelteam dat een agile ontwikkelmethodologie volgt en dat aangestuurd wordt door een (interne) projectcoördinator en een product owner. Deze mensen worden onder andere ondersteund door een business analist, een solution architect en een testcoördinator binnen het project/product team.</span></p> \n<p><span>De Testcoördinator (TC) is verantwoordelijk voor het voorbereiden, coördineren en uitvoeren van testactiviteiten met alle betrokken personen binnen het project- (of product) team</span><span>om aan de interne of externe klant gespecialiseerde en goed werkende producten af te leveren. Dit gebeurt in</span><span>nauwe samenwerking met de</span><span>Product Owner</span><span>(PO).</span><span>De Testcoördinator is verantwoordelijk voor het streven naar een kwaliteitsborging binnen de toegewezen opdracht (bv. project of programma) en het signaleren van de gevonden gebreken of beperkingen die deze kwaliteitsborging inperken.</span></p> \n<p><span>De Testcoördinator heeft een organiserende en faciliterende rol betreffende de uitvoer van test activiteiten en een adviserende rol naar de</span><span>Product Owner</span><span>en Project Coördinator/Manager toe.</span></p> \n<p><span>De testcoördinatoren van alle ontwikkelteams maken ook deel uit van een competentie team ‘QA &amp;Testing’, dat gecoördineerd wordt door een QA lead, en verder ook een Senior Test Automator bevat.</span></p> \n<p><span>Wat betreft technologische platformen maken we </span><span>gebruik van SAP voor financiële processen, Case Management en low-code platformen voor dossierbehandeling en workflow-gebaseerde toepassingen, en .NET Core (met zowel on premise als public cloud deployment) voor maatontwikkeling.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren (senior) Testcoördinator. Je wordt verantwoordelijk voor het plannen, coördineren en (deels) uitvoeren van adequate testactiviteiten en kwaliteitsbewaking van één of meer software development projecten.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze arbeidscultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst van Wonen in Vlaanderen. </span><span>Deze dienst staat in voor een optimale ICT-ondersteuning van de business afdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. </span><span>De ICT-dienst telt een 100-tal interne en externe medewerkers, waarvan meer dan de helft betrokken zijn in teams en projecten voor applicatieontwikkeling en -onderhoud. De typische setup is daarbij een (insourced of outsourced) ontwikkelteam dat een agile ontwikkelmethodologie volgt en dat aangestuurd wordt door een (interne) projectcoördinator en een product owner. Deze mensen worden onder andere ondersteund door een business analist, een solution architect en een testcoördinator binnen het project/product team.</span></p> \n<p><span>De Testcoördinator (TC) is verantwoordelijk voor het voorbereiden, coördineren en uitvoeren van testactiviteiten met alle betrokken personen binnen het project- (of product) team</span><span>om aan de interne of externe klant gespecialiseerde en goed werkende producten af te leveren. Dit gebeurt in</span><span>nauwe samenwerking met de</span><span>Product Owner</span><span>(PO).</span><span>De Testcoördinator is verantwoordelijk voor het streven naar een kwaliteitsborging binnen de toegewezen opdracht (bv. project of programma) en het signaleren van de gevonden gebreken of beperkingen die deze kwaliteitsborging inperken.</span></p> \n<p><span>De Testcoördinator heeft een organiserende en faciliterende rol betreffende de uitvoer van test activiteiten en een adviserende rol naar de</span><span>Product Owner</span><span>en Project Coördinator/Manager toe.</span></p> \n<p><span>De testcoördinatoren van alle ontwikkelteams maken ook deel uit van een competentie team ‘QA &amp;Testing’, dat gecoördineerd wordt door een QA lead, en verder ook een Senior Test Automator bevat.</span></p> \n<p><span>Wat betreft technologische platformen maken we </span><span>gebruik van SAP voor financiële processen, Case Management en low-code platformen voor dossierbehandeling en workflow-gebaseerde toepassingen, en .NET Core (met zowel on premise als public cloud deployment) voor maatontwikkeling.</span></p>"
       },
       "locations": [
         {
@@ -2790,9 +2755,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Scheepvaartbegeleider - Hasselt"
+        "htmlEncoded": "Scheepvaartbegeleider Buffer - Hasselt"
       },
-      "displayTitle": "Scheepvaartbegeleider - Hasselt",
+      "displayTitle": "Scheepvaartbegeleider Buffer - Hasselt",
       "isProtected": false,
       "description": {
         "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>",
@@ -2802,6 +2767,41 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18920",
+      "internal": false,
+      "validThroughDate": "1752624000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18920",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider Buffer - Zemst"
+      },
+      "displayTitle": "Scheepvaartbegeleider Buffer - Zemst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
+        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
           }
         }
       ]
@@ -3141,7 +3141,7 @@
         },
         {
           "address": {
-            "city": ""
+            "city": "Antwerpen"
           }
         }
       ]
@@ -3236,7 +3236,67 @@
         },
         {
           "address": {
-            "city": ""
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18808",
+      "internal": false,
+      "validThroughDate": "1754179200",
+      "hiringOrganization": "Agentschap Binnenlands Bestuur",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18808",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar binnenland"
+      },
+      "displayTitle": "Dossierbehandelaar binnenland",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het Agentschap Binnenlands Bestuur <strong>bouwt mee aan duurzaam en democratisch samenleven in diversiteit door burgers en bestuur te verbinden en te versterken</strong>. We zijn hét aanspreekpunt van de lokale en provinciale besturen, van Alveringem tot Zaventem.&nbsp;<br><br><strong>Zin om ons agentschap te komen versterken?</strong> Twijfel dan niet langer, want onze afdeling Lokale Werking, Organisatie en Personeel – kortweg LOWP - is op zoek naar <strong>enthousiaste en gedreven dossierbehandelaars om onze lokale besturen te ondersteunen</strong> en mee te werken aan maatschappelijke en bestuurlijke uitdagingen op lokaal niveau.</p><p>Als kenniswerker ben je samen met je collega-dossierbehandelaars en beleidsmedewerkers werkzaam rond het beleidsveld Binnenlands Bestuur. Een greep uit het takenpakket:</p><ul><li>Je <strong>biedt advies</strong> over de werking, organisatie en het personeel van onze 285 Vlaamse besturen.</li><li>Je staat in voor de <strong>klachtenbehandeling van burgers</strong> over diezelfde werking, organisatie en personeel. Je onderzoekt en behandelt cases op basis van geldende regelgeving, beleid en feitenonderzoek. Op basis van je onderzoek en voorstel neemt de bevoegde gouverneur of minister dan een beslissing over de klacht.&nbsp;</li><li>Je<strong> draagt je steentje bij aan de beleidsprojecten</strong> binnen het beleidsdomein en beantwoordt (beleids)vragen van belangengroepen, het kabinet, parlement en werkt mee aan beleidsprojecten;&nbsp;</li><li>Je onderhoudt <strong>dagelijkse contacten met lokale besturen</strong> en andere stakeholders.</li><li>Je bouwt actief kennis op over het beleidsveld Binnenland en deelt die kennis met je collega’s binnen en buiten je eigen team.</li></ul><p>Dit takenpakket neem je op te midden van een geëngageerd team waar samenwerking en kennisdeling centraal staan. Je krijgt de kans om vanuit je juridische expertise impact te hebben op het lokale bestuur landschap in Vlaanderen.&nbsp;</p><p>Je komt terecht in een moderne werkomgeving waar welzijn en persoonlijke groei belangrijk zijn. Daarnaast werkt het agentschap hybride: afhankelijk van je takenpakket kan je van thuis uit werken of op een van onze locaties in Antwerpen, Brugge, Brussel, Gent, Hasselt en/of Leuven.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Het Agentschap Binnenlands Bestuur <strong>bouwt mee aan duurzaam en democratisch samenleven in diversiteit door burgers en bestuur te verbinden en te versterken</strong>. We zijn hét aanspreekpunt van de lokale en provinciale besturen, van Alveringem tot Zaventem.&nbsp;<br><br><strong>Zin om ons agentschap te komen versterken?</strong> Twijfel dan niet langer, want onze afdeling Lokale Werking, Organisatie en Personeel – kortweg LOWP - is op zoek naar <strong>enthousiaste en gedreven dossierbehandelaars om onze lokale besturen te ondersteunen</strong> en mee te werken aan maatschappelijke en bestuurlijke uitdagingen op lokaal niveau.</p><p>Als kenniswerker ben je samen met je collega-dossierbehandelaars en beleidsmedewerkers werkzaam rond het beleidsveld Binnenlands Bestuur. Een greep uit het takenpakket:</p><ul><li>Je <strong>biedt advies</strong> over de werking, organisatie en het personeel van onze 285 Vlaamse besturen.</li><li>Je staat in voor de <strong>klachtenbehandeling van burgers</strong> over diezelfde werking, organisatie en personeel. Je onderzoekt en behandelt cases op basis van geldende regelgeving, beleid en feitenonderzoek. Op basis van je onderzoek en voorstel neemt de bevoegde gouverneur of minister dan een beslissing over de klacht.&nbsp;</li><li>Je<strong> draagt je steentje bij aan de beleidsprojecten</strong> binnen het beleidsdomein en beantwoordt (beleids)vragen van belangengroepen, het kabinet, parlement en werkt mee aan beleidsprojecten;&nbsp;</li><li>Je onderhoudt <strong>dagelijkse contacten met lokale besturen</strong> en andere stakeholders.</li><li>Je bouwt actief kennis op over het beleidsveld Binnenland en deelt die kennis met je collega’s binnen en buiten je eigen team.</li></ul><p>Dit takenpakket neem je op te midden van een geëngageerd team waar samenwerking en kennisdeling centraal staan. Je krijgt de kans om vanuit je juridische expertise impact te hebben op het lokale bestuur landschap in Vlaanderen.&nbsp;</p><p>Je komt terecht in een moderne werkomgeving waar welzijn en persoonlijke groei belangrijk zijn. Daarnaast werkt het agentschap hybride: afhankelijk van je takenpakket kan je van thuis uit werken of op een van onze locaties in Antwerpen, Brugge, Brussel, Gent, Hasselt en/of Leuven.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
           }
         }
       ]
@@ -3842,6 +3902,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18625",
+      "internal": true,
+      "validThroughDate": "1753401600",
+      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18625",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamleider security"
+      },
+      "displayTitle": "Teamleider security",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Plantentuin Meise zoekt een ervaren en gedreven Teamleader Security. In deze rol ben je verantwoordelijk voor de beveiliging van onze collecties en infrastructuur en de veiligheid van onze bezoekers en medewerkers. Je bent meewerkend leidinggevende binnen het securityteam, ontwikkelt en implementeert procedures en grijpt kordaat in bij incidenten of noodgevallen.</p><p> Je hebt relevante ervaring in een leidinggevende functie binnen de bewaking, denkt proactief en communiceert helder. Wij bieden een unieke werkplek in het hart van een groene, inspirerende omgeving, met ruimte voor groei en ontwikkeling.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Plantentuin Meise zoekt een ervaren en gedreven Teamleader Security. In deze rol ben je verantwoordelijk voor de beveiliging van onze collecties en infrastructuur en de veiligheid van onze bezoekers en medewerkers. Je bent meewerkend leidinggevende binnen het securityteam, ontwikkelt en implementeert procedures en grijpt kordaat in bij incidenten of noodgevallen.</p><p> Je hebt relevante ervaring in een leidinggevende functie binnen de bewaking, denkt proactief en communiceert helder. Wij bieden een unieke werkplek in het hart van een groene, inspirerende omgeving, met ruimte voor groei en ontwikkeling.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Meise"
           }
         }
       ]
