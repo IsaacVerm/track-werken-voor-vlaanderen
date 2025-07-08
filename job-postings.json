@@ -1,11 +1,81 @@
 {
-  "totalItems": 119,
+  "totalItems": 122,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 118,
+  "lastItemOfPage": 121,
   "items": [
+    {
+      "link": "/Job/vdab-71482011",
+      "internal": false,
+      "validThroughDate": "1756598400",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71482011",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Psychiatrisch verpleegkundige Merksplas"
+      },
+      "displayTitle": "Psychiatrisch verpleegkundige Merksplas",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>OPZC Rekem werft psychiatrisch verpleegkundigen aan voor de psychiatrische eenheden in de strafinstelling te Merksplas.</p> \n<p><strong>Jouw functie</strong></p> \n<ul> \n<li>Je biedt psychiatrische opvang aan geïnterneerden met een onstabiel toestandsbeeld.</li> \n<li>Je observeert, maakt inschattingen van de verpleegkundige noden van de gedetineerde patiënt.</li> \n<li>Je begeleidt de forensische patiënt tot een stabilisering van het toestandsbeeld en tot een grotere handelingsbekwaamheid.</li> \n<li>Je hebt een continue waakfunctie en toezicht tijdens de begeleiding (24u/24u), met voortdurende inschatting van de kans op acting out gezien het onstabiele toestandsbeeld van de patiënt.</li> \n<li>Je neemt verpleegkundige zorgtaken/verpleegtechnische taken op.</li> \n<li>Je verleent advies op vlak van oriëntatie.</li> </ul>",
+        "htmlEncoded": "<p>OPZC Rekem werft psychiatrisch verpleegkundigen aan voor de psychiatrische eenheden in de strafinstelling te Merksplas.</p> \n<p><strong>Jouw functie</strong></p> \n<ul> \n<li>Je biedt psychiatrische opvang aan geïnterneerden met een onstabiel toestandsbeeld.</li> \n<li>Je observeert, maakt inschattingen van de verpleegkundige noden van de gedetineerde patiënt.</li> \n<li>Je begeleidt de forensische patiënt tot een stabilisering van het toestandsbeeld en tot een grotere handelingsbekwaamheid.</li> \n<li>Je hebt een continue waakfunctie en toezicht tijdens de begeleiding (24u/24u), met voortdurende inschatting van de kans op acting out gezien het onstabiele toestandsbeeld van de patiënt.</li> \n<li>Je neemt verpleegkundige zorgtaken/verpleegtechnische taken op.</li> \n<li>Je verleent advies op vlak van oriëntatie.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71479152",
+      "internal": false,
+      "validThroughDate": "1753660800",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71479152",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Ergotherapeut"
+      },
+      "displayTitle": "Ergotherapeut",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als ergotherapeut maak je deel uit van een team waarbinnen interdisciplinair samenwerken en presentie basisvoorwaarden zijn.</p> \n<p><span>We verwachten van jou</span></p> \n<ul> \n<li>Individuele begeleiding van zorgvragers</li> \n<li>In kaart brengen van individuele mogelijkheden, interesses en noden van zorgvragers</li> \n<li>Ondersteunen bij ADL, vrijetijdsbesteding, sociale interacties,...</li> \n<li>Oefenen van vaardigheden zoals omgaan met prikkels, sociale vaardigheden, aspecten van de ADL,...</li> \n<li>Samen met de zorgvrager onderzoeken wat voor hem/haar betekenisvol is, gelukkig maakt, hoe hij/zij kan ontspannen,…</li> \n<li>Groepswerking en activering</li> \n<li>Organiseren en begeleiden van groepsgerichte activiteiten (hippotherapie, creatieve sessies, huishoudelijke taken, uitstappen in kleine groep,...)</li> \n<li>Samenwerking in een multidisciplinair team</li> \n<li>Adviseren over waardevolle activering, ergonomie, omgevingsaanpassingen en het omgaan met specifieke noden van zorgvragers</li> \n<li>Bijdragen aan behandelplannen</li> \n<li>Het mee uitdragen van het therapeutisch klimaat</li> \n<li>Materiële en omgevingsaanpassingen</li> \n<li>Evalueren en adviseren rond hulpmiddelen en individuele ergonomische noden (comfortzorg). Hiervoor het aanspreekpunt zijn voor het team.</li> \n<li>Ondersteunen in het creëren van een veilige, rustgevende en functionele omgeving.</li> \n<li>Communicatie: Schriftelijk en mondeling rapportage van observaties en noden</li> \n<li>Actieve deelname aan teamvergaderingen en andere multidisciplinaire overlegmomenten.</li> </ul>",
+        "htmlEncoded": "<p>Als ergotherapeut maak je deel uit van een team waarbinnen interdisciplinair samenwerken en presentie basisvoorwaarden zijn.</p> \n<p><span>We verwachten van jou</span></p> \n<ul> \n<li>Individuele begeleiding van zorgvragers</li> \n<li>In kaart brengen van individuele mogelijkheden, interesses en noden van zorgvragers</li> \n<li>Ondersteunen bij ADL, vrijetijdsbesteding, sociale interacties,...</li> \n<li>Oefenen van vaardigheden zoals omgaan met prikkels, sociale vaardigheden, aspecten van de ADL,...</li> \n<li>Samen met de zorgvrager onderzoeken wat voor hem/haar betekenisvol is, gelukkig maakt, hoe hij/zij kan ontspannen,…</li> \n<li>Groepswerking en activering</li> \n<li>Organiseren en begeleiden van groepsgerichte activiteiten (hippotherapie, creatieve sessies, huishoudelijke taken, uitstappen in kleine groep,...)</li> \n<li>Samenwerking in een multidisciplinair team</li> \n<li>Adviseren over waardevolle activering, ergonomie, omgevingsaanpassingen en het omgaan met specifieke noden van zorgvragers</li> \n<li>Bijdragen aan behandelplannen</li> \n<li>Het mee uitdragen van het therapeutisch klimaat</li> \n<li>Materiële en omgevingsaanpassingen</li> \n<li>Evalueren en adviseren rond hulpmiddelen en individuele ergonomische noden (comfortzorg). Hiervoor het aanspreekpunt zijn voor het team.</li> \n<li>Ondersteunen in het creëren van een veilige, rustgevende en functionele omgeving.</li> \n<li>Communicatie: Schriftelijk en mondeling rapportage van observaties en noden</li> \n<li>Actieve deelname aan teamvergaderingen en andere multidisciplinaire overlegmomenten.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71477321",
       "internal": false,
@@ -1267,41 +1337,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70793674",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70793674",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scrum Team lead (Departement Omgeving) via Vlaanderen Connect"
-      },
-      "displayTitle": "Scrum Team lead (Departement Omgeving) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden? Lees dan verder of deze functie bij je past.</span></span></p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>",
-        "htmlEncoded": "<p><span><span lang=\"NL\">Heb je ervaring als teamlead in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden? Lees dan verder of deze functie bij je past.</span></span></p> \n<p><span><span lang=\"NL\">Het Departement Omgeving werkt op basis van een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</span></span></p> \n<p><span><span lang=\"NL\">Ter versterking van haar werking zoekt het departement een Team Lead die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden.</span></span></p> \n<p><span>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies. </span></p> \n<p><span>Team Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70730458",
       "internal": false,
       "validThroughDate": "-1",
@@ -2277,6 +2312,73 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18961",
+      "internal": false,
+      "validThroughDate": "1754524800",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 6,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18961",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "6 onafhankelijke bestuurders raad van bestuur VLM"
+      },
+      "displayTitle": "6 onafhankelijke bestuurders raad van bestuur VLM",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><span><font size=\"2\">Onder het motto ‘Samen versterken we de open ruimte’ maakt de VLM werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland. Daarvoor verbinden we landbouw- en milieudoelen, investeren we in complexe openruimtedossiers en faciliteren we samenwerkingsverbanden in de open ruimte. Om een verschil te maken op het terrein zetten we sterke gebiedsgerichte en geïntegreerde instrumenten in.</font></span></span></p><p><span><span size=\"4\"><font size=\"2\">Samen met landbouwers, natuurverenigingen, regionale landschappen, gemeenten, provincies, Vlaamse en Europese partners, bedrijven, onderzoekers, burgers en lokale gemeenschappen:</font></span></span></p><ul type=\"disc\"><li><span><span><font size=\"2\">geven we het openruimtebeleid, het plattelandsbeleid, het dorpenbeleid en het mestbeleid mee vorm</font></span></span></li><li><span><span><font size=\"2\">dragen we bij aan de realisatie van Europese en Vlaamse natuur- en milieudoelen</font></span></span></li><li><span><span><font size=\"2\">stimuleren we landbouwers om inspanningen te leveren voor de natuur</font></span></span></li><li><span><span><font size=\"2\">zorgen we voor proper water</font></span></span></li><li><span><span><font size=\"2\">houden we toezicht op het mestgebruik</font></span></span></li><li><span><span><font size=\"2\">kopen, verkopen en ruilen we gronden om de open ruimte te versterken</font></span></span></li><li><span><span><font size=\"2\">maken we de open ruimte aantrekkelijker voor fauna en flora</font></span></span></li><li><span><span><font size=\"2\">gaan we erosie en overstromingen tegen</font></span></span></li><li><span><span><font size=\"2\">zorgen we voor waterberging in het landschap</font></span></span></li><li><span><span><font size=\"2\">leggen we stadsrandbossen, speelbossen en andere groengebieden aan</font></span></span></li><li><span><span><font size=\"2\">leggen we wandel- en fietsverbindingen aan</font></span></span></li><li><span><span><font size=\"2\">installeren we onthaalinfrastructuur</font></span></span></li><li><span><span><font size=\"2\">breken we overtollige verharding op</font></span></span></li><li><span><span><font size=\"2\">ondersteunen we partners bij het uitwerken van lokale initiatieven.</font></span></span></li></ul><p><span><span size=\"4\"><font size=\"2\"><br></font></span></span></p><p><span><span><font size=\"2\">Zo bieden we een antwoord op maatschappelijke uitdagingen zoals de klimaatverandering, de achteruitgang van de bodem- en waterkwaliteit, de afname van de biodiversiteit en de leefbaarheid op het platteland.</font></span></span></p><p><span><span size=\"4\"><font size=\"2\"><span>Onze bedrijfscultuur wordt gekenmerkt door 4&nbsp;</span><span>waarden</span><span>: openheid, daadkracht, vertrouwen en wendbaarheid.</span></font></span></span></p><p><span><span size=\"4\"><font size=\"2\">De VLM is een extern verzelfstandigd agentschap van de Vlaamse overheid en tevens een naamloze vennootschap van publiek recht, ingedeeld bij het beleidsdomein Omgeving en stelt ongeveer 600 personeelsleden te werk via 6 vestigingen te Brugge, Gent, Brussel, Leuven, Herentals en Hasselt. De VLM heeft naast een algemene vergadering ook een raad van bestuur.</font></span></span></p><p><span><span><font size=\"2\">De raad van bestuur van de VLM bestaat uit 17 leden:</font></span></span></p><ul><li><span><span><font size=\"2\">5 bestuurders aangesteld door de Vlaamse Regering op voordracht van de Vlaamse provincies;</font></span></span></li></ul><ul><li><span><span><font size=\"2\">6 bestuurders aangesteld op voordracht van de Vlaamse Regering;</font></span></span></li></ul><ul><li><span><span><font size=\"2\">6 onafhankelijke bestuurders aangesteld door de Vlaamse Regering op voordracht van de raad van bestuur.</font></span></span></li></ul><p><span><span><font size=\"2\">Het toezicht wordt uitgeoefend door 2 regeringscommissarissen.</font></span></span></p>",
+        "htmlEncoded": "<p><span><span><font size=\"2\">Onder het motto ‘Samen versterken we de open ruimte’ maakt de VLM werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland. Daarvoor verbinden we landbouw- en milieudoelen, investeren we in complexe openruimtedossiers en faciliteren we samenwerkingsverbanden in de open ruimte. Om een verschil te maken op het terrein zetten we sterke gebiedsgerichte en geïntegreerde instrumenten in.</font></span></span></p><p><span><span size=\"4\"><font size=\"2\">Samen met landbouwers, natuurverenigingen, regionale landschappen, gemeenten, provincies, Vlaamse en Europese partners, bedrijven, onderzoekers, burgers en lokale gemeenschappen:</font></span></span></p><ul type=\"disc\"><li><span><span><font size=\"2\">geven we het openruimtebeleid, het plattelandsbeleid, het dorpenbeleid en het mestbeleid mee vorm</font></span></span></li><li><span><span><font size=\"2\">dragen we bij aan de realisatie van Europese en Vlaamse natuur- en milieudoelen</font></span></span></li><li><span><span><font size=\"2\">stimuleren we landbouwers om inspanningen te leveren voor de natuur</font></span></span></li><li><span><span><font size=\"2\">zorgen we voor proper water</font></span></span></li><li><span><span><font size=\"2\">houden we toezicht op het mestgebruik</font></span></span></li><li><span><span><font size=\"2\">kopen, verkopen en ruilen we gronden om de open ruimte te versterken</font></span></span></li><li><span><span><font size=\"2\">maken we de open ruimte aantrekkelijker voor fauna en flora</font></span></span></li><li><span><span><font size=\"2\">gaan we erosie en overstromingen tegen</font></span></span></li><li><span><span><font size=\"2\">zorgen we voor waterberging in het landschap</font></span></span></li><li><span><span><font size=\"2\">leggen we stadsrandbossen, speelbossen en andere groengebieden aan</font></span></span></li><li><span><span><font size=\"2\">leggen we wandel- en fietsverbindingen aan</font></span></span></li><li><span><span><font size=\"2\">installeren we onthaalinfrastructuur</font></span></span></li><li><span><span><font size=\"2\">breken we overtollige verharding op</font></span></span></li><li><span><span><font size=\"2\">ondersteunen we partners bij het uitwerken van lokale initiatieven.</font></span></span></li></ul><p><span><span size=\"4\"><font size=\"2\"><br></font></span></span></p><p><span><span><font size=\"2\">Zo bieden we een antwoord op maatschappelijke uitdagingen zoals de klimaatverandering, de achteruitgang van de bodem- en waterkwaliteit, de afname van de biodiversiteit en de leefbaarheid op het platteland.</font></span></span></p><p><span><span size=\"4\"><font size=\"2\"><span>Onze bedrijfscultuur wordt gekenmerkt door 4&nbsp;</span><span>waarden</span><span>: openheid, daadkracht, vertrouwen en wendbaarheid.</span></font></span></span></p><p><span><span size=\"4\"><font size=\"2\">De VLM is een extern verzelfstandigd agentschap van de Vlaamse overheid en tevens een naamloze vennootschap van publiek recht, ingedeeld bij het beleidsdomein Omgeving en stelt ongeveer 600 personeelsleden te werk via 6 vestigingen te Brugge, Gent, Brussel, Leuven, Herentals en Hasselt. De VLM heeft naast een algemene vergadering ook een raad van bestuur.</font></span></span></p><p><span><span><font size=\"2\">De raad van bestuur van de VLM bestaat uit 17 leden:</font></span></span></p><ul><li><span><span><font size=\"2\">5 bestuurders aangesteld door de Vlaamse Regering op voordracht van de Vlaamse provincies;</font></span></span></li></ul><ul><li><span><span><font size=\"2\">6 bestuurders aangesteld op voordracht van de Vlaamse Regering;</font></span></span></li></ul><ul><li><span><span><font size=\"2\">6 onafhankelijke bestuurders aangesteld door de Vlaamse Regering op voordracht van de raad van bestuur.</font></span></span></li></ul><p><span><span><font size=\"2\">Het toezicht wordt uitgeoefend door 2 regeringscommissarissen.</font></span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18956",
+      "internal": false,
+      "validThroughDate": "1754438400",
+      "hiringOrganization": "ILVO Dier 68",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18956",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Onthaal- en directieassistent"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Onthaal- en directieassistent",
+      "isProtected": false,
+      "description": {
+        "raw": "Zoek je\neen gevarieerde rol waarin je zowel het onthaal verzorgt als administratieve\nondersteuning biedt aan collega’s en management? Hou je van menselijk contact\nen voel jij je in je element wanneer je mensen vlot verder helpt? Dan zijn wij\nnaar jou op zoek en zou dit wel eens een mooie stap in jouw loopbaan kunnen\nzijn.<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.",
+        "htmlEncoded": "Zoek je\neen gevarieerde rol waarin je zowel het onthaal verzorgt als administratieve\nondersteuning biedt aan collega’s en management? Hou je van menselijk contact\nen voel jij je in je element wanneer je mensen vlot verder helpt? Dan zijn wij\nnaar jou op zoek en zou dit wel eens een mooie stap in jouw loopbaan kunnen\nzijn.<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
