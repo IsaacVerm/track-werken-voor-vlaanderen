@@ -1,11 +1,81 @@
 {
-  "totalItems": 122,
+  "totalItems": 129,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 121,
+  "lastItemOfPage": 128,
   "items": [
+    {
+      "link": "/Job/vdab-71485755",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71485755",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product owner Expert Data insights & teamlead (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product owner Expert Data insights & teamlead (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Product Owner Expert, die ook de rol van Teamlead opneemt, </strong>ter versterking van het team \n<strong>Data Insights &amp; Automatisch Advies</strong>. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan boeiende data gedreven &amp; innovatieve projecten? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><br> \n<span><span>Je komt terecht in het \n<strong>team</strong> \n<strong>Data Insight</strong>, \n<strong>subteam Data-innovaties</strong>, van Digitaal Vlaanderen. Dit dynamische team staat centraal in het uitbouwen van innovatieve data-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner Expert speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als \n<strong>Product Owner Expert Data Insights &amp; Automatisch Advies</strong> ben jij de bruggenbouwen tussen klant, gebruiker en ontwikkelteam. Je hebt ervaring met het beheren van IT-oplossingen en volgt technologische trends op de voet. Je bepaalt de productvisie en -strategie, prioriteert de backlog, stelt roadmaps op en zorgt voor een efficiënte uitvoering door de ontwikkelteams. Je beheert de volledige productlevenscyclus volgens kwaliteitsnormen en signaleert innovatiekansen aan het management. Samen met de manager Data Insights werk je de roadmap uit en stem je af met andere teams binnen Digitaal Vlaanderen.</span></p> \n<p><span>Je bent verantwoordelijk voor producten bovenop het Data Platform, zoals \n<strong>Automatisch Advies</strong>, de \n<strong>SOLID gateway</strong> en \n<strong>Magda Sandbox</strong>. Je werkt aan hun maturiteit, herbruikbaarheid en efficiëntie via datagedreven innovaties.</span></p> \n<p><span>Binnen Digitaal Vlaandern ondersteunt het \n<strong>MAGDA-team</strong> e-government binnen de Vlaamse overheid en vervult de rol van Vlaamse dienstenintegrator (VDI). Het \n<strong>MAGDA-platform</strong> faciliteert veilige en efficiënte gegevensuitwisseling tussen overheidsdiensten en ontsluit authentieke bronnen. Automatisch Advies bestaat technisch uit een orchestratielaag en een business rule engine die samen zorgen voor correcte gegevensverwerking en -levering.</span></p> \n<p><span>In de volgende regeerperiode bouwen we MAGDA samen met onze Open en Geo Databouwstenen uit tot een \n<strong>Vlaams Data-Integratieplatform</strong>.</span></p> \n<p><span>Als \n<strong>Teamlead</strong> leid je een subteam binnen Data Insights. Je combineert people management met procesoptimalisatie: je ondersteunt de groei van je teamleden, stimuleert samenwerking en zorgt voor duidelijke rollen en consistente werkwijzen. Je team werkt vanuit VAC Gent en Herman Teirlinck in Brussel, met minstens 50% aanwezigheid op kantoor.</span></p>",
+        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Product Owner Expert, die ook de rol van Teamlead opneemt, </strong>ter versterking van het team \n<strong>Data Insights &amp; Automatisch Advies</strong>. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan boeiende data gedreven &amp; innovatieve projecten? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><br> \n<span><span>Je komt terecht in het \n<strong>team</strong> \n<strong>Data Insight</strong>, \n<strong>subteam Data-innovaties</strong>, van Digitaal Vlaanderen. Dit dynamische team staat centraal in het uitbouwen van innovatieve data-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner Expert speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als \n<strong>Product Owner Expert Data Insights &amp; Automatisch Advies</strong> ben jij de bruggenbouwen tussen klant, gebruiker en ontwikkelteam. Je hebt ervaring met het beheren van IT-oplossingen en volgt technologische trends op de voet. Je bepaalt de productvisie en -strategie, prioriteert de backlog, stelt roadmaps op en zorgt voor een efficiënte uitvoering door de ontwikkelteams. Je beheert de volledige productlevenscyclus volgens kwaliteitsnormen en signaleert innovatiekansen aan het management. Samen met de manager Data Insights werk je de roadmap uit en stem je af met andere teams binnen Digitaal Vlaanderen.</span></p> \n<p><span>Je bent verantwoordelijk voor producten bovenop het Data Platform, zoals \n<strong>Automatisch Advies</strong>, de \n<strong>SOLID gateway</strong> en \n<strong>Magda Sandbox</strong>. Je werkt aan hun maturiteit, herbruikbaarheid en efficiëntie via datagedreven innovaties.</span></p> \n<p><span>Binnen Digitaal Vlaandern ondersteunt het \n<strong>MAGDA-team</strong> e-government binnen de Vlaamse overheid en vervult de rol van Vlaamse dienstenintegrator (VDI). Het \n<strong>MAGDA-platform</strong> faciliteert veilige en efficiënte gegevensuitwisseling tussen overheidsdiensten en ontsluit authentieke bronnen. Automatisch Advies bestaat technisch uit een orchestratielaag en een business rule engine die samen zorgen voor correcte gegevensverwerking en -levering.</span></p> \n<p><span>In de volgende regeerperiode bouwen we MAGDA samen met onze Open en Geo Databouwstenen uit tot een \n<strong>Vlaams Data-Integratieplatform</strong>.</span></p> \n<p><span>Als \n<strong>Teamlead</strong> leid je een subteam binnen Data Insights. Je combineert people management met procesoptimalisatie: je ondersteunt de groei van je teamleden, stimuleert samenwerking en zorgt voor duidelijke rollen en consistente werkwijzen. Je team werkt vanuit VAC Gent en Herman Teirlinck in Brussel, met minstens 50% aanwezigheid op kantoor.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71485532",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71485532",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Als Senior Procurement Strateeg krijg je een gevarieerd en impactvol takenpakket waarin je aankoopdossiers van A tot Z beheert én strategisch meedenkt over het aankoopbeleid van morgen. Jij wordt het aanspreekpunt voor alles wat met slimme, correcte en toekomstgerichte overheidsopdrachten te maken heeft.</span></p>",
+        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Als Senior Procurement Strateeg krijg je een gevarieerd en impactvol takenpakket waarin je aankoopdossiers van A tot Z beheert én strategisch meedenkt over het aankoopbeleid van morgen. Jij wordt het aanspreekpunt voor alles wat met slimme, correcte en toekomstgerichte overheidsopdrachten te maken heeft.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71482011",
       "internal": false,
@@ -417,41 +487,6 @@
       "description": {
         "raw": "<p><span>Wat zal je moeten doen?</span></p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen deze missie te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe inschrijfmodule voor de toelatingsexamen Arts-Tandarts-Dierenarts, waarmee burgers zich inschrijven voor deze examens; evenals aan het EC-platform, dit is de toepassing waarmee de examencommissie secundair onderwijs examens plant; de onderwijsdoelendatabank,... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 5 jaar. Je komt terecht binnen ons Oracle-APEX ontwikkelteam, dat centraal voor het agentschap werkt, waar je samen met je collega’s bedrijf kritische toepassingen op maat ontwikkelt. Je krijgt hierbij zowel afwisseling tussen de verschillende domeinen/toepassingen, als diepgang op één van de domeinen/toepassingen. Je ontwikkelt projecten (grote veranderingen aan de toepassingen), onderhoudt en werkt mee aan oplossingen voor incidenten.</p> \n<p><span>Je takenpakket </span>bestaat onder andere uit volgende uitdagingen:</p> \n<p> </p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt.</li> \n<li>Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkelt hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je bent een coach voor ontwikkelaars binnen je team en je kan aan de hand van code reviews de kwaliteit van de ontwikkelde software bewaken.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul>",
         "htmlEncoded": "<p><span>Wat zal je moeten doen?</span></p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen deze missie te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe inschrijfmodule voor de toelatingsexamen Arts-Tandarts-Dierenarts, waarmee burgers zich inschrijven voor deze examens; evenals aan het EC-platform, dit is de toepassing waarmee de examencommissie secundair onderwijs examens plant; de onderwijsdoelendatabank,... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 5 jaar. Je komt terecht binnen ons Oracle-APEX ontwikkelteam, dat centraal voor het agentschap werkt, waar je samen met je collega’s bedrijf kritische toepassingen op maat ontwikkelt. Je krijgt hierbij zowel afwisseling tussen de verschillende domeinen/toepassingen, als diepgang op één van de domeinen/toepassingen. Je ontwikkelt projecten (grote veranderingen aan de toepassingen), onderhoudt en werkt mee aan oplossingen voor incidenten.</p> \n<p><span>Je takenpakket </span>bestaat onder andere uit volgende uitdagingen:</p> \n<p> </p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt.</li> \n<li>Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkelt hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je bent een coach voor ontwikkelaars binnen je team en je kan aan de hand van code reviews de kwaliteit van de ontwikkelde software bewaken.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71346477",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71346477",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Tester (AHOVOKS) via Vlaanderen Connect."
-      },
-      "displayTitle": "Tester (AHOVOKS) via Vlaanderen Connect.",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Waar kom je terecht?</span></p> \n<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Wat zal je moeten doen? Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiele schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische testen, validatie- en andere testen op, en voert deze uit. Je volgt hierbij de teststrategie en standaarden van AHOVOKS.</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of: de user story volledig en duidelijk is, de opgeleverde functionaliteit de beschreven analyse volgt en de functionaliteit in alle omstandigheden correct werkt.</li> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je logt testdefecten, rapporteren over testresultaten en de voortuitgang van de testen aan de product owner</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>",
-        "htmlEncoded": "<p><span>Waar kom je terecht?</span></p> \n<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p>Wat zal je moeten doen? Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiele schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische testen, validatie- en andere testen op, en voert deze uit. Je volgt hierbij de teststrategie en standaarden van AHOVOKS.</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of: de user story volledig en duidelijk is, de opgeleverde functionaliteit de beschreven analyse volgt en de functionaliteit in alle omstandigheden correct werkt.</li> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je logt testdefecten, rapporteren over testresultaten en de voortuitgang van de testen aan de product owner</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>"
       },
       "locations": [
         {
@@ -3054,6 +3089,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18796",
+      "internal": true,
+      "validThroughDate": "1753660800",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18796",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Verantwoordelijke team Klachten en bemiddeling"
+      },
+      "displayTitle": "Verantwoordelijke team Klachten en bemiddeling",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Het VUTG zoekt een verantwoordelijke voor het team klachten en bemiddeling. Je traint medewerkers, en behandelt klachten, onderzoekt oorzaken en bemiddelt tussen partijen. Daarnaast monitor je prestaties en doe je aanbevelingen voor verbeteringen.<br><br></div><div></div><div>Waar jouw team instaat voor het ontwikkelen en uitbouwen van de dienstverlening, faciliteer jij dit mee door het geheel aan activiteiten van het team te sturen zodat operationele doelen behaald worden en de dienstverlening permanent verbeterd wordt. Je schept een lerend klimaat en je draagt bij aan de ontwikkeling van het team en de medewerkers vanuit jouw voorbeeldrol. Zo neem je ook deel aan projectwerking en zorg je voor het steeds uitbreiden van je eigen vakkennis.<br><br></div><div></div><div>In deze rol draag je actief bij aan de missie van ons agentschap: in het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!<br><br></div><div></div><div>Klaar voor een volgende uitdaging als de drijvende kracht achter een klantgerichte en effectieve klachtenafhandeling? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Het VUTG zoekt een verantwoordelijke voor het team klachten en bemiddeling. Je traint medewerkers, en behandelt klachten, onderzoekt oorzaken en bemiddelt tussen partijen. Daarnaast monitor je prestaties en doe je aanbevelingen voor verbeteringen.<br><br></div><div></div><div>Waar jouw team instaat voor het ontwikkelen en uitbouwen van de dienstverlening, faciliteer jij dit mee door het geheel aan activiteiten van het team te sturen zodat operationele doelen behaald worden en de dienstverlening permanent verbeterd wordt. Je schept een lerend klimaat en je draagt bij aan de ontwikkeling van het team en de medewerkers vanuit jouw voorbeeldrol. Zo neem je ook deel aan projectwerking en zorg je voor het steeds uitbreiden van je eigen vakkennis.<br><br></div><div></div><div>In deze rol draag je actief bij aan de missie van ons agentschap: in het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!<br><br></div><div></div><div>Klaar voor een volgende uitdaging als de drijvende kracht achter een klantgerichte en effectieve klachtenafhandeling? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18795",
+      "internal": false,
+      "validThroughDate": "1754438400",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18795",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR-partner Welzijn en diversiteit"
+      },
+      "displayTitle": "HR-partner Welzijn en diversiteit",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij gepassioneerd door welzijn en diversiteit? Wil je een inclusieve en gezonde werkplek bevorderen? Heb je bovendien al ervaring binnen HR-beleid in welzijn en diversiteit? Dan is deze functie misschien wel iets voor jou!<br><br></div><div></div><div>Als HR-partner ben je verantwoordelijk voor het ontwikkelen en implementeren van het <strong>welzijns- en diversiteitsbeleid</strong>, het bevorderen van een <strong>inclusieve werkomgeving</strong>, en het adviseren en ondersteunen bij <strong>welzijns- en diversiteitsvraagstukken</strong>. Daarnaast sta je in voor de opstart, begeleiding en opvolging van re-integratietrajecten en zorg je voor de verdere uitrol van het aanwezigheidsbeleid in het agentschap. Je werkt samen met interne en externe partners om ons beleid te versterken en een positieve impact te maken.&nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-partner welzijn en diversiteit wellicht jouw ideale match&nbsp;<br><br></div><div></div><div>Waar kom je terecht? Bij het team Strategisch HR, Opleiding- en organisatieontwikkeling, binnen het Agentschap Uitbetaling Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams! Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Ben jij gepassioneerd door welzijn en diversiteit? Wil je een inclusieve en gezonde werkplek bevorderen? Heb je bovendien al ervaring binnen HR-beleid in welzijn en diversiteit? Dan is deze functie misschien wel iets voor jou!<br><br></div><div></div><div>Als HR-partner ben je verantwoordelijk voor het ontwikkelen en implementeren van het <strong>welzijns- en diversiteitsbeleid</strong>, het bevorderen van een <strong>inclusieve werkomgeving</strong>, en het adviseren en ondersteunen bij <strong>welzijns- en diversiteitsvraagstukken</strong>. Daarnaast sta je in voor de opstart, begeleiding en opvolging van re-integratietrajecten en zorg je voor de verdere uitrol van het aanwezigheidsbeleid in het agentschap. Je werkt samen met interne en externe partners om ons beleid te versterken en een positieve impact te maken.&nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-partner welzijn en diversiteit wellicht jouw ideale match&nbsp;<br><br></div><div></div><div>Waar kom je terecht? Bij het team Strategisch HR, Opleiding- en organisatieontwikkeling, binnen het Agentschap Uitbetaling Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams! Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18768",
       "internal": false,
       "validThroughDate": "1753142400",
@@ -3084,6 +3189,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18765",
+      "internal": false,
+      "validThroughDate": "1754438400",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18765",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamcoach"
+      },
+      "displayTitle": "Teamcoach",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij de teamcoach die wij zoeken? Het Agentschap Uitbetaling Groeipakket (VUTG) is op zoek naar een <strong>gedreven teamcoach</strong> om één van onze teams in <strong>Gent </strong>te inspireren en te leiden in hun dagelijkse werkzaamheden.&nbsp;<br><br></div><div></div><div>Als teamcoach speel je een cruciale rol in het <strong>versterken en ontwikkelen</strong> van de autonomie, betrokkenheid en competenties van zowel de medewerkers als van het team. Je stimuleert een omgeving waarin iedereen zich gewaardeerd en gemotiveerd voelt, en je ondersteunt hen om hun volledige potentieel te bereiken. Door jouw begeleiding en ondersteuning zorg je ervoor dat het team niet alleen succesvol is, maar ook met plezier samenwerkt en groeit.<br><br></div><div></div><div>Daarbij neem je een voorbeeldrol op, adviseer je je teamleden, geef je feedback en stimuleer je het team om tot duidelijke afspraken te komen. Je maakt je medewerkers bewust van de maatschappelijke en familiale relevantie van het Groeipakket en je stimuleert de teammaturiteit.<br><br></div><div></div><div></div><div>Waar kom je terecht? Bij FONS, binnen het Agentschap voor de uitbetaling van het Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!<br><br></div><div></div><div>Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Ben jij de teamcoach die wij zoeken? Het Agentschap Uitbetaling Groeipakket (VUTG) is op zoek naar een <strong>gedreven teamcoach</strong> om één van onze teams in <strong>Gent </strong>te inspireren en te leiden in hun dagelijkse werkzaamheden.&nbsp;<br><br></div><div></div><div>Als teamcoach speel je een cruciale rol in het <strong>versterken en ontwikkelen</strong> van de autonomie, betrokkenheid en competenties van zowel de medewerkers als van het team. Je stimuleert een omgeving waarin iedereen zich gewaardeerd en gemotiveerd voelt, en je ondersteunt hen om hun volledige potentieel te bereiken. Door jouw begeleiding en ondersteuning zorg je ervoor dat het team niet alleen succesvol is, maar ook met plezier samenwerkt en groeit.<br><br></div><div></div><div>Daarbij neem je een voorbeeldrol op, adviseer je je teamleden, geef je feedback en stimuleer je het team om tot duidelijke afspraken te komen. Je maakt je medewerkers bewust van de maatschappelijke en familiale relevantie van het Groeipakket en je stimuleert de teammaturiteit.<br><br></div><div></div><div></div><div>Waar kom je terecht? Bij FONS, binnen het Agentschap voor de uitbetaling van het Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams!<br><br></div><div></div><div>Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
           }
         }
       ]
@@ -3521,6 +3661,73 @@
       "description": {
         "raw": "Ben jij een enthousiaste kok met liefde voor\nsmaakvolle gerechten en werk je graag in een moderne en professionele omgeving?\nDan hebben wij dé job voor jou!<br><br>Voor onze keuken in het Conscience-gebouw in\nBrussel zoeken we een gedreven kok. Daarnaast leggen we een werfreserve aan\nvoor toekomstige vacatures in de grootkeuken.<br><br>Als kok ben je verantwoordelijk voor de bereiding\nvan gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse\noverheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en\norganisatie in de keuken. Je werkt met moderne technieken en toestellen en\ndraagt actief bij aan de ontwikkeling van nieuwe menu’s.<br><br>Samen met je collega’s waaronder een back-up chef,\nandere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude\nen warme gerechten, desserts en andere lekkernijen. Je werkt in een\nregeneratiekeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en\nklantvriendelijkheid.<br><br><strong>Klinkt dit als iets voor jou? Lees dan snel verder\nom te ontdekken welk profiel we zoeken en hoe je kan solliciteren!</strong>",
         "htmlEncoded": "Ben jij een enthousiaste kok met liefde voor\nsmaakvolle gerechten en werk je graag in een moderne en professionele omgeving?\nDan hebben wij dé job voor jou!<br><br>Voor onze keuken in het Conscience-gebouw in\nBrussel zoeken we een gedreven kok. Daarnaast leggen we een werfreserve aan\nvoor toekomstige vacatures in de grootkeuken.<br><br>Als kok ben je verantwoordelijk voor de bereiding\nvan gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse\noverheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en\norganisatie in de keuken. Je werkt met moderne technieken en toestellen en\ndraagt actief bij aan de ontwikkeling van nieuwe menu’s.<br><br>Samen met je collega’s waaronder een back-up chef,\nandere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude\nen warme gerechten, desserts en andere lekkernijen. Je werkt in een\nregeneratiekeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en\nklantvriendelijkheid.<br><br><strong>Klinkt dit als iets voor jou? Lees dan snel verder\nom te ontdekken welk profiel we zoeken en hoe je kan solliciteren!</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18663",
+      "internal": false,
+      "validThroughDate": "1755648000",
+      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18663",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Relatiebeheerder E-loketondernemers"
+      },
+      "displayTitle": "Relatiebeheerder E-loketondernemers",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als relatiebeheerder van E-loketondernemers draag je bij aan de verdere uitbouw en optimalisatie van <br>E-loketondernemers als one-stop-shop voor ondernemers en beheer je de aansluitingstrajecten van <br>begin tot implementatie. Je bouwt duurzame relaties uit met de stakeholders.</p><p>Je werkt nauw samen met collega’s in een multi-disciplinair team en zet actief in op samenwerking. Je <br>neemt initiatief, denkt vooruit en bewaakt de voortgang van je taken. <br>Je hebt voldoende IT-inzicht om vlot de integratie van applicaties met Vlaamse digitale bouwstenen <br>zoals ACM/IDM, global header, DOSIS, … in goede banen te leiden en de eindgebruiker een naadloze <br>ervaring te bieden zonder opnieuw te moeten aanmelden. <br>E-loketondernemers maakt deel uit van de afdeling ARO. Deze afdeling staat in voor het uitbouwen en <br>beheer van onze relaties met de klanten van VLAIO, de ondernemingen. <br> <br><strong>Je functie omvat onder meer volgende taken:</strong></p><ul><li>Fungeren als aanspreekpunt voor Vlaamse en lokale instanties met producten en diensten voor <br>ondernemers; luisteren naar noden, verzamelen van feedback en vertalen naar concrete <br>verbeteracties.</li><li>Leiden en opvolging van integratieprojecten, of het ondersteunen van de programmamanager</li><li>Inzichtelijk begeleiden van integraties met Vlaamse bouwstenen.</li><li>Bewaken van de kwaliteit van de opgeleverde diensten en oplossingen met oog voor detail en <br>eindgebruiker.</li><li>Opstellen en opvolgen van projectplanningen en deadlines.</li><li>Rapporteren over de voortgang van projecten.</li><li>Organiseren van overlegmomenten, workshops, demo’s, …</li><li>Actief bijdragen aan een hecht team waarin open communicatie en kennisdeling centraal staat.</li><li>Meewerken aan de strategische uitbouw van ELO als platform en inspelen op verandering en <br>voortdurend verbeteren.</li><li>Werken in een agile mindset waarbij gebruik gemaakt wordt van Confluence en Jira. Je zet <br>verder in op goede praktijken van agile softwareontwikkeling en het verder doorvertalen van <br>het aanbod naar diensten voor gebruikers.</li><li>Je werkt samen met andere teams en afdelingen binnen VLAIO en externe partners zoals Digitaal <br>Vlaanderen. Je ondersteunt Vlaamse en lokale instanties in een overheidsbrede context om <br>aansluitingen op E-loketondernemers optimaal en efficiënt mogelijk te laten verlopen.</li></ul>",
+        "htmlEncoded": "<p>Als relatiebeheerder van E-loketondernemers draag je bij aan de verdere uitbouw en optimalisatie van <br>E-loketondernemers als one-stop-shop voor ondernemers en beheer je de aansluitingstrajecten van <br>begin tot implementatie. Je bouwt duurzame relaties uit met de stakeholders.</p><p>Je werkt nauw samen met collega’s in een multi-disciplinair team en zet actief in op samenwerking. Je <br>neemt initiatief, denkt vooruit en bewaakt de voortgang van je taken. <br>Je hebt voldoende IT-inzicht om vlot de integratie van applicaties met Vlaamse digitale bouwstenen <br>zoals ACM/IDM, global header, DOSIS, … in goede banen te leiden en de eindgebruiker een naadloze <br>ervaring te bieden zonder opnieuw te moeten aanmelden. <br>E-loketondernemers maakt deel uit van de afdeling ARO. Deze afdeling staat in voor het uitbouwen en <br>beheer van onze relaties met de klanten van VLAIO, de ondernemingen. <br> <br><strong>Je functie omvat onder meer volgende taken:</strong></p><ul><li>Fungeren als aanspreekpunt voor Vlaamse en lokale instanties met producten en diensten voor <br>ondernemers; luisteren naar noden, verzamelen van feedback en vertalen naar concrete <br>verbeteracties.</li><li>Leiden en opvolging van integratieprojecten, of het ondersteunen van de programmamanager</li><li>Inzichtelijk begeleiden van integraties met Vlaamse bouwstenen.</li><li>Bewaken van de kwaliteit van de opgeleverde diensten en oplossingen met oog voor detail en <br>eindgebruiker.</li><li>Opstellen en opvolgen van projectplanningen en deadlines.</li><li>Rapporteren over de voortgang van projecten.</li><li>Organiseren van overlegmomenten, workshops, demo’s, …</li><li>Actief bijdragen aan een hecht team waarin open communicatie en kennisdeling centraal staat.</li><li>Meewerken aan de strategische uitbouw van ELO als platform en inspelen op verandering en <br>voortdurend verbeteren.</li><li>Werken in een agile mindset waarbij gebruik gemaakt wordt van Confluence en Jira. Je zet <br>verder in op goede praktijken van agile softwareontwikkeling en het verder doorvertalen van <br>het aanbod naar diensten voor gebruikers.</li><li>Je werkt samen met andere teams en afdelingen binnen VLAIO en externe partners zoals Digitaal <br>Vlaanderen. Je ondersteunt Vlaamse en lokale instanties in een overheidsbrede context om <br>aansluitingen op E-loketondernemers optimaal en efficiënt mogelijk te laten verlopen.</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18662",
+      "internal": false,
+      "validThroughDate": "1755648000",
+      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18662",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Business analist e-loketondernemers met focus op Customer Experience (CX)"
+      },
+      "displayTitle": "Business analist e-loketondernemers met focus op Customer Experience (CX)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als business analist met focus op Customer Experience (CX) ben jij de stem van de eindgebruiker voor E\u0002loketondernemers. Je denkt kritisch na over flows, terminologie, look &amp; feel en functionaliteiten van het&nbsp;<br>e-loket en gerelateerde applicaties. Je bewaakt de gebruiksvriendelijkheid, vereenvoudiging en&nbsp;<br>consistentie binnen het hele digitale ecosysteem. Je vertaalt gebruikersbehoeften naar heldere analyses,&nbsp;<br>en ondersteunt actief bij het testen van nieuwe functionaliteiten, toepassingen en integraties.</p><p>Je werkt nauw samen met collega’s in een multidisciplinair team met ontwikkelaars, architecten, business&nbsp;<br>analisten, applicatiebeheerders, programmamanagent en beleidsmakers. Je beschikt over een agile en&nbsp;<br>proactieve mindset en helpt actief mee om iteratief te bouwen aan een betere dienstverlening.</p><p>Daarnaast zal je instaan voor het Kenniscentrum Customer Experience (KC CX) binnen VLAIO om&nbsp;<br>klantenbevragingen bij de ondernemers te ondersteunen. Je biedt methodologische en procedurele&nbsp;<br>expertise aan daar waar wenselijk en nodig aan de teams binnen VLAIO die onderzoeksvragen willen&nbsp;<br>lanceren. Hiervoor zal je samenwerken met bestaande rollen binnen de organisatie (product owners,&nbsp;<br>proceseigenaars, programmabeheerders, projectleiders,…). De teams zijn zelf verantwoordelijk voor het&nbsp;<br>initiëren van onderzoeksvragen aan het KC CX. Je zal periodiek rapporteren aan het directiecomité over&nbsp;<br>de actieve onderzoeksactiviteiten binnen de organisatie en de geplande (ontwikkelings-)activiteiten van&nbsp;<br>het KC CX zelf.</p><p><strong>Je functie omvat onder meer volgende taken:&nbsp;</strong></p><ul><li>Analyseren van businessnoden en vertalen naar duidelijke user stories, functionele vereisten en&nbsp;<br>procesflows.</li><li>Bewaken van gebruikerservaring, eenvoud en consistentie over de verschillende onderdelen van&nbsp;<br>het e-loket en bijhorende applicaties</li><li>Aanscherpen van digitale processen, met oog voor toegankelijkheid, begrijpelijke taal en&nbsp;<br>minimale stappen voor de ondernemer.</li><li>Mee opstellen van wireframes, mockups en acceptatiecriteria.</li><li>Actief meewerken aan het testen van applicaties en integraties, zowel functioneel als&nbsp;<br>gebruiksvriendelijk.</li><li>Organiseren van gebruikersbevragingen en opvolgen van feedback van gebruikers en&nbsp;<br>stakeholders, en deze verwerken in concrete verbeteringen.</li><li>Toepassen van agile werkwijzen en bijdragen aan een cultuur van continue verbetering.</li><li>Nauw samenwerken met ontwikkelaars, architecten, business analisten, applicatiebeheerders,&nbsp;<br>programmamanagement, product owners, proceseigenaars, programmabeheerders en&nbsp;<br>beleidsmakers.</li><li>Methodologische en procedurele expertise op het vlak van klantenbevragingen&nbsp;</li><li>Periodiek rapporteren aan het VLAIO-directiecomité over de stand van zaken van de lopende&nbsp;<br>klantenbevragingen binnen VLAIO.&nbsp;</li></ul>",
+        "htmlEncoded": "<p>Als business analist met focus op Customer Experience (CX) ben jij de stem van de eindgebruiker voor E\u0002loketondernemers. Je denkt kritisch na over flows, terminologie, look &amp; feel en functionaliteiten van het&nbsp;<br>e-loket en gerelateerde applicaties. Je bewaakt de gebruiksvriendelijkheid, vereenvoudiging en&nbsp;<br>consistentie binnen het hele digitale ecosysteem. Je vertaalt gebruikersbehoeften naar heldere analyses,&nbsp;<br>en ondersteunt actief bij het testen van nieuwe functionaliteiten, toepassingen en integraties.</p><p>Je werkt nauw samen met collega’s in een multidisciplinair team met ontwikkelaars, architecten, business&nbsp;<br>analisten, applicatiebeheerders, programmamanagent en beleidsmakers. Je beschikt over een agile en&nbsp;<br>proactieve mindset en helpt actief mee om iteratief te bouwen aan een betere dienstverlening.</p><p>Daarnaast zal je instaan voor het Kenniscentrum Customer Experience (KC CX) binnen VLAIO om&nbsp;<br>klantenbevragingen bij de ondernemers te ondersteunen. Je biedt methodologische en procedurele&nbsp;<br>expertise aan daar waar wenselijk en nodig aan de teams binnen VLAIO die onderzoeksvragen willen&nbsp;<br>lanceren. Hiervoor zal je samenwerken met bestaande rollen binnen de organisatie (product owners,&nbsp;<br>proceseigenaars, programmabeheerders, projectleiders,…). De teams zijn zelf verantwoordelijk voor het&nbsp;<br>initiëren van onderzoeksvragen aan het KC CX. Je zal periodiek rapporteren aan het directiecomité over&nbsp;<br>de actieve onderzoeksactiviteiten binnen de organisatie en de geplande (ontwikkelings-)activiteiten van&nbsp;<br>het KC CX zelf.</p><p><strong>Je functie omvat onder meer volgende taken:&nbsp;</strong></p><ul><li>Analyseren van businessnoden en vertalen naar duidelijke user stories, functionele vereisten en&nbsp;<br>procesflows.</li><li>Bewaken van gebruikerservaring, eenvoud en consistentie over de verschillende onderdelen van&nbsp;<br>het e-loket en bijhorende applicaties</li><li>Aanscherpen van digitale processen, met oog voor toegankelijkheid, begrijpelijke taal en&nbsp;<br>minimale stappen voor de ondernemer.</li><li>Mee opstellen van wireframes, mockups en acceptatiecriteria.</li><li>Actief meewerken aan het testen van applicaties en integraties, zowel functioneel als&nbsp;<br>gebruiksvriendelijk.</li><li>Organiseren van gebruikersbevragingen en opvolgen van feedback van gebruikers en&nbsp;<br>stakeholders, en deze verwerken in concrete verbeteringen.</li><li>Toepassen van agile werkwijzen en bijdragen aan een cultuur van continue verbetering.</li><li>Nauw samenwerken met ontwikkelaars, architecten, business analisten, applicatiebeheerders,&nbsp;<br>programmamanagement, product owners, proceseigenaars, programmabeheerders en&nbsp;<br>beleidsmakers.</li><li>Methodologische en procedurele expertise op het vlak van klantenbevragingen&nbsp;</li><li>Periodiek rapporteren aan het VLAIO-directiecomité over de stand van zaken van de lopende&nbsp;<br>klantenbevragingen binnen VLAIO.&nbsp;</li></ul>"
       },
       "locations": [
         {
@@ -3973,6 +4180,46 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18414",
+      "internal": false,
+      "validThroughDate": "1754265600",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18414",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar bewarende maatregelen"
+      },
+      "displayTitle": "Dossierbehandelaar bewarende maatregelen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b><span>Ben jij klaar voor een volgende stap in een uitdagende fiscale functie?</span></b></p><p><b><span>&nbsp;</span></b><span>Je bent een dossierbehandelaar die niet terugdeinst voor complexe dossiers en juridische vraagstukken. In een dynamische werkomgeving ga jij de uitdaging aan om fiscale schulden efficiënt en rechtvaardig te innen. Je weet hoofd- van bijzaken te onderscheiden, werkt gestructureerd en vindt het prettig om klanten telefonisch te informeren en begeleiden. Bovendien ben je sterk in het analyseren van situaties waarin standpunten botsen, bijvoorbeeld in communicatie met notarissen. Herken jij jezelf in deze omschrijving? Dan is deze vacature op jouw lijf geschreven!</span></p><p><span><b>Wat ga je doen?</b></span></p><p><span><b>&nbsp;</b>Als dossierbehandelaar inning en invordering bij de dienst <b>Bewarende Maatregelen</b> neem jij zelfstandig verantwoordelijkheid voor een gevarieerd pakket dossiers. Je speelt een centrale rol in het innen van fiscale schulden en fungeert als aanspreekpunt voor diverse bijzondere en juridisch-technische opdrachten die buiten het standaard takenpakket vallen. Je ondersteunt ook het teamhoofd bij complexe casussen en draagt actief bij aan een professionele en efficiënte dienstverlening.</span></p><p><span><b>Waarom kiezen voor deze functie?</b></span></p><p><span>Je komt terecht in een werkomgeving waar geen dag hetzelfde is. Je krijgt de kans om jouw juridische en communicatieve vaardigheden in te zetten én verder te ontwikkelen in dossiers die ertoe doen. Samen met een team van gemotiveerde collega’s werk je aan een correcte en efficiënte inning van fiscale schulden.</span></p><p><span><b>Maak het verschil. Solliciteer nu en versterk ons team!</b></span></p><p><span><b>&nbsp;</b></span><b><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></b></p>",
+        "htmlEncoded": "<p><b><span>Ben jij klaar voor een volgende stap in een uitdagende fiscale functie?</span></b></p><p><b><span>&nbsp;</span></b><span>Je bent een dossierbehandelaar die niet terugdeinst voor complexe dossiers en juridische vraagstukken. In een dynamische werkomgeving ga jij de uitdaging aan om fiscale schulden efficiënt en rechtvaardig te innen. Je weet hoofd- van bijzaken te onderscheiden, werkt gestructureerd en vindt het prettig om klanten telefonisch te informeren en begeleiden. Bovendien ben je sterk in het analyseren van situaties waarin standpunten botsen, bijvoorbeeld in communicatie met notarissen. Herken jij jezelf in deze omschrijving? Dan is deze vacature op jouw lijf geschreven!</span></p><p><span><b>Wat ga je doen?</b></span></p><p><span><b>&nbsp;</b>Als dossierbehandelaar inning en invordering bij de dienst <b>Bewarende Maatregelen</b> neem jij zelfstandig verantwoordelijkheid voor een gevarieerd pakket dossiers. Je speelt een centrale rol in het innen van fiscale schulden en fungeert als aanspreekpunt voor diverse bijzondere en juridisch-technische opdrachten die buiten het standaard takenpakket vallen. Je ondersteunt ook het teamhoofd bij complexe casussen en draagt actief bij aan een professionele en efficiënte dienstverlening.</span></p><p><span><b>Waarom kiezen voor deze functie?</b></span></p><p><span>Je komt terecht in een werkomgeving waar geen dag hetzelfde is. Je krijgt de kans om jouw juridische en communicatieve vaardigheden in te zetten én verder te ontwikkelen in dossiers die ertoe doen. Samen met een team van gemotiveerde collega’s werk je aan een correcte en efficiënte inning van fiscale schulden.</span></p><p><span><b>Maak het verschil. Solliciteer nu en versterk ons team!</b></span></p><p><span><b>&nbsp;</b></span><b><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></b></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Aalst"
           }
         }
       ]
