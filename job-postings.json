@@ -1,11 +1,81 @@
 {
-  "totalItems": 128,
+  "totalItems": 130,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 127,
+  "lastItemOfPage": 129,
   "items": [
+    {
+      "link": "/Job/vdab-71497468",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71497468",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect"
+      },
+      "displayTitle": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>",
+        "htmlEncoded": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71496268",
+      "internal": false,
+      "validThroughDate": "1755388800",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71496268",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeksmedewerker bodemstaalname"
+      },
+      "displayTitle": "Onderzoeksmedewerker bodemstaalname",
+      "isProtected": false,
+      "description": {
+        "raw": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info vind je \n<strong>de bijlage </strong></span><strong>SLR_onderzoeksmedewerker Cmon (1).pdf</strong></p>",
+        "htmlEncoded": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info vind je \n<strong>de bijlage </strong></span><strong>SLR_onderzoeksmedewerker Cmon (1).pdf</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71494763",
       "internal": false,
@@ -3691,8 +3761,8 @@
       "displayTitle": "Organisator protocollaire ontvangsten",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Ben je sterk in het organiseren van succesvolle ontvangsten? Draag je graag bij aan een positief imago van Vlaanderen in het buitenland? En wil je internationale gasten \"Vlaanderen op zijn best\" laten zien? Heb je een hands-on mentaliteit en ben je bereid de handen uit de mouwen te steken om elk evenement tot in de puntjes te regelen? Dan ben jij misschien de collega die we zoeken!</span></p> <p><span>De Vlaamse overheid verwelkomt een breed scala aan (buitenlandse) delegaties. Met de juiste ontvangst zorg jij ervoor dat onze gasten zich écht welkom voelen en een blijvende positieve indruk krijgen van Vlaanderen.</span></p> <p><span><strong>Wat ga je doen?</strong></span></p> <ul><li><span>Je bent als organisator protocollaire ontvangsten het eerste aanspreekpunt voor zowel interne collega's als externe partners. Je neemt ook initiatief in de organisatie van diverse evenementen, zowel binnen als buiten het Errerahuis. Denk hierbij aan:</span></li><li><span>Het organiseren van vergaderingen, ondertekeningen, persconferenties en het onthaal van buitenlandse gasten. Hierbij houd je rekening met de specifieke context, het doel en het hooggeplaatste of internationale publiek;</span></li><li><span>Het coördineren van studie- en werkbezoeken, onder andere voor nieuwe ambassadeurs, om hen een representatief beeld van Vlaanderen te geven;</span></li><li><span>Je contacteert de juiste partners voor elk project en stemt de organisatie regelmatig af met je collega's;</span></li><li><span>Tijdens de evenementen zorg je voor een vlekkeloos verloop en los je onvoorziene situaties proactief op.</span></li><li><span>Na afloop zorg je voor een grondige debriefing, met oog voor verbeterpunten voor toekomstige gelegenheden.</span></li><li><span>Ook voor activiteiten buiten het Errerahuis werk je op dezelfde gestructureerde manier, waarbij je de juiste partners inschakelt voor een mooi evenement of bezoekersprogramma.</span></li></ul>       <p><span>Ben jij de organisator die Vlaanderen graag internationaal op de kaart zet? Solliciteer dan nu en help mee om onze gasten een onvergetelijke ervaring te bezorgen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben je sterk in het organiseren van succesvolle ontvangsten? Draag je graag bij aan een positief imago van Vlaanderen in het buitenland? En wil je internationale gasten \"Vlaanderen op zijn best\" laten zien? Heb je een hands-on mentaliteit en ben je bereid de handen uit de mouwen te steken om elk evenement tot in de puntjes te regelen? Dan ben jij misschien de collega die we zoeken!</span></p> <p><span>De Vlaamse overheid verwelkomt een breed scala aan (buitenlandse) delegaties. Met de juiste ontvangst zorg jij ervoor dat onze gasten zich écht welkom voelen en een blijvende positieve indruk krijgen van Vlaanderen.</span></p> <p><span><strong>Wat ga je doen?</strong></span></p> <ul><li><span>Je bent als organisator protocollaire ontvangsten het eerste aanspreekpunt voor zowel interne collega's als externe partners. Je neemt ook initiatief in de organisatie van diverse evenementen, zowel binnen als buiten het Errerahuis. Denk hierbij aan:</span></li><li><span>Het organiseren van vergaderingen, ondertekeningen, persconferenties en het onthaal van buitenlandse gasten. Hierbij houd je rekening met de specifieke context, het doel en het hooggeplaatste of internationale publiek;</span></li><li><span>Het coördineren van studie- en werkbezoeken, onder andere voor nieuwe ambassadeurs, om hen een representatief beeld van Vlaanderen te geven;</span></li><li><span>Je contacteert de juiste partners voor elk project en stemt de organisatie regelmatig af met je collega's;</span></li><li><span>Tijdens de evenementen zorg je voor een vlekkeloos verloop en los je onvoorziene situaties proactief op.</span></li><li><span>Na afloop zorg je voor een grondige debriefing, met oog voor verbeterpunten voor toekomstige gelegenheden.</span></li><li><span>Ook voor activiteiten buiten het Errerahuis werk je op dezelfde gestructureerde manier, waarbij je de juiste partners inschakelt voor een mooi evenement of bezoekersprogramma.</span></li></ul>       <p><span>Ben jij de organisator die Vlaanderen graag internationaal op de kaart zet? Solliciteer dan nu en help mee om onze gasten een onvergetelijke ervaring te bezorgen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+        "raw": "<p><span>Ben je sterk in het organiseren van succesvolle ontvangsten? Draag je graag bij aan een positief imago van Vlaanderen in het buitenland? En wil je internationale gasten \"Vlaanderen op zijn best\" laten zien? Heb je een hands-on mentaliteit en ben je bereid de handen uit de mouwen te steken om elk evenement tot in de puntjes te regelen? Dan ben jij misschien de collega die we zoeken!</span></p> <p><span>De Vlaamse overheid verwelkomt een breed scala aan (buitenlandse) delegaties. Met de juiste ontvangst zorg jij ervoor dat onze gasten zich écht welkom voelen en een blijvende positieve indruk krijgen van Vlaanderen.</span></p> <p><span><strong>Wat ga je doen?</strong></span></p> <p><span>Je bent als organisator protocollaire ontvangsten het eerste aanspreekpunt voor zowel interne collega's als externe partners. Je neemt ook initiatief in de organisatie van diverse evenementen, zowel binnen als buiten het Errerahuis. Denk hierbij aan:</span></p><ul><li><span>Het organiseren van vergaderingen, ondertekeningen, persconferenties en het onthaal van buitenlandse gasten. Hierbij houd je rekening met de specifieke context, het doel en het hooggeplaatste of internationale publiek;</span></li><li><span>Het coördineren van studie- en werkbezoeken, onder andere voor nieuwe ambassadeurs, om hen een representatief beeld van Vlaanderen te geven;</span></li><li><span>Je contacteert de juiste partners voor elk project en stemt de organisatie regelmatig af met je collega's;</span></li><li><span>Tijdens de evenementen zorg je voor een vlekkeloos verloop en los je onvoorziene situaties proactief op.</span></li><li><span>Na afloop zorg je voor een grondige debriefing, met oog voor verbeterpunten voor toekomstige gelegenheden.</span></li><li><span>Ook voor activiteiten buiten het Errerahuis werk je op dezelfde gestructureerde manier, waarbij je de juiste partners inschakelt voor een mooi evenement of bezoekersprogramma.</span></li></ul>       <p><span>Ben jij de organisator die Vlaanderen graag internationaal op de kaart zet? Solliciteer dan nu en help mee om onze gasten een onvergetelijke ervaring te bezorgen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben je sterk in het organiseren van succesvolle ontvangsten? Draag je graag bij aan een positief imago van Vlaanderen in het buitenland? En wil je internationale gasten \"Vlaanderen op zijn best\" laten zien? Heb je een hands-on mentaliteit en ben je bereid de handen uit de mouwen te steken om elk evenement tot in de puntjes te regelen? Dan ben jij misschien de collega die we zoeken!</span></p> <p><span>De Vlaamse overheid verwelkomt een breed scala aan (buitenlandse) delegaties. Met de juiste ontvangst zorg jij ervoor dat onze gasten zich écht welkom voelen en een blijvende positieve indruk krijgen van Vlaanderen.</span></p> <p><span><strong>Wat ga je doen?</strong></span></p> <p><span>Je bent als organisator protocollaire ontvangsten het eerste aanspreekpunt voor zowel interne collega's als externe partners. Je neemt ook initiatief in de organisatie van diverse evenementen, zowel binnen als buiten het Errerahuis. Denk hierbij aan:</span></p><ul><li><span>Het organiseren van vergaderingen, ondertekeningen, persconferenties en het onthaal van buitenlandse gasten. Hierbij houd je rekening met de specifieke context, het doel en het hooggeplaatste of internationale publiek;</span></li><li><span>Het coördineren van studie- en werkbezoeken, onder andere voor nieuwe ambassadeurs, om hen een representatief beeld van Vlaanderen te geven;</span></li><li><span>Je contacteert de juiste partners voor elk project en stemt de organisatie regelmatig af met je collega's;</span></li><li><span>Tijdens de evenementen zorg je voor een vlekkeloos verloop en los je onvoorziene situaties proactief op.</span></li><li><span>Na afloop zorg je voor een grondige debriefing, met oog voor verbeterpunten voor toekomstige gelegenheden.</span></li><li><span>Ook voor activiteiten buiten het Errerahuis werk je op dezelfde gestructureerde manier, waarbij je de juiste partners inschakelt voor een mooi evenement of bezoekersprogramma.</span></li></ul>       <p><span>Ben jij de organisator die Vlaanderen graag internationaal op de kaart zet? Solliciteer dan nu en help mee om onze gasten een onvergetelijke ervaring te bezorgen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -4327,6 +4397,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17736",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17736",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Schipper voor Antwerpen"
+      },
+      "displayTitle": "Schipper voor Antwerpen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp; Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>",
+        "htmlEncoded": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp; Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17630",
       "internal": false,
       "validThroughDate": "-1",
@@ -4357,41 +4462,6 @@
         {
           "address": {
             "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17624",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-17624",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager Scheepsbouw"
-      },
-      "displayTitle": "Manager Scheepsbouw",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Oostende"
           }
         }
       ]
