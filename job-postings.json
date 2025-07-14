@@ -1,10 +1,10 @@
 {
-  "totalItems": 125,
+  "totalItems": 127,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 124,
+  "lastItemOfPage": 126,
   "items": [
     {
       "link": "/Job/vdab-71497468",
@@ -994,8 +994,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71062402",
@@ -1029,8 +1029,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-71018700",
@@ -1064,8 +1064,8 @@
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-70948751",
@@ -1257,41 +1257,6 @@
       "description": {
         "raw": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>",
         "htmlEncoded": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70802088",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70802088",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager digitale loketten (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Manager digitale loketten (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Manager digitale loketten ter versterking van onze \n<strong>afdeling Loket-oplossingen</strong>.</span></p> \n<p><span>Wil jij meewerken aan de digitale toekomst van Vlaanderen? Als Manager digitale loketten bij Digitaal Vlaanderen draag je actief bij aan de digitaliseringsopdracht van de organisatie. Je ondersteunt en adviseert afdelingen die digitale producten bouwen en klanten helpen bij hun digitaliseringsprojecten. Je werkt als partner voor de verschillende teams binnen Digitaal Vlaanderen en helpt hen om hun doelen te bereiken in een dynamische, snel veranderende omgeving.</span></p> \n<p><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze Strategische focus is gericht op</span><span> </span><strong><span>#partner,</span></strong><strong><span> </span></strong><strong><span>#ontzorgen</span></strong><strong><span> </span></strong><strong><span>en</span></strong><strong><span> </span></strong><strong><span>#éénteam</span></strong><span>, en ook jij zult bijdragen aan deze missie. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als manager leid je het team Digitale Loketten van de afdeling Loketplatform. Je bent hiërarchisch verantwoordelijke voor dit team en je hebt een brugfunctie tussen het directieteam en jouw teamleden. Naast people manager is je voornaamste opdracht het vertalen van de organisatiestrategie naar de dagelijkse werking van jouw team. Je werkt nauw samen met het directieteam, je werkt voorstellen uit en faciliteert bij de visie- en strategievorming.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je bent verantwoordelijk voor één van de 4 teams binnen de afdeling Loketplatform: digitale loketten (incl. Mijn Burgerprofiel en het onderliggende platform), infoplatform (incl. vlaanderen.be, Geopunt, Datavindplaats), Contact Center, Centraal team (service delivery, projectwerking, architecten en product partners). </span></p> \n<p><span>Als team manager digitale loketten heb je een dubbele rol: enerzijds stuur je hiërarchisch je team aan – zowel qua ontwikkeling van de mensen en cultuur, als realiseren van de tactische en operationele doelstelling. Anderzijds ben je ook een brugfiguur tussen het directieteam en jouw subteams: je zorgt voor een heldere doorvertaling van de tactische mijlpalen, en legt actief bruggen met andere teams binnen en buiten ons agentschap, om jouw en gedeelde deliverables te realiseren.</span></p> \n<p><span>Jouw team bestaat uit 2 subteams: enerzijds de front-end (app en web) van Mijn Burgerprofiel en afgeleide applicaties, anderzijds het platform van bouwstenen (generieke functionaliteiten, design system, marktplaats en selfservicing portal).</span></p> \n<p><span>Concreet binnen jouw afdeling ben je de dirigent van het operationaliseren van de hoofdlokettenstrategie. Dit betekent dat je de regierol opneemt om zowel bouwstenen voor hoofd- en thematische loketten in een platform te gieten. Daarnaast ontwikkel je ook de loketten verder die de bouwstenen gebruiken (zoals Mijn Burgerprofiel). Je werkt met een dubbele focus: enerzijds sta je in voor de operationele excellentie van jouw team. Dit betekent dat je de stabiliteit, toekomstgerichtheid en wendbaarheid van de delivery bewaakt en realiseert. Anderzijds vertrek je vanuit een sterke klantenfocus: je toetst continu de relevantie van de roadmap en deliverables af met de betrokken stakeholders.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Manager digitale loketten ter versterking van onze \n<strong>afdeling Loket-oplossingen</strong>.</span></p> \n<p><span>Wil jij meewerken aan de digitale toekomst van Vlaanderen? Als Manager digitale loketten bij Digitaal Vlaanderen draag je actief bij aan de digitaliseringsopdracht van de organisatie. Je ondersteunt en adviseert afdelingen die digitale producten bouwen en klanten helpen bij hun digitaliseringsprojecten. Je werkt als partner voor de verschillende teams binnen Digitaal Vlaanderen en helpt hen om hun doelen te bereiken in een dynamische, snel veranderende omgeving.</span></p> \n<p><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze Strategische focus is gericht op</span><span> </span><strong><span>#partner,</span></strong><strong><span> </span></strong><strong><span>#ontzorgen</span></strong><strong><span> </span></strong><strong><span>en</span></strong><strong><span> </span></strong><strong><span>#éénteam</span></strong><span>, en ook jij zult bijdragen aan deze missie. </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Als manager leid je het team Digitale Loketten van de afdeling Loketplatform. Je bent hiërarchisch verantwoordelijke voor dit team en je hebt een brugfunctie tussen het directieteam en jouw teamleden. Naast people manager is je voornaamste opdracht het vertalen van de organisatiestrategie naar de dagelijkse werking van jouw team. Je werkt nauw samen met het directieteam, je werkt voorstellen uit en faciliteert bij de visie- en strategievorming.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je bent verantwoordelijk voor één van de 4 teams binnen de afdeling Loketplatform: digitale loketten (incl. Mijn Burgerprofiel en het onderliggende platform), infoplatform (incl. vlaanderen.be, Geopunt, Datavindplaats), Contact Center, Centraal team (service delivery, projectwerking, architecten en product partners). </span></p> \n<p><span>Als team manager digitale loketten heb je een dubbele rol: enerzijds stuur je hiërarchisch je team aan – zowel qua ontwikkeling van de mensen en cultuur, als realiseren van de tactische en operationele doelstelling. Anderzijds ben je ook een brugfiguur tussen het directieteam en jouw subteams: je zorgt voor een heldere doorvertaling van de tactische mijlpalen, en legt actief bruggen met andere teams binnen en buiten ons agentschap, om jouw en gedeelde deliverables te realiseren.</span></p> \n<p><span>Jouw team bestaat uit 2 subteams: enerzijds de front-end (app en web) van Mijn Burgerprofiel en afgeleide applicaties, anderzijds het platform van bouwstenen (generieke functionaliteiten, design system, marktplaats en selfservicing portal).</span></p> \n<p><span>Concreet binnen jouw afdeling ben je de dirigent van het operationaliseren van de hoofdlokettenstrategie. Dit betekent dat je de regierol opneemt om zowel bouwstenen voor hoofd- en thematische loketten in een platform te gieten. Daarnaast ontwikkel je ook de loketten verder die de bouwstenen gebruiken (zoals Mijn Burgerprofiel). Je werkt met een dubbele focus: enerzijds sta je in voor de operationele excellentie van jouw team. Dit betekent dat je de stabiliteit, toekomstgerichtheid en wendbaarheid van de delivery bewaakt en realiseert. Anderzijds vertrek je vanuit een sterke klantenfocus: je toetst continu de relevantie van de roadmap en deliverables af met de betrokken stakeholders.</span></p>"
       },
       "locations": [
         {
@@ -2282,6 +2247,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18996",
+      "internal": false,
+      "validThroughDate": "1754870400",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18996",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "JOBSTUDENTEN: ASSISTENT TALEN EXAMENCOMMISSIE (MEERDERE FUNCTIES)"
+      },
+      "displayTitle": "JOBSTUDENTEN: ASSISTENT TALEN EXAMENCOMMISSIE (MEERDERE FUNCTIES)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De examencommissie secundair onderwijs is op zoek naar gemotiveerde\njobstudenten die hun <strong>educatief bachelordiploma secundair onderwijs </strong>al op zak\nhebben. Beschik jij over een bachelordiploma in een taalopleiding (liefst\nNederlands, Frans en/of Engels)? Studeer je momenteel verder in een educatieve\nmasteropleiding? Zoek je naar een leerrijke bijverdienste in het verlengde van\nje opleiding? Dan ben jij dé persoon die we zoeken!<br><br>Binnen de examencommissie zijn er verschillende\nposities als Assistent Talen beschikbaar. In deze functie assisteer je\nervaren leerkrachten bij het afnemen van de mondelinge examens en bij het\nbeoordelen van spreek- en/of schrijfopdrachten. Het betreft zowel\npraktisch-ondersteunende taken als de inhoudelijke opvolging van de examens\nzelf.<br><br>Concreet gaat het over de volgende taken:</p><ul><li>Je neemt deel aan opleidingen en overleg in functie van je opdracht,</li><li>Je ondersteunt bij de lopende mondelinge examens (onthaal, administratie …),</li><li>Je assisteert ervaren leerkrachten tijdens het afnemen van het mondeling examen, o.a. door het bevragen van kandidaten, door het noteren van antwoorden en door de beoordeling van kandidaten volgens een gestandaardiseerd stappenplan (beoordelingswijzer) voor te bereiden,</li><li>Je beoordeelt onder begeleiding van ervaren leerkrachten eerder opgenomen spreekopdrachten (raten) en/of schrijfopdrachten. </li><li>Je biedt waar nodig ondersteuning bij diverse administratieve of toetsontwikkelingstaken.</li><li>Je leert de werking van de examencommissie kennen,</li><li>Enzovoort.</li></ul><p><strong>We zijn op zoek naar jobstudenten die beschikbaar\nzijn in het schooljaar 2025-2026 (september 2025 t.e.m. augustus 2026), liefst\ngemiddeld één werkdag per week. Tijdens examen- en vakantieperiodes kan dit\nwerkschema hier in onderling overleg zeker van afwijken.</strong><br><br>Interesse? Solliciteer dan vandaag nog!</p><br>",
+        "htmlEncoded": "<p>De examencommissie secundair onderwijs is op zoek naar gemotiveerde\njobstudenten die hun <strong>educatief bachelordiploma secundair onderwijs </strong>al op zak\nhebben. Beschik jij over een bachelordiploma in een taalopleiding (liefst\nNederlands, Frans en/of Engels)? Studeer je momenteel verder in een educatieve\nmasteropleiding? Zoek je naar een leerrijke bijverdienste in het verlengde van\nje opleiding? Dan ben jij dé persoon die we zoeken!<br><br>Binnen de examencommissie zijn er verschillende\nposities als Assistent Talen beschikbaar. In deze functie assisteer je\nervaren leerkrachten bij het afnemen van de mondelinge examens en bij het\nbeoordelen van spreek- en/of schrijfopdrachten. Het betreft zowel\npraktisch-ondersteunende taken als de inhoudelijke opvolging van de examens\nzelf.<br><br>Concreet gaat het over de volgende taken:</p><ul><li>Je neemt deel aan opleidingen en overleg in functie van je opdracht,</li><li>Je ondersteunt bij de lopende mondelinge examens (onthaal, administratie …),</li><li>Je assisteert ervaren leerkrachten tijdens het afnemen van het mondeling examen, o.a. door het bevragen van kandidaten, door het noteren van antwoorden en door de beoordeling van kandidaten volgens een gestandaardiseerd stappenplan (beoordelingswijzer) voor te bereiden,</li><li>Je beoordeelt onder begeleiding van ervaren leerkrachten eerder opgenomen spreekopdrachten (raten) en/of schrijfopdrachten. </li><li>Je biedt waar nodig ondersteuning bij diverse administratieve of toetsontwikkelingstaken.</li><li>Je leert de werking van de examencommissie kennen,</li><li>Enzovoort.</li></ul><p><strong>We zijn op zoek naar jobstudenten die beschikbaar\nzijn in het schooljaar 2025-2026 (september 2025 t.e.m. augustus 2026), liefst\ngemiddeld één werkdag per week. Tijdens examen- en vakantieperiodes kan dit\nwerkschema hier in onderling overleg zeker van afwijken.</strong><br><br>Interesse? Solliciteer dan vandaag nog!</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18961",
       "internal": false,
       "validThroughDate": "1754524800",
@@ -2414,6 +2414,41 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18931",
+      "internal": false,
+      "validThroughDate": "1754784000",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18931",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Analist demografie en bevolking"
+      },
+      "displayTitle": "Analist demografie en bevolking",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Voor deze uitdaging zoeken we een<b> <span>proactieve analytische collega</span></b> die over de nodige vaardigheden beschikt voor het <b>bewerken en analyseren van statistische databronnen</b> om de bevolking in het Vlaamse Gewest in kaart te brengen. Samen met collega's binnen en buiten de Vlaamse overheid, en in nauwe samenspraak met gebruikers, zorg je voor de invulling van een coherent statistisch werkprogramma rond demografische thema’s. Je maakt <b>toegankelijke statistieken, demografische projecties</b>, en meer complexe analyserapporten die een breder inzicht geven. Je <b>verzorgt deze publicaties</b> binnen een punctuele publicatieplanning. Je speelt proactief en creatief in op <b>nieuwe gebeurtenissen en trends</b> <b>in de samenstelling en evolutie van de bevolking in Vlaanderen</b>. Je bent een <b>uitstekende netwerker </b>die goed samenwerkt met collega's binnen de Vlaamse overheid, in andere instellingen zoals StatBel en het Federaal Planbureau, en met universitaire onderzoekscentra.</span></p><p><span>Benieuwd naar meer? In het selectiereglement vind je nog meer informatie over jouw functie en de context.</span></p>",
+        "htmlEncoded": "<p><span>Voor deze uitdaging zoeken we een<b> <span>proactieve analytische collega</span></b> die over de nodige vaardigheden beschikt voor het <b>bewerken en analyseren van statistische databronnen</b> om de bevolking in het Vlaamse Gewest in kaart te brengen. Samen met collega's binnen en buiten de Vlaamse overheid, en in nauwe samenspraak met gebruikers, zorg je voor de invulling van een coherent statistisch werkprogramma rond demografische thema’s. Je maakt <b>toegankelijke statistieken, demografische projecties</b>, en meer complexe analyserapporten die een breder inzicht geven. Je <b>verzorgt deze publicaties</b> binnen een punctuele publicatieplanning. Je speelt proactief en creatief in op <b>nieuwe gebeurtenissen en trends</b> <b>in de samenstelling en evolutie van de bevolking in Vlaanderen</b>. Je bent een <b>uitstekende netwerker </b>die goed samenwerkt met collega's binnen de Vlaamse overheid, in andere instellingen zoals StatBel en het Federaal Planbureau, en met universitaire onderzoekscentra.</span></p><p><span>Benieuwd naar meer? In het selectiereglement vind je nog meer informatie over jouw functie en de context.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -2659,6 +2694,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18867",
+      "internal": false,
+      "validThroughDate": "1754784000",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18867",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Stafmedewerker diversiteit gezinnen"
+      },
+      "displayTitle": "Stafmedewerker diversiteit gezinnen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Wil jij meebouwen aan een samenleving waarin elk\ngezin, elk kind en elke jongere kansen krijgt om volwaardig op te groeien? Heb\nje een hart voor superdiversiteit, sociale inclusie en impactgericht sociaal\nwerk? Dan is deze functie iets voor jou.</strong></p><p><strong>Jouw rol</strong></p><p>Als stafmedewerker\nbinnen de afdeling Kind en Gezin en PGJO (Preventieve Gezins- en\nJongerenondersteuning) werk je mee aan het ontwikkelen, implementeren en\nondersteunen van beleid dat inzet op een positieve en rijke leefomgeving. Je\nfocust op het wegwerken van drempels in de samenleving, met bijzondere aandacht\nvoor gezinnen in situaties van kansarmoede en/of migratie.<br>Je bent een\ninhoudelijke bruggenbouwer die samen met collega’s en externe partners werkt\naan een toegankelijk en kwaliteitsvol aanbod. Je versterkt sociaal werkers en\ngezinsondersteuners in hun dagelijkse praktijk binnen de Kind en Gezin-teams en\ndraagt bij aan een geïntegreerd gezinsbeleid.</p><p><strong>Wat ga je doen?</strong></p><ul><li>Vormgeven\n     van inhoudelijke kaders en praktische handvaten voor het werkveld.</li><li>Ontwikkelen\n     van ondersteunende materialen voor ouders en dienstverleners.</li><li>Begeleiden\n     van vormingen, intervisies en werkbesprekingen.</li><li>Monitoren\n     en evalueren van praktijkervaringen en beleidsimpact.</li><li>Samenwerken\n     met welzijnsactoren, gebruikersorganisaties en onderzoeksinstellingen.</li><li>Fungeren\n     als aanspreekpunt voor thema’s zoals diversiteit, migratie, sociale\n     cohesie en meertalige gezinscontexten.</li></ul>",
+        "htmlEncoded": "<p><strong>Wil jij meebouwen aan een samenleving waarin elk\ngezin, elk kind en elke jongere kansen krijgt om volwaardig op te groeien? Heb\nje een hart voor superdiversiteit, sociale inclusie en impactgericht sociaal\nwerk? Dan is deze functie iets voor jou.</strong></p><p><strong>Jouw rol</strong></p><p>Als stafmedewerker\nbinnen de afdeling Kind en Gezin en PGJO (Preventieve Gezins- en\nJongerenondersteuning) werk je mee aan het ontwikkelen, implementeren en\nondersteunen van beleid dat inzet op een positieve en rijke leefomgeving. Je\nfocust op het wegwerken van drempels in de samenleving, met bijzondere aandacht\nvoor gezinnen in situaties van kansarmoede en/of migratie.<br>Je bent een\ninhoudelijke bruggenbouwer die samen met collega’s en externe partners werkt\naan een toegankelijk en kwaliteitsvol aanbod. Je versterkt sociaal werkers en\ngezinsondersteuners in hun dagelijkse praktijk binnen de Kind en Gezin-teams en\ndraagt bij aan een geïntegreerd gezinsbeleid.</p><p><strong>Wat ga je doen?</strong></p><ul><li>Vormgeven\n     van inhoudelijke kaders en praktische handvaten voor het werkveld.</li><li>Ontwikkelen\n     van ondersteunende materialen voor ouders en dienstverleners.</li><li>Begeleiden\n     van vormingen, intervisies en werkbesprekingen.</li><li>Monitoren\n     en evalueren van praktijkervaringen en beleidsimpact.</li><li>Samenwerken\n     met welzijnsactoren, gebruikersorganisaties en onderzoeksinstellingen.</li><li>Fungeren\n     als aanspreekpunt voor thema’s zoals diversiteit, migratie, sociale\n     cohesie en meertalige gezinscontexten.</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
@@ -3147,8 +3217,8 @@
       "displayTitle": "Mobiliteitsbegeleider regio Vlaamse rand",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong>In de sleutelrol van\nmobiliteitsbegeleider vertaal jij het Vlaamse mobiliteitsbeleid naar concrete\nacties op regionaal niveau en draag je bij aan de uitvoering van een gedragen\nen toekomstgericht mobiliteitsplan.</strong></p><p>Langs de weg, over het water en\ndoor de lucht: het Departement Mobiliteit en Openbare Werken (DMOW) doet\nVlaanderen bewegen. Je ondersteunt het team van de vervoerregio Vlaamse rand in\nhet uittekenen en implementeren van een duurzaam mobiliteits- en infrastructuurbeleid.\nZo lever je een goed onderbouwde en kwaliteitsvolle bijdrage aan beleidsplannen\ndie zowel politiek als maatschappelijk gedragen kunnen worden.</p><p>Je staat vervolgens mee in voor\nde implementatie van het beleid op regionaal niveau én voor de opvolging van de\nbeleidsuitvoering door het faciliteren van mobiliteitsdossiers en het\nbegeleiden op vlak van mobiliteitsplanning. Op die manier zorg je enerzijds voor\neen vertaalslag van het Vlaamse mobiliteits- en infrastructuurbeleid naar het\nregionale niveau en verzamel je relevante input als bijdrage tot de\nbeleidsvoorbereiding en –ontwikkeling op Vlaams niveau anderzijds.</p><p>De vervoerregio Vlaamse Rand\nbestaat uit 31 gemeenten die om het Brussels Hoofdstedelijk gewet liggen. Het\nis een zeer gevarieerde regio met zowel stedelijke als landelijke gemeenten\nwaar de mobiliteitsuitdagingen groot zijn. Ook is het een regio in beweging met\nvele grote projecten en stedelijke ontwikkelingen die op til staan. Denk maar\naan de werken aan de ring, de Luchthaventram, verschillende fietssnelwegen en\nontwikkelingen zoals de Broeklin-site, Cat-site, Heizelplateau, enzovoort.</p><p>We zoeken voor ons team een\nenthousiaste collega die houdt van een uitdaging en die zich wil inzetten voor\nde verbetering van de mobiliteit in de Vlaamse Rand. Tot je takenpakket behoort\nniet enkel de ondersteuning van de Vervoerregiowerking, maar ook het begeleiden\nvan gemeenten in hun mobiliteitsbeleid, het leveren van adviezen op middelgrote\nen grote ontwikkelingen, evenals het samenwerken met andere\ncollega-mobiliteitsbegeleiders in werkgroepen rond beleidsvoorbereiding en\n-ontwikkeling.</p><p><strong>In het selectiereglement lees je\nmeer details over jouw diverse takenpakket en het Departement Mobiliteit en\nOpenbare Werken.</strong> </p>",
-        "htmlEncoded": "<p><strong>In de sleutelrol van\nmobiliteitsbegeleider vertaal jij het Vlaamse mobiliteitsbeleid naar concrete\nacties op regionaal niveau en draag je bij aan de uitvoering van een gedragen\nen toekomstgericht mobiliteitsplan.</strong></p><p>Langs de weg, over het water en\ndoor de lucht: het Departement Mobiliteit en Openbare Werken (DMOW) doet\nVlaanderen bewegen. Je ondersteunt het team van de vervoerregio Vlaamse rand in\nhet uittekenen en implementeren van een duurzaam mobiliteits- en infrastructuurbeleid.\nZo lever je een goed onderbouwde en kwaliteitsvolle bijdrage aan beleidsplannen\ndie zowel politiek als maatschappelijk gedragen kunnen worden.</p><p>Je staat vervolgens mee in voor\nde implementatie van het beleid op regionaal niveau én voor de opvolging van de\nbeleidsuitvoering door het faciliteren van mobiliteitsdossiers en het\nbegeleiden op vlak van mobiliteitsplanning. Op die manier zorg je enerzijds voor\neen vertaalslag van het Vlaamse mobiliteits- en infrastructuurbeleid naar het\nregionale niveau en verzamel je relevante input als bijdrage tot de\nbeleidsvoorbereiding en –ontwikkeling op Vlaams niveau anderzijds.</p><p>De vervoerregio Vlaamse Rand\nbestaat uit 31 gemeenten die om het Brussels Hoofdstedelijk gewet liggen. Het\nis een zeer gevarieerde regio met zowel stedelijke als landelijke gemeenten\nwaar de mobiliteitsuitdagingen groot zijn. Ook is het een regio in beweging met\nvele grote projecten en stedelijke ontwikkelingen die op til staan. Denk maar\naan de werken aan de ring, de Luchthaventram, verschillende fietssnelwegen en\nontwikkelingen zoals de Broeklin-site, Cat-site, Heizelplateau, enzovoort.</p><p>We zoeken voor ons team een\nenthousiaste collega die houdt van een uitdaging en die zich wil inzetten voor\nde verbetering van de mobiliteit in de Vlaamse Rand. Tot je takenpakket behoort\nniet enkel de ondersteuning van de Vervoerregiowerking, maar ook het begeleiden\nvan gemeenten in hun mobiliteitsbeleid, het leveren van adviezen op middelgrote\nen grote ontwikkelingen, evenals het samenwerken met andere\ncollega-mobiliteitsbegeleiders in werkgroepen rond beleidsvoorbereiding en\n-ontwikkeling.</p><p><strong>In het selectiereglement lees je\nmeer details over jouw diverse takenpakket en het Departement Mobiliteit en\nOpenbare Werken.</strong> </p>"
+        "raw": "<p><strong>In de sleutelrol van\nmobiliteitsbegeleider vertaal jij het Vlaamse mobiliteitsbeleid naar concrete\nacties op regionaal niveau en draag je bij aan de uitvoering van een gedragen\nen toekomstgericht mobiliteitsplan.</strong></p><p>Langs de weg, over het water en\ndoor de lucht: het Departement Mobiliteit en Openbare Werken (DMOW) doet\nVlaanderen bewegen. Je ondersteunt het team van de vervoerregio Vlaamse rand in\nhet uittekenen en implementeren van een duurzaam mobiliteits- en infrastructuurbeleid.\nZo lever je een goed onderbouwde en kwaliteitsvolle bijdrage aan beleidsplannen\ndie zowel politiek als maatschappelijk gedragen kunnen worden.</p><p>Je staat vervolgens mee in voor\nde implementatie van het beleid op regionaal niveau én voor de opvolging van de\nbeleidsuitvoering door het faciliteren van mobiliteitsdossiers en het\nbegeleiden op vlak van mobiliteitsplanning. Op die manier zorg je enerzijds voor\neen vertaalslag van het Vlaamse mobiliteits- en infrastructuurbeleid naar het\nregionale niveau en verzamel je relevante input als bijdrage tot de\nbeleidsvoorbereiding en –ontwikkeling op Vlaams niveau anderzijds.</p><p>De vervoerregio Vlaamse Rand\nbestaat uit 31 gemeenten die om het Brussels Hoofdstedelijk gewest liggen. Het\nis een zeer gevarieerde regio met zowel stedelijke als landelijke gemeenten\nwaar de mobiliteitsuitdagingen groot zijn. Ook is het een regio in beweging met\nvele grote projecten en stedelijke ontwikkelingen die op til staan. Denk maar\naan de werken aan de ring, de Luchthaventram, verschillende fietssnelwegen en\nontwikkelingen zoals de Broeklin-site, Cat-site, Heizelplateau, enzovoort.</p><p>We zoeken voor ons team een\nenthousiaste collega die houdt van een uitdaging en die zich wil inzetten voor\nde verbetering van de mobiliteit in de Vlaamse Rand. Tot je takenpakket behoort\nniet enkel de ondersteuning van de Vervoerregiowerking, maar ook het begeleiden\nvan gemeenten in hun mobiliteitsbeleid, het leveren van adviezen op middelgrote\nen grote ontwikkelingen, evenals het samenwerken met andere\ncollega-mobiliteitsbegeleiders in werkgroepen rond beleidsvoorbereiding en\n-ontwikkeling.</p><p><strong>In het selectiereglement lees je\nmeer details over jouw diverse takenpakket en het Departement Mobiliteit en\nOpenbare Werken.</strong> </p>",
+        "htmlEncoded": "<p><strong>In de sleutelrol van\nmobiliteitsbegeleider vertaal jij het Vlaamse mobiliteitsbeleid naar concrete\nacties op regionaal niveau en draag je bij aan de uitvoering van een gedragen\nen toekomstgericht mobiliteitsplan.</strong></p><p>Langs de weg, over het water en\ndoor de lucht: het Departement Mobiliteit en Openbare Werken (DMOW) doet\nVlaanderen bewegen. Je ondersteunt het team van de vervoerregio Vlaamse rand in\nhet uittekenen en implementeren van een duurzaam mobiliteits- en infrastructuurbeleid.\nZo lever je een goed onderbouwde en kwaliteitsvolle bijdrage aan beleidsplannen\ndie zowel politiek als maatschappelijk gedragen kunnen worden.</p><p>Je staat vervolgens mee in voor\nde implementatie van het beleid op regionaal niveau én voor de opvolging van de\nbeleidsuitvoering door het faciliteren van mobiliteitsdossiers en het\nbegeleiden op vlak van mobiliteitsplanning. Op die manier zorg je enerzijds voor\neen vertaalslag van het Vlaamse mobiliteits- en infrastructuurbeleid naar het\nregionale niveau en verzamel je relevante input als bijdrage tot de\nbeleidsvoorbereiding en –ontwikkeling op Vlaams niveau anderzijds.</p><p>De vervoerregio Vlaamse Rand\nbestaat uit 31 gemeenten die om het Brussels Hoofdstedelijk gewest liggen. Het\nis een zeer gevarieerde regio met zowel stedelijke als landelijke gemeenten\nwaar de mobiliteitsuitdagingen groot zijn. Ook is het een regio in beweging met\nvele grote projecten en stedelijke ontwikkelingen die op til staan. Denk maar\naan de werken aan de ring, de Luchthaventram, verschillende fietssnelwegen en\nontwikkelingen zoals de Broeklin-site, Cat-site, Heizelplateau, enzovoort.</p><p>We zoeken voor ons team een\nenthousiaste collega die houdt van een uitdaging en die zich wil inzetten voor\nde verbetering van de mobiliteit in de Vlaamse Rand. Tot je takenpakket behoort\nniet enkel de ondersteuning van de Vervoerregiowerking, maar ook het begeleiden\nvan gemeenten in hun mobiliteitsbeleid, het leveren van adviezen op middelgrote\nen grote ontwikkelingen, evenals het samenwerken met andere\ncollega-mobiliteitsbegeleiders in werkgroepen rond beleidsvoorbereiding en\n-ontwikkeling.</p><p><strong>In het selectiereglement lees je\nmeer details over jouw diverse takenpakket en het Departement Mobiliteit en\nOpenbare Werken.</strong> </p>"
       },
       "locations": [
         {
