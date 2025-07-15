@@ -1,10 +1,10 @@
 {
-  "totalItems": 127,
+  "totalItems": 130,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 126,
+  "lastItemOfPage": 129,
   "items": [
     {
       "link": "/Job/vdab-71497468",
@@ -2839,6 +2839,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18828",
+      "internal": true,
+      "validThroughDate": "1754006400",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18828",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "RIS-Medewerker"
+      },
+      "displayTitle": "RIS-Medewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "De Vlaamse Waterweg beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken de ongeveer 1.350 personeelsleden van onze organisatie aan een slim, veelzijdig en welvarend waterwegennet.<br><br>Het team RIS (River Information Services), RIS – centrum, binnen de cel Exploitatie heeft een meervoudige opdracht over het hele werkingsgebied van de Vlaamse Waterweg, namelijk: optreden als crisiscentrum bij calamiteiten en incidenten, de rol vervullen van algemeen informatiecentrum voor wat de waterwegen, de infrastructuur en het gebruik ervan betreft en ondersteuning bieden op het gebied van waterbeheer en scheepvaartbegeleiding. Ben jij communicatief en administratief vaardig, en wil je vanuit je expertise bijdragen tot een vlotte, efficiënte werking van het RIS, de binnenscheepvaart ondersteunen en de bevolking beschermen tegen overstroming van de bevaarbare waterlopen? Dan kijken wij uit naar jouw kandidatuur.",
+        "htmlEncoded": "De Vlaamse Waterweg beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken de ongeveer 1.350 personeelsleden van onze organisatie aan een slim, veelzijdig en welvarend waterwegennet.<br><br>Het team RIS (River Information Services), RIS – centrum, binnen de cel Exploitatie heeft een meervoudige opdracht over het hele werkingsgebied van de Vlaamse Waterweg, namelijk: optreden als crisiscentrum bij calamiteiten en incidenten, de rol vervullen van algemeen informatiecentrum voor wat de waterwegen, de infrastructuur en het gebruik ervan betreft en ondersteuning bieden op het gebied van waterbeheer en scheepvaartbegeleiding. Ben jij communicatief en administratief vaardig, en wil je vanuit je expertise bijdragen tot een vlotte, efficiënte werking van het RIS, de binnenscheepvaart ondersteunen en de bevolking beschermen tegen overstroming van de bevaarbare waterlopen? Dan kijken wij uit naar jouw kandidatuur."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18826",
       "internal": false,
       "validThroughDate": "1752710400",
@@ -3229,6 +3264,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18775",
+      "internal": false,
+      "validThroughDate": "1755129600",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18775",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Applicatie- en cloudbeheerder"
+      },
+      "displayTitle": "Applicatie- en cloudbeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij gebeten door technologie, hou je van optimaliseren en werk je graag op het snijvlak van IT en gebruikersbehoeften? Dan is dit jouw kans!<br><br></div><div></div><div>Het team ICT en digitalisering van DKBUZA zoekt een <strong>applicatie- en cloudbeheerder </strong>die onze softwareapplicaties beheert, onderhoudt en mee helpt verbeteren. Je bent de brug tussen gebruikers en technische dienstverleners, en je zorgt ervoor dat onze applicaties veilig, efficiënt en gebruiksvriendelijk blijven.<br><br></div><div></div><div><strong>Wat ga je doen?</strong></div><ul><li>Je beheert gebruikers en toegangen in verschillende applicaties.</li><li>Je werkt samen met gebruikers en leveranciers aan optimalisaties.</li><li>Je stuurt kleine digitaliseringsprojecten aan.</li><li>Je beheert mee onze Azure-cloudomgeving en denkt mee over automatisering via Infrastructure-as-Code.</li><li>Je ondersteunt je team waar nodig en blijft continu bijleren over nieuwe technologieën.</li></ul><div></div><div><strong>Wat breng je mee?</strong></div><ul><li>Een nieuwsgierige geest en de drive om voortdurend bij te leren in een snel evoluerend IT-landschap.</li><li>Basiskennis van softwareontwikkeling en cybersecurity.</li><li>Sterke communicatieve vaardigheden en een klantgerichte houding.</li><li>Een sterk analytisch en technisch inzicht in informatiesystemen en netwerken.</li><li>Ervaring met of interesse in cloudplatforms (Azure, AWS of GCP) of configuratiebeheerstools (Ansible, Chef of Puppet) zijn een plus, maar geen vereiste.</li></ul><div><strong><br></strong></div><div><strong>Waarom jij?</strong></div><div>Omdat je verantwoordelijkheid neemt, graag samenwerkt, resultaatgericht bent en altijd oog hebt voor de eindgebruiker. Je hoeft niet alles al te kennen — we zoeken vooral iemand met de juiste mindset en leergierigheid.<br><br></div><div></div><div>Bij DKBUZA werk je in een dynamische, internationale context waar maatschappelijke impact centraal staat. Je krijgt meteen toegang tot je verlofdagen, kan rekenen op 2 à 3 dagen telewerk per week, en je komt terecht in een organisatie die inzet op innovatie, samenwerking en persoonlijke groei. Onze projecten reiken vaak over de landsgrenzen heen, wat zorgt voor een boeiende werkomgeving met veel afwisseling en leeropportuniteiten.<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Ben jij gebeten door technologie, hou je van optimaliseren en werk je graag op het snijvlak van IT en gebruikersbehoeften? Dan is dit jouw kans!<br><br></div><div></div><div>Het team ICT en digitalisering van DKBUZA zoekt een <strong>applicatie- en cloudbeheerder </strong>die onze softwareapplicaties beheert, onderhoudt en mee helpt verbeteren. Je bent de brug tussen gebruikers en technische dienstverleners, en je zorgt ervoor dat onze applicaties veilig, efficiënt en gebruiksvriendelijk blijven.<br><br></div><div></div><div><strong>Wat ga je doen?</strong></div><ul><li>Je beheert gebruikers en toegangen in verschillende applicaties.</li><li>Je werkt samen met gebruikers en leveranciers aan optimalisaties.</li><li>Je stuurt kleine digitaliseringsprojecten aan.</li><li>Je beheert mee onze Azure-cloudomgeving en denkt mee over automatisering via Infrastructure-as-Code.</li><li>Je ondersteunt je team waar nodig en blijft continu bijleren over nieuwe technologieën.</li></ul><div></div><div><strong>Wat breng je mee?</strong></div><ul><li>Een nieuwsgierige geest en de drive om voortdurend bij te leren in een snel evoluerend IT-landschap.</li><li>Basiskennis van softwareontwikkeling en cybersecurity.</li><li>Sterke communicatieve vaardigheden en een klantgerichte houding.</li><li>Een sterk analytisch en technisch inzicht in informatiesystemen en netwerken.</li><li>Ervaring met of interesse in cloudplatforms (Azure, AWS of GCP) of configuratiebeheerstools (Ansible, Chef of Puppet) zijn een plus, maar geen vereiste.</li></ul><div><strong><br></strong></div><div><strong>Waarom jij?</strong></div><div>Omdat je verantwoordelijkheid neemt, graag samenwerkt, resultaatgericht bent en altijd oog hebt voor de eindgebruiker. Je hoeft niet alles al te kennen — we zoeken vooral iemand met de juiste mindset en leergierigheid.<br><br></div><div></div><div>Bij DKBUZA werk je in een dynamische, internationale context waar maatschappelijke impact centraal staat. Je krijgt meteen toegang tot je verlofdagen, kan rekenen op 2 à 3 dagen telewerk per week, en je komt terecht in een organisatie die inzet op innovatie, samenwerking en persoonlijke groei. Onze projecten reiken vaak over de landsgrenzen heen, wat zorgt voor een boeiende werkomgeving met veel afwisseling en leeropportuniteiten.<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18768",
       "internal": false,
       "validThroughDate": "1753142400",
@@ -3448,46 +3518,6 @@
         "htmlEncoded": "<p>Ben jij een gedreven professional met een passie voor vastgoed en administratie? Heb je ervaring in het beheren van dossiers en ben je toe aan een nieuwe uitdaging? Dan ben jij wellicht de dossierbeheerder waar GO! Onderwijs van de Vlaamse gemeenschap naar op zoek is! </p><p>Als dossierbeheerder ben je de spil in het efficiënte beheer van vastgoed- en verkoop dossiers. Je bent het eerste aanspreekpunt voor vastgoedverkopen, waarbij je zorgt voor een vlotte communicatie met alle betrokken partijen. Vanaf de opstart tot aan de afronding, ben jij verantwoordelijk voor de volledige administratieve opvolging. Je beheert en coördineert vastgoedverkopen van begin tot eind, verzamelt de benodigde informatie, stelt verkoopdossiers samen en houdt alle betrokkenen op de hoogte.&nbsp;</p><p> Daarnaast verzorg je de publiciteit rond de verkopen op onze website, via mailing en op onze LinkedInpagina en vorm je de communicatieve brug tussen verschillende actoren. Voor plaats bezoeken ga je regelmatig op verplaatsingen. Je beantwoordt vragen, lost eventuele problemen op en waakt over de correcte toepassing en naleving van wet- en regelgeving met betrekking tot vastgoedtransacties.&nbsp; </p><p>Je beschikt over uitstekende communicatieve vaardigheden en werk je nauwkeurig en punctueel. Met een passie voor administratie, affiniteit voor dossierbeheer en eventueel kennis van vastgoedtransacties, ben jij de professional die wij zoeken.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;&nbsp;</p>"
       },
       "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18713",
-      "internal": false,
-      "validThroughDate": "1752451200",
-      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18713",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbeheerder Inspectie"
-      },
-      "displayTitle": "Dossierbeheerder Inspectie",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben jij iemand die houdt van orde en nauwkeurigheid? Krijg je energie van goed georganiseerde klantendossiers en een vlotte administratie? Dan ben jij misschien wel de collega die we zoeken!<br><br>Als dossierbeheerder speel je een cruciale rol in het ondersteunen van de dagelijkse werking van onze dienst. Je zorgt ervoor dat (klanten)dossiers correct en volledig worden bijgehouden en waakt erover dat aanvragen, klachten en meldingen op klantvriendelijke wijze worden behandeld. Dankzij je nauwkeurige werk kan de dienstverlening optimaal verlopen en voelen onze klanten zich gehoord en geholpen.<br><br>Als dossierbeheerder van de Vlaamse Sociale Inspectie kom je in contact met inspecteurs van de afdeling inspectie, burgers en/ of bedrijven naargelang de maatregel waarvoor je de dossiers beheert.<br>Je bent het provinciaal administratief aanspreekpunt voor de Vlaamse Sociale Inspectie.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Ben jij iemand die houdt van orde en nauwkeurigheid? Krijg je energie van goed georganiseerde klantendossiers en een vlotte administratie? Dan ben jij misschien wel de collega die we zoeken!<br><br>Als dossierbeheerder speel je een cruciale rol in het ondersteunen van de dagelijkse werking van onze dienst. Je zorgt ervoor dat (klanten)dossiers correct en volledig worden bijgehouden en waakt erover dat aanvragen, klachten en meldingen op klantvriendelijke wijze worden behandeld. Dankzij je nauwkeurige werk kan de dienstverlening optimaal verlopen en voelen onze klanten zich gehoord en geholpen.<br><br>Als dossierbeheerder van de Vlaamse Sociale Inspectie kom je in contact met inspecteurs van de afdeling inspectie, burgers en/ of bedrijven naargelang de maatregel waarvoor je de dossiers beheert.<br>Je bent het provinciaal administratief aanspreekpunt voor de Vlaamse Sociale Inspectie.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
         {
           "address": {
             "city": "Brussel"
@@ -4060,6 +4090,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18584",
+      "internal": false,
+      "validThroughDate": "1755302400",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18584",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist modellering"
+      },
+      "displayTitle": "Specialist modellering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen. Dankzij jouw werk kunnen we burgers, hulpdiensten en lokale besturen beter waarschuwen, bijvoorbeeld via www.waterinfo.vlaanderen.be, dé referentiesite voor actuele voorspellingen en waarschuwingen. Een tijdig signaal kan schade voorkomen — jouw bijdrage is dus bijzonder tastbaar én maatschappelijk relevant.</p><p>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Omdat we als waterloopbeheerder 24/7 onze waterlopen in de gaten houden en beheren, hebben we ook een permanentieregeling. We werken daarvoor met een beurtrolsysteem. Ook jij zal regelmatig ’s avonds of in het weekend permanentietaken moeten uitvoeren zoals het controleren van de voorspellingen, het beantwoorden van dringende vragen. Ook het opvolgen van de voorspellingssystemen tijdens overstromingen moet soms buiten de normale kantooruren gebeuren.</p><p>Lees meer over de\nfunctie in het selectiereglement als bijlage bij \"hoe solliciteren\".\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.&nbsp;</p>",
+        "htmlEncoded": "<p>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen. Dankzij jouw werk kunnen we burgers, hulpdiensten en lokale besturen beter waarschuwen, bijvoorbeeld via www.waterinfo.vlaanderen.be, dé referentiesite voor actuele voorspellingen en waarschuwingen. Een tijdig signaal kan schade voorkomen — jouw bijdrage is dus bijzonder tastbaar én maatschappelijk relevant.</p><p>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Omdat we als waterloopbeheerder 24/7 onze waterlopen in de gaten houden en beheren, hebben we ook een permanentieregeling. We werken daarvoor met een beurtrolsysteem. Ook jij zal regelmatig ’s avonds of in het weekend permanentietaken moeten uitvoeren zoals het controleren van de voorspellingen, het beantwoorden van dringende vragen. Ook het opvolgen van de voorspellingssystemen tijdens overstromingen moet soms buiten de normale kantooruren gebeuren.</p><p>Lees meer over de\nfunctie in het selectiereglement als bijlage bij \"hoe solliciteren\".\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18527",
       "internal": false,
       "validThroughDate": "1754265600",
@@ -4597,6 +4659,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-12975",
+      "internal": false,
+      "validThroughDate": "1756684800",
+      "hiringOrganization": "Toerisme Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-12975",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administrateur-generaal Toerisme Vlaanderen"
+      },
+      "displayTitle": "Administrateur-generaal Toerisme Vlaanderen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Toerisme Vlaanderen zet zich in voor de duurzame ontwikkeling van toerisme in Vlaanderen. Daarnaast versterkt het de positieve kracht van toerisme en maakt het van Vlaanderen een florerende bestemming. <span>Het waarmaken van recht op vakantie voor elke Vlaming speelt hierin een centrale rol.</span></span></p> <p><span>Als administrateur-generaal ben je een strategisch bruggenbouwer. Je inspireert en motiveert een divers team, bouwt samen met hen aan een toekomstgericht toerismebeleid en zet koers naar een kwaliteitsvol en inclusief toeristisch aanbod. Met visie en daadkracht vertaal je de ambitie in concrete resultaten. </span></p> <p><span>Klaar om Vlaanderen op de kaart te zetten? </span><span>Stel je dan zeker kandidaat! </span></p> <p><span>Jouw talent is belangrijk. Genderidentiteit, afkomst, leeftijd, geaardheid, handicap of chronische ziekte spelen geen rol. Stel je kandidaat en draag bij aan een inclusief Vlaanderen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Toerisme Vlaanderen zet zich in voor de duurzame ontwikkeling van toerisme in Vlaanderen. Daarnaast versterkt het de positieve kracht van toerisme en maakt het van Vlaanderen een florerende bestemming. <span>Het waarmaken van recht op vakantie voor elke Vlaming speelt hierin een centrale rol.</span></span></p> <p><span>Als administrateur-generaal ben je een strategisch bruggenbouwer. Je inspireert en motiveert een divers team, bouwt samen met hen aan een toekomstgericht toerismebeleid en zet koers naar een kwaliteitsvol en inclusief toeristisch aanbod. Met visie en daadkracht vertaal je de ambitie in concrete resultaten. </span></p> <p><span>Klaar om Vlaanderen op de kaart te zetten? </span><span>Stel je dan zeker kandidaat! </span></p> <p><span>Jouw talent is belangrijk. Genderidentiteit, afkomst, leeftijd, geaardheid, handicap of chronische ziekte spelen geen rol. Stel je kandidaat en draag bij aan een inclusief Vlaanderen!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
