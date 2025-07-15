@@ -1,10 +1,10 @@
 {
-  "totalItems": 130,
+  "totalItems": 134,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 129,
+  "lastItemOfPage": 133,
   "items": [
     {
       "link": "/Job/vdab-71497468",
@@ -2247,6 +2247,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19011",
+      "internal": false,
+      "validThroughDate": "1753056000",
+      "hiringOrganization": "Uitleendienst voor Kampeermateriaal",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19011",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent Uitleendienst Kampeermateriaal"
+      },
+      "displayTitle": "Jobstudent Uitleendienst Kampeermateriaal",
+      "isProtected": false,
+      "description": {
+        "raw": "Steek je graag de\nhanden uit de mouwen en ben je sociaal ingesteld? Zou je graag ondersteuning\nbieden bij het uitlenen van kampeermateriaal aan jongeren? Dan is deze job iets\nvoor jou!<br><br>In samenwerking\nmet het eigen personeel van de Uitleendienst voor Kampeermateriaal haal je de\nonderdelen van de verschillende modellen van tenten uit rekken of boxen en\nbreng je ze tot aan de vrachtwagen van de ontlener.<br><br>Bij\nhet terugbrengen van ontleend materiaal voer je mee de controle uit en stel je\nhet vastgestelde verlies of schade vast. Eveneens zal je kleine herstellingen\naan het materiaal uitvoeren. Deze job vraagt de nodige fysieke inspanningen.<br><br>Je werkt elke\nweekdag van 7u54 tot 16u.<br><br>Ben je op korte\ntermijn beschikbaar t.e.m. 22 augustus? Stel je dan zeker kandidaat!",
+        "htmlEncoded": "Steek je graag de\nhanden uit de mouwen en ben je sociaal ingesteld? Zou je graag ondersteuning\nbieden bij het uitlenen van kampeermateriaal aan jongeren? Dan is deze job iets\nvoor jou!<br><br>In samenwerking\nmet het eigen personeel van de Uitleendienst voor Kampeermateriaal haal je de\nonderdelen van de verschillende modellen van tenten uit rekken of boxen en\nbreng je ze tot aan de vrachtwagen van de ontlener.<br><br>Bij\nhet terugbrengen van ontleend materiaal voer je mee de controle uit en stel je\nhet vastgestelde verlies of schade vast. Eveneens zal je kleine herstellingen\naan het materiaal uitvoeren. Deze job vraagt de nodige fysieke inspanningen.<br><br>Je werkt elke\nweekdag van 7u54 tot 16u.<br><br>Ben je op korte\ntermijn beschikbaar t.e.m. 22 augustus? Stel je dan zeker kandidaat!"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zaventem"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18996",
       "internal": false,
       "validThroughDate": "1754870400",
@@ -2594,6 +2629,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18909",
+      "internal": false,
+      "validThroughDate": "1755388800",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18909",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Juridisch adviseur  overheidsopdrachten"
+      },
+      "displayTitle": "Juridisch adviseur  overheidsopdrachten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Zin om als juridisch expert overheidsopdrachten mee te bouwen aan de digitale overheid van morgen?</p><p>\nBij Digitaal Vlaanderen combineer je je juridische kennis met impactvolle digitale innovatie. Je zorgt voor heldere, kwaliteitsvolle ondersteuning bij complexe aanbestedingen en werkt samen over afdelingen heen. Je denkt strategisch mee, vertaalt wetgeving naar de praktijk en tilt onze dienstverlening naar een hoger niveau.</p><p>\nMet jouw scherpzinnigheid, flexibiliteit en betrokkenheid maak jij het verschil in een snel evoluerende context. Sluit je aan bij een toonaangevend team dat digitalisering en juridische expertise naadloos verbindt.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Zin om als juridisch expert overheidsopdrachten mee te bouwen aan de digitale overheid van morgen?</p><p>\nBij Digitaal Vlaanderen combineer je je juridische kennis met impactvolle digitale innovatie. Je zorgt voor heldere, kwaliteitsvolle ondersteuning bij complexe aanbestedingen en werkt samen over afdelingen heen. Je denkt strategisch mee, vertaalt wetgeving naar de praktijk en tilt onze dienstverlening naar een hoger niveau.</p><p>\nMet jouw scherpzinnigheid, flexibiliteit en betrokkenheid maak jij het verschil in een snel evoluerende context. Sluit je aan bij een toonaangevend team dat digitalisering en juridische expertise naadloos verbindt.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18895",
       "internal": false,
       "validThroughDate": "1754265600",
@@ -2694,6 +2764,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18875",
+      "internal": false,
+      "validThroughDate": "1754352000",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18875",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Juridisch adviseur beleidsvoorbereiding"
+      },
+      "displayTitle": "Juridisch adviseur beleidsvoorbereiding",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Droom je ervan een sleutelrol te spelen in de digitale toekomst van Vlaanderen?</p><p>Bij Digitaal Vlaanderen krijg je als juridisch adviseur de unieke kans om vernieuwende digitale projecten te leiden die het verschil maken voor burgers, bedrijven en overheden. Je vormt beleid en regelgeving die de digitale transformatie ondersteunen, en je bent de cruciale schakel tussen juridische kaders en technologische innovatie.</p><p>Kom bij ons team en draag bij aan een digitaal vriendelijke regelgeving terwijl je jouw analytische vaardigheden en passie voor juridische uitdagingen volledig benut!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Droom je ervan een sleutelrol te spelen in de digitale toekomst van Vlaanderen?</p><p>Bij Digitaal Vlaanderen krijg je als juridisch adviseur de unieke kans om vernieuwende digitale projecten te leiden die het verschil maken voor burgers, bedrijven en overheden. Je vormt beleid en regelgeving die de digitale transformatie ondersteunen, en je bent de cruciale schakel tussen juridische kaders en technologische innovatie.</p><p>Kom bij ons team en draag bij aan een digitaal vriendelijke regelgeving terwijl je jouw analytische vaardigheden en passie voor juridische uitdagingen volledig benut!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3219,6 +3324,41 @@
       "description": {
         "raw": "<div>Ben jij gepassioneerd door welzijn en diversiteit? Wil je een inclusieve en gezonde werkplek bevorderen? Heb je bovendien al ervaring binnen HR-beleid in welzijn en diversiteit? Dan is deze functie misschien wel iets voor jou!<br><br></div><div></div><div>Als HR-partner ben je verantwoordelijk voor het ontwikkelen en implementeren van het <strong>welzijns- en diversiteitsbeleid</strong>, het bevorderen van een <strong>inclusieve werkomgeving</strong>, en het adviseren en ondersteunen bij <strong>welzijns- en diversiteitsvraagstukken</strong>. Daarnaast sta je in voor de opstart, begeleiding en opvolging van re-integratietrajecten en zorg je voor de verdere uitrol van het aanwezigheidsbeleid in het agentschap. Je werkt samen met interne en externe partners om ons beleid te versterken en een positieve impact te maken.&nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-partner welzijn en diversiteit wellicht jouw ideale match&nbsp;<br><br></div><div></div><div>Waar kom je terecht? Bij het team Strategisch HR, Opleiding- en organisatieontwikkeling, binnen het Agentschap Uitbetaling Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams! Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
         "htmlEncoded": "<div>Ben jij gepassioneerd door welzijn en diversiteit? Wil je een inclusieve en gezonde werkplek bevorderen? Heb je bovendien al ervaring binnen HR-beleid in welzijn en diversiteit? Dan is deze functie misschien wel iets voor jou!<br><br></div><div></div><div>Als HR-partner ben je verantwoordelijk voor het ontwikkelen en implementeren van het <strong>welzijns- en diversiteitsbeleid</strong>, het bevorderen van een <strong>inclusieve werkomgeving</strong>, en het adviseren en ondersteunen bij <strong>welzijns- en diversiteitsvraagstukken</strong>. Daarnaast sta je in voor de opstart, begeleiding en opvolging van re-integratietrajecten en zorg je voor de verdere uitrol van het aanwezigheidsbeleid in het agentschap. Je werkt samen met interne en externe partners om ons beleid te versterken en een positieve impact te maken.&nbsp;<br><br></div><div></div><div>Als je jezelf herkent in de kernwaarden van ons agentschap - \"samen \", \"klantgericht\", deskundig\", \"met durf \" en \"met vertrouwen\" - en graag samen met je collega's aan deze doelen wilt werken, dan is deze functie als HR-partner welzijn en diversiteit wellicht jouw ideale match&nbsp;<br><br></div><div></div><div>Waar kom je terecht? Bij het team Strategisch HR, Opleiding- en organisatieontwikkeling, binnen het Agentschap Uitbetaling Groeipakket. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben.<br><br></div><div></div><div></div><div>Wij willen graag dat ons personeelsbestand een afspiegeling is van de maatschappij. Wij werken daarom aan een uitgebalanceerd diversiteitsbeleid. Iedereen, ongeacht geslacht, afkomst of functiebeperking, is welkom in onze teams! Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18788",
+      "internal": false,
+      "validThroughDate": "1755820800",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18788",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Back up teamleider schoonmaak"
+      },
+      "displayTitle": "Back up teamleider schoonmaak",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je een passie voor professionele schoonmaak, en wil je daarnaast graag eens proeven van leidinggevende en coachende taken?</span></p> <p><b><span>Dan is deze functie iets voor jou!</span></b></p> <p><span>Het Facilitair Bedrijf in het Herman Teirlinckgebouw in Brussel zoekt een enthousiaste back-up teamleider schoonmaak. In deze afwisselende functie ben je <b>de brug tussen de teamleider en het schoonmaakpersoneel</b></span></p> <p>Je werkt je mee aan het <b>schoonmaken van onze gebouwen</b> volgens de werkplanning. Tijdens de afwezigheid van de teamverantwoordelijke neem jij <b>uitzonderlijk de leiding over het team</b>, met bijhorende administratieve taken. Is de verantwoordelijke aanwezig? Dan werk je mee, maar krijg je ook de kans om je collega’s on-the-job te <b>coachen</b> en ondersteun je hen in hun ontwikkeling. Je zorgt er mee voor dat iedereen de juiste begeleiding krijgt en ziet meteen wie extra opleidingen nodig heeft.</p> <p>We bieden een werkplek in ons moderne gebouw in Brussel, waar je 38 uur per week werkt. Je start elke dag tussen 6u en 6u30 en eindigt tussen 14u06 en 14u36, maar we vragen wel enige flexibiliteit. Af en toe volg je ook de namiddagploeg op en wijk je dus af van deze uren. </p><p>Lees meer over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><span>Heb je een passie voor professionele schoonmaak, en wil je daarnaast graag eens proeven van leidinggevende en coachende taken?</span></p> <p><b><span>Dan is deze functie iets voor jou!</span></b></p> <p><span>Het Facilitair Bedrijf in het Herman Teirlinckgebouw in Brussel zoekt een enthousiaste back-up teamleider schoonmaak. In deze afwisselende functie ben je <b>de brug tussen de teamleider en het schoonmaakpersoneel</b></span></p> <p>Je werkt je mee aan het <b>schoonmaken van onze gebouwen</b> volgens de werkplanning. Tijdens de afwezigheid van de teamverantwoordelijke neem jij <b>uitzonderlijk de leiding over het team</b>, met bijhorende administratieve taken. Is de verantwoordelijke aanwezig? Dan werk je mee, maar krijg je ook de kans om je collega’s on-the-job te <b>coachen</b> en ondersteun je hen in hun ontwikkeling. Je zorgt er mee voor dat iedereen de juiste begeleiding krijgt en ziet meteen wie extra opleidingen nodig heeft.</p> <p>We bieden een werkplek in ons moderne gebouw in Brussel, waar je 38 uur per week werkt. Je start elke dag tussen 6u en 6u30 en eindigt tussen 14u06 en 14u36, maar we vragen wel enige flexibiliteit. Af en toe volg je ook de namiddagploeg op en wijk je dus af van deze uren. </p><p>Lees meer over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -4230,9 +4370,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Dossierbehandelaar bewarende maatregelen"
+        "htmlEncoded": "Dossierbehandelaar inning  en invordering"
       },
-      "displayTitle": "Dossierbehandelaar bewarende maatregelen",
+      "displayTitle": "Dossierbehandelaar inning  en invordering",
       "isProtected": false,
       "description": {
         "raw": "<p><b><span>Ben jij klaar voor een volgende stap in een uitdagende fiscale functie?</span></b></p><p><b><span>&nbsp;</span></b><span>Je bent een dossierbehandelaar die niet terugdeinst voor complexe dossiers en juridische vraagstukken. In een dynamische werkomgeving ga jij de uitdaging aan om fiscale schulden efficiënt en rechtvaardig te innen. Je weet hoofd- van bijzaken te onderscheiden, werkt gestructureerd en vindt het prettig om klanten telefonisch te informeren en begeleiden. Bovendien ben je sterk in het analyseren van situaties waarin standpunten botsen, bijvoorbeeld in communicatie met notarissen. Herken jij jezelf in deze omschrijving? Dan is deze vacature op jouw lijf geschreven!</span></p><p><span><b>Wat ga je doen?</b></span></p><p><span><b>&nbsp;</b>Als dossierbehandelaar inning en invordering bij de dienst <b>Bewarende Maatregelen</b> neem jij zelfstandig verantwoordelijkheid voor een gevarieerd pakket dossiers. Je speelt een centrale rol in het innen van fiscale schulden en fungeert als aanspreekpunt voor diverse bijzondere en juridisch-technische opdrachten die buiten het standaard takenpakket vallen. Je ondersteunt ook het teamhoofd bij complexe casussen en draagt actief bij aan een professionele en efficiënte dienstverlening.</span></p><p><span><b>Waarom kiezen voor deze functie?</b></span></p><p><span>Je komt terecht in een werkomgeving waar geen dag hetzelfde is. Je krijgt de kans om jouw juridische en communicatieve vaardigheden in te zetten én verder te ontwikkelen in dossiers die ertoe doen. Samen met een team van gemotiveerde collega’s werk je aan een correcte en efficiënte inning van fiscale schulden.</span></p><p><span><b>Maak het verschil. Solliciteer nu en versterk ons team!</b></span></p><p><span><b>&nbsp;</b></span><b><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></b></p>",
