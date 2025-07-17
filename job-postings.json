@@ -1,11 +1,81 @@
 {
-  "totalItems": 143,
+  "totalItems": 145,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 142,
+  "lastItemOfPage": 144,
   "items": [
+    {
+      "link": "/Job/vdab-71542518",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71542518",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker ecohydrologie"
+      },
+      "displayTitle": "Onderzoeker ecohydrologie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p dir=\"ltr\"><span>Je ondersteunt het team Milieu en Klimaat bij het uitvoeren van ecohydrologische projecten.</span></p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<ul> \n<li>Bijdragen aan de lopende ecohydrologische studies</li> \n<li><span><span>Bijdragen aan de andere studies die op INBO lopen, zoals het onderzoek naar de hydrologische en bodemkundige standplaatsvereisten van de Natura 2000 habitattypen en regionaal belangrijke biotopen</span></span></li> \n<li><span><span>Ontwikkelen en onderhouden van kennis in het wetenschappelijk vakgebied</span></span></li> \n<li><span><span>Actief samenwerken met collega’s binnen en buiten het team </span></span></li> </ul>",
+        "htmlEncoded": "<p dir=\"ltr\"><span>Je ondersteunt het team Milieu en Klimaat bij het uitvoeren van ecohydrologische projecten.</span></p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<ul> \n<li>Bijdragen aan de lopende ecohydrologische studies</li> \n<li><span><span>Bijdragen aan de andere studies die op INBO lopen, zoals het onderzoek naar de hydrologische en bodemkundige standplaatsvereisten van de Natura 2000 habitattypen en regionaal belangrijke biotopen</span></span></li> \n<li><span><span>Ontwikkelen en onderhouden van kennis in het wetenschappelijk vakgebied</span></span></li> \n<li><span><span>Actief samenwerken met collega’s binnen en buiten het team </span></span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71542347",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71542347",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "veldmedewerker ecohydrologie"
+      },
+      "displayTitle": "veldmedewerker ecohydrologie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p dir=\"ltr\"><span>Als veldmedewerker ecohydrologie werk je mee in het team Milieu &amp; Klimaat van het INBO. Je staat mee in voor het verzamelen en verwerken van watergegevens (grond- en oppervlaktewaterpeilgegevens; grond- en oppervlaktewaterstaalname) in natuurgebieden in Vlaanderen. Als veldmedewerker ecohydrologie sta je in voor het plaatsen en onderhouden van grond- en oppervlaktewatermeetpunten, het installeren van automatische dataloggers, het uitlezen van de data. Je bereidt ook je veldwerk voor en je voert de verzamelde gegevens in en controleert ze voor verwerking in de INBO-databank WATINA (WATer In NAtuur, </span><span>https://watina.inbo.be</span><span>). </span></p> \n<p>Voor 1 van de functies zal het zwaartepunt van het terreinwerk in het Westen van Vlaanderen liggen. Voor de andere functie zal het terreinwerk over gans Vlaanderen zijn.</p>",
+        "htmlEncoded": "<p dir=\"ltr\"><span>Als veldmedewerker ecohydrologie werk je mee in het team Milieu &amp; Klimaat van het INBO. Je staat mee in voor het verzamelen en verwerken van watergegevens (grond- en oppervlaktewaterpeilgegevens; grond- en oppervlaktewaterstaalname) in natuurgebieden in Vlaanderen. Als veldmedewerker ecohydrologie sta je in voor het plaatsen en onderhouden van grond- en oppervlaktewatermeetpunten, het installeren van automatische dataloggers, het uitlezen van de data. Je bereidt ook je veldwerk voor en je voert de verzamelde gegevens in en controleert ze voor verwerking in de INBO-databank WATINA (WATer In NAtuur, </span><span>https://watina.inbo.be</span><span>). </span></p> \n<p>Voor 1 van de functies zal het zwaartepunt van het terreinwerk in het Westen van Vlaanderen liggen. Voor de andere functie zal het terreinwerk over gans Vlaanderen zijn.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71541878",
       "internal": false,
