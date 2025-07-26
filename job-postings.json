@@ -1,10 +1,10 @@
 {
-  "totalItems": 168,
+  "totalItems": 167,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 167,
+  "lastItemOfPage": 166,
   "items": [
     {
       "link": "/Job/vdab-71596006",
@@ -5140,41 +5140,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18625",
-      "internal": true,
-      "validThroughDate": "1753401600",
-      "hiringOrganization": "Agentschap Plantentuin Meise",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18625",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamleider security"
-      },
-      "displayTitle": "Teamleider security",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Plantentuin Meise zoekt een ervaren en gedreven Teamleader Security. In deze rol ben je verantwoordelijk voor de beveiliging van onze collecties en infrastructuur en de veiligheid van onze bezoekers en medewerkers. Je bent meewerkend leidinggevende binnen het securityteam, ontwikkelt en implementeert procedures en grijpt kordaat in bij incidenten of noodgevallen.</p><p> Je hebt relevante ervaring in een leidinggevende functie binnen de bewaking, denkt proactief en communiceert helder. Wij bieden een unieke werkplek in het hart van een groene, inspirerende omgeving, met ruimte voor groei en ontwikkeling.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Plantentuin Meise zoekt een ervaren en gedreven Teamleader Security. In deze rol ben je verantwoordelijk voor de beveiliging van onze collecties en infrastructuur en de veiligheid van onze bezoekers en medewerkers. Je bent meewerkend leidinggevende binnen het securityteam, ontwikkelt en implementeert procedures en grijpt kordaat in bij incidenten of noodgevallen.</p><p> Je hebt relevante ervaring in een leidinggevende functie binnen de bewaking, denkt proactief en communiceert helder. Wij bieden een unieke werkplek in het hart van een groene, inspirerende omgeving, met ruimte voor groei en ontwikkeling.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Meise"
           }
         }
       ]
