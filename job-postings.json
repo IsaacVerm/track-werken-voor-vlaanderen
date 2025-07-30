@@ -1,11 +1,46 @@
 {
-  "totalItems": 172,
+  "totalItems": 173,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 171,
+  "lastItemOfPage": 172,
   "items": [
+    {
+      "link": "/Job/vdab-71613406",
+      "internal": false,
+      "validThroughDate": "1755561600",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71613406",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Maatschappelijk assistent"
+      },
+      "displayTitle": "Maatschappelijk assistent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p align=\"center\"><span>Wil jij als maatschappelijk assistent ervaring opdoen in de geestelijke gezondheidszorg? Grijp je kans! OPZC Rekem biedt een tijdelijke, maar leerrijke uitdaging met directe impact in een boeiende werkomgeving!</span></p> \n<p><strong><span>Functiebeschrijving</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je bent vertrouwd met de sociale wetgeving en sociale kaart.</span></li> \n<li><span>Je staat in voor de contacten met verwijzers, zorgvoorzieningen, externe instanties zoals bewindvoerder, OCMW etc.</span></li> \n<li><span>Je brengt een werkrelatie tot stand met en onderhoudt het sociaal netwerk van de zorgvrager.</span></li> \n<li><span>Je werkt mee bij het realiseren van het behandelplan van zorgvragers. Een aantal belangrijke verantwoordelijkheden hierin zijn:</span></li> \n<ul type=\"circle\"> \n<li><span>de inventarisatie van de persoonlijke en professionele omgeving van de zorgvragers;</span></li> \n<li><span>de regularisatie van de sociaal-administratieve toestand van de zorgvrager;</span></li> \n<li><span>het meewerken aan de uitvoering van het ontslagplan.</span></li> </ul> \n<li><span>Je rapporteert je bevindingen – zowel mondeling als schriftelijk – en doet op basis hiervan aanbevelingen met betrekking tot aandachtspunten in de begeleiding/ behandeling aan het multidisciplinair team.</span></li> \n<li><span>Daarnaast ben je een aanspreekpunt voor zorgvragers betreffende hun sociale administratie.</span></li> </ul>",
+        "htmlEncoded": "<p align=\"center\"><span>Wil jij als maatschappelijk assistent ervaring opdoen in de geestelijke gezondheidszorg? Grijp je kans! OPZC Rekem biedt een tijdelijke, maar leerrijke uitdaging met directe impact in een boeiende werkomgeving!</span></p> \n<p><strong><span>Functiebeschrijving</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je bent vertrouwd met de sociale wetgeving en sociale kaart.</span></li> \n<li><span>Je staat in voor de contacten met verwijzers, zorgvoorzieningen, externe instanties zoals bewindvoerder, OCMW etc.</span></li> \n<li><span>Je brengt een werkrelatie tot stand met en onderhoudt het sociaal netwerk van de zorgvrager.</span></li> \n<li><span>Je werkt mee bij het realiseren van het behandelplan van zorgvragers. Een aantal belangrijke verantwoordelijkheden hierin zijn:</span></li> \n<ul type=\"circle\"> \n<li><span>de inventarisatie van de persoonlijke en professionele omgeving van de zorgvragers;</span></li> \n<li><span>de regularisatie van de sociaal-administratieve toestand van de zorgvrager;</span></li> \n<li><span>het meewerken aan de uitvoering van het ontslagplan.</span></li> </ul> \n<li><span>Je rapporteert je bevindingen – zowel mondeling als schriftelijk – en doet op basis hiervan aanbevelingen met betrekking tot aandachtspunten in de begeleiding/ behandeling aan het multidisciplinair team.</span></li> \n<li><span>Daarnaast ben je een aanspreekpunt voor zorgvragers betreffende hun sociale administratie.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71611908",
       "internal": false,
