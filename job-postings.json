@@ -1,11 +1,46 @@
 {
-  "totalItems": 177,
+  "totalItems": 179,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 176,
+  "lastItemOfPage": 178,
   "items": [
+    {
+      "link": "/Job/vdab-71620712",
+      "internal": false,
+      "validThroughDate": "1756166400",
+      "hiringOrganization": "VDAB",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71620712",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Bemiddelaar Inschatting+ VDAB Brussel"
+      },
+      "displayTitle": "Bemiddelaar Inschatting+ VDAB Brussel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span></p> \n<p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant.</span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten.</span></span></p> \n<p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage. \n<br><span>Download dit document en hou het bij.</span> </span></span></span></p>",
+        "htmlEncoded": "<p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span></p> \n<p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant.</span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten.</span></span></p> \n<p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage. \n<br><span>Download dit document en hou het bij.</span> </span></span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71616055",
       "internal": false,
@@ -2734,6 +2769,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19034",
+      "internal": false,
+      "validThroughDate": "1756166400",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19034",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "1 Bemiddelaar Inschatting+ VDAB Brussel"
+      },
+      "displayTitle": "1 Bemiddelaar Inschatting+ VDAB Brussel",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span><p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span><span>&nbsp;</span></p><p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant. </span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten. </span></span></p><p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage.<br><span>Download dit document en hou het bij.</span>&nbsp;</span></span></span></p>",
+        "htmlEncoded": "<span></span><p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span><span>&nbsp;</span></p><p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant. </span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten. </span></span></p><p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage.<br><span>Download dit document en hou het bij.</span>&nbsp;</span></span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19013",
       "internal": false,
       "validThroughDate": "1755820800",
@@ -3433,6 +3503,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18921",
+      "internal": false,
+      "validThroughDate": "1757203200",
+      "hiringOrganization": "Departement Financiën en Begroting",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18921",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Programmamedewerker EU financiering"
+      },
+      "displayTitle": "Programmamedewerker EU financiering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b><span>Zie jij jezelf als de schakel tussen beleid en resultaat?</span></b></p><p><span>Jij bent iemand die energie krijgt van complexe uitdagingen en graag mee het verschil maakt op <b>Vlaams én Europees niveau</b>. Je houdt van afwisseling, werkt graag samen met scherpe collega’s en hebt een neus voor <b>structuur</b>, <b>cijfers</b> en <b>heldere communicatie</b>. In een team waar <b>vertrouwen</b>, <b>verantwoordelijkheid</b> en <b>impact</b> centraal staan, kom jij volledig tot je recht.&nbsp;</span><span>Als programmamedewerker binnen onze expertencel krijg je de kans om je tanden te zetten in </span><b>Europees gefinancierde projecten die ertoe doen</b><span>. Geen dag is hetzelfde, maar elke dag telt.</span></p><p><span>Je komt terecht in een <b>klein, zelfsturend team</b> van vijf collega's dat bestaat uit drie programmamedewerkers en twee coördinatoren. Je neemt actief je rol op in de <b>planning</b>, <b>prioritering</b> en <b>afstemming van de werking</b>. Je houdt van een <b>open en kritische samenwerking</b>, waarin we elkaars werk naar een hoger niveau tillen met wederzijds respect en vertrouwen.</span></p><p><span>Je staat mee in voor de <b>coördinatie en rapportering van Europese financieringsinstrumenten</b>, waarbij je focust op het Vlaamse luik van grotere programma’s. Dat betekent dat je samenwerkt met verschillende <b>departementen en agentschappen</b> en erop toeziet dat Vlaanderen zijn <b>afspraken met Europa</b> nakomt – zodat de financiële middelen effectief uitbetaald worden. Je begrijpt het belang van <b>correcte rapportering</b>, en weet hoe je hierin de puntjes op de i zet.</span></p><p><span>Je voelt je thuis in een <b>fast-paced en deadlinegedreven omgeving</b>, waar flexibiliteit en precisie hand in hand gaan. Je bent <b>communicatief sterk</b>, houdt ervan om bruggen te bouwen en beweegt je vlot in <b>netwerken </b>binnen en buiten de Vlaamse overheid. Je bent positief ingesteld, weet te overtuigen en je communiceert steeds <b>duidelijk en doordacht</b>.</span></p><p><span>In deze functie werk je mee aan taken die aan de coördinerende entiteit zijn toegewezen, met een focus op coördinatie van de projectrapporteringen, het <b>anti-fraudebeleid</b> en <b>data management</b>. De coördinerende entiteit staat zo in voor de Vlaamse coördinatie van de Recovery &amp; Resilience Facility (RRF), ook wel het Europees Herstelfonds genoemd, en zal vanaf 2026 ook instaan voor het Social Climate Fund. Je hebt daarom een degelijke basiskennis van <b>Europese financieringsinstrumenten</b> en de bijbehorende regelgeving, inclusief noties over <b>staatssteun</b>, de <b>wet op overheidsopdrachten</b> en <b>anti-fraudebepalingen</b>. Je werkt vlot met <b>Excel</b>, hebt affiniteit met <b>Power BI</b> en je vindt snel je weg in nieuwe IT-tools</span><span>.</span></p><p><span>Wat voor ons telt, is jouw </span><b>kritische blik</b><span>, je </span><b>goesting om bij te leren</b><span> en je zin om </span><b>samen impact te maken</b><span>.</span></p><p><b>Klaar om mee te bouwen aan het Vlaamse verhaal binnen een Europese context?&nbsp;</b><span>Dan is dit jouw moment. Wij kijken ernaar uit om jou te ontmoeten — als collega, als klankbord en als belangrijke schakel in ons team.</span></p><p><span><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></span></p> <p>&nbsp;</p>",
+        "htmlEncoded": "<p><b><span>Zie jij jezelf als de schakel tussen beleid en resultaat?</span></b></p><p><span>Jij bent iemand die energie krijgt van complexe uitdagingen en graag mee het verschil maakt op <b>Vlaams én Europees niveau</b>. Je houdt van afwisseling, werkt graag samen met scherpe collega’s en hebt een neus voor <b>structuur</b>, <b>cijfers</b> en <b>heldere communicatie</b>. In een team waar <b>vertrouwen</b>, <b>verantwoordelijkheid</b> en <b>impact</b> centraal staan, kom jij volledig tot je recht.&nbsp;</span><span>Als programmamedewerker binnen onze expertencel krijg je de kans om je tanden te zetten in </span><b>Europees gefinancierde projecten die ertoe doen</b><span>. Geen dag is hetzelfde, maar elke dag telt.</span></p><p><span>Je komt terecht in een <b>klein, zelfsturend team</b> van vijf collega's dat bestaat uit drie programmamedewerkers en twee coördinatoren. Je neemt actief je rol op in de <b>planning</b>, <b>prioritering</b> en <b>afstemming van de werking</b>. Je houdt van een <b>open en kritische samenwerking</b>, waarin we elkaars werk naar een hoger niveau tillen met wederzijds respect en vertrouwen.</span></p><p><span>Je staat mee in voor de <b>coördinatie en rapportering van Europese financieringsinstrumenten</b>, waarbij je focust op het Vlaamse luik van grotere programma’s. Dat betekent dat je samenwerkt met verschillende <b>departementen en agentschappen</b> en erop toeziet dat Vlaanderen zijn <b>afspraken met Europa</b> nakomt – zodat de financiële middelen effectief uitbetaald worden. Je begrijpt het belang van <b>correcte rapportering</b>, en weet hoe je hierin de puntjes op de i zet.</span></p><p><span>Je voelt je thuis in een <b>fast-paced en deadlinegedreven omgeving</b>, waar flexibiliteit en precisie hand in hand gaan. Je bent <b>communicatief sterk</b>, houdt ervan om bruggen te bouwen en beweegt je vlot in <b>netwerken </b>binnen en buiten de Vlaamse overheid. Je bent positief ingesteld, weet te overtuigen en je communiceert steeds <b>duidelijk en doordacht</b>.</span></p><p><span>In deze functie werk je mee aan taken die aan de coördinerende entiteit zijn toegewezen, met een focus op coördinatie van de projectrapporteringen, het <b>anti-fraudebeleid</b> en <b>data management</b>. De coördinerende entiteit staat zo in voor de Vlaamse coördinatie van de Recovery &amp; Resilience Facility (RRF), ook wel het Europees Herstelfonds genoemd, en zal vanaf 2026 ook instaan voor het Social Climate Fund. Je hebt daarom een degelijke basiskennis van <b>Europese financieringsinstrumenten</b> en de bijbehorende regelgeving, inclusief noties over <b>staatssteun</b>, de <b>wet op overheidsopdrachten</b> en <b>anti-fraudebepalingen</b>. Je werkt vlot met <b>Excel</b>, hebt affiniteit met <b>Power BI</b> en je vindt snel je weg in nieuwe IT-tools</span><span>.</span></p><p><span>Wat voor ons telt, is jouw </span><b>kritische blik</b><span>, je </span><b>goesting om bij te leren</b><span> en je zin om </span><b>samen impact te maken</b><span>.</span></p><p><b>Klaar om mee te bouwen aan het Vlaamse verhaal binnen een Europese context?&nbsp;</b><span>Dan is dit jouw moment. Wij kijken ernaar uit om jou te ontmoeten — als collega, als klankbord en als belangrijke schakel in ons team.</span></p><p><span><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></span></p> <p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18919",
       "internal": false,
       "validThroughDate": "1754784000",
@@ -3963,6 +4068,38 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18874",
+      "internal": true,
+      "validThroughDate": "1755475200",
+      "hiringOrganization": "Agentschap voor Infrastructuur in het Onderwijs",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18874",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder energieleningen"
+      },
+      "displayTitle": "Dossierbeheerder energieleningen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als dossierbeheerder energieleningen ben jij de spil in een vlot verlopend proces. Je verzamelt en verwerkt gegevens met oog voor detail, zorgt ervoor dat elk dossier volledig en correct is samengesteld, en volgt alles nauwgezet op in elke fase van de procedure. Je analyseert de inhoud, toetst deze aan de geldende regelgeving en stelt gefundeerde beslissingsvoorstellen op.<br></span><span><br>Je bent niet alleen sterk in administratie, maar ook in communicatie: je onderhoudt heldere contacten met klanten, beantwoordt vragen en licht beslissingen professioneel toe. Dankzij jouw vakkennis, voortdurende bijscholing en samenwerking in overlegmomenten, garandeer je een efficiënte en klantgerichte afhandeling. Bovendien verlies je de opvolging van beslissingen niet uit het oog en grijp je in bij eventuele knelpunten.<br></span><span><br>Wil jij meewerken aan kwalitatieve en correcte dossierbehandeling met impact? Dan ben jij degene die we zoeken!<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Als dossierbeheerder energieleningen ben jij de spil in een vlot verlopend proces. Je verzamelt en verwerkt gegevens met oog voor detail, zorgt ervoor dat elk dossier volledig en correct is samengesteld, en volgt alles nauwgezet op in elke fase van de procedure. Je analyseert de inhoud, toetst deze aan de geldende regelgeving en stelt gefundeerde beslissingsvoorstellen op.<br></span><span><br>Je bent niet alleen sterk in administratie, maar ook in communicatie: je onderhoudt heldere contacten met klanten, beantwoordt vragen en licht beslissingen professioneel toe. Dankzij jouw vakkennis, voortdurende bijscholing en samenwerking in overlegmomenten, garandeer je een efficiënte en klantgerichte afhandeling. Bovendien verlies je de opvolging van beslissingen niet uit het oog en grijp je in bij eventuele knelpunten.<br></span><span><br>Wil jij meewerken aan kwalitatieve en correcte dossierbehandeling met impact? Dan ben jij degene die we zoeken!<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -5050,41 +5187,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18696",
-      "internal": false,
-      "validThroughDate": "1753833600",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18696",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Hospitality coördinator"
-      },
-      "displayTitle": "Hospitality coördinator",
-      "isProtected": false,
-      "description": {
-        "raw": "Op zoek naar een job\nwaar je een team kan coachen, waar klanten centraal staan en waarmee je\npersoonlijk bijdraagt aan een inspirerende en duurzame werkomgeving voor onze\ncollega’s van de Vlaamse overheid? Dan is deze job precies wat je zoekt!<br><br>Als hospitality\ncoördinator ben jij verantwoordelijk voor de organisatie van vergaderingen en\nevents in het VAC gebouw te Antwerpen. Je bespreekt met de klant de organisatie\nvan het event, detecteert de noden en vertaalt deze naar onze dienstverlening.\nDit doe je in samenwerking met bv. cateringpersoneel, het audiovisueel team,\nhospitality medewerkers, het team uitbating en het schoonmaakpersoneel. Je\nleidt alles in goede banen en bent het eerste aanspreekpunt indien er problemen\nopduiken. <br><br>Naast het in goede\nbanen leiden van events en vergaderingen, stuur je ook een team aan van een 4-tal\nhospitality- en onthaalmedewerkers dat samen met jou instaat voor de events,\ndagelijks onze bezoekers ontvangt op een gastvrije manier in het gebouw en hen\nondersteunt waar nodig (bv. technische vragen in onze zalen, last-minute\ncateringbestellingen,…).<br><br><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong>",
-        "htmlEncoded": "Op zoek naar een job\nwaar je een team kan coachen, waar klanten centraal staan en waarmee je\npersoonlijk bijdraagt aan een inspirerende en duurzame werkomgeving voor onze\ncollega’s van de Vlaamse overheid? Dan is deze job precies wat je zoekt!<br><br>Als hospitality\ncoördinator ben jij verantwoordelijk voor de organisatie van vergaderingen en\nevents in het VAC gebouw te Antwerpen. Je bespreekt met de klant de organisatie\nvan het event, detecteert de noden en vertaalt deze naar onze dienstverlening.\nDit doe je in samenwerking met bv. cateringpersoneel, het audiovisueel team,\nhospitality medewerkers, het team uitbating en het schoonmaakpersoneel. Je\nleidt alles in goede banen en bent het eerste aanspreekpunt indien er problemen\nopduiken. <br><br>Naast het in goede\nbanen leiden van events en vergaderingen, stuur je ook een team aan van een 4-tal\nhospitality- en onthaalmedewerkers dat samen met jou instaat voor de events,\ndagelijks onze bezoekers ontvangt op een gastvrije manier in het gebouw en hen\nondersteunt waar nodig (bv. technische vragen in onze zalen, last-minute\ncateringbestellingen,…).<br><br><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</strong>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18695",
       "internal": false,
       "validThroughDate": "1754179200",
@@ -5322,41 +5424,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18632",
-      "internal": false,
-      "validThroughDate": "1753833600",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18632",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Medewerker Filmkeuring"
-      },
-      "displayTitle": "Medewerker Filmkeuring",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een administratieve duizendpoot met oog voor detail én maatschappelijke betrokkenheid? Hou je ervan om financiële en analytische processen in goede banen te leiden, en werk je graag in een context waar mediawijsheid en jeugdbeleid samenkomen? Dan ben jij misschien wel de medewerker filmkeuring die wij zoeken!<br><br>De filmkeuring in België bepaalt voor elke film die in ons land wordt vertoond welke leeftijdsclassificatie van toepassing is en of er mogelijk schadelijke inhoud voor minderjarigen vertoond wordt. Sinds 2019 is er een vernieuwd, Belgisch systeem van filmclassificatie van kracht. Het Departement Cultuur, Jeugd en Media ondersteunt de werking van dit classificatiesysteem.<br><br>Als medewerker filmkeuring ben jij ondergebracht in het “secretariaat filmkeuring” en ben je de spil in de dagelijkse werking van dit systeem. Je zorgt voor een feilloze administratieve opvolging en brengt structuur in afspraken, cijfers en overleg. Je schakelt vlot tussen vergaderingen, klachtenprocedures en budgettaire opvolging, en werkt samen met diverse stakeholders: van producenten en distributeurs tot consumentenorganisaties en collega’s uit andere overheden.<br>&nbsp;<br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je ondersteunt de beleidsmedewerker en de ambtelijke stuurgroep: je bereidt vergaderingen voor, maakt verslagen op en volgt de uitvoering van beslissingen op.</li><li>Je bent verantwoordelijk voor de administratieve en financiële afhandeling van dossiers, onder meer over klachtenbehandeling en filmclassificaties.</li><li>Je staat in voor de opmaak van de begroting, de opvolging van facturen en een correcte rapportering.</li><li>Je informeert en ondersteunt de codeurs (de personen die films beoordelen) en volgt hun werking op.</li><li>Je onderhoudt contacten met stakeholders uit de audiovisuele sector en het brede medialandschap.</li></ul><p>Het gaat om een deeltijdse functie (50%, met werkdagen bespreekbaar in onderling overleg) op basis van een contract van bepaalde duur (1 jaar), met mogelijkheid tot verlenging. De opstart is voorzien rond september 2025.</p>Wil jij mee het verschil maken in het filmclassificatiesysteem van morgen?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>",
-        "htmlEncoded": "<p>Ben jij een administratieve duizendpoot met oog voor detail én maatschappelijke betrokkenheid? Hou je ervan om financiële en analytische processen in goede banen te leiden, en werk je graag in een context waar mediawijsheid en jeugdbeleid samenkomen? Dan ben jij misschien wel de medewerker filmkeuring die wij zoeken!<br><br>De filmkeuring in België bepaalt voor elke film die in ons land wordt vertoond welke leeftijdsclassificatie van toepassing is en of er mogelijk schadelijke inhoud voor minderjarigen vertoond wordt. Sinds 2019 is er een vernieuwd, Belgisch systeem van filmclassificatie van kracht. Het Departement Cultuur, Jeugd en Media ondersteunt de werking van dit classificatiesysteem.<br><br>Als medewerker filmkeuring ben jij ondergebracht in het “secretariaat filmkeuring” en ben je de spil in de dagelijkse werking van dit systeem. Je zorgt voor een feilloze administratieve opvolging en brengt structuur in afspraken, cijfers en overleg. Je schakelt vlot tussen vergaderingen, klachtenprocedures en budgettaire opvolging, en werkt samen met diverse stakeholders: van producenten en distributeurs tot consumentenorganisaties en collega’s uit andere overheden.<br>&nbsp;<br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je ondersteunt de beleidsmedewerker en de ambtelijke stuurgroep: je bereidt vergaderingen voor, maakt verslagen op en volgt de uitvoering van beslissingen op.</li><li>Je bent verantwoordelijk voor de administratieve en financiële afhandeling van dossiers, onder meer over klachtenbehandeling en filmclassificaties.</li><li>Je staat in voor de opmaak van de begroting, de opvolging van facturen en een correcte rapportering.</li><li>Je informeert en ondersteunt de codeurs (de personen die films beoordelen) en volgt hun werking op.</li><li>Je onderhoudt contacten met stakeholders uit de audiovisuele sector en het brede medialandschap.</li></ul><p>Het gaat om een deeltijdse functie (50%, met werkdagen bespreekbaar in onderling overleg) op basis van een contract van bepaalde duur (1 jaar), met mogelijkheid tot verlenging. De opstart is voorzien rond september 2025.</p>Wil jij mee het verschil maken in het filmclassificatiesysteem van morgen?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
