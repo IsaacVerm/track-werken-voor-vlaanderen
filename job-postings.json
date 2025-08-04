@@ -1,11 +1,81 @@
 {
-  "totalItems": 175,
+  "totalItems": 178,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 174,
+  "lastItemOfPage": 177,
   "items": [
+    {
+      "link": "/Job/vdab-71648704",
+      "internal": false,
+      "validThroughDate": "1756598400",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71648704",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "jobcoach Arbeidszorg"
+      },
+      "displayTitle": "jobcoach Arbeidszorg",
+      "isProtected": false,
+      "description": {
+        "raw": "<p> </p> \n<p><strong><span>Wil jij écht een verschil maken in iemands leven? Heb je een hart voor mensen en een passie voor werk? Dan ben jij misschien de collega die wij zoeken!</span></strong></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>Binnen onze dienst \n<strong>Arbeidszorg</strong> ondersteunen we mensen voor wie betaald werk (nog) geen optie is, maar die wél gemotiveerd zijn om actief te blijven en te groeien. We bieden hen zinvolle werkervaring op maat, in een veilige en ondersteunende omgeving.</span></p> \n<p><span>Dat kan in ons eigen arbeidszorgcentrum met een industrieel atelier, een hofploeg en een fietsenatelier. Of extern, via begeleid werken, afhankelijk van wat de cliënt nodig heeft.</span></p> \n<p><strong><span>Jouw rol als jobcoach</span></strong></p> \n<p><span>Als \n<strong>jobcoach</strong> begeleid je cliënten stap voor stap naar een aangepaste werkcontext of – indien haalbaar – richting de reguliere arbeidsmarkt. Je werkt intensief met hen samen, vertrekkend vanuit hun sterktes, interesses en tempo.</span></p> \n<p><span>Je taken zijn onder meer:</span></p> \n<ul type=\"disc\"> \n<li><span>Intakegesprekken voeren met cliënten en hun netwerk</span></li> \n<li><span>Mogelijke werkplekken verkennen en contacten leggen met interne én externe organisaties</span></li> \n<li><span>Feedbackgesprekken begeleiden tussen cliënt en werkpost</span></li> \n<li><span>Trajecten opvolgen en administratie alsook verslaggeving in orde brengen</span></li> </ul> \n<p><span>Kortom: jij bent de verbindingsfiguur tussen de cliënt, zijn omgeving en de werkplek.</span></p>",
+        "htmlEncoded": "<p> </p> \n<p><strong><span>Wil jij écht een verschil maken in iemands leven? Heb je een hart voor mensen en een passie voor werk? Dan ben jij misschien de collega die wij zoeken!</span></strong></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>Binnen onze dienst \n<strong>Arbeidszorg</strong> ondersteunen we mensen voor wie betaald werk (nog) geen optie is, maar die wél gemotiveerd zijn om actief te blijven en te groeien. We bieden hen zinvolle werkervaring op maat, in een veilige en ondersteunende omgeving.</span></p> \n<p><span>Dat kan in ons eigen arbeidszorgcentrum met een industrieel atelier, een hofploeg en een fietsenatelier. Of extern, via begeleid werken, afhankelijk van wat de cliënt nodig heeft.</span></p> \n<p><strong><span>Jouw rol als jobcoach</span></strong></p> \n<p><span>Als \n<strong>jobcoach</strong> begeleid je cliënten stap voor stap naar een aangepaste werkcontext of – indien haalbaar – richting de reguliere arbeidsmarkt. Je werkt intensief met hen samen, vertrekkend vanuit hun sterktes, interesses en tempo.</span></p> \n<p><span>Je taken zijn onder meer:</span></p> \n<ul type=\"disc\"> \n<li><span>Intakegesprekken voeren met cliënten en hun netwerk</span></li> \n<li><span>Mogelijke werkplekken verkennen en contacten leggen met interne én externe organisaties</span></li> \n<li><span>Feedbackgesprekken begeleiden tussen cliënt en werkpost</span></li> \n<li><span>Trajecten opvolgen en administratie alsook verslaggeving in orde brengen</span></li> </ul> \n<p><span>Kortom: jij bent de verbindingsfiguur tussen de cliënt, zijn omgeving en de werkplek.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71646413",
+      "internal": false,
+      "validThroughDate": "1755993600",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71646413",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "casemanager Gezinsverpleging Kinderen & Jongeren"
+      },
+      "displayTitle": "casemanager Gezinsverpleging Kinderen & Jongeren",
+      "isProtected": false,
+      "description": {
+        "raw": "<p> </p> \n<p><strong><span>Ben jij op zoek naar een betekenisvolle job waarin je écht iets kan betekenen voor kinderen en jongeren met een psychische kwetsbaarheid?</span></strong><span><br> Dan hebben wij een bijzondere uitdaging voor jou!</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>OPZ Geel biedt sinds 2009 behandelpleegzorg aan voor kinderen en jongeren met een mentale beperking én psychiatrische problematiek. Het doel? Hen maximale ontwikkelingskansen bieden. Hiervoor werken we samen met zorggezinnen die hun huis en hart openstellen voor deze kinderen.</span></p> \n<p><span>Een multidisciplinair psychiatrisch team staat in voor de organisatie en ondersteuning. Met een op maat gemaakt begeleidingsplan wordt de dagelijkse zorg afgestemd op de specifieke noden van de kinderen en jongeren.</span></p> \n<p><span>Deze aanpak sluit perfect aan bij de moderne visie in de psychiatrische gezondheidszorg: zoveel mogelijk vermijden van residentiële opname en kiezen voor een zorg die ingebed is in de samenleving.</span></p> \n<p><strong><span>Jouw rol als Casemanager Gezinsverpleging</span></strong></p> \n<p><span>Je bent de verbindende schakel tussen het kind, het zorggezin en het professionele team. Samen creëren we een stabiele en helende omgeving voor elk kind.</span></p> \n<p><span>Concreet ga je:</span></p> \n<ul type=\"disc\"> \n<li><span>Een therapeutische relatie opbouwen met de cliënt, gericht op herstel en zorgcontinuïteit</span></li> \n<li><span>De overgang naar gezinsverpleging voor volwassenen begeleiden wanneer een jongere 18 wordt</span></li> \n<li><span>Zorgvuldig rapporteren over de voortgang, observaties en begeleiding in het patiëntendossier</span></li> \n<li><span>Samenwerken met het zorggezin en zorgen voor opvolging en ondersteuning</span></li> \n<li><span>Actief bijdragen aan het multidisciplinair overleg</span></li> \n<li><span>Taken opnemen die passen bij jouw expertise binnen het team</span></li> \n<li><span>Werken in een uitvoerende, niet-leidinggevende functie</span></li> </ul>",
+        "htmlEncoded": "<p> </p> \n<p><strong><span>Ben jij op zoek naar een betekenisvolle job waarin je écht iets kan betekenen voor kinderen en jongeren met een psychische kwetsbaarheid?</span></strong><span><br> Dan hebben wij een bijzondere uitdaging voor jou!</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>OPZ Geel biedt sinds 2009 behandelpleegzorg aan voor kinderen en jongeren met een mentale beperking én psychiatrische problematiek. Het doel? Hen maximale ontwikkelingskansen bieden. Hiervoor werken we samen met zorggezinnen die hun huis en hart openstellen voor deze kinderen.</span></p> \n<p><span>Een multidisciplinair psychiatrisch team staat in voor de organisatie en ondersteuning. Met een op maat gemaakt begeleidingsplan wordt de dagelijkse zorg afgestemd op de specifieke noden van de kinderen en jongeren.</span></p> \n<p><span>Deze aanpak sluit perfect aan bij de moderne visie in de psychiatrische gezondheidszorg: zoveel mogelijk vermijden van residentiële opname en kiezen voor een zorg die ingebed is in de samenleving.</span></p> \n<p><strong><span>Jouw rol als Casemanager Gezinsverpleging</span></strong></p> \n<p><span>Je bent de verbindende schakel tussen het kind, het zorggezin en het professionele team. Samen creëren we een stabiele en helende omgeving voor elk kind.</span></p> \n<p><span>Concreet ga je:</span></p> \n<ul type=\"disc\"> \n<li><span>Een therapeutische relatie opbouwen met de cliënt, gericht op herstel en zorgcontinuïteit</span></li> \n<li><span>De overgang naar gezinsverpleging voor volwassenen begeleiden wanneer een jongere 18 wordt</span></li> \n<li><span>Zorgvuldig rapporteren over de voortgang, observaties en begeleiding in het patiëntendossier</span></li> \n<li><span>Samenwerken met het zorggezin en zorgen voor opvolging en ondersteuning</span></li> \n<li><span>Actief bijdragen aan het multidisciplinair overleg</span></li> \n<li><span>Taken opnemen die passen bij jouw expertise binnen het team</span></li> \n<li><span>Werken in een uitvoerende, niet-leidinggevende functie</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71645501",
       "internal": false,
@@ -2452,6 +2522,71 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19134",
+      "internal": false,
+      "validThroughDate": "1755648000",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19134",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent administratief medewerker bij de Vlaamse overheid (doorheen het jaar)"
+      },
+      "displayTitle": "Jobstudent administratief medewerker bij de Vlaamse overheid (doorheen het jaar)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Ben jij student en op zoek naar een leuke\nvakantiejob tijdens het jaar of in de vakantie?</strong><br><br> De Vlaamse overheid zoekt elk jaar studenten voor toffe administratieve jobs.<br>Na je inschrijving op onze wervingslijst, kunnen\nwe je contacteren zodra er een interessante job beschikbaar is. Je kunt aan de\nslag bij verschillende organisaties (departementen of agentschappen) van de\nVlaamse overheid.<br><br>Wat je precies gaat doen, hangt af van de\norganisatie waar je terechtkomt, wat het concrete takenpakket is en waar jij\ngoed in bent.<br><br><strong>Als jobstudent ga je vooral administratieve\ntaken doen. Denk bijvoorbeeld aan:</strong></p><ul><li>Documenten\n     opstellen of nalezen</li><li>Helpen\n     met het klassement</li><li>Bezoekers\n     verwelkomen</li><li>Agenda’s\n     beheren van je collega’s of leidinggevenden</li><li>Allerlei\n     andere ondersteunende taken</li></ul>",
+        "htmlEncoded": "<p><strong>Ben jij student en op zoek naar een leuke\nvakantiejob tijdens het jaar of in de vakantie?</strong><br><br> De Vlaamse overheid zoekt elk jaar studenten voor toffe administratieve jobs.<br>Na je inschrijving op onze wervingslijst, kunnen\nwe je contacteren zodra er een interessante job beschikbaar is. Je kunt aan de\nslag bij verschillende organisaties (departementen of agentschappen) van de\nVlaamse overheid.<br><br>Wat je precies gaat doen, hangt af van de\norganisatie waar je terechtkomt, wat het concrete takenpakket is en waar jij\ngoed in bent.<br><br><strong>Als jobstudent ga je vooral administratieve\ntaken doen. Denk bijvoorbeeld aan:</strong></p><ul><li>Documenten\n     opstellen of nalezen</li><li>Helpen\n     met het klassement</li><li>Bezoekers\n     verwelkomen</li><li>Agenda’s\n     beheren van je collega’s of leidinggevenden</li><li>Allerlei\n     andere ondersteunende taken</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
