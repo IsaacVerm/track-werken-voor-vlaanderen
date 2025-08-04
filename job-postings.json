@@ -1,11 +1,46 @@
 {
-  "totalItems": 176,
+  "totalItems": 175,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 175,
+  "lastItemOfPage": 174,
   "items": [
+    {
+      "link": "/Job/vdab-71645501",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71645501",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data Governance Ambassadeur (DMOW) via Vlaanderen Connect"
+      },
+      "displayTitle": "Data Governance Ambassadeur (DMOW) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het Departement Mobiliteit en Openbare Werken (DMOW) zoekt een data governance ambassadeur ter versterking van onze afdeling Algemene Technische Ondersteuning.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Het</span><span>Departement Mobiliteit en Openbare Werken</span><span>(DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een</span><span>veilige, slimme en duurzame mobiliteit</span><span>é</span><span>n voor de</span><span>hedendaagse wegen- en (lucht)haveninfrastructuur.</span></p> \n<p><span>We werken zowel beleidsmatig als in uitvoering mee aan verschillende</span><span>projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze</span><span>experten met diverse profielen.</span></p> \n<p><span>Samen hebben we één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving.</span><span>Wij zijn #experteninbeweging.</span></p> \n<p><strong><span>Ontdek hier meer over DMOW!</span></strong></p> \n<p><span lang=\"NL\">De Data Governance Ambassadeur is een dynamische, cross-functionele functie die verantwoordelijk is voor het \n<strong>ontwikkelen, implementeren en overzien van het raamwerk voor data governance</strong> van de organisatie. Deze functie stimuleert initiatieven en samenwerking op het gebied van data governance, waaronder een strategie voor metadatamanagement, beleidsontwikkeling en de toepassing van best practices voor datamanagement door alle afdelingen. In nauwe samenwerking met business intelligence- en governance-teams zorg je voor organisatiebrede naleving van datastandaarden en stimuleer je een cultuur van data stewardship en -ownership. Deze functie met grote impact maakt een schaalbaar, goed beheerd data-ecosysteem mogelijk dat teams in staat stelt om zelfverzekerde, datagestuurde beslissingen te nemen in een snelle omgeving.</span></p> \n<p><span lang=\"NL\">Een greep uit jouw takenpakket:</span></p> \n<ul> \n<li><span lang=\"NL\">Je bent verantwoordelijk voor het ontwerpen, versterken en implementeren van een raamwerk voor data governance.</span></li> \n<li><span lang=\"NL\">Je beschikt over het vermogen om besluitvormers te overtuigen en draagvlak te creëren voor governance-initiatieven.</span></li> \n<li><span lang=\"NL\">Je ontwikkelt en implementeert solide metadatabeheerpraktijken.</span></li> \n<li><span lang=\"NL\">Je bouwt nieuwe werkrelaties op met proceseigenaren, IT teams en belanghebbenden en je onderhoudt deze relaties.</span></li> \n<li><span lang=\"NL\">Je</span><span> helpt duidelijke datarollen en -verantwoordelijkheden te definiëren en te implementeren</span><span lang=\"NL\">.</span></li> \n<li><span lang=\"NL\">Je bevordert de cultuur gericht op samenwerking en overleg en je begeleidt de organisatie naar het beheer en gebruik van data.</span></li> </ul> \n<p><strong><span lang=\"NL\">Meer weten over de functie? Download de uitgebreide functiebeschrijving onderaan de pagina bij ‘Meer informatie’!</span></strong></p>",
+        "htmlEncoded": "<p><span>Het Departement Mobiliteit en Openbare Werken (DMOW) zoekt een data governance ambassadeur ter versterking van onze afdeling Algemene Technische Ondersteuning.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Het</span><span>Departement Mobiliteit en Openbare Werken</span><span>(DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een</span><span>veilige, slimme en duurzame mobiliteit</span><span>é</span><span>n voor de</span><span>hedendaagse wegen- en (lucht)haveninfrastructuur.</span></p> \n<p><span>We werken zowel beleidsmatig als in uitvoering mee aan verschillende</span><span>projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze</span><span>experten met diverse profielen.</span></p> \n<p><span>Samen hebben we één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving.</span><span>Wij zijn #experteninbeweging.</span></p> \n<p><strong><span>Ontdek hier meer over DMOW!</span></strong></p> \n<p><span lang=\"NL\">De Data Governance Ambassadeur is een dynamische, cross-functionele functie die verantwoordelijk is voor het \n<strong>ontwikkelen, implementeren en overzien van het raamwerk voor data governance</strong> van de organisatie. Deze functie stimuleert initiatieven en samenwerking op het gebied van data governance, waaronder een strategie voor metadatamanagement, beleidsontwikkeling en de toepassing van best practices voor datamanagement door alle afdelingen. In nauwe samenwerking met business intelligence- en governance-teams zorg je voor organisatiebrede naleving van datastandaarden en stimuleer je een cultuur van data stewardship en -ownership. Deze functie met grote impact maakt een schaalbaar, goed beheerd data-ecosysteem mogelijk dat teams in staat stelt om zelfverzekerde, datagestuurde beslissingen te nemen in een snelle omgeving.</span></p> \n<p><span lang=\"NL\">Een greep uit jouw takenpakket:</span></p> \n<ul> \n<li><span lang=\"NL\">Je bent verantwoordelijk voor het ontwerpen, versterken en implementeren van een raamwerk voor data governance.</span></li> \n<li><span lang=\"NL\">Je beschikt over het vermogen om besluitvormers te overtuigen en draagvlak te creëren voor governance-initiatieven.</span></li> \n<li><span lang=\"NL\">Je ontwikkelt en implementeert solide metadatabeheerpraktijken.</span></li> \n<li><span lang=\"NL\">Je bouwt nieuwe werkrelaties op met proceseigenaren, IT teams en belanghebbenden en je onderhoudt deze relaties.</span></li> \n<li><span lang=\"NL\">Je</span><span> helpt duidelijke datarollen en -verantwoordelijkheden te definiëren en te implementeren</span><span lang=\"NL\">.</span></li> \n<li><span lang=\"NL\">Je bevordert de cultuur gericht op samenwerking en overleg en je begeleidt de organisatie naar het beheer en gebruik van data.</span></li> </ul> \n<p><strong><span lang=\"NL\">Meer weten over de functie? Download de uitgebreide functiebeschrijving onderaan de pagina bij ‘Meer informatie’!</span></strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71632120",
       "internal": false,
@@ -392,41 +427,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71549170",
-      "internal": false,
-      "validThroughDate": "1754179200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71549170",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "familie-/gezinstherapeut - team Eetstoornissen - divisie Jongeren"
-      },
-      "displayTitle": "familie-/gezinstherapeut - team Eetstoornissen - divisie Jongeren",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Wil jij gezinnen versterken in hun strijd tegen eetstoornissen? Heb je ervaring met systeem- of gezinstherapie en een hart voor jongeren? Dan ben jij misschien dé schakel in ons nieuw op te bouwen team.</span></strong></p> \n<p><strong><span>Een nieuw zorgaanbod met focus op verbinding.</span></strong><strong></strong></p> \n<p><span>In samenwerking met het netwerk \n<em>Pangg 0-18</em> bouwt OPZ Geel aan een vernieuwend zorgaanbod voor jongeren met een eetstoornis. Dit kadert binnen de conventie Eetstoornissen en wil een flexibele aanvulling bieden op het bestaande behandelaanbod.</span></p> \n<p><span>Het doel? </span></p> \n<p><span>Zorg-op-maat die de escalatie van de ziekte helpt vermijden, een opname voorbereidt of jongeren begeleidt bij de stap terug naar ambulante zorg, en dit via een </span><strong><span>deeltijdsbehandelingsprogramma</span></strong><span> voor eetstoornissen als aanvulling op het bestaande  behandelingsaanbod. </span></p> \n<p><span>Daarnaast bieden we de module \n<strong>Multi-family therapie</strong>, een gezinstherapeutische </span><span>benadering waarin gezinnen samen leren omgaan met eetstoornissen en elkaar versterken in het herstelproces.</span></p> \n<p><strong><span>Voor deze werking zoeken we een betrokken familie-/gezinstherapeut (50%)</span></strong></p> \n<p><span>Wil je graag je schouders zetten onder een nieuw team, meedenken én mee uitvoeren, in nauwe samenwerking met jongeren, gezinnen en collega’s? Dan is deze functie op jouw maat.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je begeleidt jongeren en hun gezinnen met oog voor verbinding, herstel en context.</span></li> \n<li><span>Je werkt samen met het team een deeltijdsbehandelingsprogramma en module Multi-family therapie uit volgens de evidence-based richtlijnen. </span></li> \n<li><span>Je schrijft de therapeutische procedures en zorgmodules uit.</span></li> \n<li><span>Je werkt actief mee aan de uitvoering van de deeltijdsbehandelingsprogramma en de module Multi-family therapie. </span></li> </ul>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Wil jij gezinnen versterken in hun strijd tegen eetstoornissen? Heb je ervaring met systeem- of gezinstherapie en een hart voor jongeren? Dan ben jij misschien dé schakel in ons nieuw op te bouwen team.</span></strong></p> \n<p><strong><span>Een nieuw zorgaanbod met focus op verbinding.</span></strong><strong></strong></p> \n<p><span>In samenwerking met het netwerk \n<em>Pangg 0-18</em> bouwt OPZ Geel aan een vernieuwend zorgaanbod voor jongeren met een eetstoornis. Dit kadert binnen de conventie Eetstoornissen en wil een flexibele aanvulling bieden op het bestaande behandelaanbod.</span></p> \n<p><span>Het doel? </span></p> \n<p><span>Zorg-op-maat die de escalatie van de ziekte helpt vermijden, een opname voorbereidt of jongeren begeleidt bij de stap terug naar ambulante zorg, en dit via een </span><strong><span>deeltijdsbehandelingsprogramma</span></strong><span> voor eetstoornissen als aanvulling op het bestaande  behandelingsaanbod. </span></p> \n<p><span>Daarnaast bieden we de module \n<strong>Multi-family therapie</strong>, een gezinstherapeutische </span><span>benadering waarin gezinnen samen leren omgaan met eetstoornissen en elkaar versterken in het herstelproces.</span></p> \n<p><strong><span>Voor deze werking zoeken we een betrokken familie-/gezinstherapeut (50%)</span></strong></p> \n<p><span>Wil je graag je schouders zetten onder een nieuw team, meedenken én mee uitvoeren, in nauwe samenwerking met jongeren, gezinnen en collega’s? Dan is deze functie op jouw maat.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je begeleidt jongeren en hun gezinnen met oog voor verbinding, herstel en context.</span></li> \n<li><span>Je werkt samen met het team een deeltijdsbehandelingsprogramma en module Multi-family therapie uit volgens de evidence-based richtlijnen. </span></li> \n<li><span>Je schrijft de therapeutische procedures en zorgmodules uit.</span></li> \n<li><span>Je werkt actief mee aan de uitvoering van de deeltijdsbehandelingsprogramma en de module Multi-family therapie. </span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71548686",
       "internal": false,
       "validThroughDate": "1756598400",
@@ -452,41 +452,6 @@
       "description": {
         "raw": "<p> </p> \n<p><strong><span>Word jij onze nieuwe maatschappelijk assistent voor de Reguliere K-dienst?</span></strong></p> \n<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode van hun leven? Ben je sociaal, warm en organisatorisch sterk? Dan zijn wij op zoek naar jou!</span></p> \n<p><span>Voor onze \n<strong>reguliere K-dienst</strong> binnen de divisie Jongeren zoeken we een gedreven en geëngageerde \n<strong>maatschappelijk assistent</strong> die ons multidisciplinaire team tijdelijk wil versterken.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul type=\"disc\"> \n<li><span>Je coördineert de \n<strong>aanmeldings- en intakeprocedures</strong> en stemt alle stappen zorgvuldig af met artsen, casemanagers en teamleden.</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<strong>sociaal-administratieve opvolging</strong> en biedt ondersteuning aan de casemanagers, onder meer via ouderbegeleidingen.</span></li> \n<li><span>Je begeleidt ouders tijdens het \n<strong>opnameproces van hun kind</strong>, helpt hen hun rol te (her)vinden en zoekt samen naar concrete handvatten binnen de thuissituatie.</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<strong>externe overlegplatformen</strong> en helpt actief mee het beleid vorm te geven als lid van het kernteam.</span></li> </ul> \n<p><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving</span></p>",
         "htmlEncoded": "<p> </p> \n<p><strong><span>Word jij onze nieuwe maatschappelijk assistent voor de Reguliere K-dienst?</span></strong></p> \n<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode van hun leven? Ben je sociaal, warm en organisatorisch sterk? Dan zijn wij op zoek naar jou!</span></p> \n<p><span>Voor onze \n<strong>reguliere K-dienst</strong> binnen de divisie Jongeren zoeken we een gedreven en geëngageerde \n<strong>maatschappelijk assistent</strong> die ons multidisciplinaire team tijdelijk wil versterken.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul type=\"disc\"> \n<li><span>Je coördineert de \n<strong>aanmeldings- en intakeprocedures</strong> en stemt alle stappen zorgvuldig af met artsen, casemanagers en teamleden.</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<strong>sociaal-administratieve opvolging</strong> en biedt ondersteuning aan de casemanagers, onder meer via ouderbegeleidingen.</span></li> \n<li><span>Je begeleidt ouders tijdens het \n<strong>opnameproces van hun kind</strong>, helpt hen hun rol te (her)vinden en zoekt samen naar concrete handvatten binnen de thuissituatie.</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<strong>externe overlegplatformen</strong> en helpt actief mee het beleid vorm te geven als lid van het kernteam.</span></li> </ul> \n<p><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71547884",
-      "internal": false,
-      "validThroughDate": "1754179200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71547884",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "klinisch psycholoog - team Eetstoornissen - divisie Jongeren"
-      },
-      "displayTitle": "klinisch psycholoog - team Eetstoornissen - divisie Jongeren",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><strong><span>Wil jij als klinisch psycholoog écht het verschil maken voor jongeren met een eetstoornis? Heb jij expertise in deze problematiek én goesting om te bouwen aan een vernieuwend zorgaanbod binnen een sterk netwerk? Dan zoeken wij jou.</span></strong></p> \n<p><strong><span>Een nieuwe werking, een frisse visie</span></strong><strong></strong></p> \n<p><span>Samen met het netwerk \n<em>Pangg 0-18</em> (Geestelijke Gezondheid Kinderen en Jongeren Provincie Antwerpen) ontwikkelt OPZ Geel een \n<strong>nieuw zorgtraject voor jongeren met eetstoornissen</strong>. Dit aanbod sluit aan op de conventie Eetstoornissen en wil een belangrijke brugfunctie vervullen tussen ambulante en (semi-)residentiële zorg.</span></p> \n<p><span>Doel? </span></p> \n<p><span>Zorg-op-maat die de escalatie van de ziekte helpt vermijden, een opname voorbereidt of jongeren begeleidt bij de stap terug naar ambulante zorg, en dit via een </span><strong><span>deeltijdsbehandelingsprogramma</span></strong><span> voor eetstoornissen als aanvulling op het bestaande  behandelingsaanbod. </span></p> \n<p><span>Daarnaast bieden we de module \n<strong>Multi-family therapie</strong>, een gezinstherapeutische </span><span>benadering waarin gezinnen samen leren omgaan met eetstoornissen en elkaar versterken in het herstelproces.</span></p> \n<p><strong><span>Voor dit gloednieuwe team zoeken we een geëngageerde klinisch psycholoog (50%)</span></strong></p> \n<p><span>Ben jij iemand die energie krijgt van een innovatieve, inhoudelijk sterke werking? Werk je graag in teamverband, heb je zin om therapieën mee vorm te geven én zelf uit te voeren? Dan is deze functie iets voor jou!</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog ben jij een cruciale schakel in het behandelproces. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>begeleidt jongeren en je helpt hen bouwen aan hun herstel;</span></li> \n<li><span>ontwikkelt samen met het team het deeltijdsbehandelingsprogramma en de module Multi-family therapie op basis van evidence-based richtlijnen;</span></li> \n<li><span>schrijft therapeutische procedures en zorgmodules uit;</span></li> \n<li><span>werkt actief mee aan de uitvoering van de deeltijdsbehandelingsprogramma en de module Multi-family therapie. </span></li> </ul>",
-        "htmlEncoded": "<p> </p> \n<p><strong><span>Wil jij als klinisch psycholoog écht het verschil maken voor jongeren met een eetstoornis? Heb jij expertise in deze problematiek én goesting om te bouwen aan een vernieuwend zorgaanbod binnen een sterk netwerk? Dan zoeken wij jou.</span></strong></p> \n<p><strong><span>Een nieuwe werking, een frisse visie</span></strong><strong></strong></p> \n<p><span>Samen met het netwerk \n<em>Pangg 0-18</em> (Geestelijke Gezondheid Kinderen en Jongeren Provincie Antwerpen) ontwikkelt OPZ Geel een \n<strong>nieuw zorgtraject voor jongeren met eetstoornissen</strong>. Dit aanbod sluit aan op de conventie Eetstoornissen en wil een belangrijke brugfunctie vervullen tussen ambulante en (semi-)residentiële zorg.</span></p> \n<p><span>Doel? </span></p> \n<p><span>Zorg-op-maat die de escalatie van de ziekte helpt vermijden, een opname voorbereidt of jongeren begeleidt bij de stap terug naar ambulante zorg, en dit via een </span><strong><span>deeltijdsbehandelingsprogramma</span></strong><span> voor eetstoornissen als aanvulling op het bestaande  behandelingsaanbod. </span></p> \n<p><span>Daarnaast bieden we de module \n<strong>Multi-family therapie</strong>, een gezinstherapeutische </span><span>benadering waarin gezinnen samen leren omgaan met eetstoornissen en elkaar versterken in het herstelproces.</span></p> \n<p><strong><span>Voor dit gloednieuwe team zoeken we een geëngageerde klinisch psycholoog (50%)</span></strong></p> \n<p><span>Ben jij iemand die energie krijgt van een innovatieve, inhoudelijk sterke werking? Werk je graag in teamverband, heb je zin om therapieën mee vorm te geven én zelf uit te voeren? Dan is deze functie iets voor jou!</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog ben jij een cruciale schakel in het behandelproces. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>begeleidt jongeren en je helpt hen bouwen aan hun herstel;</span></li> \n<li><span>ontwikkelt samen met het team het deeltijdsbehandelingsprogramma en de module Multi-family therapie op basis van evidence-based richtlijnen;</span></li> \n<li><span>schrijft therapeutische procedures en zorgmodules uit;</span></li> \n<li><span>werkt actief mee aan de uitvoering van de deeltijdsbehandelingsprogramma en de module Multi-family therapie. </span></li> </ul>"
       },
       "locations": [
         {
@@ -527,41 +492,6 @@
         {
           "address": {
             "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71544128",
-      "internal": false,
-      "validThroughDate": "1754179200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71544128",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "(ziekenhuis)apotheker"
-      },
-      "displayTitle": "(ziekenhuis)apotheker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p align=\"center\"><span><span> </span></span></p> \n<p>Je helpt mee bij de dagelijkse routinetaken en de organisatie van een doeltreffende, kwalitatieve en veilige geneesmiddelendistributie in het ziekenhuis. Je zorgt voor een kwaliteitsvolle informatieverlening naar artsen en verpleegkundigen. Je werkt in teamverband met de hoofdapotheker, 3 farmaceutisch-technisch assistenten en een administratief medewerker.\n<span> </span></p>",
-        "htmlEncoded": "<p> </p> \n<p align=\"center\"><span><span> </span></span></p> \n<p>Je helpt mee bij de dagelijkse routinetaken en de organisatie van een doeltreffende, kwalitatieve en veilige geneesmiddelendistributie in het ziekenhuis. Je zorgt voor een kwaliteitsvolle informatieverlening naar artsen en verpleegkundigen. Je werkt in teamverband met de hoofdapotheker, 3 farmaceutisch-technisch assistenten en een administratief medewerker.\n<span> </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -3046,6 +2976,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18972",
+      "internal": false,
+      "validThroughDate": "1755734400",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18972",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder"
+      },
+      "displayTitle": "Dossierbeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een kringloopeconomie in Vlaanderen? Dan ben je bij de OVAM aan het juiste adres! De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt jouw steentje daar aan bijdragen.<br><br> Om de bodemkwaliteit in Vlaanderen in beeld te krijgen, eist de OVAM een onderzoek daar waar de kans op vervuiling groot is. Deze plekken noemen we risicolocaties. Als dossierbeheerder is jouw taak het behandelen van deze bodemonderzoeken en nagaan of de informatie correct wordt weergegeven in de databank. We zijn op zoek naar een nieuwe collega die zowel zelfstandig kan werken en tegelijk nauw contact houdt met de collega’s binnen jouw team. Contact met de buitenwereld schrikt jou niet af en je bent in staat om jouw communicatie af te stemmen op de doelgroep, zowel qua boodschap als qua medium. Je bent bereid om voortdurend bij te leren, je werkt gestructureerd en nauwkeurig en je bent in staat om beslissingen te nemen en deze te verantwoorden. Op drukke momenten kan het zijn dat je een tandje moet bijsteken, zodat de decretale termijnen behaald worden. Herken jij je in deze eigenschappen? Dan zijn wij alvast heel benieuwd naar jouw sollicitatie!<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een kringloopeconomie in Vlaanderen? Dan ben je bij de OVAM aan het juiste adres! De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt jouw steentje daar aan bijdragen.<br><br> Om de bodemkwaliteit in Vlaanderen in beeld te krijgen, eist de OVAM een onderzoek daar waar de kans op vervuiling groot is. Deze plekken noemen we risicolocaties. Als dossierbeheerder is jouw taak het behandelen van deze bodemonderzoeken en nagaan of de informatie correct wordt weergegeven in de databank. We zijn op zoek naar een nieuwe collega die zowel zelfstandig kan werken en tegelijk nauw contact houdt met de collega’s binnen jouw team. Contact met de buitenwereld schrikt jou niet af en je bent in staat om jouw communicatie af te stemmen op de doelgroep, zowel qua boodschap als qua medium. Je bent bereid om voortdurend bij te leren, je werkt gestructureerd en nauwkeurig en je bent in staat om beslissingen te nemen en deze te verantwoorden. Op drukke momenten kan het zijn dat je een tandje moet bijsteken, zodat de decretale termijnen behaald worden. Herken jij je in deze eigenschappen? Dan zijn wij alvast heel benieuwd naar jouw sollicitatie!<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18961",
       "internal": false,
       "validThroughDate": "1754524800",
@@ -3185,7 +3150,7 @@
     {
       "link": "/Job/cornerstone-18953",
       "internal": true,
-      "validThroughDate": "1754784000",
+      "validThroughDate": "1754352000",
       "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
       "reservedForDisability": false,
       "openPositions": 1,
