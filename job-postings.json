@@ -1,11 +1,46 @@
 {
-  "totalItems": 168,
+  "totalItems": 169,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 167,
+  "lastItemOfPage": 168,
   "items": [
+    {
+      "link": "/Job/vdab-71654690",
+      "internal": false,
+      "validThroughDate": "1755388800",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71654690",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeksmedewerker bodemstaalname"
+      },
+      "displayTitle": "Onderzoeksmedewerker bodemstaalname",
+      "isProtected": false,
+      "description": {
+        "raw": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info kan je vinden in het selectiereglement, dat verder beneden te downloaden is.</span></p>",
+        "htmlEncoded": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info kan je vinden in het selectiereglement, dat verder beneden te downloaden is.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geraardsbergen"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71648704",
       "internal": false,
@@ -732,41 +767,6 @@
       "description": {
         "raw": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>",
         "htmlEncoded": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71496268",
-      "internal": false,
-      "validThroughDate": "1755388800",
-      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71496268",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Onderzoeksmedewerker bodemstaalname"
-      },
-      "displayTitle": "Onderzoeksmedewerker bodemstaalname",
-      "isProtected": false,
-      "description": {
-        "raw": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info vind je \n<strong>de bijlage </strong></span><strong>SLR_onderzoeksmedewerker Cmon (1).pdf</strong></p>",
-        "htmlEncoded": "<p dir=\"ltr\">Het INBO focust op de bodems onder bos, natuur en parken. Jij ondersteunt de activiteiten van het Cmon project. Je bereidt de bodemstaalname voor, voert de bodemstaalname en metingen uit op het terrein, helpt met de verwerking van de stalen binnen de gestelde kwaliteitseisen en rapporteert de resultaten.</p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<p dir=\"ltr\"><span>1. Uitvoeren van bodemstaalnames op de locaties van het Cmon meetnet en verwerken van de stalen, volgens vooraf vastgelegde planning, kwaliteitsvereisten en protocollen, en dit over heel Vlaanderen en in alle seizoenen.</span></p> \n<p dir=\"ltr\"><span>2. Praktisch voorbereiden en organiseren van je eigen werkzaamheden, in overleg met de projectcoördinator en onderhouden, controleren en indien nodig herstellen van het veldmateriaal</span></p> \n<p dir=\"ltr\"><span>3. Invoeren en controleren van de door jou verzamelde gegevens en onderhouden, controleren en indien nodig herstellen van het veldmateriaal.</span></p> \n<p dir=\"ltr\"><span>4. Rapporteren over je werkzaamheden en resultaten en overleggen met de projectcoördinator en de andere medewerkers, om de werking, de planning en het resultaat te evalueren en indien nodig bij te sturen</span></p> \n<p dir=\"ltr\"><span>5. Onderhouden, opbouwen en uitwisselen van kennis en expertise in je vakgebied en werkterrein zodat nieuwe evoluties en inzichten de werking en het resultaat voortdurend verbeteren.</span></p> \n<p dir=\"ltr\"><span>Meer info vind je \n<strong>de bijlage </strong></span><strong>SLR_onderzoeksmedewerker Cmon (1).pdf</strong></p>"
       },
       "locations": [
         {
@@ -1572,41 +1572,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70837027",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70837027",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Enterprise Technology Architect (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Enterprise Technology Architect (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De functie van Enterprise Technology Architect is de lijm tussen de functies die de strategie van VDAB vorm geven, de functies die de IT-strategie </span><span><span><span>vormgeven </span></span></span><span>en de functies die het applicatie- en technologielandschap vormgeven, bouwen en onderhouden.</span></p> \n<p><span>Al deze functies focussen op en specialiseren zich in hun deel van het geheel. De functie van Enterprise Technology Architect specialiseert zich in geen van deze delen maar zorgt voor een overkoepelende consistentie en coherentie.</span></p> \n<p><span>De kandidaat wil impact hebben op </span><span><span><span>het portfolio van technologieën en hoe die</span></span></span><span> VDAB-brede strategie </span><span>en het applicatielandschap kunnen ondersteunen.</span></p> \n<p><span>Elk project dat via het PMO wordt uitgevoerd, wordt bekeken, gekaderd en opgevolgd door een Enterprise Business of Technology Architect.</span></p> \n<p><span><span>De projecten waar een Enterprise Technology Architect het meeste van de tijd aan zal besteden, zijn projecten met een grote change-impact op het portfolio van technologieën bij VDAB.</span></span></p> \n<p><strong><span>Jouw taken</span></strong></p> \n<p><strong></strong>● De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over hoe technologie de business services, capabilities, processen en applicatie services kunnen ondersteunen of realiseren.</p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin het huidige portfolio aan technologie de noden vanuit business services, capabilities, processen en applicatie services kan ondersteunen en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met een visie over hoe het portfolio aan technologie kan evolueren om mogelijke toekomstige noden te ondersteunen of realiseren.</span></p> \n<p><span><span>● </span></span><span>Beheren (maken, bijwerken) van het portfolio van technologieen die momenteel in gebruik zijn in de organisatie.</span></p> \n<p><span><span>● </span></span><span>Meten van en rapporteren over de mate waarin het portfolio van technologieen de huidige en mogelijke toekomstige noden van de business services, capabilities, processen en applicatie services ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Adviseren over mogelijke en zinvolle veranderingen in het portfolio van technologieen om de huidige en mogelijke toekomstige noden van de business services, capabilities, processen, applicatie services beter te ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Elk voorstel tot verandering (project) kaderen in het geheel van VDAB en adviseren over richtingen, risico's en aandachtspunten in de context van technologie.</span></p> \n<p><span><span>● </span></span><span>Het beheren van de life-cycle van de technologie om tijdig problemen, noodzakelijke evoluties of vervangingen te kunnen initieren.</span></p> \n<p><span><span>● </span></span><span>Onderhouden van contacten met leveranciers van technologieen om de impact van mogelijke evoluties op VDAB te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Opvolgen van nieuwe evoluties in de wereld van technologie om de opportuniteiten en bedreigingen voor VDAB tijdig te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Ondersteunen en uitbaten van de Architectuur Governance (Architecture Board, standaarden en patronen, etc.)</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De functie van Enterprise Technology Architect is de lijm tussen de functies die de strategie van VDAB vorm geven, de functies die de IT-strategie </span><span><span><span>vormgeven </span></span></span><span>en de functies die het applicatie- en technologielandschap vormgeven, bouwen en onderhouden.</span></p> \n<p><span>Al deze functies focussen op en specialiseren zich in hun deel van het geheel. De functie van Enterprise Technology Architect specialiseert zich in geen van deze delen maar zorgt voor een overkoepelende consistentie en coherentie.</span></p> \n<p><span>De kandidaat wil impact hebben op </span><span><span><span>het portfolio van technologieën en hoe die</span></span></span><span> VDAB-brede strategie </span><span>en het applicatielandschap kunnen ondersteunen.</span></p> \n<p><span>Elk project dat via het PMO wordt uitgevoerd, wordt bekeken, gekaderd en opgevolgd door een Enterprise Business of Technology Architect.</span></p> \n<p><span><span>De projecten waar een Enterprise Technology Architect het meeste van de tijd aan zal besteden, zijn projecten met een grote change-impact op het portfolio van technologieën bij VDAB.</span></span></p> \n<p><strong><span>Jouw taken</span></strong></p> \n<p><strong></strong>● De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over hoe technologie de business services, capabilities, processen en applicatie services kunnen ondersteunen of realiseren.</p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin het huidige portfolio aan technologie de noden vanuit business services, capabilities, processen en applicatie services kan ondersteunen en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><span><span>● </span></span><span>De organisatie ondersteunen in haar beslissingen met een visie over hoe het portfolio aan technologie kan evolueren om mogelijke toekomstige noden te ondersteunen of realiseren.</span></p> \n<p><span><span>● </span></span><span>Beheren (maken, bijwerken) van het portfolio van technologieen die momenteel in gebruik zijn in de organisatie.</span></p> \n<p><span><span>● </span></span><span>Meten van en rapporteren over de mate waarin het portfolio van technologieen de huidige en mogelijke toekomstige noden van de business services, capabilities, processen en applicatie services ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Adviseren over mogelijke en zinvolle veranderingen in het portfolio van technologieen om de huidige en mogelijke toekomstige noden van de business services, capabilities, processen, applicatie services beter te ondersteunen.</span></p> \n<p><span><span>● </span></span><span>Elk voorstel tot verandering (project) kaderen in het geheel van VDAB en adviseren over richtingen, risico's en aandachtspunten in de context van technologie.</span></p> \n<p><span><span>● </span></span><span>Het beheren van de life-cycle van de technologie om tijdig problemen, noodzakelijke evoluties of vervangingen te kunnen initieren.</span></p> \n<p><span><span>● </span></span><span>Onderhouden van contacten met leveranciers van technologieen om de impact van mogelijke evoluties op VDAB te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Opvolgen van nieuwe evoluties in de wereld van technologie om de opportuniteiten en bedreigingen voor VDAB tijdig te kunnen identificeren en te kwantificeren.</span></p> \n<p><span><span>● </span></span><span>Ondersteunen en uitbaten van de Architectuur Governance (Architecture Board, standaarden en patronen, etc.)</span></p>"
       },
       "locations": [
         {
@@ -2527,6 +2492,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19139",
+      "internal": false,
+      "validThroughDate": "1754352000",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 10,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19139",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudenten 2"
+      },
+      "displayTitle": "Jobstudenten 2",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>AHOVOKS is op zoek naar gemotiveerde jobstudenten. Heb je\nadministratief talent en ben je klantvriendelijk? Dan ben jij degene die we\nzoeken! <br><br>Binnen het agentschap zijn er verschillende administratieve\nfuncties beschikbaar. De taken variëren naar gelang de afdeling waarin je\nterecht komt. Het betreffen in hoofdzaak praktische, administratieve en ondersteunende taken zoals: </p><ul><li>Mee helpen uitvoeren van dossierbehandeling,</li><li>Kopieer en archiefwerk,</li><li>Onthaal,</li><li>Input van gegevens,</li><li>Enz…</li></ul><p>We zijn op zoek naar jobstudenten die beschikbaar\nzijn tijdens de vakanties en/of gedurende het hele school/academiejaar. <br><br>Interesse? Solliciteer dan vandaag nog!</p>",
+        "htmlEncoded": "<p>AHOVOKS is op zoek naar gemotiveerde jobstudenten. Heb je\nadministratief talent en ben je klantvriendelijk? Dan ben jij degene die we\nzoeken! <br><br>Binnen het agentschap zijn er verschillende administratieve\nfuncties beschikbaar. De taken variëren naar gelang de afdeling waarin je\nterecht komt. Het betreffen in hoofdzaak praktische, administratieve en ondersteunende taken zoals: </p><ul><li>Mee helpen uitvoeren van dossierbehandeling,</li><li>Kopieer en archiefwerk,</li><li>Onthaal,</li><li>Input van gegevens,</li><li>Enz…</li></ul><p>We zijn op zoek naar jobstudenten die beschikbaar\nzijn tijdens de vakanties en/of gedurende het hele school/academiejaar. <br><br>Interesse? Solliciteer dan vandaag nog!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19134",
       "internal": false,
       "validThroughDate": "1755648000",
@@ -2654,6 +2651,46 @@
         {
           "address": {
             "city": "Kampenhout"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19114",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19114",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Bedrijfsplanner met plantenkennis"
+      },
+      "displayTitle": "Bedrijfsplanner met plantenkennis",
+      "isProtected": false,
+      "description": {
+        "raw": "<span>De Vlaamse Landmaatschappij (VLM) zoekt een bedrijfsplanner met sterke plantenkennis om mee te werken aan het internationale Expbio-project, een Europees gefinancierd initiatief binnen het Interreg Noordzeeregio-programma. Meer informatie over het project vind je op&nbsp;</span><span><a href=\"https://www.interregnorthsea.eu/expbio\"><span>deze website</span></a></span><span>.<br><br>C</span><span>oncreet werk je in een tweetal demo-gebieden in Vlaanderen aan het verbeteren van de kwaliteit van natuurlijke graslanden door aangepast beheer, inzaai van graskruidenmengsels of opbrengen van soortenrijk maaisel. Je volgt hierbij de evolutie van de demopercelen op en bent de contactpersoon voor de landbouwers die deze maatregelen uittesten.<br><br></span><span>Daarbij ga je actief in dialoog met landbouwers en andere grondgebruikers. Je licht de projectdoelstellingen toe, peilt naar hun interesse en stelt – waar relevant – geschikte beheerpakketten voor. Bij botanisch beheer bepaal jij – op basis van jouw kennis van graslanden en plantensoorten – de juiste maatregelen om de biodiversiteit te versterken.<br><br></span><span>In deze rol fungeer je als het aanspreekpunt van VLM in de demogebieden en werk je nauw samen met de bedrijfsplanner uit het werkingsgebied. In overleg met de projectleider organiseer je workshops, lokale acties en communicatie-initiatieven om het project zichtbaar en gedragen te maken.<br><br></span><span>Daarnaast denk je mee over het bredere thema van het herstel van inheemse kruiden en planten, samen met het Expbio-team en Europese partners. Je ondersteunt de projectleider bij de uitwerking van een VLM-aanpak die ook in andere regio’s getest zal worden.<br><br></span><span>Tot slot werk je samen met de Plantentuin van Meise aan een traject rond het oogsten, vermeerderen, verspreiden en certificeren van inheems zaad (zoals korenbloem of klaproos). Zo zorgen we ervoor dat deze soorten in de toekomst kunnen worden ingezet binnen VLM-beheerovereenkomsten.<br><br></span><span>Interesse om mee je schouders te zetten onder dit Europese biodiversiteitsproject? Solliciteer dan nu en versterk samen met ons de natuurverbindingen in Vlaanderen!</span>",
+        "htmlEncoded": "<span>De Vlaamse Landmaatschappij (VLM) zoekt een bedrijfsplanner met sterke plantenkennis om mee te werken aan het internationale Expbio-project, een Europees gefinancierd initiatief binnen het Interreg Noordzeeregio-programma. Meer informatie over het project vind je op&nbsp;</span><span><a href=\"https://www.interregnorthsea.eu/expbio\"><span>deze website</span></a></span><span>.<br><br>C</span><span>oncreet werk je in een tweetal demo-gebieden in Vlaanderen aan het verbeteren van de kwaliteit van natuurlijke graslanden door aangepast beheer, inzaai van graskruidenmengsels of opbrengen van soortenrijk maaisel. Je volgt hierbij de evolutie van de demopercelen op en bent de contactpersoon voor de landbouwers die deze maatregelen uittesten.<br><br></span><span>Daarbij ga je actief in dialoog met landbouwers en andere grondgebruikers. Je licht de projectdoelstellingen toe, peilt naar hun interesse en stelt – waar relevant – geschikte beheerpakketten voor. Bij botanisch beheer bepaal jij – op basis van jouw kennis van graslanden en plantensoorten – de juiste maatregelen om de biodiversiteit te versterken.<br><br></span><span>In deze rol fungeer je als het aanspreekpunt van VLM in de demogebieden en werk je nauw samen met de bedrijfsplanner uit het werkingsgebied. In overleg met de projectleider organiseer je workshops, lokale acties en communicatie-initiatieven om het project zichtbaar en gedragen te maken.<br><br></span><span>Daarnaast denk je mee over het bredere thema van het herstel van inheemse kruiden en planten, samen met het Expbio-team en Europese partners. Je ondersteunt de projectleider bij de uitwerking van een VLM-aanpak die ook in andere regio’s getest zal worden.<br><br></span><span>Tot slot werk je samen met de Plantentuin van Meise aan een traject rond het oogsten, vermeerderen, verspreiden en certificeren van inheems zaad (zoals korenbloem of klaproos). Zo zorgen we ervoor dat deze soorten in de toekomst kunnen worden ingezet binnen VLM-beheerovereenkomsten.<br><br></span><span>Interesse om mee je schouders te zetten onder dit Europese biodiversiteitsproject? Solliciteer dan nu en versterk samen met ons de natuurverbindingen in Vlaanderen!</span>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
           }
         }
       ]
@@ -3285,7 +3322,7 @@
     {
       "link": "/Job/cornerstone-18953",
       "internal": true,
-      "validThroughDate": "1754352000",
+      "validThroughDate": "1754784000",
       "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
       "reservedForDisability": false,
       "openPositions": 1,
