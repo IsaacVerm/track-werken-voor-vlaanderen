@@ -1,10 +1,10 @@
 {
-  "totalItems": 167,
+  "totalItems": 168,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 166,
+  "lastItemOfPage": 167,
   "items": [
     {
       "link": "/Job/vdab-71654690",
@@ -2487,6 +2487,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19149",
+      "internal": false,
+      "validThroughDate": "1757289600",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19149",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Toetsontwikkelaar NT2"
+      },
+      "displayTitle": "Toetsontwikkelaar NT2",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Een team van vakexperten uit het volwassenenonderwijs ontwikkelt, in samenwerking met de Examencommissie, de gestandaardiseerde NT2-test. Deze test bestaat uit vier onderdelen: lezen, schrijven, luisteren en spreken.&nbsp; </p><p>In een eerste fase ontwikkelde het team testen voor lezen en schrijven op het niveau A1 en A2. In de volgende fase start de ontwikkeling van de testen spreken en luisteren op <strong>ERK-niveau B1</strong>. </p><p>In het kader van deze nieuwe fase breiden we het ontwikkelteam volgend schooljaar graag uit. Het ontwikkelteam bestaat momenteel uit een inhoudelijk expert en 7 toetsontwikkelaars. Het zijn allen leerkrachten en coördinatoren van CVO en CBE. De test wordt ontwikkeld onder leiding van een projectleider bij de Examencommissie.&nbsp; </p><p>De Examencommissie zoekt daarom twee <strong>toetsontwikkelaars NT2</strong> die vanuit hun centrum voor minimum 60% worden vrijgesteld om bij de Examencommissie te werken aan de gezamenlijke ontwikkeling van de testen <strong>luisteren en spreken B1 </strong>voor de gestandaardiseerde NT-test.&nbsp; </p><p>Solliciteer vandaag nog als jij de persoon bent die we zoeken.&nbsp;&nbsp;</p>",
+        "htmlEncoded": "<p>Een team van vakexperten uit het volwassenenonderwijs ontwikkelt, in samenwerking met de Examencommissie, de gestandaardiseerde NT2-test. Deze test bestaat uit vier onderdelen: lezen, schrijven, luisteren en spreken.&nbsp; </p><p>In een eerste fase ontwikkelde het team testen voor lezen en schrijven op het niveau A1 en A2. In de volgende fase start de ontwikkeling van de testen spreken en luisteren op <strong>ERK-niveau B1</strong>. </p><p>In het kader van deze nieuwe fase breiden we het ontwikkelteam volgend schooljaar graag uit. Het ontwikkelteam bestaat momenteel uit een inhoudelijk expert en 7 toetsontwikkelaars. Het zijn allen leerkrachten en coördinatoren van CVO en CBE. De test wordt ontwikkeld onder leiding van een projectleider bij de Examencommissie.&nbsp; </p><p>De Examencommissie zoekt daarom twee <strong>toetsontwikkelaars NT2</strong> die vanuit hun centrum voor minimum 60% worden vrijgesteld om bij de Examencommissie te werken aan de gezamenlijke ontwikkeling van de testen <strong>luisteren en spreken B1 </strong>voor de gestandaardiseerde NT-test.&nbsp; </p><p>Solliciteer vandaag nog als jij de persoon bent die we zoeken.&nbsp;&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
