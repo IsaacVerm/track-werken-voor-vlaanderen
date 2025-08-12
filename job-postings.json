@@ -1,11 +1,46 @@
 {
-  "totalItems": 171,
+  "totalItems": 174,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 170,
+  "lastItemOfPage": 173,
   "items": [
+    {
+      "link": "/Job/vdab-71704017",
+      "internal": false,
+      "validThroughDate": "1756857600",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71704017",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Psychologisch assistent"
+      },
+      "displayTitle": "Psychologisch assistent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span lang=\"NL\">Doelgroep</span></strong></p> \n<p><span lang=\"NL\">Het Forensisch Cluster van OPZC Rekem biedt gespecialiseerde zorg aan personen met een interneringsstatuut, tijdens hun behandel-, begeleidings- en resocialisatietraject.</span></p> \n<p><strong><span>Jouw Rol</span></strong></p> \n<p><span><span>Jij bent de spil in het (forensisch) diagnostisch traject.</span></span></p> \n<p><span><span>· </span></span><span>Als psychodiagnosticus werk je nauw samen met collega’s van verschillende disciplines en rapporteer \n<br> je aan de master klinische psychologie.</span></p> \n<p><span><span>· </span></span><span>Je voert psychodiagnostisch onderzoek uit gericht op o.a. criminogene factoren, responsiviteit en \n<br> beschermende factoren, altijd afgestemd op de specifieke onderzoeksvraag van het team</span></p> \n<p>· Op basis van testonderzoek bespreek je in multidisciplinair overleg casussen en formuleer je \n<br> behandeladviezen.</p> \n<p><span><span>· </span></span><span>Je ondersteunt (+/-10%) een forensische zorgeenheid ( leefstijltraining): je denkt mee met het team, \n<br> bewaakt het therapeutisch klimaat, geeft vraaggerichte vormingen, begeleidt specifieke sessies en \n<br> vormt de brug naar de behandelend psycholoog.</span></p> \n<p><span><span>· </span></span><span>Je deelt je kennis en expertise met collega’s psychodiagnostiek van andere clusters.</span></p> \n<p> </p>",
+        "htmlEncoded": "<p><strong><span lang=\"NL\">Doelgroep</span></strong></p> \n<p><span lang=\"NL\">Het Forensisch Cluster van OPZC Rekem biedt gespecialiseerde zorg aan personen met een interneringsstatuut, tijdens hun behandel-, begeleidings- en resocialisatietraject.</span></p> \n<p><strong><span>Jouw Rol</span></strong></p> \n<p><span><span>Jij bent de spil in het (forensisch) diagnostisch traject.</span></span></p> \n<p><span><span>· </span></span><span>Als psychodiagnosticus werk je nauw samen met collega’s van verschillende disciplines en rapporteer \n<br> je aan de master klinische psychologie.</span></p> \n<p><span><span>· </span></span><span>Je voert psychodiagnostisch onderzoek uit gericht op o.a. criminogene factoren, responsiviteit en \n<br> beschermende factoren, altijd afgestemd op de specifieke onderzoeksvraag van het team</span></p> \n<p>· Op basis van testonderzoek bespreek je in multidisciplinair overleg casussen en formuleer je \n<br> behandeladviezen.</p> \n<p><span><span>· </span></span><span>Je ondersteunt (+/-10%) een forensische zorgeenheid ( leefstijltraining): je denkt mee met het team, \n<br> bewaakt het therapeutisch klimaat, geeft vraaggerichte vormingen, begeleidt specifieke sessies en \n<br> vormt de brug naar de behandelend psycholoog.</span></p> \n<p><span><span>· </span></span><span>Je deelt je kennis en expertise met collega’s psychodiagnostiek van andere clusters.</span></p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71681540",
       "internal": false,
@@ -3296,7 +3331,7 @@
     {
       "link": "/Job/cornerstone-19114",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1756684800",
       "hiringOrganization": "Vlaamse Landmaatschappij",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -3399,6 +3434,41 @@
         {
           "address": {
             "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19053",
+      "internal": false,
+      "validThroughDate": "1757030400",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19053",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beheerder erkenningscommissie zorgberoepen"
+      },
+      "displayTitle": "Beheerder erkenningscommissie zorgberoepen",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een organisatietalent met een passie voor zorg én heb je een vlotte pen? Dan is deze functie iets voor jou!&nbsp;&nbsp;</div><div></div><div>Als beheerder van de erkenningscommissie krijg je de verantwoordelijkheid over de verwerking, opvolging en afhandeling van erkenningsaanvragen van gezondheidszorgberoepen. Je analyseert dossiers, bereidt commissievergaderingen voor, stelt adviezen en verslagen op, en communiceert helder met de aanvragers. Je zorgt ervoor dat de regelgeving correct wordt toegepast en dat de interne processen efficiënt verlopen.</div><div></div><div>Je komt terecht in het team Zorgberoepen van het Departement Zorg, waar samenwerking en onderlinge ondersteuning centraal staan. We zoeken iemand die niet alleen zelfstandig kan werken, maar ook flexibel en collegiaal is ingesteld: je bent bereid om taken van collega’s over te nemen wanneer nodig en draagt actief bij aan een vlot draaiend team.</div><div></div><div>Naast je kerntaken neem je geleidelijk ook bredere ondersteunende taken op, zoals het opmaken van teamverslagen, het mee opvolgen van projecten en het ondersteunen van collega’s bij de verwerking van dossiers.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div><br>",
+        "htmlEncoded": "<div>Ben jij een organisatietalent met een passie voor zorg én heb je een vlotte pen? Dan is deze functie iets voor jou!&nbsp;&nbsp;</div><div></div><div>Als beheerder van de erkenningscommissie krijg je de verantwoordelijkheid over de verwerking, opvolging en afhandeling van erkenningsaanvragen van gezondheidszorgberoepen. Je analyseert dossiers, bereidt commissievergaderingen voor, stelt adviezen en verslagen op, en communiceert helder met de aanvragers. Je zorgt ervoor dat de regelgeving correct wordt toegepast en dat de interne processen efficiënt verlopen.</div><div></div><div>Je komt terecht in het team Zorgberoepen van het Departement Zorg, waar samenwerking en onderlinge ondersteuning centraal staan. We zoeken iemand die niet alleen zelfstandig kan werken, maar ook flexibel en collegiaal is ingesteld: je bent bereid om taken van collega’s over te nemen wanneer nodig en draagt actief bij aan een vlot draaiend team.</div><div></div><div>Naast je kerntaken neem je geleidelijk ook bredere ondersteunende taken op, zoals het opmaken van teamverslagen, het mee opvolgen van projecten en het ondersteunen van collega’s bij de verwerking van dossiers.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3602,8 +3672,8 @@
       "displayTitle": "Forensisch auditors",
       "isProtected": false,
       "description": {
-        "raw": "<p><span><font size=\"3\">Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties? </font></span></p> <p><span><font size=\"3\">Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</font></span></p> <p><span><font size=\"3\">Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</font></span></p> <p><font size=\"3\"><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.</span><span> Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></font></p> <p><span><font size=\"3\">Je krijgt een intensieve opleiding.<span>&nbsp;</span></font></span></p> <p><span><font size=\"3\">Maak kennis met Audit Vlaanderen: <a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></font></span></p> <p><span><font size=\"3\">Vind hieronder meer info over het gezochte profiel en de selectieprocedure.</font></span></p> <p><span><font size=\"3\">Wil je graag meer details over de job van auditor? Lees dan verder via <a></a><a></a><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\"><span><span>deze link</span></span></a>.</font></span></p> <div> <div><div><p>&nbsp;</p></div></div><div><div> </div> </div> </div>",
-        "htmlEncoded": "<p><span><font size=\"3\">Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties? </font></span></p> <p><span><font size=\"3\">Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</font></span></p> <p><span><font size=\"3\">Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</font></span></p> <p><font size=\"3\"><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.</span><span> Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></font></p> <p><span><font size=\"3\">Je krijgt een intensieve opleiding.<span>&nbsp;</span></font></span></p> <p><span><font size=\"3\">Maak kennis met Audit Vlaanderen: <a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></font></span></p> <p><span><font size=\"3\">Vind hieronder meer info over het gezochte profiel en de selectieprocedure.</font></span></p> <p><span><font size=\"3\">Wil je graag meer details over de job van auditor? Lees dan verder via <a></a><a></a><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\"><span><span>deze link</span></span></a>.</font></span></p> <div> <div><div><p>&nbsp;</p></div></div><div><div> </div> </div> </div>"
+        "raw": "<p><span>Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties?</span></p> <p><span>Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</span></p> <p><span>Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</span></p> <p><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.&nbsp;Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></p> <p><span>Je krijgt een intensieve opleiding.</span></p> <p><span>Maak kennis met Audit Vlaanderen:&nbsp;<a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></span></p> <p><span>Vind hieronder meer info over het gezochte profiel en de selectieprocedure.&nbsp;</span><span>Wil je graag meer details over de job van auditor? Lees dan verder via&nbsp;</span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\">deze link</a><span>.</span></p>",
+        "htmlEncoded": "<p><span>Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties?</span></p> <p><span>Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</span></p> <p><span>Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</span></p> <p><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.&nbsp;Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></p> <p><span>Je krijgt een intensieve opleiding.</span></p> <p><span>Maak kennis met Audit Vlaanderen:&nbsp;<a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></span></p> <p><span>Vind hieronder meer info over het gezochte profiel en de selectieprocedure.&nbsp;</span><span>Wil je graag meer details over de job van auditor? Lees dan verder via&nbsp;</span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\">deze link</a><span>.</span></p>"
       },
       "locations": [
         {
@@ -5420,6 +5490,41 @@
       "description": {
         "raw": "Als junior IT-helpdeskmedewerker binnen de centrale diensten van het GO! ben je het eerste aanspreekpunt voor ICT-gerelateerde vragen en incidenten. Je ondersteunt eindgebruikers bij technische problemen, verzorgt een correcte registratie en analyse van meldingen, en werkt mee aan het optimaliseren van de werking van onze helpdesk. Je staat rechtstreeks in contact met medewerkers van de centrale diensten en escaleert waar nodig naar de tweede lijn. Je maakt deel uit van het ICT-team binnen de afdeling Organisatieondersteuning, waar samenwerking, klantgerichtheid en betrouwbaarheid centraal staan.",
         "htmlEncoded": "Als junior IT-helpdeskmedewerker binnen de centrale diensten van het GO! ben je het eerste aanspreekpunt voor ICT-gerelateerde vragen en incidenten. Je ondersteunt eindgebruikers bij technische problemen, verzorgt een correcte registratie en analyse van meldingen, en werkt mee aan het optimaliseren van de werking van onze helpdesk. Je staat rechtstreeks in contact met medewerkers van de centrale diensten en escaleert waar nodig naar de tweede lijn. Je maakt deel uit van het ICT-team binnen de afdeling Organisatieondersteuning, waar samenwerking, klantgerichtheid en betrouwbaarheid centraal staan."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18599",
+      "internal": true,
+      "validThroughDate": "1757894400",
+      "hiringOrganization": "Dienst van de Bestuursrechtscolleges",
+      "reservedForDisability": false,
+      "openPositions": 4,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18599",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "DBRC Referendaris-expert"
+      },
+      "displayTitle": "DBRC Referendaris-expert",
+      "isProtected": false,
+      "description": {
+        "raw": "De Dienst van de Bestuursrechtscolleges (DBRC) is op zoek naar 4 referendaris-experten.<br><br>Als referendaris-expert ondersteun je de bestuursrechtscolleges en hun bestuursrechters bij de&nbsp;<br>behandeling van bestuursrechtelijke geschillen. Vanuit je doorgedreven expertise neem je ook dossiers op&nbsp;<br>met een grote complexiteit en/of een groot maatschappelijk belang. Je staat in voor een tweede screening<br>van de dossiers op het ogenblik dat ze in staat zijn. Daarnaast coördineer je de werkzaamheden van ad&nbsp;<br>hoc samengestelde teams van referendarissen. Je bent bovendien een inhoudelijk aanspreekpunt voor&nbsp;<br>referendarissen en neemt de opleiding en begeleiding van nieuwe collega’s op.<br><br>Je krijgt de kans om bij te dragen aan het ontwikkelen van toonaangevende bestuursrechtspraak en zet&nbsp;<br>je dagelijks in voor maatschappelijke onderwerpen. Deze combinatie maakt jouw werk uitdagend en&nbsp;<br>afwisselend<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
+        "htmlEncoded": "De Dienst van de Bestuursrechtscolleges (DBRC) is op zoek naar 4 referendaris-experten.<br><br>Als referendaris-expert ondersteun je de bestuursrechtscolleges en hun bestuursrechters bij de&nbsp;<br>behandeling van bestuursrechtelijke geschillen. Vanuit je doorgedreven expertise neem je ook dossiers op&nbsp;<br>met een grote complexiteit en/of een groot maatschappelijk belang. Je staat in voor een tweede screening<br>van de dossiers op het ogenblik dat ze in staat zijn. Daarnaast coördineer je de werkzaamheden van ad&nbsp;<br>hoc samengestelde teams van referendarissen. Je bent bovendien een inhoudelijk aanspreekpunt voor&nbsp;<br>referendarissen en neemt de opleiding en begeleiding van nieuwe collega’s op.<br><br>Je krijgt de kans om bij te dragen aan het ontwikkelen van toonaangevende bestuursrechtspraak en zet&nbsp;<br>je dagelijks in voor maatschappelijke onderwerpen. Deze combinatie maakt jouw werk uitdagend en&nbsp;<br>afwisselend<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
       },
       "locations": [
         {
