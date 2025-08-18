@@ -1,10 +1,10 @@
 {
-  "totalItems": 174,
+  "totalItems": 176,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 173,
+  "lastItemOfPage": 175,
   "items": [
     {
       "link": "/Job/vdab-71716405",
@@ -3432,6 +3432,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19131",
+      "internal": true,
+      "validThroughDate": "1756857600",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19131",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data analist arbeidsmarkt & dienstverlening"
+      },
+      "displayTitle": "Data analist arbeidsmarkt & dienstverlening",
+      "isProtected": false,
+      "description": {
+        "raw": "<div></div><br>Je werkt graag met cijfers die er écht toe doen. In jouw rol als data-analist bij VDAB verdiep je je in de dynamiek van de arbeidsmarkt én de effectiviteit van onze dienstverlening. Je vertaalt grote hoeveelheden data naar inzichten die rechtstreeks impact hebben op het beleid, op de matching tussen kandidaten en vacatures.<br><br>Binnen het team Monitoring focus je op een actueel en maatschappelijk relevant thema: beroepskeuzes en beroepsvoorkeuren. Jij volgt op hoe werkzoekenden hun jobpad uitstippelen en hoe VDAB hen daarin optimaal kan begeleiden. Met de overgang naar Competent 2.0 in juni 2025 en beleidswijzigingen zoals de beperking van de werkloosheidsduur, ontstaat een rijke stroom aan nieuwe data. Jij analyseert die evoluties en biedt beleidsadvies op maat: betrouwbaar, onderbouwd, en helder.<br><br>Je werkt met tools zoals dashboards, analysenota’s en publieke cijferapplicaties om cijfers tastbaar te maken voor zowel beleidsmakers als het brede publiek. Statistiek is jouw fundament, maar inzicht en gebruiksvriendelijkheid zijn je leidraad. Je weet bovendien hoe je datagedreven inzichten kracht bijzet via onderbouwde effectevaluaties, bijvoorbeeld met quasi-experimentele methoden, of je bent bereid je hierin verder te verdiepen.<br><br>Je komt terecht in een gedreven, inclusief team dat samen het verschil maakt. Team Monitoring bundelt diverse expertises en werkt nauw samen met collega’s uit beleid, IT en dienstverlening. Je wordt uitgedaagd én ondersteund om te groeien, bij te leren en jouw blik te verruimen.<br><br>Wat mag je verwachten?<br><br>- Een rol met maatschappelijke meerwaarde: je werk ondersteunt betere keuzes voor werkzoekenden en werkgevers<br><br>- Een sleutelpositie in het uitrollen van Competent 2.0 en vernieuwd klantbeheer<br><br>- Een open werkomgeving waarin samenwerking, kennisdeling en respect centraal staan<br><br>Met jouw data en inzichten geef je richting aan de arbeidsmarkt van morgen.",
+        "htmlEncoded": "<div></div><br>Je werkt graag met cijfers die er écht toe doen. In jouw rol als data-analist bij VDAB verdiep je je in de dynamiek van de arbeidsmarkt én de effectiviteit van onze dienstverlening. Je vertaalt grote hoeveelheden data naar inzichten die rechtstreeks impact hebben op het beleid, op de matching tussen kandidaten en vacatures.<br><br>Binnen het team Monitoring focus je op een actueel en maatschappelijk relevant thema: beroepskeuzes en beroepsvoorkeuren. Jij volgt op hoe werkzoekenden hun jobpad uitstippelen en hoe VDAB hen daarin optimaal kan begeleiden. Met de overgang naar Competent 2.0 in juni 2025 en beleidswijzigingen zoals de beperking van de werkloosheidsduur, ontstaat een rijke stroom aan nieuwe data. Jij analyseert die evoluties en biedt beleidsadvies op maat: betrouwbaar, onderbouwd, en helder.<br><br>Je werkt met tools zoals dashboards, analysenota’s en publieke cijferapplicaties om cijfers tastbaar te maken voor zowel beleidsmakers als het brede publiek. Statistiek is jouw fundament, maar inzicht en gebruiksvriendelijkheid zijn je leidraad. Je weet bovendien hoe je datagedreven inzichten kracht bijzet via onderbouwde effectevaluaties, bijvoorbeeld met quasi-experimentele methoden, of je bent bereid je hierin verder te verdiepen.<br><br>Je komt terecht in een gedreven, inclusief team dat samen het verschil maakt. Team Monitoring bundelt diverse expertises en werkt nauw samen met collega’s uit beleid, IT en dienstverlening. Je wordt uitgedaagd én ondersteund om te groeien, bij te leren en jouw blik te verruimen.<br><br>Wat mag je verwachten?<br><br>- Een rol met maatschappelijke meerwaarde: je werk ondersteunt betere keuzes voor werkzoekenden en werkgevers<br><br>- Een sleutelpositie in het uitrollen van Competent 2.0 en vernieuwd klantbeheer<br><br>- Een open werkomgeving waarin samenwerking, kennisdeling en respect centraal staan<br><br>Met jouw data en inzichten geef je richting aan de arbeidsmarkt van morgen."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19130",
       "internal": false,
       "validThroughDate": "1757289600",
@@ -3846,6 +3878,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19028",
+      "internal": false,
+      "validThroughDate": "1757289600",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19028",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Justitieassistent Leuven"
+      },
+      "displayTitle": "Justitieassistent Leuven",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers?&nbsp;&nbsp;<br> Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?&nbsp;<br> We </span><span>zijn</span><span> op zoek naar justitieassistenten voor het jusititiehuis van Leuven:&nbsp;<br>- Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer.<br> </span><span>- Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de omgangsregelingen) procedures.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p>",
+        "htmlEncoded": "<p><span>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers?&nbsp;&nbsp;<br> Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?&nbsp;<br> We </span><span>zijn</span><span> op zoek naar justitieassistenten voor het jusititiehuis van Leuven:&nbsp;<br>- Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer.<br> </span><span>- Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de omgangsregelingen) procedures.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
