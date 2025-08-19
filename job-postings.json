@@ -1,10 +1,10 @@
 {
-  "totalItems": 174,
+  "totalItems": 178,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 173,
+  "lastItemOfPage": 177,
   "items": [
     {
       "link": "/Job/vdab-71716405",
@@ -3603,6 +3603,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19104",
+      "internal": false,
+      "validThroughDate": "1756944000",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19104",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar NARIC"
+      },
+      "displayTitle": "Dossierbehandelaar NARIC",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je interesse in buitenlandse onderwijssystemen? Ben je een echte teamspeler? Ben je analytisch en werk je graag in een gedigitaliseerde omgeving? Dan is deze functie misschien wel iets voor jou! </span></p> <p><span>Als dossierbehandelaar speel je een cruciale rol in de erkenning van buitenlandse diploma’s. Jij bent de eerste die de ingediende erkenningsdossiers onder de loep neemt. Je checkt of de aanvragen compleet zijn en voldoen aan de reglementen. Eventuele onregelmatigheden spoor je op en je bepaalt welke stappen verder moeten worden ondernomen. Op basis van jouw expertise maak je een voorstel van beslissing op of je vraagt een advies op bij een expert uit het onderwijsveld. Ook hier toets jij af of het uitgebrachte advies van de expert voldoet aan de internationaal vastgelegde criteria. Je volgt nog de uitvoering van de beslissing op, dat deze correct wordt uitgevoerd </span></p> <p><span>Verder sta je als dossierbehandelaar in nauw contact met zowel je klanten als je collega’s. Zo ga je vragen beantwoorden over het verloop en de behandeling van het dossier, ook licht je beslissingen toe aan de klant. Je neemt deel aan interne overlegmomenten, nationale en internationale conferenties, cursussen en werkgroepen. Je werkt mee aan de uitbouw van communicatie-instrumenten zoals bv. de website of nieuwsbrief en je staat in voor verschillende evenementen zoals conferenties, presentaties en onthaal van organisaties. </span></p> <p><span>Binnen de afdeling Toelagen en Erkenningen is het team NARIC-Vlaanderen op zoek naar 2 dossierbehandelaars voor een contract van bepaalde duur (1 jaar), met de mogelijkheid op verlening. Je komt terecht in kleine regioteams, waar samenwerking centraal staat.</span></p> <p><span>Wil je deel uitmaken van ons dynamische team en meewerken aan het verbeteren van diplomawaardering in Vlaanderen? Solliciteer nu!</span><span>&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Heb je interesse in buitenlandse onderwijssystemen? Ben je een echte teamspeler? Ben je analytisch en werk je graag in een gedigitaliseerde omgeving? Dan is deze functie misschien wel iets voor jou! </span></p> <p><span>Als dossierbehandelaar speel je een cruciale rol in de erkenning van buitenlandse diploma’s. Jij bent de eerste die de ingediende erkenningsdossiers onder de loep neemt. Je checkt of de aanvragen compleet zijn en voldoen aan de reglementen. Eventuele onregelmatigheden spoor je op en je bepaalt welke stappen verder moeten worden ondernomen. Op basis van jouw expertise maak je een voorstel van beslissing op of je vraagt een advies op bij een expert uit het onderwijsveld. Ook hier toets jij af of het uitgebrachte advies van de expert voldoet aan de internationaal vastgelegde criteria. Je volgt nog de uitvoering van de beslissing op, dat deze correct wordt uitgevoerd </span></p> <p><span>Verder sta je als dossierbehandelaar in nauw contact met zowel je klanten als je collega’s. Zo ga je vragen beantwoorden over het verloop en de behandeling van het dossier, ook licht je beslissingen toe aan de klant. Je neemt deel aan interne overlegmomenten, nationale en internationale conferenties, cursussen en werkgroepen. Je werkt mee aan de uitbouw van communicatie-instrumenten zoals bv. de website of nieuwsbrief en je staat in voor verschillende evenementen zoals conferenties, presentaties en onthaal van organisaties. </span></p> <p><span>Binnen de afdeling Toelagen en Erkenningen is het team NARIC-Vlaanderen op zoek naar 2 dossierbehandelaars voor een contract van bepaalde duur (1 jaar), met de mogelijkheid op verlening. Je komt terecht in kleine regioteams, waar samenwerking centraal staat.</span></p> <p><span>Wil je deel uitmaken van ons dynamische team en meewerken aan het verbeteren van diplomawaardering in Vlaanderen? Solliciteer nu!</span><span>&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19103",
+      "internal": false,
+      "validThroughDate": "1757289600",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19103",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Procesbeheerder Beroepskwalificaties"
+      },
+      "displayTitle": "Procesbeheerder Beroepskwalificaties",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij iemand die graag de brug slaat tussen beleid en praktijk? Hou je ervan om structuur te brengen&nbsp;</span><span>in complexe processen? Krijg je energie van samenwerken en het verbinden van verschillende partners?&nbsp;</span><span>Wil je mee je schouders zetten onder de uitbouw van een kwaliteitsvolle kwalificatiestructuur in&nbsp;</span><span>Vlaanderen? Dan is deze functie iets voor jou!</span></p> <p><span>Als procesbeheerder beroepskwalificaties werk je mee aan één van de kernprocessen binnen onze&nbsp;</span><span>afdeling; het ontwikkelen van beroepskwalificaties. Jij bent de deskundige kracht die dit kernproces&nbsp;</span><span>zelfstandig en proactief opvolgt in nauwe afstemming met de proceseigenaar levenslang leren en de&nbsp;</span><span>procesbeheerder levenslang leren en in samenwerking met inhoudelijke deskundigen binnen de afdeling.&nbsp;</span><span>Als procesbeheerder beroepskwalificaties operationaliseer je de procedure voor de ontwikkeling van&nbsp;</span><span>beroepskwalificaties en coördineer je ook de concrete uitvoering van die procedure. Je gaat hierbij&nbsp;</span><span>regelmatig in overleg met collega’s, werkveldpartners en andere betrokkenen en zoekt daarbij naar&nbsp;</span><span>draagvlak. Je vindt compromissen binnen het kader dat de Vlaamse Regering vastlegt en rekening&nbsp;</span><span>houdend met de kwaliteitsstandaarden van AHOVOKS. Je volgt actief trends op de arbeidsmarkt en de&nbsp;</span><span>mogelijke impact ervan op onderwijs op. Naast de ontwikkeling van beroepskwalificaties, monitor je&nbsp;</span><span>actief de voortgang ervan op en bewaak je de kwaliteit van de registratie ervan in databanken. Verder&nbsp;</span><span>sta je in voor de communicatie over beroepskwalificaties via onze website en nieuwsbrieven en naar&nbsp;</span><span>aanleiding van concrete vragen van werkveldpartners, onderwijspartners en burgers. Je ontwikkelt ook&nbsp;</span><span>zelf beroepskwalificaties, meer specifiek binnen het domein STEM, en bent back-up voor de&nbsp;</span><span>procesbeheerder levenslang leren.</span></p> <p><span>Naast de opdrachten met betrekking tot het procesbeheer van de beroepskwalificaties kan je, indien&nbsp;</span><span>nodig en in onderling overleg, ook worden ingezet bij andere opdrachten binnen onze afdeling zoals de&nbsp;</span><span>ontwikkeling van onderwijsdoelen, de advisering van leerplannen en curriculumdossiers en de&nbsp;</span><span>kwaliteitsbeoordeling van leermiddelen.</span></p> <p><span>Een aantal voorbeelden van je taken; </span></p> <ul><li><span>Vanuit je ervaring en kennis adviseer je het management over het proces beroepskwalificaties,&nbsp;</span><span>over mogelijke knelpunten en opportuniteiten en reik je scenario’s aan.</span></li><li><span>Je werkt processen uit in overleg met de proceseigenaar en met de betrokken collega's. </span></li><li><span>Je plant de nodige stappen in de implementatie van de processen. </span></li><li><span>Je vertaalt concrete bevindingen en goede praktijken naar de proceseigenaar.</span></li><li><span>Je geeft toelichting en beantwoordt vragen van burgers en belangengroepen uit het onderwijs<span><span>[1]</span></span>en werkveld.</span></li><li><span>Je organiseert, begeleidt en faciliteert afstemmingsvergaderingen met interne en externe&nbsp;</span><span>betrokkenen.</span></li><li><span>Je documenteert nauwgezet en registreert de voortgang van de processen.</span></li><li><span>Je gebruikt monitoringsgegevens om de processen proactief op te volgen.</span></li><li><span>&nbsp;</span>Je verwerft kennis en je houdt ontwikkelingen rond het thema bij.</li><li>Je bouwt een brede expertise en een breed netwerk uit rond het thema.</li><li>Je draagt vanuit je expertise rond beroepskwalificaties bij aan andere opdrachten en projecten</li></ul><p>Lees meer over de functie in het selectiereglement als\nbijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor\nhet verdere verloop van de procedure.</p>",
+        "htmlEncoded": "<p><span>Ben jij iemand die graag de brug slaat tussen beleid en praktijk? Hou je ervan om structuur te brengen&nbsp;</span><span>in complexe processen? Krijg je energie van samenwerken en het verbinden van verschillende partners?&nbsp;</span><span>Wil je mee je schouders zetten onder de uitbouw van een kwaliteitsvolle kwalificatiestructuur in&nbsp;</span><span>Vlaanderen? Dan is deze functie iets voor jou!</span></p> <p><span>Als procesbeheerder beroepskwalificaties werk je mee aan één van de kernprocessen binnen onze&nbsp;</span><span>afdeling; het ontwikkelen van beroepskwalificaties. Jij bent de deskundige kracht die dit kernproces&nbsp;</span><span>zelfstandig en proactief opvolgt in nauwe afstemming met de proceseigenaar levenslang leren en de&nbsp;</span><span>procesbeheerder levenslang leren en in samenwerking met inhoudelijke deskundigen binnen de afdeling.&nbsp;</span><span>Als procesbeheerder beroepskwalificaties operationaliseer je de procedure voor de ontwikkeling van&nbsp;</span><span>beroepskwalificaties en coördineer je ook de concrete uitvoering van die procedure. Je gaat hierbij&nbsp;</span><span>regelmatig in overleg met collega’s, werkveldpartners en andere betrokkenen en zoekt daarbij naar&nbsp;</span><span>draagvlak. Je vindt compromissen binnen het kader dat de Vlaamse Regering vastlegt en rekening&nbsp;</span><span>houdend met de kwaliteitsstandaarden van AHOVOKS. Je volgt actief trends op de arbeidsmarkt en de&nbsp;</span><span>mogelijke impact ervan op onderwijs op. Naast de ontwikkeling van beroepskwalificaties, monitor je&nbsp;</span><span>actief de voortgang ervan op en bewaak je de kwaliteit van de registratie ervan in databanken. Verder&nbsp;</span><span>sta je in voor de communicatie over beroepskwalificaties via onze website en nieuwsbrieven en naar&nbsp;</span><span>aanleiding van concrete vragen van werkveldpartners, onderwijspartners en burgers. Je ontwikkelt ook&nbsp;</span><span>zelf beroepskwalificaties, meer specifiek binnen het domein STEM, en bent back-up voor de&nbsp;</span><span>procesbeheerder levenslang leren.</span></p> <p><span>Naast de opdrachten met betrekking tot het procesbeheer van de beroepskwalificaties kan je, indien&nbsp;</span><span>nodig en in onderling overleg, ook worden ingezet bij andere opdrachten binnen onze afdeling zoals de&nbsp;</span><span>ontwikkeling van onderwijsdoelen, de advisering van leerplannen en curriculumdossiers en de&nbsp;</span><span>kwaliteitsbeoordeling van leermiddelen.</span></p> <p><span>Een aantal voorbeelden van je taken; </span></p> <ul><li><span>Vanuit je ervaring en kennis adviseer je het management over het proces beroepskwalificaties,&nbsp;</span><span>over mogelijke knelpunten en opportuniteiten en reik je scenario’s aan.</span></li><li><span>Je werkt processen uit in overleg met de proceseigenaar en met de betrokken collega's. </span></li><li><span>Je plant de nodige stappen in de implementatie van de processen. </span></li><li><span>Je vertaalt concrete bevindingen en goede praktijken naar de proceseigenaar.</span></li><li><span>Je geeft toelichting en beantwoordt vragen van burgers en belangengroepen uit het onderwijs<span><span>[1]</span></span>en werkveld.</span></li><li><span>Je organiseert, begeleidt en faciliteert afstemmingsvergaderingen met interne en externe&nbsp;</span><span>betrokkenen.</span></li><li><span>Je documenteert nauwgezet en registreert de voortgang van de processen.</span></li><li><span>Je gebruikt monitoringsgegevens om de processen proactief op te volgen.</span></li><li><span>&nbsp;</span>Je verwerft kennis en je houdt ontwikkelingen rond het thema bij.</li><li>Je bouwt een brede expertise en een breed netwerk uit rond het thema.</li><li>Je draagt vanuit je expertise rond beroepskwalificaties bij aan andere opdrachten en projecten</li></ul><p>Lees meer over de functie in het selectiereglement als\nbijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor\nhet verdere verloop van de procedure.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19098",
       "internal": false,
       "validThroughDate": "1757203200",
@@ -3633,6 +3703,38 @@
         {
           "address": {
             "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19078",
+      "internal": false,
+      "validThroughDate": "1757203200",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19078",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Back-up chef catering"
+      },
+      "displayTitle": "Back-up chef catering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een geboren organisator met een passie voor koken en leidinggeven? Heb je bovendien interesse in verfijnde gastronomie en ben je klaar om een sleutelrol op te nemen in een dynamische grootkeuken? Dan zijn wij op zoek naar jou als onze nieuwe back-up chef catering.</p> <p>Als back-up chef catering werk je in een moderne grootkeuken, samen met een team van tien gemotiveerde medewerkers. Je ondersteunt de chef catering en neemt diens taken over bij afwezigheid. Je bent dus niet alleen een teamspeler, maar ook een betrouwbare rechterhand met leiderschapskwaliteiten. In samenspraak met de chef geef je leiding, verdeel je de taken en motiveer je het team om steeds opnieuw een kwalitatieve, klantgerichte service neer te zetten.</p> <p>Dagelijks zorg je, samen met je collega’s, voor een gevarieerd aanbod van warme en koude maaltijden in het bedrijfsrestaurant, belegde broodjes, catering voor evenementen en het beheer van de koffiebar. Daarnaast word je ook actief ingeschakeld in onze VIP- en directiekeuken, waar een verfijndere culinaire aanpak wordt gevraagd. Ervaring in, of minstens een uitgesproken interesse voor, de meer verfijnde keuken is dus een absolute troef.</p> <p>Je combineert culinaire passie met organisatorisch talent en een sterke verantwoordelijkheidszin. Je neemt vlot het roer over bij afwezigheid van de chef en weet het team te motiveren en aan te sturen. Je hebt oog voor detail en werkt volgens de hoogste normen op vlak van hygiëne en voedselveiligheid. Je bent klantgericht en streeft mee naar een kwalitatieve beleving, ook bij high-end service in de VIP-keuken.</p> <p>De Vlaamse overheid biedt je een gezonde werk-privébalans. Je start om 7 uur of 8 uur en eindigt om 15 uur of 16 uur, afhankelijk van de planning die wekelijks in samenspraak met de chef wordt opgemaakt. Af en toe vragen we flexibiliteit voor events. Extra uren worden correct geregistreerd als overuren, die je kan opnemen als verlof.</p> <p>Ben je klaar om jouw leiderschap en culinaire finesse in te zetten voor een gevarieerd publiek en een veeleisende VIP-keuken? Solliciteer dan nu en word binnenkort de onmisbare schakel in ons gedreven cateringteam waar we op zoek naar zijn.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een geboren organisator met een passie voor koken en leidinggeven? Heb je bovendien interesse in verfijnde gastronomie en ben je klaar om een sleutelrol op te nemen in een dynamische grootkeuken? Dan zijn wij op zoek naar jou als onze nieuwe back-up chef catering.</p> <p>Als back-up chef catering werk je in een moderne grootkeuken, samen met een team van tien gemotiveerde medewerkers. Je ondersteunt de chef catering en neemt diens taken over bij afwezigheid. Je bent dus niet alleen een teamspeler, maar ook een betrouwbare rechterhand met leiderschapskwaliteiten. In samenspraak met de chef geef je leiding, verdeel je de taken en motiveer je het team om steeds opnieuw een kwalitatieve, klantgerichte service neer te zetten.</p> <p>Dagelijks zorg je, samen met je collega’s, voor een gevarieerd aanbod van warme en koude maaltijden in het bedrijfsrestaurant, belegde broodjes, catering voor evenementen en het beheer van de koffiebar. Daarnaast word je ook actief ingeschakeld in onze VIP- en directiekeuken, waar een verfijndere culinaire aanpak wordt gevraagd. Ervaring in, of minstens een uitgesproken interesse voor, de meer verfijnde keuken is dus een absolute troef.</p> <p>Je combineert culinaire passie met organisatorisch talent en een sterke verantwoordelijkheidszin. Je neemt vlot het roer over bij afwezigheid van de chef en weet het team te motiveren en aan te sturen. Je hebt oog voor detail en werkt volgens de hoogste normen op vlak van hygiëne en voedselveiligheid. Je bent klantgericht en streeft mee naar een kwalitatieve beleving, ook bij high-end service in de VIP-keuken.</p> <p>De Vlaamse overheid biedt je een gezonde werk-privébalans. Je start om 7 uur of 8 uur en eindigt om 15 uur of 16 uur, afhankelijk van de planning die wekelijks in samenspraak met de chef wordt opgemaakt. Af en toe vragen we flexibiliteit voor events. Extra uren worden correct geregistreerd als overuren, die je kan opnemen als verlof.</p> <p>Ben je klaar om jouw leiderschap en culinaire finesse in te zetten voor een gevarieerd publiek en een veeleisende VIP-keuken? Solliciteer dan nu en word binnenkort de onmisbare schakel in ons gedreven cateringteam waar we op zoek naar zijn.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
@@ -3908,6 +4010,41 @@
       "description": {
         "raw": "<span></span><p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span><span>&nbsp;</span></p><p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant. </span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten. </span></span></p><p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage.<br><span>Download dit document en hou het bij.</span>&nbsp;</span></span></span></p>",
         "htmlEncoded": "<span></span><p dir=\"ltr\"><span>Ben jij de gedreven Bemiddelaar Inschatting+ die wij zoeken?</span><span>&nbsp;</span></p><p><span><span>Wil jij een cruciale rol spelen in de oriëntering van werkzoekenden naar een passende job?</span><span><br></span><span>Bij ons krijg je de kans om écht een verschil te maken. Als Bemiddelaar Inschatting+ ben jij de eerste schakel in onze klanten hun traject naar werk, waarbij je samen oriënterende gesprekken voert en vorm geeft aan een traject op maat van je klant. </span><span><br></span><span>Je informeert, adviseert en begeleidt hen naar een realistisch jobdoelwit en stippelt samen met je klant een individueel plan van aanpak uit. Jouw werk is divers en uitdagend: van het voeren van oriëntatiegesprekken, het screenen van competenties en eventuele competentiekloof, tot het behandelen van opleidingsaanvragen en het opstellen van persoonlijke trajecten. </span></span></p><p><span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage.<br><span>Download dit document en hou het bij.</span>&nbsp;</span></span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19032",
+      "internal": true,
+      "validThroughDate": "1757203200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19032",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adjunct van de gedelegeerd bestuurder"
+      },
+      "displayTitle": "Adjunct van de gedelegeerd bestuurder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als adjunct van de gedelegeerd bestuurder werk je nauw samen met de gedelegeerd bestuurder en sta je hem bij in het uitvoeren van strategische en beleidsmatige opdrachten. Via deze samenwerking lever je een waardevolle bijdrage aan de koers en positionering van de organisatie.&nbsp;<br><br> Je volgt nauwgezet de politieke en maatschappelijke actualiteit met bijzondere aandacht voor wat zich afspeelt in het parlement, de publieke opinie en de bredere beleidscontext. Deze signalen vertaal je naar onderbouwde inzichten die richtinggevend zijn voor de gedelegeerd bestuurder en de organisatie. Tegelijkertijd draag je actief bij aan de externe profilering van VDAB door onze beleidsvisie helder en doelgericht te communiceren naar kabinetten en andere sleutelactoren. Je onderhoudt en versterkt het politiek-bestuurlijke netwerk en neemt initiatief in beleidsmatige afstemming en strategische onderhandelingen.&nbsp;<br><br> Je functie beweegt mee met de politiek en vereist een hoge mate van wendbaarheid, alertheid en discretie. Je bent beschikbaar bij dringende beleidsvragen of wanneer snel schakelen noodzakelijk is.&nbsp;</span><span>Je werkt zelfstandig, met respect voor deontologie en weet wanneer je moet schakelen, verbinden of bijsturen.</span></p><p><span> Wanneer de situatie daarom vraagt neem je het voortouw in het samenstellen en aansturen van tijdelijke, multidisciplinaire ‘fast action teams’, met het oog op responsiviteit en oplossingsgericht handelen. Hoewel je geen formeel leidinggevende rol opneemt, beschik je over het vermogen om richting te geven en te mobiliseren.&nbsp;<br><br> Zet jouw strategisch inzicht en politiek aanvoelen in om de gedelegeerd bestuurder te versterken in zijn opdracht — met discretie, flexibiliteit en een sterk deontologisch kompas.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Als adjunct van de gedelegeerd bestuurder werk je nauw samen met de gedelegeerd bestuurder en sta je hem bij in het uitvoeren van strategische en beleidsmatige opdrachten. Via deze samenwerking lever je een waardevolle bijdrage aan de koers en positionering van de organisatie.&nbsp;<br><br> Je volgt nauwgezet de politieke en maatschappelijke actualiteit met bijzondere aandacht voor wat zich afspeelt in het parlement, de publieke opinie en de bredere beleidscontext. Deze signalen vertaal je naar onderbouwde inzichten die richtinggevend zijn voor de gedelegeerd bestuurder en de organisatie. Tegelijkertijd draag je actief bij aan de externe profilering van VDAB door onze beleidsvisie helder en doelgericht te communiceren naar kabinetten en andere sleutelactoren. Je onderhoudt en versterkt het politiek-bestuurlijke netwerk en neemt initiatief in beleidsmatige afstemming en strategische onderhandelingen.&nbsp;<br><br> Je functie beweegt mee met de politiek en vereist een hoge mate van wendbaarheid, alertheid en discretie. Je bent beschikbaar bij dringende beleidsvragen of wanneer snel schakelen noodzakelijk is.&nbsp;</span><span>Je werkt zelfstandig, met respect voor deontologie en weet wanneer je moet schakelen, verbinden of bijsturen.</span></p><p><span> Wanneer de situatie daarom vraagt neem je het voortouw in het samenstellen en aansturen van tijdelijke, multidisciplinaire ‘fast action teams’, met het oog op responsiviteit en oplossingsgericht handelen. Hoewel je geen formeel leidinggevende rol opneemt, beschik je over het vermogen om richting te geven en te mobiliseren.&nbsp;<br><br> Zet jouw strategisch inzicht en politiek aanvoelen in om de gedelegeerd bestuurder te versterken in zijn opdracht — met discretie, flexibiliteit en een sterk deontologisch kompas.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -5369,8 +5506,8 @@
       "displayTitle": "Proces analist",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Als proces-analist IT en data ben je de verbindende schakel tussen de behoeften van jouw afdeling en de mogelijkheden van IT en data. Je vertaalt de noden binnen de (kern)processen van de afdeling naar digitale en data-oplossingen, en zorgt dat deze helder worden overgebracht naar het IT-team en het data-team, die instaan voor de bouw en ontwikkeling.<br></span><span><br>Met jouw mandaat bepaal je hoe processen optimaal verlopen en ondersteund worden door IT en data. Jij ziet erop toe dat processen en systemen, mede dankzij IT- en data-oplossingen, voldoen aan de i</span></p><span><br></span><span><br></span><p><span>Daarnaast stimuleer je draagvlak bij alle betrokken stakeholders voor de veranderingen die hieruit voortvloeien.</span><span>nterne en externe verwachtingen en de organisatiedoelstellingen, vandaag én morgen.</span><span><br></span><span><br>AHOVOKS is op zoek naar een proces-analist IT/data en leggen tegelijk een werfreserve aan voor talentvolle kandidaten die klaarstaan om binnenkort deel uit te maken van onze entiteit.</span></p>",
-        "htmlEncoded": "<p><span>Als proces-analist IT en data ben je de verbindende schakel tussen de behoeften van jouw afdeling en de mogelijkheden van IT en data. Je vertaalt de noden binnen de (kern)processen van de afdeling naar digitale en data-oplossingen, en zorgt dat deze helder worden overgebracht naar het IT-team en het data-team, die instaan voor de bouw en ontwikkeling.<br></span><span><br>Met jouw mandaat bepaal je hoe processen optimaal verlopen en ondersteund worden door IT en data. Jij ziet erop toe dat processen en systemen, mede dankzij IT- en data-oplossingen, voldoen aan de i</span></p><span><br></span><span><br></span><p><span>Daarnaast stimuleer je draagvlak bij alle betrokken stakeholders voor de veranderingen die hieruit voortvloeien.</span><span>nterne en externe verwachtingen en de organisatiedoelstellingen, vandaag én morgen.</span><span><br></span><span><br>AHOVOKS is op zoek naar een proces-analist IT/data en leggen tegelijk een werfreserve aan voor talentvolle kandidaten die klaarstaan om binnenkort deel uit te maken van onze entiteit.</span></p>"
+        "raw": "<p><span>Als proces-analist IT en data ben je de verbindende schakel tussen de behoeften van jouw afdeling en de mogelijkheden van IT en data. Je vertaalt de noden binnen de (kern)processen van de afdeling naar digitale en data-oplossingen, en zorgt dat deze helder worden overgebracht naar het IT-team en het data-team, die instaan voor de bouw en ontwikkeling.<br><br>Met jouw mandaat bepaal je hoe processen optimaal verlopen en ondersteund worden door IT en data. Jij ziet erop toe dat processen en systemen, mede dankzij IT- en data-oplossingen, voldoen aan de interne en externe verwachtingen en de organisatiedoelstellingen, vandaag én morgen. <br><br>Daarnaast stimuleer je draagvlak bij alle betrokken stakeholders voor de veranderingen die hieruit voortvloeien. <br><br>AHOVOKS is op zoek naar een proces-analist IT/data en leggen tegelijk een werfreserve aan voor talentvolle kandidaten die klaarstaan om binnenkort deel uit te maken van onze entiteit.<br><br></span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Als proces-analist IT en data ben je de verbindende schakel tussen de behoeften van jouw afdeling en de mogelijkheden van IT en data. Je vertaalt de noden binnen de (kern)processen van de afdeling naar digitale en data-oplossingen, en zorgt dat deze helder worden overgebracht naar het IT-team en het data-team, die instaan voor de bouw en ontwikkeling.<br><br>Met jouw mandaat bepaal je hoe processen optimaal verlopen en ondersteund worden door IT en data. Jij ziet erop toe dat processen en systemen, mede dankzij IT- en data-oplossingen, voldoen aan de interne en externe verwachtingen en de organisatiedoelstellingen, vandaag én morgen. <br><br>Daarnaast stimuleer je draagvlak bij alle betrokken stakeholders voor de veranderingen die hieruit voortvloeien. <br><br>AHOVOKS is op zoek naar een proces-analist IT/data en leggen tegelijk een werfreserve aan voor talentvolle kandidaten die klaarstaan om binnenkort deel uit te maken van onze entiteit.<br><br></span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
