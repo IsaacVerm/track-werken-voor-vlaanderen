@@ -1,10 +1,10 @@
 {
-  "totalItems": 179,
+  "totalItems": 181,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 178,
+  "lastItemOfPage": 180,
   "items": [
     {
       "link": "/Job/vdab-71716405",
@@ -3087,6 +3087,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19211",
+      "internal": false,
+      "validThroughDate": "1757203200",
+      "hiringOrganization": "ILVO Centrale Diensten",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19211",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Digitale communicatiespecialist"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Digitale communicatiespecialist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij\nje digitale communicatievaardigheden inzetten om wetenschappelijk\nonderzoek toegankelijk te maken voor een breed en professioneel publiek? Zoek je een job met\nmaatschappelijke impact waarin je volop kan experimenteren met nieuwe tools en\ntechnologieën? Krijg jij energie van afwisseling, samenwerken én zelf nieuwe\nideeën aanbrengen?</p><p>Lees meer over de functie\nin het selectiereglement onderaan de pagina bij download documenten. Download\ndit selectiereglement en hou het bij voor het verdere verloop van de procedure.<br><br></p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Wil jij\nje digitale communicatievaardigheden inzetten om wetenschappelijk\nonderzoek toegankelijk te maken voor een breed en professioneel publiek? Zoek je een job met\nmaatschappelijke impact waarin je volop kan experimenteren met nieuwe tools en\ntechnologieën? Krijg jij energie van afwisseling, samenwerken én zelf nieuwe\nideeën aanbrengen?</p><p>Lees meer over de functie\nin het selectiereglement onderaan de pagina bij download documenten. Download\ndit selectiereglement en hou het bij voor het verdere verloop van de procedure.<br><br></p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19195",
       "internal": false,
       "validThroughDate": "1758067200",
@@ -3880,6 +3915,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19059",
+      "internal": true,
+      "validThroughDate": "1757203200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19059",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundige IZV"
+      },
+      "displayTitle": "Verpleegkundige IZV",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je affiniteit met infectieziektes en/of vaccinatie en wil je je graag verder verdiepen in deze thema’s? Ligt het beschermen van de volksgezondheid je nauw aan het hart? Ben je een teamspeler, hou je van onverwachte uitdagingen en het ontrafelen van een ongewone ziektegeschiedenis zo nu en dan? Aarzel dan zeker niet om te solliciteren!<br> <br> Als verpleegkundige infectieziektebestrijding en vaccinatie sta je op de eerste lijn in de aanpak van meldingen van infectieziekten. Je neemt contact op met bijvoorbeeld behandelende artsen en artsen van het CLB of arbeidsgeneeskunde. Je staat deze artsen en de patiënt of zijn omgeving bij met advies om verdere uitbreiding van een infectieziekte te voorkomen. Dit gebeurt telefonisch en per mail of ter plaatse, bijvoorbeeld bij een contactonderzoek rond een tuberculosepatiënt. Daarbij zorg je voor een goede registratie van alle gegevens. Dit laatste laat op langere termijn toe om waar nodig bij te sturen in het beleid rond infectieziekten en in het vaccinatieprogramma.<br> <br> Naast het afhandelen van de dagelijkse meldingen, word je ook ingezet in thematische projecten of werkgroepen of de ontwikkeling van werkinstrumenten die het meldingsproces efficiënter maken. Voorbeelden hiervan zijn het uitwerken van richtlijnen of het uitdiepen van de aanpak van specifieke infectieziekten zoals seksueel overdraagbare aandoeningen of scabiës, het evalueren en verder uitbouwen van het infectiedossiersysteem of uitwisselingsplatform met huisartsen, laboratoria en andere belanghebbenden in het meldingsproces.<br> <br> Je krijgt ook mogelijkheden tot vorming om je taken professioneel te kunnen uitvoeren en we verwachten dat je die met beide handen grijpt.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Heb je affiniteit met infectieziektes en/of vaccinatie en wil je je graag verder verdiepen in deze thema’s? Ligt het beschermen van de volksgezondheid je nauw aan het hart? Ben je een teamspeler, hou je van onverwachte uitdagingen en het ontrafelen van een ongewone ziektegeschiedenis zo nu en dan? Aarzel dan zeker niet om te solliciteren!<br> <br> Als verpleegkundige infectieziektebestrijding en vaccinatie sta je op de eerste lijn in de aanpak van meldingen van infectieziekten. Je neemt contact op met bijvoorbeeld behandelende artsen en artsen van het CLB of arbeidsgeneeskunde. Je staat deze artsen en de patiënt of zijn omgeving bij met advies om verdere uitbreiding van een infectieziekte te voorkomen. Dit gebeurt telefonisch en per mail of ter plaatse, bijvoorbeeld bij een contactonderzoek rond een tuberculosepatiënt. Daarbij zorg je voor een goede registratie van alle gegevens. Dit laatste laat op langere termijn toe om waar nodig bij te sturen in het beleid rond infectieziekten en in het vaccinatieprogramma.<br> <br> Naast het afhandelen van de dagelijkse meldingen, word je ook ingezet in thematische projecten of werkgroepen of de ontwikkeling van werkinstrumenten die het meldingsproces efficiënter maken. Voorbeelden hiervan zijn het uitwerken van richtlijnen of het uitdiepen van de aanpak van specifieke infectieziekten zoals seksueel overdraagbare aandoeningen of scabiës, het evalueren en verder uitbouwen van het infectiedossiersysteem of uitwisselingsplatform met huisartsen, laboratoria en andere belanghebbenden in het meldingsproces.<br> <br> Je krijgt ook mogelijkheden tot vorming om je taken professioneel te kunnen uitvoeren en we verwachten dat je die met beide handen grijpt.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19054",
       "internal": false,
       "validThroughDate": "1756080000",
@@ -4085,6 +4152,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19030",
+      "internal": false,
+      "validThroughDate": "1757635200",
+      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19030",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR-assistent"
+      },
+      "displayTitle": "HR-assistent",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Zin in een veelzijdige HR-functie waarin je écht het verschil maakt? Bij VUTG krijg je de kans om je talenten in te zetten voor een warme en klantgerichte organisatie.<br><br></div><div></div><div><strong>Als HR-assistent ondersteun je je collega’s organisatorisch en administratief bij uiteenlopende taken.</strong> Je staat onder meer in voor het beheren van kengetallen, zorgt voor de registratie van HR-gegevens en zorgt voor een duidelijk systeem waarin alle relevante HR-data en -informatie worden beheerd. Je bent het aanspreekpunt voor interne medewerkers én externe partners. Dankzij jouw nauwkeurigheid, discretie en zin voor initiatief loopt alles administratief op wieltjes.</div><p>In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben. We gaan voor een goede klantenrelatie en bouwen aan een aangename en warme werkomgeving.</p><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Zin in een veelzijdige HR-functie waarin je écht het verschil maakt? Bij VUTG krijg je de kans om je talenten in te zetten voor een warme en klantgerichte organisatie.<br><br></div><div></div><div><strong>Als HR-assistent ondersteun je je collega’s organisatorisch en administratief bij uiteenlopende taken.</strong> Je staat onder meer in voor het beheren van kengetallen, zorgt voor de registratie van HR-gegevens en zorgt voor een duidelijk systeem waarin alle relevante HR-data en -informatie worden beheerd. Je bent het aanspreekpunt voor interne medewerkers én externe partners. Dankzij jouw nauwkeurigheid, discretie en zin voor initiatief loopt alles administratief op wieltjes.</div><p>In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben. We gaan voor een goede klantenrelatie en bouwen aan een aangename en warme werkomgeving.</p><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4996,46 +5098,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18797",
-      "internal": false,
-      "validThroughDate": "1755561600",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18797",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbeheerder aankoop"
-      },
-      "displayTitle": "Dossierbeheerder aankoop",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij iemand die energie haalt uit structuur, nauwkeurigheid en een vlekkeloze administratie? Heb je een scherp oog voor detail én een hart voor dienstverlening? Dan ben jij misschien wel de dossierbeheerder aankoop die we zoeken bij De Vlaamse Waterweg!</p><p>Als dossierbeheerder aankoop ben je een onmisbare schakel in onze organisatie. Jij zorgt ervoor dat onze aankoopdossiers tot in de puntjes verzorgd zijn, dat alles correct en tijdig verwerkt wordt en dat collega’s en leveranciers kunnen rekenen op jouw expertise. Je werkt mee aan een vlotte werking van ons aankoopteam en draagt zo bij aan de realisatie van duurzame infrastructuurprojecten in heel Vlaanderen.</p><p><strong>Wat doe je in deze rol?</strong></p><ul><li>Je beheert aankoopdossiers van A tot Z. Je vraagt offertes op, plaatst bestellingen, volgt leveringen op en zorgt dat alles correct wordt ingevoerd in onze systemen.</li><li>Je controleert documenten en aanvragen grondig. Je kijkt na of alles volledig is, of het wettelijk klopt en of het past binnen de interne procedures.</li><li>Je bent het aanspreekpunt voor collega’s en leveranciers. Je beantwoordt vragen, geeft advies en zorgt voor een vlotte communicatie.</li><li>Je denkt mee over verbetering. Je signaleert knelpunten, stelt optimalisaties voor en werkt actief mee aan een efficiëntere werking van ons team.</li><li>Je ondersteunt je team. Je helpt collega’s bij de verwerking van dossiers en deelt je kennis om samen sterker te staan.</li></ul><p>Je krijgt de kans om je te verdiepen in aankoopprocedures en je wordt ondersteund met opleidingen en groeikansen. Bovendien werk je in een omgeving waar jouw nauwkeurigheid en verantwoordelijkheidszin écht het verschil maken.</p><p>De Vlaamse Waterweg beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken de ongeveer 1.350 personeelsleden van onze organisatie aan een <strong>slim, veelzijdig en welvarend waterwegennet</strong>.&nbsp;<br><br>Bij De Vlaamse Waterweg werk je mee aan projecten die écht impact hebben: van veilige dijken tot duurzame sluizen en vlot scheepvaartverkeer. Je komt terecht in een warme en stabiele organisatie waar samenwerking, vertrouwen en maatschappelijke meerwaarde centraal staan.<br><br>Klaar om mee te bouwen aan de waterwegen van morgen? Solliciteer vandaag nog en laat jouw talent stromen bij De Vlaamse Waterweg!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij iemand die energie haalt uit structuur, nauwkeurigheid en een vlekkeloze administratie? Heb je een scherp oog voor detail én een hart voor dienstverlening? Dan ben jij misschien wel de dossierbeheerder aankoop die we zoeken bij De Vlaamse Waterweg!</p><p>Als dossierbeheerder aankoop ben je een onmisbare schakel in onze organisatie. Jij zorgt ervoor dat onze aankoopdossiers tot in de puntjes verzorgd zijn, dat alles correct en tijdig verwerkt wordt en dat collega’s en leveranciers kunnen rekenen op jouw expertise. Je werkt mee aan een vlotte werking van ons aankoopteam en draagt zo bij aan de realisatie van duurzame infrastructuurprojecten in heel Vlaanderen.</p><p><strong>Wat doe je in deze rol?</strong></p><ul><li>Je beheert aankoopdossiers van A tot Z. Je vraagt offertes op, plaatst bestellingen, volgt leveringen op en zorgt dat alles correct wordt ingevoerd in onze systemen.</li><li>Je controleert documenten en aanvragen grondig. Je kijkt na of alles volledig is, of het wettelijk klopt en of het past binnen de interne procedures.</li><li>Je bent het aanspreekpunt voor collega’s en leveranciers. Je beantwoordt vragen, geeft advies en zorgt voor een vlotte communicatie.</li><li>Je denkt mee over verbetering. Je signaleert knelpunten, stelt optimalisaties voor en werkt actief mee aan een efficiëntere werking van ons team.</li><li>Je ondersteunt je team. Je helpt collega’s bij de verwerking van dossiers en deelt je kennis om samen sterker te staan.</li></ul><p>Je krijgt de kans om je te verdiepen in aankoopprocedures en je wordt ondersteund met opleidingen en groeikansen. Bovendien werk je in een omgeving waar jouw nauwkeurigheid en verantwoordelijkheidszin écht het verschil maken.</p><p>De Vlaamse Waterweg beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol werken de ongeveer 1.350 personeelsleden van onze organisatie aan een <strong>slim, veelzijdig en welvarend waterwegennet</strong>.&nbsp;<br><br>Bij De Vlaamse Waterweg werk je mee aan projecten die écht impact hebben: van veilige dijken tot duurzame sluizen en vlot scheepvaartverkeer. Je komt terecht in een warme en stabiele organisatie waar samenwerking, vertrouwen en maatschappelijke meerwaarde centraal staan.<br><br>Klaar om mee te bouwen aan de waterwegen van morgen? Solliciteer vandaag nog en laat jouw talent stromen bij De Vlaamse Waterweg!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Mol"
-          }
-        },
-        {
-          "address": {
-            "city": "Willebroek"
           }
         }
       ]
