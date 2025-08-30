@@ -1,10 +1,10 @@
 {
-  "totalItems": 198,
+  "totalItems": 196,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 197,
+  "lastItemOfPage": 195,
   "items": [
     {
       "link": "/Job/vdab-71825444",
@@ -6401,76 +6401,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18590",
-      "internal": false,
-      "validThroughDate": "1756944000",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18590",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Technisch-administratief medewerker"
-      },
-      "displayTitle": "Technisch-administratief medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Twee dagen per week: administratief-logistiek medewerker in Herentals</span></b></p> <p><span>Als rechterhand van de locatieverantwoordelijke van het VMM-gebouw in Herentals zorg jij er mee voor dat alles op wieltjes loopt. Jij bent het aanspreekpunt voor het dagelijks beheer van het gebouw en houdt vinger aan de pols wat betreft infrastructuur, veiligheid en duurzaamheid. Wat mag je precies verwachten?</span></p> <ul type=\"disc\"> <li><span>Je volgt meldingen over gebouwgebreken nauwgezet op via het systeem <i>Facilipunt</i> en zorgt voor een vlotte opvolging.</span></li> <li><span>Je bent de vertrouwenspersoon inzake preventie en bescherming op het werk en neemt de EMAS-registratie (Eco-Management en Audit Schema) van de locatie voor jouw rekening.</span></li> <li><span>Je ondersteunt het team met uiteenlopende praktische taken: het ontvangen en verzenden van zendingen, reservaties van vergaderruimtes, agenda-opvolging en meer.</span></li> <li><span>Samen met je collega beman je het onthaal, waarbij je instaat voor een warm en professioneel ontvangst van bezoekers. Jij bent zeker op <b>maandag</b> aanwezig, aangevuld met een tweede flexibele dag.</span></li> </ul> <p><b><span>Drie dagen per week: verzegelaar op het terrein in Vlaanderen</span></b></p> <p><span>Tijdens de overige drie dagen ga je actief de baan op als verzegelaar en speel je een sleutelrol in het duurzaam beheer van ons grondwater. Je werkt zelfstandig op het terrein en komt op diverse locaties in Vlaanderen. Wat houdt dit in?</span></p> <ul type=\"disc\"> <li><span>Je voert technische verzegelingen uit op watermeters die gekoppeld zijn aan grondwaterwinningen. Zo garandeer je correcte metingen en voorkom je fraude.</span></li> <li><span>Je controleert de goede werking van de installaties en stelt gedetailleerde verslagen op in Excel.</span></li> <li><span>Je ondersteunt de dossierbeheerders met correcte administratieve input en communiceert helder met interne en externe stakeholders, waaronder bedrijven en overheidsinstanties.</span></li></ul>",
-        "htmlEncoded": "<p><b><span>Twee dagen per week: administratief-logistiek medewerker in Herentals</span></b></p> <p><span>Als rechterhand van de locatieverantwoordelijke van het VMM-gebouw in Herentals zorg jij er mee voor dat alles op wieltjes loopt. Jij bent het aanspreekpunt voor het dagelijks beheer van het gebouw en houdt vinger aan de pols wat betreft infrastructuur, veiligheid en duurzaamheid. Wat mag je precies verwachten?</span></p> <ul type=\"disc\"> <li><span>Je volgt meldingen over gebouwgebreken nauwgezet op via het systeem <i>Facilipunt</i> en zorgt voor een vlotte opvolging.</span></li> <li><span>Je bent de vertrouwenspersoon inzake preventie en bescherming op het werk en neemt de EMAS-registratie (Eco-Management en Audit Schema) van de locatie voor jouw rekening.</span></li> <li><span>Je ondersteunt het team met uiteenlopende praktische taken: het ontvangen en verzenden van zendingen, reservaties van vergaderruimtes, agenda-opvolging en meer.</span></li> <li><span>Samen met je collega beman je het onthaal, waarbij je instaat voor een warm en professioneel ontvangst van bezoekers. Jij bent zeker op <b>maandag</b> aanwezig, aangevuld met een tweede flexibele dag.</span></li> </ul> <p><b><span>Drie dagen per week: verzegelaar op het terrein in Vlaanderen</span></b></p> <p><span>Tijdens de overige drie dagen ga je actief de baan op als verzegelaar en speel je een sleutelrol in het duurzaam beheer van ons grondwater. Je werkt zelfstandig op het terrein en komt op diverse locaties in Vlaanderen. Wat houdt dit in?</span></p> <ul type=\"disc\"> <li><span>Je voert technische verzegelingen uit op watermeters die gekoppeld zijn aan grondwaterwinningen. Zo garandeer je correcte metingen en voorkom je fraude.</span></li> <li><span>Je controleert de goede werking van de installaties en stelt gedetailleerde verslagen op in Excel.</span></li> <li><span>Je ondersteunt de dossierbeheerders met correcte administratieve input en communiceert helder met interne en externe stakeholders, waaronder bedrijven en overheidsinstanties.</span></li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18589",
-      "internal": false,
-      "validThroughDate": "1756598400",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18589",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "IT-architect (BI-architect)"
-      },
-      "displayTitle": "IT-architect (BI-architect)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als IT-architect (BI-architect/Data engineer) bij de Vlaamse Milieumaatschappij (VMM) werk je mee aan digitale toepassingen die bijdragen aan propere waterlopen, gezonde lucht en klimaatrobuuste steden.&nbsp;<br><br>In de rol van IT-architect (BI-architect) werk je mee aan toekomstgerichte technologische oplossingen binnen één van onze boeiende domeinen: Business Intelligence, Data Engineering of Data Science. Jouw rol is cruciaal in het uittekenen van onze digitale koers. Dit mag je verwachten:</p><ul><li>Toepassen van de juiste technologische oplossing, hiervoor moet een I&amp;T architect in staat zijn om bestaande en toekomstige oplossingen in het domein van data engineering, data science en BI te kunnen toepassen binnen de VMM-context.&nbsp;</li><li>Beoordelen en uitwerken van BI oplossingen op het VMM dataplatform, hiervoor moet een I&amp;T architect in staat zijn om nieuwe technologieën op hun bruikbaarheid en haalbaarheid binnen een VMM-context te beoordelen.&nbsp;</li><li>Opmaken van referentie-architectuur en architecturale principes in het domein BI.</li><li>Meewerken aan het overzicht van de I&amp;T-oplossingen (applicatie landschap) met het oog op rationalisatie en kostenefficiënt operationeel houden ervan.</li><li>Interpreteren van business noden op basis van business en functionele analyses en vertalen naar technische oplossingen.</li></ul><p>Je komt terecht in de dienst Digitale Oplossingen. Je voert de taken uit binnen het team data- en analyseplatformen en werk je samen met gebruikers, (business)analisten en ontwikkelaars.</p><p>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen: </p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen, </li><li>gezonde lucht te bewerkstelligen, </li><li>de klimaatadaptatie mee te sturen.</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.&nbsp;</p><p>Een rol met maatschappelijke impact, in ruil voor flexibiliteit, autonomie en een gezond evenwicht? Solliciteer als IT-architect (BI-architect) en maak mee het verschil — voor Vlaanderen én voor jezelf.</p><p>Meer weten over het takenpakket? Download het selectiereglement.<br>Benieuwd naar onze aanpak bij VMM? Surf naar:&nbsp;https://vmm.vlaanderen.be/&nbsp;</p>",
-        "htmlEncoded": "<p>Als IT-architect (BI-architect/Data engineer) bij de Vlaamse Milieumaatschappij (VMM) werk je mee aan digitale toepassingen die bijdragen aan propere waterlopen, gezonde lucht en klimaatrobuuste steden.&nbsp;<br><br>In de rol van IT-architect (BI-architect) werk je mee aan toekomstgerichte technologische oplossingen binnen één van onze boeiende domeinen: Business Intelligence, Data Engineering of Data Science. Jouw rol is cruciaal in het uittekenen van onze digitale koers. Dit mag je verwachten:</p><ul><li>Toepassen van de juiste technologische oplossing, hiervoor moet een I&amp;T architect in staat zijn om bestaande en toekomstige oplossingen in het domein van data engineering, data science en BI te kunnen toepassen binnen de VMM-context.&nbsp;</li><li>Beoordelen en uitwerken van BI oplossingen op het VMM dataplatform, hiervoor moet een I&amp;T architect in staat zijn om nieuwe technologieën op hun bruikbaarheid en haalbaarheid binnen een VMM-context te beoordelen.&nbsp;</li><li>Opmaken van referentie-architectuur en architecturale principes in het domein BI.</li><li>Meewerken aan het overzicht van de I&amp;T-oplossingen (applicatie landschap) met het oog op rationalisatie en kostenefficiënt operationeel houden ervan.</li><li>Interpreteren van business noden op basis van business en functionele analyses en vertalen naar technische oplossingen.</li></ul><p>Je komt terecht in de dienst Digitale Oplossingen. Je voert de taken uit binnen het team data- en analyseplatformen en werk je samen met gebruikers, (business)analisten en ontwikkelaars.</p><p>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen: </p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen, </li><li>gezonde lucht te bewerkstelligen, </li><li>de klimaatadaptatie mee te sturen.</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.&nbsp;</p><p>Een rol met maatschappelijke impact, in ruil voor flexibiliteit, autonomie en een gezond evenwicht? Solliciteer als IT-architect (BI-architect) en maak mee het verschil — voor Vlaanderen én voor jezelf.</p><p>Meer weten over het takenpakket? Download het selectiereglement.<br>Benieuwd naar onze aanpak bij VMM? Surf naar:&nbsp;https://vmm.vlaanderen.be/&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
           }
         }
       ]
