@@ -1,10 +1,10 @@
 {
-  "totalItems": 191,
+  "totalItems": 192,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 190,
+  "lastItemOfPage": 191,
   "items": [
     {
       "link": "/Job/vdab-71838341",
@@ -3607,6 +3607,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19151",
+      "internal": true,
+      "validThroughDate": "1758240000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 6,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19151",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administratief medewerkers justitiehuizen"
+      },
+      "displayTitle": "Administratief medewerkers justitiehuizen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Word jij blij van structuur, organiseren en snel schakelen? Zoek je een baan waarin je echt iets bijdraagt aan de samenleving? Kom dan ons team bij de Justitiehuizen versterken!</p><p> Als administratief medewerker ben jij de spil die zorgt dat alles soepel verloopt: van dossieropvolging tot agendabeheer en van correspondentie tot het voorbereiden van vergaderingen. Je verwerkt en beheert informatie, houdt het digitaal klassement overzichtelijk, notuleert, regelt bestellingen en ontvangt bezoekers met een glimlach. </p><p>Dankzij jouw nauwkeurigheid en flexibiliteit blijft onze afdeling draaien, ook als de prioriteiten veranderen. Je werkt zelfstandig, maar samen met je collega’s zorg je voor een sterke, betrouwbare basis. </p><p>Wij bieden jou een afwisselende functie binnen een maatschappelijk relevante organisatie, waar initiatief gewaardeerd wordt en collegialiteit centraal staat. Klinkt dit als iets voor jou? Dan horen we graag van je!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Word jij blij van structuur, organiseren en snel schakelen? Zoek je een baan waarin je echt iets bijdraagt aan de samenleving? Kom dan ons team bij de Justitiehuizen versterken!</p><p> Als administratief medewerker ben jij de spil die zorgt dat alles soepel verloopt: van dossieropvolging tot agendabeheer en van correspondentie tot het voorbereiden van vergaderingen. Je verwerkt en beheert informatie, houdt het digitaal klassement overzichtelijk, notuleert, regelt bestellingen en ontvangt bezoekers met een glimlach. </p><p>Dankzij jouw nauwkeurigheid en flexibiliteit blijft onze afdeling draaien, ook als de prioriteiten veranderen. Je werkt zelfstandig, maar samen met je collega’s zorg je voor een sterke, betrouwbare basis. </p><p>Wij bieden jou een afwisselende functie binnen een maatschappelijk relevante organisatie, waar initiatief gewaardeerd wordt en collegialiteit centraal staat. Klinkt dit als iets voor jou? Dan horen we graag van je!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
