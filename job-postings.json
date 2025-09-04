@@ -1,11 +1,81 @@
 {
-  "totalItems": 191,
+  "totalItems": 192,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 190,
+  "lastItemOfPage": 191,
   "items": [
+    {
+      "link": "/Job/vdab-71862191",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71862191",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Lead Performance Tester (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Lead Performance Tester (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span> \n<span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. je komt in een zeer open en gedreven team terecht Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De Lead performance Tester heeft als hoofddoel te waarborgen dat de systemen, applicaties en websites van de organisatie optimaal presteren onder reële gebruiksomstandigheden. Dit betekent dat ze snel, stabiel en betrouwbaar moeten functioneren, zelfs onder hoge load.. De Performance Tester identificeert prestatieproblemen en knelpunten, en werkt nauw samen met de ontwikkelteams om deze proactief op te lossen voordat ze onze eindgebruikers bereiken. Uiteindelijk draagt de Performance Tester bij aan een optimale gebruikerservaring en de tevredenheid van de klant.</span></p> \n<p><span>Als Lead performance tester maak je deel uit van het VDAB ‘Software factory – Quality assurance’ team en rapporteer je aan de QA officer.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p>● Het ontwerpen, uitvoeren en analyseren van performancetesten: Dit omvat het opstellen van testscenario's, het schrijven van scripts, het uitvoeren van de testen en het analyseren van de resultaten om prestatieproblemen en knelpunten te identificeren.…</p> \n<p>● Het identificeren en oplossen van prestatieproblemen: De Performance Tester werkt samen met de ontwikkelteams (front-end en back-end) om de oorzaak van prestatieproblemen te achterhalen en oplossingen te implementeren.…</p> \n<p>● Het communiceren van bevindingen: De Performance Tester rapporteert de testresultaten en bevindingen aan de relevante stakeholders, zoals release management, business, ontwikkelteams en projectleiders. Deze rapportages spelen een belangrijke rol in de go/no-go beslissing voor productie releases.…</p> \n<p>● Scripts ontwikkelen: Of het nu gaat om bestaande scripts aanpassen of nieuwe schrijven in Javascript, Vbscript, Groovy, etc., dit is essentieel om tests te automatiseren.</p> \n<p>● Test scenario's definiëren: Samen met het team bepaal je welke gebruikersacties nagebootst moeten worden, met welke data, en onder welke load. Dit vereist inzicht in de applicatie en gebruikersgedrag.</p> \n<p>● Testuitvoering en monitoring: De tests draaien, vaak met tools die de Performance Tester beheerst, en daarbij de systeemprestaties in de gaten houden (reactietijden, resourcegebruik).</p> \n<p>● Resultatenanalyse: Niet alleen 'slaagt' of 'faalt' een test, de Tester duikt in de data om bottlenecks, afwijkingen en trends te ontdekken.</p> \n<p>● Probleemoplossing: Soms vereist dit diepgaande technische kennis om de oorzaak van een prestatieprobleem te vinden, in samenwerking met ontwikkelaars.</p> \n<p>● Rapportage en communicatie: Bevindingen helder overbrengen aan diverse stakeholders, zowel mondeling als schriftelijk, zodat er actie ondernomen kan worden</p>",
+        "htmlEncoded": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span> \n<span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. je komt in een zeer open en gedreven team terecht Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De Lead performance Tester heeft als hoofddoel te waarborgen dat de systemen, applicaties en websites van de organisatie optimaal presteren onder reële gebruiksomstandigheden. Dit betekent dat ze snel, stabiel en betrouwbaar moeten functioneren, zelfs onder hoge load.. De Performance Tester identificeert prestatieproblemen en knelpunten, en werkt nauw samen met de ontwikkelteams om deze proactief op te lossen voordat ze onze eindgebruikers bereiken. Uiteindelijk draagt de Performance Tester bij aan een optimale gebruikerservaring en de tevredenheid van de klant.</span></p> \n<p><span>Als Lead performance tester maak je deel uit van het VDAB ‘Software factory – Quality assurance’ team en rapporteer je aan de QA officer.</span></p> \n<p><strong><span><br></span></strong></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p>● Het ontwerpen, uitvoeren en analyseren van performancetesten: Dit omvat het opstellen van testscenario's, het schrijven van scripts, het uitvoeren van de testen en het analyseren van de resultaten om prestatieproblemen en knelpunten te identificeren.…</p> \n<p>● Het identificeren en oplossen van prestatieproblemen: De Performance Tester werkt samen met de ontwikkelteams (front-end en back-end) om de oorzaak van prestatieproblemen te achterhalen en oplossingen te implementeren.…</p> \n<p>● Het communiceren van bevindingen: De Performance Tester rapporteert de testresultaten en bevindingen aan de relevante stakeholders, zoals release management, business, ontwikkelteams en projectleiders. Deze rapportages spelen een belangrijke rol in de go/no-go beslissing voor productie releases.…</p> \n<p>● Scripts ontwikkelen: Of het nu gaat om bestaande scripts aanpassen of nieuwe schrijven in Javascript, Vbscript, Groovy, etc., dit is essentieel om tests te automatiseren.</p> \n<p>● Test scenario's definiëren: Samen met het team bepaal je welke gebruikersacties nagebootst moeten worden, met welke data, en onder welke load. Dit vereist inzicht in de applicatie en gebruikersgedrag.</p> \n<p>● Testuitvoering en monitoring: De tests draaien, vaak met tools die de Performance Tester beheerst, en daarbij de systeemprestaties in de gaten houden (reactietijden, resourcegebruik).</p> \n<p>● Resultatenanalyse: Niet alleen 'slaagt' of 'faalt' een test, de Tester duikt in de data om bottlenecks, afwijkingen en trends te ontdekken.</p> \n<p>● Probleemoplossing: Soms vereist dit diepgaande technische kennis om de oorzaak van een prestatieprobleem te vinden, in samenwerking met ontwikkelaars.</p> \n<p>● Rapportage en communicatie: Bevindingen helder overbrengen aan diverse stakeholders, zowel mondeling als schriftelijk, zodat er actie ondernomen kan worden</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71861166",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71861166",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Tester (AHOVOKS) via Vlaanderen Connect."
+      },
+      "displayTitle": "Tester (AHOVOKS) via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wat zal je moeten doen?</p> \n<p>Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiële schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van AHOVOKS</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p>o de user story volledig en duidelijk is</p> \n<p>o de opgeleverde functionaliteit de beschreven analyse volgt</p> \n<p>o de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen aan de product owner.</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>",
+        "htmlEncoded": "<p>Wat zal je moeten doen?</p> \n<p>Als tester waak je over de kwaliteit van onze IT-producten. Je bent een essentiële schakel in bij ontwikkeling van nieuwe toepassingen en bij het opsporen van bugs in bestaande toepassingen. Je test een gebruikersinterface, webdiensten/APIs, duikt in een databank,… Je voert functionele en technische testen uit en maak gebruik van je brede IT achtergrond. Jouw klanten zijn de afdelingen van AHOVOKS en je werkt in jouw rol samen in een team van experten: product owners, analisten, ontwikkelaars, testers,... Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Je werkt je in in de leefwereld van AHOVOKS (NARIC, examencommissie, hoger onderwijs,…) a.d.h.v. persoonlijke sessies en documentatie</li> \n<li>Je reviewt specificaties van de nieuwe toepassing en testscenario's.</li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van AHOVOKS</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p>o de user story volledig en duidelijk is</p> \n<p>o de opgeleverde functionaliteit de beschreven analyse volgt</p> \n<p>o de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen aan de product owner.</li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71841691",
       "internal": false,
@@ -2832,41 +2902,6 @@
       "description": {
         "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>I&amp;T Operations is verantwoordelijk voor de dagelijkse werking van de meeste Informatie &amp; Technologie componenten zoals de digitale werkplek, netwerk, telefonie, applicatie infrastructuur (multi cloud en on-prem) en de digitale campus. Het team verzorgt ook het End-to-End Delivery beheer, dit omvat alle diensten die nodig zijn om afzonderlijke I&amp;T diensten te integreren tot één coherent en consistent geheel.</span> </p> \n<p><span>Als Enterprise Infrastructure Architect maak je deel uit van het VDAB I&amp;T Operations management team en rapporteer je aan de I&amp;T Operations Directeur.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><strong><span> </span></strong>●      Je bepaalt de VDAB  Enterprise Infrastructure Architectuur op basis van jouw beleidslijnen en bewaakt deze.</p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent eigenaar van de I&amp;T Operations Infrastructuur Roadmap.\n<span> </span></span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je ontwerpt samenhangende oplossingen op vlak van eindgebruikers infrastructuur, netwerk, telefonie en applicatie infrastructuur. Hierbij hou je rekening met de verschillende verplichtingen (contracten, licentie voorwaarden, bescherming van gegevens,...) waarbij je nauw samenwerkt met de service delivery managers en andere I&amp;T directies (I&amp;T Security, Software-ontwikkeling en Architectuur &amp; innovatie).</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je werkt samen met projectteams om de infrastructuur architectuur opdrachten uit te voeren en identificeert de noodzaak om de opzet aan te passen waar nodig.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je neemt samen met je andere collega’s IT architecten deel aan het ontwikkelen en beheren van de governance structuur.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je verzorgt documentatie van je volledige architectuurontwerp.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent ons klankbord om infrastructuur oplossingen te ontwikkelen.</span></p>",
         "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>I&amp;T Operations is verantwoordelijk voor de dagelijkse werking van de meeste Informatie &amp; Technologie componenten zoals de digitale werkplek, netwerk, telefonie, applicatie infrastructuur (multi cloud en on-prem) en de digitale campus. Het team verzorgt ook het End-to-End Delivery beheer, dit omvat alle diensten die nodig zijn om afzonderlijke I&amp;T diensten te integreren tot één coherent en consistent geheel.</span> </p> \n<p><span>Als Enterprise Infrastructure Architect maak je deel uit van het VDAB I&amp;T Operations management team en rapporteer je aan de I&amp;T Operations Directeur.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><strong><span> </span></strong>●      Je bepaalt de VDAB  Enterprise Infrastructure Architectuur op basis van jouw beleidslijnen en bewaakt deze.</p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent eigenaar van de I&amp;T Operations Infrastructuur Roadmap.\n<span> </span></span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je ontwerpt samenhangende oplossingen op vlak van eindgebruikers infrastructuur, netwerk, telefonie en applicatie infrastructuur. Hierbij hou je rekening met de verschillende verplichtingen (contracten, licentie voorwaarden, bescherming van gegevens,...) waarbij je nauw samenwerkt met de service delivery managers en andere I&amp;T directies (I&amp;T Security, Software-ontwikkeling en Architectuur &amp; innovatie).</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je werkt samen met projectteams om de infrastructuur architectuur opdrachten uit te voeren en identificeert de noodzaak om de opzet aan te passen waar nodig.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je neemt samen met je andere collega’s IT architecten deel aan het ontwikkelen en beheren van de governance structuur.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je verzorgt documentatie van je volledige architectuurontwerp.</span></p> \n<p><span><span>●\n<span> </span></span></span><span>Je bent ons klankbord om infrastructuur oplossingen te ontwikkelen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-69136651",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69136651",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Service Delivery Manager Netwerk & Telefonie (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Service Delivery Manager Netwerk & Telefonie (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>De afdeling I&amp;T Operations is verantwoordelijk voor de dagdagelijkse werking van alle Informatie &amp; Technologie componenten zoals laptops, netwerk, telefonie, datacenter infrastructuur en applicaties (1st level support). </span></p> \n<p><span>Als ‘Service Delivery Manager Netwerk &amp; Telefonie' ben je verantwoordelijk voor het domein Netwerk &amp; Telefonie voor eindgebruikers.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Onze IT afdeling bestaat uit een 4</span><span>9 \n<span>0-tal enthousiaste IT-ers met een uitdagend IT landschap dat constant in verandering is. In ons I&amp;T </span>Operations \n<span> team werken we \n<span>met de meest recente technologieën aan uitdagende projecten.</span></span></span></p> \n<p><span>Optimalisatie en innovatie staan centraal, bijleren doe je met volle goesting.</span></p> \n<p><span>Thuiswerk is de norm en af en toe (twee keer per week) komen we naar kantoor te Brussel (op 5 minuten wandelen van het Centraal Station). </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Vanuit je expertise in service management geef je leiding aan de verschillende service medewerkers en verzorg je met hen de ‘first class’ dienstverlening.</span></p> \n<p><span>Je stelt kwaliteitsdoelstellingen op, maakt ze meetbaar, relevant voor de eindgebruiker en focust op de realisatie ervan. Je beseft ten volle de impact van de kwaliteit van de I&amp;T dienstverlening op de VDAB medewerkers en burgers en handelt met de gepaste zin voor hoogdringendheid. Je trekt probleemdossiers naar je toe en fungeert als escalatiepunt voor operationele aangelegenheden.</span></p> \n<p><span>Je verzorgt consistente, duidelijke en actiegerichte rapportering naar het management. Je hanteert een analytische ‘can-do’ stijl en bevordert een resultaats- en klantgerichte attitude. Je neemt hiervoor proactief de nodige initiatieven.</span></p> \n<p><span>Je monitort de prestaties van partners, en identificeert verbeterkansen. Je implementeert best practices voor verbeterde dienstverlening en klanttevredenheid.</span></p> \n<p><span>Je fungeert als schakel tussen onze klant en partners en zorgt voor naadloze uitvoering van ITSM-processen.</span></p> \n<p><span>Je faciliteert de oplossing van issues en escalaties tussen partners en interne IT-belanghebbenden.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>De afdeling I&amp;T Operations is verantwoordelijk voor de dagdagelijkse werking van alle Informatie &amp; Technologie componenten zoals laptops, netwerk, telefonie, datacenter infrastructuur en applicaties (1st level support). </span></p> \n<p><span>Als ‘Service Delivery Manager Netwerk &amp; Telefonie' ben je verantwoordelijk voor het domein Netwerk &amp; Telefonie voor eindgebruikers.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Onze IT afdeling bestaat uit een 4</span><span>9 \n<span>0-tal enthousiaste IT-ers met een uitdagend IT landschap dat constant in verandering is. In ons I&amp;T </span>Operations \n<span> team werken we \n<span>met de meest recente technologieën aan uitdagende projecten.</span></span></span></p> \n<p><span>Optimalisatie en innovatie staan centraal, bijleren doe je met volle goesting.</span></p> \n<p><span>Thuiswerk is de norm en af en toe (twee keer per week) komen we naar kantoor te Brussel (op 5 minuten wandelen van het Centraal Station). </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Vanuit je expertise in service management geef je leiding aan de verschillende service medewerkers en verzorg je met hen de ‘first class’ dienstverlening.</span></p> \n<p><span>Je stelt kwaliteitsdoelstellingen op, maakt ze meetbaar, relevant voor de eindgebruiker en focust op de realisatie ervan. Je beseft ten volle de impact van de kwaliteit van de I&amp;T dienstverlening op de VDAB medewerkers en burgers en handelt met de gepaste zin voor hoogdringendheid. Je trekt probleemdossiers naar je toe en fungeert als escalatiepunt voor operationele aangelegenheden.</span></p> \n<p><span>Je verzorgt consistente, duidelijke en actiegerichte rapportering naar het management. Je hanteert een analytische ‘can-do’ stijl en bevordert een resultaats- en klantgerichte attitude. Je neemt hiervoor proactief de nodige initiatieven.</span></p> \n<p><span>Je monitort de prestaties van partners, en identificeert verbeterkansen. Je implementeert best practices voor verbeterde dienstverlening en klanttevredenheid.</span></p> \n<p><span>Je fungeert als schakel tussen onze klant en partners en zorgt voor naadloze uitvoering van ITSM-processen.</span></p> \n<p><span>Je faciliteert de oplossing van issues en escalaties tussen partners en interne IT-belanghebbenden.</span></p>"
       },
       "locations": [
         {
