@@ -1,11 +1,46 @@
 {
-  "totalItems": 188,
+  "totalItems": 181,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 187,
+  "lastItemOfPage": 180,
   "items": [
+    {
+      "link": "/Job/vdab-71883893",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71883893",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "BI data engineer (Wonen in Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "BI data engineer (Wonen in Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren (Microsoft) BI data engineer om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI-team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 7 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI-team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren (Microsoft) BI data engineer om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI-team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 7 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI-team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71862191",
       "internal": false,
@@ -357,41 +392,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71792774",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71792774",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "psycholoog Outreach"
-      },
-      "displayTitle": "psycholoog Outreach",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p align=\"left\"><strong><span>Waar zal je werken?</span></strong></p> \n<p align=\"left\"><strong><span> </span></strong></p> \n<p><span>Het Outreach-team biedt professionele ondersteuning aan jongeren met geestelijke gezondheidsproblemen tijdens hun verblijf in de \n<strong>Gemeenschapsinstelling van Mol</strong>. Het betreft een \n<strong>multidisciplinair team</strong> waarbinnen je verantwoordelijk bent voor psychotherapeutische begeleidingen, klinische diagnostiek, ondersteuning van de leefgroepen en actieve deelname aan verschillende overlegtafels. Je staat mee in voor het borgen van de continuïteit van zorg. Je activiteiten vinden voornamelijk plaats in de Gemeenschapsinstelling, maar eventueel ook binnen een lopend project. We bieden een jobtime van minimum 50% (mogelijks meer).</span></p>",
-        "htmlEncoded": "<p> </p> \n<p align=\"left\"><strong><span>Waar zal je werken?</span></strong></p> \n<p align=\"left\"><strong><span> </span></strong></p> \n<p><span>Het Outreach-team biedt professionele ondersteuning aan jongeren met geestelijke gezondheidsproblemen tijdens hun verblijf in de \n<strong>Gemeenschapsinstelling van Mol</strong>. Het betreft een \n<strong>multidisciplinair team</strong> waarbinnen je verantwoordelijk bent voor psychotherapeutische begeleidingen, klinische diagnostiek, ondersteuning van de leefgroepen en actieve deelname aan verschillende overlegtafels. Je staat mee in voor het borgen van de continuïteit van zorg. Je activiteiten vinden voornamelijk plaats in de Gemeenschapsinstelling, maar eventueel ook binnen een lopend project. We bieden een jobtime van minimum 50% (mogelijks meer).</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71786769",
       "internal": false,
       "validThroughDate": "1758240000",
@@ -585,9 +585,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Medewerker informatieveiligheid (Digitaal Vlaanderen) via Vlaanderen connect."
+        "htmlEncoded": "Medewerker informatieveiligheid ISOaaS (Digitaal Vlaanderen) via Vlaanderen connect."
       },
-      "displayTitle": "Medewerker informatieveiligheid (Digitaal Vlaanderen) via Vlaanderen connect.",
+      "displayTitle": "Medewerker informatieveiligheid ISOaaS (Digitaal Vlaanderen) via Vlaanderen connect.",
       "isProtected": false,
       "description": {
         "raw": "<p><span><span lang=\"NL\">Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar gemotiveerde medewerkers die in een team van</span></span><span><strong><span lang=\"NL\">informatieveiligheidsspecialisten (Information Security Officer)</span></strong></span><span><span lang=\"NL\">onze klanten gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</span></span></p> \n<p><span><span lang=\"NL\">Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie \n<strong>c</strong>lassificatie \n<strong>r</strong>aamwerk (ICR).</span></span><span><span><br> </span></span><span><span lang=\"NL\">Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid. \n<br> Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS). \n<br> </span></span></p> \n<p><span><span>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</span></span></p>",
@@ -1407,41 +1407,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71485755",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71485755",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Expert & Teamlead voor Data Insights (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product Owner Expert & Teamlead voor Data Insights (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een \n<strong>Product Owner Expert in combinatie met de rol van teamlead, </strong>ter versterking van het team \n<strong>Data Insights &amp; Automatisch Advies</strong>.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-insights, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Deze functie wordt gecombineerd met de rol van teamlead: wil jij dus mee jouw schouders zetten onder het team en de producten dan ben jij onze ideale kandidaat!</p> \n<p>Binnen Data Insights zijn er 3 teams die diverse producten beheren rond data-insights. Deze data wordt gebruikt door stakeholders binnen het brede overheidslandschap: van Federale, Vlaamse, lokale entiteiten tot burgers binnen diverse functies.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor de digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam. Data Insights speelt hierbij een cruciale rol.</p> \n<p>Je komt terecht in het team Data Insights met focus op Data-innovaties en automatisch advies, van Digitaal Vlaanderen. Dit dynamische team staat centraal in het uitbouwen van innovatieve data-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner Expert speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>In je rol als teamlead leid je één van de teams in het team Data Insights van de afdeling Data Platform van Digitaal Vlaanderen. In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je ondersteunt de persoonlijke en professionele groei van elk teamlid. Daarnaast bouw je actief aan een sterke teamdynamiek, zowel binnen jouw team als in de dagelijkse samenwerking met de functionele teams.</p> \n<p>Anderzijds zorg je voor consistente werkwijzen binnen je team. Je verduidelijkt de rollen voor elk teamlid om de de strategische doelstellingen te realiseren en stimuleert hen om proactief mee te denken over verbeteringen en innovaties.</p> \n<p>Als Product Owner Expert Data-innovaties ben je de bruggenbouwen tussen de partners, de gebruiker en ontwikkelteam. Je bepaalt de productvisie en -strategie, prioriteert de backlog, stelt roadmaps op en zorgt voor een efficiënte uitvoering door de ontwikkelteams. Je beheert de volledige productlevenscyclus volgens kwaliteitsnormen en signaleert innovatiekansen aan het management. Samen met de manager Data Insights werk je de roadmap uit en stem je af met andere teams binnen Digitaal Vlaanderen.</p> \n<p>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van partners, stakeholders en eindgebruikers.</p>",
-        "htmlEncoded": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een \n<strong>Product Owner Expert in combinatie met de rol van teamlead, </strong>ter versterking van het team \n<strong>Data Insights &amp; Automatisch Advies</strong>.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-insights, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Deze functie wordt gecombineerd met de rol van teamlead: wil jij dus mee jouw schouders zetten onder het team en de producten dan ben jij onze ideale kandidaat!</p> \n<p>Binnen Data Insights zijn er 3 teams die diverse producten beheren rond data-insights. Deze data wordt gebruikt door stakeholders binnen het brede overheidslandschap: van Federale, Vlaamse, lokale entiteiten tot burgers binnen diverse functies.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor de digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam. Data Insights speelt hierbij een cruciale rol.</p> \n<p>Je komt terecht in het team Data Insights met focus op Data-innovaties en automatisch advies, van Digitaal Vlaanderen. Dit dynamische team staat centraal in het uitbouwen van innovatieve data-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Product Owner Expert speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>In je rol als teamlead leid je één van de teams in het team Data Insights van de afdeling Data Platform van Digitaal Vlaanderen. In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je ondersteunt de persoonlijke en professionele groei van elk teamlid. Daarnaast bouw je actief aan een sterke teamdynamiek, zowel binnen jouw team als in de dagelijkse samenwerking met de functionele teams.</p> \n<p>Anderzijds zorg je voor consistente werkwijzen binnen je team. Je verduidelijkt de rollen voor elk teamlid om de de strategische doelstellingen te realiseren en stimuleert hen om proactief mee te denken over verbeteringen en innovaties.</p> \n<p>Als Product Owner Expert Data-innovaties ben je de bruggenbouwen tussen de partners, de gebruiker en ontwikkelteam. Je bepaalt de productvisie en -strategie, prioriteert de backlog, stelt roadmaps op en zorgt voor een efficiënte uitvoering door de ontwikkelteams. Je beheert de volledige productlevenscyclus volgens kwaliteitsnormen en signaleert innovatiekansen aan het management. Samen met de manager Data Insights werk je de roadmap uit en stem je af met andere teams binnen Digitaal Vlaanderen.</p> \n<p>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van partners, stakeholders en eindgebruikers.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71485532",
       "internal": false,
       "validThroughDate": "-1",
@@ -1467,6 +1432,41 @@
       "description": {
         "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>",
         "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71416541",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71416541",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ICT technisch projectcoördinator (Agentschap Opgroeien) Via Vlaanderen Connect."
+      },
+      "displayTitle": "ICT technisch projectcoördinator (Agentschap Opgroeien) Via Vlaanderen Connect.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Werk met ons mee voor kansrijk opgroeien Opgroeien in Vlaanderen en Brussel kan op vele manieren, maar nooit alleen. Alleen samen maken we pas echt het verschil, voor élk kind en voor élke jongere. Om dit te realiseren zoeken we straffe collega's. Samen staan we sterker.</p> \n<p>We zoeken een ICT Technisch Projectcoördinator voor onze interne dossierbeheersystemen die instaan voor het beheer van de erkende en vergunde actoren in het Kinderopvang- en Preventieve Gezinsondersteuning-landschap.</p> \n<p>Je werkt mee aan de verdere ontwikkeling en optimalisatie van deze digitale systemen die een directe impact hebben op de kwaliteit en continuïteit van de kinderopvanginitiatieven en gezinsondersteunende organisaties in Vlaanderen. </p> \n<p>Ben jij technisch sterk, goed in coördineren en wil je een maatschappelijke impact maken? Dan zijn wij naar jou op zoek! </p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Als Technisch Projectcoördinator werk je binnen het ICT team van Opgroeien, Kind en Gezin, mee aan het ontwikkelen en optimaliseren van de informatietoepassingen binnen het ontwikkelde beleidskader en zorg je ervoor dat de informatiedoorstroming binnen Kind en Gezin zo optimaal en geautomatiseerd verloopt.</p> \n<p>Je versterkt het ICT team dat instaat voor het dossierbehandelingsysteem dat intern is ontwikkeld voor het beheer van vergunde en erkende voorzieningen die ondersteuning krijgen van Opgroeien. Om dit project kwaliteitsvol te ondersteunen en verder uit te bouwen, gebruikt het ontwikkelteam o.a. technologieën zoals Oracle RDBMS, Oracle APEX, Oracle Forms, REST/JSON, ……..</p> \n<p>Je takenpakket houdt o.a. in:</p> \n<ul> \n<li>Je coördineert de nodige technische aanpassingen en vernieuwingen aan het dossierbeheersysteem dat gebruikt wordt voor het beheer van vergunningsaanvragen, erkenningen, inspecties en opvolging van de kinderopvanginitiatieven en gezinsondersteunende actoren.</li> \n<li>Je stemt de technische vereisten af met de functionele analisten, beleidsmedewerkers en eindgebruikers.</li> \n<li>Je werkt nauw samen met andere interne IT-teams en externe partners voor de implementatie van verbeteringen, updates en integraties.</li> \n<li>Je bewaakt de technische kwaliteit, stabiliteit en veiligheid van het systeem.</li> \n<li>Je biedt tweedelijnsondersteuning om de continuïteit te verzekeren en de efficiëntie en effectiviteit te waarborgen.</li> \n<li>Je zorgt voor een correcte documentatie, technische overdrachten en ondersteuning richting functioneel beheer.</li> \n<li>Je draagt actief bij aan de migratie en digitalisering van papieren processen binnen het erkennings- en vergunningenbeleid.</li> \n<li>Je houdt de technologische evoluties op de markt van ICT-toepassingen actief bij en wisselt kennis en ervaringen uit met collega’s om de kwaliteit van de dienstverlening te blijven optimaliseren.</li> </ul> \n<p>Het volledige overzicht van de taken kan je vinden in het functieprofiel in bijlage.</p>",
+        "htmlEncoded": "<p>Werk met ons mee voor kansrijk opgroeien Opgroeien in Vlaanderen en Brussel kan op vele manieren, maar nooit alleen. Alleen samen maken we pas echt het verschil, voor élk kind en voor élke jongere. Om dit te realiseren zoeken we straffe collega's. Samen staan we sterker.</p> \n<p>We zoeken een ICT Technisch Projectcoördinator voor onze interne dossierbeheersystemen die instaan voor het beheer van de erkende en vergunde actoren in het Kinderopvang- en Preventieve Gezinsondersteuning-landschap.</p> \n<p>Je werkt mee aan de verdere ontwikkeling en optimalisatie van deze digitale systemen die een directe impact hebben op de kwaliteit en continuïteit van de kinderopvanginitiatieven en gezinsondersteunende organisaties in Vlaanderen. </p> \n<p>Ben jij technisch sterk, goed in coördineren en wil je een maatschappelijke impact maken? Dan zijn wij naar jou op zoek! </p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Als Technisch Projectcoördinator werk je binnen het ICT team van Opgroeien, Kind en Gezin, mee aan het ontwikkelen en optimaliseren van de informatietoepassingen binnen het ontwikkelde beleidskader en zorg je ervoor dat de informatiedoorstroming binnen Kind en Gezin zo optimaal en geautomatiseerd verloopt.</p> \n<p>Je versterkt het ICT team dat instaat voor het dossierbehandelingsysteem dat intern is ontwikkeld voor het beheer van vergunde en erkende voorzieningen die ondersteuning krijgen van Opgroeien. Om dit project kwaliteitsvol te ondersteunen en verder uit te bouwen, gebruikt het ontwikkelteam o.a. technologieën zoals Oracle RDBMS, Oracle APEX, Oracle Forms, REST/JSON, ……..</p> \n<p>Je takenpakket houdt o.a. in:</p> \n<ul> \n<li>Je coördineert de nodige technische aanpassingen en vernieuwingen aan het dossierbeheersysteem dat gebruikt wordt voor het beheer van vergunningsaanvragen, erkenningen, inspecties en opvolging van de kinderopvanginitiatieven en gezinsondersteunende actoren.</li> \n<li>Je stemt de technische vereisten af met de functionele analisten, beleidsmedewerkers en eindgebruikers.</li> \n<li>Je werkt nauw samen met andere interne IT-teams en externe partners voor de implementatie van verbeteringen, updates en integraties.</li> \n<li>Je bewaakt de technische kwaliteit, stabiliteit en veiligheid van het systeem.</li> \n<li>Je biedt tweedelijnsondersteuning om de continuïteit te verzekeren en de efficiëntie en effectiviteit te waarborgen.</li> \n<li>Je zorgt voor een correcte documentatie, technische overdrachten en ondersteuning richting functioneel beheer.</li> \n<li>Je draagt actief bij aan de migratie en digitalisering van papieren processen binnen het erkennings- en vergunningenbeleid.</li> \n<li>Je houdt de technologische evoluties op de markt van ICT-toepassingen actief bij en wisselt kennis en ervaringen uit met collega’s om de kwaliteit van de dienstverlening te blijven optimaliseren.</li> </ul> \n<p>Het volledige overzicht van de taken kan je vinden in het functieprofiel in bijlage.</p>"
       },
       "locations": [
         {
@@ -1792,76 +1792,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71130167",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71130167",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71062402",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71062402",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Information Security Officer (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Information Security Officer (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span><strong><span>Inleiding</span></strong></span></p> \n<p><span><span>Digitaal Vlaanderen is op zoek naar gedreven en enthousiaste Information Security Officers om ons team van informatieveiligheidsspecialisten te versterken.</span></span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer:</strong></span></p> \n<ul> \n<li><span>meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? </span></li> \n<li><span><span lang=\"NL\">het informatieveiligheidsbeleid binnen de Vlaamse overheid mee implementeert en de digitale weerbaarheid van de Vlaamse overheid verhoogt, en</span></span></li> \n<li><span><span lang=\"NL\">als pionier direct betrokken bent bij de opbouw van de dienstverlening vanuit </span></span><span><span>de Partnerdienst Informatieveiligheid?</span></span></li> </ul> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span><strong><span>Waar kom je terecht?</span></strong></span></p> \n<p><span><span>Je komt terecht bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend.</span></span></p> \n<p><span><span>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken!</span></span></p> \n<p><span><span lang=\"NL\">Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform de ISO 27000 serie en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie\n<strong>c</strong>lassificatie\n<strong>r</strong>aamwerk (ICR).</span></span><span><span>Je ondersteunt ofwel ons eigen agentschap bij het Team Veiligheid en Risico, ofwel onze VO-partners (andere Vlaamse overheidsentiteiten) via onze Partnerdienst Informatieveiligheid bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</span></span><span><span> In elk geval ben je onderdeel van de community van informatieveiligheidsspecialisten bij de Partnerdiensten van Digitaal Vlaanderen.</span></span><br> </p> \n<p><span><span>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je dienstverlening ivm informatieveiligheid biedt. Digitaal Vlaanderen heeft locaties in Brussel (Herman Teirlinckgebouw, Havenlaan 88, 1000 Brussel) en in Gent (VAC Gent, Virginie Lovelinggebouw, Koningin Maria Herndrikaplein 70, 9000 Gent). Als je via de Partnerdienst Informatieveiligheid dienstverlening biedt bij een VO-Partner, dan ga je ook regelmatig naar de kantoren waar die partner gevestigd is (voornamelijk Brussel). Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</span></span><span><span> \n<br> </span></span></p>",
-        "htmlEncoded": "<p><span><strong><span>Inleiding</span></strong></span></p> \n<p><span><span>Digitaal Vlaanderen is op zoek naar gedreven en enthousiaste Information Security Officers om ons team van informatieveiligheidsspecialisten te versterken.</span></span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer:</strong></span></p> \n<ul> \n<li><span>meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? </span></li> \n<li><span><span lang=\"NL\">het informatieveiligheidsbeleid binnen de Vlaamse overheid mee implementeert en de digitale weerbaarheid van de Vlaamse overheid verhoogt, en</span></span></li> \n<li><span><span lang=\"NL\">als pionier direct betrokken bent bij de opbouw van de dienstverlening vanuit </span></span><span><span>de Partnerdienst Informatieveiligheid?</span></span></li> </ul> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span><strong><span>Waar kom je terecht?</span></strong></span></p> \n<p><span><span>Je komt terecht bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend.</span></span></p> \n<p><span><span>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken!</span></span></p> \n<p><span><span lang=\"NL\">Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform de ISO 27000 serie en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie\n<strong>c</strong>lassificatie\n<strong>r</strong>aamwerk (ICR).</span></span><span><span>Je ondersteunt ofwel ons eigen agentschap bij het Team Veiligheid en Risico, ofwel onze VO-partners (andere Vlaamse overheidsentiteiten) via onze Partnerdienst Informatieveiligheid bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</span></span><span><span> In elk geval ben je onderdeel van de community van informatieveiligheidsspecialisten bij de Partnerdiensten van Digitaal Vlaanderen.</span></span><br> </p> \n<p><span><span>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je dienstverlening ivm informatieveiligheid biedt. Digitaal Vlaanderen heeft locaties in Brussel (Herman Teirlinckgebouw, Havenlaan 88, 1000 Brussel) en in Gent (VAC Gent, Virginie Lovelinggebouw, Koningin Maria Herndrikaplein 70, 9000 Gent). Als je via de Partnerdienst Informatieveiligheid dienstverlening biedt bij een VO-Partner, dan ga je ook regelmatig naar de kantoren waar die partner gevestigd is (voornamelijk Brussel). Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</span></span><span><span> \n<br> </span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71018700",
       "internal": false,
       "validThroughDate": "-1",
@@ -1922,41 +1852,6 @@
       "description": {
         "raw": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>",
         "htmlEncoded": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70948377",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70948377",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel analist expert (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel analist expert (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span>een gedreven en enthousiaste \n<strong>Functioneel Analist Expert</strong> om het Centraal Team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging als \n<strong>Functioneel Analist Expert, </strong></span><span>waarbij je meewerkt aan boeiende use cases rond digitale dienstverlening vanuit de hoofdloketten en met</span><span> de nodige aandacht voor een inclusieve gebruikerservaring? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. \n<br>Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Functioneel Analist Expert</strong> kom je terecht in het Centraal Team binnen de afdeling Loketplatform. \n<br>Het Centraal Team bestaat uit transversale functies zoals analisten, UX-designers, projectleiders, architecten, product partners en een service delivery team. </span></p> \n<p><span>Vanuit het Centraal Team werk je mee in de volgende diensten: \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Digitale loketten:</span></strong><span> omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. \n<br>Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht. \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Infoplatform:</span></strong><span> is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden. \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Centrale contactcenter:</span></strong><span> Dit is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></p> \n<p> </p> \n<p> </p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong>Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>",
-        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span>een gedreven en enthousiaste \n<strong>Functioneel Analist Expert</strong> om het Centraal Team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging als \n<strong>Functioneel Analist Expert, </strong></span><span>waarbij je meewerkt aan boeiende use cases rond digitale dienstverlening vanuit de hoofdloketten en met</span><span> de nodige aandacht voor een inclusieve gebruikerservaring? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. \n<br>Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Functioneel Analist Expert</strong> kom je terecht in het Centraal Team binnen de afdeling Loketplatform. \n<br>Het Centraal Team bestaat uit transversale functies zoals analisten, UX-designers, projectleiders, architecten, product partners en een service delivery team. </span></p> \n<p><span>Vanuit het Centraal Team werk je mee in de volgende diensten: \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Digitale loketten:</span></strong><span> omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. \n<br>Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht. \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Infoplatform:</span></strong><span> is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden. \n<br><br></span></p> \n<p><span><span>· </span></span><strong><span>Centrale contactcenter:</span></strong><span> Dit is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></p> \n<p> </p> \n<p> </p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong>Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>"
       },
       "locations": [
         {
@@ -2142,41 +2037,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70837083",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70837083",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p><span> </span></p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p><span> </span></p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.</span></p> \n<p><span> </span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.</span></p> \n<p><span>Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, \n<span> </span>andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.</span></p> \n<p><span>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.</span></p> \n<p><span>Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70836854",
       "internal": false,
       "validThroughDate": "-1",
@@ -2342,41 +2202,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Information Security Officer </strong>om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Information Security Officer</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70686162",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70686162",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Expert Mijn Burgerprofiel (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product Owner Expert Mijn Burgerprofiel (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we binnen het team Digitale Loketten op zoek naar een Product Owner ter versterking van het digitale loket Mijn Burgerprofiel (kortweg MBP) van onze afdeling Loketplatform. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner mee vorm wil geven aan het meest gebruiksvriendelijke overheidsloket in Vlaanderen? En waar je de burgers kan begeleiden richting de lokale dienstverlening via de mobiele app van het loket voor steden en gemeenten?</span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Je komt terecht in de afdeling LoketPlatform van Digitaal Vlaanderen, en rapporteert aan de teamlead Digitale Loketten, het team dat de web- en mobiele applicaties van Mijn Burgerprofiel uitbouwt.</span></p> \n<p><span>Mijn Burgerprofiel is hét overheidsloket voor burgers, en opgezet als een online portaal waarlangs men op een gebruiksvriendelijke en gecentraliseerde manier kan interageren met de overheid. Zowel op Vlaams, federaal als lokaal niveau.</span></p> \n<p><span>Gebruikers kunnen van daaruit ook doorlinken naar specifieke e-loketten. Het biedt een dashboard voor lopende zaken aan waar burgers online de status van hun dossier kunnen opvolgen. Via notificaties kan men communiceren over veranderingen in statussen of dossiervragen. Je kan overheidsdienstverleningen aanvragen, opvolgen, documenten en attesten raadplegen, en de gegevens inzien die de overheid over jou weet. Kortom, de doelstelling is om burgers maximaal te begeleiden doorheen de userjourney over de contactpunten van de overheid heen.</span></p> \n<p><span>Mijn Burgerprofiel wordt zowel in een webapplicatie aangeboden, als in een mobiele applicatie. De mobiele applicatie kent intussen al meer dan 60 lokale varianten van steden en gemeenten. Deze lokale variant brengt de lokale overheid dichter bij de burger.</span></p> \n<p><span>Je werkt vanuit onze kantoren te Brussel en Gent in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we binnen het team Digitale Loketten op zoek naar een Product Owner ter versterking van het digitale loket Mijn Burgerprofiel (kortweg MBP) van onze afdeling Loketplatform. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner mee vorm wil geven aan het meest gebruiksvriendelijke overheidsloket in Vlaanderen? En waar je de burgers kan begeleiden richting de lokale dienstverlening via de mobiele app van het loket voor steden en gemeenten?</span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Je komt terecht in de afdeling LoketPlatform van Digitaal Vlaanderen, en rapporteert aan de teamlead Digitale Loketten, het team dat de web- en mobiele applicaties van Mijn Burgerprofiel uitbouwt.</span></p> \n<p><span>Mijn Burgerprofiel is hét overheidsloket voor burgers, en opgezet als een online portaal waarlangs men op een gebruiksvriendelijke en gecentraliseerde manier kan interageren met de overheid. Zowel op Vlaams, federaal als lokaal niveau.</span></p> \n<p><span>Gebruikers kunnen van daaruit ook doorlinken naar specifieke e-loketten. Het biedt een dashboard voor lopende zaken aan waar burgers online de status van hun dossier kunnen opvolgen. Via notificaties kan men communiceren over veranderingen in statussen of dossiervragen. Je kan overheidsdienstverleningen aanvragen, opvolgen, documenten en attesten raadplegen, en de gegevens inzien die de overheid over jou weet. Kortom, de doelstelling is om burgers maximaal te begeleiden doorheen de userjourney over de contactpunten van de overheid heen.</span></p> \n<p><span>Mijn Burgerprofiel wordt zowel in een webapplicatie aangeboden, als in een mobiele applicatie. De mobiele applicatie kent intussen al meer dan 60 lokale varianten van steden en gemeenten. Deze lokale variant brengt de lokale overheid dichter bij de burger.</span></p> \n<p><span>Je werkt vanuit onze kantoren te Brussel en Gent in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</span></p>"
       },
       "locations": [
         {
@@ -2562,41 +2387,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70475017",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70475017",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data Scientist Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Data Scientist Expert AI & Analytics (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Data Scientist Expert</strong> \n<strong>AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je </span><span><span>een sleutelrol kan opnemen in de implementatie van innovatieve datamodellen en algoritmes om specifieke bedrijfsvraagstukken op te lossen?</span></span><span> Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Data Scientist AI&amp;Analytics speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><span><span>Als o</span></span><span><span>nderdeel van de afdeling dataplatform, werd recent een nieuw team Data Insights opgezet. Door het ontsluiten van de kracht van data en AI-technologieën zetten we grote hoeveelheden data om in bruikbare inzichten Dit leidt tot een betere, snellere en efficiëntere data-gedreven dienstverlening. Een intelligente benadering van data, AI-gedreven innovatie en trendanalyse zorgt voor voorspellende inzichten voor strategische besluitvorming.\n<span> </span></span></span></p> \n<p><span><span>Data Insights biedt partners geautomatiseerd advies voor optimale dataminimalisatie en value-driven businesslogica. We bieden waarde door inzichtelijke rapportages en dashboards te leveren. Onze datakwaliteit monitoring garandeert betrouwbare informatie, terwijl benchmarking en trendanalyse helpen bij strategische besluitvorming. Door in te zetten op Data innovatieve technologieën maken we data beter beschikbaar wat de herbruikbaarheid van de data stimuleert. We maken data AI ready via de ontwikkeling van innovatieve tools en bouwblokken die de datakwaliteit verbetert. We bieden een analyse platform en beschermde verwerkingsomgeving waarop op een gecontroleerde en beveiligde manier data kan geanalyseerd worden voor het creëren van data inzichten.</span></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als ervaren \n<strong>Data Scientist</strong> \n<strong>Expert </strong>met AI-kennis heb je een kloppend hart voor kwalitatieve data science en Big Data oplossingen en streef je hierbij ook naar een kwalitatieve en cleane code. Met jouw ervaring, kritische ingesteldheid en analytisch vermogen versterk je het team van data engineers, data scientists, developers, architecten, analisten en projectmanagers. Zo help je de klanten hun data te gebruiken om inzichten te creëren die hen helpen om weloverwogen beslissingen te nemen, bedrijfsresultaten te verbeteren en hun prestaties te versnellen.</span></span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar</span><span> </span><span>een \n<strong>Data Scientist Expert</strong> \n<strong>AI &amp; Analytics</strong> ter versterking van het Data Insights team. Ben jij op zoek naar een nieuwe uitdaging waarbij je </span><span><span>een sleutelrol kan opnemen in de implementatie van innovatieve datamodellen en algoritmes om specifieke bedrijfsvraagstukken op te lossen?</span></span><span> Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is een digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span><span><span> </span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span><span><span> </span></span></p> \n<p><span><span>Je komt terecht in het \n<strong>Data Insight team</strong>, \n<strong>subteam AI &amp; Analytics</strong>, van Digitaal Vlaanderen. \n<br> Dit dynamische team staat centraal in het uitbouwen van innovatieve AI &amp; Analytics-oplossingen en het optimaliseren van data-analyseprocessen binnen de Vlaamse overheid. Als Data Scientist AI&amp;Analytics speel je een cruciale rol in het ontwikkelen en implementeren van data-gedreven projecten die bijdragen aan de digitale transformatie van Vlaanderen.</span></span></p> \n<p><span><span>Als o</span></span><span><span>nderdeel van de afdeling dataplatform, werd recent een nieuw team Data Insights opgezet. Door het ontsluiten van de kracht van data en AI-technologieën zetten we grote hoeveelheden data om in bruikbare inzichten Dit leidt tot een betere, snellere en efficiëntere data-gedreven dienstverlening. Een intelligente benadering van data, AI-gedreven innovatie en trendanalyse zorgt voor voorspellende inzichten voor strategische besluitvorming.\n<span> </span></span></span></p> \n<p><span><span>Data Insights biedt partners geautomatiseerd advies voor optimale dataminimalisatie en value-driven businesslogica. We bieden waarde door inzichtelijke rapportages en dashboards te leveren. Onze datakwaliteit monitoring garandeert betrouwbare informatie, terwijl benchmarking en trendanalyse helpen bij strategische besluitvorming. Door in te zetten op Data innovatieve technologieën maken we data beter beschikbaar wat de herbruikbaarheid van de data stimuleert. We maken data AI ready via de ontwikkeling van innovatieve tools en bouwblokken die de datakwaliteit verbetert. We bieden een analyse platform en beschermde verwerkingsomgeving waarop op een gecontroleerde en beveiligde manier data kan geanalyseerd worden voor het creëren van data inzichten.</span></span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als ervaren \n<strong>Data Scientist</strong> \n<strong>Expert </strong>met AI-kennis heb je een kloppend hart voor kwalitatieve data science en Big Data oplossingen en streef je hierbij ook naar een kwalitatieve en cleane code. Met jouw ervaring, kritische ingesteldheid en analytisch vermogen versterk je het team van data engineers, data scientists, developers, architecten, analisten en projectmanagers. Zo help je de klanten hun data te gebruiken om inzichten te creëren die hen helpen om weloverwogen beslissingen te nemen, bedrijfsresultaten te verbeteren en hun prestaties te versnellen.</span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70410630",
       "internal": false,
       "validThroughDate": "-1",
@@ -2657,41 +2447,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Product Manager</strong> om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Product Manager</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</span></p> \n<p><span><br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in\n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als \n<strong>Product Manager Service-Integratie</strong> kom je terecht in het team Partner &amp; Ecosysteem dat voor overheden in Vlaanderen een ecosysteem van exploitatie- en ontwikkelingsdiensten realiseert. Het team realiseert diensten op het gebied van Werkplek, Cloud- en datacenter, Netwerk, Applicaties &amp; Service-Integratie, en doet hierbij beroep op meerdere ICT-partners met wie verschillende raamcontracten werden gesloten. Via de Service-Integratie wordt gewaarborgd dat de verschillende diensten in het ecosysteem naadloos op elkaar aansluiten en dat voor overheden in Vlaanderen een kwaliteitsvolle, veilige en end-to-end dienstverlening kan gerealiseerd worden, onafhankelijk van het aantal ICT-partners dat betrokken wordt. </span></span></p> \n<p><span><span>Als \n<strong>Product Manager</strong> ben je verantwoordelijk voor de Service-Integratie in het ecosysteem. </span></span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Product Manager</strong> om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Product Manager</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</span></p> \n<p><span><br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in\n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span><span>Als \n<strong>Product Manager Service-Integratie</strong> kom je terecht in het team Partner &amp; Ecosysteem dat voor overheden in Vlaanderen een ecosysteem van exploitatie- en ontwikkelingsdiensten realiseert. Het team realiseert diensten op het gebied van Werkplek, Cloud- en datacenter, Netwerk, Applicaties &amp; Service-Integratie, en doet hierbij beroep op meerdere ICT-partners met wie verschillende raamcontracten werden gesloten. Via de Service-Integratie wordt gewaarborgd dat de verschillende diensten in het ecosysteem naadloos op elkaar aansluiten en dat voor overheden in Vlaanderen een kwaliteitsvolle, veilige en end-to-end dienstverlening kan gerealiseerd worden, onafhankelijk van het aantal ICT-partners dat betrokken wordt. </span></span></p> \n<p><span><span>Als \n<strong>Product Manager</strong> ben je verantwoordelijk voor de Service-Integratie in het ecosysteem. </span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70175253",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70175253",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Proces & Kwaliteitsbeheer (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product Owner Proces & Kwaliteitsbeheer (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Product Owner</strong> om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Product Owner</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span></p> \n<p><span><br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p> </p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Product Owner</strong> om het team Partner &amp; Ecosysteem te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Product Owner</strong> meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. </span></p> \n<p><span><br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> </strong>Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p> \n<p> </p>"
       },
       "locations": [
         {
@@ -2790,9 +2545,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Portfoliopartner (Digitaal Vlaanderen) via Vlaanderen Connect"
+        "htmlEncoded": "Portfoliopartner PMO (Digitaal Vlaanderen) via Vlaanderen Connect"
       },
-      "displayTitle": "Portfoliopartner (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "displayTitle": "Portfoliopartner PMO (Digitaal Vlaanderen) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame \n<strong>Portfoliopartner</strong> om de dienst \n<strong> Portfolio Management Office &amp; Organisatie</strong> te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Portfoliopartner</strong> meewerkt aan de transversale processen binnen het projectaanbod dat Digitaal Vlaanderen biedt aan onze partners? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! \n<br></span></p> \n<p><span>Als \n<strong> Portfoliopartner</strong> kom je terecht in het team PMO binnen de afdeling \n<strong>Portfolio Management Office (PMO) &amp; Organisatie</strong> binnen een team van portfoliopartners die elk toegewezen zijn aan één van de afdelingen binnen Digitaal Vlaanderen. Daarnaast bestaat het team uit enkele PMO-ondersteuners die mee de administratieve ondersteuning faciliteren en de portfolio mee beheren. De afdeling Portfolio Management Office (PMO) &amp; Organisatie ondersteunt het agentschap op strategisch, tactisch en operationeel vlak en is verantwoordelijk voor het portfoliomanagement, HR, organisatiebeheer, de aankopen en het contractmanagement, boekhouding en begroting en juridisch advies en ondersteuning. \n<br></span></p> \n<p><span>Jouw werkplek is ons kantoor in \n<strong>Brussel</strong>, maar er kunnen ook overlegmomenten in ons kantoor in \n<strong> Gent</strong> plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</span></p>",
@@ -3227,6 +2982,56 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19242",
+      "internal": false,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19242",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Bemiddelaars voor de aanleg van een Werfreserve regio Leuven"
+      },
+      "displayTitle": "Bemiddelaars voor de aanleg van een Werfreserve regio Leuven",
+      "isProtected": false,
+      "description": {
+        "raw": "VDAB zoekt\nenthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Leuven te\nversterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen\nduurzaam in te schakelen op de arbeidsmarkt. <br><br>VDAB is een open en wendbare organisatie die\nanticipeert op maatschappelijke evoluties. We werken samen met externe partners\nen lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en\ngericht op het algemeen belang.<br><br>Om deze opdracht goed uit te voeren\nwerkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br> De klant start met een inschatting, vervolgt zijn traject in de sectorale\nwerking en als er extra drempels opduiken, maakt hij een tussenstop bij\nIntensieve dienstverlening. <br><br>In het selectiereglement in de bijlage vind je voor elke pijler apart (Inschatting - Sectorale werking -\nIntensieve dienstverlening) de informatie en het takenpakket.<br><br> Geen zorgen! Je hoeft zelf nog geen keuze te maken. Tijdens het jurygesprek zal\nblijken welke competenties je hebt en met welk profiel die een match vormen.<br><br><br>👉\nOntdek er alles over (per pijler) in het selectiereglement in de bijlage onderaan deze vacature.&nbsp;",
+        "htmlEncoded": "VDAB zoekt\nenthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Leuven te\nversterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen\nduurzaam in te schakelen op de arbeidsmarkt. <br><br>VDAB is een open en wendbare organisatie die\nanticipeert op maatschappelijke evoluties. We werken samen met externe partners\nen lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en\ngericht op het algemeen belang.<br><br>Om deze opdracht goed uit te voeren\nwerkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br> De klant start met een inschatting, vervolgt zijn traject in de sectorale\nwerking en als er extra drempels opduiken, maakt hij een tussenstop bij\nIntensieve dienstverlening. <br><br>In het selectiereglement in de bijlage vind je voor elke pijler apart (Inschatting - Sectorale werking -\nIntensieve dienstverlening) de informatie en het takenpakket.<br><br> Geen zorgen! Je hoeft zelf nog geen keuze te maken. Tijdens het jurygesprek zal\nblijken welke competenties je hebt en met welk profiel die een match vormen.<br><br><br>👉\nOntdek er alles over (per pijler) in het selectiereglement in de bijlage onderaan deze vacature.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Diest"
+          }
+        },
+        {
+          "address": {
+            "city": "Tienen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19232",
       "internal": false,
       "validThroughDate": "1757462400",
@@ -3402,41 +3207,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19211",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "ILVO Centrale Diensten",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19211",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Digitale communicatiespecialist"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Digitale communicatiespecialist",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij\nje digitale communicatievaardigheden inzetten om wetenschappelijk\nonderzoek toegankelijk te maken voor een breed en professioneel publiek? Zoek je een job met\nmaatschappelijke impact waarin je volop kan experimenteren met nieuwe tools en\ntechnologieën? Krijg jij energie van afwisseling, samenwerken én zelf nieuwe\nideeën aanbrengen?</p><p>Lees meer over de functie\nin het selectiereglement onderaan de pagina bij download documenten. Download\ndit selectiereglement en hou het bij voor het verdere verloop van de procedure.<br><br></p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Wil jij\nje digitale communicatievaardigheden inzetten om wetenschappelijk\nonderzoek toegankelijk te maken voor een breed en professioneel publiek? Zoek je een job met\nmaatschappelijke impact waarin je volop kan experimenteren met nieuwe tools en\ntechnologieën? Krijg jij energie van afwisseling, samenwerken én zelf nieuwe\nideeën aanbrengen?</p><p>Lees meer over de functie\nin het selectiereglement onderaan de pagina bij download documenten. Download\ndit selectiereglement en hou het bij voor het verdere verloop van de procedure.<br><br></p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19206",
       "internal": false,
       "validThroughDate": "1759104000",
@@ -3467,6 +3237,38 @@
         {
           "address": {
             "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19197",
+      "internal": true,
+      "validThroughDate": "1758672000",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19197",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Directeur communicatie"
+      },
+      "displayTitle": "Directeur communicatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee richting geven aan de communicatie binnen de Vlaamse overheid? Opgroeien Regie zoekt een Directeur Communicatie die visie koppelt aan daadkracht en het communicatieteam inspireert en versterkt.</p><p>Jouw rol</p><p>-&nbsp; &nbsp;Je ontwikkelt en bewaakt de communicatiestrategie en vertaalt die naar concrete acties.</p><p>-&nbsp; &nbsp;Je geeft leiding aan het communicatieteam en stimuleert initiatief, eigenaarschap en samenwerking.</p><p>-&nbsp; &nbsp;Je optimaliseert processen, kanalen en werkmethodes en zet in op innovatie.</p><p>-&nbsp; &nbsp;Je adviseert het beleid en bouwt sterke interne en externe partnerschappen uit.</p><p>Wie zoeken we?</p><p>- Je bent werkzaam binnen Opgroeien / Opgroeien Regie en je hebt minstens 6 jaar beroepservaring, in het ontwikkelen en implementeren van communicatiestrategieën voor grote organisaties, waarvan minstens 2 jaar in een leidinggevende rol met verantwoordelijkheid voor een divers team.</p><p>-&nbsp; &nbsp;Een strategisch denker met organisatietalent en resultaatgerichtheid.</p><p>-&nbsp; &nbsp;Een sterke communicator die kan verbinden, motiveren en inspireren.</p><ul type=\"disc\"> </ul><ul type=\"disc\"> </ul>",
+        "htmlEncoded": "<p>Wil jij mee richting geven aan de communicatie binnen de Vlaamse overheid? Opgroeien Regie zoekt een Directeur Communicatie die visie koppelt aan daadkracht en het communicatieteam inspireert en versterkt.</p><p>Jouw rol</p><p>-&nbsp; &nbsp;Je ontwikkelt en bewaakt de communicatiestrategie en vertaalt die naar concrete acties.</p><p>-&nbsp; &nbsp;Je geeft leiding aan het communicatieteam en stimuleert initiatief, eigenaarschap en samenwerking.</p><p>-&nbsp; &nbsp;Je optimaliseert processen, kanalen en werkmethodes en zet in op innovatie.</p><p>-&nbsp; &nbsp;Je adviseert het beleid en bouwt sterke interne en externe partnerschappen uit.</p><p>Wie zoeken we?</p><p>- Je bent werkzaam binnen Opgroeien / Opgroeien Regie en je hebt minstens 6 jaar beroepservaring, in het ontwikkelen en implementeren van communicatiestrategieën voor grote organisaties, waarvan minstens 2 jaar in een leidinggevende rol met verantwoordelijkheid voor een divers team.</p><p>-&nbsp; &nbsp;Een strategisch denker met organisatietalent en resultaatgerichtheid.</p><p>-&nbsp; &nbsp;Een sterke communicator die kan verbinden, motiveren en inspireren.</p><ul type=\"disc\"> </ul><ul type=\"disc\"> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis (Bij-Brussel)"
           }
         }
       ]
@@ -3637,6 +3439,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19157",
+      "internal": false,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19157",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator visserijcontroles"
+      },
+      "displayTitle": "Coördinator visserijcontroles",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Als coördinator visserijcontroles coördineer je een team van een negental controleurs dat actief is op land, op zee en in de lucht.</div><div></div><div>Concreet zal jouw rol bestaan uit het opmaken van een plan van aanpak en een planning voor de diverse controleopdrachten van het team. Dit doe je op basis van risicoanalyses en controlebeleid en in overleg met het team. Je zorgt voor regelmatig teamoverleg om een goede afstemming tussen de teamleden te garanderen, alsook de informatiedoorstroom van en naar de andere teams binnen de dienst.&nbsp;&nbsp;</div><div>&nbsp;&nbsp;</div><div>Daarnaast ben je het aanspreekpunt voor interne en externe partners. Je stelt de nodige rapporten op. Op basis van je opgebouwde kennis optimaliseer je bestaande werkprocedures en handleidingen, en daar waar nodig maak je samen met het team ook nieuwe procedures en handleidingen. Je stelt het controleprogramma op in het kader van financiering.</div><div></div><div>De materie is complex en Europees gestuurd, maar dat maakt dit werk net boeiend. Je krijgt de kans om je hierin te verdiepen en expertise op te bouwen. Een aantal keer per jaar neem je deel aan internationale overleggen: waardevolle momenten om je netwerk uit te bouwen, inspiratie op te doen en tegelijk zelf mee richting te geven aan de Europese aanpak van visserijcontroles.</div><div></div><div>Deze functie vereist zowel zelfstandigheid en initiatief als nauwe samenwerking en afstemming met collega’s. Tot slot werk je actief mee aan de veiligheid en het welzijn van je team. Zo draag jij je steentje bij aan de missie van onze organisatie: “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</div>",
+        "htmlEncoded": "<div>Als coördinator visserijcontroles coördineer je een team van een negental controleurs dat actief is op land, op zee en in de lucht.</div><div></div><div>Concreet zal jouw rol bestaan uit het opmaken van een plan van aanpak en een planning voor de diverse controleopdrachten van het team. Dit doe je op basis van risicoanalyses en controlebeleid en in overleg met het team. Je zorgt voor regelmatig teamoverleg om een goede afstemming tussen de teamleden te garanderen, alsook de informatiedoorstroom van en naar de andere teams binnen de dienst.&nbsp;&nbsp;</div><div>&nbsp;&nbsp;</div><div>Daarnaast ben je het aanspreekpunt voor interne en externe partners. Je stelt de nodige rapporten op. Op basis van je opgebouwde kennis optimaliseer je bestaande werkprocedures en handleidingen, en daar waar nodig maak je samen met het team ook nieuwe procedures en handleidingen. Je stelt het controleprogramma op in het kader van financiering.</div><div></div><div>De materie is complex en Europees gestuurd, maar dat maakt dit werk net boeiend. Je krijgt de kans om je hierin te verdiepen en expertise op te bouwen. Een aantal keer per jaar neem je deel aan internationale overleggen: waardevolle momenten om je netwerk uit te bouwen, inspiratie op te doen en tegelijk zelf mee richting te geven aan de Europese aanpak van visserijcontroles.</div><div></div><div>Deze functie vereist zowel zelfstandigheid en initiatief als nauwe samenwerking en afstemming met collega’s. Tot slot werk je actief mee aan de veiligheid en het welzijn van je team. Zo draag jij je steentje bij aan de missie van onze organisatie: “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
           }
         }
       ]
@@ -4021,6 +3858,41 @@
         {
           "address": {
             "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19129",
+      "internal": false,
+      "validThroughDate": "1758844800",
+      "hiringOrganization": "Vlaams Agentschap voor Personen met een Handicap",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19129",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Klantenbeheerder Budgetbesteding"
+      },
+      "displayTitle": "Klantenbeheerder Budgetbesteding",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) zijn personen met een handicap prioriteit. Hun missie? Volop inzetten op het verbeteren en vergroten van hun autonomie en levenskwaliteit, alsook het begeleiden van organisaties die zorgen voor een kwaliteitsvolle ondersteuning. Als klantenbeheerder budgetbesteding bij het VAPH kan ook jij jouw steentje bijdragen aan deze belangrijke missie.</div><div></div><div>Samen met je collega’s klantenbeheerders maak je deel uit van de afdeling Dienstverlening Budgethouders en<strong> bijt je je vast in dossiers die het verschil maken voor personen met een handicap</strong>:&nbsp;</div><ul><li>Je wordt een centraal aanspreekpunt voor de klanten. Dit betekent dat je steeds op een klantgerichte en heldere wijze schriftelijk en mondeling communiceert;&nbsp;</li><li>Je analyseert en verwerkt nauwkeurig de binnenkomende (aan)vragen i.v.m. de terbeschikkingstelling en besteding van een persoonsvolgend budget;&nbsp;</li><li>Je formuleert op basis van deze (aan)vragen en rekening houdend met de bestaande procedures, regelgeving en budgettaire beperkingen een (voorstel) van beslissing over het dossier;&nbsp;</li><li>Je blijft steeds op de hoogte van wijzigingen in de bestaande procedures, richtlijnen en regelgeving, zodat je klanten optimaal kan helpen;&nbsp;</li><li>Je neemt af en toe deel aan zitdagen in de provinciale kantoren van het VAPH, waarbij je door middel van persoonlijk contact de klant adviseert.</li></ul><div></div><div>We zijn momenteel op zoek naar 2 klantenbeheerders budgetbesteding om het team te versterken.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) zijn personen met een handicap prioriteit. Hun missie? Volop inzetten op het verbeteren en vergroten van hun autonomie en levenskwaliteit, alsook het begeleiden van organisaties die zorgen voor een kwaliteitsvolle ondersteuning. Als klantenbeheerder budgetbesteding bij het VAPH kan ook jij jouw steentje bijdragen aan deze belangrijke missie.</div><div></div><div>Samen met je collega’s klantenbeheerders maak je deel uit van de afdeling Dienstverlening Budgethouders en<strong> bijt je je vast in dossiers die het verschil maken voor personen met een handicap</strong>:&nbsp;</div><ul><li>Je wordt een centraal aanspreekpunt voor de klanten. Dit betekent dat je steeds op een klantgerichte en heldere wijze schriftelijk en mondeling communiceert;&nbsp;</li><li>Je analyseert en verwerkt nauwkeurig de binnenkomende (aan)vragen i.v.m. de terbeschikkingstelling en besteding van een persoonsvolgend budget;&nbsp;</li><li>Je formuleert op basis van deze (aan)vragen en rekening houdend met de bestaande procedures, regelgeving en budgettaire beperkingen een (voorstel) van beslissing over het dossier;&nbsp;</li><li>Je blijft steeds op de hoogte van wijzigingen in de bestaande procedures, richtlijnen en regelgeving, zodat je klanten optimaal kan helpen;&nbsp;</li><li>Je neemt af en toe deel aan zitdagen in de provinciale kantoren van het VAPH, waarbij je door middel van persoonlijk contact de klant adviseert.</li></ul><div></div><div>We zijn momenteel op zoek naar 2 klantenbeheerders budgetbesteding om het team te versterken.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4545,68 +4417,36 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19098",
+      "link": "/Job/cornerstone-19082",
       "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Agentschap Plantentuin Meise",
+      "validThroughDate": "1759190400",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19098",
+      "identifier": "cornerstone-19082",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Medewerker schoonmaak"
+        "htmlEncoded": "Stafmedewerker personenvervoer over water"
       },
-      "displayTitle": "Medewerker schoonmaak",
+      "displayTitle": "Stafmedewerker personenvervoer over water",
       "isProtected": false,
       "description": {
-        "raw": "<p>Word jij ons onzichtbare visitekaartje? In onze groene oase met 18.000 plantensoorten en 200.000 bezoekers per jaar zorg jij dat alles straalt.</p><p> Je houdt publieke ruimtes, sanitair en personeelsruimtes tiptop in orde, vult voorraden aan en signaleert problemen. Je werkt volgens een vast schema, maar springt flexibel bij indien nodig. </p><p>Zelfstandig én in een hecht team draag je bij aan een gastvrije omgeving. Heb jij oog voor detail en een hart voor netheid? Kom dan onze natuur laten schitteren – elke dag opnieuw!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Word jij ons onzichtbare visitekaartje? In onze groene oase met 18.000 plantensoorten en 200.000 bezoekers per jaar zorg jij dat alles straalt.</p><p> Je houdt publieke ruimtes, sanitair en personeelsruimtes tiptop in orde, vult voorraden aan en signaleert problemen. Je werkt volgens een vast schema, maar springt flexibel bij indien nodig. </p><p>Zelfstandig én in een hecht team draag je bij aan een gastvrije omgeving. Heb jij oog voor detail en een hart voor netheid? Kom dan onze natuur laten schitteren – elke dag opnieuw!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+        "raw": "Stel\nje voor: jij helpt mee bepalen hoe voetgangers en fietsers zich in Vlaanderen\nvlot en duurzaam over het water kunnen verplaatsen. Je bent de motor achter een\nbetrouwbaar, toegankelijk en groen vervoersaanbod dat vandaag het verschil\nmaakt, en morgen nog belangrijker wordt.<br>Als stafmedewerker\npersonenvervoer over water bij het Agentschap Maritieme\nDienstverlening en Kust (MDK) krijg je de kans om je analytisch inzicht en je\norganisatietalent te combineren met maatschappelijk relevante impact. Je\nverdiept je in de noden van reizigers, lokale besturen en partners, en vertaalt\ndie naar een duidelijke visie en concrete verbeteringen. Je volgt de dagelijkse\nwerking van de veerdiensten mee op, ziet kansen om de dienstverlening uit te\nbreiden en helpt tegelijk bij de vergroening van de vloot.<br>Je\nwerkt niet alleen vanuit beleid, maar ook dicht bij de praktijk: je bent\naanspreekpunt voor stakeholders, begeleidt aanbestedingen en contracten, en je\nzorgt ervoor dat continuïteit en kwaliteit altijd vooropstaan. Samen met een\nklein, gedreven team binnen de Staf bouw je bruggen tussen beleid, exploitanten\nen reizigers.<br>Kortom:\ndit is de job voor wie mobiliteit, duurzaamheid en innovatie wil combineren en\nimpact wil maken op hoe Vlaanderen zich verplaatst.<br>Bij\nMDK krijg je daarvoor niet alleen verantwoordelijkheid en autonomie, maar ook\nde kans om te groeien, samen te werken met gepassioneerde collega’s en écht\nverschil te maken in de mobiliteit van morgen.<br>Klaar om Vlaanderen in beweging te zetten – over water?",
+        "htmlEncoded": "Stel\nje voor: jij helpt mee bepalen hoe voetgangers en fietsers zich in Vlaanderen\nvlot en duurzaam over het water kunnen verplaatsen. Je bent de motor achter een\nbetrouwbaar, toegankelijk en groen vervoersaanbod dat vandaag het verschil\nmaakt, en morgen nog belangrijker wordt.<br>Als stafmedewerker\npersonenvervoer over water bij het Agentschap Maritieme\nDienstverlening en Kust (MDK) krijg je de kans om je analytisch inzicht en je\norganisatietalent te combineren met maatschappelijk relevante impact. Je\nverdiept je in de noden van reizigers, lokale besturen en partners, en vertaalt\ndie naar een duidelijke visie en concrete verbeteringen. Je volgt de dagelijkse\nwerking van de veerdiensten mee op, ziet kansen om de dienstverlening uit te\nbreiden en helpt tegelijk bij de vergroening van de vloot.<br>Je\nwerkt niet alleen vanuit beleid, maar ook dicht bij de praktijk: je bent\naanspreekpunt voor stakeholders, begeleidt aanbestedingen en contracten, en je\nzorgt ervoor dat continuïteit en kwaliteit altijd vooropstaan. Samen met een\nklein, gedreven team binnen de Staf bouw je bruggen tussen beleid, exploitanten\nen reizigers.<br>Kortom:\ndit is de job voor wie mobiliteit, duurzaamheid en innovatie wil combineren en\nimpact wil maken op hoe Vlaanderen zich verplaatst.<br>Bij\nMDK krijg je daarvoor niet alleen verantwoordelijkheid en autonomie, maar ook\nde kans om te groeien, samen te werken met gepassioneerde collega’s en écht\nverschil te maken in de mobiliteit van morgen.<br>Klaar om Vlaanderen in beweging te zetten – over water?"
       },
       "locations": [
         {
           "address": {
-            "city": "Meise"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19078",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19078",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Back-up chef catering"
-      },
-      "displayTitle": "Back-up chef catering",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een geboren organisator met een passie voor koken en leidinggeven? Heb je bovendien interesse in verfijnde gastronomie en ben je klaar om een sleutelrol op te nemen in een dynamische grootkeuken? Dan zijn wij op zoek naar jou als onze nieuwe back-up chef catering.</p> <p>Als back-up chef catering werk je in een moderne grootkeuken, samen met een team van tien gemotiveerde medewerkers. Je ondersteunt de chef catering en neemt diens taken over bij afwezigheid. Je bent dus niet alleen een teamspeler, maar ook een betrouwbare rechterhand met leiderschapskwaliteiten. In samenspraak met de chef geef je leiding, verdeel je de taken en motiveer je het team om steeds opnieuw een kwalitatieve, klantgerichte service neer te zetten.</p> <p>Dagelijks zorg je, samen met je collega’s, voor een gevarieerd aanbod van warme en koude maaltijden in het bedrijfsrestaurant, belegde broodjes, catering voor evenementen en het beheer van de koffiebar. Daarnaast word je ook actief ingeschakeld in onze VIP- en directiekeuken, waar een verfijndere culinaire aanpak wordt gevraagd. Ervaring in, of minstens een uitgesproken interesse voor, de meer verfijnde keuken is dus een absolute troef.</p> <p>Je combineert culinaire passie met organisatorisch talent en een sterke verantwoordelijkheidszin. Je neemt vlot het roer over bij afwezigheid van de chef en weet het team te motiveren en aan te sturen. Je hebt oog voor detail en werkt volgens de hoogste normen op vlak van hygiëne en voedselveiligheid. Je bent klantgericht en streeft mee naar een kwalitatieve beleving, ook bij high-end service in de VIP-keuken.</p> <p>De Vlaamse overheid biedt je een gezonde werk-privébalans. Je start om 7 uur of 8 uur en eindigt om 15 uur of 16 uur, afhankelijk van de planning die wekelijks in samenspraak met de chef wordt opgemaakt. Af en toe vragen we flexibiliteit voor events. Extra uren worden correct geregistreerd als overuren, die je kan opnemen als verlof.</p> <p>Ben je klaar om jouw leiderschap en culinaire finesse in te zetten voor een gevarieerd publiek en een veeleisende VIP-keuken? Solliciteer dan nu en word binnenkort de onmisbare schakel in ons gedreven cateringteam waar we op zoek naar zijn.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij een geboren organisator met een passie voor koken en leidinggeven? Heb je bovendien interesse in verfijnde gastronomie en ben je klaar om een sleutelrol op te nemen in een dynamische grootkeuken? Dan zijn wij op zoek naar jou als onze nieuwe back-up chef catering.</p> <p>Als back-up chef catering werk je in een moderne grootkeuken, samen met een team van tien gemotiveerde medewerkers. Je ondersteunt de chef catering en neemt diens taken over bij afwezigheid. Je bent dus niet alleen een teamspeler, maar ook een betrouwbare rechterhand met leiderschapskwaliteiten. In samenspraak met de chef geef je leiding, verdeel je de taken en motiveer je het team om steeds opnieuw een kwalitatieve, klantgerichte service neer te zetten.</p> <p>Dagelijks zorg je, samen met je collega’s, voor een gevarieerd aanbod van warme en koude maaltijden in het bedrijfsrestaurant, belegde broodjes, catering voor evenementen en het beheer van de koffiebar. Daarnaast word je ook actief ingeschakeld in onze VIP- en directiekeuken, waar een verfijndere culinaire aanpak wordt gevraagd. Ervaring in, of minstens een uitgesproken interesse voor, de meer verfijnde keuken is dus een absolute troef.</p> <p>Je combineert culinaire passie met organisatorisch talent en een sterke verantwoordelijkheidszin. Je neemt vlot het roer over bij afwezigheid van de chef en weet het team te motiveren en aan te sturen. Je hebt oog voor detail en werkt volgens de hoogste normen op vlak van hygiëne en voedselveiligheid. Je bent klantgericht en streeft mee naar een kwalitatieve beleving, ook bij high-end service in de VIP-keuken.</p> <p>De Vlaamse overheid biedt je een gezonde werk-privébalans. Je start om 7 uur of 8 uur en eindigt om 15 uur of 16 uur, afhankelijk van de planning die wekelijks in samenspraak met de chef wordt opgemaakt. Af en toe vragen we flexibiliteit voor events. Extra uren worden correct geregistreerd als overuren, die je kan opnemen als verlof.</p> <p>Ben je klaar om jouw leiderschap en culinaire finesse in te zetten voor een gevarieerd publiek en een veeleisende VIP-keuken? Solliciteer dan nu en word binnenkort de onmisbare schakel in ons gedreven cateringteam waar we op zoek naar zijn.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
+            "city": "Brussel"
           }
         }
       ]
@@ -4679,38 +4519,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19059",
-      "internal": true,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Departement Zorg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19059",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Verpleegkundige IZV"
-      },
-      "displayTitle": "Verpleegkundige IZV",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Heb je affiniteit met infectieziektes en/of vaccinatie en wil je je graag verder verdiepen in deze thema’s? Ligt het beschermen van de volksgezondheid je nauw aan het hart? Ben je een teamspeler, hou je van onverwachte uitdagingen en het ontrafelen van een ongewone ziektegeschiedenis zo nu en dan? Aarzel dan zeker niet om te solliciteren!<br> <br> Als verpleegkundige infectieziektebestrijding en vaccinatie sta je op de eerste lijn in de aanpak van meldingen van infectieziekten. Je neemt contact op met bijvoorbeeld behandelende artsen en artsen van het CLB of arbeidsgeneeskunde. Je staat deze artsen en de patiënt of zijn omgeving bij met advies om verdere uitbreiding van een infectieziekte te voorkomen. Dit gebeurt telefonisch en per mail of ter plaatse, bijvoorbeeld bij een contactonderzoek rond een tuberculosepatiënt. Daarbij zorg je voor een goede registratie van alle gegevens. Dit laatste laat op langere termijn toe om waar nodig bij te sturen in het beleid rond infectieziekten en in het vaccinatieprogramma.<br> <br> Naast het afhandelen van de dagelijkse meldingen, word je ook ingezet in thematische projecten of werkgroepen of de ontwikkeling van werkinstrumenten die het meldingsproces efficiënter maken. Voorbeelden hiervan zijn het uitwerken van richtlijnen of het uitdiepen van de aanpak van specifieke infectieziekten zoals seksueel overdraagbare aandoeningen of scabiës, het evalueren en verder uitbouwen van het infectiedossiersysteem of uitwisselingsplatform met huisartsen, laboratoria en andere belanghebbenden in het meldingsproces.<br> <br> Je krijgt ook mogelijkheden tot vorming om je taken professioneel te kunnen uitvoeren en we verwachten dat je die met beide handen grijpt.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Heb je affiniteit met infectieziektes en/of vaccinatie en wil je je graag verder verdiepen in deze thema’s? Ligt het beschermen van de volksgezondheid je nauw aan het hart? Ben je een teamspeler, hou je van onverwachte uitdagingen en het ontrafelen van een ongewone ziektegeschiedenis zo nu en dan? Aarzel dan zeker niet om te solliciteren!<br> <br> Als verpleegkundige infectieziektebestrijding en vaccinatie sta je op de eerste lijn in de aanpak van meldingen van infectieziekten. Je neemt contact op met bijvoorbeeld behandelende artsen en artsen van het CLB of arbeidsgeneeskunde. Je staat deze artsen en de patiënt of zijn omgeving bij met advies om verdere uitbreiding van een infectieziekte te voorkomen. Dit gebeurt telefonisch en per mail of ter plaatse, bijvoorbeeld bij een contactonderzoek rond een tuberculosepatiënt. Daarbij zorg je voor een goede registratie van alle gegevens. Dit laatste laat op langere termijn toe om waar nodig bij te sturen in het beleid rond infectieziekten en in het vaccinatieprogramma.<br> <br> Naast het afhandelen van de dagelijkse meldingen, word je ook ingezet in thematische projecten of werkgroepen of de ontwikkeling van werkinstrumenten die het meldingsproces efficiënter maken. Voorbeelden hiervan zijn het uitwerken van richtlijnen of het uitdiepen van de aanpak van specifieke infectieziekten zoals seksueel overdraagbare aandoeningen of scabiës, het evalueren en verder uitbouwen van het infectiedossiersysteem of uitwisselingsplatform met huisartsen, laboratoria en andere belanghebbenden in het meldingsproces.<br> <br> Je krijgt ook mogelijkheden tot vorming om je taken professioneel te kunnen uitvoeren en we verwachten dat je die met beide handen grijpt.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19058",
       "internal": false,
       "validThroughDate": "1757808000",
@@ -4733,6 +4541,41 @@
       "description": {
         "raw": "<p><span>Voor de functie van dossierbehandelaar planning en kwaliteit ouderenzorg zoeken we een nauwkeurige en enthousiaste collega die zich wil inzetten voor een kwaliteitsvolle woonzorg.<br> <br> In deze rol ben je verantwoordelijk voor de administratieve alsook inhoudelijke opvolging van dossiers van voorzieningen binnen de ouderenzorg. Je zorgt voor een correcte en tijdige verwerking van onder meer aanvragen voor vergunningen en erkenningen, en volgt deze dossiers op doorheen alle procedurestappen. Daarbij werk je volgens de geldende regelgeving en streef je naar juridische correctheid en inhoudelijke coherentie. Je analyseert binnenkomende communicatie, controleert documenten, verwerkt gegevens en formuleert adviezen en voorstellen van beslissing.<br> <br> Je staat in voor een klantgerichte informatie-uitwisseling met voorzieningen en collega’s. Daarnaast draag je ook bij aan een efficiënte samenwerking binnen het team. Naast je kerntaken ben je bereid om, binnen de mogelijkheden van je functie, bijkomende opdrachten op te nemen die de werking van het team bevorderen. Teamoverschrijdende samenwerking en collegiale kennisdeling zijn hierbij essentieel.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p><p><span><br><span></span></span></p>",
         "htmlEncoded": "<p><span>Voor de functie van dossierbehandelaar planning en kwaliteit ouderenzorg zoeken we een nauwkeurige en enthousiaste collega die zich wil inzetten voor een kwaliteitsvolle woonzorg.<br> <br> In deze rol ben je verantwoordelijk voor de administratieve alsook inhoudelijke opvolging van dossiers van voorzieningen binnen de ouderenzorg. Je zorgt voor een correcte en tijdige verwerking van onder meer aanvragen voor vergunningen en erkenningen, en volgt deze dossiers op doorheen alle procedurestappen. Daarbij werk je volgens de geldende regelgeving en streef je naar juridische correctheid en inhoudelijke coherentie. Je analyseert binnenkomende communicatie, controleert documenten, verwerkt gegevens en formuleert adviezen en voorstellen van beslissing.<br> <br> Je staat in voor een klantgerichte informatie-uitwisseling met voorzieningen en collega’s. Daarnaast draag je ook bij aan een efficiënte samenwerking binnen het team. Naast je kerntaken ben je bereid om, binnen de mogelijkheden van je functie, bijkomende opdrachten op te nemen die de werking van het team bevorderen. Teamoverschrijdende samenwerking en collegiale kennisdeling zijn hierbij essentieel.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p><p><span><br><span></span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19056",
+      "internal": false,
+      "validThroughDate": "1758844800",
+      "hiringOrganization": "Vlaams Agentschap voor Personen met een Handicap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19056",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Consulent hulpmiddelen"
+      },
+      "displayTitle": "Consulent hulpmiddelen",
+      "isProtected": false,
+      "description": {
+        "raw": "<div><strong>Heb jij een uitgebreide kennis over technische hulpmiddelen en aanpassingen voor personen met een handicap?</strong> Wil je jouw kennis en expertise inzetten op het gebied van ‘<strong>motoriek</strong>’? Ben je geïnteresseerd om aan de slag te gaan binnen het thema ‘<strong>mobiliteit</strong>’ in zijn diverse vormen en wil je je collega’s ondersteunen bij andere thema’s op het gebied van motoriek, zoals bijvoorbeeld aangepast meubilair? Dan is dit jouw kans om het Kenniscentrum hulpmiddelen (KOC) te versterken!<br><br></div><div></div><div>Je maakt deel uit van een gedreven team van 16 professionals die zich, samen met de andere VAPH’ers, inzetten voor het verbeteren van de levenskwaliteit van mensen met een handicap. In deze rol krijg je de kans om specifieke beleidsthema’s verder te ontwikkelen, in de eerste plaats rond ‘motoriek’.&nbsp; &nbsp;</div><div>&nbsp; &nbsp; &nbsp;</div><div>Het Kenniscentrum is gevestigd in het hoofdkantoor te Brussel. Ook bezoek je af en toe de provinciale kantoren van het VAPH in het kader van interne samenwerking. Daarnaast heb je vaak de mogelijkheid om thuis te werken.<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div><strong>Heb jij een uitgebreide kennis over technische hulpmiddelen en aanpassingen voor personen met een handicap?</strong> Wil je jouw kennis en expertise inzetten op het gebied van ‘<strong>motoriek</strong>’? Ben je geïnteresseerd om aan de slag te gaan binnen het thema ‘<strong>mobiliteit</strong>’ in zijn diverse vormen en wil je je collega’s ondersteunen bij andere thema’s op het gebied van motoriek, zoals bijvoorbeeld aangepast meubilair? Dan is dit jouw kans om het Kenniscentrum hulpmiddelen (KOC) te versterken!<br><br></div><div></div><div>Je maakt deel uit van een gedreven team van 16 professionals die zich, samen met de andere VAPH’ers, inzetten voor het verbeteren van de levenskwaliteit van mensen met een handicap. In deze rol krijg je de kans om specifieke beleidsthema’s verder te ontwikkelen, in de eerste plaats rond ‘motoriek’.&nbsp; &nbsp;</div><div>&nbsp; &nbsp; &nbsp;</div><div>Het Kenniscentrum is gevestigd in het hoofdkantoor te Brussel. Ook bezoek je af en toe de provinciale kantoren van het VAPH in het kader van interne samenwerking. Daarnaast heb je vaak de mogelijkheid om thuis te werken.<br><br></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
       },
       "locations": [
         {
@@ -4913,41 +4756,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19032",
-      "internal": true,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19032",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Adjunct van de gedelegeerd bestuurder"
-      },
-      "displayTitle": "Adjunct van de gedelegeerd bestuurder",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als adjunct van de gedelegeerd bestuurder werk je nauw samen met de gedelegeerd bestuurder en sta je hem bij in het uitvoeren van strategische en beleidsmatige opdrachten. Via deze samenwerking lever je een waardevolle bijdrage aan de koers en positionering van de organisatie.&nbsp;<br><br> Je volgt nauwgezet de politieke en maatschappelijke actualiteit met bijzondere aandacht voor wat zich afspeelt in het parlement, de publieke opinie en de bredere beleidscontext. Deze signalen vertaal je naar onderbouwde inzichten die richtinggevend zijn voor de gedelegeerd bestuurder en de organisatie. Tegelijkertijd draag je actief bij aan de externe profilering van VDAB door onze beleidsvisie helder en doelgericht te communiceren naar kabinetten en andere sleutelactoren. Je onderhoudt en versterkt het politiek-bestuurlijke netwerk en neemt initiatief in beleidsmatige afstemming en strategische onderhandelingen.&nbsp;<br><br> Je functie beweegt mee met de politiek en vereist een hoge mate van wendbaarheid, alertheid en discretie. Je bent beschikbaar bij dringende beleidsvragen of wanneer snel schakelen noodzakelijk is.&nbsp;</span><span>Je werkt zelfstandig, met respect voor deontologie en weet wanneer je moet schakelen, verbinden of bijsturen.</span></p><p><span> Wanneer de situatie daarom vraagt neem je het voortouw in het samenstellen en aansturen van tijdelijke, multidisciplinaire ‘fast action teams’, met het oog op responsiviteit en oplossingsgericht handelen. Hoewel je geen formeel leidinggevende rol opneemt, beschik je over het vermogen om richting te geven en te mobiliseren.&nbsp;<br><br> Zet jouw strategisch inzicht en politiek aanvoelen in om de gedelegeerd bestuurder te versterken in zijn opdracht — met discretie, flexibiliteit en een sterk deontologisch kompas.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Als adjunct van de gedelegeerd bestuurder werk je nauw samen met de gedelegeerd bestuurder en sta je hem bij in het uitvoeren van strategische en beleidsmatige opdrachten. Via deze samenwerking lever je een waardevolle bijdrage aan de koers en positionering van de organisatie.&nbsp;<br><br> Je volgt nauwgezet de politieke en maatschappelijke actualiteit met bijzondere aandacht voor wat zich afspeelt in het parlement, de publieke opinie en de bredere beleidscontext. Deze signalen vertaal je naar onderbouwde inzichten die richtinggevend zijn voor de gedelegeerd bestuurder en de organisatie. Tegelijkertijd draag je actief bij aan de externe profilering van VDAB door onze beleidsvisie helder en doelgericht te communiceren naar kabinetten en andere sleutelactoren. Je onderhoudt en versterkt het politiek-bestuurlijke netwerk en neemt initiatief in beleidsmatige afstemming en strategische onderhandelingen.&nbsp;<br><br> Je functie beweegt mee met de politiek en vereist een hoge mate van wendbaarheid, alertheid en discretie. Je bent beschikbaar bij dringende beleidsvragen of wanneer snel schakelen noodzakelijk is.&nbsp;</span><span>Je werkt zelfstandig, met respect voor deontologie en weet wanneer je moet schakelen, verbinden of bijsturen.</span></p><p><span> Wanneer de situatie daarom vraagt neem je het voortouw in het samenstellen en aansturen van tijdelijke, multidisciplinaire ‘fast action teams’, met het oog op responsiviteit en oplossingsgericht handelen. Hoewel je geen formeel leidinggevende rol opneemt, beschik je over het vermogen om richting te geven en te mobiliseren.&nbsp;<br><br> Zet jouw strategisch inzicht en politiek aanvoelen in om de gedelegeerd bestuurder te versterken in zijn opdracht — met discretie, flexibiliteit en een sterk deontologisch kompas.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19030",
       "internal": false,
       "validThroughDate": "1757635200",
@@ -5095,36 +4903,36 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19024",
-      "internal": false,
-      "validThroughDate": "1757203200",
+      "link": "/Job/cornerstone-19026",
+      "internal": true,
+      "validThroughDate": "1758758400",
       "hiringOrganization": "Departement Cultuur, Jeugd en Media",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19024",
+      "identifier": "cornerstone-19026",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Beleidsmedewerker internationaal beleid"
+        "htmlEncoded": "Teamleader bewaking in het Kasteel van Gaasbeek"
       },
-      "displayTitle": "Beleidsmedewerker internationaal beleid",
+      "displayTitle": "Teamleader bewaking in het Kasteel van Gaasbeek",
       "isProtected": false,
       "description": {
-        "raw": "<p>Ben jij geboeid door <strong>internationale samenwerking </strong>en wil je bijdragen aan het <strong>cultuurbeleid van morgen</strong>? Schrikt het jou niet af om <strong>standpunten </strong>in te nemen, bruggen te bouwen en zelfstandig <strong>projecten </strong>op te zetten? Dan ben jij misschien wel de beleidsmedewerker internationaal beleid die wij zoeken!<br><br>Het Departement Cultuur, Jeugd en Media zoekt een gedreven medewerker die mee vorm wil geven aan het internationale (cultuur)beleid. Je krijgt de kans om je tanden te zetten in dossiers op het <strong>snijvlak van beleid, diplomatie en cultuur</strong>. Geen dag is dezelfde: je schakelt moeiteloos tussen overleg met internationale partners, het voorbereiden van zendingen voor de minister en het verwoorden van een Vlaams standpunt in Europese of multilaterale context.<br><br>Je werkt op twee fronten: enerzijds coördineer je het internationaal cultuurbeleid binnen het Departement Cultuur, Jeugd en Media. Anderzijds stem je dit beleid af binnen het volledige beleidsdomein Cultuur, Jeugd, Sport en Media. Daarbij werk je nauw samen met partners in binnen- en buitenland – van culturele instellingen en overheden tot organisaties als de Raad van Europa en UNESCO. Je bouwt duurzame relaties uit en zet internationale engagementen om in concrete acties.</p><p>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je volgt internationale ontwikkelingen op de voet en vertaalt deze naar het Vlaamse cultuurbeleid.</li><li>Je verzamelt input voor Vlaamse standpuntbepaling en vertegenwoordigt Vlaanderen in bilaterale en multilaterale overlegfora.</li><li>Je adviseert minister, kabinet, administratie en externe partners met inhoudelijk-strategisch inzicht.</li><li>Je werkt mee aan diverse projecten, van subsidiedossiers tot grote culturele initiatieven zoals de kandidatuur voor culturele hoofdstad 2030.</li><li>Je draagt bij aan internationale rapporteringen en de implementatie van Europese en internationale besluitvorming.</li><li>Je onderzoekt de mogelijkheden die internationale beleidslijnen of subsidieprogramma’s bieden voor het departement en de sectoren waar we voor werken en werkt eventuele projecten uit.</li></ul><strong>In deze functie communiceer je regelmatig in het Engels en Frans</strong>, zowel mondeling als schriftelijk. Een goede beheersing van deze talen is dus essentieel.<br><br>Je maakt deel uit van een gedreven team van 11 collega’s, elk met hun eigen expertise en focus. Samen werken jullie aan een sterke internationale verankering van het Vlaamse cultuurbeleid.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>",
-        "htmlEncoded": "<p>Ben jij geboeid door <strong>internationale samenwerking </strong>en wil je bijdragen aan het <strong>cultuurbeleid van morgen</strong>? Schrikt het jou niet af om <strong>standpunten </strong>in te nemen, bruggen te bouwen en zelfstandig <strong>projecten </strong>op te zetten? Dan ben jij misschien wel de beleidsmedewerker internationaal beleid die wij zoeken!<br><br>Het Departement Cultuur, Jeugd en Media zoekt een gedreven medewerker die mee vorm wil geven aan het internationale (cultuur)beleid. Je krijgt de kans om je tanden te zetten in dossiers op het <strong>snijvlak van beleid, diplomatie en cultuur</strong>. Geen dag is dezelfde: je schakelt moeiteloos tussen overleg met internationale partners, het voorbereiden van zendingen voor de minister en het verwoorden van een Vlaams standpunt in Europese of multilaterale context.<br><br>Je werkt op twee fronten: enerzijds coördineer je het internationaal cultuurbeleid binnen het Departement Cultuur, Jeugd en Media. Anderzijds stem je dit beleid af binnen het volledige beleidsdomein Cultuur, Jeugd, Sport en Media. Daarbij werk je nauw samen met partners in binnen- en buitenland – van culturele instellingen en overheden tot organisaties als de Raad van Europa en UNESCO. Je bouwt duurzame relaties uit en zet internationale engagementen om in concrete acties.</p><p>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je volgt internationale ontwikkelingen op de voet en vertaalt deze naar het Vlaamse cultuurbeleid.</li><li>Je verzamelt input voor Vlaamse standpuntbepaling en vertegenwoordigt Vlaanderen in bilaterale en multilaterale overlegfora.</li><li>Je adviseert minister, kabinet, administratie en externe partners met inhoudelijk-strategisch inzicht.</li><li>Je werkt mee aan diverse projecten, van subsidiedossiers tot grote culturele initiatieven zoals de kandidatuur voor culturele hoofdstad 2030.</li><li>Je draagt bij aan internationale rapporteringen en de implementatie van Europese en internationale besluitvorming.</li><li>Je onderzoekt de mogelijkheden die internationale beleidslijnen of subsidieprogramma’s bieden voor het departement en de sectoren waar we voor werken en werkt eventuele projecten uit.</li></ul><strong>In deze functie communiceer je regelmatig in het Engels en Frans</strong>, zowel mondeling als schriftelijk. Een goede beheersing van deze talen is dus essentieel.<br><br>Je maakt deel uit van een gedreven team van 11 collega’s, elk met hun eigen expertise en focus. Samen werken jullie aan een sterke internationale verankering van het Vlaamse cultuurbeleid.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>"
+        "raw": "<p>Heb jij oog voor <strong>veiligheid</strong>, <strong>organisatie</strong> en <strong>menselijk leiderschap</strong>? Wil je een team op sleeptouw nemen en tegelijk bijdragen aan de bescherming van gevarieerd cultureel erfgoed? Dan is deze functie misschien wel iets voor jou!<br><br>Het Kasteel van Gaasbeek is een <strong>unieke plek</strong> met een rijke geschiedenis, gelegen in een uitgestrekt parkdomein ten westen van Brussel. Naast het recent gerestaureerde kasteel omvat de site tal van andere gebouwen, zoals de Brasserie, de historische schuur, de Sint-Gertrudiskapel en het nieuwe Entreegebouw. Als museum in volle ontwikkeling combineren we erfgoedzorg met tentoonstellingen en een hedendaagse publiekswerking.<br><br>Als teamleider bewaking ben je het <strong>aanspreekpunt </strong>voor alles wat met <strong>bewaking en veiligheid</strong> te maken heeft. Je leidt een ploeg van bewakingsagenten, organiseert hun planning en zorgt ervoor dat het kasteeldomein en de collecties optimaal beschermd worden. Je begeleidt je medewerkers, volgt hen op en werkt samen met partners zoals politie, brandweer en externe beveiligingsfirma’s. Tijdens de jaarlijkse sluitingsperiode neem je ook een organiserende rol op in onderhouds- en administratieve taken voor je team.</p><p>Een greep uit je gevarieerd takenpakket:</p><ul><li>Coördineren en aansturen van een team van ca. 6 medewerkers (evt. aangevuld met externe bewakers).</li><li>Opvolgen van veiligheid en toezicht, met bijzondere aandacht voor het calamiteitenplan en noodprocedures.</li><li>Brugfiguur zijn naar externe partners (o.a. G4S, brandweer, politie) en interne teams zoals het onthaal en de vrijwilligers.</li><li>Planningen en werkroosters opmaken en de personeelsinzet optimaal organiseren.</li><li>Nieuwe werkafspraken en procedures uitwerken en actualiseren.</li></ul><p>Je maakt deel uit van de zakelijke cel van het Kasteel van Gaasbeek, waar samenwerking centraal staat. Tijdens de openingsperiode van het Kasteel werk je ook regelmatig in het weekend (minstens twee weekends per maand).<br><br>Ben je klaar om mee de veiligheid van dit unieke kasteeldomein te bewaken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb jij oog voor <strong>veiligheid</strong>, <strong>organisatie</strong> en <strong>menselijk leiderschap</strong>? Wil je een team op sleeptouw nemen en tegelijk bijdragen aan de bescherming van gevarieerd cultureel erfgoed? Dan is deze functie misschien wel iets voor jou!<br><br>Het Kasteel van Gaasbeek is een <strong>unieke plek</strong> met een rijke geschiedenis, gelegen in een uitgestrekt parkdomein ten westen van Brussel. Naast het recent gerestaureerde kasteel omvat de site tal van andere gebouwen, zoals de Brasserie, de historische schuur, de Sint-Gertrudiskapel en het nieuwe Entreegebouw. Als museum in volle ontwikkeling combineren we erfgoedzorg met tentoonstellingen en een hedendaagse publiekswerking.<br><br>Als teamleider bewaking ben je het <strong>aanspreekpunt </strong>voor alles wat met <strong>bewaking en veiligheid</strong> te maken heeft. Je leidt een ploeg van bewakingsagenten, organiseert hun planning en zorgt ervoor dat het kasteeldomein en de collecties optimaal beschermd worden. Je begeleidt je medewerkers, volgt hen op en werkt samen met partners zoals politie, brandweer en externe beveiligingsfirma’s. Tijdens de jaarlijkse sluitingsperiode neem je ook een organiserende rol op in onderhouds- en administratieve taken voor je team.</p><p>Een greep uit je gevarieerd takenpakket:</p><ul><li>Coördineren en aansturen van een team van ca. 6 medewerkers (evt. aangevuld met externe bewakers).</li><li>Opvolgen van veiligheid en toezicht, met bijzondere aandacht voor het calamiteitenplan en noodprocedures.</li><li>Brugfiguur zijn naar externe partners (o.a. G4S, brandweer, politie) en interne teams zoals het onthaal en de vrijwilligers.</li><li>Planningen en werkroosters opmaken en de personeelsinzet optimaal organiseren.</li><li>Nieuwe werkafspraken en procedures uitwerken en actualiseren.</li></ul><p>Je maakt deel uit van de zakelijke cel van het Kasteel van Gaasbeek, waar samenwerking centraal staat. Tijdens de openingsperiode van het Kasteel werk je ook regelmatig in het weekend (minstens twee weekends per maand).<br><br>Ben je klaar om mee de veiligheid van dit unieke kasteeldomein te bewaken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Gaasbeek"
           }
         }
       ]
@@ -5305,6 +5113,111 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18994",
+      "internal": true,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-18994",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke wegeninspectie en patrimonium"
+      },
+      "displayTitle": "Teamverantwoordelijke wegeninspectie en patrimonium",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij klaar voor een\ndynamische en veelzijdige functie waarin je verschillende rollen combineert?\nAls teamverantwoordelijke wegeninspectie en patrimonium speel je een cruciale\nrol in het verbeteren van onze wegeninfrastructuur. Ontdek hieronder jouw belangrijkste\ntaken!</p><p>Als teamverantwoordelijke wegeninspectie neem je de rol op van wegeninspecteur-controleur\n(gezagsfunctie). In deze rol ben je verantwoordelijk voor het opleggen en\nopvolgen van administratieve boetes in het kader van “het decreet bijzonder\nwegtransport” op basis van een analyse van de processen-verbaal van de politie\nen de Vlaamse Belastingsdienst.</p><p>Daarnaast bereid je\nhoorzittingen in bezwaar voor, zit je deze voor en stel je gemotiveerde\nbeslissingen op na de hoorzittingen. Ook stel je memories op voor de Raad van\nState in geval van administratief beroep en stuur je alle werkzaamheden aan die\nte maken hebben met de administratieve voorbereiding en afhandeling van\nbestuurlijke beboetingen.</p><p>Naast dit juridische\nluik neem je ook de rol op van teamverantwoordelijke patrimonium. Je\nondersteunt de teams Patrimonium van de territoriale wegenafdelingen (TAW) bij\nde opmaak van adviezen en vergunningen en bij de dossiers voor\ngrondtransacties.</p><p>Daarnaast zorg je voor\nuniformiteit door mee te werken aan de totstandkoming en het up-to-date houden\nvan procedures, standaarddocumenten en dienstorders. Je communiceert hierover\nen volgt de correcte toepassing hiervan op. Je bent eveneens de schakel tussen\nde TAW en het beleid én werkt mee in diverse overlegorganen binnen het\nwerkgebied van patrimonium.</p><p>Tot\nslot stuur je als teamverantwoordelijke ook een klein team van\nadministratieve medewerkers aan. Je staat in voor de opvolging van de werking,\nresultaten en werklast van je team. Daarnaast waak je ook over het welzijn van\nje teamleden en neem je de rol op van evaluator.</p><p>Je hebt vanuit jouw job\nniet alleen contact met interne AWV-collega’s vanuit verschillende afdelingen,\nmaar ook met heel wat externe belanghebbenden, zoals bijvoorbeeld collega’s van\nde Vlaamse Belastingsdienst en Departement Mobiliteit en Openbare Werken\n(DMOW), overtreders (en hun advocaten), verschillende politiezones, de\nparketten, enz. Je verzorgt de communicatie met de Inspectie van Financiën en\nlevert input voor dossiers die door het kabinet van de minister behandeld\nworden.</p><p>Kortom, deze functie\nbiedt jou de kans om jouw organisatorische en leidinggevende vaardigheden te\nbenutten en verder te ontwikkelen. Wil jij bijdragen aan een veilige en goed\nfunctionerende wegeninfrastructuur? Solliciteer dan nu en word onze nieuwe teamverantwoordelijke\nwegeninspectie en patrimonium!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij klaar voor een\ndynamische en veelzijdige functie waarin je verschillende rollen combineert?\nAls teamverantwoordelijke wegeninspectie en patrimonium speel je een cruciale\nrol in het verbeteren van onze wegeninfrastructuur. Ontdek hieronder jouw belangrijkste\ntaken!</p><p>Als teamverantwoordelijke wegeninspectie neem je de rol op van wegeninspecteur-controleur\n(gezagsfunctie). In deze rol ben je verantwoordelijk voor het opleggen en\nopvolgen van administratieve boetes in het kader van “het decreet bijzonder\nwegtransport” op basis van een analyse van de processen-verbaal van de politie\nen de Vlaamse Belastingsdienst.</p><p>Daarnaast bereid je\nhoorzittingen in bezwaar voor, zit je deze voor en stel je gemotiveerde\nbeslissingen op na de hoorzittingen. Ook stel je memories op voor de Raad van\nState in geval van administratief beroep en stuur je alle werkzaamheden aan die\nte maken hebben met de administratieve voorbereiding en afhandeling van\nbestuurlijke beboetingen.</p><p>Naast dit juridische\nluik neem je ook de rol op van teamverantwoordelijke patrimonium. Je\nondersteunt de teams Patrimonium van de territoriale wegenafdelingen (TAW) bij\nde opmaak van adviezen en vergunningen en bij de dossiers voor\ngrondtransacties.</p><p>Daarnaast zorg je voor\nuniformiteit door mee te werken aan de totstandkoming en het up-to-date houden\nvan procedures, standaarddocumenten en dienstorders. Je communiceert hierover\nen volgt de correcte toepassing hiervan op. Je bent eveneens de schakel tussen\nde TAW en het beleid én werkt mee in diverse overlegorganen binnen het\nwerkgebied van patrimonium.</p><p>Tot\nslot stuur je als teamverantwoordelijke ook een klein team van\nadministratieve medewerkers aan. Je staat in voor de opvolging van de werking,\nresultaten en werklast van je team. Daarnaast waak je ook over het welzijn van\nje teamleden en neem je de rol op van evaluator.</p><p>Je hebt vanuit jouw job\nniet alleen contact met interne AWV-collega’s vanuit verschillende afdelingen,\nmaar ook met heel wat externe belanghebbenden, zoals bijvoorbeeld collega’s van\nde Vlaamse Belastingsdienst en Departement Mobiliteit en Openbare Werken\n(DMOW), overtreders (en hun advocaten), verschillende politiezones, de\nparketten, enz. Je verzorgt de communicatie met de Inspectie van Financiën en\nlevert input voor dossiers die door het kabinet van de minister behandeld\nworden.</p><p>Kortom, deze functie\nbiedt jou de kans om jouw organisatorische en leidinggevende vaardigheden te\nbenutten en verder te ontwikkelen. Wil jij bijdragen aan een veilige en goed\nfunctionerende wegeninfrastructuur? Solliciteer dan nu en word onze nieuwe teamverantwoordelijke\nwegeninspectie en patrimonium!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18992",
+      "internal": false,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18992",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator ICT operations"
+      },
+      "displayTitle": "Coördinator ICT operations",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een geboren people\nmanager met een passie voor technologie en sterke organisatorische skills? Wil\nje mee vorm geven aan de digitale toekomst van een organisatie die inzet op\nduurzaamheid, innovatie en maatschappelijke meerwaarde? Dan is deze functie\niets voor jou. De Vlaamse Waterweg zoekt een gedreven coördinator ICT operations\ndie de ICT-dienstverlening naar een hoger niveau tilt. In deze sleutelrol\ncombineer je strategisch inzicht met operationele daadkracht en zorg je ervoor\ndat onze interne klanten kunnen rekenen op een betrouwbare, efficiënte en\nklantgerichte ICT-ondersteuning.</p><p>Als <strong>coördinator\nICT operations</strong> stuur je een dynamisch team van ongeveer 30 ICT-professionals\naan, bestaande uit zowel interne medewerkers als externe consultants. Het team\nis opgedeeld in een aantal subteams met elk een eigen aanspreekpunt, wat zorgt\nvoor een duidelijke structuur en efficiënte samenwerking. Je staat er bovendien\nniet alleen voor, je wordt ondersteund door een rechterhand die jou actief\nbijstaat in de dagelijkse werking en coördinatie. Deze persoon fungeert als een\nwaardevolle sparringpartner en versterkt jouw slagkracht, zonder zelf een\nleidinggevende rol op te nemen binnen het team.</p><p>Je bent\nverantwoordelijk voor de <strong>dagelijkse aansturing en organisatie</strong> van de\nICT-dienstverlening. Je stelt prioriteiten, bewaakt de voortgang van projecten\nen zorgt voor een optimale inzet van mensen en middelen. Je motiveert en\nbegeleidt medewerkers, voert evaluatie- en functioneringsgesprekken en\nstimuleert hun professionele groei. Je creëert een positieve werksfeer en waakt\nover een veilige en gezonde werkomgeving.</p><p>Daarnaast ontwikkel en\nbewaak je <strong>kwaliteitsnormen en werkprocedures</strong> en neem je initiatief om de\ndienstverlening continu te verbeteren. Je leidt het wijzigingsbeheer ICT\n(Change Advisory Board) en zorgt ervoor dat de ICT-dienstverlening steeds\nafgestemd blijft op de noden van interne en externe klanten.</p><p>Je levert waardevolle\ninput voor het ICT-beleid en neemt actief deel aan beleidsvoorbereidende\nwerkgroepen. Je volgt technologische en organisatorische trends op de voet en\nvertaalt deze naar concrete voorstellen die bijdragen aan de strategische koers\nvan de organisatie.</p><p>Ook het <strong>beheer van\nmiddelen</strong> behoort tot jouw verantwoordelijkheid. Je maakt budgettaire\ninschattingen, voert kosten-batenanalyses uit en zorgt voor een doelgerichte\ninzet van het beschikbare budget.</p><p>Tot slot ben je een\nverbindende schakel binnen de organisatie. Je onderhoudt vlotte communicatie\nmet collega’s, leidinggevenden en externe partners, vertegenwoordigt de dienst\nop overlegfora en bouwt een professioneel netwerk uit. Je zorgt voor een goede\ninformatiedoorstroming binnen en buiten het team.</p><p><strong>Heb jij de visie,\nhet leiderschap en de technische bagage om deze uitdaging aan te gaan? Dan\nkijken we uit naar jouw kandidatuur.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een geboren people\nmanager met een passie voor technologie en sterke organisatorische skills? Wil\nje mee vorm geven aan de digitale toekomst van een organisatie die inzet op\nduurzaamheid, innovatie en maatschappelijke meerwaarde? Dan is deze functie\niets voor jou. De Vlaamse Waterweg zoekt een gedreven coördinator ICT operations\ndie de ICT-dienstverlening naar een hoger niveau tilt. In deze sleutelrol\ncombineer je strategisch inzicht met operationele daadkracht en zorg je ervoor\ndat onze interne klanten kunnen rekenen op een betrouwbare, efficiënte en\nklantgerichte ICT-ondersteuning.</p><p>Als <strong>coördinator\nICT operations</strong> stuur je een dynamisch team van ongeveer 30 ICT-professionals\naan, bestaande uit zowel interne medewerkers als externe consultants. Het team\nis opgedeeld in een aantal subteams met elk een eigen aanspreekpunt, wat zorgt\nvoor een duidelijke structuur en efficiënte samenwerking. Je staat er bovendien\nniet alleen voor, je wordt ondersteund door een rechterhand die jou actief\nbijstaat in de dagelijkse werking en coördinatie. Deze persoon fungeert als een\nwaardevolle sparringpartner en versterkt jouw slagkracht, zonder zelf een\nleidinggevende rol op te nemen binnen het team.</p><p>Je bent\nverantwoordelijk voor de <strong>dagelijkse aansturing en organisatie</strong> van de\nICT-dienstverlening. Je stelt prioriteiten, bewaakt de voortgang van projecten\nen zorgt voor een optimale inzet van mensen en middelen. Je motiveert en\nbegeleidt medewerkers, voert evaluatie- en functioneringsgesprekken en\nstimuleert hun professionele groei. Je creëert een positieve werksfeer en waakt\nover een veilige en gezonde werkomgeving.</p><p>Daarnaast ontwikkel en\nbewaak je <strong>kwaliteitsnormen en werkprocedures</strong> en neem je initiatief om de\ndienstverlening continu te verbeteren. Je leidt het wijzigingsbeheer ICT\n(Change Advisory Board) en zorgt ervoor dat de ICT-dienstverlening steeds\nafgestemd blijft op de noden van interne en externe klanten.</p><p>Je levert waardevolle\ninput voor het ICT-beleid en neemt actief deel aan beleidsvoorbereidende\nwerkgroepen. Je volgt technologische en organisatorische trends op de voet en\nvertaalt deze naar concrete voorstellen die bijdragen aan de strategische koers\nvan de organisatie.</p><p>Ook het <strong>beheer van\nmiddelen</strong> behoort tot jouw verantwoordelijkheid. Je maakt budgettaire\ninschattingen, voert kosten-batenanalyses uit en zorgt voor een doelgerichte\ninzet van het beschikbare budget.</p><p>Tot slot ben je een\nverbindende schakel binnen de organisatie. Je onderhoudt vlotte communicatie\nmet collega’s, leidinggevenden en externe partners, vertegenwoordigt de dienst\nop overlegfora en bouwt een professioneel netwerk uit. Je zorgt voor een goede\ninformatiedoorstroming binnen en buiten het team.</p><p><strong>Heb jij de visie,\nhet leiderschap en de technische bagage om deze uitdaging aan te gaan? Dan\nkijken we uit naar jouw kandidatuur.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18991",
       "internal": false,
       "validThroughDate": "1757980800",
@@ -5370,41 +5283,6 @@
         {
           "address": {
             "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18985",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Audit Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 4,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18985",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Forensisch auditors"
-      },
-      "displayTitle": "Forensisch auditors",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties?</span></p> <p><span>Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</span></p> <p><span>Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</span></p> <p><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.&nbsp;Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></p> <p><span>Je krijgt een intensieve opleiding.</span></p> <p><span>Maak kennis met Audit Vlaanderen:&nbsp;<a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></span></p> <p><span>Vind hieronder meer info over het gezochte profiel en de selectieprocedure.&nbsp;</span><span>Wil je graag meer details over de job van auditor? Lees dan verder via&nbsp;</span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\">deze link</a><span>.</span></p>",
-        "htmlEncoded": "<p><span>Wil jij meewerken aan de ontwikkeling van efficiënte, effectieve, ethische en kwaliteitsvolle organisaties?</span></p> <p><span>Als auditor bij Audit Vlaanderen ben je een sleutelfiguur in het ondersteunen van lokale besturen en de Vlaamse administratie bij het beheersen van financiële, wettelijke en organisatorische risico's. Je bent een onafhankelijke en objectieve partner, waarbij je expertise inzet in verschillende auditvormen zoals organisatie-audits, thema-audits en forensische audits.</span></p> <p><span>Als forensisch auditor bij Audit Vlaanderen ben je vertrouwd met onderzoek naar mogelijke onregelmatigheden binnen een overheidscontext in de ruime zin of ben je gedreven om je hierin te bekwamen. Je staat in voor of wordt betrokken bij het voeren van vooronderzoeken en forensische audits.</span></p> <p><span>Ben jij een kritische analist die heldere syntheses kan maken? Geniet je van diversiteit in professionele contacten en zie je heel Vlaanderen als je werkterrein? Dan biedt deze functie jou de ideale mix van teamwork en zelfstandigheid.&nbsp;Binnen een team kan men op je rekenen, maar het schrikt je ook niet af om vaak zelfstandig te werken.</span></p> <p><span>Je krijgt een intensieve opleiding.</span></p> <p><span>Maak kennis met Audit Vlaanderen:&nbsp;<a href=\"https://www.youtube.com/watch?v=BF31errXVhY\">filmpje Audit Vlaanderen</a></span></p> <p><span>Vind hieronder meer info over het gezochte profiel en de selectieprocedure.&nbsp;</span><span>Wil je graag meer details over de job van auditor? Lees dan verder via&nbsp;</span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kb/2025/jobinhoud%2Bforensisch+auditor%2Bin%2Bdetail_18985.docx\">deze link</a><span>.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5502,38 +5380,6 @@
       "description": {
         "raw": "<p><span>Als kwaliteitsexpert ondersteun en adviseer je de collega’s van Agentschap Overheidspersoneel om hun dienstverlening kwalitatiever te maken. Je staat als procesexpert in voor het verder vormgeven van Agentschap Overheidspersoneel als procesgerichte organisatie, in lijn met de reeds uitgetekende strategie en methodologie.</span></p> <p><span>Je werkt hierbij nauw samen met je collega’s in het team Kwaliteit en met collega’s van andere afdelingen. De nadruk binnen jouw takenpakket zal liggen op ondersteuning bij het efficiënt en kwaliteitsvol in kaart brengen van end-to-end processen.</span></p> <p><span>Je komt terecht in de afdeling Ondersteunende en Overkoepelende Diensten en maakt deel uit van het team Kwaliteit. Team Kwaliteit zet zich in om Agentschap Overheidspersoneel als organisatie continu te verbeteren. Het team creëert meerwaarde door mensen en middelen samen te brengen in het streven naar een optimale verhouding tussen klantentevredenheid, efficiëntie en kwaliteit. Door medewerkers en teams te ondersteunen bij het omzetten van ideeën in concrete acties, draagt team Kwaliteit bij aan de verdere groei van een uitmuntende dienstverlening voor elke klant.</span></p> <p><span>Interesse? Stel je kandidaat!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
         "htmlEncoded": "<p><span>Als kwaliteitsexpert ondersteun en adviseer je de collega’s van Agentschap Overheidspersoneel om hun dienstverlening kwalitatiever te maken. Je staat als procesexpert in voor het verder vormgeven van Agentschap Overheidspersoneel als procesgerichte organisatie, in lijn met de reeds uitgetekende strategie en methodologie.</span></p> <p><span>Je werkt hierbij nauw samen met je collega’s in het team Kwaliteit en met collega’s van andere afdelingen. De nadruk binnen jouw takenpakket zal liggen op ondersteuning bij het efficiënt en kwaliteitsvol in kaart brengen van end-to-end processen.</span></p> <p><span>Je komt terecht in de afdeling Ondersteunende en Overkoepelende Diensten en maakt deel uit van het team Kwaliteit. Team Kwaliteit zet zich in om Agentschap Overheidspersoneel als organisatie continu te verbeteren. Het team creëert meerwaarde door mensen en middelen samen te brengen in het streven naar een optimale verhouding tussen klantentevredenheid, efficiëntie en kwaliteit. Door medewerkers en teams te ondersteunen bij het omzetten van ideeën in concrete acties, draagt team Kwaliteit bij aan de verdere groei van een uitmuntende dienstverlening voor elke klant.</span></p> <p><span>Interesse? Stel je kandidaat!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18936",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "agentschap Digitaal Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18936",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Proces Support Officer"
-      },
-      "displayTitle": "Proces Support Officer",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij jouw talent voor structuur en kwaliteit inzetten voor een dynamische digitale partner van Vlaamse en lokale overheden? Bij Digitaal Vlaanderen zoeken we een nauwgezette Proces Support Officer die expert is in organiseren, documenteren en verbeteren. </p><p>Samen met ons team Organisatiebeheer draag je bij aan een efficiënte interne dienstverlening. Je faciliteert en optimaliseert processen met tools als MS O365, MS Project Operations, Confluence en Jira, waarbij je de tevredenheid van stakeholders nauwlettend bewaakt. </p><p>Ben jij klaar voor deze sleutelrol in de digitale transformatie van de overheid? Solliciteer nu en maak het verschil!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Wil jij jouw talent voor structuur en kwaliteit inzetten voor een dynamische digitale partner van Vlaamse en lokale overheden? Bij Digitaal Vlaanderen zoeken we een nauwgezette Proces Support Officer die expert is in organiseren, documenteren en verbeteren. </p><p>Samen met ons team Organisatiebeheer draag je bij aan een efficiënte interne dienstverlening. Je faciliteert en optimaliseert processen met tools als MS O365, MS Project Operations, Confluence en Jira, waarbij je de tevredenheid van stakeholders nauwlettend bewaakt. </p><p>Ben jij klaar voor deze sleutelrol in de digitale transformatie van de overheid? Solliciteer nu en maak het verschil!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
       },
       "locations": [
         {
@@ -5679,41 +5525,6 @@
         {
           "address": {
             "city": "Evergem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18921",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Departement Financiën en Begroting",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18921",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Programmamedewerker EU financiering"
-      },
-      "displayTitle": "Programmamedewerker EU financiering",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Zie jij jezelf als de schakel tussen beleid en resultaat?</span></b></p><p><span>Jij bent iemand die energie krijgt van complexe uitdagingen en graag mee het verschil maakt op <b>Vlaams én Europees niveau</b>. Je houdt van afwisseling, werkt graag samen met scherpe collega’s en hebt een neus voor <b>structuur</b>, <b>cijfers</b> en <b>heldere communicatie</b>. In een team waar <b>vertrouwen</b>, <b>verantwoordelijkheid</b> en <b>impact</b> centraal staan, kom jij volledig tot je recht.&nbsp;</span><span>Als programmamedewerker binnen onze expertencel krijg je de kans om je tanden te zetten in </span><b>Europees gefinancierde projecten die ertoe doen</b><span>. Geen dag is hetzelfde, maar elke dag telt.</span></p><p><span>Je komt terecht in een <b>klein, zelfsturend team</b> van vijf collega's dat bestaat uit drie programmamedewerkers en twee coördinatoren. Je neemt actief je rol op in de <b>planning</b>, <b>prioritering</b> en <b>afstemming van de werking</b>. Je houdt van een <b>open en kritische samenwerking</b>, waarin we elkaars werk naar een hoger niveau tillen met wederzijds respect en vertrouwen.</span></p><p><span>Je staat mee in voor de <b>coördinatie en rapportering van Europese financieringsinstrumenten</b>, waarbij je focust op het Vlaamse luik van grotere programma’s. Dat betekent dat je samenwerkt met verschillende <b>departementen en agentschappen</b> en erop toeziet dat Vlaanderen zijn <b>afspraken met Europa</b> nakomt – zodat de financiële middelen effectief uitbetaald worden. Je begrijpt het belang van <b>correcte rapportering</b>, en weet hoe je hierin de puntjes op de i zet.</span></p><p><span>Je voelt je thuis in een <b>fast-paced en deadlinegedreven omgeving</b>, waar flexibiliteit en precisie hand in hand gaan. Je bent <b>communicatief sterk</b>, houdt ervan om bruggen te bouwen en beweegt je vlot in <b>netwerken </b>binnen en buiten de Vlaamse overheid. Je bent positief ingesteld, weet te overtuigen en je communiceert steeds <b>duidelijk en doordacht</b>.</span></p><p><span>In deze functie werk je mee aan taken die aan de coördinerende entiteit zijn toegewezen, met een focus op coördinatie van de projectrapporteringen, het <b>anti-fraudebeleid</b> en <b>data management</b>. De coördinerende entiteit staat zo in voor de Vlaamse coördinatie van de Recovery &amp; Resilience Facility (RRF), ook wel het Europees Herstelfonds genoemd, en zal vanaf 2026 ook instaan voor het Social Climate Fund. Je hebt daarom een degelijke basiskennis van <b>Europese financieringsinstrumenten</b> en de bijbehorende regelgeving, inclusief noties over <b>staatssteun</b>, de <b>wet op overheidsopdrachten</b> en <b>anti-fraudebepalingen</b>. Je werkt vlot met <b>Excel</b>, hebt affiniteit met <b>Power BI</b> en je vindt snel je weg in nieuwe IT-tools</span><span>.</span></p><p><span>Wat voor ons telt, is jouw </span><b>kritische blik</b><span>, je </span><b>goesting om bij te leren</b><span> en je zin om </span><b>samen impact te maken</b><span>.</span></p><p><b>Klaar om mee te bouwen aan het Vlaamse verhaal binnen een Europese context?&nbsp;</b><span>Dan is dit jouw moment. Wij kijken ernaar uit om jou te ontmoeten — als collega, als klankbord en als belangrijke schakel in ons team.</span></p><p><span><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></span></p> <p>&nbsp;</p>",
-        "htmlEncoded": "<p><b><span>Zie jij jezelf als de schakel tussen beleid en resultaat?</span></b></p><p><span>Jij bent iemand die energie krijgt van complexe uitdagingen en graag mee het verschil maakt op <b>Vlaams én Europees niveau</b>. Je houdt van afwisseling, werkt graag samen met scherpe collega’s en hebt een neus voor <b>structuur</b>, <b>cijfers</b> en <b>heldere communicatie</b>. In een team waar <b>vertrouwen</b>, <b>verantwoordelijkheid</b> en <b>impact</b> centraal staan, kom jij volledig tot je recht.&nbsp;</span><span>Als programmamedewerker binnen onze expertencel krijg je de kans om je tanden te zetten in </span><b>Europees gefinancierde projecten die ertoe doen</b><span>. Geen dag is hetzelfde, maar elke dag telt.</span></p><p><span>Je komt terecht in een <b>klein, zelfsturend team</b> van vijf collega's dat bestaat uit drie programmamedewerkers en twee coördinatoren. Je neemt actief je rol op in de <b>planning</b>, <b>prioritering</b> en <b>afstemming van de werking</b>. Je houdt van een <b>open en kritische samenwerking</b>, waarin we elkaars werk naar een hoger niveau tillen met wederzijds respect en vertrouwen.</span></p><p><span>Je staat mee in voor de <b>coördinatie en rapportering van Europese financieringsinstrumenten</b>, waarbij je focust op het Vlaamse luik van grotere programma’s. Dat betekent dat je samenwerkt met verschillende <b>departementen en agentschappen</b> en erop toeziet dat Vlaanderen zijn <b>afspraken met Europa</b> nakomt – zodat de financiële middelen effectief uitbetaald worden. Je begrijpt het belang van <b>correcte rapportering</b>, en weet hoe je hierin de puntjes op de i zet.</span></p><p><span>Je voelt je thuis in een <b>fast-paced en deadlinegedreven omgeving</b>, waar flexibiliteit en precisie hand in hand gaan. Je bent <b>communicatief sterk</b>, houdt ervan om bruggen te bouwen en beweegt je vlot in <b>netwerken </b>binnen en buiten de Vlaamse overheid. Je bent positief ingesteld, weet te overtuigen en je communiceert steeds <b>duidelijk en doordacht</b>.</span></p><p><span>In deze functie werk je mee aan taken die aan de coördinerende entiteit zijn toegewezen, met een focus op coördinatie van de projectrapporteringen, het <b>anti-fraudebeleid</b> en <b>data management</b>. De coördinerende entiteit staat zo in voor de Vlaamse coördinatie van de Recovery &amp; Resilience Facility (RRF), ook wel het Europees Herstelfonds genoemd, en zal vanaf 2026 ook instaan voor het Social Climate Fund. Je hebt daarom een degelijke basiskennis van <b>Europese financieringsinstrumenten</b> en de bijbehorende regelgeving, inclusief noties over <b>staatssteun</b>, de <b>wet op overheidsopdrachten</b> en <b>anti-fraudebepalingen</b>. Je werkt vlot met <b>Excel</b>, hebt affiniteit met <b>Power BI</b> en je vindt snel je weg in nieuwe IT-tools</span><span>.</span></p><p><span>Wat voor ons telt, is jouw </span><b>kritische blik</b><span>, je </span><b>goesting om bij te leren</b><span> en je zin om </span><b>samen impact te maken</b><span>.</span></p><p><b>Klaar om mee te bouwen aan het Vlaamse verhaal binnen een Europese context?&nbsp;</b><span>Dan is dit jouw moment. Wij kijken ernaar uit om jou te ontmoeten — als collega, als klankbord en als belangrijke schakel in ons team.</span></p><p><span><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></span></p> <p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5934,41 +5745,6 @@
         {
           "address": {
             "city": "Willebroek"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18859",
-      "internal": false,
-      "validThroughDate": "1757203200",
-      "hiringOrganization": "Agentschap Plantentuin Meise",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18859",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel analist Europese projecten"
-      },
-      "displayTitle": "Functioneel analist Europese projecten",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Word jij onze nieuwe bruggenbouwer in biodiversiteit?</p><p> Als functioneel analist bij Plantentuin Meise speel je een sleutelrol in de verdere ontwikkeling van het crowdsourcingplatform DoeDat.be, binnenkort onderdeel van de internationale DiSSCo-onderzoeksinfrastructuur.</p><p> Je vertaalt noden naar digitale oplossingen, maakt collecties wereldwijd bruikbaar voor onderzoek en werkt samen met collega’s en partners in binnen- en buitenland.</p><p> Met jouw inzet help je biodiversiteitsdata vrij toegankelijk te maken en draag je bij aan baanbrekend wetenschappelijk werk.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Word jij onze nieuwe bruggenbouwer in biodiversiteit?</p><p> Als functioneel analist bij Plantentuin Meise speel je een sleutelrol in de verdere ontwikkeling van het crowdsourcingplatform DoeDat.be, binnenkort onderdeel van de internationale DiSSCo-onderzoeksinfrastructuur.</p><p> Je vertaalt noden naar digitale oplossingen, maakt collecties wereldwijd bruikbaar voor onderzoek en werkt samen met collega’s en partners in binnen- en buitenland.</p><p> Met jouw inzet help je biodiversiteitsdata vrij toegankelijk te maken en draag je bij aan baanbrekend wetenschappelijk werk.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Meise"
           }
         }
       ]
@@ -6319,6 +6095,56 @@
         {
           "address": {
             "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18411",
+      "internal": false,
+      "validThroughDate": "1759536000",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 4,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18411",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Schatter/onderhandelaar"
+      },
+      "displayTitle": "Schatter/onderhandelaar",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wanneer jij naar een gebouw of terrein kijkt – op plan, via luchtbeelden of in een dossier – zie jij meer dan enkel bakstenen of grond. Jij ziet waarde, context en betekenis. Je denkt analytisch, werkt nauwkeurig en duikt graag in complexe materie. Tegelijk wil je geen pure cijferjob, maar een rol waarin je afwisseling vindt, af en toe de deur uit kan en deel uitmaakt van een gedreven team.</span></p><p><span>Je zoekt een plek waar jouw expertise telt, waar je jezelf kan blijven ontwikkelen en waar collega’s net zo gepassioneerd zijn als jij. Herken je jezelf? Dan is de functie van schatter/onderhandelaar bij de Vlaamse Belastingdienst jou op het lijf geschreven.</span></p><p><span>Als schatter/onderhandelaar bij de Vlaamse Belastingdienst bepaal jij de waarde van (on)roerende goederen.. Jij analyseert stedenbouwkundige info, luchtfoto’s, plans, vergelijkingspunten en marktgegevens. Je werkt aan dossiers rond verkoop, verwerving, onteigening of belasting, en je zorgt ervoor dat elke waardebepaling correct en goed onderbouwd is.</span></p><p><span>Jouw werk speelt zich deels af achter je bureau, waar je in alle concentratie de nodige data verzamelt, verbanden legt en conclusies trekt. Af en toe ga je ter plaatse voor een terreinbezoek, als dat nodig is om een goede inschatting te maken of te onderhandelen over de schatting. Maar het is jouw scherpzinnigheid en dossierkennis die het verschil maken.</span></p><p><span>Je stelt duidelijke en gestructureerde schattingsverslagen op, je motiveert je waardering, en je staat in voor heldere communicatie met collega’s, externe partners en klanten. Soms onderhandel je over een waarde of ga je in dialoog bij een bezwaar. Altijd professioneel, met kennis van zaken.</span></p><p><span>Je houdt van die combinatie: zelfstandig verdiepen in je dossiers én samenwerken met collega’s die jou aanvullen en inspireren. Jij voelt je thuis in een omgeving waar je de ruimte krijgt om te groeien, initiatief te nemen en bij te leren.</span></p><p><span><b>Jij bent klaar voor een job die ertoe doet. En op dit moment zoeken we voor elk van de volgende locaties één enthousiaste nieuwe collega:</b></span></p><ul><li><span><b>Antwerpen</b></span></li><li><span><b>Aalst</b></span></li><li><span><b>Gent</b></span></li><li><span><b>Brussel</b></span></li></ul><p><span><b>Tijd voor jouw volgende stap? Solliciteer vandaag nog.</b></span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Wanneer jij naar een gebouw of terrein kijkt – op plan, via luchtbeelden of in een dossier – zie jij meer dan enkel bakstenen of grond. Jij ziet waarde, context en betekenis. Je denkt analytisch, werkt nauwkeurig en duikt graag in complexe materie. Tegelijk wil je geen pure cijferjob, maar een rol waarin je afwisseling vindt, af en toe de deur uit kan en deel uitmaakt van een gedreven team.</span></p><p><span>Je zoekt een plek waar jouw expertise telt, waar je jezelf kan blijven ontwikkelen en waar collega’s net zo gepassioneerd zijn als jij. Herken je jezelf? Dan is de functie van schatter/onderhandelaar bij de Vlaamse Belastingdienst jou op het lijf geschreven.</span></p><p><span>Als schatter/onderhandelaar bij de Vlaamse Belastingdienst bepaal jij de waarde van (on)roerende goederen.. Jij analyseert stedenbouwkundige info, luchtfoto’s, plans, vergelijkingspunten en marktgegevens. Je werkt aan dossiers rond verkoop, verwerving, onteigening of belasting, en je zorgt ervoor dat elke waardebepaling correct en goed onderbouwd is.</span></p><p><span>Jouw werk speelt zich deels af achter je bureau, waar je in alle concentratie de nodige data verzamelt, verbanden legt en conclusies trekt. Af en toe ga je ter plaatse voor een terreinbezoek, als dat nodig is om een goede inschatting te maken of te onderhandelen over de schatting. Maar het is jouw scherpzinnigheid en dossierkennis die het verschil maken.</span></p><p><span>Je stelt duidelijke en gestructureerde schattingsverslagen op, je motiveert je waardering, en je staat in voor heldere communicatie met collega’s, externe partners en klanten. Soms onderhandel je over een waarde of ga je in dialoog bij een bezwaar. Altijd professioneel, met kennis van zaken.</span></p><p><span>Je houdt van die combinatie: zelfstandig verdiepen in je dossiers én samenwerken met collega’s die jou aanvullen en inspireren. Jij voelt je thuis in een omgeving waar je de ruimte krijgt om te groeien, initiatief te nemen en bij te leren.</span></p><p><span><b>Jij bent klaar voor een job die ertoe doet. En op dit moment zoeken we voor elk van de volgende locaties één enthousiaste nieuwe collega:</b></span></p><ul><li><span><b>Antwerpen</b></span></li><li><span><b>Aalst</b></span></li><li><span><b>Gent</b></span></li><li><span><b>Brussel</b></span></li></ul><p><span><b>Tijd voor jouw volgende stap? Solliciteer vandaag nog.</b></span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
