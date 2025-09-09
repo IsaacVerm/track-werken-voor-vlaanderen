@@ -1,10 +1,10 @@
 {
-  "totalItems": 166,
+  "totalItems": 168,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 165,
+  "lastItemOfPage": 167,
   "items": [
     {
       "link": "/Job/vdab-71887780",
@@ -5113,6 +5113,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18940",
+      "internal": false,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18940",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke kwaliteit"
+      },
+      "displayTitle": "Teamverantwoordelijke kwaliteit",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als teamverantwoordelijke van het team Kwaliteit geef je richting aan een enthousiast team van 8 interne medewerkers dat zich dagelijks inzet voor continue verbetering binnen Agentschap Overheidspersoneel. Samen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende dienstverlening voor élke klant.</span></p> <p><span>Je zet mensen en middelen in beweging, met als doel: een optimale balans tussen klanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in concrete acties en zorgt ervoor dat de strategische doelstellingen realiteit worden in de dagelijkse praktijk.</span></p> <p><span>Met jouw kritische blik help je Agentschap Overheidspersoneel de juiste prioriteiten te stellen, strategische risico’s te managen en de vinger aan de pols te houden via datamonitoring.</span></p> <p><span>Neem je graag het voortouw in projecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die end-to-end en procesmatig kan denken en vanuit een dienstverlenende en klantgerichte houding werkt?</span></p> <p><span>Hebben processen en het uitwerken van een kwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en aansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer jou energie? Dan ben jij de persoon die wij zoeken!</span></p> <p><span>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en altijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</span></p> <ul><li><span>Procesmanagement</span></li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Als teamverantwoordelijke van het team Kwaliteit geef je richting aan een enthousiast team van 8 interne medewerkers dat zich dagelijks inzet voor continue verbetering binnen Agentschap Overheidspersoneel. Samen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende dienstverlening voor élke klant.</span></p> <p><span>Je zet mensen en middelen in beweging, met als doel: een optimale balans tussen klanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in concrete acties en zorgt ervoor dat de strategische doelstellingen realiteit worden in de dagelijkse praktijk.</span></p> <p><span>Met jouw kritische blik help je Agentschap Overheidspersoneel de juiste prioriteiten te stellen, strategische risico’s te managen en de vinger aan de pols te houden via datamonitoring.</span></p> <p><span>Neem je graag het voortouw in projecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die end-to-end en procesmatig kan denken en vanuit een dienstverlenende en klantgerichte houding werkt?</span></p> <p><span>Hebben processen en het uitwerken van een kwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en aansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer jou energie? Dan ben jij de persoon die wij zoeken!</span></p> <p><span>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en altijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</span></p> <ul><li><span>Procesmanagement</span></li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18930",
       "internal": false,
       "validThroughDate": "1758240000",
@@ -5283,6 +5318,46 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18872",
+      "internal": false,
+      "validThroughDate": "1759795200",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18872",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Bedrijfsdoorlichter"
+      },
+      "displayTitle": "Bedrijfsdoorlichter",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als bedrijfsdoorlichter spoor je nutriëntenverliezen op bij landbouwbedrijven, installaties die mest verwerken of andere uitbatingen. Je werkt mee aan het verbeteren van de waterkwaliteit door nutriëntenverliezen op te sporen en zo <span>&nbsp;</span>verontreiniging van grond- en oppervlaktewater tegen te gaan. Je krijgt een poolwagen ter beschikking zodat je vlot bedrijven in jouw regio kan bezoeken.<br><br></span><span>Je voert doorlichtingen uit op rundvee-, varkens-, pluimvee- en tuinbouwbedrijven, evenals op mestverwerkingsinstallaties en aanverwante actoren. Je evalueert de impact van deze bedrijven op het milieu, en durft waar nodig maatregelen of sancties opleggen. Je komt in contact met diverse actoren met soms tegenstrijdige belangen — een assertieve en overtuigende communicatiestijl is hierbij onmisbaar.<br><br></span><span>Jouw doorlichting bestaat uit drie fases:</span><span></span></p><ul><li><span>&nbsp;</span><span>Administratief onderzoek: - je start elk dossier met een grondige controle van de wettelijke voorschriften en administratieve verplichtingen van het bedrijf. Dit vormt een belangrijk onderdeel van je werk.</span></li><li><span>&nbsp;</span>Terreinbezoek en gesprek - samen met een collega bezoek je het bedrijf en ga je in gesprek met de landbouwer. Je vergelijkt de administratieve gegevens met de situatie op het terrein.</li><li>Evaluatie en opvolging - je beoordeelt of er sprake is van nutriëntenverliezen en neemt indien nodig maatregelen of je legt sancties op. Alles met het oog op het beperken van milieuvervuiling.</li></ul> <p><span>Naast je algemene taken als bedrijfsdoorlichter, neem je een <b>voortrekkersrol</b> op voor bedrijven van het type rundvee en paarden. Concreet betekent dit:</span><span></span></p><ul><li><span>Je brengt collega’s bedrijfsdoorlichters samen om dossiers inhoudelijk af te stemmen.</span></li><li><span>&nbsp;</span>Je levert inhoudelijke input aan de centrale dienst voor het opstellen en actualiseren van instructies en handleidingen.</li><li>Je neemt actief deel aan thematisch overleg met jouw collega in de Centrale Directie en Mestbank regio Oost.</li><li>Je formuleert oplossingen voor knelpunten en communiceert helder naar collega’s en leidinggevenden.</li></ul> <p><span>Voel je je comfortabel in een rol waarbij je inhoudelijke expertise combineert met coördinerende verantwoordelijkheid en wil je bovendien mee je schouders zetten onder een duurzame landbouwpraktijk in Vlaanderen? Dan ben jij misschien wel de bedrijfsdoorlichter die we zoeken bij de Mestbank van de Vlaamse Landmaatschappij.</span></p>",
+        "htmlEncoded": "<p><span>Als bedrijfsdoorlichter spoor je nutriëntenverliezen op bij landbouwbedrijven, installaties die mest verwerken of andere uitbatingen. Je werkt mee aan het verbeteren van de waterkwaliteit door nutriëntenverliezen op te sporen en zo <span>&nbsp;</span>verontreiniging van grond- en oppervlaktewater tegen te gaan. Je krijgt een poolwagen ter beschikking zodat je vlot bedrijven in jouw regio kan bezoeken.<br><br></span><span>Je voert doorlichtingen uit op rundvee-, varkens-, pluimvee- en tuinbouwbedrijven, evenals op mestverwerkingsinstallaties en aanverwante actoren. Je evalueert de impact van deze bedrijven op het milieu, en durft waar nodig maatregelen of sancties opleggen. Je komt in contact met diverse actoren met soms tegenstrijdige belangen — een assertieve en overtuigende communicatiestijl is hierbij onmisbaar.<br><br></span><span>Jouw doorlichting bestaat uit drie fases:</span><span></span></p><ul><li><span>&nbsp;</span><span>Administratief onderzoek: - je start elk dossier met een grondige controle van de wettelijke voorschriften en administratieve verplichtingen van het bedrijf. Dit vormt een belangrijk onderdeel van je werk.</span></li><li><span>&nbsp;</span>Terreinbezoek en gesprek - samen met een collega bezoek je het bedrijf en ga je in gesprek met de landbouwer. Je vergelijkt de administratieve gegevens met de situatie op het terrein.</li><li>Evaluatie en opvolging - je beoordeelt of er sprake is van nutriëntenverliezen en neemt indien nodig maatregelen of je legt sancties op. Alles met het oog op het beperken van milieuvervuiling.</li></ul> <p><span>Naast je algemene taken als bedrijfsdoorlichter, neem je een <b>voortrekkersrol</b> op voor bedrijven van het type rundvee en paarden. Concreet betekent dit:</span><span></span></p><ul><li><span>Je brengt collega’s bedrijfsdoorlichters samen om dossiers inhoudelijk af te stemmen.</span></li><li><span>&nbsp;</span>Je levert inhoudelijke input aan de centrale dienst voor het opstellen en actualiseren van instructies en handleidingen.</li><li>Je neemt actief deel aan thematisch overleg met jouw collega in de Centrale Directie en Mestbank regio Oost.</li><li>Je formuleert oplossingen voor knelpunten en communiceert helder naar collega’s en leidinggevenden.</li></ul> <p><span>Voel je je comfortabel in een rol waarbij je inhoudelijke expertise combineert met coördinerende verantwoordelijkheid en wil je bovendien mee je schouders zetten onder een duurzame landbouwpraktijk in Vlaanderen? Dan ben jij misschien wel de bedrijfsdoorlichter die we zoeken bij de Mestbank van de Vlaamse Landmaatschappij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
           }
         }
       ]
