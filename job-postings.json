@@ -1,10 +1,10 @@
 {
-  "totalItems": 179,
+  "totalItems": 166,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 178,
+  "lastItemOfPage": 165,
   "items": [
     {
       "link": "/Job/vdab-71887780",
@@ -492,41 +492,6 @@
         {
           "address": {
             "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71797765",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71797765",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "verpleegkundige of sociotherapeut"
-      },
-      "displayTitle": "verpleegkundige of sociotherapeut",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><span>✅</span><span> \n<strong><span>Behandeleenheid Ouderen</span></strong></span></p> \n<p><span>Hier bieden we langdurige zorg en behandeling aan ouderen met complexe psychiatrische problemen en blijvende klachten. De zorg is vooral individueel gericht, met als doel hun levenskwaliteit te verhogen. We werken volgens vier pijlers:</span></p> \n<ul type=\"disc\"> \n<li><strong><span>Somatisch:</span></strong><span> aandacht voor lichamelijke gezondheid en comfort</span></li> \n<li><strong><span>Psychologisch:</span></strong><span> ondersteuning bij emotioneel welzijn</span></li> \n<li><strong><span>Sociaal:</span></strong><span> focus op sociale interactie en structuur</span></li> \n<li><strong><span>Existentiële zorg:</span></strong><span> oog voor zingeving en levensverhaal</span></li> </ul> \n<p><span>Daarnaast helpen we patiënten omgaan met prikkels, ondersteunen we gezond gedrag en streven we naar een goede balans tussen begeleiding en zelfstandigheid.</span></p> \n<p><span>Erkenning en respect voor de gevoelens en beleving van de patiënt is essentieel.</span></p> \n<p><strong><span>Jouw rol</span></strong><strong></strong></p> \n<p><span>Als sociotherapeut begeleid, observeer en behandel je patiënten. Je ondersteunt hen bij dagelijkse activiteiten en organiseert therapeutische activiteiten binnen het behandelplan. </span></p> \n<p><span>Vanuit een basishouding die hoop en optimisme uitstraalt, bouw je een vertrouwensrelatie op met de patiënt en zijn omgeving. Je organiseert activiteiten die de patiënt helpen zijn krachten te ontdekken. Je kan begrenzende en therapeutische vaardigheden in een goed evenwicht hanteren in de omgang met ouderen. Je hebt kennis van verschillende psychiatrische pathologieën en psychofarmaca.</span></p> \n<p><span>Je wordt ingeschakeld in de huidige teamwerking  om samen met verpleegkundigen de continuïteit van de dienst te verzekeren. </span></p>",
-        "htmlEncoded": "<p> </p> \n<p><span>✅</span><span> \n<strong><span>Behandeleenheid Ouderen</span></strong></span></p> \n<p><span>Hier bieden we langdurige zorg en behandeling aan ouderen met complexe psychiatrische problemen en blijvende klachten. De zorg is vooral individueel gericht, met als doel hun levenskwaliteit te verhogen. We werken volgens vier pijlers:</span></p> \n<ul type=\"disc\"> \n<li><strong><span>Somatisch:</span></strong><span> aandacht voor lichamelijke gezondheid en comfort</span></li> \n<li><strong><span>Psychologisch:</span></strong><span> ondersteuning bij emotioneel welzijn</span></li> \n<li><strong><span>Sociaal:</span></strong><span> focus op sociale interactie en structuur</span></li> \n<li><strong><span>Existentiële zorg:</span></strong><span> oog voor zingeving en levensverhaal</span></li> </ul> \n<p><span>Daarnaast helpen we patiënten omgaan met prikkels, ondersteunen we gezond gedrag en streven we naar een goede balans tussen begeleiding en zelfstandigheid.</span></p> \n<p><span>Erkenning en respect voor de gevoelens en beleving van de patiënt is essentieel.</span></p> \n<p><strong><span>Jouw rol</span></strong><strong></strong></p> \n<p><span>Als sociotherapeut begeleid, observeer en behandel je patiënten. Je ondersteunt hen bij dagelijkse activiteiten en organiseert therapeutische activiteiten binnen het behandelplan. </span></p> \n<p><span>Vanuit een basishouding die hoop en optimisme uitstraalt, bouw je een vertrouwensrelatie op met de patiënt en zijn omgeving. Je organiseert activiteiten die de patiënt helpen zijn krachten te ontdekken. Je kan begrenzende en therapeutische vaardigheden in een goed evenwicht hanteren in de omgang met ouderen. Je hebt kennis van verschillende psychiatrische pathologieën en psychofarmaca.</span></p> \n<p><span>Je wordt ingeschakeld in de huidige teamwerking  om samen met verpleegkundigen de continuïteit van de dienst te verzekeren. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -3589,41 +3554,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19149",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19149",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Toetsontwikkelaar NT2"
-      },
-      "displayTitle": "Toetsontwikkelaar NT2",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Een team van vakexperten uit het volwassenenonderwijs ontwikkelt, in samenwerking\nmet de Examencommissie, de <strong>gestandaardiseerde NT2-test</strong>. Deze test bestaat uit\nvier onderdelen: lezen, schrijven, luisteren en spreken. </p><p>In een eerste fase ontwikkelde het team testen voor lezen en\nschrijven op het niveau A1 en A2. In de volgende fase start de ontwikkeling van\nde testen spreken en luisteren op <strong>ERK-niveau B1</strong>.</p><p>In het kader van deze nieuwe fase breiden we het ontwikkelteam graag\nuit. Het ontwikkelteam bestaat momenteel uit een inhoudelijk expert en 8\ntoetsontwikkelaars. Het zijn allen leerkrachten en coördinatoren van CVO en\nCBE. De test wordt ontwikkeld onder leiding van een projectleider bij de\nExamencommissie. </p><p>De Examencommissie zoekt daarom een <strong>toetsontwikkelaar NT2 </strong>die vanuit\nzijn of haar centrum voor 80% wordt vrijgesteld om bij de Examencommissie te\nwerken aan de gezamenlijke ontwikkeling van de testen luisteren en spreken\nB1 voor de gestandaardiseerde NT2-test. </p><p>Solliciteer vandaag nog als jij\nde persoon bent die we zoeken. <br>&nbsp;&nbsp;</p>",
-        "htmlEncoded": "<p>Een team van vakexperten uit het volwassenenonderwijs ontwikkelt, in samenwerking\nmet de Examencommissie, de <strong>gestandaardiseerde NT2-test</strong>. Deze test bestaat uit\nvier onderdelen: lezen, schrijven, luisteren en spreken. </p><p>In een eerste fase ontwikkelde het team testen voor lezen en\nschrijven op het niveau A1 en A2. In de volgende fase start de ontwikkeling van\nde testen spreken en luisteren op <strong>ERK-niveau B1</strong>.</p><p>In het kader van deze nieuwe fase breiden we het ontwikkelteam graag\nuit. Het ontwikkelteam bestaat momenteel uit een inhoudelijk expert en 8\ntoetsontwikkelaars. Het zijn allen leerkrachten en coördinatoren van CVO en\nCBE. De test wordt ontwikkeld onder leiding van een projectleider bij de\nExamencommissie. </p><p>De Examencommissie zoekt daarom een <strong>toetsontwikkelaar NT2 </strong>die vanuit\nzijn of haar centrum voor 80% wordt vrijgesteld om bij de Examencommissie te\nwerken aan de gezamenlijke ontwikkeling van de testen luisteren en spreken\nB1 voor de gestandaardiseerde NT2-test. </p><p>Solliciteer vandaag nog als jij\nde persoon bent die we zoeken. <br>&nbsp;&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19143",
       "internal": false,
       "validThroughDate": "1759795200",
@@ -3791,38 +3721,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19130",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19130",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Sociaal werker Kind en Gezin Oostende"
-      },
-      "displayTitle": "Sociaal werker Kind en Gezin Oostende",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als sociaal werker geef je meer&nbsp;kansen aan kinderen die in een moeilijke gezinssituatie opgroeien&nbsp;door armoede, uitsluiting of conflict. Door te luisteren, alle opties op een rij te zetten en de ouders een duwtje in de rug te geven, zorg jij ervoor dat de gezinnen hun eigen weg vinden. Opgroeien zoekt een sociaal werker voor het Kind en Gezin-team Oostende.&nbsp;</p><p>&nbsp;</p><p><strong>Een dag uit je leven als sociaal werker<br></strong></p><ul><li>Je bent een&nbsp;luisterend oor&nbsp;en brengt de gezinssituatie in kaart.&nbsp;</li><li>Je ondersteunt kwetsbare gezinnen met heel&nbsp;praktische dingen: de zoektocht naar een school, kinderopvang, werk, zorg of een woning of de aanvraag van een leefloon.&nbsp;</li><li>Je&nbsp;wijst ze de weg&nbsp;naar organisaties die hen helpen. Soms ga je fysiek met hen mee.&nbsp;&nbsp;</li><li>Je gaat op&nbsp;huisbezoek, organiseert&nbsp;moedergroepen&nbsp;en&nbsp;begeleidt gezinnen&nbsp;naar afspraken.&nbsp;</li><li>Je hebt veel&nbsp;contact met alle partnerorganisaties: je collega’s binnen het lokale team, de gemeente, het OCMW en de VDAB.&nbsp;&nbsp;</li></ul><p><strong>Waarom deze job echt iets voor jou is&nbsp;</strong></p><p>Je&nbsp;maakt het verschil voor kinderen&nbsp;in moeilijke situaties. Je laat ze groeien, en daar krijg jij zelf ook energie van.&nbsp;&nbsp;<br>Je komt terecht in een&nbsp;hecht lokaal team&nbsp;van onder meer een psychopedagoog, gezinsondersteuners en verpleegkundigen die meedenken over oplossingen voor de gezinnen.&nbsp;</p><br>",
-        "htmlEncoded": "<p>Als sociaal werker geef je meer&nbsp;kansen aan kinderen die in een moeilijke gezinssituatie opgroeien&nbsp;door armoede, uitsluiting of conflict. Door te luisteren, alle opties op een rij te zetten en de ouders een duwtje in de rug te geven, zorg jij ervoor dat de gezinnen hun eigen weg vinden. Opgroeien zoekt een sociaal werker voor het Kind en Gezin-team Oostende.&nbsp;</p><p>&nbsp;</p><p><strong>Een dag uit je leven als sociaal werker<br></strong></p><ul><li>Je bent een&nbsp;luisterend oor&nbsp;en brengt de gezinssituatie in kaart.&nbsp;</li><li>Je ondersteunt kwetsbare gezinnen met heel&nbsp;praktische dingen: de zoektocht naar een school, kinderopvang, werk, zorg of een woning of de aanvraag van een leefloon.&nbsp;</li><li>Je&nbsp;wijst ze de weg&nbsp;naar organisaties die hen helpen. Soms ga je fysiek met hen mee.&nbsp;&nbsp;</li><li>Je gaat op&nbsp;huisbezoek, organiseert&nbsp;moedergroepen&nbsp;en&nbsp;begeleidt gezinnen&nbsp;naar afspraken.&nbsp;</li><li>Je hebt veel&nbsp;contact met alle partnerorganisaties: je collega’s binnen het lokale team, de gemeente, het OCMW en de VDAB.&nbsp;&nbsp;</li></ul><p><strong>Waarom deze job echt iets voor jou is&nbsp;</strong></p><p>Je&nbsp;maakt het verschil voor kinderen&nbsp;in moeilijke situaties. Je laat ze groeien, en daar krijg jij zelf ook energie van.&nbsp;&nbsp;<br>Je komt terecht in een&nbsp;hecht lokaal team&nbsp;van onder meer een psychopedagoog, gezinsondersteuners en verpleegkundigen die meedenken over oplossingen voor de gezinnen.&nbsp;</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
           }
         }
       ]
@@ -4205,41 +4103,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19103",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19103",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Procesbeheerder Beroepskwalificaties"
-      },
-      "displayTitle": "Procesbeheerder Beroepskwalificaties",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij iemand die graag de brug slaat tussen beleid en praktijk? Hou je ervan om structuur te brengen&nbsp;</span><span>in complexe processen? Krijg je energie van samenwerken en het verbinden van verschillende partners?&nbsp;</span><span>Wil je mee je schouders zetten onder de uitbouw van een kwaliteitsvolle kwalificatiestructuur in&nbsp;</span><span>Vlaanderen? Dan is deze functie iets voor jou!</span></p> <p><span>Als procesbeheerder beroepskwalificaties werk je mee aan één van de kernprocessen binnen onze&nbsp;</span><span>afdeling; het ontwikkelen van beroepskwalificaties. Jij bent de deskundige kracht die dit kernproces&nbsp;</span><span>zelfstandig en proactief opvolgt in nauwe afstemming met de proceseigenaar levenslang leren en de&nbsp;</span><span>procesbeheerder levenslang leren en in samenwerking met inhoudelijke deskundigen binnen de afdeling.&nbsp;</span><span>Als procesbeheerder beroepskwalificaties operationaliseer je de procedure voor de ontwikkeling van&nbsp;</span><span>beroepskwalificaties en coördineer je ook de concrete uitvoering van die procedure. Je gaat hierbij&nbsp;</span><span>regelmatig in overleg met collega’s, werkveldpartners en andere betrokkenen en zoekt daarbij naar&nbsp;</span><span>draagvlak. Je vindt compromissen binnen het kader dat de Vlaamse Regering vastlegt en rekening&nbsp;</span><span>houdend met de kwaliteitsstandaarden van AHOVOKS. Je volgt actief trends op de arbeidsmarkt en de&nbsp;</span><span>mogelijke impact ervan op onderwijs op. Naast de ontwikkeling van beroepskwalificaties, monitor je&nbsp;</span><span>actief de voortgang ervan op en bewaak je de kwaliteit van de registratie ervan in databanken. Verder&nbsp;</span><span>sta je in voor de communicatie over beroepskwalificaties via onze website en nieuwsbrieven en naar&nbsp;</span><span>aanleiding van concrete vragen van werkveldpartners, onderwijspartners en burgers. Je ontwikkelt ook&nbsp;</span><span>zelf beroepskwalificaties, meer specifiek binnen het domein STEM, en bent back-up voor de&nbsp;</span><span>procesbeheerder levenslang leren.</span></p> <p><span>Naast de opdrachten met betrekking tot het procesbeheer van de beroepskwalificaties kan je, indien&nbsp;</span><span>nodig en in onderling overleg, ook worden ingezet bij andere opdrachten binnen onze afdeling zoals de&nbsp;</span><span>ontwikkeling van onderwijsdoelen, de advisering van leerplannen en curriculumdossiers en de&nbsp;</span><span>kwaliteitsbeoordeling van leermiddelen.</span></p> <p><span>Een aantal voorbeelden van je taken; </span></p> <ul><li><span>Vanuit je ervaring en kennis adviseer je het management over het proces beroepskwalificaties,&nbsp;</span><span>over mogelijke knelpunten en opportuniteiten en reik je scenario’s aan.</span></li><li><span>Je werkt processen uit in overleg met de proceseigenaar en met de betrokken collega's. </span></li><li><span>Je plant de nodige stappen in de implementatie van de processen. </span></li><li><span>Je vertaalt concrete bevindingen en goede praktijken naar de proceseigenaar.</span></li><li><span>Je geeft toelichting en beantwoordt vragen van burgers en belangengroepen uit het onderwijs<span><span>[1]</span></span>en werkveld.</span></li><li><span>Je organiseert, begeleidt en faciliteert afstemmingsvergaderingen met interne en externe&nbsp;</span><span>betrokkenen.</span></li><li><span>Je documenteert nauwgezet en registreert de voortgang van de processen.</span></li><li><span>Je gebruikt monitoringsgegevens om de processen proactief op te volgen.</span></li><li><span>&nbsp;</span>Je verwerft kennis en je houdt ontwikkelingen rond het thema bij.</li><li>Je bouwt een brede expertise en een breed netwerk uit rond het thema.</li><li>Je draagt vanuit je expertise rond beroepskwalificaties bij aan andere opdrachten en projecten</li></ul><p>Lees meer over de functie in het selectiereglement als\nbijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor\nhet verdere verloop van de procedure.</p>",
-        "htmlEncoded": "<p><span>Ben jij iemand die graag de brug slaat tussen beleid en praktijk? Hou je ervan om structuur te brengen&nbsp;</span><span>in complexe processen? Krijg je energie van samenwerken en het verbinden van verschillende partners?&nbsp;</span><span>Wil je mee je schouders zetten onder de uitbouw van een kwaliteitsvolle kwalificatiestructuur in&nbsp;</span><span>Vlaanderen? Dan is deze functie iets voor jou!</span></p> <p><span>Als procesbeheerder beroepskwalificaties werk je mee aan één van de kernprocessen binnen onze&nbsp;</span><span>afdeling; het ontwikkelen van beroepskwalificaties. Jij bent de deskundige kracht die dit kernproces&nbsp;</span><span>zelfstandig en proactief opvolgt in nauwe afstemming met de proceseigenaar levenslang leren en de&nbsp;</span><span>procesbeheerder levenslang leren en in samenwerking met inhoudelijke deskundigen binnen de afdeling.&nbsp;</span><span>Als procesbeheerder beroepskwalificaties operationaliseer je de procedure voor de ontwikkeling van&nbsp;</span><span>beroepskwalificaties en coördineer je ook de concrete uitvoering van die procedure. Je gaat hierbij&nbsp;</span><span>regelmatig in overleg met collega’s, werkveldpartners en andere betrokkenen en zoekt daarbij naar&nbsp;</span><span>draagvlak. Je vindt compromissen binnen het kader dat de Vlaamse Regering vastlegt en rekening&nbsp;</span><span>houdend met de kwaliteitsstandaarden van AHOVOKS. Je volgt actief trends op de arbeidsmarkt en de&nbsp;</span><span>mogelijke impact ervan op onderwijs op. Naast de ontwikkeling van beroepskwalificaties, monitor je&nbsp;</span><span>actief de voortgang ervan op en bewaak je de kwaliteit van de registratie ervan in databanken. Verder&nbsp;</span><span>sta je in voor de communicatie over beroepskwalificaties via onze website en nieuwsbrieven en naar&nbsp;</span><span>aanleiding van concrete vragen van werkveldpartners, onderwijspartners en burgers. Je ontwikkelt ook&nbsp;</span><span>zelf beroepskwalificaties, meer specifiek binnen het domein STEM, en bent back-up voor de&nbsp;</span><span>procesbeheerder levenslang leren.</span></p> <p><span>Naast de opdrachten met betrekking tot het procesbeheer van de beroepskwalificaties kan je, indien&nbsp;</span><span>nodig en in onderling overleg, ook worden ingezet bij andere opdrachten binnen onze afdeling zoals de&nbsp;</span><span>ontwikkeling van onderwijsdoelen, de advisering van leerplannen en curriculumdossiers en de&nbsp;</span><span>kwaliteitsbeoordeling van leermiddelen.</span></p> <p><span>Een aantal voorbeelden van je taken; </span></p> <ul><li><span>Vanuit je ervaring en kennis adviseer je het management over het proces beroepskwalificaties,&nbsp;</span><span>over mogelijke knelpunten en opportuniteiten en reik je scenario’s aan.</span></li><li><span>Je werkt processen uit in overleg met de proceseigenaar en met de betrokken collega's. </span></li><li><span>Je plant de nodige stappen in de implementatie van de processen. </span></li><li><span>Je vertaalt concrete bevindingen en goede praktijken naar de proceseigenaar.</span></li><li><span>Je geeft toelichting en beantwoordt vragen van burgers en belangengroepen uit het onderwijs<span><span>[1]</span></span>en werkveld.</span></li><li><span>Je organiseert, begeleidt en faciliteert afstemmingsvergaderingen met interne en externe&nbsp;</span><span>betrokkenen.</span></li><li><span>Je documenteert nauwgezet en registreert de voortgang van de processen.</span></li><li><span>Je gebruikt monitoringsgegevens om de processen proactief op te volgen.</span></li><li><span>&nbsp;</span>Je verwerft kennis en je houdt ontwikkelingen rond het thema bij.</li><li>Je bouwt een brede expertise en een breed netwerk uit rond het thema.</li><li>Je draagt vanuit je expertise rond beroepskwalificaties bij aan andere opdrachten en projecten</li></ul><p>Lees meer over de functie in het selectiereglement als\nbijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor\nhet verdere verloop van de procedure.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -4788,41 +4651,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19028",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19028",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Justitieassistent Leuven"
-      },
-      "displayTitle": "Justitieassistent Leuven",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers?&nbsp;&nbsp;<br> Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?&nbsp;<br> We </span><span>zijn</span><span> op zoek naar justitieassistenten voor het jusititiehuis van Leuven:&nbsp;<br>- Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer.<br> </span><span>- Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de omgangsregelingen) procedures.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p>",
-        "htmlEncoded": "<p><span>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers?&nbsp;&nbsp;<br> Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?&nbsp;<br> We </span><span>zijn</span><span> op zoek naar justitieassistenten voor het jusititiehuis van Leuven:&nbsp;<br>- Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer.<br> </span><span>- Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de omgangsregelingen) procedures.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19027",
       "internal": false,
       "validThroughDate": "1757548800",
@@ -4903,6 +4731,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19020",
+      "internal": true,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19020",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundige project- en portfoliobeheer"
+      },
+      "displayTitle": "Deskundige project- en portfoliobeheer",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Met jouw expertise geef je richting aan hoe investeringsprojecten binnen het Agentschap Wegen en Verkeer worden opgevolgd en beheerd. Je zorgt voor een gedeelde werkwijze, betrouwbare data en een vlotte opvolging van projecten en programma’s. Dankzij jouw ondersteuning verlopen processen niet alleen efficiënter, maar ook transparanter en consistenter.</p><p>Als deskundige project- en portfoliobeheer ondersteun en begeleid je het project- en portfoliomanagement binnen AWV. Je ontwikkelt werkinstructies en handleidingen en verzorgt opleidingen over toepassingen die het investeringsproces ondersteunen. Je staat projectleiders en programmabeheerders bij in het gebruik van deze tools en fungeert als aanspreekpunt bij vragen of problemen. Je detecteert noden, doet verbetervoorstellen en helpt gebruikers om beschikbare data optimaal te benutten. Daarnaast analyseer je het gebruik van toepassingen en rapporteer je over hun werking en impact.</p><p>Je bouwt mee aan een dienstverlening die aansluit op de behoeften van de organisatie. Je volgt evoluties op, brengt gebruikersinzichten in kaart en stemt af met applicatiebeheerders. Je ondersteunt implementaties, vertaalt procedures naar bruikbare opleidingen en handleidingen en werkt actief mee aan de verbetering van methodieken, tools en applicaties.</p><p>Je adviseert gebruikers over het gebruik van toepassingen en methodieken, neemt deel aan werkgroepen en signaleert proactief knelpunten. Je bewaakt de kwaliteit van processen en dienstverlening, volgt het gebruik van applicaties op en evalueert klanttevredenheid. Je initieert verbetertrajecten en zorgt voor afstemming met andere processen binnen de organisatie.</p><p>Communicatie is een essentieel onderdeel van je rol. Je stelt nieuwsbrieven op, organiseert acties en events om het gebruik van applicaties te stimuleren en onderhoudt een netwerk van gebruikers. Je werkt samen met collega’s rond data en KPI’s en volgt trends in project- en portfoliomanagement. Tot slot ondersteun je projectleiders bij verslaggeving, planning en opvolging van taken.</p><p>Met jouw inzet bouw je mee aan een duurzame, efficiënte en gedragen projectwerking binnen AWV. Een functie met impact, waarin jouw expertise het verschil maakt.&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Met jouw expertise geef je richting aan hoe investeringsprojecten binnen het Agentschap Wegen en Verkeer worden opgevolgd en beheerd. Je zorgt voor een gedeelde werkwijze, betrouwbare data en een vlotte opvolging van projecten en programma’s. Dankzij jouw ondersteuning verlopen processen niet alleen efficiënter, maar ook transparanter en consistenter.</p><p>Als deskundige project- en portfoliobeheer ondersteun en begeleid je het project- en portfoliomanagement binnen AWV. Je ontwikkelt werkinstructies en handleidingen en verzorgt opleidingen over toepassingen die het investeringsproces ondersteunen. Je staat projectleiders en programmabeheerders bij in het gebruik van deze tools en fungeert als aanspreekpunt bij vragen of problemen. Je detecteert noden, doet verbetervoorstellen en helpt gebruikers om beschikbare data optimaal te benutten. Daarnaast analyseer je het gebruik van toepassingen en rapporteer je over hun werking en impact.</p><p>Je bouwt mee aan een dienstverlening die aansluit op de behoeften van de organisatie. Je volgt evoluties op, brengt gebruikersinzichten in kaart en stemt af met applicatiebeheerders. Je ondersteunt implementaties, vertaalt procedures naar bruikbare opleidingen en handleidingen en werkt actief mee aan de verbetering van methodieken, tools en applicaties.</p><p>Je adviseert gebruikers over het gebruik van toepassingen en methodieken, neemt deel aan werkgroepen en signaleert proactief knelpunten. Je bewaakt de kwaliteit van processen en dienstverlening, volgt het gebruik van applicaties op en evalueert klanttevredenheid. Je initieert verbetertrajecten en zorgt voor afstemming met andere processen binnen de organisatie.</p><p>Communicatie is een essentieel onderdeel van je rol. Je stelt nieuwsbrieven op, organiseert acties en events om het gebruik van applicaties te stimuleren en onderhoudt een netwerk van gebruikers. Je werkt samen met collega’s rond data en KPI’s en volgt trends in project- en portfoliomanagement. Tot slot ondersteun je projectleiders bij verslaggeving, planning en opvolging van taken.</p><p>Met jouw inzet bouw je mee aan een duurzame, efficiënte en gedragen projectwerking binnen AWV. Een functie met impact, waarin jouw expertise het verschil maakt.&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19018",
       "internal": false,
       "validThroughDate": "1758758400",
@@ -4933,41 +4796,6 @@
         {
           "address": {
             "city": "Ruiselede"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19009",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19009",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "beleidsmedewerker kwaliteitsborging van kringlopen bij circulair bouwen"
-      },
-      "displayTitle": "beleidsmedewerker kwaliteitsborging van kringlopen bij circulair bouwen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wilt u meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan bent u bij de OVAM aan het juiste adres. De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook u kunt uw steentje daar aan bijdragen!<br><br> De bouwsector wordt gekenmerkt door een hoog materiaalverbruik, een hoge afvalproductie, en een hoge milieu- en klimaatimpact. Het OVAM-beleid is erop toegespitst om deze impact te verminderen en van circulair bouwen de standaard te maken. Dit betekent: de materialenkringlopen zo efficiënt mogelijk sluiten door zo weinig mogelijk nieuwe grondstoffen te gebruiken, kiezen voor hergebruik en zo veel mogelijk afvalstoffen recycleren.<br><br> Het team Bouw werkt hard aan een circulaire bouwsector. We zorgen er voor dat milieu-impact en aanpasbaarheid worden meegenomen bij het ontwerp van gebouwen en infrastructuur. We stimuleren selectief slopen, gescheiden inzameling, afvoer en recyclage van verschillende materialen. We richten ons op het garanderen van de einde-afvalcriteria en kwaliteitsopvolging. Dit doen we voor de productie van gerecycleerde granulaten en andere bouwstoffen, het sorteren van gemengd bouw- en sloopafval en voortussenopslaglocaties.<br><br> We zijn op zoek naar een gepassioneerde en gedreven medewerker die team bouw kan versterken bij de ontwikkeling en optimalisatie van ons beleid. In overleg met collega’s en met de sector van slopers, brekers en sorteerbedrijven werkt u beleidsvoorstellen uit die de sector helpen verduurzamen.<br><br> Specifiek zoeken we een collega die zich wil toeleggen op de uitwerking en verbetering van kwaliteitsborgingsystemen voor gerecycleerde granulaten en andere bouwstoffen. Dit binnen het kader van het VLAREMA en het Materialendecreet. Bovendien wordt u betrokken bij de uitwerking van kwaliteitsborgingsystemen voor sorteren van gemengd bouw- en sloopafval, voor de tussentijdse opslag en voor de behandeling van specifieke bouw- en sloopafvalstromen.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Wilt u meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan bent u bij de OVAM aan het juiste adres. De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook u kunt uw steentje daar aan bijdragen!<br><br> De bouwsector wordt gekenmerkt door een hoog materiaalverbruik, een hoge afvalproductie, en een hoge milieu- en klimaatimpact. Het OVAM-beleid is erop toegespitst om deze impact te verminderen en van circulair bouwen de standaard te maken. Dit betekent: de materialenkringlopen zo efficiënt mogelijk sluiten door zo weinig mogelijk nieuwe grondstoffen te gebruiken, kiezen voor hergebruik en zo veel mogelijk afvalstoffen recycleren.<br><br> Het team Bouw werkt hard aan een circulaire bouwsector. We zorgen er voor dat milieu-impact en aanpasbaarheid worden meegenomen bij het ontwerp van gebouwen en infrastructuur. We stimuleren selectief slopen, gescheiden inzameling, afvoer en recyclage van verschillende materialen. We richten ons op het garanderen van de einde-afvalcriteria en kwaliteitsopvolging. Dit doen we voor de productie van gerecycleerde granulaten en andere bouwstoffen, het sorteren van gemengd bouw- en sloopafval en voortussenopslaglocaties.<br><br> We zijn op zoek naar een gepassioneerde en gedreven medewerker die team bouw kan versterken bij de ontwikkeling en optimalisatie van ons beleid. In overleg met collega’s en met de sector van slopers, brekers en sorteerbedrijven werkt u beleidsvoorstellen uit die de sector helpen verduurzamen.<br><br> Specifiek zoeken we een collega die zich wil toeleggen op de uitwerking en verbetering van kwaliteitsborgingsystemen voor gerecycleerde granulaten en andere bouwstoffen. Dit binnen het kader van het VLAREMA en het Materialendecreet. Bovendien wordt u betrokken bij de uitwerking van kwaliteitsborgingsystemen voor sorteren van gemengd bouw- en sloopafval, voor de tussentijdse opslag en voor de behandeling van specifieke bouw- en sloopafvalstromen.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Mechelen"
           }
         }
       ]
@@ -5285,76 +5113,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18977",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18977",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Natuurinspecteur Midden-Vlaanderen"
-      },
-      "displayTitle": "Natuurinspecteur Midden-Vlaanderen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij gepassioneerd door de natuur en wil je bijdragen aan het behoud en de bescherming ervan? Wij zijn op zoek naar twee natuurinspecteurs die ons team komen versterken.<br><br>De [inspectieregio midden-Vlaanderen omvat de provincie Antwerpen en het arrondissement Halle Vilvoorde maar focust in deze vacatures op de provincie Antwerpen. Meer concreet gaat het om de regio met de gemeenten tussen Schoten-Bonheiden, Edegem-Ranst en de regio met de gemeenten tussen Hemiksem-Wemmel, Puurs-Mechelen.<br><br><strong>Wie zoeken we?</strong></p><ul><li><strong>&nbsp;</strong>Mensen met een zekere maturiteit die teamspirit vertonen. Als natuurinspecteur plan, organiseer en bereid je je eigen werk zelfstandig voor. In moeilijke situaties moeten we echter op elkaar kunnen rekenen. We verwachten dat je bereid bent om bij te springen waar nodig.</li><li>Mensen die beschikken over het nodige inlevingsvermogen. Maar, het is ook essentieel dat je handhaving kunt uitvoeren zonder te veel betrokken te raken.</li><li>Mensen met een goede fysieke conditie en een flinke dosis weerbaarheid.</li><li>Mensen die communicatief vaardig zijn in moeilijke situaties.</li></ul><p>Een goede balans tussen kordaat en empathisch zijn, evenals tussen autonoom werken en teamspirit, is cruciaal.<br><br><strong>Wat ga je doen?</strong></p><ul><li><strong>&nbsp;</strong>De handhaving verhogen en overtredingen voorkomen.</li><li>Toezicht uitvoeren en opsporing doen in uitvoering van het handhavingsplan.</li><li>Bevindingen samenvatten en vastleggen in documenten (PV, verslag van vaststelling, nota, herstelmaatregel, enzovoort).</li><li>Nagaan of gepast gevolg wordt gegeven aan de opgelegde maatregelen.</li><li>Samenwerken en overleggen met diverse interne en externe collega’s om een uniforme en veilige aanpak van het handhavingsproces te garanderen.</li><li>Actief de nieuwe evoluties opvolgen en toepassen in het eigen vakgebied en werkterrein om de kwaliteit van het werk voortdurend te verbeteren.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij gepassioneerd door de natuur en wil je bijdragen aan het behoud en de bescherming ervan? Wij zijn op zoek naar twee natuurinspecteurs die ons team komen versterken.<br><br>De [inspectieregio midden-Vlaanderen omvat de provincie Antwerpen en het arrondissement Halle Vilvoorde maar focust in deze vacatures op de provincie Antwerpen. Meer concreet gaat het om de regio met de gemeenten tussen Schoten-Bonheiden, Edegem-Ranst en de regio met de gemeenten tussen Hemiksem-Wemmel, Puurs-Mechelen.<br><br><strong>Wie zoeken we?</strong></p><ul><li><strong>&nbsp;</strong>Mensen met een zekere maturiteit die teamspirit vertonen. Als natuurinspecteur plan, organiseer en bereid je je eigen werk zelfstandig voor. In moeilijke situaties moeten we echter op elkaar kunnen rekenen. We verwachten dat je bereid bent om bij te springen waar nodig.</li><li>Mensen die beschikken over het nodige inlevingsvermogen. Maar, het is ook essentieel dat je handhaving kunt uitvoeren zonder te veel betrokken te raken.</li><li>Mensen met een goede fysieke conditie en een flinke dosis weerbaarheid.</li><li>Mensen die communicatief vaardig zijn in moeilijke situaties.</li></ul><p>Een goede balans tussen kordaat en empathisch zijn, evenals tussen autonoom werken en teamspirit, is cruciaal.<br><br><strong>Wat ga je doen?</strong></p><ul><li><strong>&nbsp;</strong>De handhaving verhogen en overtredingen voorkomen.</li><li>Toezicht uitvoeren en opsporing doen in uitvoering van het handhavingsplan.</li><li>Bevindingen samenvatten en vastleggen in documenten (PV, verslag van vaststelling, nota, herstelmaatregel, enzovoort).</li><li>Nagaan of gepast gevolg wordt gegeven aan de opgelegde maatregelen.</li><li>Samenwerken en overleggen met diverse interne en externe collega’s om een uniforme en veilige aanpak van het handhavingsproces te garanderen.</li><li>Actief de nieuwe evoluties opvolgen en toepassen in het eigen vakgebied en werkterrein om de kwaliteit van het werk voortdurend te verbeteren.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": ""
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18938",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18938",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Kwaliteitsexpert"
-      },
-      "displayTitle": "Kwaliteitsexpert",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als kwaliteitsexpert ondersteun en adviseer je de collega’s van Agentschap Overheidspersoneel om hun dienstverlening kwalitatiever te maken. Je staat als procesexpert in voor het verder vormgeven van Agentschap Overheidspersoneel als procesgerichte organisatie, in lijn met de reeds uitgetekende strategie en methodologie.</span></p> <p><span>Je werkt hierbij nauw samen met je collega’s in het team Kwaliteit en met collega’s van andere afdelingen. De nadruk binnen jouw takenpakket zal liggen op ondersteuning bij het efficiënt en kwaliteitsvol in kaart brengen van end-to-end processen.</span></p> <p><span>Je komt terecht in de afdeling Ondersteunende en Overkoepelende Diensten en maakt deel uit van het team Kwaliteit. Team Kwaliteit zet zich in om Agentschap Overheidspersoneel als organisatie continu te verbeteren. Het team creëert meerwaarde door mensen en middelen samen te brengen in het streven naar een optimale verhouding tussen klantentevredenheid, efficiëntie en kwaliteit. Door medewerkers en teams te ondersteunen bij het omzetten van ideeën in concrete acties, draagt team Kwaliteit bij aan de verdere groei van een uitmuntende dienstverlening voor elke klant.</span></p> <p><span>Interesse? Stel je kandidaat!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Als kwaliteitsexpert ondersteun en adviseer je de collega’s van Agentschap Overheidspersoneel om hun dienstverlening kwalitatiever te maken. Je staat als procesexpert in voor het verder vormgeven van Agentschap Overheidspersoneel als procesgerichte organisatie, in lijn met de reeds uitgetekende strategie en methodologie.</span></p> <p><span>Je werkt hierbij nauw samen met je collega’s in het team Kwaliteit en met collega’s van andere afdelingen. De nadruk binnen jouw takenpakket zal liggen op ondersteuning bij het efficiënt en kwaliteitsvol in kaart brengen van end-to-end processen.</span></p> <p><span>Je komt terecht in de afdeling Ondersteunende en Overkoepelende Diensten en maakt deel uit van het team Kwaliteit. Team Kwaliteit zet zich in om Agentschap Overheidspersoneel als organisatie continu te verbeteren. Het team creëert meerwaarde door mensen en middelen samen te brengen in het streven naar een optimale verhouding tussen klantentevredenheid, efficiëntie en kwaliteit. Door medewerkers en teams te ondersteunen bij het omzetten van ideeën in concrete acties, draagt team Kwaliteit bij aan de verdere groei van een uitmuntende dienstverlening voor elke klant.</span></p> <p><span>Interesse? Stel je kandidaat!</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18930",
       "internal": false,
       "validThroughDate": "1758240000",
@@ -5495,41 +5253,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18911",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18911",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Productmanager catering"
-      },
-      "displayTitle": "Productmanager catering",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als productmanager catering ben jij de drijvende kracht om Het Facilitair Bedrijf richting een <b>moderne, innovatieve, klantgerichte en efficiënte cateringdienstverlening</b> te sturen!</p> <p><b>Dit doe je onder andere door:</b></p><ul><li><span>De visie en strategie (mee) te bepalen, die te vertalen in operationele processen, waarbij rollen en verantwoordelijkheden over afdelingen heen worden uitgewerkt</span></li><li>Het volledige productmanagement te coördineren voor alle aspecten van de cateringdienstverlening, mét inspraak van alle belanghebbenden</li><li>Een actief project- en procesmanagement op te nemen voor diverse verbeterprojecten om de dienstverlening en de interne werking continu verder te optimaliseren</li><li>Een doorgedreven kennis over alle aspecten van de dienstverlening op te bouwen, de markt te kennen én (pro)actief te delen doorheen de volledige Vlaamse overheid</li><li>Fungeren als eerste aanspreekpunt voor alle stakeholders met betrekking tot alle aspecten van de dienstverlening en de interne werking inzake catering</li><li>De rol ‘inhoudelijke functie’ op te nemen met betrekking tot catering binnen de competentiedriehoek bij alle raamcontracten catering</li></ul> <p><b>Wie ben jij?</b></p><ul><li><span>Je bent een doener en steekt de handen uit de mouwen</span></li><li><span>&nbsp;</span>Je kan zowel analytisch denken als syntheses formuleren en hebt een goed inzicht in de operationele werking</li><li>Je brengt het beste in de mensen waarmee je samenwerkt naar boven</li><li>Je kan vlot communiceren met diverse stakeholders</li><li>Je kan omgaan met spanningsvelden</li><li>Je bent nieuwsgierig en hebt een open geest</li><li>Je hebt een mindset van voortdurend verbeteren</li></ul> <p><b>Herken jij je hierin? Dan ben jij misschien de productmanager catering die we zoeken!</b></p><p>Wil je graag nog meer details over de job van\nproductmanager catering? <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18911+-+productmanager+catering+-+FB.pdf\">Lees dan verder via deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Als productmanager catering ben jij de drijvende kracht om Het Facilitair Bedrijf richting een <b>moderne, innovatieve, klantgerichte en efficiënte cateringdienstverlening</b> te sturen!</p> <p><b>Dit doe je onder andere door:</b></p><ul><li><span>De visie en strategie (mee) te bepalen, die te vertalen in operationele processen, waarbij rollen en verantwoordelijkheden over afdelingen heen worden uitgewerkt</span></li><li>Het volledige productmanagement te coördineren voor alle aspecten van de cateringdienstverlening, mét inspraak van alle belanghebbenden</li><li>Een actief project- en procesmanagement op te nemen voor diverse verbeterprojecten om de dienstverlening en de interne werking continu verder te optimaliseren</li><li>Een doorgedreven kennis over alle aspecten van de dienstverlening op te bouwen, de markt te kennen én (pro)actief te delen doorheen de volledige Vlaamse overheid</li><li>Fungeren als eerste aanspreekpunt voor alle stakeholders met betrekking tot alle aspecten van de dienstverlening en de interne werking inzake catering</li><li>De rol ‘inhoudelijke functie’ op te nemen met betrekking tot catering binnen de competentiedriehoek bij alle raamcontracten catering</li></ul> <p><b>Wie ben jij?</b></p><ul><li><span>Je bent een doener en steekt de handen uit de mouwen</span></li><li><span>&nbsp;</span>Je kan zowel analytisch denken als syntheses formuleren en hebt een goed inzicht in de operationele werking</li><li>Je brengt het beste in de mensen waarmee je samenwerkt naar boven</li><li>Je kan vlot communiceren met diverse stakeholders</li><li>Je kan omgaan met spanningsvelden</li><li>Je bent nieuwsgierig en hebt een open geest</li><li>Je hebt een mindset van voortdurend verbeteren</li></ul> <p><b>Herken jij je hierin? Dan ben jij misschien de productmanager catering die we zoeken!</b></p><p>Wil je graag nog meer details over de job van\nproductmanager catering? <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/kbbj/2025+-+Het+Facilitair+Bedrijf/18911+-+productmanager+catering+-+FB.pdf\">Lees dan verder via deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18905",
       "internal": false,
       "validThroughDate": "1759708800",
@@ -5560,51 +5283,6 @@
         {
           "address": {
             "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18903",
-      "internal": true,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18903",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "EM Verantwoordelijke Expert"
-      },
-      "displayTitle": "EM Verantwoordelijke Expert",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span><strong>Ben jij een expert in elektromechanica (EM) met zin voor organisatie en coördinatie? Wil je jouw technische specialisatie, kennis van het terrein en belanghebbenden binnen de regio en jouw leidinggevende capaciteiten combineren met een bredere project- en teamoverschrijdende verantwoordelijkheid binnen afdeling Techniek? Dan is deze uitdaging iets voor jou!</strong></span></p><p><span>Binnen de cel EHB (Elektromechanica, Hydraulica en Beheer) zijn drie regionale onderhoudsteams actief (Oost, Centraal en West), elk verantwoordelijk voor het onderhoud en de herstellingen aan het beweegbare patrimonium van DVW en haar partners. Tevens zorgen deze teams voor een performante wachtdienst.<span>&nbsp; </span>Elk team wordt geleid door een EM-verantwoordelijke.<br><br></span><span>Om de groeiende verantwoordelijkheden te ondersteunen, de visie op de cel EHB verder vorm te geven, specifieke investeringsprojecten uit te voeren en teamoverschrijdende optimalisaties en standaardisering in de werking door te voeren, zoeken we een regioverantwoordelijke EM die naast de reguliere taken een sleutelrol zal opnemen als EM Verantwoordelijke Expert.</span></p><p><span>Het takenpakket van een EM Verantwoordelijke Expert omvat:</span></p><ul><li><span>&nbsp;</span><span>het opnemen van complexe, regio-overschrijdende investeringsprojecten in opdracht van de cel investeringen van afdeling Techniek;</span></li><li>het coördineren en faciliteren van overkoepelende samenwerking tussen de drie regionale onderhoudsteams;</li><li>het ondersteunen van verdere standaardisering van de werking van de drie regionale onderhoudsteams conform de visie op onderhoudswerken;</li><li>het bieden van technische ondersteuning als expert binnen het ruime vakgebied;</li><li>het opvolgen of coördineren van team overschrijdende projecten/initiatieven/programma’s, zowel binnen de organisatie als voor externe partners;</li><li>het vormen van het vaste aanspreekpunt voor externe partners waarvoor ATE werkzaam is.</li></ul><p><span>Geprikkeld door deze functie?&nbsp;</span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><p>&nbsp;</p>",
-        "htmlEncoded": "<p><span><strong>Ben jij een expert in elektromechanica (EM) met zin voor organisatie en coördinatie? Wil je jouw technische specialisatie, kennis van het terrein en belanghebbenden binnen de regio en jouw leidinggevende capaciteiten combineren met een bredere project- en teamoverschrijdende verantwoordelijkheid binnen afdeling Techniek? Dan is deze uitdaging iets voor jou!</strong></span></p><p><span>Binnen de cel EHB (Elektromechanica, Hydraulica en Beheer) zijn drie regionale onderhoudsteams actief (Oost, Centraal en West), elk verantwoordelijk voor het onderhoud en de herstellingen aan het beweegbare patrimonium van DVW en haar partners. Tevens zorgen deze teams voor een performante wachtdienst.<span>&nbsp; </span>Elk team wordt geleid door een EM-verantwoordelijke.<br><br></span><span>Om de groeiende verantwoordelijkheden te ondersteunen, de visie op de cel EHB verder vorm te geven, specifieke investeringsprojecten uit te voeren en teamoverschrijdende optimalisaties en standaardisering in de werking door te voeren, zoeken we een regioverantwoordelijke EM die naast de reguliere taken een sleutelrol zal opnemen als EM Verantwoordelijke Expert.</span></p><p><span>Het takenpakket van een EM Verantwoordelijke Expert omvat:</span></p><ul><li><span>&nbsp;</span><span>het opnemen van complexe, regio-overschrijdende investeringsprojecten in opdracht van de cel investeringen van afdeling Techniek;</span></li><li>het coördineren en faciliteren van overkoepelende samenwerking tussen de drie regionale onderhoudsteams;</li><li>het ondersteunen van verdere standaardisering van de werking van de drie regionale onderhoudsteams conform de visie op onderhoudswerken;</li><li>het bieden van technische ondersteuning als expert binnen het ruime vakgebied;</li><li>het opvolgen of coördineren van team overschrijdende projecten/initiatieven/programma’s, zowel binnen de organisatie als voor externe partners;</li><li>het vormen van het vaste aanspreekpunt voor externe partners waarvoor ATE werkzaam is.</li></ul><p><span>Geprikkeld door deze functie?&nbsp;</span><span>Lees meer over de functie in het selectiereglement als bijlage bij ‘hoe solliciteren’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Willebroek"
-          }
-        },
-        {
-          "address": {
-            "city": "Wevelgem"
-          }
-        },
-        {
-          "address": {
-            "city": "Sint-Denijs-Westrem"
           }
         }
       ]
@@ -5820,76 +5498,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18726",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18726",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Boswachter regio Demerland en Zuiderkempen"
-      },
-      "displayTitle": "Boswachter regio Demerland en Zuiderkempen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De kern van de functie van boswachter is en blijft het beheren van terreinen. Boswachters zijn twee derde van hun tijd op het terrein om in hun boswachterij hun rol als beheerder en ambassadeur in te vullen. Het overige derde van hun tijd besteden ze aan overleg en administratie. Zij zijn het alziend oog dat ervoor zorgt dat iedereen op elkaar is afgestemd bij het omzetten van beheerplannen in tastbare realiteit. Meer dan vroeger werken ze ook samen met collega’s buiten hun eigen gebied. In voortdurend overleg wordt besproken wat er nodig is om in het eigen gebied, maar ook in dat van collega’s de doelen te realiseren die afgesproken werden.<br><br>We hebben een vacature voor een enthousiaste boswachter die een passie voor natuur heeft en zich wil inzetten voor een uniek stukje van de regio Zuid-Hageland. In de glooiende heuvels van Zuid-Hageland werk je mee aan het behoud en het herstel van unieke Europese natuurgebieden zoals droge en natte graslanden, bronbossen en kalkhellingen. Je combineert terreinwerk met overleg met lokale partners en eigenaars, en draagt actief bij aan een klimaatbestendig landschap.<br><br>Als boswachter ga je resoluut voor een multifunctioneel bos-, park- en natuurbeheer en wil je graag de handen uit de mouwen steken om tot afspraken te komen die zich vertalen in terreinrealisaties. Je bent vlot en flexibel beschikbaar in de regio en je kan je, ook in moeilijke omstandigheden, zelfstandig uit de slag trekken. Maar, je bent eveneens graag samen met de collega’s van het gehele team van de regio Demerland en Zuiderkempen en je neemt de nodige handhavingstaken op. En dit niet alleen tijdens de kantooruren maar ook tijdens de weekenddiensten volgens een op voorhand vastgelegd rooster.<br><br>In de toekomst zijn er ook nog vacatures mogelijk in de overige [boswachterijen in deze regio](https://selecties.s3.eu-west-1.amazonaws.com/omg/2025_ANB/Boswachterijen+Demerland+en+Zuiderkempen.pdf). Daarom leggen we nu al een werfreserve aan waar we dan bij een nieuwe vacature uit kunnen werven.<br><br>Wil je graag nog meer details over de job van Boswachter? Lees dan verder via [deze link](https://selecties.s3.eu-west-1.amazonaws.com/omg/2025_ANB/Boswachter_Jobinhoud+in+detail.docx).</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>De kern van de functie van boswachter is en blijft het beheren van terreinen. Boswachters zijn twee derde van hun tijd op het terrein om in hun boswachterij hun rol als beheerder en ambassadeur in te vullen. Het overige derde van hun tijd besteden ze aan overleg en administratie. Zij zijn het alziend oog dat ervoor zorgt dat iedereen op elkaar is afgestemd bij het omzetten van beheerplannen in tastbare realiteit. Meer dan vroeger werken ze ook samen met collega’s buiten hun eigen gebied. In voortdurend overleg wordt besproken wat er nodig is om in het eigen gebied, maar ook in dat van collega’s de doelen te realiseren die afgesproken werden.<br><br>We hebben een vacature voor een enthousiaste boswachter die een passie voor natuur heeft en zich wil inzetten voor een uniek stukje van de regio Zuid-Hageland. In de glooiende heuvels van Zuid-Hageland werk je mee aan het behoud en het herstel van unieke Europese natuurgebieden zoals droge en natte graslanden, bronbossen en kalkhellingen. Je combineert terreinwerk met overleg met lokale partners en eigenaars, en draagt actief bij aan een klimaatbestendig landschap.<br><br>Als boswachter ga je resoluut voor een multifunctioneel bos-, park- en natuurbeheer en wil je graag de handen uit de mouwen steken om tot afspraken te komen die zich vertalen in terreinrealisaties. Je bent vlot en flexibel beschikbaar in de regio en je kan je, ook in moeilijke omstandigheden, zelfstandig uit de slag trekken. Maar, je bent eveneens graag samen met de collega’s van het gehele team van de regio Demerland en Zuiderkempen en je neemt de nodige handhavingstaken op. En dit niet alleen tijdens de kantooruren maar ook tijdens de weekenddiensten volgens een op voorhand vastgelegd rooster.<br><br>In de toekomst zijn er ook nog vacatures mogelijk in de overige [boswachterijen in deze regio](https://selecties.s3.eu-west-1.amazonaws.com/omg/2025_ANB/Boswachterijen+Demerland+en+Zuiderkempen.pdf). Daarom leggen we nu al een werfreserve aan waar we dan bij een nieuwe vacature uit kunnen werven.<br><br>Wil je graag nog meer details over de job van Boswachter? Lees dan verder via [deze link](https://selecties.s3.eu-west-1.amazonaws.com/omg/2025_ANB/Boswachter_Jobinhoud+in+detail.docx).</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": ""
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18724",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18724",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Aankoper aankoopcentrale"
-      },
-      "displayTitle": "Aankoper aankoopcentrale",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als aankoper binnen onze gemeenschappelijke aankoopcentrale neem je een sleutelrol op in het realiseren van efficiënte en doordachte overheidsaankopen. Jij treedt op als projectleider voor diverse aankoopdossiers: je vernieuwt tijdig lopende contracten, start nieuwe dossiers op en volgt contracten nauwgezet op tijdens hun volledige looptijd. Problemen tijdens de uitvoering? Jij pakt ze proactief aan en bent het aanspreekpunt voor de contracten die je zelf beheert.<br><br>Je werkt intensief samen met interne klanten en vertaalt hun behoeften naar kostenbewuste en juridisch conforme aankopen. Door regelmatig overleg te organiseren en actief deel te nemen aan bestaande overlegmomenten, zorg je voor een goede afstemming tussen alle betrokken partijen.<br><br>In deze functie ben je verantwoordelijk voor het volledige aankoopproces van A tot Z. Je stelt lastenboeken op in nauwe samenwerking met technische experten, zodat zowel de inhoudelijke kwaliteit als de wettelijke vereisten gegarandeerd zijn. Daarbij zorg je ervoor dat alle aankopen verlopen volgens de wet op overheidsopdrachten, bij voorkeur via goed gestructureerde raamovereenkomsten.<br><br>Tot slot lever je ook een actieve bijdrage aan het optimaliseren van onze aankoopprocessen en procedures. Je denkt mee na over verbeteringen en werkt actief mee aan de verdere professionalisering van onze aankoopcentrale.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Als aankoper binnen onze gemeenschappelijke aankoopcentrale neem je een sleutelrol op in het realiseren van efficiënte en doordachte overheidsaankopen. Jij treedt op als projectleider voor diverse aankoopdossiers: je vernieuwt tijdig lopende contracten, start nieuwe dossiers op en volgt contracten nauwgezet op tijdens hun volledige looptijd. Problemen tijdens de uitvoering? Jij pakt ze proactief aan en bent het aanspreekpunt voor de contracten die je zelf beheert.<br><br>Je werkt intensief samen met interne klanten en vertaalt hun behoeften naar kostenbewuste en juridisch conforme aankopen. Door regelmatig overleg te organiseren en actief deel te nemen aan bestaande overlegmomenten, zorg je voor een goede afstemming tussen alle betrokken partijen.<br><br>In deze functie ben je verantwoordelijk voor het volledige aankoopproces van A tot Z. Je stelt lastenboeken op in nauwe samenwerking met technische experten, zodat zowel de inhoudelijke kwaliteit als de wettelijke vereisten gegarandeerd zijn. Daarbij zorg je ervoor dat alle aankopen verlopen volgens de wet op overheidsopdrachten, bij voorkeur via goed gestructureerde raamovereenkomsten.<br><br>Tot slot lever je ook een actieve bijdrage aan het optimaliseren van onze aankoopprocessen en procedures. Je denkt mee na over verbeteringen en werkt actief mee aan de verdere professionalisering van onze aankoopcentrale.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18671",
       "internal": false,
       "validThroughDate": "1757462400",
@@ -5920,41 +5528,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18628",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18628",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Helpdeskmedewerker IT"
-      },
-      "displayTitle": "Helpdeskmedewerker IT",
-      "isProtected": false,
-      "description": {
-        "raw": "Als junior IT-helpdeskmedewerker binnen de centrale diensten van het GO! ben je het eerste aanspreekpunt voor ICT-gerelateerde vragen en incidenten. Je ondersteunt eindgebruikers bij technische problemen, verzorgt een correcte registratie en analyse van meldingen, en werkt mee aan het optimaliseren van de werking van onze helpdesk. Je staat rechtstreeks in contact met medewerkers van de centrale diensten en escaleert waar nodig naar de tweede lijn. Je maakt deel uit van het ICT-team binnen de afdeling Organisatieondersteuning, waar samenwerking, klantgerichtheid en betrouwbaarheid centraal staan.",
-        "htmlEncoded": "Als junior IT-helpdeskmedewerker binnen de centrale diensten van het GO! ben je het eerste aanspreekpunt voor ICT-gerelateerde vragen en incidenten. Je ondersteunt eindgebruikers bij technische problemen, verzorgt een correcte registratie en analyse van meldingen, en werkt mee aan het optimaliseren van de werking van onze helpdesk. Je staat rechtstreeks in contact met medewerkers van de centrale diensten en escaleert waar nodig naar de tweede lijn. Je maakt deel uit van het ICT-team binnen de afdeling Organisatieondersteuning, waar samenwerking, klantgerichtheid en betrouwbaarheid centraal staan."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -6025,41 +5598,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18434",
-      "internal": false,
-      "validThroughDate": "1757289600",
-      "hiringOrganization": "Vlaamse Belastingdienst",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18434",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbehandelaar taxatie erfbelasting"
-      },
-      "displayTitle": "Dossierbehandelaar taxatie erfbelasting",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Zit jij graag met je neus in complexe dossiers én houd je van helderheid en structuur?&nbsp;</span></b><span>Dan hebben wij een boeiende functie voor jou.</span></p><p><span>Jij bent </span><b>analytisch sterk</b><span> en hebt een </span><b>praktische instelling</b><span>. Je vindt het interessant om je te verdiepen in </span><b>complexe dossiers rond erfbelasting</b><span> en weet daar met </span><b>zorg</b><span> en </span><b>precisie</b><span> mee om te gaan. </span><b>Wet- en regelgeving</b><span>, </span><b>procedures</b><span> en </span><b>richtlijnen</b><span> geven jou houvast – je gebruikt ze om </span><b>doordachte en goed onderbouwde beslissingen</b><span> voor te bereiden.</span></p><p><span>Je werkt graag </span><b>zelfstandig</b><span> en neemt graag </span><b>verantwoordelijkheid</b><span>. Je zoekt actief naar </span><b>oplossingen</b><span>, denkt mee over hoe dingen </span><b>beter</b><span> kunnen en pakt </span><b>verbeterkansen</b><span> ook echt op. </span><b>Flexibiliteit</b><span> zit in je houding: je springt bij waar nodig en neemt zonder moeite </span><b>extra taken</b><span> op je. Ook het </span><b>tijdelijk vervangen van je diensthoofd</b><span> zie je als een kans om je verder te ontwikkelen.</span></p><p><span>In je communicatie ben je </span><b>helder</b><span> en </span><b>professioneel</b><span>. Je behandelt </span><b>telefonische oproepen</b><span> over je eigen dossiers en bent een </span><b>aanspreekpunt voor collega’s</b><span> die jouw kennis en inzicht waarderen. Je draagt actief bij aan een </span><b>goede samenwerking</b><span> binnen het team.</span></p><p><b>Zie jij jezelf al in deze rol groeien?&nbsp;</b><span>Solliciteer dan nu en help mee om complexe erfbelastingdossiers duidelijk en zorgvuldig af te handelen – met jouw inzicht maak je écht het verschil.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij</span></p>",
-        "htmlEncoded": "<p><b><span>Zit jij graag met je neus in complexe dossiers én houd je van helderheid en structuur?&nbsp;</span></b><span>Dan hebben wij een boeiende functie voor jou.</span></p><p><span>Jij bent </span><b>analytisch sterk</b><span> en hebt een </span><b>praktische instelling</b><span>. Je vindt het interessant om je te verdiepen in </span><b>complexe dossiers rond erfbelasting</b><span> en weet daar met </span><b>zorg</b><span> en </span><b>precisie</b><span> mee om te gaan. </span><b>Wet- en regelgeving</b><span>, </span><b>procedures</b><span> en </span><b>richtlijnen</b><span> geven jou houvast – je gebruikt ze om </span><b>doordachte en goed onderbouwde beslissingen</b><span> voor te bereiden.</span></p><p><span>Je werkt graag </span><b>zelfstandig</b><span> en neemt graag </span><b>verantwoordelijkheid</b><span>. Je zoekt actief naar </span><b>oplossingen</b><span>, denkt mee over hoe dingen </span><b>beter</b><span> kunnen en pakt </span><b>verbeterkansen</b><span> ook echt op. </span><b>Flexibiliteit</b><span> zit in je houding: je springt bij waar nodig en neemt zonder moeite </span><b>extra taken</b><span> op je. Ook het </span><b>tijdelijk vervangen van je diensthoofd</b><span> zie je als een kans om je verder te ontwikkelen.</span></p><p><span>In je communicatie ben je </span><b>helder</b><span> en </span><b>professioneel</b><span>. Je behandelt </span><b>telefonische oproepen</b><span> over je eigen dossiers en bent een </span><b>aanspreekpunt voor collega’s</b><span> die jouw kennis en inzicht waarderen. Je draagt actief bij aan een </span><b>goede samenwerking</b><span> binnen het team.</span></p><p><b>Zie jij jezelf al in deze rol groeien?&nbsp;</b><span>Solliciteer dan nu en help mee om complexe erfbelastingdossiers duidelijk en zorgvuldig af te handelen – met jouw inzicht maak je écht het verschil.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
