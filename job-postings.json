@@ -2527,41 +2527,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-69757991",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-69757991",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Security Architect (Agentschap Wegen en Verkeer) via Vlaanderen Connect"
-      },
-      "displayTitle": "Security Architect (Agentschap Wegen en Verkeer) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De afdeling ICT &amp; Innovatie van het Agentschap Wegen en Verkeer ontwikkelt </span>bedrijfstoepassingen ter ondersteuning van de werking van het Agentschap. Binnen de afdeling is de Pijler Digitalisering verantwoordelijk voor de bouw van de bedrijfstoepassingen, en de Pijler ICT Service Management voor het operationeel beheer. Daarnaast zorgt het CIO Office voor de nodige richtlijnen over de pijlers heen, zowel op vlak van privacy (DPO), security (CISO), als architectuur.</p> \n<p><span>De Pijler Digitalisering heeft zes ontwikkelteams die toepassingen ontwikkelen volgens een </span>Agile-werkwijze. Elk team is verantwoordelijk voor een set van toepassingen.</p> \n<p><span>Voor het operationeel beheer heeft de Pijler ICT Service Management gestandaardiseerd op </span>Amazon Web Services (AWS) diensten, voornamelijk Elastic Kubernetes Service (EKS), S3 en RDS. De provisionering-, uitrol- en andere beheerprocessen zijn grotendeels geautomatiseerd.</p> \n<p><span>Als \n<strong>Systeem Security Architect </strong>versterk je het bestaande team van architecten en </span>integreer je in de pijler Digitalisering. Het architecten team bestaat uit een Enterprise Architect en een Security Architect. Het security team bestaat uit CISO, Security Architect en \n<span lang=\"EN-US\">Security Analist. </span>Daarnaast werk je samen met het bestaande DPO office. Je werkt nauw samen met de Enterprise Architect.</p> \n<p><span>Samen met deze teams ben je verantwoordelijk voor een aantal deeldomeinen binnen </span>Digitalisering. Voor de toegekende deeldomeinen ben je verantwoordelijk voor het ontwikkelen en uitwerken van een security architectuur en een strategisch implementatieplan dat ervoor zorgt dat de organisatie kan voldoen aan de NIS2-wetgeving en de maatregelen van het informatieclassificatie raamwerk (ICR).</p> \n<p><span>Je belangrijkste focus ligt op het identificeren en implementeren van maatregelen die NIS2 </span>en ICR compliance garanderen, terwijl je rekening houdt met de bestaande AWS infrastructuur alsook de bestaande ontwikkelingsprocessen.</p> \n<p><span>Je werkt nauw samen met de architecten, security team, DPO office de ontwikkelteams, de </span>Pijler ICT Service management, en het CIO Office om ervoor te zorgen dat alle systemen en processen voldoen aan de regelgeving, met minimale impact op de efficiëntie en effectiviteit van de ontwikkel- en beheerprocessen.</p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><span>●</span><span> Binnen je domeinen evalueren van de huidige infrastructuur, architectuur en de </span>bestaande processen in relatie tot ISO27000, NIS2 en ICR vereisten.</p> \n<p><span>●</span><span> Ontwikkelen voor je domein van een gedetailleerd implementatieplan voor NIS2/ICR </span>compliance met een specifieke focus op de vereisten gesteld binnen NIS 2 en ICR, waaronder beveiligingseisen, risicomanagement en monitoring/rapportering.</p> \n<p><span>●</span><span> Begeleiden van de uitvoering van het implementatieplan in samenwerking met de </span>stakeholders.</p> \n<p><span>●</span><span> Advies geven over architectuur beslissingen en -ontwerpen om een veilige en </span>conforme infrastructuur te garanderen.</p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>De afdeling ICT &amp; Innovatie van het Agentschap Wegen en Verkeer ontwikkelt </span>bedrijfstoepassingen ter ondersteuning van de werking van het Agentschap. Binnen de afdeling is de Pijler Digitalisering verantwoordelijk voor de bouw van de bedrijfstoepassingen, en de Pijler ICT Service Management voor het operationeel beheer. Daarnaast zorgt het CIO Office voor de nodige richtlijnen over de pijlers heen, zowel op vlak van privacy (DPO), security (CISO), als architectuur.</p> \n<p><span>De Pijler Digitalisering heeft zes ontwikkelteams die toepassingen ontwikkelen volgens een </span>Agile-werkwijze. Elk team is verantwoordelijk voor een set van toepassingen.</p> \n<p><span>Voor het operationeel beheer heeft de Pijler ICT Service Management gestandaardiseerd op </span>Amazon Web Services (AWS) diensten, voornamelijk Elastic Kubernetes Service (EKS), S3 en RDS. De provisionering-, uitrol- en andere beheerprocessen zijn grotendeels geautomatiseerd.</p> \n<p><span>Als \n<strong>Systeem Security Architect </strong>versterk je het bestaande team van architecten en </span>integreer je in de pijler Digitalisering. Het architecten team bestaat uit een Enterprise Architect en een Security Architect. Het security team bestaat uit CISO, Security Architect en \n<span lang=\"EN-US\">Security Analist. </span>Daarnaast werk je samen met het bestaande DPO office. Je werkt nauw samen met de Enterprise Architect.</p> \n<p><span>Samen met deze teams ben je verantwoordelijk voor een aantal deeldomeinen binnen </span>Digitalisering. Voor de toegekende deeldomeinen ben je verantwoordelijk voor het ontwikkelen en uitwerken van een security architectuur en een strategisch implementatieplan dat ervoor zorgt dat de organisatie kan voldoen aan de NIS2-wetgeving en de maatregelen van het informatieclassificatie raamwerk (ICR).</p> \n<p><span>Je belangrijkste focus ligt op het identificeren en implementeren van maatregelen die NIS2 </span>en ICR compliance garanderen, terwijl je rekening houdt met de bestaande AWS infrastructuur alsook de bestaande ontwikkelingsprocessen.</p> \n<p><span>Je werkt nauw samen met de architecten, security team, DPO office de ontwikkelteams, de </span>Pijler ICT Service management, en het CIO Office om ervoor te zorgen dat alle systemen en processen voldoen aan de regelgeving, met minimale impact op de efficiëntie en effectiviteit van de ontwikkel- en beheerprocessen.</p> \n<p><strong><span>Verantwoordelijkheden:</span></strong></p> \n<p><span>●</span><span> Binnen je domeinen evalueren van de huidige infrastructuur, architectuur en de </span>bestaande processen in relatie tot ISO27000, NIS2 en ICR vereisten.</p> \n<p><span>●</span><span> Ontwikkelen voor je domein van een gedetailleerd implementatieplan voor NIS2/ICR </span>compliance met een specifieke focus op de vereisten gesteld binnen NIS 2 en ICR, waaronder beveiligingseisen, risicomanagement en monitoring/rapportering.</p> \n<p><span>●</span><span> Begeleiden van de uitvoering van het implementatieplan in samenwerking met de </span>stakeholders.</p> \n<p><span>●</span><span> Advies geven over architectuur beslissingen en -ontwerpen om een veilige en </span>conforme infrastructuur te garanderen.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-69615980",
       "internal": false,
       "validThroughDate": "-1",
@@ -3721,6 +3686,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19133",
+      "internal": false,
+      "validThroughDate": "1758758400",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19133",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Technisch tekenaar"
+      },
+      "displayTitle": "Technisch tekenaar",
+      "isProtected": false,
+      "description": {
+        "raw": "<span>Als technisch tekenaar bij Sport Vlaanderen draag je bij aan het beheer en de actualisatie van onze gebouwen in heel Vlaanderen. Je zorgt ervoor dat onze plannen en modellen altijd up to date zijn en brengt structuur in de vele elementen die onze sportcentra rijk zijn. Je inventariseert ter plaatse alle technieken zoals elektriciteit, brandbestrijding en HVAC en verwerkt deze zorgvuldig in onze software. Met behulp van REVIT vertaal je nieuwe en bestaande elementen naar heldere en overzichtelijke plannen die het fundament vormen voor ons dagelijks beheer. <br><br>Je werkt nauw samen met de BIM manager en maakt deel uit van een hecht team van zes collega’s. Samen zorgen jullie ervoor dat wijzigingen zoals nieuwe vloeren, verbouwingen of aangepaste installaties correct worden verwerkt in de modellen. Je rapporteert rechtstreeks aan de directeur DBM en krijgt de kans om zelfstandig structuur en orde te brengen in complexe gegevens. <br><br>Omdat onze centra verspreid zijn over heel Vlaanderen, ben je regelmatig op pad. Een rijbewijs is daarbij zeker een plus. Je werkt georganiseerd en zorgvuldig, neemt verantwoordelijkheid en kan zelfstandig aan de slag, maar je vindt ook aansluiting bij het team waarmee je de gebouwen van Sport Vlaanderen toekomstbestendig maakt. <br><br>Wil jij meebouwen aan sportinfrastructuur die optimaal beheerd wordt en een meerwaarde betekent voor de sporters in Vlaanderen? Dan is dit jouw kans.<br></span><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<span>Als technisch tekenaar bij Sport Vlaanderen draag je bij aan het beheer en de actualisatie van onze gebouwen in heel Vlaanderen. Je zorgt ervoor dat onze plannen en modellen altijd up to date zijn en brengt structuur in de vele elementen die onze sportcentra rijk zijn. Je inventariseert ter plaatse alle technieken zoals elektriciteit, brandbestrijding en HVAC en verwerkt deze zorgvuldig in onze software. Met behulp van REVIT vertaal je nieuwe en bestaande elementen naar heldere en overzichtelijke plannen die het fundament vormen voor ons dagelijks beheer. <br><br>Je werkt nauw samen met de BIM manager en maakt deel uit van een hecht team van zes collega’s. Samen zorgen jullie ervoor dat wijzigingen zoals nieuwe vloeren, verbouwingen of aangepaste installaties correct worden verwerkt in de modellen. Je rapporteert rechtstreeks aan de directeur DBM en krijgt de kans om zelfstandig structuur en orde te brengen in complexe gegevens. <br><br>Omdat onze centra verspreid zijn over heel Vlaanderen, ben je regelmatig op pad. Een rijbewijs is daarbij zeker een plus. Je werkt georganiseerd en zorgvuldig, neemt verantwoordelijkheid en kan zelfstandig aan de slag, maar je vindt ook aansluiting bij het team waarmee je de gebouwen van Sport Vlaanderen toekomstbestendig maakt. <br><br>Wil jij meebouwen aan sportinfrastructuur die optimaal beheerd wordt en een meerwaarde betekent voor de sporters in Vlaanderen? Dan is dit jouw kans.<br></span><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
