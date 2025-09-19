@@ -1,11 +1,116 @@
 {
-  "totalItems": 165,
+  "totalItems": 167,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 164,
+  "lastItemOfPage": 166,
   "items": [
+    {
+      "link": "/Job/vdab-71991907",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71991907",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Programmaverantwoordelijke ITS en Innovatie (AWV) via Vlaanderen connect"
+      },
+      "displayTitle": "Programmaverantwoordelijke ITS en Innovatie (AWV) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>",
+        "htmlEncoded": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71989076",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71989076",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71988508",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71988508",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71987480",
       "internal": false,
@@ -347,41 +452,6 @@
       "description": {
         "raw": "<p><span> </span></p> \n<p><strong>Inleiding</strong></p> \n<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als analist wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat! </p> \n<p><strong>Waar kom je terecht? </strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. </p> \n<p>AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p><span>Als medewerker van AHOVOKS werk je samen met jouw collega’s aan de realisatie van deze missie en help je hiermee burgers.</span></p>",
         "htmlEncoded": "<p><span> </span></p> \n<p><strong>Inleiding</strong></p> \n<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als analist wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat! </p> \n<p><strong>Waar kom je terecht? </strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. </p> \n<p>AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.</p> \n<p><span>Als medewerker van AHOVOKS werk je samen met jouw collega’s aan de realisatie van deze missie en help je hiermee burgers.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71885736",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71885736",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product partners Dataplatform (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar drie product partners \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. </span></p> \n<p><span>Als Product Partner kom je terecht binnen het centraal team van de afdeling Dataplatform. </span></p> \n<p><span>Het centraal team bundelt de transversale rollen binnen de afdeling. De afdeling Data Platform identificeert, ontgrendelt en koppelt de data, nodig voor de digitale transformatie van Vlaanderen, door het uitbouwen en ondersteunen van betrouwbare dataregisters (Verenigingsregister, Adressenregister, Basiskaart Vlaanderen,…), naadloze integratie (MAGDA-platform, geo-webservices,…), inzichtelijke data analyses en data governance. De verschillende digitale bouwstenen en teams binnen de afdeling worden ondersteund door het Centraal team.</span></p> \n<p><span>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen.</span></p>"
       },
       "locations": [
         {
@@ -2072,41 +2142,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70636208",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70636208",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Fullstack.NET-ontwikkelaar expert (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een fullstack .NET-ontwikkelaar expert \n<strong> </strong>ter versterking van onze Data Platform afdeling binnen het team Data-integratietoepassingen. </span></p> \n<p><span><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als .NET-ontwikkelaar expert wil meewerken aan het ontwikkelen en in dienst nemen van toepassingen ter ondersteuning van ons dataintegratieplatform? Dan ben jij misschien wel onze ideale kandidaat! </span></span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></p> \n<p><span>Je komt terecht in het team Data-integratietoepassingen binnen de afdeling Data Platform. Dit team bouwt en neemt toepassingen in beheer die ondersteunend werken voor het centraal gegevensuitwisselingsplatform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als .NET-ontwikkelaar krijg je bij ons de kans om te werken met state-of-the-art technologie en kan je je technische vaardigheden verder ontwikkelen.</span></p> \n<p><span>Het team werkt voornamelijk vanuit het VAC te \n<strong>Gent</strong> (Virginie Lovelinggebouw). Af en toe verplaatsen we ons naar het VAC te Brussel (Herman Teirlinckgebouw).</span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<ul type=\"disc\"> \n<li><span>Als full-stack ontwikkelaar expert ben je verantwoordelijk voor het ontwikkelen en aanpassen van software op basis van user stories.</span></li> \n<li><span>Je schrijft efficiënte en onderhoudbare code, waarborgt kwalitatieve en veilige softwareoplossingen, en documenteert technische aspecten.</span></li> \n<li><span>Je schrijft testen zoals unit-testen, integratie-testen en API-testen, ondersteunt het team met je technische expertise en controleert de kwaliteit van nieuwe code via code reviews.</span></li> \n<li><span>Daarnaast coach je collega-ontwikkelaars, bewaak je de planning en deadlines van de technische backlog en stimuleer je continu de kennisontwikkeling en maturiteit binnen het team.</span></li> \n<li><span>Je neemt actief deel aan agile ceremonies zoals stand-ups, sprint planningen en retrospectives.</span></li> \n<li><span>Je werkt nauw samen met andere teamleden zoals architecten, ontwikkelaars, analisten, testers en product owners, communiceert vlot met alle teamleden en handelt proactief.</span></li> \n<li><span>Je verleent 3rd line support bij incidenten of klantenvragen en rapporteert aan een technisch architect, een functioneel of business analist, een project manager en de product owner.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70546293",
       "internal": false,
       "validThroughDate": "-1",
@@ -2627,6 +2662,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19393",
+      "internal": false,
+      "validThroughDate": "1764460800",
+      "hiringOrganization": "Opgroeien",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19393",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Consulent hulpverlener Sociale diensten Jeugdrechtbank Mechelen"
+      },
+      "displayTitle": "Consulent hulpverlener Sociale diensten Jeugdrechtbank Mechelen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Elk kind moet veilig, geliefd en gezond kunnen opgroeien. Maar <strong>wat\nals de veiligheid van een kind of jongere thuis in gevaar is</strong>? Als consulent volg jij <strong>verontrustende situaties in gezinnen</strong> op\nbij wie de hulpverleners op grenzen botsen.&nbsp;<br><br>Ondersteuningscentra en sociale diensten jeugdrechtbank (OSD) is op zoek\nnaar c<strong>onsulenten voor locatie Mechelen</strong>&nbsp;om de sociale\ndienst bij de jeugdrechtbank Mechelen (SDJ) te versterken. Het gaat over\ntijdelijke contracten maar met werkzekerheid op lange termijn.<br>Er zijn momenteel verschillende vacatures.</p><p><em>Een dag uit jouw leven als consulent:</em></p><ul><li>Je\n     onderzoekt of de<strong> overheid&nbsp;tussenbeide moet komen</strong> bij\n     verontrustende situaties in gezinnen. Dat doe je via gesprekken met de\n     ouders, de kinderen en hun netwerk, en door het dossier te analyseren.&nbsp;</li><li>Je\n     beslist samen met je team <strong>welke\n     hulp nodig</strong> is voor een gezin: begeleiding in het gezin of\n     doorverwijzing naar de gerechtelijke jeugdhulp.&nbsp;</li><li>Je stelt\n     een <strong>hulpverleningsprogramma </strong>     op, volgt de gezinnen en de kinderen op.&nbsp;</li><li>Je bent\n     het <strong>aanspreekpunt </strong>     bij vragen en bij noodsituaties, zoals bij geweld en misbruik.&nbsp;</li></ul><p><em>Waarom deze job echt iets voor jou is:</em></p><ul><li>Jij <strong>maakt\n     het verschil</strong> voor jongeren in problematische\n     opvoedingssituaties. Door hen een uitweg te bieden als het uitzichtloos\n     lijkt of hen in veiligheid te brengen. Want iedere jongere verdient het om\n     kansrijk en veilig op te groeien.&nbsp;&nbsp;</li><li>Jouw werk <strong>draait\n     100% om mensen</strong>. Je bent niet alleen de vertrouwenspersoon\n     voor de jongeren. Je komt ook terecht in een netwerk van\n     (jeugd)hulpverleners, jeugdrechters, parketmagistraten en psychiaters.&nbsp;&nbsp;</li><li>Je krijgt <strong>veel\n     vrijheid en verantwoordelijkheid</strong>. Door de thuisbezoeken en\n     contacten met partners ben je veel onderweg. Hoe je dat werk organiseert,\n     laten we aan jou over.&nbsp;&nbsp;</li></ul>",
+        "htmlEncoded": "<p>Elk kind moet veilig, geliefd en gezond kunnen opgroeien. Maar <strong>wat\nals de veiligheid van een kind of jongere thuis in gevaar is</strong>? Als consulent volg jij <strong>verontrustende situaties in gezinnen</strong> op\nbij wie de hulpverleners op grenzen botsen.&nbsp;<br><br>Ondersteuningscentra en sociale diensten jeugdrechtbank (OSD) is op zoek\nnaar c<strong>onsulenten voor locatie Mechelen</strong>&nbsp;om de sociale\ndienst bij de jeugdrechtbank Mechelen (SDJ) te versterken. Het gaat over\ntijdelijke contracten maar met werkzekerheid op lange termijn.<br>Er zijn momenteel verschillende vacatures.</p><p><em>Een dag uit jouw leven als consulent:</em></p><ul><li>Je\n     onderzoekt of de<strong> overheid&nbsp;tussenbeide moet komen</strong> bij\n     verontrustende situaties in gezinnen. Dat doe je via gesprekken met de\n     ouders, de kinderen en hun netwerk, en door het dossier te analyseren.&nbsp;</li><li>Je\n     beslist samen met je team <strong>welke\n     hulp nodig</strong> is voor een gezin: begeleiding in het gezin of\n     doorverwijzing naar de gerechtelijke jeugdhulp.&nbsp;</li><li>Je stelt\n     een <strong>hulpverleningsprogramma </strong>     op, volgt de gezinnen en de kinderen op.&nbsp;</li><li>Je bent\n     het <strong>aanspreekpunt </strong>     bij vragen en bij noodsituaties, zoals bij geweld en misbruik.&nbsp;</li></ul><p><em>Waarom deze job echt iets voor jou is:</em></p><ul><li>Jij <strong>maakt\n     het verschil</strong> voor jongeren in problematische\n     opvoedingssituaties. Door hen een uitweg te bieden als het uitzichtloos\n     lijkt of hen in veiligheid te brengen. Want iedere jongere verdient het om\n     kansrijk en veilig op te groeien.&nbsp;&nbsp;</li><li>Jouw werk <strong>draait\n     100% om mensen</strong>. Je bent niet alleen de vertrouwenspersoon\n     voor de jongeren. Je komt ook terecht in een netwerk van\n     (jeugd)hulpverleners, jeugdrechters, parketmagistraten en psychiaters.&nbsp;&nbsp;</li><li>Je krijgt <strong>veel\n     vrijheid en verantwoordelijkheid</strong>. Door de thuisbezoeken en\n     contacten met partners ben je veel onderweg. Hoe je dat werk organiseert,\n     laten we aan jou over.&nbsp;&nbsp;</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
           }
         }
       ]
