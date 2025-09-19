@@ -1,11 +1,46 @@
 {
-  "totalItems": 163,
+  "totalItems": 165,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 162,
+  "lastItemOfPage": 164,
   "items": [
+    {
+      "link": "/Job/vdab-71987480",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71987480",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "(ziekenhuis)apotheker"
+      },
+      "displayTitle": "(ziekenhuis)apotheker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je helpt mee bij de dagelijkse routinetaken en de organisatie van een doeltreffende, kwalitatieve en veilige geneesmiddelendistributie in het ziekenhuis. Je zorgt voor een kwaliteitsvolle informatieverlening naar artsen en verpleegkundigen. Je werkt in teamverband met de hoofdapotheker, 3 farmaceutisch-technisch assistenten en een administratief medewerker.\n<span> </span></p>",
+        "htmlEncoded": "<p>Je helpt mee bij de dagelijkse routinetaken en de organisatie van een doeltreffende, kwalitatieve en veilige geneesmiddelendistributie in het ziekenhuis. Je zorgt voor een kwaliteitsvolle informatieverlening naar artsen en verpleegkundigen. Je werkt in teamverband met de hoofdapotheker, 3 farmaceutisch-technisch assistenten en een administratief medewerker.\n<span> </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71969334",
       "internal": false,
@@ -2597,6 +2632,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19378",
+      "internal": false,
+      "validThroughDate": "1761955200",
+      "hiringOrganization": "ILVO Dier 68",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19378",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Allround Onderhoudsmedewerker Infrastructuur"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Allround Onderhoudsmedewerker Infrastructuur",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij een rol spelen in het onderhouden en verbeteren van onze infrastructuur? Heb je oog voor detail en draai je je hand niet om voor allerlei onderhouds- en herstellingswerken, zowel binnen als buiten? Ben je nieuwsgierig naar hoe een labo of stal werkt en wil je bijdragen aan een veilige, goed functionerende werkomgeving? Solliciteer nu en bouw mee aan onze toekomst.<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
+        "htmlEncoded": "Wil jij een rol spelen in het onderhouden en verbeteren van onze infrastructuur? Heb je oog voor detail en draai je je hand niet om voor allerlei onderhouds- en herstellingswerken, zowel binnen als buiten? Ben je nieuwsgierig naar hoe een labo of stal werkt en wil je bijdragen aan een veilige, goed functionerende werkomgeving? Solliciteer nu en bouw mee aan onze toekomst.<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19375",
       "internal": false,
       "validThroughDate": "1759363200",
@@ -3174,6 +3244,41 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19220",
+      "internal": false,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19220",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Stafmedewerker organisatieondersteuning"
+      },
+      "displayTitle": "Stafmedewerker organisatieondersteuning",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee vorm geven aan een sterke en toekomstgerichte organisatie? Als stafmedewerker organisatieontwikkeling bij de Vlaamse Milieumaatschappij (VMM) krijg je een centrale rol in het verbeteren van onze interne werking en dienstverlening. Vanuit de staf van de administrateur-generaal werk je mee aan het optimaliseren van processen, structuren en samenwerking, met als doel een efficiënte, kwaliteitsvolle en wendbare organisatie. </p><p>Je neemt deel aan organisatie brede projecten en zorgt voor een vlotte informatiedoorstroming binnen de organisatie. Je fungeert als aanspreekpunt voor interne en externe partners, waaronder Audit Vlaanderen. Je volgt de voortgang van interne processen op en draagt bij aan risicobeheersing en kwaliteitszorg. </p><p>Vanuit jouw expertise detecteer je noden en opportuniteiten op inhoudelijk, functioneel en organisatorisch vlak. Je verzamelt en analyseert gegevens, stelt rapporten en nota’s op, en ontwikkelt tools voor monitoring en rapportering. Je helpt mee om de dienstverlening verder uit te bouwen en af te stemmen op de behoeften van de organisatie. Daarbij werk je nauw samen met collega’s uit verschillende afdelingen en ondersteun je hen bij het realiseren van hun doelstellingen. </p><p>Je adviseert interne klanten proactief en op vraag, en bouwt interdisciplinaire kennis op om complexe vraagstukken mee te helpen oplossen. Je neemt deel aan stafvergaderingen, volgt gemaakte afspraken op en vertegenwoordigt de organisatie in werkgroepen en overlegmomenten. Je weet hoe je belangen afweegt, knelpunten signaleert en voorstellen helder toelicht, zowel intern als extern.</p><p> In deze functie werk je in een dynamische omgeving waar samenwerking, initiatief en kwaliteit centraal staan. Samen met je collega’s draag je bij aan de missie van de VMM: zorgen voor proper water, gezonde lucht en een klimaatbestendige leefomgeving voor huidige en toekomstige generaties.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Wil jij mee vorm geven aan een sterke en toekomstgerichte organisatie? Als stafmedewerker organisatieontwikkeling bij de Vlaamse Milieumaatschappij (VMM) krijg je een centrale rol in het verbeteren van onze interne werking en dienstverlening. Vanuit de staf van de administrateur-generaal werk je mee aan het optimaliseren van processen, structuren en samenwerking, met als doel een efficiënte, kwaliteitsvolle en wendbare organisatie. </p><p>Je neemt deel aan organisatie brede projecten en zorgt voor een vlotte informatiedoorstroming binnen de organisatie. Je fungeert als aanspreekpunt voor interne en externe partners, waaronder Audit Vlaanderen. Je volgt de voortgang van interne processen op en draagt bij aan risicobeheersing en kwaliteitszorg. </p><p>Vanuit jouw expertise detecteer je noden en opportuniteiten op inhoudelijk, functioneel en organisatorisch vlak. Je verzamelt en analyseert gegevens, stelt rapporten en nota’s op, en ontwikkelt tools voor monitoring en rapportering. Je helpt mee om de dienstverlening verder uit te bouwen en af te stemmen op de behoeften van de organisatie. Daarbij werk je nauw samen met collega’s uit verschillende afdelingen en ondersteun je hen bij het realiseren van hun doelstellingen. </p><p>Je adviseert interne klanten proactief en op vraag, en bouwt interdisciplinaire kennis op om complexe vraagstukken mee te helpen oplossen. Je neemt deel aan stafvergaderingen, volgt gemaakte afspraken op en vertegenwoordigt de organisatie in werkgroepen en overlegmomenten. Je weet hoe je belangen afweegt, knelpunten signaleert en voorstellen helder toelicht, zowel intern als extern.</p><p> In deze functie werk je in een dynamische omgeving waar samenwerking, initiatief en kwaliteit centraal staan. Samen met je collega’s draag je bij aan de missie van de VMM: zorgen voor proper water, gezonde lucht en een klimaatbestendige leefomgeving voor huidige en toekomstige generaties.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
           }
         }
       ]
@@ -3806,6 +3911,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19140",
+      "internal": false,
+      "validThroughDate": "1760054400",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19140",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundige klantenbeheer"
+      },
+      "displayTitle": "Deskundige klantenbeheer",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wilt u meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan bent u bij de OVAM aan het juiste adres. De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid voorbereidt en uitvoert. Ook u kunt uw steentje daaraan bijdragen.&nbsp; </p><p>Als deskundige Klantenbeheer maak je deel uit van het team Klantenbeheer en bouw je een brug tussen de inhoudelijke expertise van de OVAM en de vragen van burgers, bedrijven en overheden. Je verdiept je in de thema’s afval en materialen en ontwikkelt je tot intern aanspreekpunt voor deze materie. Je werkt nauw samen met de afdeling Afval- en Materialenbeheer en draagt bij aan een klantgerichte en toegankelijke informatievoorziening. Daarnaast bouw je ook een basiskennis op voor de andere materies binnen OVAM, namelijk bodem en asbest.&nbsp; </p><p>Een belangrijk deel van je rol bestaat uit het behandelen van vragen en klachten via telefoon, mail of brief. Je zorgt voor een correcte en professionele afhandeling en bewaakt de kwaliteit van de communicatie. Door externe communicatie te centraliseren, ondersteun je dossierbeheerders en geef je hen de ruimte om zich te focussen op hun inhoudelijke taken. Je zorgt mee voor een vlotte opvolging van dossiers en processen, en draagt bij aan een consistente en betrouwbare dienstverlening. </p><p>Daarnaast verdiep je je in de inhoudelijke kant van klantenbeheer. Je analyseert hoe informatie momenteel wordt verstrekt, identificeert waar verbeteringen mogelijk zijn en stelt een implementatieplan op om de communicatie naar burgers en andere stakeholders te optimaliseren. Je neemt proactief contact op met collega’s om kennis op te bouwen en te delen, en vertaalt complexe materie naar heldere en toegankelijke informatie. Zo help je mee om de OVAM als klantgerichte en transparante organisatie te versterken. </p><p>Je komt terecht in een multidisciplinair team dat zich inzet voor een duurzame toekomst. Binnen deze omgeving krijg je ruimte om initiatief te nemen, mee te denken over verbeteringen en je expertise verder uit te bouwen. Je draagt actief bij aan de maatschappelijke missie van de OVAM en helpt mee om Vlaanderen circulair en milieubewust te maken. </p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wilt u meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan bent u bij de OVAM aan het juiste adres. De OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid voorbereidt en uitvoert. Ook u kunt uw steentje daaraan bijdragen.&nbsp; </p><p>Als deskundige Klantenbeheer maak je deel uit van het team Klantenbeheer en bouw je een brug tussen de inhoudelijke expertise van de OVAM en de vragen van burgers, bedrijven en overheden. Je verdiept je in de thema’s afval en materialen en ontwikkelt je tot intern aanspreekpunt voor deze materie. Je werkt nauw samen met de afdeling Afval- en Materialenbeheer en draagt bij aan een klantgerichte en toegankelijke informatievoorziening. Daarnaast bouw je ook een basiskennis op voor de andere materies binnen OVAM, namelijk bodem en asbest.&nbsp; </p><p>Een belangrijk deel van je rol bestaat uit het behandelen van vragen en klachten via telefoon, mail of brief. Je zorgt voor een correcte en professionele afhandeling en bewaakt de kwaliteit van de communicatie. Door externe communicatie te centraliseren, ondersteun je dossierbeheerders en geef je hen de ruimte om zich te focussen op hun inhoudelijke taken. Je zorgt mee voor een vlotte opvolging van dossiers en processen, en draagt bij aan een consistente en betrouwbare dienstverlening. </p><p>Daarnaast verdiep je je in de inhoudelijke kant van klantenbeheer. Je analyseert hoe informatie momenteel wordt verstrekt, identificeert waar verbeteringen mogelijk zijn en stelt een implementatieplan op om de communicatie naar burgers en andere stakeholders te optimaliseren. Je neemt proactief contact op met collega’s om kennis op te bouwen en te delen, en vertaalt complexe materie naar heldere en toegankelijke informatie. Zo help je mee om de OVAM als klantgerichte en transparante organisatie te versterken. </p><p>Je komt terecht in een multidisciplinair team dat zich inzet voor een duurzame toekomst. Binnen deze omgeving krijg je ruimte om initiatief te nemen, mee te denken over verbeteringen en je expertise verder uit te bouwen. Je draagt actief bij aan de maatschappelijke missie van de OVAM en helpt mee om Vlaanderen circulair en milieubewust te maken. </p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
           }
         }
       ]
@@ -4540,41 +4680,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19038",
-      "internal": false,
-      "validThroughDate": "1758153600",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19038",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Stafmedewerker strategische beleidsplanning"
-      },
-      "displayTitle": "Stafmedewerker strategische beleidsplanning",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij klaar om als stafmedewerker strategische beleidsplanning een sleutelrol te spelen in het Vlaamse milieubeleid en de verdere ontwikkeling van onze organisatie? Heb je zin om aan de slag te gaan in een functie die mee vorm geeft aan de werking en structuur van de organisatie? Dan is deze vacature iets voor jou!<br><br> Binnen de staf van de administrateur-generaal krijg je een unieke positie waarin je het verschil maakt. Je krijgt de kans om je in te zetten voor de strategische ondersteuning. Zo draag je bij aan de ondersteuning van de administrateur-generaal in het optimaal realiseren van de organisatiedoelstellingen en in het uitwerken van projecten om te zorgen voor een kwalitatieve output. <span>Dat doe je in nauwe samenwerking met collega’s, in het bijzonder afdelingshoofden en andere stafmedewerkers.<br><br> </span></span><span>Jouw hoofdtaak is de ondersteuning bij beleidsplanning, fungeren als secretaris van de directieraad en ankerpunt zijn voor de VMM naar het departement Omgeving (voorbereiding beleidsraad, managementcomité beleidsdomein en opvolging voorzitterscollege). Daarnaast kan je ook ingeschakeld worden bij andere reguliere taken van de staf, zoals bijvoorbeeld het werken rond de organisatiecultuur, deelnemen aan strategische vergaderingen, stuur- en werkgroepen en opvolgen van organisatiebrede projecten, afstemming met het kabinet, enz.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij klaar om als stafmedewerker strategische beleidsplanning een sleutelrol te spelen in het Vlaamse milieubeleid en de verdere ontwikkeling van onze organisatie? Heb je zin om aan de slag te gaan in een functie die mee vorm geeft aan de werking en structuur van de organisatie? Dan is deze vacature iets voor jou!<br><br> Binnen de staf van de administrateur-generaal krijg je een unieke positie waarin je het verschil maakt. Je krijgt de kans om je in te zetten voor de strategische ondersteuning. Zo draag je bij aan de ondersteuning van de administrateur-generaal in het optimaal realiseren van de organisatiedoelstellingen en in het uitwerken van projecten om te zorgen voor een kwalitatieve output. <span>Dat doe je in nauwe samenwerking met collega’s, in het bijzonder afdelingshoofden en andere stafmedewerkers.<br><br> </span></span><span>Jouw hoofdtaak is de ondersteuning bij beleidsplanning, fungeren als secretaris van de directieraad en ankerpunt zijn voor de VMM naar het departement Omgeving (voorbereiding beleidsraad, managementcomité beleidsdomein en opvolging voorzitterscollege). Daarnaast kan je ook ingeschakeld worden bij andere reguliere taken van de staf, zoals bijvoorbeeld het werken rond de organisatiecultuur, deelnemen aan strategische vergaderingen, stuur- en werkgroepen en opvolgen van organisatiebrede projecten, afstemming met het kabinet, enz.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19026",
       "internal": true,
       "validThroughDate": "1758758400",
@@ -5122,41 +5227,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18928",
-      "internal": false,
-      "validThroughDate": "1758153600",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18928",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectleider ICT"
-      },
-      "displayTitle": "Projectleider ICT",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>IT’ers rechtlijnige denkers? Jij alvast niet. En dat komt goed van pas, want als ICT-projectleider bij het Departement Omgeving leid jij digitaliseringsprojecten die buiten de lijntjes kleuren. Projecten die niet netjes in bestaande programma’s passen, maar wél impact hebben op hoe we werken, samenwerken en onze omgeving beheren. Jij brengt structuur waar nodig, en bewaart tegelijk genoeg flexibiliteit om samen met je team een werkbare, duurzame oplossing te bouwen.<br><br> Van projectdefinitie tot overdracht: jij trekt het hele traject. Als projectleider stel je de projectaanpak voor in functie van de noden en beschikbare middelen. Je maakt duidelijke werkpakketten op en waakt erover dat wettelijke vereisten zoals dataveiligheid ingebouwd zijn van bij de start. De planning van het team verloopt met tweewekelijkse sprints. Die volg jij op en je ondersteunt collega’s onderweg. Komt je team een obstakel tegen? Dan zoek je naar een geschikte oplossing. En na afloop zorg jij ervoor dat de opgebouwde kennis en afspraken een vaste plek krijgen in de werking.<br><br> Heb je minstens 4 jaar ervaring met projectleiding in een middelgrote organisatie? En ben je klaar voor een rol waarin je niet alleen coördineert, maar ook écht mee vormgeeft aan een digitale overheid? Dan is dit een job op jouw maat.<br><br> Lees hieronder de details en laat je kandidatuur maar komen.</span><span> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>IT’ers rechtlijnige denkers? Jij alvast niet. En dat komt goed van pas, want als ICT-projectleider bij het Departement Omgeving leid jij digitaliseringsprojecten die buiten de lijntjes kleuren. Projecten die niet netjes in bestaande programma’s passen, maar wél impact hebben op hoe we werken, samenwerken en onze omgeving beheren. Jij brengt structuur waar nodig, en bewaart tegelijk genoeg flexibiliteit om samen met je team een werkbare, duurzame oplossing te bouwen.<br><br> Van projectdefinitie tot overdracht: jij trekt het hele traject. Als projectleider stel je de projectaanpak voor in functie van de noden en beschikbare middelen. Je maakt duidelijke werkpakketten op en waakt erover dat wettelijke vereisten zoals dataveiligheid ingebouwd zijn van bij de start. De planning van het team verloopt met tweewekelijkse sprints. Die volg jij op en je ondersteunt collega’s onderweg. Komt je team een obstakel tegen? Dan zoek je naar een geschikte oplossing. En na afloop zorg jij ervoor dat de opgebouwde kennis en afspraken een vaste plek krijgen in de werking.<br><br> Heb je minstens 4 jaar ervaring met projectleiding in een middelgrote organisatie? En ben je klaar voor een rol waarin je niet alleen coördineert, maar ook écht mee vormgeeft aan een digitale overheid? Dan is dit een job op jouw maat.<br><br> Lees hieronder de details en laat je kandidatuur maar komen.</span><span> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
