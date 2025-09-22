@@ -1,11 +1,116 @@
 {
-  "totalItems": 160,
+  "totalItems": 164,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 159,
+  "lastItemOfPage": 163,
   "items": [
+    {
+      "link": "/Job/vdab-72014586",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Opgroeien",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72014586",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen"
+      },
+      "displayTitle": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>",
+        "htmlEncoded": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72012416",
+      "internal": false,
+      "validThroughDate": "1760227200",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72012416",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "teamcoördinator LZ"
+      },
+      "displayTitle": "teamcoördinator LZ",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span lang=\"EN-US\">Over het LZ-team</span></strong><strong></strong></p> \n<p><span lang=\"EN-US\">Ons langdurig zorgteam (LZ-team) begeleidt volwassenen met een ernstige en langdurige psychische kwetsbaarheid in hun eigen leefomgeving. Samen met cliënten, hun familie en onze partners bouwen we aan herstelgericht werken en kwaliteitsvolle zorg.</span></p> \n<ul type=\"disc\"> \n<li><span lang=\"EN-US\">Je leidt een multidisciplinair mobiel team dat maatwerk biedt.</span></li> \n<li><span lang=\"EN-US\">Je stimuleert samenwerking binnen én buiten het GGZ-netwerk.</span></li> \n<li><span lang=\"EN-US\">Je zorgt dat cliënten steeds de juiste zorg op maat krijgen via hun begeleider (casemanager) – individueel of intensief in teamverband.</span></li> </ul> \n<p><strong><span lang=\"EN-US\">Jouw rol als Teamcoördinator</span></strong><strong></strong></p> \n<p><span lang=\"EN-US\">Als verbindende en enthousiasmerende leidinggevende:</span></p> \n<ul type=\"disc\"> \n<li><span lang=\"EN-US\">creëer je een positief werkklimaat waar samenwerking en innovatie centraal staan;</span></li> \n<li><span lang=\"EN-US\">motiveer je je teamleden om te groeien en initiatief te nemen;</span></li> \n<li><span lang=\"EN-US\">organiseer je de zorg met respect en professionaliteit;</span></li> \n<li><span lang=\"EN-US\">bouw je bruggen met netwerkpartners en draag je actief onze visie op herstelgericht werken uit.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span lang=\"EN-US\">Over het LZ-team</span></strong><strong></strong></p> \n<p><span lang=\"EN-US\">Ons langdurig zorgteam (LZ-team) begeleidt volwassenen met een ernstige en langdurige psychische kwetsbaarheid in hun eigen leefomgeving. Samen met cliënten, hun familie en onze partners bouwen we aan herstelgericht werken en kwaliteitsvolle zorg.</span></p> \n<ul type=\"disc\"> \n<li><span lang=\"EN-US\">Je leidt een multidisciplinair mobiel team dat maatwerk biedt.</span></li> \n<li><span lang=\"EN-US\">Je stimuleert samenwerking binnen én buiten het GGZ-netwerk.</span></li> \n<li><span lang=\"EN-US\">Je zorgt dat cliënten steeds de juiste zorg op maat krijgen via hun begeleider (casemanager) – individueel of intensief in teamverband.</span></li> </ul> \n<p><strong><span lang=\"EN-US\">Jouw rol als Teamcoördinator</span></strong><strong></strong></p> \n<p><span lang=\"EN-US\">Als verbindende en enthousiasmerende leidinggevende:</span></p> \n<ul type=\"disc\"> \n<li><span lang=\"EN-US\">creëer je een positief werkklimaat waar samenwerking en innovatie centraal staan;</span></li> \n<li><span lang=\"EN-US\">motiveer je je teamleden om te groeien en initiatief te nemen;</span></li> \n<li><span lang=\"EN-US\">organiseer je de zorg met respect en professionaliteit;</span></li> \n<li><span lang=\"EN-US\">bouw je bruggen met netwerkpartners en draag je actief onze visie op herstelgericht werken uit.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72009929",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "VLAAMSE VERENIGING VOOR ICT-PERSONE",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72009929",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner (DBRC) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner (DBRC) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een product owner - analist. Ben jij op zoek naar een nieuwe uitdaging waarbij je als product owner wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong>De functie in het kort</strong></p> \n<p>De functie van product owner – analist komt niet volledig overeen met de functiebeschrijving van product owner zoals gedefinieerd in SCRUM of SAFe. Hoewel de DBRC in de context van projecten een iteratieve aanpak implementeert en daarbij delen van de SCRUM methodologie gebruikt zijn er beperkingen binnen de Vlaamse overheid waardoor volledig ‘Agile’ werken niet mogelijk is. Projecten kunnen slechts aanbesteed worden met een vooraf opgesteld lasten boek en goedgekeurd worden met een duidelijke beschreven budget. Binnen deze condities werkt de DBRC echter wel met een geprioriteerde backlog en iteratieve uitvoering op basis van voortschrijdend inzicht. Als Product owner – analyst focus je je op:</p> \n<p>Het in samenwerking met de proces owners in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. De product owner is verantwoordelijk voor het verder uitwerken de businesscases in project vereisten en vervolgens te implementeren stories. Omdat de DBRC slechts een klein ICT team heeft worden op basis van de vereisten partners gezocht om de vereisten te implementeren, de product owner speelt een actieve rol in het opstellen van, het inhoudelijke deel, van de contracten met deze partners. Na het uitbesteden van de werkzaamheden is de product owner verantwoordelijk voor de verdere (inhoudelijke) opvolgen van het implementeren van de stories door de gekozen partner en het uiteindelijk accepteren van de oplossing. Nauwe samenwerking met de projectleider maar vooral de functioneel analisten van de partners alsook de testers van de partners en UAT testers van de DBRC is daarvoor absoluut noodzakelijk. Deze rol fungeert als brug tussen de business en ICT partners en vormt de basis voor het ontwikkelen van maatwerkoplossingen die aansluiten bij de behoeften van de organisatie.</p> \n<p>Daarnaast is de product owner samen met de applicatie beheerder verantwoordelijk voor het optimale gebruik en evolutie van het applicatie landschap. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</p>",
+        "htmlEncoded": "<p>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een product owner - analist. Ben jij op zoek naar een nieuwe uitdaging waarbij je als product owner wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong>De functie in het kort</strong></p> \n<p>De functie van product owner – analist komt niet volledig overeen met de functiebeschrijving van product owner zoals gedefinieerd in SCRUM of SAFe. Hoewel de DBRC in de context van projecten een iteratieve aanpak implementeert en daarbij delen van de SCRUM methodologie gebruikt zijn er beperkingen binnen de Vlaamse overheid waardoor volledig ‘Agile’ werken niet mogelijk is. Projecten kunnen slechts aanbesteed worden met een vooraf opgesteld lasten boek en goedgekeurd worden met een duidelijke beschreven budget. Binnen deze condities werkt de DBRC echter wel met een geprioriteerde backlog en iteratieve uitvoering op basis van voortschrijdend inzicht. Als Product owner – analyst focus je je op:</p> \n<p>Het in samenwerking met de proces owners in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. De product owner is verantwoordelijk voor het verder uitwerken de businesscases in project vereisten en vervolgens te implementeren stories. Omdat de DBRC slechts een klein ICT team heeft worden op basis van de vereisten partners gezocht om de vereisten te implementeren, de product owner speelt een actieve rol in het opstellen van, het inhoudelijke deel, van de contracten met deze partners. Na het uitbesteden van de werkzaamheden is de product owner verantwoordelijk voor de verdere (inhoudelijke) opvolgen van het implementeren van de stories door de gekozen partner en het uiteindelijk accepteren van de oplossing. Nauwe samenwerking met de projectleider maar vooral de functioneel analisten van de partners alsook de testers van de partners en UAT testers van de DBRC is daarvoor absoluut noodzakelijk. Deze rol fungeert als brug tussen de business en ICT partners en vormt de basis voor het ontwikkelen van maatwerkoplossingen die aansluiten bij de behoeften van de organisatie.</p> \n<p>Daarnaast is de product owner samen met de applicatie beheerder verantwoordelijk voor het optimale gebruik en evolutie van het applicatie landschap. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-71991907",
       "internal": false,
@@ -30,8 +135,8 @@
       "displayTitle": "Programmaverantwoordelijke ITS en Innovatie (AWV) via Vlaanderen connect",
       "isProtected": false,
       "description": {
-        "raw": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>",
-        "htmlEncoded": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>"
+        "raw": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p> \n<p><span>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.\n<br></span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Je maakt deel uit van het Portfolio Management Office Innovatie (PMO Innovatie), dat op zijn beurt deel uitmaakt van het CIO Office van de afdeling ICT en Innovatie. Het PMO Innovatie heeft als doel AWV voor te bereiden op de toekomst door de nieuwste ontwikkelingen te identificeren, de impact hiervan op onze activiteiten te analyseren en een visie- en strategieontwikkeling te formuleren om hiermee om te gaan.Het PMO Innovatie werkt concrete innovatietrajecten uit volgens het learning by doing principe. Voor de lopende innovatieprogramma’s monitort en rapporteert het PMO Innovatie de voortgang en verleent ze advies.</span></p> \n<p><span>Het team participeert actief in Europees en Belgisch overleg en in Vlaamse proefprojecten op het gebied van onder andere C-ITS (coöperatieve ITS: geconnecteerde voertuigen en voertuig-naar-infrastructuur-communicatie) en CAD (geconnecteerd en autonoom rijden).</span></p>",
+        "htmlEncoded": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p> \n<p><span>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.\n<br></span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Je maakt deel uit van het Portfolio Management Office Innovatie (PMO Innovatie), dat op zijn beurt deel uitmaakt van het CIO Office van de afdeling ICT en Innovatie. Het PMO Innovatie heeft als doel AWV voor te bereiden op de toekomst door de nieuwste ontwikkelingen te identificeren, de impact hiervan op onze activiteiten te analyseren en een visie- en strategieontwikkeling te formuleren om hiermee om te gaan.Het PMO Innovatie werkt concrete innovatietrajecten uit volgens het learning by doing principe. Voor de lopende innovatieprogramma’s monitort en rapporteert het PMO Innovatie de voortgang en verleent ze advies.</span></p> \n<p><span>Het team participeert actief in Europees en Belgisch overleg en in Vlaamse proefprojecten op het gebied van onder andere C-ITS (coöperatieve ITS: geconnecteerde voertuigen en voertuig-naar-infrastructuur-communicatie) en CAD (geconnecteerd en autonoom rijden).</span></p>"
       },
       "locations": [
         {
@@ -2774,6 +2879,41 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19330",
+      "internal": false,
+      "validThroughDate": "1759881600",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19330",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Programmamanager Topsport"
+      },
+      "displayTitle": "Programmamanager Topsport",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je een hart voor sport en wil je meebouwen aan het Vlaamse topsportbeleid? Dan is deze functie iets voor jou! Als Programmamanager Topsport bij Sport Vlaanderen ondersteun je federaties bij het opstellen en uitvoeren van hun topsportbeleid. Je adviseert de Taskforce Topsport, de lijnmanager en de minister over subsidies en financiering van topsportprogramma’s. Daarnaast speel je een cruciale rol in de uitvoering van het Topsportactieplan Vlaanderen.</span></p> <p><span>Je beheert en ondersteunt de talentdetectie-, ontwikkelings- en prestatieprogramma’s (75%) van een 6tal (top)sportfederaties en werkt daarnaast mee aan strategische dossiers (afhankelijk van jouw profiel) zoals het topsportactieplan, communicatie en topsportinfrastructuur (25%). Je maakt deel uit van een dynamisch team in Brussel en rapporteert frequent aan de coördinator programmamanagement. Sport Vlaanderen staat voor een efficiënte, professionele en resultaatgerichte aanpak in topsport en biedt een stimulerende werkomgeving met ruimte voor eigen initiatief.</span></p> <p><span>Wil jij een sleutelrol spelen in het ondersteunen van talenten en topsportambities in Vlaanderen? Ben je analytisch, strategisch sterk en gepassioneerd door sport? Dan zoeken wij jou! Grijp deze kans en solliciteer vandaag nog!</span></p>",
+        "htmlEncoded": "<p><span>Heb je een hart voor sport en wil je meebouwen aan het Vlaamse topsportbeleid? Dan is deze functie iets voor jou! Als Programmamanager Topsport bij Sport Vlaanderen ondersteun je federaties bij het opstellen en uitvoeren van hun topsportbeleid. Je adviseert de Taskforce Topsport, de lijnmanager en de minister over subsidies en financiering van topsportprogramma’s. Daarnaast speel je een cruciale rol in de uitvoering van het Topsportactieplan Vlaanderen.</span></p> <p><span>Je beheert en ondersteunt de talentdetectie-, ontwikkelings- en prestatieprogramma’s (75%) van een 6tal (top)sportfederaties en werkt daarnaast mee aan strategische dossiers (afhankelijk van jouw profiel) zoals het topsportactieplan, communicatie en topsportinfrastructuur (25%). Je maakt deel uit van een dynamisch team in Brussel en rapporteert frequent aan de coördinator programmamanagement. Sport Vlaanderen staat voor een efficiënte, professionele en resultaatgerichte aanpak in topsport en biedt een stimulerende werkomgeving met ruimte voor eigen initiatief.</span></p> <p><span>Wil jij een sleutelrol spelen in het ondersteunen van talenten en topsportambities in Vlaanderen? Ben je analytisch, strategisch sterk en gepassioneerd door sport? Dan zoeken wij jou! Grijp deze kans en solliciteer vandaag nog!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
