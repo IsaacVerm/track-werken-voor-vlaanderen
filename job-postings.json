@@ -1,11 +1,81 @@
 {
-  "totalItems": 164,
+  "totalItems": 163,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 163,
+  "lastItemOfPage": 162,
   "items": [
+    {
+      "link": "/Job/vdab-72015880",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72015880",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data scientist (VUTG) via Vlaanderen connect"
+      },
+      "displayTitle": "Data scientist (VUTG) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. De focus ligt op het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren.</span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. De focus ligt op het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren.</span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72015877",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72015877",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data-engineer (VUTG) via Vlaanderen connect"
+      },
+      "displayTitle": "Data-engineer (VUTG) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><br> \n<strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span><span><span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>",
+        "htmlEncoded": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><br> \n<strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span><span><span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72014586",
       "internal": false,
@@ -4942,41 +5012,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19000",
-      "internal": true,
-      "validThroughDate": "1758499200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19000",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Gebiedsverantwoordelijke/Sectorverantwoordelijke/Dijkwachter"
-      },
-      "displayTitle": "Gebiedsverantwoordelijke/Sectorverantwoordelijke/Dijkwachter",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als gebiedsverantwoordelijke/ sectorverantwoordelijke /\ndijkwachter (statutaire gezagsfunctie) volg je continu de toestand op van het\npatrimonium (oevers, dijken, wegen, bruggen, stuwen, sluizen, …) waarvoor De\nVlaamse Waterweg bevoegd is. Je organiseert en volgt de onderhoudswerken op\n(groendonderhoud, algemene onderhoudscontracten, herstellingen, …) en werkt zo\nmee om de kwaliteit, veiligheid en het comfort van het waterwegenet te behouden\nen verbeteren. Daarnaast informeer en adviseer je het districtshoofd ook over\ntoelatingen en vergunningen.<br><br>De Vlaamse Waterweg nv\nbeheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan\nde economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg\nnv versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en\nvergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en\nnatuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in\nWillebroek, Brussel, Antwerpen, Merelbeke en Mol werken ongeveer 1.350\npersoneelsleden van onze organisatie aan een slim, veelzijdig en welvarend\nwaterwegennet.<br><br>Op dit moment leggen we een\nwerfreserve aan tot en met selectieronde 2. Op korte termijn zijn er\nverschillende concrete vacatures en zullen we de werfreserves aanspreken om\nselectieronde 3 op te starten voor deze vacatures. De werfreserves tot en met\nselectieronde 2 worden aangelegd per regio; zijnde regio Oost, regio Centraal\nen regio West. Hieronder vind je per regio de bijhorende standplaatsen:</p><ul><li>Regio West: Aalst, Evergem, Nieuwpoort, Oudenaarde, Oudenburg, Wielsbeke</li><li>Regio Centraal: Beveren – Kruibeke – Zwijndrecht, Dendermonde, Duffel, Kampenhout, Mechelen, Vilvoorde</li><li>Regio Oost: Genk, Lommel, Maaseik, Rijkevorsel, Schoten, Tessenderlo-Ham</li></ul><p>Je dient bij je\nkandidaatstelling aan te duiden voor welke regio je jezelf kandidaat stelt. Je komt\ndan enkel op die specifieke werfreserve terecht komen. Je wordt dan in de\ntoekomst gecontacteerd voor vacatures van alle standplaatsen binnen die\nregio.&nbsp; <br><br>Spreekt\ndit allemaal jou aan? Solliciteer dan zeker. </p><br>",
-        "htmlEncoded": "<p>Als gebiedsverantwoordelijke/ sectorverantwoordelijke /\ndijkwachter (statutaire gezagsfunctie) volg je continu de toestand op van het\npatrimonium (oevers, dijken, wegen, bruggen, stuwen, sluizen, …) waarvoor De\nVlaamse Waterweg bevoegd is. Je organiseert en volgt de onderhoudswerken op\n(groendonderhoud, algemene onderhoudscontracten, herstellingen, …) en werkt zo\nmee om de kwaliteit, veiligheid en het comfort van het waterwegenet te behouden\nen verbeteren. Daarnaast informeer en adviseer je het districtshoofd ook over\ntoelatingen en vergunningen.<br><br>De Vlaamse Waterweg nv\nbeheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan\nde economie, de welvaart en de leefbaarheid van Vlaanderen. De Vlaamse Waterweg\nnv versterkt het vervoer via de binnenvaart, zorgt voor waterbeheersing en\nvergroot de aantrekkelijkheid van de waterwegen voor recreatie, toerisme en\nnatuurbeleving. Vanuit de maatschappelijke zetel in Hasselt en afdelingen in\nWillebroek, Brussel, Antwerpen, Merelbeke en Mol werken ongeveer 1.350\npersoneelsleden van onze organisatie aan een slim, veelzijdig en welvarend\nwaterwegennet.<br><br>Op dit moment leggen we een\nwerfreserve aan tot en met selectieronde 2. Op korte termijn zijn er\nverschillende concrete vacatures en zullen we de werfreserves aanspreken om\nselectieronde 3 op te starten voor deze vacatures. De werfreserves tot en met\nselectieronde 2 worden aangelegd per regio; zijnde regio Oost, regio Centraal\nen regio West. Hieronder vind je per regio de bijhorende standplaatsen:</p><ul><li>Regio West: Aalst, Evergem, Nieuwpoort, Oudenaarde, Oudenburg, Wielsbeke</li><li>Regio Centraal: Beveren – Kruibeke – Zwijndrecht, Dendermonde, Duffel, Kampenhout, Mechelen, Vilvoorde</li><li>Regio Oost: Genk, Lommel, Maaseik, Rijkevorsel, Schoten, Tessenderlo-Ham</li></ul><p>Je dient bij je\nkandidaatstelling aan te duiden voor welke regio je jezelf kandidaat stelt. Je komt\ndan enkel op die specifieke werfreserve terecht komen. Je wordt dan in de\ntoekomst gecontacteerd voor vacatures van alle standplaatsen binnen die\nregio.&nbsp; <br><br>Spreekt\ndit allemaal jou aan? Solliciteer dan zeker. </p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18997",
       "internal": false,
       "validThroughDate": "1760832000",
@@ -5077,6 +5112,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18993",
+      "internal": false,
+      "validThroughDate": "1760313600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18993",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Applicatiebeheerder ICT"
+      },
+      "displayTitle": "Applicatiebeheerder ICT",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als <strong>applicatiebeheerder ICT</strong> krijg je de unieke kans om in twee boeiende teams, <strong>Burotica (ICT) en Ondersteuning (Financieel Management)</strong>, te werken. Samen met&nbsp; je collega-applicatiebeheerders werk je aan slimme oplossingen die onze organisatie vooruithelpen. Ben jij analytisch, klantgericht en hou je van afwisseling? Dan is dit jouw kans om impact te maken in een dynamische en maatschappelijk relevante omgeving.</p><p>In deze functie word je voor 50% ingezet binnen het team Burotica van de cel ICT en voor 50% binnen het team Ondersteuning van de cel Financieel Management. Je bent de schakel tussen gebruikers, processen en technologie. Je analyseert proactief de noden van de organisatie en vertaalt deze naar concrete oplossingen. Je evalueert bestaande applicaties, stelt verbeteringen voor en bewaakt de werking van de toegewezen systemen. Je beheert gebruikersrollen, rechten en business units, configureert applicaties en stemt af met technische en functionele teams. Daarnaast ondersteun je eindgebruikers bij implementaties en optimalisaties en fungeer je als aanspreekpunt voor vragen en advies.&nbsp; Je zorgt voor de implementatie van de gevalideerde werkinstructies en processen.</p><p>Je bewaakt de kwaliteit van processen en systemen, documenteert en deelt kennis over applicatiestructuur en databeheer en blijft op de hoogte van nieuwe trends en technieken binnen jouw vakgebied. Je neemt actief deel aan projecten en werkgroepen binnen beide teams, levert inhoudelijke input en begeleidt functionele testen. Dankzij jouw inzet dragen we bij aan een efficiënte en duurzame werking van de Vlaamse waterwegen.</p><p>Deze functie biedt een unieke combinatie van technische uitdaging, maatschappelijke relevantie en samenwerking in twee complementaire domeinen. Je komt terecht in warme, collegiale teams met veel expertise en ruimte voor initiatief. Samen zorgen we voor een vlotte, veilige en slimme organisatie — boven én onder het wateroppervlak.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als <strong>applicatiebeheerder ICT</strong> krijg je de unieke kans om in twee boeiende teams, <strong>Burotica (ICT) en Ondersteuning (Financieel Management)</strong>, te werken. Samen met&nbsp; je collega-applicatiebeheerders werk je aan slimme oplossingen die onze organisatie vooruithelpen. Ben jij analytisch, klantgericht en hou je van afwisseling? Dan is dit jouw kans om impact te maken in een dynamische en maatschappelijk relevante omgeving.</p><p>In deze functie word je voor 50% ingezet binnen het team Burotica van de cel ICT en voor 50% binnen het team Ondersteuning van de cel Financieel Management. Je bent de schakel tussen gebruikers, processen en technologie. Je analyseert proactief de noden van de organisatie en vertaalt deze naar concrete oplossingen. Je evalueert bestaande applicaties, stelt verbeteringen voor en bewaakt de werking van de toegewezen systemen. Je beheert gebruikersrollen, rechten en business units, configureert applicaties en stemt af met technische en functionele teams. Daarnaast ondersteun je eindgebruikers bij implementaties en optimalisaties en fungeer je als aanspreekpunt voor vragen en advies.&nbsp; Je zorgt voor de implementatie van de gevalideerde werkinstructies en processen.</p><p>Je bewaakt de kwaliteit van processen en systemen, documenteert en deelt kennis over applicatiestructuur en databeheer en blijft op de hoogte van nieuwe trends en technieken binnen jouw vakgebied. Je neemt actief deel aan projecten en werkgroepen binnen beide teams, levert inhoudelijke input en begeleidt functionele testen. Dankzij jouw inzet dragen we bij aan een efficiënte en duurzame werking van de Vlaamse waterwegen.</p><p>Deze functie biedt een unieke combinatie van technische uitdaging, maatschappelijke relevantie en samenwerking in twee complementaire domeinen. Je komt terecht in warme, collegiale teams met veel expertise en ruimte voor initiatief. Samen zorgen we voor een vlotte, veilige en slimme organisatie — boven én onder het wateroppervlak.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18992",
       "internal": false,
       "validThroughDate": "1758758400",
@@ -5112,41 +5182,6 @@
         {
           "address": {
             "city": "Willebroek"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18988",
-      "internal": false,
-      "validThroughDate": "1758499200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18988",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Financieel Controller"
-      },
-      "displayTitle": "Financieel Controller",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een\ngedreven financieel professional die proactief de behoeften van een organisatie\nwil analyseren en vertalen naar concrete oplossingen? Wil je een belangrijke\nrol spelen in het ondersteunen en optimaliseren van de financiële processen\nbinnen De Vlaamse Waterweg? Dan is deze vacature voor financieel controller jou\nop het lijf geschreven!<br><br>Als <strong>financieel\ncontroller</strong> binnen onze organisatie ben je verantwoordelijk voor het\nvoorbereiden van rapporten, het uitvoeren van analyses en het anticiperen op\nfinanciële knelpunten. Je ondersteunt de organisatie bij audits, ontwikkelt\nrapporteringstools en adviseert het management over kostenoptimalisatie en\nstrategische beslissingen. <br>Daarnaast draag\nje bij aan het verbeteren van onze dienstverlening en processen, en zorg je\nvoor een correcte naleving van de regelgeving. Je werkt nauw samen met\ncollega’s en interne klanten, en ontwikkelt je kennis voortdurend verder om\nonze financiële dienstverlening naar een hoger niveau te tillen.<br><br>Een greep uit het gevarieerde\ntakenpakket:</p><ul><li>Behoefteanalyses uitvoeren en rapportages\n     voorbereiden voor audits</li><li>Financiële analyses maken en adviezen\n     formuleren voor kosten- en investeringsbeslissingen</li><li>Procedures en rapporteringstools mee helpen ontwikkelen\n     en optimaliseren</li><li>Interne controles uitvoeren en de kwaliteit\n     van onze processen bewaken</li><li>Interne klanten adviseren en ondersteunen\n     bij het gebruik van systemen en instrumenten</li><li>Participeren in projecten en nieuwe systemen\n     mee helpen implementeren</li></ul><p>Je komt terecht\nin het team Algemene Boekhouding van de cel Financieel Management (FIM) binnen\nde afdeling Algemene Ondersteuning. Je werkt nauw samen met het celhoofd Financieel\nManagement en met de collega’s binnen de cel, maar ook met andere collega’s die\nbetrokken zijn bij financiële processen.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>Ben jij een\ngedreven financieel professional die proactief de behoeften van een organisatie\nwil analyseren en vertalen naar concrete oplossingen? Wil je een belangrijke\nrol spelen in het ondersteunen en optimaliseren van de financiële processen\nbinnen De Vlaamse Waterweg? Dan is deze vacature voor financieel controller jou\nop het lijf geschreven!<br><br>Als <strong>financieel\ncontroller</strong> binnen onze organisatie ben je verantwoordelijk voor het\nvoorbereiden van rapporten, het uitvoeren van analyses en het anticiperen op\nfinanciële knelpunten. Je ondersteunt de organisatie bij audits, ontwikkelt\nrapporteringstools en adviseert het management over kostenoptimalisatie en\nstrategische beslissingen. <br>Daarnaast draag\nje bij aan het verbeteren van onze dienstverlening en processen, en zorg je\nvoor een correcte naleving van de regelgeving. Je werkt nauw samen met\ncollega’s en interne klanten, en ontwikkelt je kennis voortdurend verder om\nonze financiële dienstverlening naar een hoger niveau te tillen.<br><br>Een greep uit het gevarieerde\ntakenpakket:</p><ul><li>Behoefteanalyses uitvoeren en rapportages\n     voorbereiden voor audits</li><li>Financiële analyses maken en adviezen\n     formuleren voor kosten- en investeringsbeslissingen</li><li>Procedures en rapporteringstools mee helpen ontwikkelen\n     en optimaliseren</li><li>Interne controles uitvoeren en de kwaliteit\n     van onze processen bewaken</li><li>Interne klanten adviseren en ondersteunen\n     bij het gebruik van systemen en instrumenten</li><li>Participeren in projecten en nieuwe systemen\n     mee helpen implementeren</li></ul><p>Je komt terecht\nin het team Algemene Boekhouding van de cel Financieel Management (FIM) binnen\nde afdeling Algemene Ondersteuning. Je werkt nauw samen met het celhoofd Financieel\nManagement en met de collega’s binnen de cel, maar ook met andere collega’s die\nbetrokken zijn bij financiële processen.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
           }
         }
       ]
@@ -5307,41 +5342,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18863",
-      "internal": false,
-      "validThroughDate": "1758499200",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18863",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Verkeersleider Uitkijk Zelzate"
-      },
-      "displayTitle": "Verkeersleider Uitkijk Zelzate",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Een verkeersknooppunt op het water, daar komt minstens evenveel bij kijken als op de weg. Wist je dat er aan de Vlaamse kust en havens&nbsp;<strong>verschillende verkeerscentrales</strong>&nbsp;zijn om de doorkomst van schepen in goede banen te leiden? Daar waken&nbsp;<strong>verkeersleiders</strong>&nbsp;dag en nacht over de veiligheid op het water.&nbsp;<strong>Uitkijk Zelzate</strong>&nbsp;is 1 van die verkeerscentrales.<br><br>Het werk van een verkeersleider is verantwoordelijk, veelzijdig en af en toe best pittig. Je werkt in een&nbsp;<strong>volcontinu</strong> systeem, want de scheepvaart valt nooit stil. Je bent voortdurend in contact met de schepen in de buurt en geeft ze instructies. In Uitkijk Zelzate maak je ook de planning voor de openingen van de brug van Zelzate. Gaat er iets mis met de brug of een technische installatie? Dan meld je dat en pas je de planning onmiddellijk aan. Anders loopt het hele scheepsverkeer strop.<br><br>Voordat je begint aan je job als verkeersleider, krijg je een&nbsp;<strong>grondige opleiding</strong>. Je leert het jargon van verkeersbegeleiding en scheepvaart in het Nederlands en het Engels. En je raakt vertrouwd met alle aspecten van veiligheid in de scheepvaart: van de weersomstandigheden tot de technische eigenschappen van schepen. Slaag je na 9 maanden voor je examen? Dan kan het echte werk beginnen.<br></p><p>In de toekomst kan jouw standplaats wijzigen naar\nTerneuzen, Zandvliet, Oostende of Zeebrugge.</p><p>Wil je graag meer horen over de job van\nverkeersleider Uitkijk Zelzate? Neem dan vrijblijvend deel aan onze <strong>online infosessie</strong> op vrijdag 19 september om 9u30. &nbsp;Inschrijven kan door een mail te sturen naar werkenvoor@vlaanderen.be .&nbsp; Wil je anoniem blijven tijdens de infosessie,\nlet er dan op om niet je naam op te geven als je je aanmeldt in de sessie. <br><br clear=\"all\">Kom meer te weten over de selectieprocedure in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Een verkeersknooppunt op het water, daar komt minstens evenveel bij kijken als op de weg. Wist je dat er aan de Vlaamse kust en havens&nbsp;<strong>verschillende verkeerscentrales</strong>&nbsp;zijn om de doorkomst van schepen in goede banen te leiden? Daar waken&nbsp;<strong>verkeersleiders</strong>&nbsp;dag en nacht over de veiligheid op het water.&nbsp;<strong>Uitkijk Zelzate</strong>&nbsp;is 1 van die verkeerscentrales.<br><br>Het werk van een verkeersleider is verantwoordelijk, veelzijdig en af en toe best pittig. Je werkt in een&nbsp;<strong>volcontinu</strong> systeem, want de scheepvaart valt nooit stil. Je bent voortdurend in contact met de schepen in de buurt en geeft ze instructies. In Uitkijk Zelzate maak je ook de planning voor de openingen van de brug van Zelzate. Gaat er iets mis met de brug of een technische installatie? Dan meld je dat en pas je de planning onmiddellijk aan. Anders loopt het hele scheepsverkeer strop.<br><br>Voordat je begint aan je job als verkeersleider, krijg je een&nbsp;<strong>grondige opleiding</strong>. Je leert het jargon van verkeersbegeleiding en scheepvaart in het Nederlands en het Engels. En je raakt vertrouwd met alle aspecten van veiligheid in de scheepvaart: van de weersomstandigheden tot de technische eigenschappen van schepen. Slaag je na 9 maanden voor je examen? Dan kan het echte werk beginnen.<br></p><p>In de toekomst kan jouw standplaats wijzigen naar\nTerneuzen, Zandvliet, Oostende of Zeebrugge.</p><p>Wil je graag meer horen over de job van\nverkeersleider Uitkijk Zelzate? Neem dan vrijblijvend deel aan onze <strong>online infosessie</strong> op vrijdag 19 september om 9u30. &nbsp;Inschrijven kan door een mail te sturen naar werkenvoor@vlaanderen.be .&nbsp; Wil je anoniem blijven tijdens de infosessie,\nlet er dan op om niet je naam op te geven als je je aanmeldt in de sessie. <br><br clear=\"all\">Kom meer te weten over de selectieprocedure in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zelzate"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18862",
       "internal": false,
       "validThroughDate": "1760400000",
@@ -5492,46 +5492,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18410",
-      "internal": false,
-      "validThroughDate": "1758499200",
-      "hiringOrganization": "Vlaamse Belastingdienst",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18410",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbehandelaar burgercontact en bezwaren"
-      },
-      "displayTitle": "Dossierbehandelaar burgercontact en bezwaren",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Jij bent</span></b><span> iemand die <b>energie haalt uit het helpen van mensen</b> én uit het <b>uitpluizen van complexe dossiers</b>. Je houdt ervan om <b>zelfstandig te werken</b>, maar je weet ook hoe waardevol <b>overleg en samenwerking</b> met collega’s kunnen zijn.</span></p><p><span>In deze functie ben jij verantwoordelijk voor een <b>eigen pakket dossiers</b> binnen de afdeling <b>Burgercontacten en Bezwaren</b>. Je werkt met <b>meerdere dossiertypes</b> en over <b>verschillende heffingen</b> heen, en je verdiept je in minstens <b>één domein waarin je echt expert wordt</b>. Of het nu gaat om <b>erfbelasting</b>, <b>registratiebelasting</b>, <b>verkeersbelasting</b> of <b>leegstandsheffingen</b>: jij bent degene die de <b>juiste informatie zoekt</b>, alles <b>zorgvuldig afweegt</b> en tot een <b>heldere beslissing</b> komt.</span></p><p><span><b>Jij bent</b> voor burgers een <b>aanspreekpunt via telefoon</b>, en als je in Aalst werkt, ook <b>aan het loket</b>. Je <b>luistert actief</b>, <b>legt helder uit</b> en <b>helpt hen verder</b>, zelfs bij <b>moeilijke vragen</b> of <b>gevoelige situaties</b>. Je <b>beantwoordt mails en brieven</b> met zorg en respect, en je zorgt ervoor dat mensen zich <b>gehoord en correct behandeld</b> voelen.</span></p><p><span>Daarnaast behandel je <b>complexere aanvragen</b> zoals <b>bezwaren</b>, <b>verzoeken om vrijstelling</b> of een <b>afbetalingsplan</b>. Je werkt <b>nauwkeurig</b> en met <b>oog voor detail</b>, maar verliest nooit de <b>menselijke kant</b> van het verhaal uit het oog.</span></p><p><span><b>Jij bent</b> ook iemand die collega’s graag <b>ondersteunt</b>. Je <b>deelt je kennis en ervaring</b>, en denkt actief mee over hoe de <b>dienstverlening nog beter</b> kan. Je overlegt regelmatig met je <b>leidinggevende</b>, die samen met jou bekijkt welke taken het beste aansluiten bij jouw <b>sterktes en interesses</b>.</span></p><p><span>Je bent dus meer dan een administratieve kracht: jij bent een <b>brug tussen de overheid en de burger</b>, en je draagt bij aan een <b>eerlijke, klantgerichte dienstverlening</b>.</span></p><p><span><b>Momenteel zijn we op zoek naar een nieuwe collega voor onze locatie in Aalst en naar één collega voor onze vestiging in Leuven.</b></span></p><p><span><b>Klinkt dit als iets voor jou?</b> Dan ben jij precies de collega die wij zoeken. <b>Solliciteer nu</b> en <b>maak mee het verschil</b> – voor je team én voor de burger.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><b><span>Jij bent</span></b><span> iemand die <b>energie haalt uit het helpen van mensen</b> én uit het <b>uitpluizen van complexe dossiers</b>. Je houdt ervan om <b>zelfstandig te werken</b>, maar je weet ook hoe waardevol <b>overleg en samenwerking</b> met collega’s kunnen zijn.</span></p><p><span>In deze functie ben jij verantwoordelijk voor een <b>eigen pakket dossiers</b> binnen de afdeling <b>Burgercontacten en Bezwaren</b>. Je werkt met <b>meerdere dossiertypes</b> en over <b>verschillende heffingen</b> heen, en je verdiept je in minstens <b>één domein waarin je echt expert wordt</b>. Of het nu gaat om <b>erfbelasting</b>, <b>registratiebelasting</b>, <b>verkeersbelasting</b> of <b>leegstandsheffingen</b>: jij bent degene die de <b>juiste informatie zoekt</b>, alles <b>zorgvuldig afweegt</b> en tot een <b>heldere beslissing</b> komt.</span></p><p><span><b>Jij bent</b> voor burgers een <b>aanspreekpunt via telefoon</b>, en als je in Aalst werkt, ook <b>aan het loket</b>. Je <b>luistert actief</b>, <b>legt helder uit</b> en <b>helpt hen verder</b>, zelfs bij <b>moeilijke vragen</b> of <b>gevoelige situaties</b>. Je <b>beantwoordt mails en brieven</b> met zorg en respect, en je zorgt ervoor dat mensen zich <b>gehoord en correct behandeld</b> voelen.</span></p><p><span>Daarnaast behandel je <b>complexere aanvragen</b> zoals <b>bezwaren</b>, <b>verzoeken om vrijstelling</b> of een <b>afbetalingsplan</b>. Je werkt <b>nauwkeurig</b> en met <b>oog voor detail</b>, maar verliest nooit de <b>menselijke kant</b> van het verhaal uit het oog.</span></p><p><span><b>Jij bent</b> ook iemand die collega’s graag <b>ondersteunt</b>. Je <b>deelt je kennis en ervaring</b>, en denkt actief mee over hoe de <b>dienstverlening nog beter</b> kan. Je overlegt regelmatig met je <b>leidinggevende</b>, die samen met jou bekijkt welke taken het beste aansluiten bij jouw <b>sterktes en interesses</b>.</span></p><p><span>Je bent dus meer dan een administratieve kracht: jij bent een <b>brug tussen de overheid en de burger</b>, en je draagt bij aan een <b>eerlijke, klantgerichte dienstverlening</b>.</span></p><p><span><b>Momenteel zijn we op zoek naar een nieuwe collega voor onze locatie in Aalst en naar één collega voor onze vestiging in Leuven.</b></span></p><p><span><b>Klinkt dit als iets voor jou?</b> Dan ben jij precies de collega die wij zoeken. <b>Solliciteer nu</b> en <b>maak mee het verschil</b> – voor je team én voor de burger.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Aalst"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
           }
         }
       ]
