@@ -1,11 +1,46 @@
 {
-  "totalItems": 163,
+  "totalItems": 162,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 162,
+  "lastItemOfPage": 161,
   "items": [
+    {
+      "link": "/Job/vdab-72034323",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Opgroeien",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72034323",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen"
+      },
+      "displayTitle": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>",
+        "htmlEncoded": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72015880",
       "internal": false,
@@ -72,41 +107,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72014586",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap Opgroeien",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72014586",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen"
-      },
-      "displayTitle": "Deskundigen afdeling Continuïteit en toegang West-Vlaanderen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>",
-        "htmlEncoded": "<p>Opgroeien heeft een krachtige missie: \n<span>Het recht op kansrijk opgroeien realiseren voor élk kind en élke jongere in Vlaanderen.</span></p> \n<p>De afdeling Continuïteit en toegang (ACT) regelt de toegang tot de \n<span>meest ingrijpende en gespecialiseerde hulp</span> voor kinderen en jongeren en stimuleert de continuïteit van hun hulpverleningstraject. ACT zet volop in op een jeugdhulp met zo weinig mogelijk breuken, daar waar het jeugdhulpverleningstraject niet evident verloopt.</p> \n<p>Voor haar werking in de organisatie van de jeugdhulp is het agentschap Opgroeien, afdeling Continuïteit en Toegang (ACT) in de \n<span>regio West-Vlaanderen op zoek naar drie collega’s ‘deskundige ACT’.</span></p> \n<p>Als deskundige maak je deel uit van de teams van de intersectorale toegangspoort, het team Jongvolwassenen en het team Jonge Kind. In gedeeld overleg met je collega’s en met je regiocoördinator bepaal je welke opdrachten deel uitmaken van je takenpakket. Een deel van je werk behelst het organiseren van rondetafelgesprekken met hulpverleners, andere betrokkenen en soms ouders en jongeren om passende hulp opgestart te krijgen of te vermijden dat lopende hulp ongewenst afgebroken wordt. Je staat mee in voor een vlotte bereikbaarheid van het team door het opnemen van telefonische permanenties, het beantwoorden van vragen via generieke mailboxen. Je doet dit alles vanuit een verbindende basishouding.</p> \n<p>Hoewel we provinciaal georganiseerd zijn, willen we als deskundige ACT vroeger en nabijer het verschil kunnen maken voor kinderen, jongeren en hun gezin in complexe situaties. Daarom zijn we volop bezig met het uitbouwen van netwerken binnen kleinere regio’s (Noord-West-Vlaanderen, Midwest, Zuid-West-Vlaanderen). Je behandelt je eigen dossiers, maar je doet dit in nauw overleg met jouw collega’s. Je hebt dus de opdracht van netwerker, verbinder tussen de verschillende actoren in de jeugdhulp binnen een regio en dit altijd in functie van de noden van de jongeren.</p> \n<p>Je neemt ook telefonische permanenties op waarin je consult biedt aan vragen uit het werkveld.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
           }
         }
       ]
@@ -1582,41 +1582,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71497468",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71497468",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect"
-      },
-      "displayTitle": "Lead Java Developer (AHOVOKS) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>",
-        "htmlEncoded": "<p>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft. Ben jij een ervaren java developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</p> \n<p>Wat zal je moeten doen? Als lead java developer ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan kritieke publieke systemen zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen stabiel, performant en toekomstgericht blijven — met een toekomsthorizon van 2 tot 5 jaar. Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met moderne technologieën (Java 21, Spring Boot en Angular) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor technische richting, codekwaliteit en mentoring.Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten. Met jouw ruime ervaring speel je een actieve rol in onze full-stack guild. Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je coacht collega’s, bewaakt de technische richting, en zet mee de standaard voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert</p> \n<p>als brug tussen development en architectuur, en hebt een duidelijke stem in strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71416541",
       "internal": false,
       "validThroughDate": "-1",
@@ -1817,41 +1782,6 @@
       "description": {
         "raw": "<p><strong><span>Ben jij een analytische denker met een hart voor maatschappelijke impact?</span></strong><span><br> Het Agentschap Wonen in Vlaanderen zoekt een ervaren</span><strong><span>Business Analist</span></strong><span>die wil bijdragen aan een efficiënter woonbeleid. Je start binnen de afdeling</span><strong><span>Financiën</span></strong><span>, met focus op het programma</span><strong><span>‘Performante Actoren’</span></strong><span>, dat woonmaatschappijen en lokale besturen ondersteunt in hun maatschappelijke opdracht.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Uitvoeren van impact- en businessanalyses binnen het domein ‘Performante Actoren’.</span></li> \n<li><span>Vertalen van regelgeving en signalen uit het werkveld naar concrete oplossingen.</span></li> \n<li><span>Brug vormen tussen business en ICT: samenwerken met Business experten, Product Owners, analisten en architecten.</span></li> \n<li><span>Identificeren en opvolgen van procesoptimalisaties en waar noodzakelijk voorstellen tot digitalisatie uitwerken</span></li> \n<li><span>Opstellen van storymaps en datamodellen ter ondersteuning van initiatieven.</span></li> </ul> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in</span><strong><span>Brussel – VAC Herman Teirlinck (Tour &amp; Taxis)</span></strong><span>, met ruime mogelijkheid tot thuiswerk. Je maakt deel uit van de ICT-dienst (100-tal medewerkers), maar werkt initieel nauw samen met de afdeling Financiën. Het agentschap telt 500 medewerkers verspreid over Vlaanderen en streeft naar kwaliteitsvol, betaalbaar en toegankelijk wonen.</span></p>",
         "htmlEncoded": "<p><strong><span>Ben jij een analytische denker met een hart voor maatschappelijke impact?</span></strong><span><br> Het Agentschap Wonen in Vlaanderen zoekt een ervaren</span><strong><span>Business Analist</span></strong><span>die wil bijdragen aan een efficiënter woonbeleid. Je start binnen de afdeling</span><strong><span>Financiën</span></strong><span>, met focus op het programma</span><strong><span>‘Performante Actoren’</span></strong><span>, dat woonmaatschappijen en lokale besturen ondersteunt in hun maatschappelijke opdracht.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Uitvoeren van impact- en businessanalyses binnen het domein ‘Performante Actoren’.</span></li> \n<li><span>Vertalen van regelgeving en signalen uit het werkveld naar concrete oplossingen.</span></li> \n<li><span>Brug vormen tussen business en ICT: samenwerken met Business experten, Product Owners, analisten en architecten.</span></li> \n<li><span>Identificeren en opvolgen van procesoptimalisaties en waar noodzakelijk voorstellen tot digitalisatie uitwerken</span></li> \n<li><span>Opstellen van storymaps en datamodellen ter ondersteuning van initiatieven.</span></li> </ul> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in</span><strong><span>Brussel – VAC Herman Teirlinck (Tour &amp; Taxis)</span></strong><span>, met ruime mogelijkheid tot thuiswerk. Je maakt deel uit van de ICT-dienst (100-tal medewerkers), maar werkt initieel nauw samen met de afdeling Financiën. Het agentschap telt 500 medewerkers verspreid over Vlaanderen en streeft naar kwaliteitsvol, betaalbaar en toegankelijk wonen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71136321",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71136321",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Lead Full-stack Java Developer (AHOVOKS) via Vlaanderen Connect"
-      },
-      "displayTitle": "Lead Full-stack Java Developer (AHOVOKS) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding </span></strong><strong></strong></p> \n<p><span>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Full-stack Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft.</span></p> \n<p><span>Ben jij een ervaren full-stack developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als \n<strong>lead developer</strong> ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan \n<strong>kritieke publieke systemen</strong> zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen \n<strong>stabiel, performant en toekomstgericht</strong> blijven — met een toekomsthorizon van 2 tot 5 jaar.</span></p> \n<p><span>Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met \n<strong>moderne technologieën</strong> (Angular, Java 21, Spring Boot) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor \n<strong>technische richting, codekwaliteit en mentoring.</strong>Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten.</span></p> \n<p><span>Met jouw ruime ervaring speel je een actieve rol in onze \n<strong>full-stack guild.</strong> Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je \n<strong>coacht collega’s</strong>, bewaakt de technische richting, en \n<strong>zet mee de standaard</strong> voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert als \n<strong>brug tussen development en architectuur</strong>, en hebt een duidelijke stem in </span><span lang=\"nl\">strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</span></p> \n<p><strong>Naar wie zijn wij op zoek?</strong></p> \n<p>We zoeken een \n<strong>ervaren en technisch onderlegde full-stack developer</strong> die beschikt over de \n<strong>maturiteit, visie en communicatieve vaardigheden</strong> om een leidende rol op te nemen binnen ons team en de full-stack guild. Je bent iemand die ownership neemt, actief meedenkt over technische richting en met enthousiasme collega’s begeleidt en laat groeien.</p> \n<p>Je hebt minstens \n<strong>7 jaar ervaring in softwareontwikkeling</strong>, bij voorkeur in verschillende projecten en contexten. Je weet hoe het is om te werken in complexe en schaalbare omgevingen en je hebt mogelijk al ervaring als \n<strong>tech lead of senior teamlid</strong>. Je combineert je brede achtergrond met een \n<strong>diepgaande kennis van Java</strong> (JDK 17–21), en bent vertrouwd met moderne full-stack technologieën.</p>",
-        "htmlEncoded": "<p><strong><span>Inleiding </span></strong><strong></strong></p> \n<p><span>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) zoekt een Lead Full-stack Java Developer die meer doet dan code schrijven: iemand die technisch richting geeft, collega’s coacht, en de architectuurvisie van morgen mee vormgeeft.</span></p> \n<p><span>Ben jij een ervaren full-stack developer die op zoek is naar een uitdagende rol met impact? Wil jij niet alleen bouwen aan innovatieve toepassingen, maar ook technische keuzes beïnvloeden, collega’s inspireren en duurzame oplossingen realiseren? Dan ben jij misschien wel onze ideale lead developer!</span></p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p><span>Als \n<strong>lead developer</strong> ben je verantwoordelijk voor het technische hart van onze werking: de toepassingen die rechtstreeks bijdragen aan de maatschappelijke missie van AHOVOKS. Je werkt mee aan \n<strong>kritieke publieke systemen</strong> zoals het e-loket van NARIC, het examenportaal, studietoelagenplatform en de Vlaamse diplomadatabank. Je zorgt ervoor dat deze systemen \n<strong>stabiel, performant en toekomstgericht</strong> blijven — met een toekomsthorizon van 2 tot 5 jaar.</span></p> \n<p><span>Je maakt deel uit van ons full-stack ontwikkelteam, dat centraal voor het agentschap werkt, met \n<strong>moderne technologieën</strong> (Angular, Java 21, Spring Boot) en toepassingen ontwikkelt met directe impact op burgers. Als lead zorg je voor \n<strong>technische richting, codekwaliteit en mentoring.</strong>Je werkt aan een brede waaier van toepassingen binnen verschillende domeinen, wat zorgt voor de nodige afwisseling. Tegelijk krijg je de kans om je te verdiepen in één of meerdere systemen waarin je echt expert wordt. Je combineert het realiseren van grotere projectmatige vernieuwingen met het structureel onderhouden van toepassingen en het meewerken aan oplossingen voor incidenten.</span></p> \n<p><span>Met jouw ruime ervaring speel je een actieve rol in onze \n<strong>full-stack guild.</strong> Dit is een teamoverschrijdende groep die standaarden definieert, kennis deelt en strategische technische keuzes ondersteunt voor heel onze product portfolio. Je \n<strong>coacht collega’s</strong>, bewaakt de technische richting, en \n<strong>zet mee de standaard</strong> voor herbruikbaarheid, testbaarheid en kwaliteit. Je fungeert als \n<strong>brug tussen development en architectuur</strong>, en hebt een duidelijke stem in </span><span lang=\"nl\">strategische beslissingen rond technologiekeuze, integratie en platformarchitectuur.</span></p> \n<p><strong>Naar wie zijn wij op zoek?</strong></p> \n<p>We zoeken een \n<strong>ervaren en technisch onderlegde full-stack developer</strong> die beschikt over de \n<strong>maturiteit, visie en communicatieve vaardigheden</strong> om een leidende rol op te nemen binnen ons team en de full-stack guild. Je bent iemand die ownership neemt, actief meedenkt over technische richting en met enthousiasme collega’s begeleidt en laat groeien.</p> \n<p>Je hebt minstens \n<strong>7 jaar ervaring in softwareontwikkeling</strong>, bij voorkeur in verschillende projecten en contexten. Je weet hoe het is om te werken in complexe en schaalbare omgevingen en je hebt mogelijk al ervaring als \n<strong>tech lead of senior teamlid</strong>. Je combineert je brede achtergrond met een \n<strong>diepgaande kennis van Java</strong> (JDK 17–21), en bent vertrouwd met moderne full-stack technologieën.</p>"
       },
       "locations": [
         {
@@ -2984,6 +2914,46 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19291",
+      "internal": false,
+      "validThroughDate": "1760832000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19291",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Directeur Justitiehuis Limburg"
+      },
+      "displayTitle": "Directeur Justitiehuis Limburg",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij geboeid door justitie in al haar facetten en justitiehuizen in het bijzonder? Heb je kennis van de strafrechtelijke keten? Wil je bovendien graag een team aansturen? Dan is de afdeling Justitiehuizen binnen het Agentschap Justitie en Handhaving op zoek naar jou!<br> Als directeur van het justitiehuis Limburg focus je je op een inhoudelijk en strategische sterke uitwerking van het justitiehuis. Je stemt de dagdagelijkse werking af op het algemeen beleid van het Agentschap Justitie en Handhaving en zorgt hier voor de nodige input. Hiernaast sta je in voor de operationele<span>&nbsp; </span>leiding. Je stuurt verschillende medewerkers rechtstreeks aan ( de teamverantwoordelijken en de administratieve teams), volgt hen op en zorgt voor de coördinatie van de interne organisatie en opdrachten. Tevens geef je indirect leiding aan een honderdtal <span>&nbsp;</span>medewerkers die op hun beurt worden aangestuurd door teamverantwoordelijken. . Je staat ook in voor het <span>&nbsp;</span>organiseren van overleg en samenwerking tussen de verschillende teams, de opdrachtgevers en de externe relevante diensten.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij geboeid door justitie in al haar facetten en justitiehuizen in het bijzonder? Heb je kennis van de strafrechtelijke keten? Wil je bovendien graag een team aansturen? Dan is de afdeling Justitiehuizen binnen het Agentschap Justitie en Handhaving op zoek naar jou!<br> Als directeur van het justitiehuis Limburg focus je je op een inhoudelijk en strategische sterke uitwerking van het justitiehuis. Je stemt de dagdagelijkse werking af op het algemeen beleid van het Agentschap Justitie en Handhaving en zorgt hier voor de nodige input. Hiernaast sta je in voor de operationele<span>&nbsp; </span>leiding. Je stuurt verschillende medewerkers rechtstreeks aan ( de teamverantwoordelijken en de administratieve teams), volgt hen op en zorgt voor de coördinatie van de interne organisatie en opdrachten. Tevens geef je indirect leiding aan een honderdtal <span>&nbsp;</span>medewerkers die op hun beurt worden aangestuurd door teamverantwoordelijken. . Je staat ook in voor het <span>&nbsp;</span>organiseren van overleg en samenwerking tussen de verschillende teams, de opdrachtgevers en de externe relevante diensten.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Tongeren-Borgloon"
           }
         }
       ]
