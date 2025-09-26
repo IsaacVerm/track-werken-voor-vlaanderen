@@ -1,11 +1,46 @@
 {
-  "totalItems": 164,
+  "totalItems": 159,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 163,
+  "lastItemOfPage": 158,
   "items": [
+    {
+      "link": "/Job/vdab-72046349",
+      "internal": false,
+      "validThroughDate": "1760227200",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72046349",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "verpleegkundige of sociotherapeut"
+      },
+      "displayTitle": "verpleegkundige of sociotherapeut",
+      "isProtected": false,
+      "description": {
+        "raw": "<p align=\"left\"><strong><span>Jouw werkplek</span></strong></p> \n<p align=\"left\"><span>Binnen onze Opname-eenheid bieden we zorg aan 60-plussers die in een acute psychische crisis verkeren. Het gaat om een gesloten leefeenheid waar we met een \n<strong><span>herstelgerichte visie</span></strong> samen met de patiënt en zijn omgeving bouwen aan perspectief en veerkracht. Onze kerntaak bestaat uit \n<strong><span>crisisopvang, diagnostiek en kortdurende behandeling</span></strong>, altijd met oog voor de unieke mens achter de problematiek.</span></p> \n<p align=\"left\"><span> </span></p> \n<p align=\"left\"><strong><span>Jouw rol</span></strong><span><br> Als verpleegkundige of sociotherapeut ben jij een onmisbare schakel in dit proces. Je staat dicht bij de patiënt: je begeleidt, observeert en behandelt hen, en ondersteunt bij de dagelijkse zorg. Vanuit een houding die \n<strong><span>hoop en optimisme</span></strong> uitstraalt, creëer je een veilige vertrouwensrelatie en bied je houvast in een moeilijke periode.\n<strong></strong></span></p> \n<p><span>Je stimuleert patiënten om hun eigen krachten (her)ontdekken en organiseert activiteiten die bijdragen aan herstel en welzijn. Daarbij weet je een gezonde balans te bewaren tussen begrenzend en therapeutisch handelen, altijd afgestemd op de noden van ouderen. Dankzij jouw kennis van psychiatrische pathologieën en psychofarmaca kun je snel en deskundig inspelen op complexe situaties.</span></p> \n<p><span>Samen met je collega’s draag je zorg voor een \n<strong><span>warm en stabiel leefklimaat</span></strong> binnen de eenheid. Je werkt in een \n<strong><span>ploegenstelsel</span></strong><strong>,</strong> waardoor je samen met het team continuïteit en kwaliteit van zorg kan waarborgen.</span></p>",
+        "htmlEncoded": "<p align=\"left\"><strong><span>Jouw werkplek</span></strong></p> \n<p align=\"left\"><span>Binnen onze Opname-eenheid bieden we zorg aan 60-plussers die in een acute psychische crisis verkeren. Het gaat om een gesloten leefeenheid waar we met een \n<strong><span>herstelgerichte visie</span></strong> samen met de patiënt en zijn omgeving bouwen aan perspectief en veerkracht. Onze kerntaak bestaat uit \n<strong><span>crisisopvang, diagnostiek en kortdurende behandeling</span></strong>, altijd met oog voor de unieke mens achter de problematiek.</span></p> \n<p align=\"left\"><span> </span></p> \n<p align=\"left\"><strong><span>Jouw rol</span></strong><span><br> Als verpleegkundige of sociotherapeut ben jij een onmisbare schakel in dit proces. Je staat dicht bij de patiënt: je begeleidt, observeert en behandelt hen, en ondersteunt bij de dagelijkse zorg. Vanuit een houding die \n<strong><span>hoop en optimisme</span></strong> uitstraalt, creëer je een veilige vertrouwensrelatie en bied je houvast in een moeilijke periode.\n<strong></strong></span></p> \n<p><span>Je stimuleert patiënten om hun eigen krachten (her)ontdekken en organiseert activiteiten die bijdragen aan herstel en welzijn. Daarbij weet je een gezonde balans te bewaren tussen begrenzend en therapeutisch handelen, altijd afgestemd op de noden van ouderen. Dankzij jouw kennis van psychiatrische pathologieën en psychofarmaca kun je snel en deskundig inspelen op complexe situaties.</span></p> \n<p><span>Samen met je collega’s draag je zorg voor een \n<strong><span>warm en stabiel leefklimaat</span></strong> binnen de eenheid. Je werkt in een \n<strong><span>ploegenstelsel</span></strong><strong>,</strong> waardoor je samen met het team continuïteit en kwaliteit van zorg kan waarborgen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72042690",
       "internal": false,
@@ -912,76 +947,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71824035",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71824035",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Maatschappelijk assistent wervingspool"
-      },
-      "displayTitle": "Maatschappelijk assistent wervingspool",
-      "isProtected": false,
-      "description": {
-        "raw": "<ul> \n<li>Je bent vertrouwd met de sociale wetgeving en sociale kaart.</li> \n<li>Je staat in voor de contacten met verwijzers, zorgvoorzieningen, externe instanties zoals bewindvoerder, OCMW etc.</li> \n<li>Je brengt een werkrelatie tot stand met en onderhoudt het sociaal netwerk van de zorgvrager.</li> \n<li>Je werkt mee bij het realiseren van het behandelplan van zorgvragers. Een aantal belangrijke verantwoordelijkheden hierin zijn: \n<ul> \n<li>de inventarisatie van de persoonlijke en professionele omgeving van de zorgvragers;</li> \n<li>de regularisatie van de sociaal-administratieve toestand van de zorgvrager;</li> \n<li>het meewerken aan de uitvoering van het ontslagplan.</li> </ul> </li> \n<li>Je rapporteert je bevindingen – zowel mondeling als schriftelijk – en doet op basis hiervan aanbevelingen met betrekking tot aandachtspunten in de begeleiding/ behandeling aan het multidisciplinair team.</li> \n<li>Daarnaast ben je een aanspreekpunt voor zorgvragers betreffende hun sociale administratie.</li> \n<li>Je werkt actief mee aan allerlei relevante zorgeenheid- en clusterprojecten.</li> </ul>",
-        "htmlEncoded": "<ul> \n<li>Je bent vertrouwd met de sociale wetgeving en sociale kaart.</li> \n<li>Je staat in voor de contacten met verwijzers, zorgvoorzieningen, externe instanties zoals bewindvoerder, OCMW etc.</li> \n<li>Je brengt een werkrelatie tot stand met en onderhoudt het sociaal netwerk van de zorgvrager.</li> \n<li>Je werkt mee bij het realiseren van het behandelplan van zorgvragers. Een aantal belangrijke verantwoordelijkheden hierin zijn: \n<ul> \n<li>de inventarisatie van de persoonlijke en professionele omgeving van de zorgvragers;</li> \n<li>de regularisatie van de sociaal-administratieve toestand van de zorgvrager;</li> \n<li>het meewerken aan de uitvoering van het ontslagplan.</li> </ul> </li> \n<li>Je rapporteert je bevindingen – zowel mondeling als schriftelijk – en doet op basis hiervan aanbevelingen met betrekking tot aandachtspunten in de begeleiding/ behandeling aan het multidisciplinair team.</li> \n<li>Daarnaast ben je een aanspreekpunt voor zorgvragers betreffende hun sociale administratie.</li> \n<li>Je werkt actief mee aan allerlei relevante zorgeenheid- en clusterprojecten.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71823967",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71823967",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ergotherapeut wervingspool"
-      },
-      "displayTitle": "Ergotherapeut wervingspool",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als ergotherapeut maak je deel uit van een team waarbinnen interdisciplinair samenwerken een basisvoorwaarde is.</p> \n<p> </p> \n<p><span>We verwachten van jou</span></p> \n<ul> \n<li>Individuele begeleiding van zorgvragers</li> \n<li>In kaart brengen van individuele mogelijkheden, interesses en noden van zorgvragers</li> \n<li>Samen met de zorgvrager onderzoeken wat voor hem/haar betekenisvol is, gelukkig maakt, hoe hij/zij kan ontspannen,…</li> \n<li>Groepswerking en activering</li> \n<li>Organiseren en begeleiden van groepsgerichte activiteiten (hippotherapie, creatieve sessies, huishoudelijke taken, uitstappen in kleine groep,...)</li> \n<li>Samenwerking in een multidisciplinair team</li> \n<li>Adviseren over waardevolle activering, ergonomie, omgevingsaanpassingen en het omgaan met specifieke noden van zorgvragers</li> \n<li>Bijdragen aan behandelplannen</li> \n<li>Het mee uitdragen van het therapeutisch klimaat</li> \n<li>Ondersteunen in het creëren van een veilige, rustgevende en functionele omgeving.</li> \n<li>Communicatie: Schriftelijk en mondeling rapportage van observaties en noden</li> \n<li>Actieve deelname aan teamvergaderingen en andere multidisciplinaire overlegmomenten.</li> </ul>",
-        "htmlEncoded": "<p>Als ergotherapeut maak je deel uit van een team waarbinnen interdisciplinair samenwerken een basisvoorwaarde is.</p> \n<p> </p> \n<p><span>We verwachten van jou</span></p> \n<ul> \n<li>Individuele begeleiding van zorgvragers</li> \n<li>In kaart brengen van individuele mogelijkheden, interesses en noden van zorgvragers</li> \n<li>Samen met de zorgvrager onderzoeken wat voor hem/haar betekenisvol is, gelukkig maakt, hoe hij/zij kan ontspannen,…</li> \n<li>Groepswerking en activering</li> \n<li>Organiseren en begeleiden van groepsgerichte activiteiten (hippotherapie, creatieve sessies, huishoudelijke taken, uitstappen in kleine groep,...)</li> \n<li>Samenwerking in een multidisciplinair team</li> \n<li>Adviseren over waardevolle activering, ergonomie, omgevingsaanpassingen en het omgaan met specifieke noden van zorgvragers</li> \n<li>Bijdragen aan behandelplannen</li> \n<li>Het mee uitdragen van het therapeutisch klimaat</li> \n<li>Ondersteunen in het creëren van een veilige, rustgevende en functionele omgeving.</li> \n<li>Communicatie: Schriftelijk en mondeling rapportage van observaties en noden</li> \n<li>Actieve deelname aan teamvergaderingen en andere multidisciplinaire overlegmomenten.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rekem"
           }
         }
       ]
@@ -3884,41 +3849,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19157",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19157",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Coördinator visserijcontroles"
-      },
-      "displayTitle": "Coördinator visserijcontroles",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Als coördinator visserijcontroles coördineer je een team van een negental controleurs dat actief is op land, op zee en in de lucht.</div><div></div><div>Concreet zal jouw rol bestaan uit het opmaken van een plan van aanpak en een planning voor de diverse controleopdrachten van het team. Dit doe je op basis van risicoanalyses en controlebeleid en in overleg met het team. Je zorgt voor regelmatig teamoverleg om een goede afstemming tussen de teamleden te garanderen, alsook de informatiedoorstroom van en naar de andere teams binnen de dienst.&nbsp;&nbsp;</div><div>&nbsp;&nbsp;</div><div>Daarnaast ben je het aanspreekpunt voor interne en externe partners. Je stelt de nodige rapporten op. Op basis van je opgebouwde kennis optimaliseer je bestaande werkprocedures en handleidingen, en daar waar nodig maak je samen met het team ook nieuwe procedures en handleidingen. Je stelt het controleprogramma op in het kader van financiering.</div><div></div><div>De materie is complex en Europees gestuurd, maar dat maakt dit werk net boeiend. Je krijgt de kans om je hierin te verdiepen en expertise op te bouwen. Een aantal keer per jaar neem je deel aan internationale overleggen: waardevolle momenten om je netwerk uit te bouwen, inspiratie op te doen en tegelijk zelf mee richting te geven aan de Europese aanpak van visserijcontroles.</div><div></div><div>Deze functie vereist zowel zelfstandigheid en initiatief als nauwe samenwerking en afstemming met collega’s. Tot slot werk je actief mee aan de veiligheid en het welzijn van je team. Zo draag jij je steentje bij aan de missie van onze organisatie: “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</div>",
-        "htmlEncoded": "<div>Als coördinator visserijcontroles coördineer je een team van een negental controleurs dat actief is op land, op zee en in de lucht.</div><div></div><div>Concreet zal jouw rol bestaan uit het opmaken van een plan van aanpak en een planning voor de diverse controleopdrachten van het team. Dit doe je op basis van risicoanalyses en controlebeleid en in overleg met het team. Je zorgt voor regelmatig teamoverleg om een goede afstemming tussen de teamleden te garanderen, alsook de informatiedoorstroom van en naar de andere teams binnen de dienst.&nbsp;&nbsp;</div><div>&nbsp;&nbsp;</div><div>Daarnaast ben je het aanspreekpunt voor interne en externe partners. Je stelt de nodige rapporten op. Op basis van je opgebouwde kennis optimaliseer je bestaande werkprocedures en handleidingen, en daar waar nodig maak je samen met het team ook nieuwe procedures en handleidingen. Je stelt het controleprogramma op in het kader van financiering.</div><div></div><div>De materie is complex en Europees gestuurd, maar dat maakt dit werk net boeiend. Je krijgt de kans om je hierin te verdiepen en expertise op te bouwen. Een aantal keer per jaar neem je deel aan internationale overleggen: waardevolle momenten om je netwerk uit te bouwen, inspiratie op te doen en tegelijk zelf mee richting te geven aan de Europese aanpak van visserijcontroles.</div><div></div><div>Deze functie vereist zowel zelfstandigheid en initiatief als nauwe samenwerking en afstemming met collega’s. Tot slot werk je actief mee aan de veiligheid en het welzijn van je team. Zo draag jij je steentje bij aan de missie van onze organisatie: “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19156",
       "internal": false,
       "validThroughDate": "1759622400",
@@ -4029,6 +3959,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19142",
+      "internal": false,
+      "validThroughDate": "1761004800",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19142",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke algemeen regeringsbeleid"
+      },
+      "displayTitle": "Teamverantwoordelijke algemeen regeringsbeleid",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><span>&nbsp;</span>Heb jij zin in een nieuwe uitdaging binnen het Departement Kanselarij en Buitenlandse Zaken? </span></p> <p><span>Hou je ervan om aan de slag te gaan met een dynamisch en gemotiveerd team? Heb je interesse in het mee vorm geven en bijdragen aan een samenhangend beleid van de Vlaamse Regering? Dan is deze vacature iets voor jou! </span></p> <p><span>Als teamverantwoordelijke voor het team algemeen regeringsbeleid coördineer je de (inhoudelijke) werking en coach en ondersteun je de 11 collega’s van het team. Samen ga je de uitdaging aan om het algemeen regeringsbeleid mee vorm te geven. Je bent daarbij het aanspreekpunt van het team en voor het team naar de buitenwereld toe, onder meer richting de minister-president, het eigen departement of externe partners. Je bepaalt de prioriteiten van de werking en zorgt voor een helikopteroverzicht. Daarnaast bewaak je het evenwicht in taaklast van elke collega en kijk je waar het team zich kan verbeteren. Tot slot ben je een inhoudelijk klankbord en neem je ook zelf een beperkt aantal opdrachten mee op, zoals “Regelrecht” of “Vlaamse Veerkracht”. </span></p> <p><span>Klaar om jouw leiderschapstalent en kennis in te zetten voor een dynamisch team en invloedrijk algemeen regeringsbeleid? </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span><span>&nbsp;</span>Heb jij zin in een nieuwe uitdaging binnen het Departement Kanselarij en Buitenlandse Zaken? </span></p> <p><span>Hou je ervan om aan de slag te gaan met een dynamisch en gemotiveerd team? Heb je interesse in het mee vorm geven en bijdragen aan een samenhangend beleid van de Vlaamse Regering? Dan is deze vacature iets voor jou! </span></p> <p><span>Als teamverantwoordelijke voor het team algemeen regeringsbeleid coördineer je de (inhoudelijke) werking en coach en ondersteun je de 11 collega’s van het team. Samen ga je de uitdaging aan om het algemeen regeringsbeleid mee vorm te geven. Je bent daarbij het aanspreekpunt van het team en voor het team naar de buitenwereld toe, onder meer richting de minister-president, het eigen departement of externe partners. Je bepaalt de prioriteiten van de werking en zorgt voor een helikopteroverzicht. Daarnaast bewaak je het evenwicht in taaklast van elke collega en kijk je waar het team zich kan verbeteren. Tot slot ben je een inhoudelijk klankbord en neem je ook zelf een beperkt aantal opdrachten mee op, zoals “Regelrecht” of “Vlaamse Veerkracht”. </span></p> <p><span>Klaar om jouw leiderschapstalent en kennis in te zetten voor een dynamisch team en invloedrijk algemeen regeringsbeleid? </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19141",
       "internal": false,
       "validThroughDate": "1759190400",
@@ -4094,41 +4059,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19133",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19133",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Technisch tekenaar"
-      },
-      "displayTitle": "Technisch tekenaar",
-      "isProtected": false,
-      "description": {
-        "raw": "<span>Als technisch tekenaar bij Sport Vlaanderen draag je bij aan het beheer en de actualisatie van onze gebouwen in heel Vlaanderen. Je zorgt ervoor dat onze plannen en modellen altijd up to date zijn en brengt structuur in de vele elementen die onze sportcentra rijk zijn. Je inventariseert ter plaatse alle technieken zoals elektriciteit, brandbestrijding en HVAC en verwerkt deze zorgvuldig in onze software. Met behulp van REVIT vertaal je nieuwe en bestaande elementen naar heldere en overzichtelijke plannen die het fundament vormen voor ons dagelijks beheer. <br><br>Je werkt nauw samen met de BIM manager en maakt deel uit van een hecht team van zes collega’s. Samen zorgen jullie ervoor dat wijzigingen zoals nieuwe vloeren, verbouwingen of aangepaste installaties correct worden verwerkt in de modellen. Je rapporteert rechtstreeks aan de directeur DBM en krijgt de kans om zelfstandig structuur en orde te brengen in complexe gegevens. <br><br>Omdat onze centra verspreid zijn over heel Vlaanderen, ben je regelmatig op pad. Een rijbewijs is daarbij zeker een plus. Je werkt georganiseerd en zorgvuldig, neemt verantwoordelijkheid en kan zelfstandig aan de slag, maar je vindt ook aansluiting bij het team waarmee je de gebouwen van Sport Vlaanderen toekomstbestendig maakt. <br><br>Wil jij meebouwen aan sportinfrastructuur die optimaal beheerd wordt en een meerwaarde betekent voor de sporters in Vlaanderen? Dan is dit jouw kans.<br></span><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
-        "htmlEncoded": "<span>Als technisch tekenaar bij Sport Vlaanderen draag je bij aan het beheer en de actualisatie van onze gebouwen in heel Vlaanderen. Je zorgt ervoor dat onze plannen en modellen altijd up to date zijn en brengt structuur in de vele elementen die onze sportcentra rijk zijn. Je inventariseert ter plaatse alle technieken zoals elektriciteit, brandbestrijding en HVAC en verwerkt deze zorgvuldig in onze software. Met behulp van REVIT vertaal je nieuwe en bestaande elementen naar heldere en overzichtelijke plannen die het fundament vormen voor ons dagelijks beheer. <br><br>Je werkt nauw samen met de BIM manager en maakt deel uit van een hecht team van zes collega’s. Samen zorgen jullie ervoor dat wijzigingen zoals nieuwe vloeren, verbouwingen of aangepaste installaties correct worden verwerkt in de modellen. Je rapporteert rechtstreeks aan de directeur DBM en krijgt de kans om zelfstandig structuur en orde te brengen in complexe gegevens. <br><br>Omdat onze centra verspreid zijn over heel Vlaanderen, ben je regelmatig op pad. Een rijbewijs is daarbij zeker een plus. Je werkt georganiseerd en zorgvuldig, neemt verantwoordelijkheid en kan zelfstandig aan de slag, maar je vindt ook aansluiting bij het team waarmee je de gebouwen van Sport Vlaanderen toekomstbestendig maakt. <br><br>Wil jij meebouwen aan sportinfrastructuur die optimaal beheerd wordt en een meerwaarde betekent voor de sporters in Vlaanderen? Dan is dit jouw kans.<br></span><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4796,41 +4726,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19026",
-      "internal": true,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19026",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamleader bewaking in het Kasteel van Gaasbeek"
-      },
-      "displayTitle": "Teamleader bewaking in het Kasteel van Gaasbeek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb jij oog voor <strong>veiligheid</strong>, <strong>organisatie</strong> en <strong>menselijk leiderschap</strong>? Wil je een team op sleeptouw nemen en tegelijk bijdragen aan de bescherming van gevarieerd cultureel erfgoed? Dan is deze functie misschien wel iets voor jou!<br><br>Het Kasteel van Gaasbeek is een <strong>unieke plek</strong> met een rijke geschiedenis, gelegen in een uitgestrekt parkdomein ten westen van Brussel. Naast het recent gerestaureerde kasteel omvat de site tal van andere gebouwen, zoals de Brasserie, de historische schuur, de Sint-Gertrudiskapel en het nieuwe Entreegebouw. Als museum in volle ontwikkeling combineren we erfgoedzorg met tentoonstellingen en een hedendaagse publiekswerking.<br><br>Als teamleider bewaking ben je het <strong>aanspreekpunt </strong>voor alles wat met <strong>bewaking en veiligheid</strong> te maken heeft. Je leidt een ploeg van bewakingsagenten, organiseert hun planning en zorgt ervoor dat het kasteeldomein en de collecties optimaal beschermd worden. Je begeleidt je medewerkers, volgt hen op en werkt samen met partners zoals politie, brandweer en externe beveiligingsfirma’s. Tijdens de jaarlijkse sluitingsperiode neem je ook een organiserende rol op in onderhouds- en administratieve taken voor je team.</p><p>Een greep uit je gevarieerd takenpakket:</p><ul><li>Coördineren en aansturen van een team van ca. 6 medewerkers (evt. aangevuld met externe bewakers).</li><li>Opvolgen van veiligheid en toezicht, met bijzondere aandacht voor het calamiteitenplan en noodprocedures.</li><li>Brugfiguur zijn naar externe partners (o.a. G4S, brandweer, politie) en interne teams zoals het onthaal en de vrijwilligers.</li><li>Planningen en werkroosters opmaken en de personeelsinzet optimaal organiseren.</li><li>Nieuwe werkafspraken en procedures uitwerken en actualiseren.</li></ul><p>Je maakt deel uit van de zakelijke cel van het Kasteel van Gaasbeek, waar samenwerking centraal staat. Tijdens de openingsperiode van het Kasteel werk je ook regelmatig in het weekend (minstens twee weekends per maand).<br><br>Ben je klaar om mee de veiligheid van dit unieke kasteeldomein te bewaken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Heb jij oog voor <strong>veiligheid</strong>, <strong>organisatie</strong> en <strong>menselijk leiderschap</strong>? Wil je een team op sleeptouw nemen en tegelijk bijdragen aan de bescherming van gevarieerd cultureel erfgoed? Dan is deze functie misschien wel iets voor jou!<br><br>Het Kasteel van Gaasbeek is een <strong>unieke plek</strong> met een rijke geschiedenis, gelegen in een uitgestrekt parkdomein ten westen van Brussel. Naast het recent gerestaureerde kasteel omvat de site tal van andere gebouwen, zoals de Brasserie, de historische schuur, de Sint-Gertrudiskapel en het nieuwe Entreegebouw. Als museum in volle ontwikkeling combineren we erfgoedzorg met tentoonstellingen en een hedendaagse publiekswerking.<br><br>Als teamleider bewaking ben je het <strong>aanspreekpunt </strong>voor alles wat met <strong>bewaking en veiligheid</strong> te maken heeft. Je leidt een ploeg van bewakingsagenten, organiseert hun planning en zorgt ervoor dat het kasteeldomein en de collecties optimaal beschermd worden. Je begeleidt je medewerkers, volgt hen op en werkt samen met partners zoals politie, brandweer en externe beveiligingsfirma’s. Tijdens de jaarlijkse sluitingsperiode neem je ook een organiserende rol op in onderhouds- en administratieve taken voor je team.</p><p>Een greep uit je gevarieerd takenpakket:</p><ul><li>Coördineren en aansturen van een team van ca. 6 medewerkers (evt. aangevuld met externe bewakers).</li><li>Opvolgen van veiligheid en toezicht, met bijzondere aandacht voor het calamiteitenplan en noodprocedures.</li><li>Brugfiguur zijn naar externe partners (o.a. G4S, brandweer, politie) en interne teams zoals het onthaal en de vrijwilligers.</li><li>Planningen en werkroosters opmaken en de personeelsinzet optimaal organiseren.</li><li>Nieuwe werkafspraken en procedures uitwerken en actualiseren.</li></ul><p>Je maakt deel uit van de zakelijke cel van het Kasteel van Gaasbeek, waar samenwerking centraal staat. Tijdens de openingsperiode van het Kasteel werk je ook regelmatig in het weekend (minstens twee weekends per maand).<br><br>Ben je klaar om mee de veiligheid van dit unieke kasteeldomein te bewaken?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gaasbeek"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19023",
       "internal": true,
       "validThroughDate": "1759363200",
@@ -4861,76 +4756,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19020",
-      "internal": true,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19020",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Deskundige project- en portfoliobeheer"
-      },
-      "displayTitle": "Deskundige project- en portfoliobeheer",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Met jouw expertise geef je richting aan hoe investeringsprojecten binnen het Agentschap Wegen en Verkeer worden opgevolgd en beheerd. Je zorgt voor een gedeelde werkwijze, betrouwbare data en een vlotte opvolging van projecten en programma’s. Dankzij jouw ondersteuning verlopen processen niet alleen efficiënter, maar ook transparanter en consistenter.</p><p>Als deskundige project- en portfoliobeheer ondersteun en begeleid je het project- en portfoliomanagement binnen AWV. Je ontwikkelt werkinstructies en handleidingen en verzorgt opleidingen over toepassingen die het investeringsproces ondersteunen. Je staat projectleiders en programmabeheerders bij in het gebruik van deze tools en fungeert als aanspreekpunt bij vragen of problemen. Je detecteert noden, doet verbetervoorstellen en helpt gebruikers om beschikbare data optimaal te benutten. Daarnaast analyseer je het gebruik van toepassingen en rapporteer je over hun werking en impact.</p><p>Je bouwt mee aan een dienstverlening die aansluit op de behoeften van de organisatie. Je volgt evoluties op, brengt gebruikersinzichten in kaart en stemt af met applicatiebeheerders. Je ondersteunt implementaties, vertaalt procedures naar bruikbare opleidingen en handleidingen en werkt actief mee aan de verbetering van methodieken, tools en applicaties.</p><p>Je adviseert gebruikers over het gebruik van toepassingen en methodieken, neemt deel aan werkgroepen en signaleert proactief knelpunten. Je bewaakt de kwaliteit van processen en dienstverlening, volgt het gebruik van applicaties op en evalueert klanttevredenheid. Je initieert verbetertrajecten en zorgt voor afstemming met andere processen binnen de organisatie.</p><p>Communicatie is een essentieel onderdeel van je rol. Je stelt nieuwsbrieven op, organiseert acties en events om het gebruik van applicaties te stimuleren en onderhoudt een netwerk van gebruikers. Je werkt samen met collega’s rond data en KPI’s en volgt trends in project- en portfoliomanagement. Tot slot ondersteun je projectleiders bij verslaggeving, planning en opvolging van taken.</p><p>Met jouw inzet bouw je mee aan een duurzame, efficiënte en gedragen projectwerking binnen AWV. Een functie met impact, waarin jouw expertise het verschil maakt.&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Met jouw expertise geef je richting aan hoe investeringsprojecten binnen het Agentschap Wegen en Verkeer worden opgevolgd en beheerd. Je zorgt voor een gedeelde werkwijze, betrouwbare data en een vlotte opvolging van projecten en programma’s. Dankzij jouw ondersteuning verlopen processen niet alleen efficiënter, maar ook transparanter en consistenter.</p><p>Als deskundige project- en portfoliobeheer ondersteun en begeleid je het project- en portfoliomanagement binnen AWV. Je ontwikkelt werkinstructies en handleidingen en verzorgt opleidingen over toepassingen die het investeringsproces ondersteunen. Je staat projectleiders en programmabeheerders bij in het gebruik van deze tools en fungeert als aanspreekpunt bij vragen of problemen. Je detecteert noden, doet verbetervoorstellen en helpt gebruikers om beschikbare data optimaal te benutten. Daarnaast analyseer je het gebruik van toepassingen en rapporteer je over hun werking en impact.</p><p>Je bouwt mee aan een dienstverlening die aansluit op de behoeften van de organisatie. Je volgt evoluties op, brengt gebruikersinzichten in kaart en stemt af met applicatiebeheerders. Je ondersteunt implementaties, vertaalt procedures naar bruikbare opleidingen en handleidingen en werkt actief mee aan de verbetering van methodieken, tools en applicaties.</p><p>Je adviseert gebruikers over het gebruik van toepassingen en methodieken, neemt deel aan werkgroepen en signaleert proactief knelpunten. Je bewaakt de kwaliteit van processen en dienstverlening, volgt het gebruik van applicaties op en evalueert klanttevredenheid. Je initieert verbetertrajecten en zorgt voor afstemming met andere processen binnen de organisatie.</p><p>Communicatie is een essentieel onderdeel van je rol. Je stelt nieuwsbrieven op, organiseert acties en events om het gebruik van applicaties te stimuleren en onderhoudt een netwerk van gebruikers. Je werkt samen met collega’s rond data en KPI’s en volgt trends in project- en portfoliomanagement. Tot slot ondersteun je projectleiders bij verslaggeving, planning en opvolging van taken.</p><p>Met jouw inzet bouw je mee aan een duurzame, efficiënte en gedragen projectwerking binnen AWV. Een functie met impact, waarin jouw expertise het verschil maakt.&nbsp;</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19018",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19018",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "IT medewerker"
-      },
-      "displayTitle": "IT medewerker",
-      "isProtected": false,
-      "description": {
-        "raw": "<div> <div><div>Gemeenschapsinstelling De Zande campus Ruiselede zoekt een enthousiaste IT-medewerker die ervoor zorgt dat de digitale omgeving altijd soepel draait. Jij bent het eerste aanspreekpunt voor ICT-vragen binnen de Gemeenschapsinstelling en helpt collega’s met hun hardware, software en digitale toegang.<br><strong><br>Wat houdt de job in?</strong></div><ul><li>Je ondersteunt medewerkers bij technische vragen en zorgt voor een vlotte onboarding van nieuwe collega’s.</li><li>Je beheert laptops, toegangsbadges en camerabeveiliging.</li><li>In overleg met de bureauticaverantwoordelijke, vorm je de brug tussen de werkvloer en ICT Centraal.</li><li>Je speelt een actieve rol in het uitrollen van nieuwe systemen, digitale transformaties en het bewaken van informatieveiligheid.</li></ul><div><strong><br></strong></div><div><strong>Wie zoeken we?</strong></div><ul><li>Je hebt een sterke interesse in IT.</li><li>Een teamspeler die initiatief neemt en oplossingsgericht werkt.</li><li>Iemand die zich graag bijschoolt in een snel evoluerend IT-landschap.</li><li>Dankzij jouw inzet kunnen medewerkers rekenen op een stabiele, veilige en gebruiksvriendelijke ICT-omgeving.</li></ul><div>Klaar om mee te bouwen aan een digitale toekomst bij Opgroeien? Solliciteer vandaag nog!</div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div>",
-        "htmlEncoded": "<div> <div><div>Gemeenschapsinstelling De Zande campus Ruiselede zoekt een enthousiaste IT-medewerker die ervoor zorgt dat de digitale omgeving altijd soepel draait. Jij bent het eerste aanspreekpunt voor ICT-vragen binnen de Gemeenschapsinstelling en helpt collega’s met hun hardware, software en digitale toegang.<br><strong><br>Wat houdt de job in?</strong></div><ul><li>Je ondersteunt medewerkers bij technische vragen en zorgt voor een vlotte onboarding van nieuwe collega’s.</li><li>Je beheert laptops, toegangsbadges en camerabeveiliging.</li><li>In overleg met de bureauticaverantwoordelijke, vorm je de brug tussen de werkvloer en ICT Centraal.</li><li>Je speelt een actieve rol in het uitrollen van nieuwe systemen, digitale transformaties en het bewaken van informatieveiligheid.</li></ul><div><strong><br></strong></div><div><strong>Wie zoeken we?</strong></div><ul><li>Je hebt een sterke interesse in IT.</li><li>Een teamspeler die initiatief neemt en oplossingsgericht werkt.</li><li>Iemand die zich graag bijschoolt in een snel evoluerend IT-landschap.</li><li>Dankzij jouw inzet kunnen medewerkers rekenen op een stabiele, veilige en gebruiksvriendelijke ICT-omgeving.</li></ul><div>Klaar om mee te bouwen aan een digitale toekomst bij Opgroeien? Solliciteer vandaag nog!</div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Ruiselede"
           }
         }
       ]
@@ -5093,71 +4918,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18994",
-      "internal": true,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-18994",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamverantwoordelijke wegeninspectie en patrimonium"
-      },
-      "displayTitle": "Teamverantwoordelijke wegeninspectie en patrimonium",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij klaar voor een\ndynamische en veelzijdige functie waarin je verschillende rollen combineert?\nAls teamverantwoordelijke wegeninspectie en patrimonium speel je een cruciale\nrol in het verbeteren van onze wegeninfrastructuur. Ontdek hieronder jouw belangrijkste\ntaken!</p><p>Als teamverantwoordelijke wegeninspectie neem je de rol op van wegeninspecteur-controleur\n(gezagsfunctie). In deze rol ben je verantwoordelijk voor het opleggen en\nopvolgen van administratieve boetes in het kader van “het decreet bijzonder\nwegtransport” op basis van een analyse van de processen-verbaal van de politie\nen de Vlaamse Belastingsdienst.</p><p>Daarnaast bereid je\nhoorzittingen in bezwaar voor, zit je deze voor en stel je gemotiveerde\nbeslissingen op na de hoorzittingen. Ook stel je memories op voor de Raad van\nState in geval van administratief beroep en stuur je alle werkzaamheden aan die\nte maken hebben met de administratieve voorbereiding en afhandeling van\nbestuurlijke beboetingen.</p><p>Naast dit juridische\nluik neem je ook de rol op van teamverantwoordelijke patrimonium. Je\nondersteunt de teams Patrimonium van de territoriale wegenafdelingen (TAW) bij\nde opmaak van adviezen en vergunningen en bij de dossiers voor\ngrondtransacties.</p><p>Daarnaast zorg je voor\nuniformiteit door mee te werken aan de totstandkoming en het up-to-date houden\nvan procedures, standaarddocumenten en dienstorders. Je communiceert hierover\nen volgt de correcte toepassing hiervan op. Je bent eveneens de schakel tussen\nde TAW en het beleid én werkt mee in diverse overlegorganen binnen het\nwerkgebied van patrimonium.</p><p>Tot\nslot stuur je als teamverantwoordelijke ook een klein team van\nadministratieve medewerkers aan. Je staat in voor de opvolging van de werking,\nresultaten en werklast van je team. Daarnaast waak je ook over het welzijn van\nje teamleden en neem je de rol op van evaluator.</p><p>Je hebt vanuit jouw job\nniet alleen contact met interne AWV-collega’s vanuit verschillende afdelingen,\nmaar ook met heel wat externe belanghebbenden, zoals bijvoorbeeld collega’s van\nde Vlaamse Belastingsdienst en Departement Mobiliteit en Openbare Werken\n(DMOW), overtreders (en hun advocaten), verschillende politiezones, de\nparketten, enz. Je verzorgt de communicatie met de Inspectie van Financiën en\nlevert input voor dossiers die door het kabinet van de minister behandeld\nworden.</p><p>Kortom, deze functie\nbiedt jou de kans om jouw organisatorische en leidinggevende vaardigheden te\nbenutten en verder te ontwikkelen. Wil jij bijdragen aan een veilige en goed\nfunctionerende wegeninfrastructuur? Solliciteer dan nu en word onze nieuwe teamverantwoordelijke\nwegeninspectie en patrimonium!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij klaar voor een\ndynamische en veelzijdige functie waarin je verschillende rollen combineert?\nAls teamverantwoordelijke wegeninspectie en patrimonium speel je een cruciale\nrol in het verbeteren van onze wegeninfrastructuur. Ontdek hieronder jouw belangrijkste\ntaken!</p><p>Als teamverantwoordelijke wegeninspectie neem je de rol op van wegeninspecteur-controleur\n(gezagsfunctie). In deze rol ben je verantwoordelijk voor het opleggen en\nopvolgen van administratieve boetes in het kader van “het decreet bijzonder\nwegtransport” op basis van een analyse van de processen-verbaal van de politie\nen de Vlaamse Belastingsdienst.</p><p>Daarnaast bereid je\nhoorzittingen in bezwaar voor, zit je deze voor en stel je gemotiveerde\nbeslissingen op na de hoorzittingen. Ook stel je memories op voor de Raad van\nState in geval van administratief beroep en stuur je alle werkzaamheden aan die\nte maken hebben met de administratieve voorbereiding en afhandeling van\nbestuurlijke beboetingen.</p><p>Naast dit juridische\nluik neem je ook de rol op van teamverantwoordelijke patrimonium. Je\nondersteunt de teams Patrimonium van de territoriale wegenafdelingen (TAW) bij\nde opmaak van adviezen en vergunningen en bij de dossiers voor\ngrondtransacties.</p><p>Daarnaast zorg je voor\nuniformiteit door mee te werken aan de totstandkoming en het up-to-date houden\nvan procedures, standaarddocumenten en dienstorders. Je communiceert hierover\nen volgt de correcte toepassing hiervan op. Je bent eveneens de schakel tussen\nde TAW en het beleid én werkt mee in diverse overlegorganen binnen het\nwerkgebied van patrimonium.</p><p>Tot\nslot stuur je als teamverantwoordelijke ook een klein team van\nadministratieve medewerkers aan. Je staat in voor de opvolging van de werking,\nresultaten en werklast van je team. Daarnaast waak je ook over het welzijn van\nje teamleden en neem je de rol op van evaluator.</p><p>Je hebt vanuit jouw job\nniet alleen contact met interne AWV-collega’s vanuit verschillende afdelingen,\nmaar ook met heel wat externe belanghebbenden, zoals bijvoorbeeld collega’s van\nde Vlaamse Belastingsdienst en Departement Mobiliteit en Openbare Werken\n(DMOW), overtreders (en hun advocaten), verschillende politiezones, de\nparketten, enz. Je verzorgt de communicatie met de Inspectie van Financiën en\nlevert input voor dossiers die door het kabinet van de minister behandeld\nworden.</p><p>Kortom, deze functie\nbiedt jou de kans om jouw organisatorische en leidinggevende vaardigheden te\nbenutten en verder te ontwikkelen. Wil jij bijdragen aan een veilige en goed\nfunctionerende wegeninfrastructuur? Solliciteer dan nu en word onze nieuwe teamverantwoordelijke\nwegeninspectie en patrimonium!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-18993",
       "internal": false,
       "validThroughDate": "1760313600",
@@ -5188,46 +4948,6 @@
         {
           "address": {
             "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18992",
-      "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18992",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Coördinator ICT operations"
-      },
-      "displayTitle": "Coördinator ICT operations",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een geboren people\nmanager met een passie voor technologie en sterke organisatorische skills? Wil\nje mee vorm geven aan de digitale toekomst van een organisatie die inzet op\nduurzaamheid, innovatie en maatschappelijke meerwaarde? Dan is deze functie\niets voor jou. De Vlaamse Waterweg zoekt een gedreven coördinator ICT operations\ndie de ICT-dienstverlening naar een hoger niveau tilt. In deze sleutelrol\ncombineer je strategisch inzicht met operationele daadkracht en zorg je ervoor\ndat onze interne klanten kunnen rekenen op een betrouwbare, efficiënte en\nklantgerichte ICT-ondersteuning.</p><p>Als <strong>coördinator\nICT operations</strong> stuur je een dynamisch team van ongeveer 30 ICT-professionals\naan, bestaande uit zowel interne medewerkers als externe consultants. Het team\nis opgedeeld in een aantal subteams met elk een eigen aanspreekpunt, wat zorgt\nvoor een duidelijke structuur en efficiënte samenwerking. Je staat er bovendien\nniet alleen voor, je wordt ondersteund door een rechterhand die jou actief\nbijstaat in de dagelijkse werking en coördinatie. Deze persoon fungeert als een\nwaardevolle sparringpartner en versterkt jouw slagkracht, zonder zelf een\nleidinggevende rol op te nemen binnen het team.</p><p>Je bent\nverantwoordelijk voor de <strong>dagelijkse aansturing en organisatie</strong> van de\nICT-dienstverlening. Je stelt prioriteiten, bewaakt de voortgang van projecten\nen zorgt voor een optimale inzet van mensen en middelen. Je motiveert en\nbegeleidt medewerkers, voert evaluatie- en functioneringsgesprekken en\nstimuleert hun professionele groei. Je creëert een positieve werksfeer en waakt\nover een veilige en gezonde werkomgeving.</p><p>Daarnaast ontwikkel en\nbewaak je <strong>kwaliteitsnormen en werkprocedures</strong> en neem je initiatief om de\ndienstverlening continu te verbeteren. Je leidt het wijzigingsbeheer ICT\n(Change Advisory Board) en zorgt ervoor dat de ICT-dienstverlening steeds\nafgestemd blijft op de noden van interne en externe klanten.</p><p>Je levert waardevolle\ninput voor het ICT-beleid en neemt actief deel aan beleidsvoorbereidende\nwerkgroepen. Je volgt technologische en organisatorische trends op de voet en\nvertaalt deze naar concrete voorstellen die bijdragen aan de strategische koers\nvan de organisatie.</p><p>Ook het <strong>beheer van\nmiddelen</strong> behoort tot jouw verantwoordelijkheid. Je maakt budgettaire\ninschattingen, voert kosten-batenanalyses uit en zorgt voor een doelgerichte\ninzet van het beschikbare budget.</p><p>Tot slot ben je een\nverbindende schakel binnen de organisatie. Je onderhoudt vlotte communicatie\nmet collega’s, leidinggevenden en externe partners, vertegenwoordigt de dienst\nop overlegfora en bouwt een professioneel netwerk uit. Je zorgt voor een goede\ninformatiedoorstroming binnen en buiten het team.</p><p><strong>Heb jij de visie,\nhet leiderschap en de technische bagage om deze uitdaging aan te gaan? Dan\nkijken we uit naar jouw kandidatuur.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij een geboren people\nmanager met een passie voor technologie en sterke organisatorische skills? Wil\nje mee vorm geven aan de digitale toekomst van een organisatie die inzet op\nduurzaamheid, innovatie en maatschappelijke meerwaarde? Dan is deze functie\niets voor jou. De Vlaamse Waterweg zoekt een gedreven coördinator ICT operations\ndie de ICT-dienstverlening naar een hoger niveau tilt. In deze sleutelrol\ncombineer je strategisch inzicht met operationele daadkracht en zorg je ervoor\ndat onze interne klanten kunnen rekenen op een betrouwbare, efficiënte en\nklantgerichte ICT-ondersteuning.</p><p>Als <strong>coördinator\nICT operations</strong> stuur je een dynamisch team van ongeveer 30 ICT-professionals\naan, bestaande uit zowel interne medewerkers als externe consultants. Het team\nis opgedeeld in een aantal subteams met elk een eigen aanspreekpunt, wat zorgt\nvoor een duidelijke structuur en efficiënte samenwerking. Je staat er bovendien\nniet alleen voor, je wordt ondersteund door een rechterhand die jou actief\nbijstaat in de dagelijkse werking en coördinatie. Deze persoon fungeert als een\nwaardevolle sparringpartner en versterkt jouw slagkracht, zonder zelf een\nleidinggevende rol op te nemen binnen het team.</p><p>Je bent\nverantwoordelijk voor de <strong>dagelijkse aansturing en organisatie</strong> van de\nICT-dienstverlening. Je stelt prioriteiten, bewaakt de voortgang van projecten\nen zorgt voor een optimale inzet van mensen en middelen. Je motiveert en\nbegeleidt medewerkers, voert evaluatie- en functioneringsgesprekken en\nstimuleert hun professionele groei. Je creëert een positieve werksfeer en waakt\nover een veilige en gezonde werkomgeving.</p><p>Daarnaast ontwikkel en\nbewaak je <strong>kwaliteitsnormen en werkprocedures</strong> en neem je initiatief om de\ndienstverlening continu te verbeteren. Je leidt het wijzigingsbeheer ICT\n(Change Advisory Board) en zorgt ervoor dat de ICT-dienstverlening steeds\nafgestemd blijft op de noden van interne en externe klanten.</p><p>Je levert waardevolle\ninput voor het ICT-beleid en neemt actief deel aan beleidsvoorbereidende\nwerkgroepen. Je volgt technologische en organisatorische trends op de voet en\nvertaalt deze naar concrete voorstellen die bijdragen aan de strategische koers\nvan de organisatie.</p><p>Ook het <strong>beheer van\nmiddelen</strong> behoort tot jouw verantwoordelijkheid. Je maakt budgettaire\ninschattingen, voert kosten-batenanalyses uit en zorgt voor een doelgerichte\ninzet van het beschikbare budget.</p><p>Tot slot ben je een\nverbindende schakel binnen de organisatie. Je onderhoudt vlotte communicatie\nmet collega’s, leidinggevenden en externe partners, vertegenwoordigt de dienst\nop overlegfora en bouwt een professioneel netwerk uit. Je zorgt voor een goede\ninformatiedoorstroming binnen en buiten het team.</p><p><strong>Heb jij de visie,\nhet leiderschap en de technische bagage om deze uitdaging aan te gaan? Dan\nkijken we uit naar jouw kandidatuur.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Willebroek"
           }
         }
       ]
@@ -5278,10 +4998,10 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-18940",
+      "link": "/Job/cornerstone-18919",
       "internal": false,
-      "validThroughDate": "1758758400",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "validThroughDate": "1760832000",
+      "hiringOrganization": "ILVO Plant 39",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
@@ -5289,20 +5009,55 @@
         "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18940",
+      "identifier": "cornerstone-18919",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Teamverantwoordelijke kwaliteit"
+        "htmlEncoded": "ILVO Eigen Vermogen Doctoraatsbursaal Meiotische recombinatie bij Soja"
       },
-      "displayTitle": "Teamverantwoordelijke kwaliteit",
+      "displayTitle": "ILVO Eigen Vermogen Doctoraatsbursaal Meiotische recombinatie bij Soja",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Als teamverantwoordelijke van het team Kwaliteit geef je richting aan een enthousiast team van 8 interne medewerkers dat zich dagelijks inzet voor continue verbetering binnen Agentschap Overheidspersoneel. Samen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende dienstverlening voor élke klant.</span></p> <p><span>Je zet mensen en middelen in beweging, met als doel: een optimale balans tussen klanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in concrete acties en zorgt ervoor dat de strategische doelstellingen realiteit worden in de dagelijkse praktijk.</span></p> <p><span>Met jouw kritische blik help je Agentschap Overheidspersoneel de juiste prioriteiten te stellen, strategische risico’s te managen en de vinger aan de pols te houden via datamonitoring.</span></p> <p><span>Neem je graag het voortouw in projecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die end-to-end en procesmatig kan denken en vanuit een dienstverlenende en klantgerichte houding werkt?</span></p> <p><span>Hebben processen en het uitwerken van een kwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en aansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer jou energie? Dan ben jij de persoon die wij zoeken!</span></p> <p><span>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en altijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</span></p> <ul><li><span>Procesmanagement</span></li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Als teamverantwoordelijke van het team Kwaliteit geef je richting aan een enthousiast team van 8 interne medewerkers dat zich dagelijks inzet voor continue verbetering binnen Agentschap Overheidspersoneel. Samen zorgen jullie ervoor dat onze organisatie groeit naar een uitmuntende dienstverlening voor élke klant.</span></p> <p><span>Je zet mensen en middelen in beweging, met als doel: een optimale balans tussen klanttevredenheid, efficiëntie en kwaliteit. Je weet ideeën om te zetten in concrete acties en zorgt ervoor dat de strategische doelstellingen realiteit worden in de dagelijkse praktijk.</span></p> <p><span>Met jouw kritische blik help je Agentschap Overheidspersoneel de juiste prioriteiten te stellen, strategische risico’s te managen en de vinger aan de pols te houden via datamonitoring.</span></p> <p><span>Neem je graag het voortouw in projecten en heb je een sterk analytisch inzicht? Ben je bovendien iemand die end-to-end en procesmatig kan denken en vanuit een dienstverlenende en klantgerichte houding werkt?</span></p> <p><span>Hebben processen en het uitwerken van een kwalitatieve dienstverlening voor jou geen geheimen meer? Geeft het coachen en aansturen van medewerkers en het inzetten op een positieve, samenhorige sfeer jou energie? Dan ben jij de persoon die wij zoeken!</span></p> <p><span>Team Kwaliteit biedt ondersteuning bij de volgende 5 thema’s en altijd met het oog op de verhoging van de kwaliteit van onze dienstverlening.</span></p> <ul><li><span>Procesmanagement</span></li><li>Project- en portfoliomanagement</li><li>Doelstellingenmanagement</li><li>Risicomanagement</li><li>Monitoring</li></ul> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+        "raw": "Ben jij geboeid door genetica en plantenbiotechnologie? Wil je bijdragen aan de duurzame\nvoedselvoorziening van morgen?Klaar om deel uit te maken van een team dat zal\nwerken aan efficiëntere plantenveredeling? Dan is\ndit jouw moment om het verschil te maken – zowel in het labo als in het veld. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>",
+        "htmlEncoded": "Ben jij geboeid door genetica en plantenbiotechnologie? Wil je bijdragen aan de duurzame\nvoedselvoorziening van morgen?Klaar om deel uit te maken van een team dat zal\nwerken aan efficiëntere plantenveredeling? Dan is\ndit jouw moment om het verschil te maken – zowel in het labo als in het veld. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18913",
+      "internal": true,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Agentschap Binnenlands Bestuur",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18913",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Communicatiedeskundige"
+      },
+      "displayTitle": "Communicatiedeskundige",
+      "isProtected": false,
+      "description": {
+        "raw": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren en mailingprogramma zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige beschik je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>",
+        "htmlEncoded": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren en mailingprogramma zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige beschik je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>"
       },
       "locations": [
         {
@@ -5488,6 +5243,56 @@
         {
           "address": {
             "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18418",
+      "internal": false,
+      "validThroughDate": "1760313600",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18418",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR-medewerker"
+      },
+      "displayTitle": "HR-medewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij bent iemand die houdt van structuur, maar ook energie haalt uit menselijk contact. Je voelt je thuis in de wereld van personeelsadministratie, maar je kijkt verder dan cijfers en dossiers alleen. Je weet hoe belangrijk een vlotte HR-dienstverlening is voor collega’s en je zet je daar elke dag met overtuiging voor in. Flexibel, betrouwbaar en communicatief sterk – dat is hoe anderen jou omschrijven. Herken jij jezelf hierin? Dan is deze functie bij de Vlaamse Belastingdienst misschien wel exact wat je zoekt.</span></p><p><span>Binnen de afdeling stafdiensten van de Vlaamse Belastingdienst versterk je het HR-team en neem je een sleutelrol op in de samenwerking met het dienstencentrum personeelsadministratie (DCPA) van het Agentschap Overheidspersoneel. Als go-between zorg je ervoor dat personeelsvragen vlot, correct en met oog voor de medewerker worden opgevolgd. Je behandelt dossiers waarvoor de interne HR-dienst bevoegd is en schakelt efficiënt met andere diensten wanneer dat nodig is. Zo sta je in voor het tijdig en zorgvuldig doorgeven van onder meer functiewijzigingen, in- en uitdiensttredingen of vragen over telewerkvergoedingen.</span></p><p><span>Je werkt nauwkeurig, denkt oplossingsgericht en weet hoe je informatie helder moet overbrengen. Je schakelt vlot tussen verschillende taken en springt, waar nodig, ook bij op andere domeinen zoals facility-taken of organisatiebrede HR-projecten. Dankzij jouw inzet loopt alles achter de schermen op rolletjes – en dat voelt iedereen in de organisatie.</span></p><p><span>Bij VLABEL kom je terecht in een mensgerichte overheidsorganisatie waar samenwerking, vertrouwen en maatschappelijke relevantie centraal staan. Je werkt samen met collega’s die betrokken zijn en die, net als jij, elke dag het verschil willen maken.</span></p><p><span><b>Klaar om jouw talent in te zetten bij de Vlaamse Belastingdienst? Solliciteer vandaag nog en versterk ons HR-team.</b></span></p><p><span><b>&nbsp;</b>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Jij bent iemand die houdt van structuur, maar ook energie haalt uit menselijk contact. Je voelt je thuis in de wereld van personeelsadministratie, maar je kijkt verder dan cijfers en dossiers alleen. Je weet hoe belangrijk een vlotte HR-dienstverlening is voor collega’s en je zet je daar elke dag met overtuiging voor in. Flexibel, betrouwbaar en communicatief sterk – dat is hoe anderen jou omschrijven. Herken jij jezelf hierin? Dan is deze functie bij de Vlaamse Belastingdienst misschien wel exact wat je zoekt.</span></p><p><span>Binnen de afdeling stafdiensten van de Vlaamse Belastingdienst versterk je het HR-team en neem je een sleutelrol op in de samenwerking met het dienstencentrum personeelsadministratie (DCPA) van het Agentschap Overheidspersoneel. Als go-between zorg je ervoor dat personeelsvragen vlot, correct en met oog voor de medewerker worden opgevolgd. Je behandelt dossiers waarvoor de interne HR-dienst bevoegd is en schakelt efficiënt met andere diensten wanneer dat nodig is. Zo sta je in voor het tijdig en zorgvuldig doorgeven van onder meer functiewijzigingen, in- en uitdiensttredingen of vragen over telewerkvergoedingen.</span></p><p><span>Je werkt nauwkeurig, denkt oplossingsgericht en weet hoe je informatie helder moet overbrengen. Je schakelt vlot tussen verschillende taken en springt, waar nodig, ook bij op andere domeinen zoals facility-taken of organisatiebrede HR-projecten. Dankzij jouw inzet loopt alles achter de schermen op rolletjes – en dat voelt iedereen in de organisatie.</span></p><p><span>Bij VLABEL kom je terecht in een mensgerichte overheidsorganisatie waar samenwerking, vertrouwen en maatschappelijke relevantie centraal staan. Je werkt samen met collega’s die betrokken zijn en die, net als jij, elke dag het verschil willen maken.</span></p><p><span><b>Klaar om jouw talent in te zetten bij de Vlaamse Belastingdienst? Solliciteer vandaag nog en versterk ons HR-team.</b></span></p><p><span><b>&nbsp;</b>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
