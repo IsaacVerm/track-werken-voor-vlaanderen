@@ -1,11 +1,81 @@
 {
-  "totalItems": 156,
+  "totalItems": 162,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 155,
+  "lastItemOfPage": 161,
   "items": [
+    {
+      "link": "/Job/vdab-72059402",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72059402",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider ICT - Teamlead (departement Omgeving) via Vlaanderen connect"
+      },
+      "displayTitle": "Projectleider ICT - Teamlead (departement Omgeving) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie m.b.t. het domein bodem en ondergrond? Wil je meehelpen om zo de missie en visie van Databank Ondergrond Vlaanderen (DOV) mee te ondersteunen ? Lees dan verder of deze functie bij je past.</p> \n<p>Databank Ondergrond Vlaanderen (DOV) is een samenwerkingsverband binnen de Vlaamse Overheid, tussen het Departement Omgeving, het Departement MOW, de Vlaamse Milieumaatschappij en de Openbare Vlaamse Afvalstoffenmaatschappij dat zich toelegt op het samen beheren en ontsluiten van data en informatie met betrekking tot de ondergrond en de bodem in Vlaanderen. De DOV-coördinatie, evenals het DOV-IT-team, bevinden zich binnen het departement Omgeving. DOV is een netwerkorganisatie met niet enkel partners binnen de overheid, maar ook veel externe partijen die data aanleveren en/of afnemen.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de partners van DOV die langs business kant gecoördineerd worden via het DOV-coördinatieteam) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> \n<li>Je belangrijkste taken:</li> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. DOV is een complexe organisatie met veel businesspartners zowel binnen als buiten het departement. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je software- en GIS-ontwikkelaars en (GIS) data-operatoren aanstuurt. Ook architecten, productowners en (business- en) functionele analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je werkt nauw samen met de DOV-coördinatie (programmamanager) in het opstellen van een roadmap conform de prioriteiten in het DOV-portfolio. Je geeft mee invulling aan het Strategisch overleg van DOV.</p>",
+        "htmlEncoded": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie m.b.t. het domein bodem en ondergrond? Wil je meehelpen om zo de missie en visie van Databank Ondergrond Vlaanderen (DOV) mee te ondersteunen ? Lees dan verder of deze functie bij je past.</p> \n<p>Databank Ondergrond Vlaanderen (DOV) is een samenwerkingsverband binnen de Vlaamse Overheid, tussen het Departement Omgeving, het Departement MOW, de Vlaamse Milieumaatschappij en de Openbare Vlaamse Afvalstoffenmaatschappij dat zich toelegt op het samen beheren en ontsluiten van data en informatie met betrekking tot de ondergrond en de bodem in Vlaanderen. De DOV-coördinatie, evenals het DOV-IT-team, bevinden zich binnen het departement Omgeving. DOV is een netwerkorganisatie met niet enkel partners binnen de overheid, maar ook veel externe partijen die data aanleveren en/of afnemen.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de partners van DOV die langs business kant gecoördineerd worden via het DOV-coördinatieteam) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> \n<li>Je belangrijkste taken:</li> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. DOV is een complexe organisatie met veel businesspartners zowel binnen als buiten het departement. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je software- en GIS-ontwikkelaars en (GIS) data-operatoren aanstuurt. Ook architecten, productowners en (business- en) functionele analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je werkt nauw samen met de DOV-coördinatie (programmamanager) in het opstellen van een roadmap conform de prioriteiten in het DOV-portfolio. Je geeft mee invulling aan het Strategisch overleg van DOV.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72058722",
+      "internal": false,
+      "validThroughDate": "1760227200",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72058722",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "klinisch psycholoog Opname-eenheid 2"
+      },
+      "displayTitle": "klinisch psycholoog Opname-eenheid 2",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span></span><span> Wil jij je klinische expertise inzetten in crisissituaties én werken in een hecht, multidisciplinair team?\n<br> </span><span></span><span> Zoek je een plek waar jouw ideeën en inbreng écht gewaardeerd worden?</span></p> \n<p><span>Dan ben jij misschien de psycholoog die we zoeken voor \n<strong>Opname-eenheid 2</strong>!</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Op Opname-eenheid 2 werk je samen met een warm en multidisciplinair team. Hier ondersteunen we volwassenen met een acute psychiatrische problematiek die baat hebben bij een open afdelingsklimaat. De focus ligt op crisisinterventie, observatie, diagnosestelling, indicatiestelling en oriëntatie.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als klinisch psycholoog:</span></p> \n<ul type=\"disc\"> \n<li><span>begeleid je zowel individuele trajecten als groepssessies (bv. psycho-educatie);</span></li> \n<li><span>voer je familie- en partnergesprekken;</span></li> \n<li><span>denk en werk je actief mee aan de behandelvisie van de afdeling;</span></li> \n<li><span>neem je deel aan intervisie- en supervisiemomenten, waar jouw expertise écht telt;</span></li> \n<li><span>draag je bij aan een sterk therapeutisch programma dat inspeelt op de noden van de patiënten.</span></li> </ul>",
+        "htmlEncoded": "<p><span></span><span> Wil jij je klinische expertise inzetten in crisissituaties én werken in een hecht, multidisciplinair team?\n<br> </span><span></span><span> Zoek je een plek waar jouw ideeën en inbreng écht gewaardeerd worden?</span></p> \n<p><span>Dan ben jij misschien de psycholoog die we zoeken voor \n<strong>Opname-eenheid 2</strong>!</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Op Opname-eenheid 2 werk je samen met een warm en multidisciplinair team. Hier ondersteunen we volwassenen met een acute psychiatrische problematiek die baat hebben bij een open afdelingsklimaat. De focus ligt op crisisinterventie, observatie, diagnosestelling, indicatiestelling en oriëntatie.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als klinisch psycholoog:</span></p> \n<ul type=\"disc\"> \n<li><span>begeleid je zowel individuele trajecten als groepssessies (bv. psycho-educatie);</span></li> \n<li><span>voer je familie- en partnergesprekken;</span></li> \n<li><span>denk en werk je actief mee aan de behandelvisie van de afdeling;</span></li> \n<li><span>neem je deel aan intervisie- en supervisiemomenten, waar jouw expertise écht telt;</span></li> \n<li><span>draag je bij aan een sterk therapeutisch programma dat inspeelt op de noden van de patiënten.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72058100",
       "internal": false,
@@ -2989,6 +3059,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19329",
+      "internal": false,
+      "validThroughDate": "1760572800",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19329",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administratief medewerker Topsport"
+      },
+      "displayTitle": "Administratief medewerker Topsport",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19303",
       "internal": false,
       "validThroughDate": "1759622400",
@@ -3019,6 +3124,41 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19293",
+      "internal": false,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19293",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder betaalbaar wonen"
+      },
+      "displayTitle": "Dossierbeheerder betaalbaar wonen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als dossierbeheerder Betaalbaar Wonen kom je terecht in de afdeling Premies en Woningkwaliteit, in de <strong>dienst Betaalbaar Wonen</strong>. Samen met een 45-tal collega’s werk je daar rond <strong>verschillende premiestelsels </strong>zoals huursubsidie en huurpremie. Sinds 2024 is de dienst Betaalbaar Wonen ook belast met nieuwe taken, die betrekking hebben op de Mijn VerbouwLening voor particuliere verhuurders en de Geconventioneerde verhuur.</p><p>Als dossierbeheerder Betaalbaar Wonen ben je <strong>vlot inzetbaar over de verschillende premiestelsels heen</strong>. Je legt je onder andere toe op de controle en handhaving van subsidievoorwaarden, en fungeert voor bepaalde thema’s als <strong>aanspreekpunt</strong> voor je collega’s, <strong>ondersteunt</strong> hen bij controledossiers, complexere vragen… Dit alles vergt een grondige kennis van de regelgeving, enthousiasme om zelfstandig aan de slag te gaan en een flinke dosis verantwoordelijkheidsgevoel.</p><p>Werk je graag en goed zelfstandig, maar functioneer je ook vlot in team? Weet je van aanpakken, en grasduin je graag in soms complexe regelgeving? Stel je dan zeker kandidaat, en wie weet verwelkomen we jou binnenkort als onze nieuwe collega!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als dossierbeheerder Betaalbaar Wonen kom je terecht in de afdeling Premies en Woningkwaliteit, in de <strong>dienst Betaalbaar Wonen</strong>. Samen met een 45-tal collega’s werk je daar rond <strong>verschillende premiestelsels </strong>zoals huursubsidie en huurpremie. Sinds 2024 is de dienst Betaalbaar Wonen ook belast met nieuwe taken, die betrekking hebben op de Mijn VerbouwLening voor particuliere verhuurders en de Geconventioneerde verhuur.</p><p>Als dossierbeheerder Betaalbaar Wonen ben je <strong>vlot inzetbaar over de verschillende premiestelsels heen</strong>. Je legt je onder andere toe op de controle en handhaving van subsidievoorwaarden, en fungeert voor bepaalde thema’s als <strong>aanspreekpunt</strong> voor je collega’s, <strong>ondersteunt</strong> hen bij controledossiers, complexere vragen… Dit alles vergt een grondige kennis van de regelgeving, enthousiasme om zelfstandig aan de slag te gaan en een flinke dosis verantwoordelijkheidsgevoel.</p><p>Werk je graag en goed zelfstandig, maar functioneer je ook vlot in team? Weet je van aanpakken, en grasduin je graag in soms complexe regelgeving? Stel je dan zeker kandidaat, en wie weet verwelkomen we jou binnenkort als onze nieuwe collega!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3089,6 +3229,41 @@
       "description": {
         "raw": "<p><span>Ben jij klaar om je in korte tijd onder te dompelen in de volle breedte van het omgevingsrecht? Wil je meewerken aan de vereenvoudiging en effectiviteit van regelgeving die écht impact heeft op onze leefomgeving? Dan is dit jouw kans!<br><br> In deze veelzijdige functie werk je dagelijks aan actuele beleidsdossiers in het omgevingsrecht. Je verdiept je in complexe vraagstukken rond de structuur van vergunningverlening, milieueffectrapportages, normstelling en andere kernaspecten van het omgevingsrecht. Samen met je collega’s en raadspartners formuleer je heldere, gedragen beleidsadviezen die richting geven aan ontwerptrajecten en besluitvorming.<br><br> Je drie hoofdtaken:<br></span></p><ul><li><span>Dossiers bestuderen: Je analyseert beleidsvraagstukken grondig om snel tot de kern te komen.<br></span></li><li><span>Vergaderingen faciliteren en verslaglegging: Je zorgt voor structuur, overzicht en duidelijke communicatie.<br></span></li><li><span>Adviezen schrijven: Je vertaalt inzichten en standpunten naar concrete, relevante beleidsadviezen gericht aan de Vlaamse Regering en het Vlaams Parlement.<br></span></li></ul><p><span>Je werkt nauw samen met vijf collega’s die elk hun eigen beleidsthema’s beheren. Jij ondersteunt hen met jouw juridische expertise en zorgt ervoor dat de adviezen van de Minaraad juridisch stevig staan.<br><br> Kortom: een dynamische rol waarin je snel schakelt, inhoudelijk uitgedaagd wordt en bijdraagt aan beleid dat ertoe doet.<br> Klaar om impact te maken? Sluit je aan en bouw mee aan een toekomstbestendig omgevingsrecht!<br><br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
         "htmlEncoded": "<p><span>Ben jij klaar om je in korte tijd onder te dompelen in de volle breedte van het omgevingsrecht? Wil je meewerken aan de vereenvoudiging en effectiviteit van regelgeving die écht impact heeft op onze leefomgeving? Dan is dit jouw kans!<br><br> In deze veelzijdige functie werk je dagelijks aan actuele beleidsdossiers in het omgevingsrecht. Je verdiept je in complexe vraagstukken rond de structuur van vergunningverlening, milieueffectrapportages, normstelling en andere kernaspecten van het omgevingsrecht. Samen met je collega’s en raadspartners formuleer je heldere, gedragen beleidsadviezen die richting geven aan ontwerptrajecten en besluitvorming.<br><br> Je drie hoofdtaken:<br></span></p><ul><li><span>Dossiers bestuderen: Je analyseert beleidsvraagstukken grondig om snel tot de kern te komen.<br></span></li><li><span>Vergaderingen faciliteren en verslaglegging: Je zorgt voor structuur, overzicht en duidelijke communicatie.<br></span></li><li><span>Adviezen schrijven: Je vertaalt inzichten en standpunten naar concrete, relevante beleidsadviezen gericht aan de Vlaamse Regering en het Vlaams Parlement.<br></span></li></ul><p><span>Je werkt nauw samen met vijf collega’s die elk hun eigen beleidsthema’s beheren. Jij ondersteunt hen met jouw juridische expertise en zorgt ervoor dat de adviezen van de Minaraad juridisch stevig staan.<br><br> Kortom: een dynamische rol waarin je snel schakelt, inhoudelijk uitgedaagd wordt en bijdraagt aan beleid dat ertoe doet.<br> Klaar om impact te maken? Sluit je aan en bouw mee aan een toekomstbestendig omgevingsrecht!<br><br></span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19279",
+      "internal": false,
+      "validThroughDate": "1761868800",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19279",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker niet-ioniserende straling"
+      },
+      "displayTitle": "Onderzoeker niet-ioniserende straling",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij analytisch sterk, heb je een neus voor data en wil je meewerken aan een gezondere leefomgeving in Vlaanderen? Dan is deze functie als onderzoeker niet-ioniserende straling misschien wel jouw volgende stap.<br><br>Binnen het Team Omgeving en Gezondheid werk je mee aan het wetenschappelijk onderbouwen van het stralingsbeleid in Vlaanderen. Je verdiept je in de blootstelling aan elektromagnetische velden, van gsm-zendantennes tot hoogspanningslijnen, en vertaalt complexe data naar heldere inzichten. Je werkt aan de verdere uitbouw van een stralingsmeetnet, analyseert meet- en modelgegevens, en beoordeelt aanvragen voor conformiteitsattesten. Je combineert veldwerk met dataverwerking, en je bent betrokken bij het opzetten en uitvoeren van onderzoek, het ontwikkelen van omgevingsindicatoren en het opvolgen van beleidsrelevante dossiers.<br><br>Je krijgt de kans om je expertise in te zetten in een maatschappelijk relevant domein, waarbij je samenwerkt met collega’s, externe onderzoekers en beleidsmakers. Je werk is zichtbaar en actueel: je levert input voor parlementaire vragen, beleidsadviezen en milieueffectrapportages. Tegelijk bouw je mee aan een datagovernancestructuur en optimaliseer je processen en tools die essentieel zijn voor een kwaliteitsvolle beoordeling van stralingsniveaus.<br><br>Deze functie biedt jou de ruimte om je wetenschappelijke vaardigheden verder te ontwikkelen, je netwerk uit te breiden en impact te hebben op het beleid. Je komt terecht in een geëngageerd team waar kennisdeling en samenwerking centraal staan, en waar je de kans krijgt om inhoudelijk te groeien in een domein dat volop in beweging is.<br><br>Flexibele inzet op andere taken of opdrachten is ook mogelijk. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
+        "htmlEncoded": "Ben jij analytisch sterk, heb je een neus voor data en wil je meewerken aan een gezondere leefomgeving in Vlaanderen? Dan is deze functie als onderzoeker niet-ioniserende straling misschien wel jouw volgende stap.<br><br>Binnen het Team Omgeving en Gezondheid werk je mee aan het wetenschappelijk onderbouwen van het stralingsbeleid in Vlaanderen. Je verdiept je in de blootstelling aan elektromagnetische velden, van gsm-zendantennes tot hoogspanningslijnen, en vertaalt complexe data naar heldere inzichten. Je werkt aan de verdere uitbouw van een stralingsmeetnet, analyseert meet- en modelgegevens, en beoordeelt aanvragen voor conformiteitsattesten. Je combineert veldwerk met dataverwerking, en je bent betrokken bij het opzetten en uitvoeren van onderzoek, het ontwikkelen van omgevingsindicatoren en het opvolgen van beleidsrelevante dossiers.<br><br>Je krijgt de kans om je expertise in te zetten in een maatschappelijk relevant domein, waarbij je samenwerkt met collega’s, externe onderzoekers en beleidsmakers. Je werk is zichtbaar en actueel: je levert input voor parlementaire vragen, beleidsadviezen en milieueffectrapportages. Tegelijk bouw je mee aan een datagovernancestructuur en optimaliseer je processen en tools die essentieel zijn voor een kwaliteitsvolle beoordeling van stralingsniveaus.<br><br>Deze functie biedt jou de ruimte om je wetenschappelijke vaardigheden verder te ontwikkelen, je netwerk uit te breiden en impact te hebben op het beleid. Je komt terecht in een geëngageerd team waar kennisdeling en samenwerking centraal staan, en waar je de kans krijgt om inhoudelijk te groeien in een domein dat volop in beweging is.<br><br>Flexibele inzet op andere taken of opdrachten is ook mogelijk. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
       },
       "locations": [
         {
@@ -3529,6 +3704,41 @@
         {
           "address": {
             "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19219",
+      "internal": false,
+      "validThroughDate": "1761177600",
+      "hiringOrganization": "Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19219",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker genenbronnen bomen en struiken"
+      },
+      "displayTitle": "Onderzoeker genenbronnen bomen en struiken",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij gepassioneerd door genetisch onderzoek en wil je bijdragen aan weerbare bossen in een veranderend klimaat? Het Instituut voor Natuur- en Bosonderzoek (INBO) zoekt een ervaren onderzoeker die mee vorm geeft aan het beleid rond bosbouwkundig uitgangsmateriaal en genetische diversiteit van bomen en struiken.<br><br>Je werkt in het nieuwe team \"Genenbronnen Bomen &amp; Struiken\", waar je innovatieve onderzoeksprojecten ontwikkelt, DNA-databanken beheert en stakeholders adviseert over duurzaam bosbeheer. Je bouwt mee aan levende collecties, zaadboomgaarden en veldproeven, en krijgt de kans om je werk internationaal te publiceren.<br><br><strong>Wat bieden wij?</strong><br><br>&nbsp;- Een sleutelrol in toegepast wetenschappelijk onderzoek;<br>&nbsp;- Samenwerking met topcollega’s en internationale netwerken;<br>&nbsp;- Impact op natuurbeleid en biodiversiteit in Vlaanderen.<br><br><strong>Wie zoeken wij?</strong><br><br>&nbsp;- Een gedreven teamspeler met expertise in populatiegenetica of aanverwante disciplines, die wetenschappelijke inzichten weet te vertalen naar praktijk en beleid.<br><br>Klaar om mee te bouwen aan de bossen van morgen? Solliciteer nu en maak het verschil!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij gepassioneerd door genetisch onderzoek en wil je bijdragen aan weerbare bossen in een veranderend klimaat? Het Instituut voor Natuur- en Bosonderzoek (INBO) zoekt een ervaren onderzoeker die mee vorm geeft aan het beleid rond bosbouwkundig uitgangsmateriaal en genetische diversiteit van bomen en struiken.<br><br>Je werkt in het nieuwe team \"Genenbronnen Bomen &amp; Struiken\", waar je innovatieve onderzoeksprojecten ontwikkelt, DNA-databanken beheert en stakeholders adviseert over duurzaam bosbeheer. Je bouwt mee aan levende collecties, zaadboomgaarden en veldproeven, en krijgt de kans om je werk internationaal te publiceren.<br><br><strong>Wat bieden wij?</strong><br><br>&nbsp;- Een sleutelrol in toegepast wetenschappelijk onderzoek;<br>&nbsp;- Samenwerking met topcollega’s en internationale netwerken;<br>&nbsp;- Impact op natuurbeleid en biodiversiteit in Vlaanderen.<br><br><strong>Wie zoeken wij?</strong><br><br>&nbsp;- Een gedreven teamspeler met expertise in populatiegenetica of aanverwante disciplines, die wetenschappelijke inzichten weet te vertalen naar praktijk en beleid.<br><br>Klaar om mee te bouwen aan de bossen van morgen? Solliciteer nu en maak het verschil!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geraardsbergen"
           }
         }
       ]
@@ -4957,8 +5167,8 @@
       "displayTitle": "Communicatiedeskundige",
       "isProtected": false,
       "description": {
-        "raw": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren en mailingprogramma zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige beschik je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>",
-        "htmlEncoded": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren en mailingprogramma zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige beschik je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>"
+        "raw": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren, mailingprogramma's zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige heb je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>",
+        "htmlEncoded": "Heb je een passie voor communicatie? Ben je geïnteresseerd in\nwebredactie en schrikt het beheer van sites, mailings of media jou niet af? Dan\nben jij de persoon die we zoeken.<br><br>Als communicatiesdeskundige ga je aan de slag met de bouwstenen van\nhet Webplatform-CMS (oftewel; het beheersysteem van onze websites) van de\nVlaamse Overheid, onze webformulieren, mailingprogramma's zoals (Flexmail) en\nmediabibliotheek-toepassingen. &nbsp;Je wordt\nonze rots-in-de-branding om sitemigraties te realiseren of grote nieuwe\ninformatieblokken te ontsluiten op onze websites of nieuwsbrieven. Je hebt\ndaarbij oog voor een heldere (site)navigatie en een rustige vormgeving. Vanuit\njouw expertise sta je de collega’s in het team communicatie en binnen ABB bij\nmet raad en daad over de digitale communicatietools die we kunnen inzetten om\ninformatie zo goed mogelijk te ontsluiten.<br> <br>Als communicatiedeskundige heb je dus over een divers\ntakenpakket: <br>je ondersteunt in het Webplatform (CMS), SharePoint (intranet), Flexmail (Mail client) en de formulierentool van Adobe, bv. om inschrijvingen op te zetten of bevragingen uit te sturen;<br>je bewaakt de goede werking (structuur, opleiding, ..) van onze mediabibliotheken (afbeeldingen, video, iconen)<br>Je rol bevindt zich op de kruising tussen de beheersing\nvan de technische mogelijkheden (met mail, websites, media en formulieren) en het\n(taalkundig) herschikken van de informatie om tot geslaagde\ncommunicatieproducten te komen. Redactiewerk van (Heerlijk heldere) kopij\nschrikt je dus ook niet af.<br> <br>Vanuit jouw rol en expertise sta je in contact met vele van onze\nleveranciers (Digitaal Vlaanderen, SharePoint-experten, ...). Jij helpt mee\nonze communicatienoden te vertalen naar hun begripsniveau. <br>"
       },
       "locations": [
         {
