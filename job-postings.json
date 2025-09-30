@@ -1,11 +1,81 @@
 {
-  "totalItems": 162,
+  "totalItems": 164,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 161,
+  "lastItemOfPage": 163,
   "items": [
+    {
+      "link": "/Job/vdab-72070344",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72070344",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "project manager (VEKA) via Vlaanderen connect"
+      },
+      "displayTitle": "project manager (VEKA) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p>Dimensies van de functie:</p> \n<ul> \n<li>Stuurt ICT-projecten aan met hoge complexiteit en/of strategisch belang, die een directe impact hebben op organisatie kritische processen.</li> \n<li>Beschikt over diepgaande kennis van de business en stemt projecten af op de specifieke behoeften en strategische doelen van de klantorganisatie.</li> \n<li>Plant en beheert projecten waarbij zowel korte- als langetermijndoelen worden geborgd.</li> \n<li>Volgt de voortgang van projecten nauwgezet op, bewaakt mijlpalen en budgetten en zorgt voor de inzet van de benodigde middelen.</li> \n<li>Werkt effectief samen met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Zorgt ervoor dat de ICT-dienstverlening van de klantorganisatie op een kwalitatieve en duurzame manier wordt verbeterd.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p>",
+        "htmlEncoded": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p>Dimensies van de functie:</p> \n<ul> \n<li>Stuurt ICT-projecten aan met hoge complexiteit en/of strategisch belang, die een directe impact hebben op organisatie kritische processen.</li> \n<li>Beschikt over diepgaande kennis van de business en stemt projecten af op de specifieke behoeften en strategische doelen van de klantorganisatie.</li> \n<li>Plant en beheert projecten waarbij zowel korte- als langetermijndoelen worden geborgd.</li> \n<li>Volgt de voortgang van projecten nauwgezet op, bewaakt mijlpalen en budgetten en zorgt voor de inzet van de benodigde middelen.</li> \n<li>Werkt effectief samen met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Zorgt ervoor dat de ICT-dienstverlening van de klantorganisatie op een kwalitatieve en duurzame manier wordt verbeterd.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72070215",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72070215",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "program manager (VEKA) via Vlaanderen connect"
+      },
+      "displayTitle": "program manager (VEKA) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p><span>Dimensies van de functie</span></p> \n<ul> \n<li>Je coördineert en beheert een portefeuille van diverse ICT-projecten met korte en lange doorlooptijden.</li> \n<li>Je houdt rekening met de behoeften van klanten en richt de projecten zodanig in dat ze een directe impact hebben op organisatie kritische processen en bijdragen aan de strategische doelen van de organisatie.</li> \n<li>Je beschikt over kennis van de business en stemt ICT-oplossingen af op de technologische mogelijkheden en beperkingen, inclusief personeel, budget en tijd.</li> \n<li>Je werkt effectief met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Je zorgt voor een samenhangend en geïntegreerd beleid en beheer van alle ICT-initiatieven en projecten binnen de portefeuille, met een focus op strategische samenhang en efficiëntie.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder kan beslissingen nemen waardoor de tactische betekenis van de bestaande procedures en technieken wijzigt en/of verschuift zo lang er aan het bestaan en het uiteindelijke doel van deze laatste niet wordt geraakt. Dit houdt tevens in dat hij binnen het bestaande kader nieuwe concepten kan toevoegen of de inhoud van de reeds bestaande kan aanpassen.</p> \n<p><span>Resultaatgebieden</span></p> \n<ul> \n<li><span>Resultaatgebied 1</span>: Programma-management</li> \n<li><span>Resultaatgebied 2:</span> Programma-uitvoering en -opvolging. Het opvolgen en begeleiden van de uitvoering van de geplande projecten om te garanderen dat de beoogde resultaten en doelstellingen van het programma succesvol worden behaald</li> \n<li><span>Resultaatgebied 3</span>: Peoplemanagement. Zorgen dat alle projectleden zowel individueel als in teamverband op een efficiënte manier bijdragen aan de realisatie van het programma en de deelprojecten, en hen de benodigde vaardigheden en kennis ontwikkelen om succesvol te presteren</li> \n<li><span>Resultaatgebied 4:</span> Rapporteren. Het rapporteren van de voortgang en de behaalde resultaten van het programma, zodat het management goed geïnformeerd blijft en eventuele bijsturingen tijdig kunnen worden gepland en uitgevoerd</li> \n<li><span>Resultaatgebied 5:</span> Communicatie en samenwerken. Samenwerken met de betrokken stakeholders en opstellen van communicatie-initiatieven om de klanten beter te informeren over het ICT-dienstenaanbod</li> \n<li><span>Resultaatgebied 6</span>: Kennisoverdracht. Het effectief overdragen van het programma naar de organisatie om een succesvolle implementatie van de programma- en projectresultaten te realiseren</li> </ul>",
+        "htmlEncoded": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p><span>Dimensies van de functie</span></p> \n<ul> \n<li>Je coördineert en beheert een portefeuille van diverse ICT-projecten met korte en lange doorlooptijden.</li> \n<li>Je houdt rekening met de behoeften van klanten en richt de projecten zodanig in dat ze een directe impact hebben op organisatie kritische processen en bijdragen aan de strategische doelen van de organisatie.</li> \n<li>Je beschikt over kennis van de business en stemt ICT-oplossingen af op de technologische mogelijkheden en beperkingen, inclusief personeel, budget en tijd.</li> \n<li>Je werkt effectief met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Je zorgt voor een samenhangend en geïntegreerd beleid en beheer van alle ICT-initiatieven en projecten binnen de portefeuille, met een focus op strategische samenhang en efficiëntie.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder kan beslissingen nemen waardoor de tactische betekenis van de bestaande procedures en technieken wijzigt en/of verschuift zo lang er aan het bestaan en het uiteindelijke doel van deze laatste niet wordt geraakt. Dit houdt tevens in dat hij binnen het bestaande kader nieuwe concepten kan toevoegen of de inhoud van de reeds bestaande kan aanpassen.</p> \n<p><span>Resultaatgebieden</span></p> \n<ul> \n<li><span>Resultaatgebied 1</span>: Programma-management</li> \n<li><span>Resultaatgebied 2:</span> Programma-uitvoering en -opvolging. Het opvolgen en begeleiden van de uitvoering van de geplande projecten om te garanderen dat de beoogde resultaten en doelstellingen van het programma succesvol worden behaald</li> \n<li><span>Resultaatgebied 3</span>: Peoplemanagement. Zorgen dat alle projectleden zowel individueel als in teamverband op een efficiënte manier bijdragen aan de realisatie van het programma en de deelprojecten, en hen de benodigde vaardigheden en kennis ontwikkelen om succesvol te presteren</li> \n<li><span>Resultaatgebied 4:</span> Rapporteren. Het rapporteren van de voortgang en de behaalde resultaten van het programma, zodat het management goed geïnformeerd blijft en eventuele bijsturingen tijdig kunnen worden gepland en uitgevoerd</li> \n<li><span>Resultaatgebied 5:</span> Communicatie en samenwerken. Samenwerken met de betrokken stakeholders en opstellen van communicatie-initiatieven om de klanten beter te informeren over het ICT-dienstenaanbod</li> \n<li><span>Resultaatgebied 6</span>: Kennisoverdracht. Het effectief overdragen van het programma naar de organisatie om een succesvolle implementatie van de programma- en projectresultaten te realiseren</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72059402",
       "internal": false,
@@ -667,41 +737,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71964898",
-      "internal": false,
-      "validThroughDate": "1759104000",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71964898",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "klinisch psycholoog Crisisunit"
-      },
-      "displayTitle": "klinisch psycholoog Crisisunit",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode? De crisisunit jongeren van \n<strong>OPZ Geel</strong> zoekt een klinisch psycholoog die energie krijgt van uitdagingen, teamwork en werken in een inspirerende zorgomgeving.</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>De crisisunit jongeren biedt \n<strong>kortdurende residentiële zorg</strong> aan jongeren tussen 12 en 18 jaar. \n<strong>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</strong>.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog maak jij dagelijks impact door:</span></p> \n<ul type=\"disc\"> \n<li><span>Jongeren te begeleiden en hen te ondersteunen bij het stabiliseren van hun crisis.</span></li> \n<li><span>Samen met je team handvaten aan te reiken die jongeren en hun context verder helpen.</span></li> \n<li><span>Therapie te implementeren die inspeelt op de noden van elke jongere.</span></li> \n<li><span>Context en netwerk actief te betrekken bij het zorgtraject.</span></li> \n<li><span>Je collega’s te inspireren en samen verantwoordelijkheid te nemen voor warme, kwaliteitsvolle zorg.</span></li> </ul>",
-        "htmlEncoded": "<p> </p> \n<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode? De crisisunit jongeren van \n<strong>OPZ Geel</strong> zoekt een klinisch psycholoog die energie krijgt van uitdagingen, teamwork en werken in een inspirerende zorgomgeving.</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>De crisisunit jongeren biedt \n<strong>kortdurende residentiële zorg</strong> aan jongeren tussen 12 en 18 jaar. \n<strong>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</strong>.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog maak jij dagelijks impact door:</span></p> \n<ul type=\"disc\"> \n<li><span>Jongeren te begeleiden en hen te ondersteunen bij het stabiliseren van hun crisis.</span></li> \n<li><span>Samen met je team handvaten aan te reiken die jongeren en hun context verder helpen.</span></li> \n<li><span>Therapie te implementeren die inspeelt op de noden van elke jongere.</span></li> \n<li><span>Context en netwerk actief te betrekken bij het zorgtraject.</span></li> \n<li><span>Je collega’s te inspireren en samen verantwoordelijkheid te nemen voor warme, kwaliteitsvolle zorg.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
@@ -2807,6 +2842,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19467",
+      "internal": false,
+      "validThroughDate": "1761004800",
+      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19467",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "BI-stage medewerker overheidsopdrachten"
+      },
+      "displayTitle": "BI-stage medewerker overheidsopdrachten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Samen met je collega dossierbeheerders en juristen ondersteun je\nde leidend ambtenaren binnen het Departement Mobiliteit en Openbare Werken\n(DMOW) bij het plaatsen van hun overheidsopdrachten. Je begeleidt de leidend\nambtenaren bij het opstellen van de administratieve voorschriften, het\npubliceren in het e-Procurement platform en ook de administratieve en\nfinanciële goedkeuringsstromen die rond overheidsopdrachten bestaan. <br><br>Hierbij zorg je voor de juiste en correcte registraties in eDelta,\nOrafin en EPM. Vlaamse informatiesystemen voor de boekhoudkundige en\nadministratieve opvolging van overheidsopdrachten. <br><br>Je zal ook ingezet worden om de rapportering op te volgen en de\nraamovereenkomsten van EXPOO verder in kaart te brengen.<br><br>Als medewerker overheidsopdrachten heb je een uitgebreid\ntakenpakket en speel je een cruciale rol in het correcte en efficiënte verloop\nvan overheidsopdrachten.</p><p><strong>Lees meer over de organisatie, voorwaarden en selectieprocedure via het selectiereglement!</strong></p>",
+        "htmlEncoded": "<p>Samen met je collega dossierbeheerders en juristen ondersteun je\nde leidend ambtenaren binnen het Departement Mobiliteit en Openbare Werken\n(DMOW) bij het plaatsen van hun overheidsopdrachten. Je begeleidt de leidend\nambtenaren bij het opstellen van de administratieve voorschriften, het\npubliceren in het e-Procurement platform en ook de administratieve en\nfinanciële goedkeuringsstromen die rond overheidsopdrachten bestaan. <br><br>Hierbij zorg je voor de juiste en correcte registraties in eDelta,\nOrafin en EPM. Vlaamse informatiesystemen voor de boekhoudkundige en\nadministratieve opvolging van overheidsopdrachten. <br><br>Je zal ook ingezet worden om de rapportering op te volgen en de\nraamovereenkomsten van EXPOO verder in kaart te brengen.<br><br>Als medewerker overheidsopdrachten heb je een uitgebreid\ntakenpakket en speel je een cruciale rol in het correcte en efficiënte verloop\nvan overheidsopdrachten.</p><p><strong>Lees meer over de organisatie, voorwaarden en selectieprocedure via het selectiereglement!</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19393",
       "internal": false,
       "validThroughDate": "1764460800",
@@ -3094,6 +3164,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19320",
+      "internal": true,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Agentschap voor Infrastructuur in het Onderwijs",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19320",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Architect schoolinfrastructuur"
+      },
+      "displayTitle": "Architect schoolinfrastructuur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als architect geef je vanuit jouw technische specialisatie advies rond ontwikkelingen in scholenbouw. Je bouwt kennis op en deelt deze actief binnen de organisatie.</span></p> <p><span>Een greep uit jouw takenpakket:</span></p><ul><li><span>&nbsp;</span><span>Je brengt noden, opportuniteiten en knelpunten in scholenbouw in kaart en doet aanbevelingen voor het huidige en toekomstige onderwijsbeleid</span></li><li>Je beantwoordt concrete technische vragen van collega’s en externe klanten (bv. schoolbesturen,<span>&nbsp; </span><span>architectenbureaus, beleidsmakers) over specifieke bouwprojecten en subsidiedossiers</span></li><li><span>&nbsp;</span><span>Je neemt deel aan beoordelingen/jurerende functies bij scholenbouwdossiers</span></li><li><span>J</span><span>e sensibiliseert en stimuleert schoolbesturen en bouwheren op vlak van multifunctionaliteit, duurzaamheid,…</span></li><li><span>&nbsp;</span><span>Je geeft vorm aan een actieplan toegankelijkheid voor schoolgebouwen</span></li><li><span>&nbsp;</span><span>Je werkt mee aan de uitbouw van een scholenbouwgids</span></li><li><span>&nbsp;</span><span>Je houdt vinger aan de pols in jouw expertisedomein via het opvolgen van publicaties, het verzamelen van good practices, deelname aan studiedagen, …), en deelt jouw kennis actief binnen de organisatie.</span></li></ul>",
+        "htmlEncoded": "<p><span>Als architect geef je vanuit jouw technische specialisatie advies rond ontwikkelingen in scholenbouw. Je bouwt kennis op en deelt deze actief binnen de organisatie.</span></p> <p><span>Een greep uit jouw takenpakket:</span></p><ul><li><span>&nbsp;</span><span>Je brengt noden, opportuniteiten en knelpunten in scholenbouw in kaart en doet aanbevelingen voor het huidige en toekomstige onderwijsbeleid</span></li><li>Je beantwoordt concrete technische vragen van collega’s en externe klanten (bv. schoolbesturen,<span>&nbsp; </span><span>architectenbureaus, beleidsmakers) over specifieke bouwprojecten en subsidiedossiers</span></li><li><span>&nbsp;</span><span>Je neemt deel aan beoordelingen/jurerende functies bij scholenbouwdossiers</span></li><li><span>J</span><span>e sensibiliseert en stimuleert schoolbesturen en bouwheren op vlak van multifunctionaliteit, duurzaamheid,…</span></li><li><span>&nbsp;</span><span>Je geeft vorm aan een actieplan toegankelijkheid voor schoolgebouwen</span></li><li><span>&nbsp;</span><span>Je werkt mee aan de uitbouw van een scholenbouwgids</span></li><li><span>&nbsp;</span><span>Je houdt vinger aan de pols in jouw expertisedomein via het opvolgen van publicaties, het verzamelen van good practices, deelname aan studiedagen, …), en deelt jouw kennis actief binnen de organisatie.</span></li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19303",
       "internal": false,
       "validThroughDate": "1759622400",
@@ -3234,6 +3339,38 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19280",
+      "internal": true,
+      "validThroughDate": "1760572800",
+      "hiringOrganization": "Agentschap Wegen en Verkeer",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19280",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Secretariaatsmedewerker"
+      },
+      "displayTitle": "Secretariaatsmedewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!</div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.</div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:</div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!</div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.</div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:</div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
           }
         }
       ]
@@ -3844,41 +3981,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19206",
-      "internal": false,
-      "validThroughDate": "1759104000",
-      "hiringOrganization": "Audit Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19206",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager-auditor afdeling forensische audits"
-      },
-      "displayTitle": "Manager-auditor afdeling forensische audits",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het agentschap Audit Vlaanderen is momenteel op zoek naar een manager-auditor voor de afdeling forensische audits. Je bepaalt, in overleg met de leidend ambtenaar en de collega’s manager–auditoren, de methodologische aanpak van de forensische audits bij de Vlaamse administratie en de lokale besturen. Als manager-auditor zal je in hoofdzaak de forensische audits bij de Vlaamse administratie en de lokale besturen superviseren, maar je kan ook andere audits superviseren indien het auditplan dit vereist. </span></p> <p><span>Als manager-auditor rapporteer je aan de administrateur-generaal van Audit Vlaanderen. Je geeft leiding aan een 3-tal senior auditoren en aan een 10-tal auditoren. </span></p> <p><span>Je plant, organiseert, coördineert en dynamiseert de activiteiten van je afdeling, conform de normen van het IIA, het IFA en het ACFE. Je hebt daarbij aandacht voor innovatie en confidentialiteit. Je volgt de activiteiten van je afdeling op en stuurt bij. Dit alles doe je om de korte- en langetermijndoelstellingen van het agentschap te realiseren.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
-        "htmlEncoded": "<p><span>Het agentschap Audit Vlaanderen is momenteel op zoek naar een manager-auditor voor de afdeling forensische audits. Je bepaalt, in overleg met de leidend ambtenaar en de collega’s manager–auditoren, de methodologische aanpak van de forensische audits bij de Vlaamse administratie en de lokale besturen. Als manager-auditor zal je in hoofdzaak de forensische audits bij de Vlaamse administratie en de lokale besturen superviseren, maar je kan ook andere audits superviseren indien het auditplan dit vereist. </span></p> <p><span>Als manager-auditor rapporteer je aan de administrateur-generaal van Audit Vlaanderen. Je geeft leiding aan een 3-tal senior auditoren en aan een 10-tal auditoren. </span></p> <p><span>Je plant, organiseert, coördineert en dynamiseert de activiteiten van je afdeling, conform de normen van het IIA, het IFA en het ACFE. Je hebt daarbij aandacht voor innovatie en confidentialiteit. Je volgt de activiteiten van je afdeling op en stuurt bij. Dit alles doe je om de korte- en langetermijndoelstellingen van het agentschap te realiseren.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": ""
           }
         }
       ]
@@ -4872,6 +4974,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19022",
+      "internal": false,
+      "validThroughDate": "1760832000",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19022",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Directeur communicatie"
+      },
+      "displayTitle": "Directeur communicatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een geboren coach die medewerkers laat groeien en tegelijk de grote lijnen nooit uit het oog verliest? Heb je een <strong>passie voor communicatie</strong> én een scherp oog voor de juiste inzet van kanalen? Als directeur communicatie binnen het Departement Cultuur, Jeugd en Media stuur je een dynamisch team van tien collega’s aan en bouw je mee aan een strategische, doelgroepgerichte communicatie, zowel intern als extern.<br><br>Je focust in de eerste plaats op <strong>leidinggeven, coachen en begeleiden</strong> van je team en bewaart het helikopterzicht over alle communicatiedossiers. Daarnaast bewaak je actief de <strong>kanaalstrategie</strong>: je volgt nieuwe communicatiekanalen en trends op de voet en bepaalt samen met je team en de staf wanneer en hoe deze best worden ingezet. Ook neem je enkele<strong> operationele taken</strong> op en werk je nauw samen met de andere directeurs om het communicatiebeleid verder te versterken.<br><br>Een greep uit het gevarieerde takenpakket:</p><ul><li>Je bent verantwoordelijk voor de implementatie, opvolging en evaluatie van het communicatiebeleid van het departement.</li><li>Je ontwikkelt, verfijnt en bewaakt de kanaalstrategie en houdt de vinger aan de pols bij nieuwe communicatietrends.</li><li>Je onderhoudt perscontacten en stemt communicatie af met diverse externe stakeholders, woordvoerders en kabinetten.</li><li>Je treedt op als woordvoerder voor het departement.&nbsp;</li><li>Je beheert het communicatiebudget en organiseert evenementen van uiteenlopende schaal, zoals studiedagen en prijsuitreikingen.</li><li>Je zorgt samen met je team voor het intranet en de jaarlijkse uitgave van het jaarmagazine.</li><li>Je bent verantwoordelijk voor het klachtenmanagement binnen het departement.</li></ul><p>Ben jij een <strong>inspirerende leider</strong> die medewerkers motiveert en tegelijk met kennis van zaken strategische keuzes maakt in communicatiekanalen? Heb je een passie voor <strong>helder communiceren</strong> én het vertalen van <strong>nieuwe trends </strong>naar een realistische aanpak? Lees dan zeker verder.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een geboren coach die medewerkers laat groeien en tegelijk de grote lijnen nooit uit het oog verliest? Heb je een <strong>passie voor communicatie</strong> én een scherp oog voor de juiste inzet van kanalen? Als directeur communicatie binnen het Departement Cultuur, Jeugd en Media stuur je een dynamisch team van tien collega’s aan en bouw je mee aan een strategische, doelgroepgerichte communicatie, zowel intern als extern.<br><br>Je focust in de eerste plaats op <strong>leidinggeven, coachen en begeleiden</strong> van je team en bewaart het helikopterzicht over alle communicatiedossiers. Daarnaast bewaak je actief de <strong>kanaalstrategie</strong>: je volgt nieuwe communicatiekanalen en trends op de voet en bepaalt samen met je team en de staf wanneer en hoe deze best worden ingezet. Ook neem je enkele<strong> operationele taken</strong> op en werk je nauw samen met de andere directeurs om het communicatiebeleid verder te versterken.<br><br>Een greep uit het gevarieerde takenpakket:</p><ul><li>Je bent verantwoordelijk voor de implementatie, opvolging en evaluatie van het communicatiebeleid van het departement.</li><li>Je ontwikkelt, verfijnt en bewaakt de kanaalstrategie en houdt de vinger aan de pols bij nieuwe communicatietrends.</li><li>Je onderhoudt perscontacten en stemt communicatie af met diverse externe stakeholders, woordvoerders en kabinetten.</li><li>Je treedt op als woordvoerder voor het departement.&nbsp;</li><li>Je beheert het communicatiebudget en organiseert evenementen van uiteenlopende schaal, zoals studiedagen en prijsuitreikingen.</li><li>Je zorgt samen met je team voor het intranet en de jaarlijkse uitgave van het jaarmagazine.</li><li>Je bent verantwoordelijk voor het klachtenmanagement binnen het departement.</li></ul><p>Ben jij een <strong>inspirerende leider</strong> die medewerkers motiveert en tegelijk met kennis van zaken strategische keuzes maakt in communicatiekanalen? Heb je een passie voor <strong>helder communiceren</strong> én het vertalen van <strong>nieuwe trends </strong>naar een realistische aanpak? Lees dan zeker verder.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19017",
       "internal": false,
       "validThroughDate": "1759449600",
@@ -5524,76 +5661,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17736",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17736",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Schipper voor Antwerpen"
-      },
-      "displayTitle": "Schipper voor Antwerpen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>",
-        "htmlEncoded": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-17630",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-17630",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Schipper voor Gent"
-      },
-      "displayTitle": "Schipper voor Gent",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;&nbsp;<br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn afhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks met je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren.&nbsp; Vroege en late shifts en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.</p><p>Wil je graag nog meer details over de job van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>&nbsp;.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Antwerpen? Schrijf je dan (ook) in voor deze&nbsp;<a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-antwerpen-5a2af2\">selectieprocedure voor schipper te Antwerpen</a>&nbsp;bij DAB Vloot&nbsp;.</p>",
-        "htmlEncoded": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;&nbsp;<br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn afhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks met je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren.&nbsp; Vroege en late shifts en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.</p><p>Wil je graag nog meer details over de job van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>&nbsp;.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Antwerpen? Schrijf je dan (ook) in voor deze&nbsp;<a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-antwerpen-5a2af2\">selectieprocedure voor schipper te Antwerpen</a>&nbsp;bij DAB Vloot&nbsp;.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
