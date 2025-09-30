@@ -1,11 +1,116 @@
 {
-  "totalItems": 164,
+  "totalItems": 169,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 163,
+  "lastItemOfPage": 168,
   "items": [
+    {
+      "link": "/Job/vdab-72076889",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72076889",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager Innovatie en Data"
+      },
+      "displayTitle": "Manager Innovatie en Data",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><em><span>Context – Waar kom je terecht?</span></em></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto</span><span>“Samen voor meer en betere natuur in Vlaanderen”.</span></p> \n<p><span>Je komt terecht bij de</span><span>Cel Digitalisering &amp; Innovatie</span><span>van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Binnen de cel lopen twee strategische programma’s:</span></p> \n<ul type=\"disc\"> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners</span></li> \n<li><span>Smart Nature: het inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Voor deze programma’s zoeken wij een</span><span>Manager Innovatie en Data</span><span>die ons helpt de data- en innovatiestrategie vorm te geven en verder uit te bouwen.</span></p> \n<p><em><span>Doel – Wat zal je doen?</span></em></p> \n<p><span>Binnen deze rol ben je verantwoordelijk voor het opzetten en aansturen van een data- en innovatie-team dat als motor fungeert voor vernieuwing binnen de organisatie. Je ontwikkelt en implementeert een overkoepelende data- en innovatiestrategie die niet alleen nieuwe innovatieve projecten ondersteunt, maar ook de betrouwbaarheid en continuïteit van standaard data-applicaties waarborgt. Zo maak je het mogelijk om natuurbeheer steeds meer te baseren op inzichten uit data door middel van technologie, waardoor beleidskeuzes en operationele beslissingen beter onderbouwd, effectiever en efficiënter worden.</span></p> \n<p><span>Daarnaast geef je richting aan het beleid voor zowel AI-governance als data-governance binnen ANB, zodat nieuwe technologieën op een verantwoorde en transparante manier kunnen worden toegepast. Je neemt de leiding over projecten waarin gebruik wordt gemaakt van geavanceerde technologieën zoals advanced analytics, artificiële intelligentie, Internet of Things (IoT) en de inzet van satelliet-, lucht- en dronebeelden. Deze toepassingen versterken de monitoring, planning en uitvoering van natuurbeheer, waardoor we sneller kunnen inspelen op nieuwe uitdagingen en kansen.</span></p> \n<p><span>Een belangrijk onderdeel van je opdracht is het</span><span>ondersteunen van het programma “Digitale Dienstverlening” en het \n<strong>aansturen van het programma “Smart Nature”</strong>, waarin de hierboven technologieën worden ingezet om natuurbeheer slimmer en efficiënter te maken. Hiermee geef je richting aan de verdere digitalisering en technologische vernieuwing van het natuurbeheer binnen ANB.</span></p> \n<p><span>Je stimuleert actief een cultuur waarin experimenteren, prototyping en iteratieve ontwikkeling centraal staan – van het eerste idee tot en met de implementatie in de praktijk. Daarbij werk je intensief samen met zowel interne als externe stakeholders om innovatieve en duurzame oplossingen te realiseren die bijdragen aan de strategische doelstellingen van ANB en een toekomstbestendig natuurbeheer.</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><em><span>Context – Waar kom je terecht?</span></em></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto</span><span>“Samen voor meer en betere natuur in Vlaanderen”.</span></p> \n<p><span>Je komt terecht bij de</span><span>Cel Digitalisering &amp; Innovatie</span><span>van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Binnen de cel lopen twee strategische programma’s:</span></p> \n<ul type=\"disc\"> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners</span></li> \n<li><span>Smart Nature: het inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Voor deze programma’s zoeken wij een</span><span>Manager Innovatie en Data</span><span>die ons helpt de data- en innovatiestrategie vorm te geven en verder uit te bouwen.</span></p> \n<p><em><span>Doel – Wat zal je doen?</span></em></p> \n<p><span>Binnen deze rol ben je verantwoordelijk voor het opzetten en aansturen van een data- en innovatie-team dat als motor fungeert voor vernieuwing binnen de organisatie. Je ontwikkelt en implementeert een overkoepelende data- en innovatiestrategie die niet alleen nieuwe innovatieve projecten ondersteunt, maar ook de betrouwbaarheid en continuïteit van standaard data-applicaties waarborgt. Zo maak je het mogelijk om natuurbeheer steeds meer te baseren op inzichten uit data door middel van technologie, waardoor beleidskeuzes en operationele beslissingen beter onderbouwd, effectiever en efficiënter worden.</span></p> \n<p><span>Daarnaast geef je richting aan het beleid voor zowel AI-governance als data-governance binnen ANB, zodat nieuwe technologieën op een verantwoorde en transparante manier kunnen worden toegepast. Je neemt de leiding over projecten waarin gebruik wordt gemaakt van geavanceerde technologieën zoals advanced analytics, artificiële intelligentie, Internet of Things (IoT) en de inzet van satelliet-, lucht- en dronebeelden. Deze toepassingen versterken de monitoring, planning en uitvoering van natuurbeheer, waardoor we sneller kunnen inspelen op nieuwe uitdagingen en kansen.</span></p> \n<p><span>Een belangrijk onderdeel van je opdracht is het</span><span>ondersteunen van het programma “Digitale Dienstverlening” en het \n<strong>aansturen van het programma “Smart Nature”</strong>, waarin de hierboven technologieën worden ingezet om natuurbeheer slimmer en efficiënter te maken. Hiermee geef je richting aan de verdere digitalisering en technologische vernieuwing van het natuurbeheer binnen ANB.</span></p> \n<p><span>Je stimuleert actief een cultuur waarin experimenteren, prototyping en iteratieve ontwikkeling centraal staan – van het eerste idee tot en met de implementatie in de praktijk. Daarbij werk je intensief samen met zowel interne als externe stakeholders om innovatieve en duurzame oplossingen te realiseren die bijdragen aan de strategische doelstellingen van ANB en een toekomstbestendig natuurbeheer.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72075240",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72075240",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "applicatiebeheerder (VEKA) via Vlaanderen connect"
+      },
+      "displayTitle": "applicatiebeheerder (VEKA) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een \n<span>applicatiebeheerder</span> die niet alleen toepassingen begrijpt, maar ook mensen. Iemand die initiatief neemt, vragen durft te stellen en actief zoekt naar oplossingen – zelfs als de handleiding ontbreekt. Geen stress, je staat er niet alleen voor! Ons kleine team staat voor je klaar om je uitgebreid op te leiden, begeleiden en ondersteunen zodat je deze job helemaal onder de knie krijgt. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als applicatiebeheerder ben jij het aanspreekpunt voor toepassingen die het team beheert. Je maakt deel uit van een gespecialiseerd team dat de brug slaat tussen gebruikers en IT. Vanuit IT vervul je ook een ambassadeursfunctie naar de rest van de organisatie. Je behandelt functionele vragen, volgt meldingen op en waakt over het dagelijks gebruik en de kwaliteit van de toepassingen.</p> \n<p>Binnen het team worden ook algemene aansluitingsvragen behandeld en bieden we ook ondersteuning aan externe partijen hieromtrent. We nemen ook de coördinatie van datavragen op en voorzien opvolging van kleine changes of projecten</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>Beantwoorden en opvolgen van vragen over applicaties in beheer, met focus op gebruik, functionaliteit en proces. </li> \n<li>Analyseren van meldingen en inschatten welke acties nodig zijn: zelf oplossen, documenteren of escaleren. </li> \n<li>Optreden als functioneel aanspreekpunt voor toegewezen toepassingen. </li> \n<li>Actief oppikken van signalen uit de gebruikerspraktijk en die vertalen naar voorstellen voor optimalisatie of verbetering. </li> \n<li>In overleg met collega’s en leveranciers meedenken over de verdere ontwikkeling en prioritering van wijzigingen. </li> \n<li>Uitwerken en bijhouden van heldere gebruikersdocumentatie, instructies en interne nota’s. </li> \n<li>Kennisdeling binnen het team en optreden als back-up voor collega’s. </li> \n<li>Testen van releases, updates of wijzigingen, en meewerken aan acceptatie en implementatie. </li> \n<li>Zorgen voor continuïteit, kwaliteit en gedragenheid van applicaties doorheen de organisatie. </li> </ul>",
+        "htmlEncoded": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een \n<span>applicatiebeheerder</span> die niet alleen toepassingen begrijpt, maar ook mensen. Iemand die initiatief neemt, vragen durft te stellen en actief zoekt naar oplossingen – zelfs als de handleiding ontbreekt. Geen stress, je staat er niet alleen voor! Ons kleine team staat voor je klaar om je uitgebreid op te leiden, begeleiden en ondersteunen zodat je deze job helemaal onder de knie krijgt. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als applicatiebeheerder ben jij het aanspreekpunt voor toepassingen die het team beheert. Je maakt deel uit van een gespecialiseerd team dat de brug slaat tussen gebruikers en IT. Vanuit IT vervul je ook een ambassadeursfunctie naar de rest van de organisatie. Je behandelt functionele vragen, volgt meldingen op en waakt over het dagelijks gebruik en de kwaliteit van de toepassingen.</p> \n<p>Binnen het team worden ook algemene aansluitingsvragen behandeld en bieden we ook ondersteuning aan externe partijen hieromtrent. We nemen ook de coördinatie van datavragen op en voorzien opvolging van kleine changes of projecten</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>Beantwoorden en opvolgen van vragen over applicaties in beheer, met focus op gebruik, functionaliteit en proces. </li> \n<li>Analyseren van meldingen en inschatten welke acties nodig zijn: zelf oplossen, documenteren of escaleren. </li> \n<li>Optreden als functioneel aanspreekpunt voor toegewezen toepassingen. </li> \n<li>Actief oppikken van signalen uit de gebruikerspraktijk en die vertalen naar voorstellen voor optimalisatie of verbetering. </li> \n<li>In overleg met collega’s en leveranciers meedenken over de verdere ontwikkeling en prioritering van wijzigingen. </li> \n<li>Uitwerken en bijhouden van heldere gebruikersdocumentatie, instructies en interne nota’s. </li> \n<li>Kennisdeling binnen het team en optreden als back-up voor collega’s. </li> \n<li>Testen van releases, updates of wijzigingen, en meewerken aan acceptatie en implementatie. </li> \n<li>Zorgen voor continuïteit, kwaliteit en gedragenheid van applicaties doorheen de organisatie. </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72073858",
+      "internal": false,
+      "validThroughDate": "1760227200",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72073858",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "teamleider logistiek en verhuis"
+      },
+      "displayTitle": "teamleider logistiek en verhuis",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p><strong><span> </span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je bent verantwoordelijk voor \n<strong>een team van 21 medewerkers </strong>(logistiek team en vervoersteam).</span></li> \n<li><span>Je zorgt dat \n<strong>alle logistieke dienstverlening</strong> in ons ziekenhuis vlot draait.</span></li> \n<li><span>Je bent de \n<strong>schakel</strong> tussen de operationele werking en het beleid.</span></li> \n<li><span>Je gaat op zoek naar \n<strong>verbetermogelijkheden.</strong></span></li> \n<li><span>Je volgt alle grote contracten op met betrekking tot logistiek en (patiënten)vervoer.</span></li> \n<li><span>Je ontwikkelt \n<strong>efficiënte werkprocessen.</strong></span></li> \n<li><span>Je \n<strong>organiseert de dagelijkse werking</strong> van vervoer, verhuis, logistiek, wasserij en goederenbevoorrading.</span></li> \n<li><span>Je bent \n<strong>aanspreekpunt</strong> voor alle zorgafdelingen en overige diensten en werkt samen met hen aan praktische oplossingen.</span></li> \n<li><span>Je geeft \n<strong>coachend en motiverend</strong> leiding aan je medewerkers.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Wij hebben deze job voor jou</span></strong></p> \n<p><strong><span> </span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je bent verantwoordelijk voor \n<strong>een team van 21 medewerkers </strong>(logistiek team en vervoersteam).</span></li> \n<li><span>Je zorgt dat \n<strong>alle logistieke dienstverlening</strong> in ons ziekenhuis vlot draait.</span></li> \n<li><span>Je bent de \n<strong>schakel</strong> tussen de operationele werking en het beleid.</span></li> \n<li><span>Je gaat op zoek naar \n<strong>verbetermogelijkheden.</strong></span></li> \n<li><span>Je volgt alle grote contracten op met betrekking tot logistiek en (patiënten)vervoer.</span></li> \n<li><span>Je ontwikkelt \n<strong>efficiënte werkprocessen.</strong></span></li> \n<li><span>Je \n<strong>organiseert de dagelijkse werking</strong> van vervoer, verhuis, logistiek, wasserij en goederenbevoorrading.</span></li> \n<li><span>Je bent \n<strong>aanspreekpunt</strong> voor alle zorgafdelingen en overige diensten en werkt samen met hen aan praktische oplossingen.</span></li> \n<li><span>Je geeft \n<strong>coachend en motiverend</strong> leiding aan je medewerkers.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72070344",
       "internal": false,
@@ -2212,41 +2317,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70836854",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70836854",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data Protection Officer (Dept. Omgeving) via Vlaanderen Connect"
-      },
-      "displayTitle": "Data Protection Officer (Dept. Omgeving) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>",
-        "htmlEncoded": "<p><span>Je functie in het kort</span></p> \n<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het Departement Omgeving zoekt een Data Protection Officer ter versterking van het Team Digitalisering. Bij haar gevarieerde dienstverlening verwerkt het Departement heel wat persoonsgegevens. Als overheid heeft ze daarbij een voorbeeldfunctie om deze gegevens veilig en conform de regelgeving te behandelen. Ben jij gepassioneerd door gegevensbescherming en wil je je talenten ten dienste stellen van een veilige digitale publieke dienstverlening? Dan ben jij onze ideale kandidaat. </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Het Departement Omgeving is op 1 april 2017 ontstaan uit een fusie van het departement Leefmilieu, Natuur en Energie, en Ruimte Vlaanderen. Meer info over de taken van het departement vind je hier: </span><span>https://omgeving.vlaanderen.be/departement-omgeving</span></p> \n<p><span>Als lid van het team “Informatieveiligheid en Persoonsgegevens” ben je verantwoordelijk voor het ontwikkelen van het gegevensbeschermingsbeleid. Vanuit je expertise ondersteun je teams binnen alle afdelingen van het departement. Je werkt daarbij nauw samen met de CISO, CIO en met collega’s die gelijkaardige ondersteuning bieden op vlak van informatiebeheer en digitalisering. Op die manier bouw je mee aan de digitale, transparante en veilige dienstverlening van morgen. </span></p> \n<p><span> </span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Data Protection Officer begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je neemt daarbij de taken op zoals gedefinieerd in artikel 39 AVG: </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert en informeert de organisatie over gegevensbescherming;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je coördineert sensibilisering rond persoonsgegevens voor het hele Departement; </span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de aanmaak van de nodige documentatie;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je ziet toe op de naleving van de AVG;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je adviseert bij gegevensbeschermingseffectbeoordelingen (DPIA’s) en de opmaak van\n<span> </span>overeenkomsten (verwerkersovereenkomst, protocol, …);</span></p> \n<p><span><span>-\n<span> </span></span></span><span>je behandelt vragen van betrokkenen;</span></p> \n<p><span><span>-\n<span> </span></span></span><span>en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p> \n<p><span>Je rapporteert rechtstreeks aan de leidend ambtenaar en voert je taken uit vanuit een onafhankelijke en onpartijdige positie. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70730227",
       "internal": false,
       "validThroughDate": "-1",
@@ -3019,7 +3089,7 @@
     {
       "link": "/Job/cornerstone-19364",
       "internal": true,
-      "validThroughDate": "-1",
+      "validThroughDate": "1759276800",
       "hiringOrganization": "Beheerovereenkomsten Regio Oost",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -3152,8 +3222,43 @@
       "displayTitle": "Administratief medewerker Topsport",
       "isProtected": false,
       "description": {
-        "raw": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
-        "htmlEncoded": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+        "raw": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<p>Heb je oog voor detail, werk je graag planmatig en wil je mee het topsportbeleid in Vlaanderen ondersteunen? Dan ben jij misschien de administratief medewerker die we zoeken bij Sport Vlaanderen.</p><p>In deze functie verzamel en verwerk je informatie, zorg je voor een vlot beheer van documenten en dossiers en ondersteun je jouw collega’s met uiteenlopende administratieve taken. Je bent mede verantwoordelijk voor de opvolging van het topsportbudget in Orafin en helpt&nbsp;&nbsp;bij het verzamelen van gegevens voor overheidsopdrachten.</p><p>Daarnaast denk je actief mee na over de richting van de communicatie en lever je zo een waardevolle bijdrage aan de uitstraling van het topsportbeleid. Je krijgt energie van organiseren en structureren en je weet informatie op een duidelijke manier te verwerken.</p><p>Je combineert een pragmatische aanpak met een sterke affiniteit voor communicatie en je houdt ervan om processen efficiënt te laten verlopen. Als je daarbij ook nog eens vlot schakelt tussen verschillende taken, pas je perfect in ons team.</p><p>Zie jij jezelf hierin terug? Solliciteer dan snel en wie weet word jij onze nieuwe collega bij de afdeling Topsport.&nbsp;<span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19322",
+      "internal": false,
+      "validThroughDate": "1761004800",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19322",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product owner financiën"
+      },
+      "displayTitle": "Product owner financiën",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.</p><p>Als product owner financiën maak je deel uit van de staf van de afdeling Financiën. Je bent expert op het vlak van de reglementering rond betalingen en leningen aan woonactoren, en voor wat betreft de IT tools die gebruikt worden voor de financiering van woonactoren en voor de boekhouding, alsook voor wat betreft de verbindingen tussen deze tools. Je hebt tevens een goed inzicht in de impact die de business-inhoud heeft op de IT-toepassingen. Je zorgt er immers voor dat IT-toepassingen tijdig aangepast worden zodat ze de business blijven ondersteunen of tijdig vervangen worden; je ontwikkelt rond de aanpak een visie.</p><p>Je stuurt bovendien externe IT-consultants aan met als doel hen efficiënt en kwaliteitsvol met de vragen van de diensten aan de slag te laten gaan. Om tot toepassingen te komen die op elkaar zijn afgestemd, zet je ruim in op overleg, ook over afdelingen heen. </p><p>Beschik jij over een grote zin voor initiatief en verantwoordelijkheid? Heb je een diepgaande kennis van de financieringssystemen binnen de sociale huisvesting in Vlaanderen? En heb je een grote affiniteit met IT?</p><p>Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.</p><p>Als product owner financiën maak je deel uit van de staf van de afdeling Financiën. Je bent expert op het vlak van de reglementering rond betalingen en leningen aan woonactoren, en voor wat betreft de IT tools die gebruikt worden voor de financiering van woonactoren en voor de boekhouding, alsook voor wat betreft de verbindingen tussen deze tools. Je hebt tevens een goed inzicht in de impact die de business-inhoud heeft op de IT-toepassingen. Je zorgt er immers voor dat IT-toepassingen tijdig aangepast worden zodat ze de business blijven ondersteunen of tijdig vervangen worden; je ontwikkelt rond de aanpak een visie.</p><p>Je stuurt bovendien externe IT-consultants aan met als doel hen efficiënt en kwaliteitsvol met de vragen van de diensten aan de slag te laten gaan. Om tot toepassingen te komen die op elkaar zijn afgestemd, zet je ruim in op overleg, ook over afdelingen heen. </p><p>Beschik jij over een grote zin voor initiatief en verantwoordelijkheid? Heb je een diepgaande kennis van de financieringssystemen binnen de sociale huisvesting in Vlaanderen? En heb je een grote affiniteit met IT?</p><p>Lees dan zeker meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -3364,8 +3469,8 @@
       "displayTitle": "Secretariaatsmedewerker",
       "isProtected": false,
       "description": {
-        "raw": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!</div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.</div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:</div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
-        "htmlEncoded": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!</div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.</div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:</div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+        "raw": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!<br><br></div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.<br><br></div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:<br><br></div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<div>Ben jij een organisatietalent met een passie voor coördinatie en administratieve ondersteuning? Dan is de functie van secretariaatsmedewerker bij het Agentschap Wegen en Verkeer (AWV) wellicht precies wat je zoekt!<br><br></div><div></div><div>Als secretariaatsmedewerker maak je deel uit van de pijler secretariaat en coördinatie van de afdeling Wegen West-Vlaanderen.<br><br></div><div></div><div>Een overzicht van jouw hoofdtaken als secretariaatsmedewerker:<br><br></div><div></div><div><strong>Ondersteuning afdelingshoofd</strong></div><ul><li>Je beheert de mailbox van het afdelingshoofdsecretariaat en superviseert het beheer van de mailbox van de afdeling. Je behandelt binnenkomende vragen, bepaalt de prioriteiten en wijst deze toe aan AWV-collega’s die het inhoudelijk verder uitwerken. Na toewijzing, volg je op of de deadlines gerespecteerd worden. Daarnaast bereid je de correspondentie namens het afdelingshoofd, zowel intern als extern, voor.</li><li>Je beheert de agenda van het afdelingshoofdsecretariaat, je bent verantwoordelijk voor het agendabeheer van het afdelingshoofd. Dit houdt in het complex plannen van afspraken, rekening houdend met prioriteiten, deadlines en de nodige verplaatsingen. Het voorbereiden van vergaderingen (inclusief het verzamelen van documenten en het opstellen van de agenda), en het bewaken van actiepunten.</li><li>Je redigeert documenten en presentaties, zowel inhoudelijk als qua lay-out voor het afdelingshoofd.</li></ul><div><strong>Ondersteuning afdeling</strong></div><ul><li>Je ondersteunt events en acties: je zorgt voor de praktische organisatie en ondersteuning van WWV op events zoals de roadshow, personeelsdag, bezoek van de AG, Directieraad, enz. Dit omvat ook het regelen van catering en logistiek, het verzorgen van de communicatie en het opvolgen van de inschrijvingen rondom deze evenementen.</li><li>Je coördineert het beantwoorden van parlementaire vragen en kabinetsnota's: je stuurt ze door naar de inhoudelijk verantwoordelijke, volgt deadlines op en nadat het antwoord beschikbaar is, leg je dit voor aan het afdelingshoofd voor validatie.</li><li>Je biedt administratieve ondersteuning (het verzamelen van documenten, het invullen van formulieren, …) en bewaakt de formele stappen bij complexe procedures zoals omgevingsvergunningsaanvragen en openbaarheid van bestuur.</li><li>Je werkt mee aan de pool voor MS Teams telefonie (algemeen nummer afdeling), Digipost, Magda, enz. en coördineert de invulling van deze pool. Je bent mede verantwoordelijk voor de efficiënte werking van deze pool en fungeert als aanspreekpunt voor collega's bij vragen of problemen.</li><li>Je doet het secretariaat van bepaalde regiomanagers en beheert de betreffende mailboxen, doet aan agendabeheer en maakt het verslag van het regiomanagersoverleg.</li><li>Je verzorgt ook het verslag van het pijleroverleg en de pijlerstaf, enz.</li><li>Je verzorgt de contacten met gemeentebesturen, kabinet, afdeling Strategie en Beleid, het secretariaat van het afdelingshoofd,... Je bent een belangrijk aanspreekpunt en onderhoudt professionele relaties met deze externe partners.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -3377,7 +3482,7 @@
     },
     {
       "link": "/Job/cornerstone-19279",
-      "internal": false,
+      "internal": true,
       "validThroughDate": "1761868800",
       "hiringOrganization": "Departement Omgeving",
       "reservedForDisability": false,
@@ -3736,6 +3841,38 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19230",
+      "internal": true,
+      "validThroughDate": "1760918400",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19230",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectverantwoordelijke ‘Natuur in je school’"
+      },
+      "displayTitle": "Projectverantwoordelijke ‘Natuur in je school’",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als projectverantwoordelijke coördineer je de projectoproep ‘Natuur in je School’ en help je zo mee de uitdaging rond klimaatadaptatie voor scholen te realiseren. Je werkt samen met experten op verschillende domeinen: uit het Departement Omgeving, maar ook uit andere agentschappen van het beleidsdomein (Natuur en Bos, Vlaamse Milieumaatschappij), provinciale MOS-begeleiders, experten van externe organisaties en andere belanghebbenden.<br><br></span><span>Je staat in voor de coördinatie en operationele uitvoering van de subsidieoproep ‘Natuur in je School’. Je behandelt, samen met een team van experten (jury), de subsidieaanvragen en komt tot een onderbouwd advies aan de minister.<br><br></span><span>Je ondersteunt de doelgroep (scholen) met heldere communicatie over de oproep. Je neemt initiatief om kennisdeling over succesvolle natuurlijke inrichting op school op te zetten en te stimuleren. Je ondersteunt de MOS-werking bij vergroeningstrajecten op school.<br><br></span><span>Flexibele inzet op andere taken of opdrachten is ook mogelijk.</span></p>",
+        "htmlEncoded": "<p><span>Als projectverantwoordelijke coördineer je de projectoproep ‘Natuur in je School’ en help je zo mee de uitdaging rond klimaatadaptatie voor scholen te realiseren. Je werkt samen met experten op verschillende domeinen: uit het Departement Omgeving, maar ook uit andere agentschappen van het beleidsdomein (Natuur en Bos, Vlaamse Milieumaatschappij), provinciale MOS-begeleiders, experten van externe organisaties en andere belanghebbenden.<br><br></span><span>Je staat in voor de coördinatie en operationele uitvoering van de subsidieoproep ‘Natuur in je School’. Je behandelt, samen met een team van experten (jury), de subsidieaanvragen en komt tot een onderbouwd advies aan de minister.<br><br></span><span>Je ondersteunt de doelgroep (scholen) met heldere communicatie over de oproep. Je neemt initiatief om kennisdeling over succesvolle natuurlijke inrichting op school op te zetten en te stimuleren. Je ondersteunt de MOS-werking bij vergroeningstrajecten op school.<br><br></span><span>Flexibele inzet op andere taken of opdrachten is ook mogelijk.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -5666,6 +5803,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-17736",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17736",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Schipper voor Antwerpen"
+      },
+      "displayTitle": "Schipper voor Antwerpen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>",
+        "htmlEncoded": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en\nbedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan\nmee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500\nmensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal\nGent-Terneuzen.&nbsp; <br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn\nafhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks\nmet je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit\nvan de job, maar worden ruimschoots gecompenseerd door een financiële\nvergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br><br>Wil je graag nog meer details over de\njob van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Gent? Schrijf je dan (ook) in voor deze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-gent-400916\">selectieprocedure voor schipper te Gent</a>&nbsp;bij DAB VLOOT.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-17630",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-17630",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Schipper voor Gent"
+      },
+      "displayTitle": "Schipper voor Gent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;&nbsp;<br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn afhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks met je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren.&nbsp; Vroege en late shifts en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.</p><p>Wil je graag nog meer details over de job van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>&nbsp;.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Antwerpen? Schrijf je dan (ook) in voor deze&nbsp;<a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-antwerpen-5a2af2\">selectieprocedure voor schipper te Antwerpen</a>&nbsp;bij DAB Vloot&nbsp;.</p>",
+        "htmlEncoded": "<p>Ben je op zoek naar een avontuurlijke job, op of rond het water? <br><br>De DAB VLOOT zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een veilig en vlot scheepvaartverkeer. Elke dag geven zo'n 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;&nbsp;<br><br>Als schipper heb je een uitgebreid, gevarieerd takenpakket. Je taken zijn afhankelijk van het type schip waarop je wordt ingezet. Je overlegt dagelijks met je overste welke werkzaamheden op het programma staan.<br><br>Enkele concrete taken zijn:</p><ul><li>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</li><li>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p>De scheepvaart kent geen kantooruren.&nbsp; Vroege en late shifts en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.</p><p>Wil je graag nog meer details over de job van schipper? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2023/MDK/jobinhoud+in+detail_schipper.docx\">deze link</a>&nbsp;.</p><p>Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu.&nbsp;&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><p>Heb je eerder of ook interesse om als schipper te werken in Antwerpen? Schrijf je dan (ook) in voor deze&nbsp;<a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures/schipper-voor-antwerpen-5a2af2\">selectieprocedure voor schipper te Antwerpen</a>&nbsp;bij DAB Vloot&nbsp;.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-17611",
       "internal": false,
       "validThroughDate": "-1",
@@ -5736,41 +5943,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-15952",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 7,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-15952",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Deskundige monitoring"
-      },
-      "displayTitle": "Deskundige monitoring",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
