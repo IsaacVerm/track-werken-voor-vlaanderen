@@ -1,11 +1,46 @@
 {
-  "totalItems": 167,
+  "totalItems": 172,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 166,
+  "lastItemOfPage": 171,
   "items": [
+    {
+      "link": "/Job/vdab-72089087",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "MUNTPUNT",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72089087",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectmedewerker Oefenkansen Nederlands"
+      },
+      "displayTitle": "Projectmedewerker Oefenkansen Nederlands",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span lang=\"NL-BE\">Wat we zoeken</span></strong></p> \n<p><span lang=\"NL-BE\">Brussel bruist van talen en verhalen. Jij helpt ons die rijkdom te verbinden. \n<br> Muntpunt zoekt een projectmedewerker Oefenkansen Nederlands die samen met partners nieuwe kansen creëert voor volwassen Brusselaars om hun Nederlands te oefenen. Iemand die graag schakelt tussen mensen, ideeën en organisaties. En die er energie van krijgt om dingen te laten bewegen.</span></p> \n<p><strong><span lang=\"NL-BE\">Wat je doet</span></strong></p> \n<ul type=\"disc\"> \n<li><span lang=\"NL-BE\">Je coördineert en ontwikkelt samen met partners een breed aanbod van oefenkansen Nederlands.</span></li> \n<li><span lang=\"NL-BE\">Je houdt nauw contact met het Huis van het Nederlands Brussel – de spil in dit werkveld – en stemt activiteiten af.</span></li> \n<li><span lang=\"NL-BE\">Je zorgt dat Nederlands een natuurlijke plek krijgt in onze publiekswerking en enthousiasmeert collega’s en vrijwilligers.</span></li> \n<li><span lang=\"NL-BE\">Je laat de oefenkansen zien: via activiteiten, communicatie en online kanalen.</span></li> \n<li><span lang=\"NL-BE\">Je bent aanspreekpunt voor deelnemers en vrijwilligers, en je zorgt dat die zich welkom en ondersteund voelen.</span></li> \n<li><span lang=\"NL-BE\">Je vertaalt ideeën en signalen van partners en deelnemers naar concrete acties.</span></li> \n<li><span lang=\"NL-BE\">Je helpt bezoekers van Muntpunt hun weg te vinden in het Nederlandstalige aanbod in Brussel.</span></li> </ul> \n<p><strong><span lang=\"NL-BE\">Jij bent</span></strong></p> \n<ul type=\"disc\"> \n<li><span lang=\"NL-BE\">Thuis in Brussel en vertrouwd met een meertalig netwerk.</span></li> \n<li><span lang=\"NL-BE\">Een vlotte netwerker die partners samenbrengt en energie geeft.</span></li> \n<li><span lang=\"NL-BE\">Iemand die begrijpt wat meertaligheid betekent en hoe je mensen kan motiveren om een taal te leren.</span></li> \n<li><span lang=\"NL-BE\">Een heldere communicator, mondeling én schriftelijk.</span></li> \n<li><span lang=\"NL-BE\">Enthousiast, positief en aanstekelijk: je trekt anderen mee.</span></li> \n<li><span lang=\"NL-BE\">Gestructureerd en sterk in organiseren, ook in een drukke context.</span></li> \n<li><span lang=\"NL-BE\">Digitaal handig en vlot in communicatie en planning.</span></li> \n<li><span lang=\"NL-BE\">Bereid om geregeld ook ’s avonds en in het weekend te werken.</span></li> \n<li><span lang=\"NL-BE\">Bonuspunten als je ervaring hebt met het Vlaamse beleid rond Nederlands leren (ToTaalplan).</span><strong></strong></li> </ul>",
+        "htmlEncoded": "<p><strong><span lang=\"NL-BE\">Wat we zoeken</span></strong></p> \n<p><span lang=\"NL-BE\">Brussel bruist van talen en verhalen. Jij helpt ons die rijkdom te verbinden. \n<br> Muntpunt zoekt een projectmedewerker Oefenkansen Nederlands die samen met partners nieuwe kansen creëert voor volwassen Brusselaars om hun Nederlands te oefenen. Iemand die graag schakelt tussen mensen, ideeën en organisaties. En die er energie van krijgt om dingen te laten bewegen.</span></p> \n<p><strong><span lang=\"NL-BE\">Wat je doet</span></strong></p> \n<ul type=\"disc\"> \n<li><span lang=\"NL-BE\">Je coördineert en ontwikkelt samen met partners een breed aanbod van oefenkansen Nederlands.</span></li> \n<li><span lang=\"NL-BE\">Je houdt nauw contact met het Huis van het Nederlands Brussel – de spil in dit werkveld – en stemt activiteiten af.</span></li> \n<li><span lang=\"NL-BE\">Je zorgt dat Nederlands een natuurlijke plek krijgt in onze publiekswerking en enthousiasmeert collega’s en vrijwilligers.</span></li> \n<li><span lang=\"NL-BE\">Je laat de oefenkansen zien: via activiteiten, communicatie en online kanalen.</span></li> \n<li><span lang=\"NL-BE\">Je bent aanspreekpunt voor deelnemers en vrijwilligers, en je zorgt dat die zich welkom en ondersteund voelen.</span></li> \n<li><span lang=\"NL-BE\">Je vertaalt ideeën en signalen van partners en deelnemers naar concrete acties.</span></li> \n<li><span lang=\"NL-BE\">Je helpt bezoekers van Muntpunt hun weg te vinden in het Nederlandstalige aanbod in Brussel.</span></li> </ul> \n<p><strong><span lang=\"NL-BE\">Jij bent</span></strong></p> \n<ul type=\"disc\"> \n<li><span lang=\"NL-BE\">Thuis in Brussel en vertrouwd met een meertalig netwerk.</span></li> \n<li><span lang=\"NL-BE\">Een vlotte netwerker die partners samenbrengt en energie geeft.</span></li> \n<li><span lang=\"NL-BE\">Iemand die begrijpt wat meertaligheid betekent en hoe je mensen kan motiveren om een taal te leren.</span></li> \n<li><span lang=\"NL-BE\">Een heldere communicator, mondeling én schriftelijk.</span></li> \n<li><span lang=\"NL-BE\">Enthousiast, positief en aanstekelijk: je trekt anderen mee.</span></li> \n<li><span lang=\"NL-BE\">Gestructureerd en sterk in organiseren, ook in een drukke context.</span></li> \n<li><span lang=\"NL-BE\">Digitaal handig en vlot in communicatie en planning.</span></li> \n<li><span lang=\"NL-BE\">Bereid om geregeld ook ’s avonds en in het weekend te werken.</span></li> \n<li><span lang=\"NL-BE\">Bonuspunten als je ervaring hebt met het Vlaamse beleid rond Nederlands leren (ToTaalplan).</span><strong></strong></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72080263",
       "internal": false,
@@ -2877,6 +2912,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19478",
+      "internal": false,
+      "validThroughDate": "1760400000",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19478",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker Gezondheidsbevordering en Vroegdetectie"
+      },
+      "displayTitle": "Beleidsmedewerker Gezondheidsbevordering en Vroegdetectie",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een bevlogen medewerker die een positieve en preventieve impact wil hebben op de gezondheid in Vlaanderen? Het Departement Zorg heeft een uitdagende vacature voor een professional met een passie voor preventief gezondheidsbeleid.<br><br>Als beleidsmedewerker speel je een belangrijke rol in het ontwikkelen, implementeren en evalueren van een preventief gezondheidsbeleid met centrale doelstellingen en lokale uitvoering. Je bent polyvalent inzetbaar, afhankelijk van de noden en prioriteiten in het team. Je hebt een brede interesse en houdt van een divers takenpakket. Je bent in staat om je snel in te werken in beleidsonderwerpen die verband houden met bevorderen van de gezondheid en populatiegerichte screening en kan projectmatig werken. Gezondheidswinst op populatieniveau en volksgezondheid zijn je drijfveer.<br><br>Een greep uit jouw takenpakket:<br><br>&nbsp;- Je coördineert en volgt, samen met collega’s en relevante partners, het preventief gezondheidsbeleid op voor een thema of een project, afhankelijk van de prioriteiten van het team.<br>&nbsp;- Je werkt inhoudelijk en organisatorisch preventiestrategieën uit die zowel op Vlaams als lokaal niveau geïmplementeerd worden.<br>&nbsp;- Je voert zowel inhoudelijke als administratieve taken uit die horen bij de beleidsprocessen.<br>&nbsp;- Je stuurt diverse organisaties, betrokken in het beleid, inhoudelijk en organisatorisch aan.<br>&nbsp;- Je draagt bij tot een samenhangend beleid met andere beleidsniveaus (van lokaal tot (inter)nationaal).<br>&nbsp;- Je analyseert gezondheidsgegevens en maakt de vertaling naar effectieve beleidsmaatregelen.<br>&nbsp;- Je volgt wetenschappelijke literatuur en internationale trends proactief op en formuleert adviezen over te actualiseren of nieuwe beleidsinitiatieven.<br>&nbsp;- Je communiceert met externe stakeholders over het Vlaamse preventieve gezondheidsbeleid en overlegt met diverse belanghebbenden en actoren.",
+        "htmlEncoded": "Ben jij een bevlogen medewerker die een positieve en preventieve impact wil hebben op de gezondheid in Vlaanderen? Het Departement Zorg heeft een uitdagende vacature voor een professional met een passie voor preventief gezondheidsbeleid.<br><br>Als beleidsmedewerker speel je een belangrijke rol in het ontwikkelen, implementeren en evalueren van een preventief gezondheidsbeleid met centrale doelstellingen en lokale uitvoering. Je bent polyvalent inzetbaar, afhankelijk van de noden en prioriteiten in het team. Je hebt een brede interesse en houdt van een divers takenpakket. Je bent in staat om je snel in te werken in beleidsonderwerpen die verband houden met bevorderen van de gezondheid en populatiegerichte screening en kan projectmatig werken. Gezondheidswinst op populatieniveau en volksgezondheid zijn je drijfveer.<br><br>Een greep uit jouw takenpakket:<br><br>&nbsp;- Je coördineert en volgt, samen met collega’s en relevante partners, het preventief gezondheidsbeleid op voor een thema of een project, afhankelijk van de prioriteiten van het team.<br>&nbsp;- Je werkt inhoudelijk en organisatorisch preventiestrategieën uit die zowel op Vlaams als lokaal niveau geïmplementeerd worden.<br>&nbsp;- Je voert zowel inhoudelijke als administratieve taken uit die horen bij de beleidsprocessen.<br>&nbsp;- Je stuurt diverse organisaties, betrokken in het beleid, inhoudelijk en organisatorisch aan.<br>&nbsp;- Je draagt bij tot een samenhangend beleid met andere beleidsniveaus (van lokaal tot (inter)nationaal).<br>&nbsp;- Je analyseert gezondheidsgegevens en maakt de vertaling naar effectieve beleidsmaatregelen.<br>&nbsp;- Je volgt wetenschappelijke literatuur en internationale trends proactief op en formuleert adviezen over te actualiseren of nieuwe beleidsinitiatieven.<br>&nbsp;- Je communiceert met externe stakeholders over het Vlaamse preventieve gezondheidsbeleid en overlegt met diverse belanghebbenden en actoren."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19467",
       "internal": false,
       "validThroughDate": "1761004800",
@@ -2907,6 +2974,38 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19442",
+      "internal": false,
+      "validThroughDate": "1760832000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19442",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "CAD- en GIS-Ontwerper"
+      },
+      "displayTitle": "CAD- en GIS-Ontwerper",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Je functie:&nbsp;</strong> <br>Als CAD- en GIS-Ontwerper bij De\nVlaamse Waterweg nv maak je deel uit van de cel technische ondersteuning binnen\nde territoriale afdeling Centraal. Je focust op het technisch ondersteunend\nproces van tekenen en ontwerpen, en werkt mee aan diverse\ninfrastructuurprojecten. Je levert kwalitatieve plannen en ontwerpen af aan\nbevoegde instanties en interne/externe klanten, volgens de vooropgestelde kwaliteitsvereisten\nen procedures.<br><br><strong>Je takenpakket:</strong><br>Voorbereiden, verzamelen en analyseren van bouwkundige, geografische, topografische en mechanische gegevens om deze grafisch te verwerken en uit te tekenen. <br>Uitvoeren van CAD/GIS-opdrachten en verwerken van opmeet-, peil- en andere gegevens tot plannen, dieptekaarten, volumes en verschilkaarten. <br>Uittekenen van aanbesteding- en uitvoeringsplannen voor infrastructuurwerken en omgevingsvergunningen volgens de geldende normen. <br>Rapporteren over de voortgang van taken en actief deelnemen aan overlegmomenten. <br>Beheren, documenteren en ontsluiten van gegevens en plannen in GIS- en documentmanagementsystemen. <br>Advies verlenen en verduidelijking geven over plannen aan interne en externe klanten.<br><br><strong>Je standplaats:</strong><br>Antwerpen. Afhankelijk van je agenda en in overleg met je\ncollega’s is hybride werken een mogelijkheid.</p><p>&nbsp;</p><p>&nbsp;</p><br>",
+        "htmlEncoded": "<p><strong>Je functie:&nbsp;</strong> <br>Als CAD- en GIS-Ontwerper bij De\nVlaamse Waterweg nv maak je deel uit van de cel technische ondersteuning binnen\nde territoriale afdeling Centraal. Je focust op het technisch ondersteunend\nproces van tekenen en ontwerpen, en werkt mee aan diverse\ninfrastructuurprojecten. Je levert kwalitatieve plannen en ontwerpen af aan\nbevoegde instanties en interne/externe klanten, volgens de vooropgestelde kwaliteitsvereisten\nen procedures.<br><br><strong>Je takenpakket:</strong><br>Voorbereiden, verzamelen en analyseren van bouwkundige, geografische, topografische en mechanische gegevens om deze grafisch te verwerken en uit te tekenen. <br>Uitvoeren van CAD/GIS-opdrachten en verwerken van opmeet-, peil- en andere gegevens tot plannen, dieptekaarten, volumes en verschilkaarten. <br>Uittekenen van aanbesteding- en uitvoeringsplannen voor infrastructuurwerken en omgevingsvergunningen volgens de geldende normen. <br>Rapporteren over de voortgang van taken en actief deelnemen aan overlegmomenten. <br>Beheren, documenteren en ontsluiten van gegevens en plannen in GIS- en documentmanagementsystemen. <br>Advies verlenen en verduidelijking geven over plannen aan interne en externe klanten.<br><br><strong>Je standplaats:</strong><br>Antwerpen. Afhankelijk van je agenda en in overleg met je\ncollega’s is hybride werken een mogelijkheid.</p><p>&nbsp;</p><p>&nbsp;</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
           }
         }
       ]
@@ -3200,15 +3299,12 @@
     },
     {
       "link": "/Job/cornerstone-19322",
-      "internal": false,
+      "internal": true,
       "validThroughDate": "1761004800",
       "hiringOrganization": "Wonen in Vlaanderen",
       "reservedForDisability": false,
       "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
+      "degreeLevel": null,
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-19322",
       "contentType": "Job",
@@ -5563,6 +5659,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-18758",
+      "internal": false,
+      "validThroughDate": "1760659200",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18758",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR data-analist"
+      },
+      "displayTitle": "HR data-analist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij geboeid door zowel moderne technologie als HR, en wil je hieraan bijdragen? Als je in cijfers een verhaal ziet en gelooft dat data leidt tot betere beslissingen, dan ben jij misschien wel de HR data-analist die wij zoeken!&nbsp;<br><br>Als HR data-analist ben jij de sparring partner van de HR beleidsmedewerkers. Je gaat aan de slag met onze HR rapporten en verwerkt data tot bruikbare informatie. Je geeft niet alleen de eerste duiding bij die data, maar zal ook al een aantal conclusies trekken op basis van interpretatie en statistische verwerking (bv. vastgestelde trends). Je staat ook in voor het maken van voorspellingen en krijgt de kans om te experimenteren met de mogelijkheden op het vlak van AI. Bijkomend heb je affiniteit in het verwerken van financiële HR-data en beschik je over boekhoudkundige inzichten.<br><br>Wil jij meebouwen aan ons verhaal om een referentie te worden op het vlak van HR analytics? Solliciteer dan nu voor de functie van HR data-analist!&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij geboeid door zowel moderne technologie als HR, en wil je hieraan bijdragen? Als je in cijfers een verhaal ziet en gelooft dat data leidt tot betere beslissingen, dan ben jij misschien wel de HR data-analist die wij zoeken!&nbsp;<br><br>Als HR data-analist ben jij de sparring partner van de HR beleidsmedewerkers. Je gaat aan de slag met onze HR rapporten en verwerkt data tot bruikbare informatie. Je geeft niet alleen de eerste duiding bij die data, maar zal ook al een aantal conclusies trekken op basis van interpretatie en statistische verwerking (bv. vastgestelde trends). Je staat ook in voor het maken van voorspellingen en krijgt de kans om te experimenteren met de mogelijkheden op het vlak van AI. Bijkomend heb je affiniteit in het verwerken van financiële HR-data en beschik je over boekhoudkundige inzichten.<br><br>Wil jij meebouwen aan ons verhaal om een referentie te worden op het vlak van HR analytics? Solliciteer dan nu voor de functie van HR data-analist!&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-18418",
       "internal": false,
       "validThroughDate": "1760313600",
@@ -5873,6 +6004,41 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-15952",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 10,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-15952",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Deskundige monitoring"
+      },
+      "displayTitle": "Deskundige monitoring",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij graag een bijdrage leveren aan een vorm van alternatieve strafuitvoering?&nbsp;</div><div>Wil je meer dan louter administratief werk en hou je van telefonisch contact met een divers publiek?&nbsp;</div><div>Werk je daarnaast graag samen met collega’s, en voel je je thuis binnen een gedigitaliseerde werkomgeving?&nbsp;<br><br><b>Ben je nog aandachtig aan het lezen? Dan ben jij misschien de collega die wij zoeken!&nbsp;<br><br></b>Als deskundige monitoring heb je rechtstreeks telefonisch contact met personen onder elektronisch toezicht (de justitiabelen) en verzamel en verwerk je de gegevens in een computersysteem. <br>Je vraagt ook diverse informatie en documenten (bv. uurroosters) op die vereist zijn voor de behandeling van het dossier. Je volgt nauwgezet op wanneer er een alarm gesignaleerd wordt, je reageert adequaat en neemt de correcte administratieve alsook communicatieve stappen naar betrokken personen of diverse instanties verder op. <br>Je werkt nauw samen met je collega’s binnen het Vlaams Centrum Elektronisch Toezicht (VCET) en <b>bent bereid in een ploegensysteem te werken</b>. Je verwerft de nodige kennis en kunde door een training-on-the-job, eventueel aangevuld door cursussen buitenshuis. Je bent gedreven om binnen een duidelijk wettelijk kader te werken.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
