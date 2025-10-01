@@ -1,11 +1,46 @@
 {
-  "totalItems": 169,
+  "totalItems": 170,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 168,
+  "lastItemOfPage": 169,
   "items": [
+    {
+      "link": "/Job/vdab-72080263",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72080263",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "product owner data (WEWIS) via Vlaanderen connect"
+      },
+      "displayTitle": "product owner data (WEWIS) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jouw toekomstige job</span></p> \n<p>Als Product Owner Data ben je mee verantwoordelijk voor het bepalen van de visie, doelen en prioriteiten van de dataproducten en -diensten die door een of meerdere teams worden ontwikkeld en ondersteund.</p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking van een specifiek team, het ter beschikking stellen van nieuwe functionaliteiten binnen bestaande producten, het toekomstgericht opschalen van de producten om te voldoen aan de toekomstige noden en het aanbieden van nieuwe producten. Hiervoor doe je beroep op feedback vanuit de business, maar betrek je ook te gepasten tijde experten op vlak van evoluerende standaarden. Het efficiënt en effectief managen van de teambacklog is een van je hoofdtaken.</p> \n<p>In je rol van Product Owner zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein. Daarenboven zorg je samen met business owners/data owners dat het product voldoet aan de behoeften en verwachtingen van de gebruikers.</p> \n<p>Binnen de dienst data werk je intensief samen met de andere Product Owners en het diensthoofd om alle businessbehoeften af te stemmen en om een gedragen datastrategie doorheen de organisatie te verspreiden</p>",
+        "htmlEncoded": "<p><span>Jouw toekomstige job</span></p> \n<p>Als Product Owner Data ben je mee verantwoordelijk voor het bepalen van de visie, doelen en prioriteiten van de dataproducten en -diensten die door een of meerdere teams worden ontwikkeld en ondersteund.</p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking van een specifiek team, het ter beschikking stellen van nieuwe functionaliteiten binnen bestaande producten, het toekomstgericht opschalen van de producten om te voldoen aan de toekomstige noden en het aanbieden van nieuwe producten. Hiervoor doe je beroep op feedback vanuit de business, maar betrek je ook te gepasten tijde experten op vlak van evoluerende standaarden. Het efficiënt en effectief managen van de teambacklog is een van je hoofdtaken.</p> \n<p>In je rol van Product Owner zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein. Daarenboven zorg je samen met business owners/data owners dat het product voldoet aan de behoeften en verwachtingen van de gebruikers.</p> \n<p>Binnen de dienst data werk je intensief samen met de andere Product Owners en het diensthoofd om alle businessbehoeften af te stemmen en om een gedragen datastrategie doorheen de organisatie te verspreiden</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72076889",
       "internal": false,
