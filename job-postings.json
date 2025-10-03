@@ -1,11 +1,81 @@
 {
-  "totalItems": 172,
+  "totalItems": 169,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 171,
+  "lastItemOfPage": 168,
   "items": [
+    {
+      "link": "/Job/vdab-72107359",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vestiging Oostende (MDK)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72107359",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Backend .NET ontwikkelaar (Agentschap Maritieme Dienstverlening en Kust) via Vlaanderen Connect"
+      },
+      "displayTitle": "Backend .NET ontwikkelaar (Agentschap Maritieme Dienstverlening en Kust) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met: </p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten; </li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen; </li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust. </li> </ul>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met: </p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten; </li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen; </li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust. </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72106835",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72106835",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ICT projectleider en teamlead (Dept. Omgeving) via Vlaanderen connect"
+      },
+      "displayTitle": "ICT projectleider en teamlead (Dept. Omgeving) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie ter ondersteuning van de interne processen van het Departement Omgeving ? Lees dan verder of deze functie bij je past.</p> \n<p>De digitalisering van het Departement Omgeving baseert zich op een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</p> \n<p>Ter versterking van haar werking zoekt het departement een projectleider die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden. Je bent actief bezig met leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component die rechtstreeks of onrechtstreeks een impact hebben op de burger. Je werkt nauw samen met diverse stakeholders om ervoor te zorgen dat projecten binnen de gestelde tijd, scope en budget worden gerealiseerd. Je verbindt strategische doelen met operationele realiteit en werkt daarvoor vaak samen met collega's die samen met jou zorgen voor het realiseren van een impactvolle, duurzame verandering.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de entiteiten langs business kant) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> </ul> \n<p>Je belangrijkste taken:</p> \n<ul> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je softwareontwikkelaars aanstuurt. Ook productowners en (business- en) analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p>",
+        "htmlEncoded": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie ter ondersteuning van de interne processen van het Departement Omgeving ? Lees dan verder of deze functie bij je past.</p> \n<p>De digitalisering van het Departement Omgeving baseert zich op een aantal programma’s die de organisatie ondersteunen bij een efficiënte en effectieve realisatie van haar strategische objectieven. Inhoudelijk leunen de verschillende programma’s dicht aan bij de onderdelen van de waardeketen van het departement, zoals bijvoorbeeld gebiedsontwikkeling, de vergunningsverlening, en handhaving. Binnen elk programma worden alle noodzakelijke veranderingen op vlak van dienstverlening, processen, data, governance, digitalisering … in kaart gebracht, ontworpen, en gecoördineerd uitgevoerd.</p> \n<p>Ter versterking van haar werking zoekt het departement een projectleider die binnen Team Digitalisering ingezet zal worden om een scrum team te leiden. Je bent actief bezig met leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component die rechtstreeks of onrechtstreeks een impact hebben op de burger. Je werkt nauw samen met diverse stakeholders om ervoor te zorgen dat projecten binnen de gestelde tijd, scope en budget worden gerealiseerd. Je verbindt strategische doelen met operationele realiteit en werkt daarvoor vaak samen met collega's die samen met jou zorgen voor het realiseren van een impactvolle, duurzame verandering.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de entiteiten langs business kant) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> </ul> \n<p>Je belangrijkste taken:</p> \n<ul> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je softwareontwikkelaars aanstuurt. Ook productowners en (business- en) analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72100082",
       "internal": false,
@@ -3046,41 +3116,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19375",
-      "internal": false,
-      "validThroughDate": "1759363200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19375",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "VTS-Operator"
-      },
-      "displayTitle": "VTS-Operator",
-      "isProtected": false,
-      "description": {
-        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
-        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zemst"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19373",
       "internal": false,
       "validThroughDate": "1759622400",
@@ -4307,76 +4342,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19191",
-      "internal": true,
-      "validThroughDate": "1759363200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19191",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "beleidsmedewerker klimaatadaptatie"
-      },
-      "displayTitle": "beleidsmedewerker klimaatadaptatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het recente ‘European Climate Risk Assessment’ is duidelijk: Europa is het continent dat het snelst aan opwarming onderhevig is, waardoor onze waterhuishouding, onze voedselvoorziening, onze infrastructuren, ecosystemen, financiële stabiliteit en gezondheid onder druk staan. De nood aan een doortastend Vlaams klimaatadaptatiebeleid én uitvoering ervan is hoog. Willen we slagen in de opdracht om ons te wapenen tegen de klimaatverandering, dan moeten we vele partners mobiliseren.<br><br> De uitwerking en uitvoering van een klimaatadaptatiestrategie doen we dus niet alleen. De uitwerking van een overkoepelende klimaatadapatatiestrategie – voortbouwend op de recent uitgevoerde evaluatie van het Vlaamse klimaatadaptatieplan (afgerond juli 2025) -<span>&nbsp; </span>moet andere entiteiten en bestuursniveaus ondersteunen en mobiliseren om bij te dragen aan de adaptatieopgave. <br> <br>Daarnaast zetten we verder in op de Green Deal Klimaatbestendige Omgeving. Deze is gestart in 2024 en loopt nog tot 2027. Diverse partners hebben zich in deze Green Deal verenigd in verschillende werkgroepen en zich geëngageerd om samen werk te maken van een klimaatbestendige omgeving.<br><br> Flexibele inzet op andere taken of opdrachten is ook mogelijk.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Het recente ‘European Climate Risk Assessment’ is duidelijk: Europa is het continent dat het snelst aan opwarming onderhevig is, waardoor onze waterhuishouding, onze voedselvoorziening, onze infrastructuren, ecosystemen, financiële stabiliteit en gezondheid onder druk staan. De nood aan een doortastend Vlaams klimaatadaptatiebeleid én uitvoering ervan is hoog. Willen we slagen in de opdracht om ons te wapenen tegen de klimaatverandering, dan moeten we vele partners mobiliseren.<br><br> De uitwerking en uitvoering van een klimaatadaptatiestrategie doen we dus niet alleen. De uitwerking van een overkoepelende klimaatadapatatiestrategie – voortbouwend op de recent uitgevoerde evaluatie van het Vlaamse klimaatadaptatieplan (afgerond juli 2025) -<span>&nbsp; </span>moet andere entiteiten en bestuursniveaus ondersteunen en mobiliseren om bij te dragen aan de adaptatieopgave. <br> <br>Daarnaast zetten we verder in op de Green Deal Klimaatbestendige Omgeving. Deze is gestart in 2024 en loopt nog tot 2027. Diverse partners hebben zich in deze Green Deal verenigd in verschillende werkgroepen en zich geëngageerd om samen werk te maken van een klimaatbestendige omgeving.<br><br> Flexibele inzet op andere taken of opdrachten is ook mogelijk.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19190",
-      "internal": true,
-      "validThroughDate": "1759363200",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19190",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "jurist  waterkwaliteit en vergunningen"
-      },
-      "displayTitle": "jurist  waterkwaliteit en vergunningen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Vlaanderen staat voor grote uitdagingen op het gebied van waterbeleid. Met de Blue Dealnota wil Vlaanderen weerbaarder worden tegen de gevolgen van klimaatverandering en zorgen voor een gezonder en veerkrachtiger watersysteem. We ontwikkelen een robuuste verbeterstrategie in lijn met de Europese milieudoelstellingen.</span><span> Binnen de Task Force waterkwaliteit werken we mee aan een robuuster vergunningenbeleid dat rechtszekerheid biedt voor onze economie en samenleving.<br><br>Daarnaast werkt het departement Omgeving mee aan de realisatie van deze uitdagingen binnen de Coördinatiecommissie Integraal Waterbeleid (CIW), <span>&nbsp;</span>zorgen we voor een brede implementatie van de wateruitdagingen in diverse beleidsinitiatieven zoals het Beleidsplan Ruimte Vlaanderen (BRV), en het actieplan zorgwekkende stoffen (ZS). <br><br> </span><span>Samen zorgen we voor een duurzaam en veerkrachtig watersysteem dat klaar is voor de toekomst.<br><br> Flexibele inzet op andere taken of opdrachten is ook mogelijk.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Vlaanderen staat voor grote uitdagingen op het gebied van waterbeleid. Met de Blue Dealnota wil Vlaanderen weerbaarder worden tegen de gevolgen van klimaatverandering en zorgen voor een gezonder en veerkrachtiger watersysteem. We ontwikkelen een robuuste verbeterstrategie in lijn met de Europese milieudoelstellingen.</span><span> Binnen de Task Force waterkwaliteit werken we mee aan een robuuster vergunningenbeleid dat rechtszekerheid biedt voor onze economie en samenleving.<br><br>Daarnaast werkt het departement Omgeving mee aan de realisatie van deze uitdagingen binnen de Coördinatiecommissie Integraal Waterbeleid (CIW), <span>&nbsp;</span>zorgen we voor een brede implementatie van de wateruitdagingen in diverse beleidsinitiatieven zoals het Beleidsplan Ruimte Vlaanderen (BRV), en het actieplan zorgwekkende stoffen (ZS). <br><br> </span><span>Samen zorgen we voor een duurzaam en veerkrachtig watersysteem dat klaar is voor de toekomst.<br><br> Flexibele inzet op andere taken of opdrachten is ook mogelijk.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19188",
       "internal": false,
       "validThroughDate": "1760832000",
@@ -5155,41 +5120,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19023",
-      "internal": true,
-      "validThroughDate": "1759363200",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19023",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data-analist"
-      },
-      "displayTitle": "Data-analist",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een analytisch\ntalent dat complexe verkeersdata kan vertalen naar concrete inzichten? Wil je\njouw expertise inzetten om verkeersstromen beter te begrijpen en meewerken aan\ninnovatieve oplossingen voor mobiliteitsuitdagingen?</p><p>Als data-analist\nverkeersdata in het Verkeerscentrum ben je verantwoordelijk voor het beheer en\nde aanlevering van kwaliteitsvolle verkeersdata.</p><ul><li>Je verzamelt en levert ingewonnen gegevens aan in het gevraagde formaat, met de juiste aggregatie, historische context en ruimtelijke afbakening.</li><li>Je bewaakt de kwaliteit van verkeersdata door permanente monitoring, analyse en bijsturing van verkregen gegevens.</li><li>Je rekent verkeersindicatoren door die de evolutie van mobiliteit inzichtelijk maken.</li><li>Je ondersteunt het Verkeerscentrum, wegbeheerders en beleidsmakers door relevante inzichten te verschaffen.</li><li>Je draagt bij aan de verdere uitwerking, het beheer en onderhoud van diverse databronnen vanuit een functioneel perspectief.</li></ul><p>Daarnaast ontwikkel je als data-analist een visie\nop het beheer van nieuwe verkeersdata, applicaties en instrumenten. Je voert\nfunctionele analyses uit en neemt in projectverband de leiding over de\nrealisatie van innovatieve data toepassingen.<br><br><strong>Wat betekent dit concreet?</strong></p><p>Het Verkeerscentrum\nbeschikt over een netwerk van meetpunten op het autosnelwegennet (Meten In\nVlaanderen, MIV), waarbij continu data wordt verzameld over het aantal\nvoertuigen en snelheid per klasse. Deze real-time data wordt gebruikt voor\nverkeersbeheer en opgeslagen voor historische analyse, met afgeleide\nverkeersindicatoren die beschikbaar zijn via de website en verwerkt worden in\njaarlijkse rapporten.</p><p>Daarnaast heeft het\nVerkeerscentrum toegang tot geanonimiseerde verplaatsingsgegevens van\nvrachtverkeer op het wegennetwerk met kilometerheffing. Een lopend project\nontsluit deze omvangrijke gegevensbron om geaggregeerde producten te\nontwikkelen. Verder onderzoekt het Verkeerscentrum bijkomende databronnen,\nzoals verkeersdata rechtstreeks vanuit voertuigen en data verkregen via\ncrowdsourcing. Je draagt bij aan de verdere uitwerking, het beheer en onderhoud\nvan deze diverse databronnen vanuit een functioneel perspectief.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij een analytisch\ntalent dat complexe verkeersdata kan vertalen naar concrete inzichten? Wil je\njouw expertise inzetten om verkeersstromen beter te begrijpen en meewerken aan\ninnovatieve oplossingen voor mobiliteitsuitdagingen?</p><p>Als data-analist\nverkeersdata in het Verkeerscentrum ben je verantwoordelijk voor het beheer en\nde aanlevering van kwaliteitsvolle verkeersdata.</p><ul><li>Je verzamelt en levert ingewonnen gegevens aan in het gevraagde formaat, met de juiste aggregatie, historische context en ruimtelijke afbakening.</li><li>Je bewaakt de kwaliteit van verkeersdata door permanente monitoring, analyse en bijsturing van verkregen gegevens.</li><li>Je rekent verkeersindicatoren door die de evolutie van mobiliteit inzichtelijk maken.</li><li>Je ondersteunt het Verkeerscentrum, wegbeheerders en beleidsmakers door relevante inzichten te verschaffen.</li><li>Je draagt bij aan de verdere uitwerking, het beheer en onderhoud van diverse databronnen vanuit een functioneel perspectief.</li></ul><p>Daarnaast ontwikkel je als data-analist een visie\nop het beheer van nieuwe verkeersdata, applicaties en instrumenten. Je voert\nfunctionele analyses uit en neemt in projectverband de leiding over de\nrealisatie van innovatieve data toepassingen.<br><br><strong>Wat betekent dit concreet?</strong></p><p>Het Verkeerscentrum\nbeschikt over een netwerk van meetpunten op het autosnelwegennet (Meten In\nVlaanderen, MIV), waarbij continu data wordt verzameld over het aantal\nvoertuigen en snelheid per klasse. Deze real-time data wordt gebruikt voor\nverkeersbeheer en opgeslagen voor historische analyse, met afgeleide\nverkeersindicatoren die beschikbaar zijn via de website en verwerkt worden in\njaarlijkse rapporten.</p><p>Daarnaast heeft het\nVerkeerscentrum toegang tot geanonimiseerde verplaatsingsgegevens van\nvrachtverkeer op het wegennetwerk met kilometerheffing. Een lopend project\nontsluit deze omvangrijke gegevensbron om geaggregeerde producten te\nontwikkelen. Verder onderzoekt het Verkeerscentrum bijkomende databronnen,\nzoals verkeersdata rechtstreeks vanuit voertuigen en data verkregen via\ncrowdsourcing. Je draagt bij aan de verdere uitwerking, het beheer en onderhoud\nvan deze diverse databronnen vanuit een functioneel perspectief.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19022",
       "internal": false,
       "validThroughDate": "1760832000",
@@ -5260,53 +5190,6 @@
         {
           "address": {
             "city": "Kampenhout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19014",
-      "internal": true,
-      "validThroughDate": "1759363200",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19014",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Expert contextgericht werken"
-      },
-      "displayTitle": "Expert contextgericht werken",
-      "isProtected": false,
-      "description": {
-        "raw": "Wil jij mee het verschil\nmaken in de manier waarop we jongeren en hun omgeving ondersteunen binnen de\ngemeenschapsinstellingen? Dan is de functie van expert contextgericht werken\nbij Opgroeien iets voor jou. Je krijgt de kans om in De Grubbe, De Zande of De\nKempen aan de slag te gaan en draagt er mee zorg voor dat de visie rond\ncontextgericht werken echt tot leven komt. Een aantal dagen per maand word je voor\neen overlegmoment in Brussel verwacht. <br><br>Als expert ben je de\nmotor achter de ontwikkeling van een contextgerichte aanpak. Je bouwt aan een\ncontext sensitieve organisatie. Je traint contextwerkers en andere betrokken\ncollega’s, zodat zij jongeren en hun context beter begrijpen en ondersteunen.\nJe vertaalt deze aanpak in een concreet aanbod, zowel intern als extern,\nwaardoor de noden van jongeren en hun omgeving op een meer passende manier\nbeantwoord worden.<br>Daarnaast speel je een\nactieve rol in de kwaliteitsborging van de programma’s en methodieken die\nbinnen de instellingen gebruikt worden. Je stemt af met lokaal management,\nkwaliteitscoördinatoren en de academische werkplaats om te zorgen dat alles\nstevig onderbouwd en up-to-date is. Je werkt samen aan een vormingsaanbod rond\ncontextgericht werken en volgt de uitrol ervan mee op. Ook ontwikkel en verzorg\nje vorming voor de verschillende functiegroepen binnen de multidisciplinaire\nteams, zodat contextgericht werken breed gedragen wordt.<br><br>Je zoekt actief mee\nnaar innovatieve praktijken en helpt mee de visie verder vorm te geven, zowel\nop afdelingsniveau als op de werkvloer. In De Zande en De Kempen maak je deel\nuit van het programmateam en bouw je samen aan nieuwe manieren van werken. In\nDe Grubbe maak je deel uit van het team experten en werk je nauw samen met de\nmultidisciplinaire teams. Als enige expert contextgericht werken vervul je een\npioniersrol in De Grubbe om het contextgericht werken uit te dragen in de\ninstelling. <br><br>Het werk vraagt\ncreativiteit en doorzettingsvermogen. Je beweegt je in een complexe omgeving\nwaarin de gesloten setting specifieke uitdagingen met zich meebrengt. Het\nverkennen van je mandaat en het vinden van de juiste balans tussen adviseren en\ningrijpen maken deel uit van je opdracht. Maar net in die zoektocht ligt de\nkans om wezenlijk bij te dragen aan een sterker en meer samenhangend aanbod\nvoor jongeren en hun context.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.",
-        "htmlEncoded": "Wil jij mee het verschil\nmaken in de manier waarop we jongeren en hun omgeving ondersteunen binnen de\ngemeenschapsinstellingen? Dan is de functie van expert contextgericht werken\nbij Opgroeien iets voor jou. Je krijgt de kans om in De Grubbe, De Zande of De\nKempen aan de slag te gaan en draagt er mee zorg voor dat de visie rond\ncontextgericht werken echt tot leven komt. Een aantal dagen per maand word je voor\neen overlegmoment in Brussel verwacht. <br><br>Als expert ben je de\nmotor achter de ontwikkeling van een contextgerichte aanpak. Je bouwt aan een\ncontext sensitieve organisatie. Je traint contextwerkers en andere betrokken\ncollega’s, zodat zij jongeren en hun context beter begrijpen en ondersteunen.\nJe vertaalt deze aanpak in een concreet aanbod, zowel intern als extern,\nwaardoor de noden van jongeren en hun omgeving op een meer passende manier\nbeantwoord worden.<br>Daarnaast speel je een\nactieve rol in de kwaliteitsborging van de programma’s en methodieken die\nbinnen de instellingen gebruikt worden. Je stemt af met lokaal management,\nkwaliteitscoördinatoren en de academische werkplaats om te zorgen dat alles\nstevig onderbouwd en up-to-date is. Je werkt samen aan een vormingsaanbod rond\ncontextgericht werken en volgt de uitrol ervan mee op. Ook ontwikkel en verzorg\nje vorming voor de verschillende functiegroepen binnen de multidisciplinaire\nteams, zodat contextgericht werken breed gedragen wordt.<br><br>Je zoekt actief mee\nnaar innovatieve praktijken en helpt mee de visie verder vorm te geven, zowel\nop afdelingsniveau als op de werkvloer. In De Zande en De Kempen maak je deel\nuit van het programmateam en bouw je samen aan nieuwe manieren van werken. In\nDe Grubbe maak je deel uit van het team experten en werk je nauw samen met de\nmultidisciplinaire teams. Als enige expert contextgericht werken vervul je een\npioniersrol in De Grubbe om het contextgericht werken uit te dragen in de\ninstelling. <br><br>Het werk vraagt\ncreativiteit en doorzettingsvermogen. Je beweegt je in een complexe omgeving\nwaarin de gesloten setting specifieke uitdagingen met zich meebrengt. Het\nverkennen van je mandaat en het vinden van de juiste balans tussen adviseren en\ningrijpen maken deel uit van je opdracht. Maar net in die zoektocht ligt de\nkans om wezenlijk bij te dragen aan een sterker en meer samenhangend aanbod\nvoor jongeren en hun context.<br><br>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Gillis"
-          }
-        },
-        {
-          "address": {
-            "city": "Mol"
-          }
-        },
-        {
-          "address": {
-            "city": "Kortenberg"
-          }
-        },
-        {
-          "address": {
-            "city": "Wingene"
           }
         }
       ]
