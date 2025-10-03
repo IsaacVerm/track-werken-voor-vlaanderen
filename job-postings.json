@@ -1,10 +1,10 @@
 {
-  "totalItems": 169,
+  "totalItems": 171,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 168,
+  "lastItemOfPage": 170,
   "items": [
     {
       "link": "/Job/vdab-72107359",
@@ -30,8 +30,8 @@
       "displayTitle": "Backend .NET ontwikkelaar (Agentschap Maritieme Dienstverlening en Kust) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met: </p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten; </li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen; </li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust. </li> </ul>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met: </p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten; </li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen; </li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust. </li> </ul>"
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met:</p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten;</li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen;</li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust.</li> </ul>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p>Als .NET ontwikkelaar:</p> \n<ul type=\"disc\"> \n<li>werk je mee aan de technische analyses op basis van aangereikte functionele analyses in samenspraak met de andere leden van het team van ontwikkelaars</li> \n<li>voer je vlot programmatieopdrachten uit: coderen, testen, debuggen,…</li> \n<li>lever je kwalitatieve code en bijhorende documentatie op volgens de werkwijze die afgesproken is in het team van ontwikkelaars (code richtlijnen, unit testen, …)</li> \n<li>Identificeer je opportuniteiten en communiceer je hierover vanuit je rol van ontwikkelaar.</li> </ul> \n<p>Je zal nauw samenwerken met:</p> \n<ul type=\"disc\"> \n<li>De IT projectleider – die instaat voor de opvolging van de projecten;</li> \n<li>De business analist – die de noden van de gebruiker vertaald naar duidelijke requirements en processen;</li> </ul> \n<ul type=\"disc\"> \n<li>De product eigenaars - welke de SPOC rol vanuit gebruikersperspectief opnemen;</li> </ul> \n<ul type=\"disc\"> \n<li>Onze IT ontwikkel teams - die uiteindelijk overgaan tot realisatie en onderhoud van het applicatielandschap van de Vlaamse Hydrografie en Afdeling Kust.</li> </ul>"
       },
       "locations": [
         {
@@ -2912,6 +2912,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19504",
+      "internal": false,
+      "validThroughDate": "1760918400",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19504",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Centrale rapportenbouwer"
+      },
+      "displayTitle": "Centrale rapportenbouwer",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij impact maken met data en rapportering in een\norganisatie die het recht op kansrijk opgroeien voor elk kind en elke jongere\ncentraal stelt? Heb je een passie voor data, rapportering en visualisatie? Dan\nis deze functie iets voor jou!&nbsp;&nbsp;<br><br>Als <strong>centrale\nrapportenbouwer</strong> bouw je\ncentrale en afdelingsoverschrijdende rapportages en heldere dashboards die\naansluiten op de informatiebehoeften van de business. Je werkt binnen jouw team\nmee aan de uitbouw van de rapporteringsomgeving, de rapporteringsgovernance en\ndraagt de datawerking verder uit binnen opgroeien. <br><br>Binnen jouw functie ben je verantwoordelijk voor het\nsuccesvol ontwikkelen, optimaliseren, wijzigen, publiceren en buiten gebruik\nstellen van rapporten en dashboards. Je zorgt samen met de collega’s dat\nrapportages aansluiten bij de informatiebehoefte van de organisatie en\nbijdragen aan de data-gedreven besluitvorming. Je werkt hiervoor nauw samen met\ncollega’s zoals BI Engineers, rapportenanalisten, centrale en thema\nrapportenbouwers.</p><p>Daarnaast vind je het leuk om je te verdiepen in oplossingen\nin de Power BI omgeving en geef je ondersteuning aan collega’s binnen de\ndatawerking en eindgebruikers om zo ook de bruikbaarheid en datakwaliteit te\nverbeteren.&nbsp;<br><br><strong>Wat ga je doen?</strong></p><ul><li>Ontwerpen\n     en ontwikkelen van rapporten en dashboards in Power BI</li><li>Vertalen\n     van functionele vereisten naar heldere visualisaties</li><li>Toepassen\n     van rapporteringsstandaarden en governance</li><li>Publiceren\n     en beheren van rapporten via Power BI Service</li><li>Waarborgen\n     van datakwaliteit en samenwerken met technische collega’s</li><li>Coachen\n     en ondersteunen van collega’s, thema rapportenbouwers en eindgebruikers</li><li>Meewerken\n     aan een gedragen datacultuur binnen Opgroeien</li><li>Volgen\n     van technologische ontwikkelingen en implementeren van nieuwe tools</li></ul>",
+        "htmlEncoded": "<p>Wil jij impact maken met data en rapportering in een\norganisatie die het recht op kansrijk opgroeien voor elk kind en elke jongere\ncentraal stelt? Heb je een passie voor data, rapportering en visualisatie? Dan\nis deze functie iets voor jou!&nbsp;&nbsp;<br><br>Als <strong>centrale\nrapportenbouwer</strong> bouw je\ncentrale en afdelingsoverschrijdende rapportages en heldere dashboards die\naansluiten op de informatiebehoeften van de business. Je werkt binnen jouw team\nmee aan de uitbouw van de rapporteringsomgeving, de rapporteringsgovernance en\ndraagt de datawerking verder uit binnen opgroeien. <br><br>Binnen jouw functie ben je verantwoordelijk voor het\nsuccesvol ontwikkelen, optimaliseren, wijzigen, publiceren en buiten gebruik\nstellen van rapporten en dashboards. Je zorgt samen met de collega’s dat\nrapportages aansluiten bij de informatiebehoefte van de organisatie en\nbijdragen aan de data-gedreven besluitvorming. Je werkt hiervoor nauw samen met\ncollega’s zoals BI Engineers, rapportenanalisten, centrale en thema\nrapportenbouwers.</p><p>Daarnaast vind je het leuk om je te verdiepen in oplossingen\nin de Power BI omgeving en geef je ondersteuning aan collega’s binnen de\ndatawerking en eindgebruikers om zo ook de bruikbaarheid en datakwaliteit te\nverbeteren.&nbsp;<br><br><strong>Wat ga je doen?</strong></p><ul><li>Ontwerpen\n     en ontwikkelen van rapporten en dashboards in Power BI</li><li>Vertalen\n     van functionele vereisten naar heldere visualisaties</li><li>Toepassen\n     van rapporteringsstandaarden en governance</li><li>Publiceren\n     en beheren van rapporten via Power BI Service</li><li>Waarborgen\n     van datakwaliteit en samenwerken met technische collega’s</li><li>Coachen\n     en ondersteunen van collega’s, thema rapportenbouwers en eindgebruikers</li><li>Meewerken\n     aan een gedragen datacultuur binnen Opgroeien</li><li>Volgen\n     van technologische ontwikkelingen en implementeren van nieuwe tools</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19496",
+      "internal": false,
+      "validThroughDate": "1760832000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19496",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider Buffer - Brugge"
+      },
+      "displayTitle": "Scheepvaartbegeleider Buffer - Brugge",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
+        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19488",
       "internal": false,
       "validThroughDate": "-1",
@@ -3341,9 +3411,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Onderzoeker estuaria - ecotopen en vegetatie"
+        "htmlEncoded": "Onderzoeker Estuaria - ecotopen en vegetatie"
       },
-      "displayTitle": "Onderzoeker estuaria - ecotopen en vegetatie",
+      "displayTitle": "Onderzoeker Estuaria - ecotopen en vegetatie",
       "isProtected": false,
       "description": {
         "raw": "<p>Ben jij gepassioneerd door biodiversiteit en ecosystemen? INBO zoekt een gedreven onderzoeker die in teamverband het functioneren van estuariene ecosystemen en de impact van beheermaatregelen onderzoekt. Je maakt ecotopenkaarten, ondersteunt vegetatiekundig werk en werkt samen met collega’s uit diverse expertisevelden.<br><br><strong>Wat bieden wij?</strong><br><br>-&nbsp; &nbsp;Een sleutelrol in toegepast wetenschappelijk onderzoek.<br>-&nbsp; &nbsp;Een boeiende functie met impact op natuurbeleid en biodiversiteit in Vlaanderen.<br>-&nbsp; &nbsp;Een voltijds contract van onbepaalde duur in een dynamische, innovatieve organisatie.<br><br><strong>Wie zoeken wij?</strong><br><br>Een gedreven teamspeler die zijn expertise en wetenschappelijke inzichten rond ecotopen- en vegetatieonderzoek weet te vertalen naar praktijk en beleid.</p><p>&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
@@ -4169,7 +4239,7 @@
     {
       "link": "/Job/cornerstone-19219",
       "internal": false,
-      "validThroughDate": "1761177600",
+      "validThroughDate": "1761091200",
       "hiringOrganization": "Instituut voor Natuur- en Bosonderzoek",
       "reservedForDisability": false,
       "openPositions": 1,
