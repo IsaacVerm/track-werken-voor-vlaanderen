@@ -1,16 +1,16 @@
 {
-  "totalItems": 160,
+  "totalItems": 158,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 159,
+  "lastItemOfPage": 157,
   "items": [
     {
-      "link": "/Job/vdab-72107359",
+      "link": "/Job/vdab-72122980",
       "internal": false,
       "validThroughDate": "-1",
-      "hiringOrganization": "Vestiging Oostende (MDK)",
+      "hiringOrganization": "Vlaanderen connect.",
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
@@ -18,7 +18,7 @@
         "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "vdab-72107359",
+      "identifier": "vdab-72122980",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
@@ -707,76 +707,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72015880",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72015880",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data scientist (VUTG) via Vlaanderen connect"
-      },
-      "displayTitle": "Data scientist (VUTG) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. De focus ligt op het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren.</span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. De focus ligt op het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren.</span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je ondersteunt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72015877",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72015877",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data-engineer (VUTG) via Vlaanderen connect"
-      },
-      "displayTitle": "Data-engineer (VUTG) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><br> \n<strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span><span><span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>",
-        "htmlEncoded": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><br> \n<strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span><span><span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72012416",
       "internal": false,
       "validThroughDate": "1760227200",
@@ -1337,41 +1267,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71771090",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71771090",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel analist (Agentschap Uitbetaling Groeipakket) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel analist (Agentschap Uitbetaling Groeipakket) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Ben jij de \n<strong>functioneel analist</strong> die we zoeken? Wil je een uitdagende job met een breed takenpakket? \n<br> \n<strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een functioneel analist die de behoeften van de business vertaalt naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. </span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<ul> \n<li><span>Je onderzoekt functionele vraagstukken, veranderingsaanvragen en je bepaalt de scope van complexe en omvangrijke ontwikkelingsprojecten. </span></li> \n<li><span>Op basis van grondige analyses van processen, geef je advies en teken je specifieke geautomatiseerde oplossingen uit: je vertaalt gebruikersbehoeften in functionaliteiten</span></li> \n<li><span>Je ontwerpt en onderhoudt het functionele design van een applicatie, platform of infrastructuur met grote complexiteit en/of van strategisch belang voor de organisatie. </span></li> \n<li><span>Je vormt autonoom de interface tussen verschillende verantwoordelijken en aanspreekpunten voor de ontwikkeling van een ICT-oplossing. </span></li> \n<li><span>Je maakt deel uit van het scrumteam dat de oplossing zal bouwen en vormt hier de link met de business/domeinexperten.</span></li> \n<li><span>Je blijft op de hoogte van trends en ontwikkelingen in het vakgebied.</span></li> </ul> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG), opgericht op 1 januari 2019, is de dienstverlener voor de uitbetaling van het Groeipakket</span></strong><span><span>. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben \n<strong>Zo krijgt ieder kind waar het recht op heeft! </strong></span></span></p> \n<p><span><span>Wij zijn een onmisbare schakel in het geïntegreerd gezinsbeleid. We zetten in op kennisdeling, samenwerking met partners en belanghebbenden, digitalisering, automatische rechtentoekenning, monitoring en continue verbetering. \n<strong>We gaan voor betrouwbaarheid en een goede klantenrelatie.</strong> We blijven met onze organisatie bouwen aan \n<strong>een aangename en warme werkomgeving</strong> die mensen motiveert en laat groeien \n<strong>. In onze organisatie kan je een bijdrage leveren aan de maatschappij</strong></span></span><strong>.</strong></p> \n<p><span><span>A \n<span>ls jong en dynamisch agentschap staan we voor veel IT-uitdagingen. Ons agentschap streeft naar een goede balans tussen de bijzonder noodzakelijke \n<strong>innovatie </strong>en tegelijk ervoor zorgen dat onze bestaande toepassingen blijven draaien en de \n<strong>dagelijkse werking ondersteund wordt</strong>. We leggen focus op \n<strong>artificiële intelligentie</strong> (met ambitieuze AI-projecten) en data gedreven innovatief werken, en we zetten vol in op \n<strong>automatisering van allerlei taken en dienstverleningen</strong>.</span></span></span></p> \n<p><span><span>Je komt terecht bij het team \n<strong>BIMT</strong> (Business Informatie Management &amp; Technologie) waar je samenwerkt met een 20-tal topcollega’s die zorgen voor de verdere ontwikkeling van samenwerking en telefonie, ondersteuning bieden bij IT-problemen en vragen, verantwoordelijk zijn voor de ontwikkeling en beheer van verschillende IT-toepassingen en ondersteuning geven aan verschillende BIMT-projecten.</span></span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Ben jij de \n<strong>functioneel analist</strong> die we zoeken? Wil je een uitdagende job met een breed takenpakket? \n<br> \n<strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een functioneel analist die de behoeften van de business vertaalt naar duidelijke en gedetailleerde functionele eisen voor de ontwikkeling van systemen, software of processen. Dit helpt de organisatie om oplossingen te creëren die zowel technisch haalbaar als in lijn met de algemene doelstellingen zijn. </span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<ul> \n<li><span>Je onderzoekt functionele vraagstukken, veranderingsaanvragen en je bepaalt de scope van complexe en omvangrijke ontwikkelingsprojecten. </span></li> \n<li><span>Op basis van grondige analyses van processen, geef je advies en teken je specifieke geautomatiseerde oplossingen uit: je vertaalt gebruikersbehoeften in functionaliteiten</span></li> \n<li><span>Je ontwerpt en onderhoudt het functionele design van een applicatie, platform of infrastructuur met grote complexiteit en/of van strategisch belang voor de organisatie. </span></li> \n<li><span>Je vormt autonoom de interface tussen verschillende verantwoordelijken en aanspreekpunten voor de ontwikkeling van een ICT-oplossing. </span></li> \n<li><span>Je maakt deel uit van het scrumteam dat de oplossing zal bouwen en vormt hier de link met de business/domeinexperten.</span></li> \n<li><span>Je blijft op de hoogte van trends en ontwikkelingen in het vakgebied.</span></li> </ul> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG), opgericht op 1 januari 2019, is de dienstverlener voor de uitbetaling van het Groeipakket</span></strong><span><span>. In het kader van het lokaal en Vlaams gezinsbeleid zorgen wij, samen met onze partners, ervoor dat gezinnen geïnformeerd zijn en betaald krijgen waar ze recht op hebben \n<strong>Zo krijgt ieder kind waar het recht op heeft! </strong></span></span></p> \n<p><span><span>Wij zijn een onmisbare schakel in het geïntegreerd gezinsbeleid. We zetten in op kennisdeling, samenwerking met partners en belanghebbenden, digitalisering, automatische rechtentoekenning, monitoring en continue verbetering. \n<strong>We gaan voor betrouwbaarheid en een goede klantenrelatie.</strong> We blijven met onze organisatie bouwen aan \n<strong>een aangename en warme werkomgeving</strong> die mensen motiveert en laat groeien \n<strong>. In onze organisatie kan je een bijdrage leveren aan de maatschappij</strong></span></span><strong>.</strong></p> \n<p><span><span>A \n<span>ls jong en dynamisch agentschap staan we voor veel IT-uitdagingen. Ons agentschap streeft naar een goede balans tussen de bijzonder noodzakelijke \n<strong>innovatie </strong>en tegelijk ervoor zorgen dat onze bestaande toepassingen blijven draaien en de \n<strong>dagelijkse werking ondersteund wordt</strong>. We leggen focus op \n<strong>artificiële intelligentie</strong> (met ambitieuze AI-projecten) en data gedreven innovatief werken, en we zetten vol in op \n<strong>automatisering van allerlei taken en dienstverleningen</strong>.</span></span></span></p> \n<p><span><span>Je komt terecht bij het team \n<strong>BIMT</strong> (Business Informatie Management &amp; Technologie) waar je samenwerkt met een 20-tal topcollega’s die zorgen voor de verdere ontwikkeling van samenwerking en telefonie, ondersteuning bieden bij IT-problemen en vragen, verantwoordelijk zijn voor de ontwikkeling en beheer van verschillende IT-toepassingen en ondersteuning geven aan verschillende BIMT-projecten.</span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71770866",
       "internal": false,
       "validThroughDate": "-1",
@@ -1397,41 +1292,6 @@
       "description": {
         "raw": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>",
         "htmlEncoded": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71770751",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71770751",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ontwikkelaar (VUTG) via Vlaanderen Connect."
-      },
-      "displayTitle": "Ontwikkelaar (VUTG) via Vlaanderen Connect.",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij de \n<span>ontwikkelaar </span>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p>Het Agentschap Uitbetaling Groeipakket (VUTG) zoekt een ontwikkelaar die verantwoordelijk is voor het ontwikkelen en implementeren van high-quality softwareapplicaties. </p> \n<p><span>Als ontwikkelaar sta je in om softwareoplossingen te ontwerpen, ontwikkelen, testen, verbeteren en onderhouden. Het uiteindelijke doel is om toepassingen te creëren die waarde toevoegen voor de organisatie of de gebruiker.</span></p> \n<p><span>Je belangrijkste taken zijn:</span></p> \n<p><span>·       Je ontwikkelt en past software aan op basis van user stories.</span></p> \n<p><span>·       Je stemt af met analisten en product owners over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren.</span></p> \n<p><span>·       Je valideert de opgeleverde user-stories op kwaliteit en functionele/technische haalbaarheid.</span></p> \n<p><span>·       Je waarborgt de softwarekwaliteit en veiligheid door het minimaliseren van bugs en performance-issues</span></p> \n<p><span>·       Je documenteert de technische aspecten van de ontwikkelde software.</span></p> \n<p><span>·       Je ondersteunt het team met jouw technische expertise</span></p> \n<p><span>·       Je draagt bij aan een soepel Scrum-proces door inschattingen, deelname aan stand-ups, retrospectives en sprintplanning.</span></p> \n<p><span>·       Je helpt bij het behalen van planning en deadlines binnen het team.</span></p> \n<p><span>·       Je helpt het ontwikkelingsteam groeien door je kennis te delen en uit te bouwen.</span></p> \n<p><span>·       Je blijft op de hoogte van de laatste technologieën en best practices.</span></p>",
-        "htmlEncoded": "<p>Ben jij de \n<span>ontwikkelaar </span>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p>Het Agentschap Uitbetaling Groeipakket (VUTG) zoekt een ontwikkelaar die verantwoordelijk is voor het ontwikkelen en implementeren van high-quality softwareapplicaties. </p> \n<p><span>Als ontwikkelaar sta je in om softwareoplossingen te ontwerpen, ontwikkelen, testen, verbeteren en onderhouden. Het uiteindelijke doel is om toepassingen te creëren die waarde toevoegen voor de organisatie of de gebruiker.</span></p> \n<p><span>Je belangrijkste taken zijn:</span></p> \n<p><span>·       Je ontwikkelt en past software aan op basis van user stories.</span></p> \n<p><span>·       Je stemt af met analisten en product owners over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren.</span></p> \n<p><span>·       Je valideert de opgeleverde user-stories op kwaliteit en functionele/technische haalbaarheid.</span></p> \n<p><span>·       Je waarborgt de softwarekwaliteit en veiligheid door het minimaliseren van bugs en performance-issues</span></p> \n<p><span>·       Je documenteert de technische aspecten van de ontwikkelde software.</span></p> \n<p><span>·       Je ondersteunt het team met jouw technische expertise</span></p> \n<p><span>·       Je draagt bij aan een soepel Scrum-proces door inschattingen, deelname aan stand-ups, retrospectives en sprintplanning.</span></p> \n<p><span>·       Je helpt bij het behalen van planning en deadlines binnen het team.</span></p> \n<p><span>·       Je helpt het ontwikkelingsteam groeien door je kennis te delen en uit te bouwen.</span></p> \n<p><span>·       Je blijft op de hoogte van de laatste technologieën en best practices.</span></p>"
       },
       "locations": [
         {
@@ -1817,6 +1677,41 @@
       "description": {
         "raw": "<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken</span><span> doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Het Departement MOW staat voor een duurzame ontwikkeling van de mobiliteit in Vlaanderen. Het realiseert heel wat projecten en biedt daarnaast beleidsondersteuning op het vlak van mobiliteit, verkeersveiligheid, investeringen, beheer en exploitatie van de transport- en de haveninfrastructuur.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit</span><span>én voor de hedendaagse wegen- en (lucht)haveninfrastructuur. We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen. Samen hebben we</span><span>één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</span></p> \n<p><span>De functie van projectleider marktonderzoek situeert zich binnen de afdeling beleid van het departement MOW. </span><span>Deze afdeling zet expertise in personen- en goederenvervoer in om vorm te geven aan een duurzaam en onderbouwd mobiliteits- en infrastructuurbeleid. Ze doet dat samen met de agentschappen, andere overheden en belanghebbenden. De afdeling speelt in op nieuwe trends en ontwikkelingen, en doet aan onderzoek. Ze formuleert een langetermijnvisie voor de mobiliteit en de infrastructuur, die ze vertaalt in realiseerbare projecten. De afdeling Beleid volgt ook de uitvoering van het beleid op.</span></p> \n<p><span>De afdeling heeft een zetel te Brussel, Leuven, Hasselt, Brugge, Antwerpen en Gent waar ongeveer 115 personen tewerkgesteld zijn.</span></p> \n<p><span>Je komt terecht in het team Data en Verkeersmodellen. Dit team ondersteunt de data gedreven werking van de afdeling. Het bestaat uit een zestiental personen, waarvan er een vijftal bezig zijn met het ondersteunen van beleidsmedewerkers rond datamonitoring, data-analyse, marktonderzoek, opmaak van dashboards en het opnemen van nieuwe-data-initiatieven.</span></p> \n<p><strong>Doel</strong></p> \n<p><span>Als projectleider marktonderzoek</span><span> heb je een ondersteunende rol ten aanzien van de organisatie. Samen met andere projectleiders krijg je een aantal dataprojecten toegewezen, waaronder OVG waar je een coördinerende rol krijgt.</span></p> \n<ul type=\"disc\"> \n<li><span>Projectleider Onderzoek Verplaatsingsgedrag (OVG)</span></li> </ul> \n<ul type=\"disc\"> \n<li><span>Aanspreekpunt</span><span> voor de</span><span>rest van de afdeling rond</span><span>marktonderzoeken: advies wat bestaat, wat is mogelijk, nagaan welke analyses nodig,…</span></li> \n<li><span>Datagovernance</span></li> \n<ul type=\"disc\"> \n<li><span>Vinger aan de pols houden:</span><span> inventaris bestaande marktonderzoeken</span><span>rond mobiliteit en logistiek in Vlaanderen (intern en extern) vb stadsmonitor, social study,</span><span>…</span><span>en visievorming positie eigen onderzoeken + opportuniteiten ontdekken en grijpen</span></li> \n<li><span>data opvragen bij leveranciers</span><span>voor dashboards en verkeersmodellen: contacten leveranciers en DPO, zorgen voor NDA, vertrouwelijkheidscontracten voor data die nodig zijn voor het monitoren van de mobiliteitstoestand in Vlaanderen, of voor beleidsanalyses of voor de ontwikkeling van verkeersmodellen</span></li> </ul> \n<li><span>Actualiseren van MOMO voor een aantal aan jou toegewezen indicatoren</span></li> </ul>",
         "htmlEncoded": "<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken</span><span> doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Het Departement MOW staat voor een duurzame ontwikkeling van de mobiliteit in Vlaanderen. Het realiseert heel wat projecten en biedt daarnaast beleidsondersteuning op het vlak van mobiliteit, verkeersveiligheid, investeringen, beheer en exploitatie van de transport- en de haveninfrastructuur.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit</span><span>én voor de hedendaagse wegen- en (lucht)haveninfrastructuur. We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen. Samen hebben we</span><span>één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</span></p> \n<p><span>De functie van projectleider marktonderzoek situeert zich binnen de afdeling beleid van het departement MOW. </span><span>Deze afdeling zet expertise in personen- en goederenvervoer in om vorm te geven aan een duurzaam en onderbouwd mobiliteits- en infrastructuurbeleid. Ze doet dat samen met de agentschappen, andere overheden en belanghebbenden. De afdeling speelt in op nieuwe trends en ontwikkelingen, en doet aan onderzoek. Ze formuleert een langetermijnvisie voor de mobiliteit en de infrastructuur, die ze vertaalt in realiseerbare projecten. De afdeling Beleid volgt ook de uitvoering van het beleid op.</span></p> \n<p><span>De afdeling heeft een zetel te Brussel, Leuven, Hasselt, Brugge, Antwerpen en Gent waar ongeveer 115 personen tewerkgesteld zijn.</span></p> \n<p><span>Je komt terecht in het team Data en Verkeersmodellen. Dit team ondersteunt de data gedreven werking van de afdeling. Het bestaat uit een zestiental personen, waarvan er een vijftal bezig zijn met het ondersteunen van beleidsmedewerkers rond datamonitoring, data-analyse, marktonderzoek, opmaak van dashboards en het opnemen van nieuwe-data-initiatieven.</span></p> \n<p><strong>Doel</strong></p> \n<p><span>Als projectleider marktonderzoek</span><span> heb je een ondersteunende rol ten aanzien van de organisatie. Samen met andere projectleiders krijg je een aantal dataprojecten toegewezen, waaronder OVG waar je een coördinerende rol krijgt.</span></p> \n<ul type=\"disc\"> \n<li><span>Projectleider Onderzoek Verplaatsingsgedrag (OVG)</span></li> </ul> \n<ul type=\"disc\"> \n<li><span>Aanspreekpunt</span><span> voor de</span><span>rest van de afdeling rond</span><span>marktonderzoeken: advies wat bestaat, wat is mogelijk, nagaan welke analyses nodig,…</span></li> \n<li><span>Datagovernance</span></li> \n<ul type=\"disc\"> \n<li><span>Vinger aan de pols houden:</span><span> inventaris bestaande marktonderzoeken</span><span>rond mobiliteit en logistiek in Vlaanderen (intern en extern) vb stadsmonitor, social study,</span><span>…</span><span>en visievorming positie eigen onderzoeken + opportuniteiten ontdekken en grijpen</span></li> \n<li><span>data opvragen bij leveranciers</span><span>voor dashboards en verkeersmodellen: contacten leveranciers en DPO, zorgen voor NDA, vertrouwelijkheidscontracten voor data die nodig zijn voor het monitoren van de mobiliteitstoestand in Vlaanderen, of voor beleidsanalyses of voor de ontwikkeling van verkeersmodellen</span></li> </ul> \n<li><span>Actualiseren van MOMO voor een aantal aan jou toegewezen indicatoren</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-71485532",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-71485532",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>",
+        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>"
       },
       "locations": [
         {
@@ -3186,6 +3081,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19381",
+      "internal": false,
+      "validThroughDate": "1761091200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19381",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data analist arbeidsmarkt & dienstverlening"
+      },
+      "displayTitle": "Data analist arbeidsmarkt & dienstverlening",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Je werkt graag met cijfers die er écht toe doen. In jouw rol als <b>data-analist</b> bij VDAB verdiep je je in de dynamiek van de <b>arbeidsmarkt</b> én de effectiviteit van onze <b>dienstverlening</b>. Je vertaalt grote hoeveelheden data naar inzichten die rechtstreeks impact hebben op het beleid, op de matching tussen kandidaten en vacatures.<br> <br> </span></p> <p><span>Binnen het team Monitoring focus je op een actueel en maatschappelijk relevant thema: <b>beroepskeuzes en beroepsvoorkeuren</b>. Jij volgt op hoe werkzoekenden hun jobpad uitstippelen en hoe VDAB hen daarin optimaal kan begeleiden. Met de overgang naar nieuwe interne systemen en beleidswijzigingen zoals de beperking van de werkloosheidsduur, ontstaat een rijke stroom aan nieuwe data. Jij analyseert die evoluties en biedt <b>beleidsadvies</b> op maat: betrouwbaar, onderbouwd, en helder.<br><br> Je werkt met tools zoals <b>dashboards</b>, <b>analysenota’s</b> en <b>publieke cijferapplicaties</b> om cijfers tastbaar te maken voor zowel beleidsmakers als het brede publiek. Statistiek is jouw fundament, maar inzicht en gebruiksvriendelijkheid zijn je leidraad. Je weet bovendien hoe je datagedreven inzichten kracht bijzet via onderbouwde effectevaluaties, bijvoorbeeld met quasi-experimentele methoden, of je bent bereid je hierin verder te verdiepen.&nbsp;<br><br> Je komt terecht in een gedreven, inclusief team dat samen het verschil maakt. Team Monitoring bundelt diverse expertises en werkt nauw samen met collega’s uit beleid, IT en dienstverlening. Je wordt uitgedaagd én ondersteund om te groeien, bij te leren en jouw blik te verruimen.</span></p> <p><span>&nbsp;</span></p> <p><b><span>Wat mag je verwachten?</span></b></p> <ul><li><span>Een rol met maatschappelijke meerwaarde: je werk ondersteunt betere keuzes voor werkzoekenden en werkgevers</span></li></ul> <ul><li><span>Een open werkomgeving waarin samenwerking, kennisdeling en respect centraal staan<br> <br> </span></li></ul> <p><span>Met jouw data en inzichten geef je richting aan de arbeidsmarkt van morgen</span></p>",
+        "htmlEncoded": "<p><span>Je werkt graag met cijfers die er écht toe doen. In jouw rol als <b>data-analist</b> bij VDAB verdiep je je in de dynamiek van de <b>arbeidsmarkt</b> én de effectiviteit van onze <b>dienstverlening</b>. Je vertaalt grote hoeveelheden data naar inzichten die rechtstreeks impact hebben op het beleid, op de matching tussen kandidaten en vacatures.<br> <br> </span></p> <p><span>Binnen het team Monitoring focus je op een actueel en maatschappelijk relevant thema: <b>beroepskeuzes en beroepsvoorkeuren</b>. Jij volgt op hoe werkzoekenden hun jobpad uitstippelen en hoe VDAB hen daarin optimaal kan begeleiden. Met de overgang naar nieuwe interne systemen en beleidswijzigingen zoals de beperking van de werkloosheidsduur, ontstaat een rijke stroom aan nieuwe data. Jij analyseert die evoluties en biedt <b>beleidsadvies</b> op maat: betrouwbaar, onderbouwd, en helder.<br><br> Je werkt met tools zoals <b>dashboards</b>, <b>analysenota’s</b> en <b>publieke cijferapplicaties</b> om cijfers tastbaar te maken voor zowel beleidsmakers als het brede publiek. Statistiek is jouw fundament, maar inzicht en gebruiksvriendelijkheid zijn je leidraad. Je weet bovendien hoe je datagedreven inzichten kracht bijzet via onderbouwde effectevaluaties, bijvoorbeeld met quasi-experimentele methoden, of je bent bereid je hierin verder te verdiepen.&nbsp;<br><br> Je komt terecht in een gedreven, inclusief team dat samen het verschil maakt. Team Monitoring bundelt diverse expertises en werkt nauw samen met collega’s uit beleid, IT en dienstverlening. Je wordt uitgedaagd én ondersteund om te groeien, bij te leren en jouw blik te verruimen.</span></p> <p><span>&nbsp;</span></p> <p><b><span>Wat mag je verwachten?</span></b></p> <ul><li><span>Een rol met maatschappelijke meerwaarde: je werk ondersteunt betere keuzes voor werkzoekenden en werkgevers</span></li></ul> <ul><li><span>Een open werkomgeving waarin samenwerking, kennisdeling en respect centraal staan<br> <br> </span></li></ul> <p><span>Met jouw data en inzichten geef je richting aan de arbeidsmarkt van morgen</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19378",
       "internal": false,
       "validThroughDate": "1761955200",
@@ -3844,7 +3774,7 @@
       "locations": [
         {
           "address": {
-            "city": "Gent"
+            "city": "Brugge"
           }
         }
       ]
@@ -4290,9 +4220,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Hoofdschipper Tenderswaths"
+        "htmlEncoded": "Kapitein met STCW II/3 master"
       },
-      "displayTitle": "Hoofdschipper Tenderswaths",
+      "displayTitle": "Kapitein met STCW II/3 master",
       "isProtected": false,
       "description": {
         "raw": "<p>Ben jij een ervaren schipper met een passie voor de zee en een talent voor leidinggeven? Wil je mee instaan voor het veilig en efficiënt vervoer van loodsen van en naar zeeschepen? Dan is deze functie als hoofdschipper tenderswath bij DAB VLOOT iets voor jou!<br><br><strong>Wat houdt de job in?</strong><br><br>Een tenderswath is een specifiek type loodsvaartuig dat door DAB VLOOT wordt ingezet voor het vervoer van loodsen van en naar zeeschepen.<br><br>Als hoofdschipper van een tenderswath leid je de bemanning aan boord, organiseer je hun werkzaamheden en zorg je voor een vlot en veilig verloop van de vaaropdrachten. Je bent een cruciale schakel in het maritieme verkeer en draagt bij aan de kwaliteit en veiligheid van onze dienstverlening.<br><br><strong>Jouw takenpakket</strong></p><ul><li>Leiding geven aan de bemanning: plannen, coördineren en opvolgen van de dagelijkse taken.</li><li>Motiveren en begeleiden van medewerkers om hun betrokkenheid en prestaties te versterken.</li><li>Uitvoeren van vaaropdrachten en beloodsingen met de tenderswath, met oog voor veiligheid en efficiëntie.</li><li>Bewaken van kwaliteit en veiligheid binnen het team volgens de geldende normen en procedures.</li><li>Beheer van materiaal: zorgen voor een correcte inventaris en onderhoud van uitrusting.</li><li>Communicatie en samenwerking: informatie uitwisselen en afstemmen met collega’s en betrokken partijen.</li><li>Actieve ondersteuning van de bemanning en inspringen bij werkoverlast of afwezigheden.</li><li>Milieubewust en veilig handelen: bijdragen aan de voorbeeldfunctie van DAB VLOOT op het vlak van duurzaamheid.</li></ul><p><strong>Wat bieden wij jou?</strong></p><ul><li>Een gericht opleidingstraject.&nbsp;</li><li>Een uitdagende en verantwoordelijke functie binnen een professioneel en geëngageerd team, met aandacht voor veiligheid, welzijn en ontwikkeling.</li><li>Werken in een unieke maritieme omgeving die inzet op innovatie en duurzaamheid.</li></ul><p><strong>Wie zoeken we?</strong></p><ul><li>Je hebt ruime ervaring als schipper en beschikt over de nodige vaarbevoegdheden.</li><li>Je hebt leidinggevende capaciteiten en bent communicatief sterk.</li><li>Je werkt graag in teamverband en hebt oog voor veiligheid en kwaliteit.</li><li>Je bent flexibel en bereid om in een operationele context te werken met wisselende uren.<br><br></li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
