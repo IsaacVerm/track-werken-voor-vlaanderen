@@ -1,10 +1,10 @@
 {
-  "totalItems": 162,
+  "totalItems": 160,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 161,
+  "lastItemOfPage": 159,
   "items": [
     {
       "link": "/Job/vdab-72107359",
@@ -1092,41 +1092,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71954830",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "MUNTPUNT",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71954830",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "HR-medewerker (50%)"
-      },
-      "displayTitle": "HR-medewerker (50%)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben je gebeten door HR en blink je uit in nauwkeurige administratie? Werk je zelfstandig, denk je oplossingsgericht en verlies je zelfs als het druk is je glimlach niet? Dan zijn wij op zoek naar jou!\n<br> Bij Muntpunt draait alles om mensen en dat begint bij onze eigen medewerkers. Als HR-medewerker ben jij verantwoordelijk voor de volledige en correcte verwerking van de loons- en personeelsadministratie. Je beheert de processen zelfstandig en efficiënt, en zorgt ervoor dat alles op rolletjes loopt. Daarbij krijg je de ruimte om initiatief te nemen, verbeteringen aan te brengen en jezelf verder te ontwikkelen binnen een warme en dynamische werkomgeving.</span></p> \n<p><span> </span></p> \n<p><span><span>·\n<span> </span></span></span>Beheer van personeelsgegevens en loonadministratie:</p> \n<p><span><span>o\n<span> </span></span></span>Je houdt een accurate personeelslijst bij en voorziet bevoegde instanties van de gevraagde gegevens.</p> \n<p><span><span>o\n<span> </span></span></span>Je betaalt maandelijks de lonen uit en rekent de jaarlijkse vakantiedagen uit.</p> \n<p><span><span>o\n<span> </span></span></span>Je zorgt dat alle gegevens die nodig zijn voor de uitbetaling van HR-gerelateerde subsidies correct en tijdig worden doorgegeven aan de juiste instanties.</p> \n<p><span><span>o\n<span> </span></span></span>Je bent het intern en extern aanspreekpunt voor alle vragen ivm de loonadministratie.</p> \n<p><span><span>o\n<span> </span></span></span>Je werkt samen met de je financiële collega’s om HR-gerelateerde betalingen goed te keuren en op te volgen.</p> \n<p><span><span>·\n<span> </span></span></span>Administratieve opvolging:</p> \n<p><span><span>o\n<span> </span></span></span>Je zorgt voor een vlotte administratie bij aanwervingen, uitdiensttredingen, contracten en verlofregelingen.</p> \n<p><span><span>o\n<span> </span></span></span>Je staat in voor de goeie opvolging van de abonnementen van collega’s (gsm, woon-werk, maaltijdcheques).</p> \n<p><span><span>·\n<span> </span></span></span>Verzekeringen:</p> \n<p><span><span>o\n<span> </span></span></span>Je beheert nauwgezet de verschillende verzekeringen in Muntpunt (bv. hospitalisatie, arbeidsongevallen, groepsverzekering…).</p> \n<p><span><span>o\n<span> </span></span></span>Je bent zowel intern, als voor externe leveranciers, het aanspreekpunt en volgt aansluitingen, stopzettingen en wijzigingen op.</p> \n<p><span><span>·\n<span> </span></span></span>Collega’s adviseren en verder helpen</p> \n<p><span><span>o\n<span> </span></span></span>Je bent het aanspreekpunt voor HR-gerelateerde vragen van collega’s.</p> \n<p><span><span>o\n<span> </span></span></span>Je geeft duidelijke antwoorden en zorgt dat collega’s snel en correct geholpen worden. Ken je het antwoord zelf niet, dan ga je zelfstandig op zoek naar de juiste informatie.</p> \n<p><span><span>o\n<span> </span></span></span>Je neemt verantwoordelijkheid voor heldere communicatie en opvolging.</p> \n<p><span><span>o\n<span> </span></span></span>Je denkt actief mee na over hoe we onze interne HR-processen en procedures kunnen verbeteren.</p> \n<p><span><span>o\n<span> </span></span></span>Je adviseert zowel collega’s als de organisatie over relevante HR-wetgeving en praktische toepassing ervan.</p>",
-        "htmlEncoded": "<p><span>Ben je gebeten door HR en blink je uit in nauwkeurige administratie? Werk je zelfstandig, denk je oplossingsgericht en verlies je zelfs als het druk is je glimlach niet? Dan zijn wij op zoek naar jou!\n<br> Bij Muntpunt draait alles om mensen en dat begint bij onze eigen medewerkers. Als HR-medewerker ben jij verantwoordelijk voor de volledige en correcte verwerking van de loons- en personeelsadministratie. Je beheert de processen zelfstandig en efficiënt, en zorgt ervoor dat alles op rolletjes loopt. Daarbij krijg je de ruimte om initiatief te nemen, verbeteringen aan te brengen en jezelf verder te ontwikkelen binnen een warme en dynamische werkomgeving.</span></p> \n<p><span> </span></p> \n<p><span><span>·\n<span> </span></span></span>Beheer van personeelsgegevens en loonadministratie:</p> \n<p><span><span>o\n<span> </span></span></span>Je houdt een accurate personeelslijst bij en voorziet bevoegde instanties van de gevraagde gegevens.</p> \n<p><span><span>o\n<span> </span></span></span>Je betaalt maandelijks de lonen uit en rekent de jaarlijkse vakantiedagen uit.</p> \n<p><span><span>o\n<span> </span></span></span>Je zorgt dat alle gegevens die nodig zijn voor de uitbetaling van HR-gerelateerde subsidies correct en tijdig worden doorgegeven aan de juiste instanties.</p> \n<p><span><span>o\n<span> </span></span></span>Je bent het intern en extern aanspreekpunt voor alle vragen ivm de loonadministratie.</p> \n<p><span><span>o\n<span> </span></span></span>Je werkt samen met de je financiële collega’s om HR-gerelateerde betalingen goed te keuren en op te volgen.</p> \n<p><span><span>·\n<span> </span></span></span>Administratieve opvolging:</p> \n<p><span><span>o\n<span> </span></span></span>Je zorgt voor een vlotte administratie bij aanwervingen, uitdiensttredingen, contracten en verlofregelingen.</p> \n<p><span><span>o\n<span> </span></span></span>Je staat in voor de goeie opvolging van de abonnementen van collega’s (gsm, woon-werk, maaltijdcheques).</p> \n<p><span><span>·\n<span> </span></span></span>Verzekeringen:</p> \n<p><span><span>o\n<span> </span></span></span>Je beheert nauwgezet de verschillende verzekeringen in Muntpunt (bv. hospitalisatie, arbeidsongevallen, groepsverzekering…).</p> \n<p><span><span>o\n<span> </span></span></span>Je bent zowel intern, als voor externe leveranciers, het aanspreekpunt en volgt aansluitingen, stopzettingen en wijzigingen op.</p> \n<p><span><span>·\n<span> </span></span></span>Collega’s adviseren en verder helpen</p> \n<p><span><span>o\n<span> </span></span></span>Je bent het aanspreekpunt voor HR-gerelateerde vragen van collega’s.</p> \n<p><span><span>o\n<span> </span></span></span>Je geeft duidelijke antwoorden en zorgt dat collega’s snel en correct geholpen worden. Ken je het antwoord zelf niet, dan ga je zelfstandig op zoek naar de juiste informatie.</p> \n<p><span><span>o\n<span> </span></span></span>Je neemt verantwoordelijkheid voor heldere communicatie en opvolging.</p> \n<p><span><span>o\n<span> </span></span></span>Je denkt actief mee na over hoe we onze interne HR-processen en procedures kunnen verbeteren.</p> \n<p><span><span>o\n<span> </span></span></span>Je adviseert zowel collega’s als de organisatie over relevante HR-wetgeving en praktische toepassing ervan.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71953713",
       "internal": false,
       "validThroughDate": "-1",
@@ -1647,76 +1612,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71715702",
-      "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71715702",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Laborant analytisch laboratorium"
-      },
-      "displayTitle": "Laborant analytisch laboratorium",
-      "isProtected": false,
-      "description": {
-        "raw": "<p dir=\"ltr\"><span>Het team Analytisch Laboratorium voert analyses uit op water- en bodemmonsters en op plantaardig materiaal ter ondersteuning van het onderzoek van de wetenschappelijke teams van het INBO. Om de kwaliteit van de analyses te verzekeren worden de analyses uitgevoerd conform de ISO 17025. Het laboratorium streeft naar het optimaliseren en automatiseren van de laboratoriumprocessen en het afstemmen van de infrastructuur aan de behoeften van de onderzoekers. Alle resultaten worden bewaard in een Laboratorium Informatie Management Systeem (LIMS) en ontsloten via een datawarehouse (DHW).</span></p> \n<p dir=\"ltr\"><span>In het project ‘PAS-effectmonitoring’ worden meetnetten uitgerold om de toestand van de (stikstofgevoelige) Europees beschermde habitattypen te evalueren. Hiervoor worden de toestand en trend van het natuurlijk milieu gemonitord, via stikstof gerelateerde milieu- variabelen in grondwater, oppervlaktewater en bodem, en van de natuurkwaliteit, via stikstof gerelateerde vegetatiekenmerken in Natura 2000-habitattypen.</span></p> \n<p dir=\"ltr\"><span>Om het PAS-project te ondersteunen werft het analytisch team nieuwe medewerkers aan. Jij voert de analyses uit op de water- en bodemmonsters en toetst de resultaten aan de gestelde kwaliteitseisen. Jij rapporteert de resultaten aan de laboverantwoordelijke.</span></p> \n<p> </p> \n<p dir=\"ltr\"><strong>In bijgevoegd selectiereglement kan je het takenpakket in detail lezen.</strong></p>",
-        "htmlEncoded": "<p dir=\"ltr\"><span>Het team Analytisch Laboratorium voert analyses uit op water- en bodemmonsters en op plantaardig materiaal ter ondersteuning van het onderzoek van de wetenschappelijke teams van het INBO. Om de kwaliteit van de analyses te verzekeren worden de analyses uitgevoerd conform de ISO 17025. Het laboratorium streeft naar het optimaliseren en automatiseren van de laboratoriumprocessen en het afstemmen van de infrastructuur aan de behoeften van de onderzoekers. Alle resultaten worden bewaard in een Laboratorium Informatie Management Systeem (LIMS) en ontsloten via een datawarehouse (DHW).</span></p> \n<p dir=\"ltr\"><span>In het project ‘PAS-effectmonitoring’ worden meetnetten uitgerold om de toestand van de (stikstofgevoelige) Europees beschermde habitattypen te evalueren. Hiervoor worden de toestand en trend van het natuurlijk milieu gemonitord, via stikstof gerelateerde milieu- variabelen in grondwater, oppervlaktewater en bodem, en van de natuurkwaliteit, via stikstof gerelateerde vegetatiekenmerken in Natura 2000-habitattypen.</span></p> \n<p dir=\"ltr\"><span>Om het PAS-project te ondersteunen werft het analytisch team nieuwe medewerkers aan. Jij voert de analyses uit op de water- en bodemmonsters en toetst de resultaten aan de gestelde kwaliteitseisen. Jij rapporteert de resultaten aan de laboverantwoordelijke.</span></p> \n<p> </p> \n<p dir=\"ltr\"><strong>In bijgevoegd selectiereglement kan je het takenpakket in detail lezen.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geraardsbergen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71681002",
-      "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "VDAB",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71681002",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "bemiddelaars VDAB"
-      },
-      "displayTitle": "bemiddelaars VDAB",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>VDAB zoekt enthousiaste en gemotiveerde bemiddelaars om ons team in de regio Vilvoorde te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.</p> \n<p>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</p> \n<p>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. Hieronder vind je voor elke pijler apart (Inschatting - Sectorale werking - Intensieve dienstverlening) de informatie en het takenpakket. Geen zorgen! Je hoeft zelf nog geen keuze te maken. Dit zal duidelijker worden tijdens het selectiegesprek, zowel voor jou als voor ons.</p> \n<p>Ontdek er alles over (per pijler) in bijlage</p>",
-        "htmlEncoded": "<p>VDAB zoekt enthousiaste en gemotiveerde bemiddelaars om ons team in de regio Vilvoorde te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.</p> \n<p>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</p> \n<p>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. Hieronder vind je voor elke pijler apart (Inschatting - Sectorale werking - Intensieve dienstverlening) de informatie en het takenpakket. Geen zorgen! Je hoeft zelf nog geen keuze te maken. Dit zal duidelijker worden tijdens het selectiegesprek, zowel voor jou als voor ons.</p> \n<p>Ontdek er alles over (per pijler) in bijlage</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Asse"
           }
         }
       ]
@@ -3326,41 +3221,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19373",
-      "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19373",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Publieksbegeleider Kasteel Van Gaasbeek"
-      },
-      "displayTitle": "Publieksbegeleider Kasteel Van Gaasbeek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als publieksbegeleider\nbinnen Kasteel Van Gaasbeek ben je hét aanspreekpunt voor de bezoekers. Met een\ntoegankelijke houding verwelkom je bezoekers en beantwoord je hun vragen. Je\nbiedt hulp waar nodig en zorgt, na een wettelijke opleiding bewakingsagent,\nsamen met de bewakingsagenten ook voor een veilige museumervaring. <br><br>Draag je hospitality en\nklantvriendelijkheid hoog in het vaandel? Vind je het leuk om veelzijdig\ningezet te worden? Dan ben jij wellicht de toegewijde publieksbegeleider die\nwij zoeken!<br><br>Het Kasteel Van\nGaasbeek is een unieke werkplek en maakt deel uit van het Departement Cultuur,\nJeugd en Media. Gelegen in het groene Lennik, combineert het kasteel een rijke\ngeschiedenis met een uitzonderlijke collectie. Na een ingrijpende restauratie\nheropende het kasteel in 2023 en fungeert het nu als een dynamisch museum en\nerfgoedsite, met een team van zo’n twintig vaste medewerkers. Binnen deze\nfunctie maak je deel uit van de zakelijke cel en werk je nauw samen met het onthaalteam,\nde gedreven vrijwilligers en gidsen.<br><br>Een greep uit jouw\ngevarieerde takenpakket:</p><ul><li>Je beantwoordt vragen van bezoekers en biedt ondersteuning waar nodig (bijvoorbeeld bij het aanschaffen van tickets aan de verkoopzuilen).</li><li>Je helpt bezoekers de weg te vinden in het kasteel en verleent assistentie bij activiteiten zoals recepties, nocturnes en andere evenementen.</li><li>Na de wettelijke opleiding ondersteun je bij de bewaking van het erfgoed en houd je toezicht in de voor het publiek toegankelijke ruimtes.</li><li>Je verkoopt tickets en museumshopproducten wanneer je niet ingepland bent als bewakingsagent.</li></ul><p>In de jaarlijkse\nsluitingsperiode van het kasteel (van midden november tot eind maart) krijg je\nde kans om je veelzijdigheid te tonen. Afhankelijk van je interesses en de op\ndat moment geldende noden, kun je betrokken worden bij uiteenlopende taken –\nvan kleine onderhoudswerken tot ondersteuning bij documentatie- en\narchiveringsprojecten.<br><br>Beschik je reeds over\nhet attest bewakingsagent? Dan kan je na een positieve prescreening en selectie\nsneller aan de slag als bewakingsagent.</p>",
-        "htmlEncoded": "<p>Als publieksbegeleider\nbinnen Kasteel Van Gaasbeek ben je hét aanspreekpunt voor de bezoekers. Met een\ntoegankelijke houding verwelkom je bezoekers en beantwoord je hun vragen. Je\nbiedt hulp waar nodig en zorgt, na een wettelijke opleiding bewakingsagent,\nsamen met de bewakingsagenten ook voor een veilige museumervaring. <br><br>Draag je hospitality en\nklantvriendelijkheid hoog in het vaandel? Vind je het leuk om veelzijdig\ningezet te worden? Dan ben jij wellicht de toegewijde publieksbegeleider die\nwij zoeken!<br><br>Het Kasteel Van\nGaasbeek is een unieke werkplek en maakt deel uit van het Departement Cultuur,\nJeugd en Media. Gelegen in het groene Lennik, combineert het kasteel een rijke\ngeschiedenis met een uitzonderlijke collectie. Na een ingrijpende restauratie\nheropende het kasteel in 2023 en fungeert het nu als een dynamisch museum en\nerfgoedsite, met een team van zo’n twintig vaste medewerkers. Binnen deze\nfunctie maak je deel uit van de zakelijke cel en werk je nauw samen met het onthaalteam,\nde gedreven vrijwilligers en gidsen.<br><br>Een greep uit jouw\ngevarieerde takenpakket:</p><ul><li>Je beantwoordt vragen van bezoekers en biedt ondersteuning waar nodig (bijvoorbeeld bij het aanschaffen van tickets aan de verkoopzuilen).</li><li>Je helpt bezoekers de weg te vinden in het kasteel en verleent assistentie bij activiteiten zoals recepties, nocturnes en andere evenementen.</li><li>Na de wettelijke opleiding ondersteun je bij de bewaking van het erfgoed en houd je toezicht in de voor het publiek toegankelijke ruimtes.</li><li>Je verkoopt tickets en museumshopproducten wanneer je niet ingepland bent als bewakingsagent.</li></ul><p>In de jaarlijkse\nsluitingsperiode van het kasteel (van midden november tot eind maart) krijg je\nde kans om je veelzijdigheid te tonen. Afhankelijk van je interesses en de op\ndat moment geldende noden, kun je betrokken worden bij uiteenlopende taken –\nvan kleine onderhoudswerken tot ondersteuning bij documentatie- en\narchiveringsprojecten.<br><br>Beschik je reeds over\nhet attest bewakingsagent? Dan kan je na een positieve prescreening en selectie\nsneller aan de slag als bewakingsagent.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gaasbeek"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19352",
       "internal": false,
       "validThroughDate": "1760227200",
@@ -3466,6 +3326,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19325",
+      "internal": false,
+      "validThroughDate": "1762128000",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19325",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Kind en Gezin teams"
+      },
+      "displayTitle": "Afdelingshoofd Kind en Gezin teams",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij Opgroeien zetten we ons in voor kinderen, jongeren en gezinnen die onze steun het hardst nodig hebben. Als afdelingshoofd Kind en Gezin-teams stuur je 57 lokale teams in Vlaanderen en Brussel aan. Deze teams begeleiden gezinnen vanaf de zwangerschap tot het kind 3 jaar is, met focus op armoedebestrijding, opvoedingsondersteuning, medische preventie en het voorkomen van kindermishandeling.</span></p> <p><span>In deze strategische en verbindende rol zorg je voor een efficiënte werking, stimuleer je samenwerking met lokale partners en geef je richting aan innovatie binnen het agentschap. Heb jij leiderschap, visie en een warm hart voor gezinnen? Dan zoeken wij jou om mee het verschil te maken. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Bij Opgroeien zetten we ons in voor kinderen, jongeren en gezinnen die onze steun het hardst nodig hebben. Als afdelingshoofd Kind en Gezin-teams stuur je 57 lokale teams in Vlaanderen en Brussel aan. Deze teams begeleiden gezinnen vanaf de zwangerschap tot het kind 3 jaar is, met focus op armoedebestrijding, opvoedingsondersteuning, medische preventie en het voorkomen van kindermishandeling.</span></p> <p><span>In deze strategische en verbindende rol zorg je voor een efficiënte werking, stimuleer je samenwerking met lokale partners en geef je richting aan innovatie binnen het agentschap. Heb jij leiderschap, visie en een warm hart voor gezinnen? Dan zoeken wij jou om mee het verschil te maken. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19324",
+      "internal": false,
+      "validThroughDate": "1762128000",
+      "hiringOrganization": "Opgroeien",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19324",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Bovenlokale teams Opgroeien"
+      },
+      "displayTitle": "Afdelingshoofd Bovenlokale teams Opgroeien",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij Opgroeien zetten we ons in voor kinderen, jongeren en gezinnen die onze steun het hardst nodig hebben. Als afdelingshoofd Bovenlokale teams geef je richting aan een afdeling die instaat voor zorggarantie, jeugdbescherming en complexe jeugdhulptrajecten. Je ondersteunt en coördineert, samen met de medewerkers, de werking van Ondersteuningscentra Jeugdzorg, Sociale Diensten Jeugdrechtbank en de Toegangspoort Jeugdhulp, met één doel: veiligheid, continuïteit en kansen garanderen voor elke jongere.</span></p> <p><span>Je bent het inhoudelijk en strategisch aanspreekpunt voor een breed netwerk van partners, van voorzieningen en cliëntenorganisaties tot beleid en justitie. Met jouw leiderschap en visie zorg je ervoor dat de korte- en langetermijndoelstellingen van de afdeling gerealiseerd worden en lever je een directe bijdrage aan de missie van Opgroeien: iedere jongere recht geven op veiligheid, zorg en kansen om te groeien.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Bij Opgroeien zetten we ons in voor kinderen, jongeren en gezinnen die onze steun het hardst nodig hebben. Als afdelingshoofd Bovenlokale teams geef je richting aan een afdeling die instaat voor zorggarantie, jeugdbescherming en complexe jeugdhulptrajecten. Je ondersteunt en coördineert, samen met de medewerkers, de werking van Ondersteuningscentra Jeugdzorg, Sociale Diensten Jeugdrechtbank en de Toegangspoort Jeugdhulp, met één doel: veiligheid, continuïteit en kansen garanderen voor elke jongere.</span></p> <p><span>Je bent het inhoudelijk en strategisch aanspreekpunt voor een breed netwerk van partners, van voorzieningen en cliëntenorganisaties tot beleid en justitie. Met jouw leiderschap en visie zorg je ervoor dat de korte- en langetermijndoelstellingen van de afdeling gerealiseerd worden en lever je een directe bijdrage aan de missie van Opgroeien: iedere jongere recht geven op veiligheid, zorg en kansen om te groeien.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis (Bij-Brussel)"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19322",
       "internal": true,
       "validThroughDate": "1761004800",
@@ -3563,41 +3493,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19303",
-      "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "ILVO Technologie en Voeding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19303",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Onderzoeker Luchtemissies, milieutechnieken en sensortechnologie"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Onderzoeker Luchtemissies, milieutechnieken en sensortechnologie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben je op zoek naar een wetenschappelijke functie met een\nsterke praktische invalshoek en rond een actuele problematiek? Wil je onderdeel\nuitmaken van een dynamisch team van onderzoekers en technici die meewerken aan\nde verdere verduurzaming van onze Vlaamse veehouderij? Dan is deze vacature\nzeker iets voor jou.</p><p>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</p>",
-        "htmlEncoded": "<p>Ben je op zoek naar een wetenschappelijke functie met een\nsterke praktische invalshoek en rond een actuele problematiek? Wil je onderdeel\nuitmaken van een dynamisch team van onderzoekers en technici die meewerken aan\nde verdere verduurzaming van onze Vlaamse veehouderij? Dan is deze vacature\nzeker iets voor jou.</p><p>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
           }
         }
       ]
@@ -3885,6 +3780,76 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19269",
+      "internal": false,
+      "validThroughDate": "1762128000",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19269",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Mestbank"
+      },
+      "displayTitle": "Afdelingshoofd Mestbank",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De Vlaamse Landmaatschappij (VLM) is als Extern Verzelfstandigd Agentschap (EVA) werkzaam in het beleidsdomein Omgeving. De afdeling Mestbank draagt actief bij tot het verbeteren van de bodem-, lucht- en waterkwaliteit in Vlaanderen. Als afdelingshoofd geef je richting aan deze maatschappelijk relevante opdracht door het beleid rond mestwetgeving en het stikstofdecreet strategisch en operationeel te vertalen naar de praktijk.</span></p><p><span> Je stuurt een afdeling met een 170-tal personeelsleden aan en stimuleert samenwerking over diensten en regio’s heen. Je bepaalt prioriteiten op basis van milieurelevantie en beleidskeuzes, en bewaakt de uitvoering binnen vijf centrale werkdomeinen: communicatie, databeheer, controle, sensibilisering en samenwerking.</span></p><p><span> Je bent een ambitieuze bruggenbouwer die inzet op heldere en transparante communicatie, datagedreven werken en proportionele handhaving. Je creëert ruimte voor innovatie, bewaakt het welzijn van je medewerkers en draagt actief bij aan een duurzame landbouw en het versterken van de open ruimte. Daarnaast werk je mee aan het versterken van het vertrouwen in de Mestbank, zodat onze maatschappelijke rol ook extern gedragen en gewaardeerd wordt.</span>&nbsp;</p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>De Vlaamse Landmaatschappij (VLM) is als Extern Verzelfstandigd Agentschap (EVA) werkzaam in het beleidsdomein Omgeving. De afdeling Mestbank draagt actief bij tot het verbeteren van de bodem-, lucht- en waterkwaliteit in Vlaanderen. Als afdelingshoofd geef je richting aan deze maatschappelijk relevante opdracht door het beleid rond mestwetgeving en het stikstofdecreet strategisch en operationeel te vertalen naar de praktijk.</span></p><p><span> Je stuurt een afdeling met een 170-tal personeelsleden aan en stimuleert samenwerking over diensten en regio’s heen. Je bepaalt prioriteiten op basis van milieurelevantie en beleidskeuzes, en bewaakt de uitvoering binnen vijf centrale werkdomeinen: communicatie, databeheer, controle, sensibilisering en samenwerking.</span></p><p><span> Je bent een ambitieuze bruggenbouwer die inzet op heldere en transparante communicatie, datagedreven werken en proportionele handhaving. Je creëert ruimte voor innovatie, bewaakt het welzijn van je medewerkers en draagt actief bij aan een duurzame landbouw en het versterken van de open ruimte. Daarnaast werk je mee aan het versterken van het vertrouwen in de Mestbank, zodat onze maatschappelijke rol ook extern gedragen en gewaardeerd wordt.</span>&nbsp;</p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19267",
+      "internal": false,
+      "validThroughDate": "1761523200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19267",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundige infectieziektebestrijding"
+      },
+      "displayTitle": "Verpleegkundige infectieziektebestrijding",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil je actief bijdragen aan de bescherming van de volksgezondheid en puzzel je graag mee aan de ziektegeschiedenis van een patiënt? Dan is dit jouw kans! Solliciteer snel en word één van onze nieuwe collega’s voor de provincies Oost- en West-Vlaanderen.</div><div>&nbsp;</div><div>Als verpleegkundige infectieziektebestrijding en vaccinatie sta je in de frontlinie van de aanpak van infectieziekten. Jij bent de schakel die ervoor zorgt dat meldingen snel en correct opgevolgd worden. Je neemt contact op met behandelende artsen, CLB-artsen of arbeidsgeneeskundigen en ondersteunt hen én de patiënt of zijn omgeving met deskundig advies om verdere verspreiding te voorkomen. Dat doe je telefonisch, per mail of ter plaatse, bijvoorbeeld tijdens een contactonderzoek bij een tuberculosepatiënt. Dankzij jouw nauwkeurige registratie leg je mee de basis voor het beleid rond infectieziekten en vaccinatieprogramma’s van de toekomst.<br><br>Maar er is meer. Je krijgt ook de kans om mee te bouwen aan projecten en thematische werkgroepen die het meldingsproces slimmer en efficiënter maken. Zo werk je mee aan nieuwe richtlijnen, verdiep je je in de aanpak van specifieke infectieziekten zoals soa’s of scabiës, en help je het digitale infectiedossiersysteem en uitwisselingsplatform met huisartsen, laboratoria en andere partners verder uit te bouwen.<br><br>Kortom: in deze rol combineer je hands-on praktijkwerk met impactvolle projecten die écht het verschil maken voor de samenleving. Daarbovenop mag je rekenen op ruime vormingskansen én een warm team van collega’s.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil je actief bijdragen aan de bescherming van de volksgezondheid en puzzel je graag mee aan de ziektegeschiedenis van een patiënt? Dan is dit jouw kans! Solliciteer snel en word één van onze nieuwe collega’s voor de provincies Oost- en West-Vlaanderen.</div><div>&nbsp;</div><div>Als verpleegkundige infectieziektebestrijding en vaccinatie sta je in de frontlinie van de aanpak van infectieziekten. Jij bent de schakel die ervoor zorgt dat meldingen snel en correct opgevolgd worden. Je neemt contact op met behandelende artsen, CLB-artsen of arbeidsgeneeskundigen en ondersteunt hen én de patiënt of zijn omgeving met deskundig advies om verdere verspreiding te voorkomen. Dat doe je telefonisch, per mail of ter plaatse, bijvoorbeeld tijdens een contactonderzoek bij een tuberculosepatiënt. Dankzij jouw nauwkeurige registratie leg je mee de basis voor het beleid rond infectieziekten en vaccinatieprogramma’s van de toekomst.<br><br>Maar er is meer. Je krijgt ook de kans om mee te bouwen aan projecten en thematische werkgroepen die het meldingsproces slimmer en efficiënter maken. Zo werk je mee aan nieuwe richtlijnen, verdiep je je in de aanpak van specifieke infectieziekten zoals soa’s of scabiës, en help je het digitale infectiedossiersysteem en uitwisselingsplatform met huisartsen, laboratoria en andere partners verder uit te bouwen.<br><br>Kortom: in deze rol combineer je hands-on praktijkwerk met impactvolle projecten die écht het verschil maken voor de samenleving. Daarbovenop mag je rekenen op ruime vormingskansen én een warm team van collega’s.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19265",
       "internal": true,
       "validThroughDate": "1760832000",
@@ -3980,31 +3945,31 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19249",
+      "link": "/Job/cornerstone-19246",
       "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "validThroughDate": "1761609600",
+      "hiringOrganization": "Departement Zorg",
       "reservedForDisability": false,
       "openPositions": 1,
       "degreeLevel": {
         "code": "A",
         "name": "Masterdiploma"
       },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19249",
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19246",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Product owner CRM"
+        "htmlEncoded": "Projectleider boekhouding"
       },
-      "displayTitle": "Product owner CRM",
+      "displayTitle": "Projectleider boekhouding",
       "isProtected": false,
       "description": {
-        "raw": "Ben jij klaar om een sleutelrol te spelen in de digitale transformatie van de Vlaamse overheid? Bij Het Facilitair Bedrijf zoeken we een gedreven Product Owner CRM die mee richting geeft aan klantgerichte, datagedreven dienstverlening.<br><br>Als Product Owner ben jij de brug tussen interne noden en digitale oplossingen. Je analyseert strategische en operationele behoeften, vertaalt deze naar concrete verbetertrajecten en werkt actief mee aan de uitrol en optimalisatie van onze CRM-omgeving. Je zorgt ervoor dat processen slim aansluiten op onze tools en dat collega’s vlot en efficiënt ondersteund worden.<br><br>Je impact is voelbaar: je helpt teams om uniform en doeltreffend met CRM te werken, verhoogt de datakwaliteit, en ondersteunt de organisatie met heldere rapportage en een robuust governance-model. Je denkt mee op beleidsniveau en stimuleert samenwerking over de grenzen van diensten heen.<br><br>We zoeken een sterke communicator en analytische denker met een hart voor gebruiksvriendelijke digitale oplossingen. Je hebt ervaring met CRM-systemen, weet hoe je businessnoden vertaalt naar functionele vereisten, en je werkt gestructureerd en oplossingsgericht. Dankzij jouw helikopterzicht en verbindende aanpak til je onze dienstverlening naar een hoger niveau.<br><br>Maak mee het verschil en bouw mee aan een efficiënte overheid waar mensen én data centraal staan.",
-        "htmlEncoded": "Ben jij klaar om een sleutelrol te spelen in de digitale transformatie van de Vlaamse overheid? Bij Het Facilitair Bedrijf zoeken we een gedreven Product Owner CRM die mee richting geeft aan klantgerichte, datagedreven dienstverlening.<br><br>Als Product Owner ben jij de brug tussen interne noden en digitale oplossingen. Je analyseert strategische en operationele behoeften, vertaalt deze naar concrete verbetertrajecten en werkt actief mee aan de uitrol en optimalisatie van onze CRM-omgeving. Je zorgt ervoor dat processen slim aansluiten op onze tools en dat collega’s vlot en efficiënt ondersteund worden.<br><br>Je impact is voelbaar: je helpt teams om uniform en doeltreffend met CRM te werken, verhoogt de datakwaliteit, en ondersteunt de organisatie met heldere rapportage en een robuust governance-model. Je denkt mee op beleidsniveau en stimuleert samenwerking over de grenzen van diensten heen.<br><br>We zoeken een sterke communicator en analytische denker met een hart voor gebruiksvriendelijke digitale oplossingen. Je hebt ervaring met CRM-systemen, weet hoe je businessnoden vertaalt naar functionele vereisten, en je werkt gestructureerd en oplossingsgericht. Dankzij jouw helikopterzicht en verbindende aanpak til je onze dienstverlening naar een hoger niveau.<br><br>Maak mee het verschil en bouw mee aan een efficiënte overheid waar mensen én data centraal staan."
+        "raw": "<div>Wil jij als projectleider mee je schouders zetten onder een vernieuwend project dat inzet op transparantie en financiële gezondheid in de ouderenzorg? Heb je affiniteit met boekhouding en financieel-economische begrippen zoals rentabiliteit, solvabiliteit en eigen vermogen? Ben je bovendien iemand die graag mensen verbindt, helder communiceert en verantwoordelijkheid opneemt in een coördinerende rol? Dan is deze functie jou op het lijf geschreven!<br><br>Als projectleider krijg je een sleutelrol in het uitrollen van een sectorspecifieke transparante boekhouding in woonzorgcentra. Je werkt mee aan een betaalbare en financieel gezonde ouderenzorg en draagt actief bij aan de visie en strategie van het team. Jouw takenpakket omvat onder andere:</div><ul><li>Implementatie van een transparante boekhouding: Je wordt de projectleider in het project tot uitrol van een sectorspecifieke boekhouding in de ouderenzorg en analyseert de financiële rapportering van voorzieningen. In afstemming met de collega’s die het thema inhoudelijk opvolgen, zet je voor het project de lijnen uit. Je draagt bij aan de digitalisering van de verwante processen en een heldere communicatie naar de sector.</li><li>Uitvoering van maatregelen financiële weerbaarheid: Je werkt mee aan de opvolging van de financiële gezondheid van woonzorgcentra en het verbod op winst op zorg. Je evalueert financiële plannen en zorgt voor een vlotte opvolging.</li><li>Financiële handhaving en toezicht: Je werkt vanuit jouw expertise mee aan de financiële handhavingstrajecten en stemt af met betrokken partijen zoals Zorginspectie en themaverantwoordelijken binnen de afdeling en het team.</li><li>Beleidsontwikkeling en strategische visie: Je denkt actief mee over nieuwe beleidsmaatregelen en regelgeving om de financiële weerbaarheid te verhogen. Je detecteert noden en opportuniteiten, formuleert voorstellen en werkt ze uit in samenwerking met collega’s en stakeholders.<br><br></li></ul><div>Je krijgt de ruimte om je expertise op te bouwen via een brede opleiding bij de start. Daarna krijg je de tijd om je in te werken in jouw thema’s. Van zodra je voldoende kennis hebt opgebouwd, neem je het voortouw in het project rond transparante boekhouding. Je staat er nooit alleen voor: je kan steeds rekenen op de steun van je collega’s en teamverantwoordelijke.<br><br>Waarom solliciteren? Omdat je impact maakt. Je werkt mee aan een maatschappelijk relevant thema en krijgt de kans om echt het verschil te maken in de ouderenzorg!<br><br>'Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij als projectleider mee je schouders zetten onder een vernieuwend project dat inzet op transparantie en financiële gezondheid in de ouderenzorg? Heb je affiniteit met boekhouding en financieel-economische begrippen zoals rentabiliteit, solvabiliteit en eigen vermogen? Ben je bovendien iemand die graag mensen verbindt, helder communiceert en verantwoordelijkheid opneemt in een coördinerende rol? Dan is deze functie jou op het lijf geschreven!<br><br>Als projectleider krijg je een sleutelrol in het uitrollen van een sectorspecifieke transparante boekhouding in woonzorgcentra. Je werkt mee aan een betaalbare en financieel gezonde ouderenzorg en draagt actief bij aan de visie en strategie van het team. Jouw takenpakket omvat onder andere:</div><ul><li>Implementatie van een transparante boekhouding: Je wordt de projectleider in het project tot uitrol van een sectorspecifieke boekhouding in de ouderenzorg en analyseert de financiële rapportering van voorzieningen. In afstemming met de collega’s die het thema inhoudelijk opvolgen, zet je voor het project de lijnen uit. Je draagt bij aan de digitalisering van de verwante processen en een heldere communicatie naar de sector.</li><li>Uitvoering van maatregelen financiële weerbaarheid: Je werkt mee aan de opvolging van de financiële gezondheid van woonzorgcentra en het verbod op winst op zorg. Je evalueert financiële plannen en zorgt voor een vlotte opvolging.</li><li>Financiële handhaving en toezicht: Je werkt vanuit jouw expertise mee aan de financiële handhavingstrajecten en stemt af met betrokken partijen zoals Zorginspectie en themaverantwoordelijken binnen de afdeling en het team.</li><li>Beleidsontwikkeling en strategische visie: Je denkt actief mee over nieuwe beleidsmaatregelen en regelgeving om de financiële weerbaarheid te verhogen. Je detecteert noden en opportuniteiten, formuleert voorstellen en werkt ze uit in samenwerking met collega’s en stakeholders.<br><br></li></ul><div>Je krijgt de ruimte om je expertise op te bouwen via een brede opleiding bij de start. Daarna krijg je de tijd om je in te werken in jouw thema’s. Van zodra je voldoende kennis hebt opgebouwd, neem je het voortouw in het project rond transparante boekhouding. Je staat er nooit alleen voor: je kan steeds rekenen op de steun van je collega’s en teamverantwoordelijke.<br><br>Waarom solliciteren? Omdat je impact maakt. Je werkt mee aan een maatschappelijk relevant thema en krijgt de kans om echt het verschil te maken in de ouderenzorg!<br><br>'Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
       },
       "locations": [
         {
@@ -4060,41 +4025,6 @@
         {
           "address": {
             "city": "Tienen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19236",
-      "internal": true,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19236",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Senior Hoofdmedewerker Vlaamse Handhaving"
-      },
-      "displayTitle": "Senior Hoofdmedewerker Vlaamse Handhaving",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij op zoek naar een uitdagende administratieve functie waarbij je ook coördinerende en inhoudelijke taken krijgt? Heb je een flexibele instelling, neem je graag initiatief en ben je niet gebonden aan een standaard 9-tot-5-mentaliteit? Dan zoeken wij jou! Als senior hoofdmedewerker Handhaving ben jij de spil in het ondersteunen en organiseren van de administratieve processen binnen onze afdeling Vlaamse Handhaving bij het Agentschap Justitie en Handhaving. Samen met twee collega’s zorg jij voor een vlotte uitvoering én coördinatie van de dagelijkse taken.<br> <br> In deze rol bied je niet alleen administratieve en secretariaatsondersteuning, maar neem je ook logistieke taken voor je rekening. Je bent de verbindende schakel tussen het diensthoofd, de inhoudelijke medewerkers en de administratieve ondersteuning die je aanstuurt. Naast het organiseren en coördineren van de administratie, neem je actief deel aan inhoudelijke discussies. Je verwerkt boekhoudkundige dossiers via Orafin en beheert zelfstandig belangrijke langlopende projecten zoals www.arrestendatabank.be, altijd in nauwe samenwerking met het diensthoofd.<br> <br> Daarnaast onderhoud je contact met Vlaamse inspectiediensten om hun opleidingsbehoeften te inventariseren en organiseer je samen met het team passende trainingen en logistieke ondersteuning. Je zorgt ervoor dat binnenkomende vragen aan de afdeling snel bij de juiste personen terechtkomen en bewaakt dat ze tijdig worden beantwoord. Vertrouwelijke informatie verspreid je zorgvuldig volgens de richtlijnen van het diensthoofd en inhoudelijke collega’s.<br> <br> Je beschikt over een goede kennis van het Vlaamse handhavingsbeleid, zowel op bestuurlijk als strafrechtelijk vlak. Dit betekent dat je meedenkt over en ondersteunt bij de ontwikkeling en uitvoering van beleidskaders, zoals het kaderdecreet Vlaamse Handhaving en het nationale veiligheidsplan. Je bent bekend met de coördinatie van strafrechtelijk en veiligheidsbeleid en hebt inzicht in de samenwerking met verschillende partners, zoals het College van procureurs-generaal en federale veiligheidsdiensten. Ook het beheren en verder ontwikkelen van beleidsdomeinoverschrijdende databanken en IT-toepassingen valt binnen jouw takenpakket.<br> <br> Wil jij bijdragen aan een sterke en efficiënte Vlaamse Handhaving? Zoek je een job met een gevarieerd takenpakket binnen een gedreven en deskundig team? Solliciteer dan snel en word onze nieuwe senior hoofdmedewerker Handhaving!<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij op zoek naar een uitdagende administratieve functie waarbij je ook coördinerende en inhoudelijke taken krijgt? Heb je een flexibele instelling, neem je graag initiatief en ben je niet gebonden aan een standaard 9-tot-5-mentaliteit? Dan zoeken wij jou! Als senior hoofdmedewerker Handhaving ben jij de spil in het ondersteunen en organiseren van de administratieve processen binnen onze afdeling Vlaamse Handhaving bij het Agentschap Justitie en Handhaving. Samen met twee collega’s zorg jij voor een vlotte uitvoering én coördinatie van de dagelijkse taken.<br> <br> In deze rol bied je niet alleen administratieve en secretariaatsondersteuning, maar neem je ook logistieke taken voor je rekening. Je bent de verbindende schakel tussen het diensthoofd, de inhoudelijke medewerkers en de administratieve ondersteuning die je aanstuurt. Naast het organiseren en coördineren van de administratie, neem je actief deel aan inhoudelijke discussies. Je verwerkt boekhoudkundige dossiers via Orafin en beheert zelfstandig belangrijke langlopende projecten zoals www.arrestendatabank.be, altijd in nauwe samenwerking met het diensthoofd.<br> <br> Daarnaast onderhoud je contact met Vlaamse inspectiediensten om hun opleidingsbehoeften te inventariseren en organiseer je samen met het team passende trainingen en logistieke ondersteuning. Je zorgt ervoor dat binnenkomende vragen aan de afdeling snel bij de juiste personen terechtkomen en bewaakt dat ze tijdig worden beantwoord. Vertrouwelijke informatie verspreid je zorgvuldig volgens de richtlijnen van het diensthoofd en inhoudelijke collega’s.<br> <br> Je beschikt over een goede kennis van het Vlaamse handhavingsbeleid, zowel op bestuurlijk als strafrechtelijk vlak. Dit betekent dat je meedenkt over en ondersteunt bij de ontwikkeling en uitvoering van beleidskaders, zoals het kaderdecreet Vlaamse Handhaving en het nationale veiligheidsplan. Je bent bekend met de coördinatie van strafrechtelijk en veiligheidsbeleid en hebt inzicht in de samenwerking met verschillende partners, zoals het College van procureurs-generaal en federale veiligheidsdiensten. Ook het beheren en verder ontwikkelen van beleidsdomeinoverschrijdende databanken en IT-toepassingen valt binnen jouw takenpakket.<br> <br> Wil jij bijdragen aan een sterke en efficiënte Vlaamse Handhaving? Zoek je een job met een gevarieerd takenpakket binnen een gedreven en deskundig team? Solliciteer dan snel en word onze nieuwe senior hoofdmedewerker Handhaving!<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4232,41 +4162,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19222",
-      "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19222",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ICT Operations Lead"
-      },
-      "displayTitle": "ICT Operations Lead",
-      "isProtected": false,
-      "description": {
-        "raw": "<strong>Je functie in het kort</strong><br><br>Bij Vloot zijn we op zoek naar een hands-on <strong>ICT Operations Lead</strong>. In deze rol ben je verantwoordelijk voor het dagelijkse beheer en de verdere uitbouw van onze ICT-infrastructuur, verspreid over diverse locaties en schepen. Je stuurt een klein technisch team aan, maar werkt tegelijk zelf actief mee aan het operationeel beheer van servers, netwerken, digitale werkplekken, ...<br><br><strong>Waar kom je terecht?</strong><br><br>VLOOT is een rederij gespecialiseerd in het management van schepen die voornamelijk ingezet worden voor opdrachten van de overheid. We stellen bemande en bedrijfsklare vaartuigen ter beschikking van diverse kustwachtpartners en zorgen daarnaast ook voor reddingsboten, veerboten en schepen voor zeewetenschappelijk onderzoek en hydrografie. VLOOT is bovendien ook verantwoordelijk voor het vervoer van loodsen van en naar zeeschepen, evenals voor de plaatsing en het onderhoud van vaarwegmarkering op de Schelde en op volle zee.<br><br>Als cel ICT ondersteunen we zowel de bemanning aan boord als de medewerkers aan wal in hun dagelijkse digitale werking. We voorzien de technologische brug tussen wal en schip en staan in voor de volledige ICT-infrastructuur die daarvoor nodig is. Dit omvat onder meer twee geografisch gespreide datarooms, een netwerk van schepen met connectiviteit via o.a. wifi, 5G en satellietverbindingen, servers en randapparatuur aan boord, camerabewaking, telefonie en meer.<br><br>Je komt terecht in een klein team bestaande uit een systeembeheerder en een netwerkengineer. Samen vormen jullie het technische hart van de operationele ICT-ondersteuning binnen VLOOT. Waar nodig doen we ook beroep op externe partners voor ondersteuning bij specifieke projecten of technische opdrachten. Je rapporteert rechtstreeks aan de ICT Manager.<br><br><strong>Wat zal je doen?</strong><br><br>Als ICT Operations Lead sta je in voor <strong>het dagelijkse beheer én de technische uitvoering van de ICT-infrastructuur van Vloot.</strong> Je leidt het ICT-operations team, maar steekt zelf ook actief de handen uit de mouwen. In een klein team combineer je technische expertise met teamcoördinatie.<br>Je beheert en onderhoudt de volledige infrastructuur van servers, netwerken, digitale werkplekken, camerabewaking en telefonie – verspreid over diverse sites en aan boord van onze schepen. Je zorgt ervoor dat gebruikers kunnen rekenen op een stabiele, veilige en performante werkomgeving, als ze nu aan wal of aan boord van het schip werken.<br><br>Je voert zelf netwerkpatching, serverconfiguraties en probleemoplossing uit, en je bent het aanspreekpunt bij complexe incidenten. Daarnaast begeleid je infrastructuurprojecten van A tot Z: zo zal je op korte termijn de vervanging van hardware in onze twee datarooms zowel coördineren als technisch uitvoeren.<br><br>Je werkt met technologieën zoals <strong>Windows Server, VMware, Proxmox, Cisco, Intune, Microsoft 365, Azure en Palo Alto</strong>, en behoudt het overzicht over de volledige hybride omgeving. Je zorgt voor duidelijke technische documentatie, waakt over ICT-beveiliging en werkt constructief samen met collega’s, leveranciers en externe partners.<br><br><strong>Wie ben jij?</strong><br><br>We zoeken een teamlead die technisch sterk is, graag initiatief neemt en zich comfortabel voelt in een veelzijdige rol binnen een klein team. Je combineert operationele daadkracht met een goed overzicht.<br><br>Wil je graag nog meer details over de job? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/jobinhoud+in+detail_19222.pdf\">deze link</a>&nbsp;.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "<strong>Je functie in het kort</strong><br><br>Bij Vloot zijn we op zoek naar een hands-on <strong>ICT Operations Lead</strong>. In deze rol ben je verantwoordelijk voor het dagelijkse beheer en de verdere uitbouw van onze ICT-infrastructuur, verspreid over diverse locaties en schepen. Je stuurt een klein technisch team aan, maar werkt tegelijk zelf actief mee aan het operationeel beheer van servers, netwerken, digitale werkplekken, ...<br><br><strong>Waar kom je terecht?</strong><br><br>VLOOT is een rederij gespecialiseerd in het management van schepen die voornamelijk ingezet worden voor opdrachten van de overheid. We stellen bemande en bedrijfsklare vaartuigen ter beschikking van diverse kustwachtpartners en zorgen daarnaast ook voor reddingsboten, veerboten en schepen voor zeewetenschappelijk onderzoek en hydrografie. VLOOT is bovendien ook verantwoordelijk voor het vervoer van loodsen van en naar zeeschepen, evenals voor de plaatsing en het onderhoud van vaarwegmarkering op de Schelde en op volle zee.<br><br>Als cel ICT ondersteunen we zowel de bemanning aan boord als de medewerkers aan wal in hun dagelijkse digitale werking. We voorzien de technologische brug tussen wal en schip en staan in voor de volledige ICT-infrastructuur die daarvoor nodig is. Dit omvat onder meer twee geografisch gespreide datarooms, een netwerk van schepen met connectiviteit via o.a. wifi, 5G en satellietverbindingen, servers en randapparatuur aan boord, camerabewaking, telefonie en meer.<br><br>Je komt terecht in een klein team bestaande uit een systeembeheerder en een netwerkengineer. Samen vormen jullie het technische hart van de operationele ICT-ondersteuning binnen VLOOT. Waar nodig doen we ook beroep op externe partners voor ondersteuning bij specifieke projecten of technische opdrachten. Je rapporteert rechtstreeks aan de ICT Manager.<br><br><strong>Wat zal je doen?</strong><br><br>Als ICT Operations Lead sta je in voor <strong>het dagelijkse beheer én de technische uitvoering van de ICT-infrastructuur van Vloot.</strong> Je leidt het ICT-operations team, maar steekt zelf ook actief de handen uit de mouwen. In een klein team combineer je technische expertise met teamcoördinatie.<br>Je beheert en onderhoudt de volledige infrastructuur van servers, netwerken, digitale werkplekken, camerabewaking en telefonie – verspreid over diverse sites en aan boord van onze schepen. Je zorgt ervoor dat gebruikers kunnen rekenen op een stabiele, veilige en performante werkomgeving, als ze nu aan wal of aan boord van het schip werken.<br><br>Je voert zelf netwerkpatching, serverconfiguraties en probleemoplossing uit, en je bent het aanspreekpunt bij complexe incidenten. Daarnaast begeleid je infrastructuurprojecten van A tot Z: zo zal je op korte termijn de vervanging van hardware in onze twee datarooms zowel coördineren als technisch uitvoeren.<br><br>Je werkt met technologieën zoals <strong>Windows Server, VMware, Proxmox, Cisco, Intune, Microsoft 365, Azure en Palo Alto</strong>, en behoudt het overzicht over de volledige hybride omgeving. Je zorgt voor duidelijke technische documentatie, waakt over ICT-beveiliging en werkt constructief samen met collega’s, leveranciers en externe partners.<br><br><strong>Wie ben jij?</strong><br><br>We zoeken een teamlead die technisch sterk is, graag initiatief neemt en zich comfortabel voelt in een veelzijdige rol binnen een klein team. Je combineert operationele daadkracht met een goed overzicht.<br><br>Wil je graag nog meer details over de job? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/jobinhoud+in+detail_19222.pdf\">deze link</a>&nbsp;.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Oostende"
           }
         }
       ]
@@ -4552,36 +4447,33 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19156",
+      "link": "/Job/cornerstone-19179",
       "internal": false,
-      "validThroughDate": "1759622400",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "validThroughDate": "1762041600",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
       "reservedForDisability": false,
       "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
+      "degreeLevel": null,
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19156",
+      "identifier": "cornerstone-19179",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "VDAB zoekt bemiddelaars voor de aanleg van een werfreserve regio Vilvoorde"
+        "htmlEncoded": "Jurist organisatiebeheersing"
       },
-      "displayTitle": "VDAB zoekt bemiddelaars voor de aanleg van een werfreserve regio Vilvoorde",
+      "displayTitle": "Jurist organisatiebeheersing",
       "isProtected": false,
       "description": {
-        "raw": "<span></span><p dir=\"ltr\"><span>VDAB zoekt enthousiaste en gemotiveerde bemiddelaars om ons team in de regio Vilvoorde te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</span><span>&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. </span><span><br></span><span>De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. </span><span><br></span><span><br></span><span>In de bijlage vind je voor elke pijler apart (Inschatting - Sectorale werking - Intensieve dienstverlening) de informatie en het takenpakket.</span><span><br></span><span><br></span><span>Geen zorgen! Je hoeft zelf nog geen keuze te maken. Dit zal duidelijker worden tijdens het selectiegesprek, zowel voor jou als voor ons.&nbsp;</span></p><span><br><br><br></span><p dir=\"ltr\"><span>👉 Ontdek er alles over (per pijler) in de bijlage. </span></p><div><span><br></span></div>",
-        "htmlEncoded": "<span></span><p dir=\"ltr\"><span>VDAB zoekt enthousiaste en gemotiveerde bemiddelaars om ons team in de regio Vilvoorde te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</span><span>&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. </span><span><br></span><span>De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. </span><span><br></span><span><br></span><span>In de bijlage vind je voor elke pijler apart (Inschatting - Sectorale werking - Intensieve dienstverlening) de informatie en het takenpakket.</span><span><br></span><span><br></span><span>Geen zorgen! Je hoeft zelf nog geen keuze te maken. Dit zal duidelijker worden tijdens het selectiegesprek, zowel voor jou als voor ons.&nbsp;</span></p><span><br><br><br></span><p dir=\"ltr\"><span>👉 Ontdek er alles over (per pijler) in de bijlage. </span></p><div><span><br></span></div>"
+        "raw": "<p>De Vlaamse overheid\nzoekt een Jurist Organisatiebeheersing die de organisatie ondersteunt\nmet juridisch advies en wettelijke conformiteit en zo bijdraagt aan een\nefficiënte en conforme werking van de organisatie.<br><br>- Je analyseert risico’s en kansen rond wettelijke\n     conformiteit en de daarbij horende organisatieprocessen. Daarbij\n     anticipeer je op mogelijke problemen en draag je bij aan het verbeteren\n     van de maturiteit en betrouwbaarheid van de organisatie.<br>- Je ontwikkelt en optimaliseert processen,\n     procedures en werkinstrumenten, zodat collega’s efficiënt en in\n     overeenstemming met de regelgeving kunnen werken.<br>- Je staat in voor kwaliteitsborging:\n     je volgt wijzigingen in de wetgeving nauwgezet op, verwerkt die in interne\n     richtlijnen en instrumenten, en bewaakt de naleving van afspraken en\n     regelgeving.<br>- Je verleent intern juridisch advies      over uiteenlopende rechtsdomeinen, los van gespecialiseerde terreinen\n     zoals overheidsopdrachten of vastgoed.<br>- Je stelt juridische documenten op,\n     zoals organisatie- en delegatiebesluiten, en biedt juridische\n     ondersteuning bij belangrijke veranderingen, bijvoorbeeld personeelsoverdrachten.<br>- Je fungeert als aanspreekpunt en\n     adviseur voor collega’s en management. Daarbij bied je\n     praktijkgerichte oplossingen voor concrete dossiers en begeleid je interne\n     klanten doorheen juridische vraagstukken.</p>",
+        "htmlEncoded": "<p>De Vlaamse overheid\nzoekt een Jurist Organisatiebeheersing die de organisatie ondersteunt\nmet juridisch advies en wettelijke conformiteit en zo bijdraagt aan een\nefficiënte en conforme werking van de organisatie.<br><br>- Je analyseert risico’s en kansen rond wettelijke\n     conformiteit en de daarbij horende organisatieprocessen. Daarbij\n     anticipeer je op mogelijke problemen en draag je bij aan het verbeteren\n     van de maturiteit en betrouwbaarheid van de organisatie.<br>- Je ontwikkelt en optimaliseert processen,\n     procedures en werkinstrumenten, zodat collega’s efficiënt en in\n     overeenstemming met de regelgeving kunnen werken.<br>- Je staat in voor kwaliteitsborging:\n     je volgt wijzigingen in de wetgeving nauwgezet op, verwerkt die in interne\n     richtlijnen en instrumenten, en bewaakt de naleving van afspraken en\n     regelgeving.<br>- Je verleent intern juridisch advies      over uiteenlopende rechtsdomeinen, los van gespecialiseerde terreinen\n     zoals overheidsopdrachten of vastgoed.<br>- Je stelt juridische documenten op,\n     zoals organisatie- en delegatiebesluiten, en biedt juridische\n     ondersteuning bij belangrijke veranderingen, bijvoorbeeld personeelsoverdrachten.<br>- Je fungeert als aanspreekpunt en\n     adviseur voor collega’s en management. Daarbij bied je\n     praktijkgerichte oplossingen voor concrete dossiers en begeleid je interne\n     klanten doorheen juridische vraagstukken.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Vilvoorde"
+            "city": "Brussel"
           }
         }
       ]
@@ -4984,6 +4876,41 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19031",
+      "internal": false,
+      "validThroughDate": "1761350400",
+      "hiringOrganization": "Departement Financiën en Begroting",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19031",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Boekhouder"
+      },
+      "displayTitle": "Boekhouder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><strong>Jij bent iemand die meer ziet dan alleen cijfers</strong></span></p><p><span>&nbsp;</span><span>Cijfers kloppen dankzij jou — maar jij kijkt verder dan de komma’s. Je hebt oog voor detail, denkt analytisch én houdt ervan om processen efficiënter en slimmer te maken. Je haalt energie uit het werken met financiële gegevens, maar ook uit kritisch meedenken en verbeteren.</span></p><p><span>Ervaring is mooi meegenomen, maar jouw motivatie en leergierigheid zijn voor ons doorslaggevend. Je hebt een stevige basis in boekhouding, eventueel aangevuld met een diploma in een economische richting. Je werkt graag in teamverband, zoekt actief de samenwerking op met andere afdelingen en hebt plezier in het analyseren en verbeteren van processen die ertoe doen.</span></p><p><span><b>Op dit moment zijn wij op zoek naar drie nieuwe collega’s. Na je aanstelling kun je terechtkomen in één van de volgende teams. De teamindeling gebeurt op basis van jouw competenties en vaardigheden.</b></span></p><p><span><strong><span>Ontdek in het selectiereglement alles over de drie teams en hun taken!</span></strong></span></p><p><span><em>Klaar om impact te maken?&nbsp;</em>Herken jij jezelf in dit profiel? Solliciteer vandaag nog en geef je carrière in de boekhouding de betekenis en verdieping die je zoekt.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span><strong>Jij bent iemand die meer ziet dan alleen cijfers</strong></span></p><p><span>&nbsp;</span><span>Cijfers kloppen dankzij jou — maar jij kijkt verder dan de komma’s. Je hebt oog voor detail, denkt analytisch én houdt ervan om processen efficiënter en slimmer te maken. Je haalt energie uit het werken met financiële gegevens, maar ook uit kritisch meedenken en verbeteren.</span></p><p><span>Ervaring is mooi meegenomen, maar jouw motivatie en leergierigheid zijn voor ons doorslaggevend. Je hebt een stevige basis in boekhouding, eventueel aangevuld met een diploma in een economische richting. Je werkt graag in teamverband, zoekt actief de samenwerking op met andere afdelingen en hebt plezier in het analyseren en verbeteren van processen die ertoe doen.</span></p><p><span><b>Op dit moment zijn wij op zoek naar drie nieuwe collega’s. Na je aanstelling kun je terechtkomen in één van de volgende teams. De teamindeling gebeurt op basis van jouw competenties en vaardigheden.</b></span></p><p><span><strong><span>Ontdek in het selectiereglement alles over de drie teams en hun taken!</span></strong></span></p><p><span><em>Klaar om impact te maken?&nbsp;</em>Herken jij jezelf in dit profiel? Solliciteer vandaag nog en geef je carrière in de boekhouding de betekenis en verdieping die je zoekt.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
