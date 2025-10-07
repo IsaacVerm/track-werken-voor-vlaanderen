@@ -1,11 +1,81 @@
 {
-  "totalItems": 153,
+  "totalItems": 156,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 152,
+  "lastItemOfPage": 155,
   "items": [
+    {
+      "link": "/Job/vdab-72133251",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72133251",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "tester (Veka) via Vlaanderen connect"
+      },
+      "displayTitle": "tester (Veka) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een tester die niet alleen bugs opspoort, maar ook de gebruikerservaring begrijpt. Iemand die kritisch durft te denken, de juiste vragen stelt en actief zoekt naar wat er beter kan – zelfs als de requirements nog vaag zijn. Je werkt nauw samen met ontwikkelaars, analisten en eindgebruikers om tot het beste resultaat te komen. Testscenario’s opstellen, uitvoeren en bijsturen zit in je vingers – of je leert het snel. Dankzij jouw oog voor detail en nieuwsgierige mindset maken we onze toepassingen elke dag een stukje beter. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als tester ben je verantwoordelijk voor het waarborgen van de kwaliteit van onze softwaretoepassingen. Je voert verschillende soorten tests uit, zoals functionele, integratie- en regressietests, om ervoor te zorgen dat onze producten voldoen aan de hoogste standaarden. Je ontwikkelt gedetailleerde testplannen en zorgt ervoor dat alle testactiviteiten goed gedocumenteerd zijn. Daarnaast werk je aan het automatiseren van tests om de efficiëntie van het testproces te verhogen.</p> \n<p>Je documenteert en rapporteert testresultaten en werkt nauw samen met ontwikkelaars om eventuele problemen op te lossen. Bovendien draag je bij aan de continue verbetering van onze testprocessen en -methoden, zodat we altijd op de hoogte blijven van de nieuwste ontwikkelingen in het vakgebied. </p> \n<p>Je maakt deel uit van projecten, maar levert ook ondersteuning voor bestaande producten en toepassing op basis van de ervaring die je eerder opdeed tijdens die projecten.</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>· Je reviewt specificaties van de nieuwe toepassing en testscenario's. </li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van VEKA</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p> o  de user story volledig en duidelijk is </p> \n<p> o  de opgeleverde functionaliteit de beschreven analyse volgt </p> \n<p> o  de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen </li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die jij of het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> \n<li>Je hebt ervaring met Playwright en Javascrip</li> </ul>",
+        "htmlEncoded": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een tester die niet alleen bugs opspoort, maar ook de gebruikerservaring begrijpt. Iemand die kritisch durft te denken, de juiste vragen stelt en actief zoekt naar wat er beter kan – zelfs als de requirements nog vaag zijn. Je werkt nauw samen met ontwikkelaars, analisten en eindgebruikers om tot het beste resultaat te komen. Testscenario’s opstellen, uitvoeren en bijsturen zit in je vingers – of je leert het snel. Dankzij jouw oog voor detail en nieuwsgierige mindset maken we onze toepassingen elke dag een stukje beter. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als tester ben je verantwoordelijk voor het waarborgen van de kwaliteit van onze softwaretoepassingen. Je voert verschillende soorten tests uit, zoals functionele, integratie- en regressietests, om ervoor te zorgen dat onze producten voldoen aan de hoogste standaarden. Je ontwikkelt gedetailleerde testplannen en zorgt ervoor dat alle testactiviteiten goed gedocumenteerd zijn. Daarnaast werk je aan het automatiseren van tests om de efficiëntie van het testproces te verhogen.</p> \n<p>Je documenteert en rapporteert testresultaten en werkt nauw samen met ontwikkelaars om eventuele problemen op te lossen. Bovendien draag je bij aan de continue verbetering van onze testprocessen en -methoden, zodat we altijd op de hoogte blijven van de nieuwste ontwikkelingen in het vakgebied. </p> \n<p>Je maakt deel uit van projecten, maar levert ook ondersteuning voor bestaande producten en toepassing op basis van de ervaring die je eerder opdeed tijdens die projecten.</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>· Je reviewt specificaties van de nieuwe toepassing en testscenario's. </li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van VEKA</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p> o  de user story volledig en duidelijk is </p> \n<p> o  de opgeleverde functionaliteit de beschreven analyse volgt </p> \n<p> o  de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen </li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die jij of het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> \n<li>Je hebt ervaring met Playwright en Javascrip</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72132887",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72132887",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Ervaren ICT Projectleider (wonen in Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Ervaren ICT Projectleider (wonen in Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</p> \n<p>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</p> \n<p>Jij wordt een medewerker van de ICT-dienst, maar coördineert typisch een (of enkele) multidisciplinair(e) projectteam(s) waarin niet alleen ICT-ers maar ook business medewerkers en dikwijls ook externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan meer dan de helft werkt in applicatieontwikkeling en -onderhoud.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je neemt binnen de afdeling ‘Organisatieondersteuning’ de rol van projectleider (projectcoördinator) op voor één of meer projecten en/of “programma’s”. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 6 tot 18 maanden) met duidelijke scope en timing. Onder “programma” verstaan we een doorlopend initiatief waarbij een gemengd ICT/business team werkt aan de verdere ontwikkeling en het onderhoud van één of meer ‘producten’ (meestal ICT-toepassingen). Jouw rol focust soms op het ICT-gedeelte van een groter project, maar kan ook inhouden dat je end-to-end verantwoordelijk bent voor een project (inclusief aspecten zoals communicatie, opleiding en change management). Als projectleider wordt je waar nodig ondersteund door een product owner, business analist, solution architect en/of testcoördinator.</p> \n<p>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten en/of een correcte organisatie van je programma(‘s). Dit behelst uiteraard de typische project management taken en verantwoordelijkheden: voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc. De stakeholders zijn zowel interne (Wonen in Vlaanderen) stakeholders als externe partijen (zoals bv. woonmaatschappijen, lokale besturen, andere entiteiten binnen de Vlaamse overheid, Digitaal Vlaanderen, externe ICT dienstenleveranciers, …).</p> \n<p>Je rapporteert hiërarchisch aan het diensthoofd ICT en functioneel aan stuurgroepen op niveau directiecomité. </p>",
+        "htmlEncoded": "<p>Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</p> \n<p>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</p> \n<p>Jij wordt een medewerker van de ICT-dienst, maar coördineert typisch een (of enkele) multidisciplinair(e) projectteam(s) waarin niet alleen ICT-ers maar ook business medewerkers en dikwijls ook externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan meer dan de helft werkt in applicatieontwikkeling en -onderhoud.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je neemt binnen de afdeling ‘Organisatieondersteuning’ de rol van projectleider (projectcoördinator) op voor één of meer projecten en/of “programma’s”. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 6 tot 18 maanden) met duidelijke scope en timing. Onder “programma” verstaan we een doorlopend initiatief waarbij een gemengd ICT/business team werkt aan de verdere ontwikkeling en het onderhoud van één of meer ‘producten’ (meestal ICT-toepassingen). Jouw rol focust soms op het ICT-gedeelte van een groter project, maar kan ook inhouden dat je end-to-end verantwoordelijk bent voor een project (inclusief aspecten zoals communicatie, opleiding en change management). Als projectleider wordt je waar nodig ondersteund door een product owner, business analist, solution architect en/of testcoördinator.</p> \n<p>Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten en/of een correcte organisatie van je programma(‘s). Dit behelst uiteraard de typische project management taken en verantwoordelijkheden: voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc. De stakeholders zijn zowel interne (Wonen in Vlaanderen) stakeholders als externe partijen (zoals bv. woonmaatschappijen, lokale besturen, andere entiteiten binnen de Vlaamse overheid, Digitaal Vlaanderen, externe ICT dienstenleveranciers, …).</p> \n<p>Je rapporteert hiërarchisch aan het diensthoofd ICT en functioneel aan stuurgroepen op niveau directiecomité. </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72122980",
       "internal": false,
@@ -3083,7 +3153,7 @@
     {
       "link": "/Job/cornerstone-19378",
       "internal": false,
-      "validThroughDate": "1761955200",
+      "validThroughDate": "1760227200",
       "hiringOrganization": "ILVO Dier 68",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -4914,6 +4984,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18888",
+      "internal": false,
+      "validThroughDate": "1761177600",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18888",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Applicatiebeheerder"
+      },
+      "displayTitle": "Applicatiebeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben je analytisch ingesteld en kijk je kritisch naar de opbouw en gebruiksvriendelijkheid van applicaties? Bedenk je graag oplossingen voor problemen of antwoorden op uitdagingen en is mensen helpen je ding? Als applicatiebeheerder volg je nieuwe ontwikkelingen en aanpassingen in de applicaties op de voet zodat je gebruikers wegwijs kan maken en onmiddellijk kan helpen. Je vangt problemen op via de servicedesk, onderzoekt de problemen en zorgt voor oplossingen.<br></span><span><br>Binnen de afdeling sta je in voor het beheer van de applicaties voor zowel de toelatingsexamens, NT2 en de examencommissie secundair onderwijs. Je gaat in op vragen van gebruikers, beheert parameters, vangt incidenten op, escaleert waar nodig, documenteert en test nieuwe en/of aangepaste functionaliteiten. Daarnaast beheer je het IT-materiaal en geef je advies over de aankoop van nieuwe toestellen.<br></span><span><br>Hiervoor spelen de applicaties een cruciale rol in de activiteiten. Jouw rol is ook heel belangrijk: je ondersteunt de collega’s door te zorgen dat gegevens aanwezig, up-to-date en correct zijn. Gebruikers ondersteun je door te zorgen dat de lichten op groen staan door jouw oog voor detail en jouw reflexen om te checken en te monitoren. Je kan snel inspelen op problemen door je inzicht en je analytisch vermogen. Je slaagt erin om op spannende momenten het hoofd koel te houden, adequaat te reageren en duidelijk te communiceren naar alle betrokkenen. Om jouw rol goed te vervullen, ben je voorbereid, zorg je dat je voortdurend monitort, incidenten en ‘workarounds’ documenteert. Je ondersteunt de collega’s in rechtenbeheer, kennisoverdracht (handleidingen en eventueel opleidingen), installatie van specifieke software, … In de permanente evolutie van de digitalisering, ben je de geknipte persoon om te testen, feedback te geven en een sleutelrol te spelen bij projecten.<br></span><span><br><font color=\"#171717\">Om deze werking optimaal te laten draaien wordt er gewerkt met een permanentiedienst. Dit wil zeggen dat je, op sommige dagen en in onderling overleg met je collega’s, zowel vroeg start als laat kan blijven (tussen 8u en 18u). Daarnaast kan het zijn dat je sporadisch op weekavonden of zaterdagochtend online moet werken.<br></font></span><span><font color=\"#171717\"><br></font>Heeft deze gevarieerde functie jouw aandacht? Wil je deze uitdaging aangaan, laat dan van je horen. Denk je bij jezelf, ik ben geïnteresseerd en ik heb heel veel zin om te leren, maar databanken, SQL, ITIL, Jira, Salesforce, ... daar ken ik weinig van. Aarzel niet, we willen investeren in een kandidaat met de juiste ingesteldheid. Motivatie, nieuwsgierigheid, leren, uitproberen, en vooral durven, dat zijn de kwaliteiten die we zoeken.</span><span>&nbsp;<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Ben je analytisch ingesteld en kijk je kritisch naar de opbouw en gebruiksvriendelijkheid van applicaties? Bedenk je graag oplossingen voor problemen of antwoorden op uitdagingen en is mensen helpen je ding? Als applicatiebeheerder volg je nieuwe ontwikkelingen en aanpassingen in de applicaties op de voet zodat je gebruikers wegwijs kan maken en onmiddellijk kan helpen. Je vangt problemen op via de servicedesk, onderzoekt de problemen en zorgt voor oplossingen.<br></span><span><br>Binnen de afdeling sta je in voor het beheer van de applicaties voor zowel de toelatingsexamens, NT2 en de examencommissie secundair onderwijs. Je gaat in op vragen van gebruikers, beheert parameters, vangt incidenten op, escaleert waar nodig, documenteert en test nieuwe en/of aangepaste functionaliteiten. Daarnaast beheer je het IT-materiaal en geef je advies over de aankoop van nieuwe toestellen.<br></span><span><br>Hiervoor spelen de applicaties een cruciale rol in de activiteiten. Jouw rol is ook heel belangrijk: je ondersteunt de collega’s door te zorgen dat gegevens aanwezig, up-to-date en correct zijn. Gebruikers ondersteun je door te zorgen dat de lichten op groen staan door jouw oog voor detail en jouw reflexen om te checken en te monitoren. Je kan snel inspelen op problemen door je inzicht en je analytisch vermogen. Je slaagt erin om op spannende momenten het hoofd koel te houden, adequaat te reageren en duidelijk te communiceren naar alle betrokkenen. Om jouw rol goed te vervullen, ben je voorbereid, zorg je dat je voortdurend monitort, incidenten en ‘workarounds’ documenteert. Je ondersteunt de collega’s in rechtenbeheer, kennisoverdracht (handleidingen en eventueel opleidingen), installatie van specifieke software, … In de permanente evolutie van de digitalisering, ben je de geknipte persoon om te testen, feedback te geven en een sleutelrol te spelen bij projecten.<br></span><span><br><font color=\"#171717\">Om deze werking optimaal te laten draaien wordt er gewerkt met een permanentiedienst. Dit wil zeggen dat je, op sommige dagen en in onderling overleg met je collega’s, zowel vroeg start als laat kan blijven (tussen 8u en 18u). Daarnaast kan het zijn dat je sporadisch op weekavonden of zaterdagochtend online moet werken.<br></font></span><span><font color=\"#171717\"><br></font>Heeft deze gevarieerde functie jouw aandacht? Wil je deze uitdaging aangaan, laat dan van je horen. Denk je bij jezelf, ik ben geïnteresseerd en ik heb heel veel zin om te leren, maar databanken, SQL, ITIL, Jira, Salesforce, ... daar ken ik weinig van. Aarzel niet, we willen investeren in een kandidaat met de juiste ingesteldheid. Motivatie, nieuwsgierigheid, leren, uitproberen, en vooral durven, dat zijn de kwaliteiten die we zoeken.</span><span>&nbsp;<br></span><span><br>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
