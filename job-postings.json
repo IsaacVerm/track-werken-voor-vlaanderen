@@ -1,11 +1,46 @@
 {
-  "totalItems": 161,
+  "totalItems": 159,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 160,
+  "lastItemOfPage": 158,
   "items": [
+    {
+      "link": "/Job/vdab-72170338",
+      "internal": false,
+      "validThroughDate": "1761868800",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72170338",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Orthopedagoog"
+      },
+      "displayTitle": "Orthopedagoog",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De orthopedagoog maakt deel uit van het multidisciplinair team van forensische zorg 4. Hij/zij vertaalt de zorginhoudelijke beleidskeuzes naar een voor de doelgroep specifiek therapeutisch leefklimaat. Bovendien zet hij/zij behandelinhoudelijk mee de lijnen uit in de aanpak van de bewoners. Hij/zij maakt medewerkers bewust van de werkingsvisie en ondersteunt hen in het zien van mogelijkheden om deze visie concreet vorm te geven in hun dagelijks werk. Daarvoor werkt de orthopedagoog nauw samen met de psychiater, de criminoloog en de psycholoog van de afdeling.</p> \n<p>De orthopedagoog ontwikkelt activiteiten, zoals vorming, om binnen het team de professionele houding en de kennis die daartoe bijdraagt, te bevorderen.</p> \n<p>De orthopedagoog heeft dagelijks contact met de zorgvragers. Op die manier geeft hij/zij vorm aan het therapeutisch klimaat.</p> \n<p>De orthopedagoog neemt deel aan teamvergaderingen, behandelplanbesprekingen en ander zorginhoudelijk begeleidingsoverleg. Verder participeert hij/zij aan familiegesprekken, afdelingsvergaderingen en intervisie.</p> \n<p> </p> \n<p><strong>Competenties</strong></p> \n<ul> \n<li> \n<p>Open staan voor de forensische psychiatrie en de uitdaging zoeken in vooruitgang maar kunnen verdragen dat deze traag gebeurt.</p> </li> \n<li> \n<p>Van nature aan zelfreflectie doen en bereid zijn het eigen denken, handelen en voelen bespreekbaar te maken</p> </li> \n<li> \n<p>Zelfstandig én in team kunnen functioneren, positief ingesteld zijn, stressbestendig, goed kunnen communiceren, kunnen relativeren, humor, een open geest en een brede belangstelling</p> </li> \n<li> \n<p>Groepsdynamische processen binnen het team en binnen de leefgroep kunnen opmerken en duiden.</p> </li> \n<li> \n<p>Structurerende vaardigheden: voorbeeldfunctie naar team en bewoners, bekrachtigen, probleemoplossende vaardigheden, effectief aangeven van grenzen</p> </li> \n<li> \n<p>Kwaliteitsvolle relaties kunnen aangaan met bewoners die kampen met een verstandelijke beperking: warm, respectvol, zorgzaam, enthousiast, echt, op samenwerking gericht en met waardering van de persoonlijke autonomie</p> </li> </ul>",
+        "htmlEncoded": "<p>De orthopedagoog maakt deel uit van het multidisciplinair team van forensische zorg 4. Hij/zij vertaalt de zorginhoudelijke beleidskeuzes naar een voor de doelgroep specifiek therapeutisch leefklimaat. Bovendien zet hij/zij behandelinhoudelijk mee de lijnen uit in de aanpak van de bewoners. Hij/zij maakt medewerkers bewust van de werkingsvisie en ondersteunt hen in het zien van mogelijkheden om deze visie concreet vorm te geven in hun dagelijks werk. Daarvoor werkt de orthopedagoog nauw samen met de psychiater, de criminoloog en de psycholoog van de afdeling.</p> \n<p>De orthopedagoog ontwikkelt activiteiten, zoals vorming, om binnen het team de professionele houding en de kennis die daartoe bijdraagt, te bevorderen.</p> \n<p>De orthopedagoog heeft dagelijks contact met de zorgvragers. Op die manier geeft hij/zij vorm aan het therapeutisch klimaat.</p> \n<p>De orthopedagoog neemt deel aan teamvergaderingen, behandelplanbesprekingen en ander zorginhoudelijk begeleidingsoverleg. Verder participeert hij/zij aan familiegesprekken, afdelingsvergaderingen en intervisie.</p> \n<p> </p> \n<p><strong>Competenties</strong></p> \n<ul> \n<li> \n<p>Open staan voor de forensische psychiatrie en de uitdaging zoeken in vooruitgang maar kunnen verdragen dat deze traag gebeurt.</p> </li> \n<li> \n<p>Van nature aan zelfreflectie doen en bereid zijn het eigen denken, handelen en voelen bespreekbaar te maken</p> </li> \n<li> \n<p>Zelfstandig én in team kunnen functioneren, positief ingesteld zijn, stressbestendig, goed kunnen communiceren, kunnen relativeren, humor, een open geest en een brede belangstelling</p> </li> \n<li> \n<p>Groepsdynamische processen binnen het team en binnen de leefgroep kunnen opmerken en duiden.</p> </li> \n<li> \n<p>Structurerende vaardigheden: voorbeeldfunctie naar team en bewoners, bekrachtigen, probleemoplossende vaardigheden, effectief aangeven van grenzen</p> </li> \n<li> \n<p>Kwaliteitsvolle relaties kunnen aangaan met bewoners die kampen met een verstandelijke beperking: warm, respectvol, zorgzaam, enthousiast, echt, op samenwerking gericht en met waardering van de persoonlijke autonomie</p> </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72156261",
       "internal": false,
@@ -65,8 +100,8 @@
       "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën. </span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën. </span></p>"
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.Het team is samengesteld uit een teamleider, developers, een lead developer, een technisch architect, analisten en testers. De gebruikte technologieën binnen de afdeling zijn Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,..</p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.Het team is samengesteld uit een teamleider, developers, een lead developer, een technisch architect, analisten en testers. De gebruikte technologieën binnen de afdeling zijn Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,..</p>"
       },
       "locations": [
         {
@@ -417,41 +452,6 @@
       "description": {
         "raw": "<p><span>Jouw toekomstige job</span></p> \n<p>Als Product Owner Data ben je mee verantwoordelijk voor het bepalen van de visie, doelen en prioriteiten van de dataproducten en -diensten die door een of meerdere teams worden ontwikkeld en ondersteund.</p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking van een specifiek team, het ter beschikking stellen van nieuwe functionaliteiten binnen bestaande producten, het toekomstgericht opschalen van de producten om te voldoen aan de toekomstige noden en het aanbieden van nieuwe producten. Hiervoor doe je beroep op feedback vanuit de business, maar betrek je ook te gepasten tijde experten op vlak van evoluerende standaarden. Het efficiënt en effectief managen van de teambacklog is een van je hoofdtaken.</p> \n<p>In je rol van Product Owner zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein. Daarenboven zorg je samen met business owners/data owners dat het product voldoet aan de behoeften en verwachtingen van de gebruikers.</p> \n<p>Binnen de dienst data werk je intensief samen met de andere Product Owners en het diensthoofd om alle businessbehoeften af te stemmen en om een gedragen datastrategie doorheen de organisatie te verspreiden</p>",
         "htmlEncoded": "<p><span>Jouw toekomstige job</span></p> \n<p>Als Product Owner Data ben je mee verantwoordelijk voor het bepalen van de visie, doelen en prioriteiten van de dataproducten en -diensten die door een of meerdere teams worden ontwikkeld en ondersteund.</p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking van een specifiek team, het ter beschikking stellen van nieuwe functionaliteiten binnen bestaande producten, het toekomstgericht opschalen van de producten om te voldoen aan de toekomstige noden en het aanbieden van nieuwe producten. Hiervoor doe je beroep op feedback vanuit de business, maar betrek je ook te gepasten tijde experten op vlak van evoluerende standaarden. Het efficiënt en effectief managen van de teambacklog is een van je hoofdtaken.</p> \n<p>In je rol van Product Owner zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein. Daarenboven zorg je samen met business owners/data owners dat het product voldoet aan de behoeften en verwachtingen van de gebruikers.</p> \n<p>Binnen de dienst data werk je intensief samen met de andere Product Owners en het diensthoofd om alle businessbehoeften af te stemmen en om een gedragen datastrategie doorheen de organisatie te verspreiden</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72076889",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72076889",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager Innovatie en Data (ANB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Manager Innovatie en Data (ANB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><em><span>Context – Waar kom je terecht?</span></em></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto</span><span>“Samen voor meer en betere natuur in Vlaanderen”.</span></p> \n<p><span>Je komt terecht bij de</span><span>Cel Digitalisering &amp; Innovatie</span><span>van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Binnen de cel lopen twee strategische programma’s:</span></p> \n<ul type=\"disc\"> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners</span></li> \n<li><span>Smart Nature: het inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Voor deze programma’s zoeken wij een</span><span>Manager Innovatie en Data</span><span>die ons helpt de data- en innovatiestrategie vorm te geven en verder uit te bouwen.</span></p> \n<p><em><span>Doel – Wat zal je doen?</span></em></p> \n<p><span>Binnen deze rol ben je verantwoordelijk voor het opzetten en aansturen van een data- en innovatie-team dat als motor fungeert voor vernieuwing binnen de organisatie. Je ontwikkelt en implementeert een overkoepelende data- en innovatiestrategie die niet alleen nieuwe innovatieve projecten ondersteunt, maar ook de betrouwbaarheid en continuïteit van standaard data-applicaties waarborgt. Zo maak je het mogelijk om natuurbeheer steeds meer te baseren op inzichten uit data door middel van technologie, waardoor beleidskeuzes en operationele beslissingen beter onderbouwd, effectiever en efficiënter worden.</span></p> \n<p><span>Daarnaast geef je richting aan het beleid voor zowel AI-governance als data-governance binnen ANB, zodat nieuwe technologieën op een verantwoorde en transparante manier kunnen worden toegepast. Je neemt de leiding over projecten waarin gebruik wordt gemaakt van geavanceerde technologieën zoals advanced analytics, artificiële intelligentie, Internet of Things (IoT) en de inzet van satelliet-, lucht- en dronebeelden. Deze toepassingen versterken de monitoring, planning en uitvoering van natuurbeheer, waardoor we sneller kunnen inspelen op nieuwe uitdagingen en kansen.</span></p> \n<p><span>Een belangrijk onderdeel van je opdracht is het</span><span>ondersteunen van het programma “Digitale Dienstverlening” en het \n<strong>aansturen van het programma “Smart Nature”</strong>, waarin de hierboven technologieën worden ingezet om natuurbeheer slimmer en efficiënter te maken. Hiermee geef je richting aan de verdere digitalisering en technologische vernieuwing van het natuurbeheer binnen ANB.</span></p> \n<p><span>Je stimuleert actief een cultuur waarin experimenteren, prototyping en iteratieve ontwikkeling centraal staan – van het eerste idee tot en met de implementatie in de praktijk. Daarbij werk je intensief samen met zowel interne als externe stakeholders om innovatieve en duurzame oplossingen te realiseren die bijdragen aan de strategische doelstellingen van ANB en een toekomstbestendig natuurbeheer.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><em><span>Context – Waar kom je terecht?</span></em></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto</span><span>“Samen voor meer en betere natuur in Vlaanderen”.</span></p> \n<p><span>Je komt terecht bij de</span><span>Cel Digitalisering &amp; Innovatie</span><span>van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Binnen de cel lopen twee strategische programma’s:</span></p> \n<ul type=\"disc\"> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners</span></li> \n<li><span>Smart Nature: het inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Voor deze programma’s zoeken wij een</span><span>Manager Innovatie en Data</span><span>die ons helpt de data- en innovatiestrategie vorm te geven en verder uit te bouwen.</span></p> \n<p><em><span>Doel – Wat zal je doen?</span></em></p> \n<p><span>Binnen deze rol ben je verantwoordelijk voor het opzetten en aansturen van een data- en innovatie-team dat als motor fungeert voor vernieuwing binnen de organisatie. Je ontwikkelt en implementeert een overkoepelende data- en innovatiestrategie die niet alleen nieuwe innovatieve projecten ondersteunt, maar ook de betrouwbaarheid en continuïteit van standaard data-applicaties waarborgt. Zo maak je het mogelijk om natuurbeheer steeds meer te baseren op inzichten uit data door middel van technologie, waardoor beleidskeuzes en operationele beslissingen beter onderbouwd, effectiever en efficiënter worden.</span></p> \n<p><span>Daarnaast geef je richting aan het beleid voor zowel AI-governance als data-governance binnen ANB, zodat nieuwe technologieën op een verantwoorde en transparante manier kunnen worden toegepast. Je neemt de leiding over projecten waarin gebruik wordt gemaakt van geavanceerde technologieën zoals advanced analytics, artificiële intelligentie, Internet of Things (IoT) en de inzet van satelliet-, lucht- en dronebeelden. Deze toepassingen versterken de monitoring, planning en uitvoering van natuurbeheer, waardoor we sneller kunnen inspelen op nieuwe uitdagingen en kansen.</span></p> \n<p><span>Een belangrijk onderdeel van je opdracht is het</span><span>ondersteunen van het programma “Digitale Dienstverlening” en het \n<strong>aansturen van het programma “Smart Nature”</strong>, waarin de hierboven technologieën worden ingezet om natuurbeheer slimmer en efficiënter te maken. Hiermee geef je richting aan de verdere digitalisering en technologische vernieuwing van het natuurbeheer binnen ANB.</span></p> \n<p><span>Je stimuleert actief een cultuur waarin experimenteren, prototyping en iteratieve ontwikkeling centraal staan – van het eerste idee tot en met de implementatie in de praktijk. Daarbij werk je intensief samen met zowel interne als externe stakeholders om innovatieve en duurzame oplossingen te realiseren die bijdragen aan de strategische doelstellingen van ANB en een toekomstbestendig natuurbeheer.</span></p>"
       },
       "locations": [
         {
@@ -847,41 +847,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72009929",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "VLAAMSE VERENIGING VOOR ICT-PERSONE",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72009929",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner (DBRC) via Vlaanderen connect"
-      },
-      "displayTitle": "Product Owner (DBRC) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een product owner - analist. Ben jij op zoek naar een nieuwe uitdaging waarbij je als product owner wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong>De functie in het kort</strong></p> \n<p>De functie van product owner – analist komt niet volledig overeen met de functiebeschrijving van product owner zoals gedefinieerd in SCRUM of SAFe. Hoewel de DBRC in de context van projecten een iteratieve aanpak implementeert en daarbij delen van de SCRUM methodologie gebruikt zijn er beperkingen binnen de Vlaamse overheid waardoor volledig ‘Agile’ werken niet mogelijk is. Projecten kunnen slechts aanbesteed worden met een vooraf opgesteld lasten boek en goedgekeurd worden met een duidelijke beschreven budget. Binnen deze condities werkt de DBRC echter wel met een geprioriteerde backlog en iteratieve uitvoering op basis van voortschrijdend inzicht. Als Product owner – analyst focus je je op:</p> \n<p>Het in samenwerking met de proces owners in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. De product owner is verantwoordelijk voor het verder uitwerken de businesscases in project vereisten en vervolgens te implementeren stories. Omdat de DBRC slechts een klein ICT team heeft worden op basis van de vereisten partners gezocht om de vereisten te implementeren, de product owner speelt een actieve rol in het opstellen van, het inhoudelijke deel, van de contracten met deze partners. Na het uitbesteden van de werkzaamheden is de product owner verantwoordelijk voor de verdere (inhoudelijke) opvolgen van het implementeren van de stories door de gekozen partner en het uiteindelijk accepteren van de oplossing. Nauwe samenwerking met de projectleider maar vooral de functioneel analisten van de partners alsook de testers van de partners en UAT testers van de DBRC is daarvoor absoluut noodzakelijk. Deze rol fungeert als brug tussen de business en ICT partners en vormt de basis voor het ontwikkelen van maatwerkoplossingen die aansluiten bij de behoeften van de organisatie.</p> \n<p>Daarnaast is de product owner samen met de applicatie beheerder verantwoordelijk voor het optimale gebruik en evolutie van het applicatie landschap. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</p>",
-        "htmlEncoded": "<p>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een product owner - analist. Ben jij op zoek naar een nieuwe uitdaging waarbij je als product owner wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong>De functie in het kort</strong></p> \n<p>De functie van product owner – analist komt niet volledig overeen met de functiebeschrijving van product owner zoals gedefinieerd in SCRUM of SAFe. Hoewel de DBRC in de context van projecten een iteratieve aanpak implementeert en daarbij delen van de SCRUM methodologie gebruikt zijn er beperkingen binnen de Vlaamse overheid waardoor volledig ‘Agile’ werken niet mogelijk is. Projecten kunnen slechts aanbesteed worden met een vooraf opgesteld lasten boek en goedgekeurd worden met een duidelijke beschreven budget. Binnen deze condities werkt de DBRC echter wel met een geprioriteerde backlog en iteratieve uitvoering op basis van voortschrijdend inzicht. Als Product owner – analyst focus je je op:</p> \n<p>Het in samenwerking met de proces owners in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. De product owner is verantwoordelijk voor het verder uitwerken de businesscases in project vereisten en vervolgens te implementeren stories. Omdat de DBRC slechts een klein ICT team heeft worden op basis van de vereisten partners gezocht om de vereisten te implementeren, de product owner speelt een actieve rol in het opstellen van, het inhoudelijke deel, van de contracten met deze partners. Na het uitbesteden van de werkzaamheden is de product owner verantwoordelijk voor de verdere (inhoudelijke) opvolgen van het implementeren van de stories door de gekozen partner en het uiteindelijk accepteren van de oplossing. Nauwe samenwerking met de projectleider maar vooral de functioneel analisten van de partners alsook de testers van de partners en UAT testers van de DBRC is daarvoor absoluut noodzakelijk. Deze rol fungeert als brug tussen de business en ICT partners en vormt de basis voor het ontwikkelen van maatwerkoplossingen die aansluiten bij de behoeften van de organisatie.</p> \n<p>Daarnaast is de product owner samen met de applicatie beheerder verantwoordelijk voor het optimale gebruik en evolutie van het applicatie landschap. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71991907",
       "internal": false,
       "validThroughDate": "-1",
@@ -982,41 +947,6 @@
         {
           "address": {
             "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71969334",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71969334",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel applicatiebeheerder (DBRC) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel applicatiebeheerder (DBRC) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een functioneel applicatiebeheerder. Ben jij op zoek naar een nieuwe uitdaging waarbij je als functioneel applicatiebeheerder wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Als functioneel applicatie beheerder ben je verantwoordelijk voor het ondersteunen, beheren en optimaliseren van de verschillende applicaties binnen de DBRC en je bewaakt de functionaliteiten die de business nodig heeft. Je werkt als schakel tussen de verschillende units en je werkt met het oog op de geformuleerde operationele doelstellingen. Als functioneel beheerder focus je je op:</span></p> \n<p><span>Het continue verbeteren van het gebruik en de bruikbaarheid van de DBRC applicaties door de business gebruikers. Dit door het reactief opvolgen en oplossen van incidenten en problemen in eerste en tweede lijn en waar nodig documenteren en doorsturen naar de derde lijn (applicatie development). Nauwe samenwerking met de ICT-beheerder die de business ondersteunt in het gebruik van en problemen met de (client) hardware is hierbij van groot belang. Verder wordt er van de functioneel applicatie beheerder verwacht dat hij/zij de business ondersteunt in het schrijven van rapporten op basis van grondige kennis van de applicatie data. Ook wordt er een pro-actieve inbreng verwacht in het uitbreiden van het datawarehouse, rapportages en monitoring, niet enkel om de business direct te ondersteunen maar ook om suboptimaal en incorrect gebruik van procedures en applicaties te detecteren en op basis daarvan verbeteringen voor te stellen. Het trainen van, nieuwe en bestaande, gebruikers in het optimaal gebruik van de applicaties zal niet enkel beter getrainde business gebruikers tot gevolg moeten hebben maar ook een steeds beter inzicht van de applicatie beheerder in het werkelijk gebruik van de applicatie door de business, op basis waarvan eventuele verbeteringen kunnen worden voorgesteld en doorgevoerd.</span></p> \n<p><span>Het wordt van de applicatie beheerder verwacht dat hij/zij na een inwerk periode om voor kleinere wijzigingen in staat is de configuratie van de applicaties zelfstandig aan te passen en/of de nodige aanpassingen correct te beschrijven voor de derde lijn. Dit natuurlijk in nauwe afstemming met de business gebruikers en de overige mensen van het ICT-team zoals de product owner en de Enterprise Architect. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Bij de Dienst van de Bestuursrechtscolleges (DBRC) van de Vlaamse Overheid zoeken we een functioneel applicatiebeheerder. Ben jij op zoek naar een nieuwe uitdaging waarbij je als functioneel applicatiebeheerder wil meewerken aan de verdere digitalisering van de DBRC dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Als functioneel applicatie beheerder ben je verantwoordelijk voor het ondersteunen, beheren en optimaliseren van de verschillende applicaties binnen de DBRC en je bewaakt de functionaliteiten die de business nodig heeft. Je werkt als schakel tussen de verschillende units en je werkt met het oog op de geformuleerde operationele doelstellingen. Als functioneel beheerder focus je je op:</span></p> \n<p><span>Het continue verbeteren van het gebruik en de bruikbaarheid van de DBRC applicaties door de business gebruikers. Dit door het reactief opvolgen en oplossen van incidenten en problemen in eerste en tweede lijn en waar nodig documenteren en doorsturen naar de derde lijn (applicatie development). Nauwe samenwerking met de ICT-beheerder die de business ondersteunt in het gebruik van en problemen met de (client) hardware is hierbij van groot belang. Verder wordt er van de functioneel applicatie beheerder verwacht dat hij/zij de business ondersteunt in het schrijven van rapporten op basis van grondige kennis van de applicatie data. Ook wordt er een pro-actieve inbreng verwacht in het uitbreiden van het datawarehouse, rapportages en monitoring, niet enkel om de business direct te ondersteunen maar ook om suboptimaal en incorrect gebruik van procedures en applicaties te detecteren en op basis daarvan verbeteringen voor te stellen. Het trainen van, nieuwe en bestaande, gebruikers in het optimaal gebruik van de applicaties zal niet enkel beter getrainde business gebruikers tot gevolg moeten hebben maar ook een steeds beter inzicht van de applicatie beheerder in het werkelijk gebruik van de applicatie door de business, op basis waarvan eventuele verbeteringen kunnen worden voorgesteld en doorgevoerd.</span></p> \n<p><span>Het wordt van de applicatie beheerder verwacht dat hij/zij na een inwerk periode om voor kleinere wijzigingen in staat is de configuratie van de applicaties zelfstandig aan te passen en/of de nodige aanpassingen correct te beschrijven voor de derde lijn. Dit natuurlijk in nauwe afstemming met de business gebruikers en de overige mensen van het ICT-team zoals de product owner en de Enterprise Architect. De focus van de applicatie beheerder is het optimaliseren van het gebruik van de bestaande applicatie en waar nodig de aanpassing middels kleine verbeteringen (enhancements). De focus van de product owner is het in kaart brengen van toekomstige (grotere) aanpassingen en uitbreidingen van het landschap en samen met de programma manager verzorgen van het uitvoeren van deze aanpassingen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
