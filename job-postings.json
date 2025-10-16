@@ -1,10 +1,10 @@
 {
-  "totalItems": 158,
+  "totalItems": 153,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 157,
+  "lastItemOfPage": 152,
   "items": [
     {
       "link": "/Job/vdab-72204307",
@@ -1057,41 +1057,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71963757",
-      "internal": false,
-      "validThroughDate": "1760486400",
-      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71963757",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "statisticus voor de Meetnetten Natuurlijk Milieu"
-      },
-      "displayTitle": "statisticus voor de Meetnetten Natuurlijk Milieu",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Je takenpakket</strong></p> \n<p>Als statisticus voor de Meetnetten Natuurlijk Milieu (MNM) draag je bij aan de monitoring van het natuurlijk milieu en de natuur in het kader van de programmatische aanpak stikstof (PAS; https://www.omgeving.vlaanderen.be/pas), de zogenaamde PAS-effectmonitoring. Hiermee brengen we de toestand en trend in beeld van stikstofgerelateerde kenmerken van het milieu en natuurkwaliteit in beschermde natuurtypes, op niveau Vlaanderen en de PAS-maatwerkgebieden. De monitoringsresultaten dienen ter onderbouwing en evaluatie van het stikstof- en natuurbeleid. De meetnetten die voor de monitoring worden ontwikkeld, worden stelselmatig uitgerold in het grondwater, het oppervlaktewater en de bodem. De PAS-effectmonitoring steunt op de Meetnetten Natuurlijk Milieu en geeft er een gedeeltelijke uitvoering aan.</p> \n<p>Als statisticus MNM ontwikkel en optimaliseer je de steekproefopzet, inferentiemethoden en indicatoren en je voert verklarende statistische analyses uit voor de PAS-effectmonitoring en de MNM.</p> \n<p> Je voert je werk uit in samenwerking en afstemming met je collega’s van team MNM en betrokken INBO-collega’s.</p> \n<p>Meer specifiek omvat je takenpakket volgende taken:</p> \n<ul> \n<li>Verdiepen van theoretische kennis, praktijk aan theorie toetsen, en conceptueel verbeteren van steekproefopzet, inferentiemethoden en indicatoren</li> \n<li> Ontwikkelen of optimaliseren van de concrete steekproefaanpak voor de meetnetten </li> \n<li>Toepassen van inferentiemethoden en uitvoeren van verklarende statistische analysen</li> \n<li>Bijdragen aan het rapportageproces, samen met de rest van het team</li> \n<li>Verzekeren en verhogen van de kwaliteit van het monitoringsproces, samen met de rest van het team</li> \n<li>Actief samenwerken met collega’s binnen en buiten het team, waarbij je aandacht besteedt aan ieders welzijn</li> \n<li>Bijdragen aan de kennisopbouw van INBO</li> </ul> \n<p> </p> \n<p>Meer details kan je in het bijgevoegde selectiereglement vinden.</p>",
-        "htmlEncoded": "<p><strong>Je takenpakket</strong></p> \n<p>Als statisticus voor de Meetnetten Natuurlijk Milieu (MNM) draag je bij aan de monitoring van het natuurlijk milieu en de natuur in het kader van de programmatische aanpak stikstof (PAS; https://www.omgeving.vlaanderen.be/pas), de zogenaamde PAS-effectmonitoring. Hiermee brengen we de toestand en trend in beeld van stikstofgerelateerde kenmerken van het milieu en natuurkwaliteit in beschermde natuurtypes, op niveau Vlaanderen en de PAS-maatwerkgebieden. De monitoringsresultaten dienen ter onderbouwing en evaluatie van het stikstof- en natuurbeleid. De meetnetten die voor de monitoring worden ontwikkeld, worden stelselmatig uitgerold in het grondwater, het oppervlaktewater en de bodem. De PAS-effectmonitoring steunt op de Meetnetten Natuurlijk Milieu en geeft er een gedeeltelijke uitvoering aan.</p> \n<p>Als statisticus MNM ontwikkel en optimaliseer je de steekproefopzet, inferentiemethoden en indicatoren en je voert verklarende statistische analyses uit voor de PAS-effectmonitoring en de MNM.</p> \n<p> Je voert je werk uit in samenwerking en afstemming met je collega’s van team MNM en betrokken INBO-collega’s.</p> \n<p>Meer specifiek omvat je takenpakket volgende taken:</p> \n<ul> \n<li>Verdiepen van theoretische kennis, praktijk aan theorie toetsen, en conceptueel verbeteren van steekproefopzet, inferentiemethoden en indicatoren</li> \n<li> Ontwikkelen of optimaliseren van de concrete steekproefaanpak voor de meetnetten </li> \n<li>Toepassen van inferentiemethoden en uitvoeren van verklarende statistische analysen</li> \n<li>Bijdragen aan het rapportageproces, samen met de rest van het team</li> \n<li>Verzekeren en verhogen van de kwaliteit van het monitoringsproces, samen met de rest van het team</li> \n<li>Actief samenwerken met collega’s binnen en buiten het team, waarbij je aandacht besteedt aan ieders welzijn</li> \n<li>Bijdragen aan de kennisopbouw van INBO</li> </ul> \n<p> </p> \n<p>Meer details kan je in het bijgevoegde selectiereglement vinden.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71954961",
       "internal": false,
       "validThroughDate": "-1",
@@ -1572,41 +1537,6 @@
       "description": {
         "raw": "<p><span>Bij Het Facilitair Bedrijf (HFB) zijn we voor Team Tint (Team ICT, netwerk &amp; Telecommunicatie) op zoek naar 0365 &amp; SharePoint specialist die mee zal instaan voor het </span><span>beheer van de SharePoint en Teams omgeving</span><span> van Het Facilitair Bedrijf inclusief licentiebeheer en bijhorende administratie. \n<br> \n<br> Onze nieuwe 0365 &amp; SharePoint specialist verzorgt samen met de huidige O365 &amp; SharePoint collega’s de ondersteuning en aanmaak van Microsoft SharePoint &amp; Teams omgevingen inclusief de analyse van businessprocessen in nauwe samenwerking met het informatiebeheerteam. Hij neemt de ondersteuning, analyse en ontwikkeling van SharePoint (power) applicaties op zich. \n<br> \n<br> Het geven van opleidingen met als scope een specifiek project of functionaliteit binnen 0365 behoort eveneens tot het takenpakket.</span></p> \n<p><span>Het verder ontwikkelen van de visie en strategische keuzes m.b.t. het O365 platform zijn ook jou deel en tenslotte denk je mee en ga je actief mee op zoek naar mogelijk verbeteringen en evoluties binnen jou domein.</span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als 0365 &amp; SharePoint specialist zal je samen met de huidige O365 &amp; SharePoint collega’s vooral instaan voor het </span><span>algemeen beheer van de SharePoint en Teams omgeving, voor de onder</span><span>steuning en aanmaak van Microsoft SharePoint Teams omgevingen inclusief de analyse van businessprocessen in nauwe samenwerking met het informatiebeheerteam. Het correct d</span><span>ocumenteren van de businessprocessen en applicaties zijn hierbij essentieel. </span></p> \n<p> </p> \n<p><span>Je kan werken met ShareGate inclusief rapportering SharePoint sites &amp; site collecties, rapportering en onderhoud van bestaande rechtenstructuur. </span></p> \n<p><span><br> Je werkt mee aan de analyse en ontwikkeling van SharePoint (power) applicaties. Nintes workflow &amp; Forms, Power Automate, Power Apps, Powershell en de out-of-the-box- functionaliteiten van SharePoint zijn termen die jou als muziek in de oren klinken. \n<br> \n<br> Het geven van opleidingen met als scope een specifiek project of functionaliteit binnen 0365 behoort eveneens tot het takenpakket van onze 0365 &amp; SharePoint specialisten. Hierbij schrijf je ook kennisdatabase artikelen en scripts voor onze interne eerstelijns servicedesk.</span></p> \n<p> </p> \n<p><span>Je werkt mee aan het verder ontwikkelen van de visie en strategische keuzes m.b.t. het O365 platform en tenslotte denk je mee en ga je actief op zoek naar mogelijk verbeteringen en evoluties binnen jou domein waarbij nauw contact en overleg met je stakeholders een evidentie zijn.</span></p> \n<p><span><br> Je krijgt de unieke kans om samen te werken met een diverse groep van interne teams en externe stakeholders. Je kan op die manier een grote impact hebben op de toekomstige dienstverlening van Het Facilitair Bedrijf.</span></p> \n<p><span>Je rapporteert aan het Teamhoofd binnen het team TINT en begeleid de interne en externe projectleiders van de gerelateerde projecten. Verder werk je nauw samen met alle belanghebbenden (externe leverancier(s), interne klanten, specifieke ICT-dienstverleners, etc.).</span><span>Je onderhoudt ook de contacten met relevante interne en externe organisaties.</span></p> \n<p><span>Je taken zijn volledig in lijn met de taken die beschreven zijn in de profielbeschrijving van een ICT Product Owner beschreven</span><span>in de sleutelfunctie van Vlaanderen Connect</span></p>",
         "htmlEncoded": "<p><span>Bij Het Facilitair Bedrijf (HFB) zijn we voor Team Tint (Team ICT, netwerk &amp; Telecommunicatie) op zoek naar 0365 &amp; SharePoint specialist die mee zal instaan voor het </span><span>beheer van de SharePoint en Teams omgeving</span><span> van Het Facilitair Bedrijf inclusief licentiebeheer en bijhorende administratie. \n<br> \n<br> Onze nieuwe 0365 &amp; SharePoint specialist verzorgt samen met de huidige O365 &amp; SharePoint collega’s de ondersteuning en aanmaak van Microsoft SharePoint &amp; Teams omgevingen inclusief de analyse van businessprocessen in nauwe samenwerking met het informatiebeheerteam. Hij neemt de ondersteuning, analyse en ontwikkeling van SharePoint (power) applicaties op zich. \n<br> \n<br> Het geven van opleidingen met als scope een specifiek project of functionaliteit binnen 0365 behoort eveneens tot het takenpakket.</span></p> \n<p><span>Het verder ontwikkelen van de visie en strategische keuzes m.b.t. het O365 platform zijn ook jou deel en tenslotte denk je mee en ga je actief mee op zoek naar mogelijk verbeteringen en evoluties binnen jou domein.</span></p> \n<p><strong><span>Wat zal je moeten doen?</span></strong></p> \n<p><span>Als 0365 &amp; SharePoint specialist zal je samen met de huidige O365 &amp; SharePoint collega’s vooral instaan voor het </span><span>algemeen beheer van de SharePoint en Teams omgeving, voor de onder</span><span>steuning en aanmaak van Microsoft SharePoint Teams omgevingen inclusief de analyse van businessprocessen in nauwe samenwerking met het informatiebeheerteam. Het correct d</span><span>ocumenteren van de businessprocessen en applicaties zijn hierbij essentieel. </span></p> \n<p> </p> \n<p><span>Je kan werken met ShareGate inclusief rapportering SharePoint sites &amp; site collecties, rapportering en onderhoud van bestaande rechtenstructuur. </span></p> \n<p><span><br> Je werkt mee aan de analyse en ontwikkeling van SharePoint (power) applicaties. Nintes workflow &amp; Forms, Power Automate, Power Apps, Powershell en de out-of-the-box- functionaliteiten van SharePoint zijn termen die jou als muziek in de oren klinken. \n<br> \n<br> Het geven van opleidingen met als scope een specifiek project of functionaliteit binnen 0365 behoort eveneens tot het takenpakket van onze 0365 &amp; SharePoint specialisten. Hierbij schrijf je ook kennisdatabase artikelen en scripts voor onze interne eerstelijns servicedesk.</span></p> \n<p> </p> \n<p><span>Je werkt mee aan het verder ontwikkelen van de visie en strategische keuzes m.b.t. het O365 platform en tenslotte denk je mee en ga je actief op zoek naar mogelijk verbeteringen en evoluties binnen jou domein waarbij nauw contact en overleg met je stakeholders een evidentie zijn.</span></p> \n<p><span><br> Je krijgt de unieke kans om samen te werken met een diverse groep van interne teams en externe stakeholders. Je kan op die manier een grote impact hebben op de toekomstige dienstverlening van Het Facilitair Bedrijf.</span></p> \n<p><span>Je rapporteert aan het Teamhoofd binnen het team TINT en begeleid de interne en externe projectleiders van de gerelateerde projecten. Verder werk je nauw samen met alle belanghebbenden (externe leverancier(s), interne klanten, specifieke ICT-dienstverleners, etc.).</span><span>Je onderhoudt ook de contacten met relevante interne en externe organisaties.</span></p> \n<p><span>Je taken zijn volledig in lijn met de taken die beschreven zijn in de profielbeschrijving van een ICT Product Owner beschreven</span><span>in de sleutelfunctie van Vlaanderen Connect</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71575782",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71575782",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectleider marktonderzoek (Departement Mobiliteit & Openbare Werken) via Vlaanderen Connect"
-      },
-      "displayTitle": "Projectleider marktonderzoek (Departement Mobiliteit & Openbare Werken) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken</span><span> doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Het Departement MOW staat voor een duurzame ontwikkeling van de mobiliteit in Vlaanderen. Het realiseert heel wat projecten en biedt daarnaast beleidsondersteuning op het vlak van mobiliteit, verkeersveiligheid, investeringen, beheer en exploitatie van de transport- en de haveninfrastructuur.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit</span><span>én voor de hedendaagse wegen- en (lucht)haveninfrastructuur. We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen. Samen hebben we</span><span>één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</span></p> \n<p><span>De functie van projectleider marktonderzoek situeert zich binnen de afdeling beleid van het departement MOW. </span><span>Deze afdeling zet expertise in personen- en goederenvervoer in om vorm te geven aan een duurzaam en onderbouwd mobiliteits- en infrastructuurbeleid. Ze doet dat samen met de agentschappen, andere overheden en belanghebbenden. De afdeling speelt in op nieuwe trends en ontwikkelingen, en doet aan onderzoek. Ze formuleert een langetermijnvisie voor de mobiliteit en de infrastructuur, die ze vertaalt in realiseerbare projecten. De afdeling Beleid volgt ook de uitvoering van het beleid op.</span></p> \n<p><span>De afdeling heeft een zetel te Brussel, Leuven, Hasselt, Brugge, Antwerpen en Gent waar ongeveer 115 personen tewerkgesteld zijn.</span></p> \n<p><span>Je komt terecht in het team Data en Verkeersmodellen. Dit team ondersteunt de data gedreven werking van de afdeling. Het bestaat uit een zestiental personen, waarvan er een vijftal bezig zijn met het ondersteunen van beleidsmedewerkers rond datamonitoring, data-analyse, marktonderzoek, opmaak van dashboards en het opnemen van nieuwe-data-initiatieven.</span></p> \n<p><strong>Doel</strong></p> \n<p><span>Als projectleider marktonderzoek</span><span> heb je een ondersteunende rol ten aanzien van de organisatie. Samen met andere projectleiders krijg je een aantal dataprojecten toegewezen, waaronder OVG waar je een coördinerende rol krijgt.</span></p> \n<ul type=\"disc\"> \n<li><span>Projectleider Onderzoek Verplaatsingsgedrag (OVG)</span></li> </ul> \n<ul type=\"disc\"> \n<li><span>Aanspreekpunt</span><span> voor de</span><span>rest van de afdeling rond</span><span>marktonderzoeken: advies wat bestaat, wat is mogelijk, nagaan welke analyses nodig,…</span></li> \n<li><span>Datagovernance</span></li> \n<ul type=\"disc\"> \n<li><span>Vinger aan de pols houden:</span><span> inventaris bestaande marktonderzoeken</span><span>rond mobiliteit en logistiek in Vlaanderen (intern en extern) vb stadsmonitor, social study,</span><span>…</span><span>en visievorming positie eigen onderzoeken + opportuniteiten ontdekken en grijpen</span></li> \n<li><span>data opvragen bij leveranciers</span><span>voor dashboards en verkeersmodellen: contacten leveranciers en DPO, zorgen voor NDA, vertrouwelijkheidscontracten voor data die nodig zijn voor het monitoren van de mobiliteitstoestand in Vlaanderen, of voor beleidsanalyses of voor de ontwikkeling van verkeersmodellen</span></li> </ul> \n<li><span>Actualiseren van MOMO voor een aantal aan jou toegewezen indicatoren</span></li> </ul>",
-        "htmlEncoded": "<p><span>Het </span><span>Departement Mobiliteit en Openbare Werken</span><span> doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</span></p> \n<p><span>Het Departement MOW staat voor een duurzame ontwikkeling van de mobiliteit in Vlaanderen. Het realiseert heel wat projecten en biedt daarnaast beleidsondersteuning op het vlak van mobiliteit, verkeersveiligheid, investeringen, beheer en exploitatie van de transport- en de haveninfrastructuur.</span></p> \n<p><span>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit</span><span>én voor de hedendaagse wegen- en (lucht)haveninfrastructuur. We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen. Samen hebben we</span><span>één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</span></p> \n<p><span>De functie van projectleider marktonderzoek situeert zich binnen de afdeling beleid van het departement MOW. </span><span>Deze afdeling zet expertise in personen- en goederenvervoer in om vorm te geven aan een duurzaam en onderbouwd mobiliteits- en infrastructuurbeleid. Ze doet dat samen met de agentschappen, andere overheden en belanghebbenden. De afdeling speelt in op nieuwe trends en ontwikkelingen, en doet aan onderzoek. Ze formuleert een langetermijnvisie voor de mobiliteit en de infrastructuur, die ze vertaalt in realiseerbare projecten. De afdeling Beleid volgt ook de uitvoering van het beleid op.</span></p> \n<p><span>De afdeling heeft een zetel te Brussel, Leuven, Hasselt, Brugge, Antwerpen en Gent waar ongeveer 115 personen tewerkgesteld zijn.</span></p> \n<p><span>Je komt terecht in het team Data en Verkeersmodellen. Dit team ondersteunt de data gedreven werking van de afdeling. Het bestaat uit een zestiental personen, waarvan er een vijftal bezig zijn met het ondersteunen van beleidsmedewerkers rond datamonitoring, data-analyse, marktonderzoek, opmaak van dashboards en het opnemen van nieuwe-data-initiatieven.</span></p> \n<p><strong>Doel</strong></p> \n<p><span>Als projectleider marktonderzoek</span><span> heb je een ondersteunende rol ten aanzien van de organisatie. Samen met andere projectleiders krijg je een aantal dataprojecten toegewezen, waaronder OVG waar je een coördinerende rol krijgt.</span></p> \n<ul type=\"disc\"> \n<li><span>Projectleider Onderzoek Verplaatsingsgedrag (OVG)</span></li> </ul> \n<ul type=\"disc\"> \n<li><span>Aanspreekpunt</span><span> voor de</span><span>rest van de afdeling rond</span><span>marktonderzoeken: advies wat bestaat, wat is mogelijk, nagaan welke analyses nodig,…</span></li> \n<li><span>Datagovernance</span></li> \n<ul type=\"disc\"> \n<li><span>Vinger aan de pols houden:</span><span> inventaris bestaande marktonderzoeken</span><span>rond mobiliteit en logistiek in Vlaanderen (intern en extern) vb stadsmonitor, social study,</span><span>…</span><span>en visievorming positie eigen onderzoeken + opportuniteiten ontdekken en grijpen</span></li> \n<li><span>data opvragen bij leveranciers</span><span>voor dashboards en verkeersmodellen: contacten leveranciers en DPO, zorgen voor NDA, vertrouwelijkheidscontracten voor data die nodig zijn voor het monitoren van de mobiliteitstoestand in Vlaanderen, of voor beleidsanalyses of voor de ontwikkeling van verkeersmodellen</span></li> </ul> \n<li><span>Actualiseren van MOMO voor een aantal aan jou toegewezen indicatoren</span></li> </ul>"
       },
       "locations": [
         {
@@ -2300,13 +2230,13 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Demand Office Coördinator (Digitaal Vlaanderen) via Vlaanderen Connect"
+        "htmlEncoded": "Demand Coördinator (Digitaal Vlaanderen) via Vlaanderen Connect"
       },
-      "displayTitle": "Demand Office Coördinator (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "displayTitle": "Demand Coördinator (Digitaal Vlaanderen) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame Demand Office Coördinator om de dienst Digitale Transformatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Demand Office Coördinator meewerkt aan de transversale processen binnen het projectaanbod dat Digitaal Valanderen biedt aan onze partners? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span><span> </span></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</span></p> \n<p><span> </span></p> \n<p><span> </span><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Als Demand Office Coördinator ben je verantwoordelijk voor het coördineren en beheren van het volledige demand management proces. Je speelt een cruciale rol in het opstellen van voorstellen en offertes die voldoen aan de eisen en verwachtingen van onze klanten. Je werkt nauw samen met verschillende afdelingen binnen de organisatie om de benodigde informatie te verzamelen en te integreren in een overtuigend aanbod. </span></p> \n<p><span> </span><strong> </strong></p> \n<p><em><span>Jouw kernverantwoordelijkheden:</span></em></p> \n<p><span><span>-\n<span> </span></span></span><span>Coördineren en beheren van het demand management proces van lead tot contract</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Opstellen en indienen van hoogwaardige offertes en voorstellen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Samenwerken met interne teams om relevante informatie te verzamelen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Zorgdragen voor naleving van deadlines en klantvereisten.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Analyseren van klantbehoeften en vertalen naar winnende voorstellen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Onderhouden van een database met referentiemateriaal en templates.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Voortdurend verbeteren van het biedingsproces door efficiënte en coherente inzet van tooling, masterdata, businessmodellen, prijsstrategieën, producten-en dienstenaanbod,…</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Opstellen van managementrapportering en opvolging van OKR’s en KPI’s</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en bekwame Demand Office Coördinator om de dienst Digitale Transformatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Demand Office Coördinator meewerkt aan de transversale processen binnen het projectaanbod dat Digitaal Valanderen biedt aan onze partners? Dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><span> </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span><span> </span></span></p> \n<p><span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</span></p> \n<p><span> </span></p> \n<p><span> </span><strong>Wat zal je moeten doen?</strong></p> \n<p><span>Als Demand Office Coördinator ben je verantwoordelijk voor het coördineren en beheren van het volledige demand management proces. Je speelt een cruciale rol in het opstellen van voorstellen en offertes die voldoen aan de eisen en verwachtingen van onze klanten. Je werkt nauw samen met verschillende afdelingen binnen de organisatie om de benodigde informatie te verzamelen en te integreren in een overtuigend aanbod. </span></p> \n<p><span> </span><strong> </strong></p> \n<p><em><span>Jouw kernverantwoordelijkheden:</span></em></p> \n<p><span><span>-\n<span> </span></span></span><span>Coördineren en beheren van het demand management proces van lead tot contract</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Opstellen en indienen van hoogwaardige offertes en voorstellen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Samenwerken met interne teams om relevante informatie te verzamelen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Zorgdragen voor naleving van deadlines en klantvereisten.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Analyseren van klantbehoeften en vertalen naar winnende voorstellen.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Onderhouden van een database met referentiemateriaal en templates.</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Voortdurend verbeteren van het biedingsproces door efficiënte en coherente inzet van tooling, masterdata, businessmodellen, prijsstrategieën, producten-en dienstenaanbod,…</span></p> \n<p><span><span>-\n<span> </span></span></span><span>Opstellen van managementrapportering en opvolging van OKR’s en KPI’s</span></p>"
+        "raw": "<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Demand Office Coördinator meewerkt aan de transversale processen binnen het projectaanbod dat Digitaal Valanderen biedt aan onze partners? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p>Als Demand Coördinator ben je verantwoordelijk voor het inzichtelijk maken, afstemmen en sturen van de vraag naar producten, diensten of middelen binnen de organisatie. \n<span> Je coördineert en beheert het volledige demand management proces. Je speelt een cruciale rol in het opstellen van voorstellen en offertes die voldoen aan de eisen en verwachtingen van onze klanten. Je werkt nauw samen met de aanbod portfolio coördinator en met verschillende afdelingen binnen de organisatie om de benodigde informatie te verzamelen en te integreren in een overtuigend aanbod.</span></p> \n<p><strong>Jouw kernverantwoordelijkheden:</strong></p> \n<p><span><span>- </span></span>Strategische afstemming</p> \n<p>o Zorgt dat de concrete behoeften en noden van klanten vertaald worden naar oplossingen in het aanbod van Digitaal Vlaanderen in samenwerking met de Aanbod Portfolio Coördinator, accountmanagers en productpartners.</p> \n<p>o Werkt samen met de accountmanagers, businesspartners en productpartners om de gemeenschappelijke en strategische noden van de Vlaamse Overheid structureel in kaart te brengen om pro-actief het aanbod van Digitaal Vlaanderen hierop te kunnen afstemmen.</p> \n<p>- Proces governance en -uitvoering</p> \n<p>- Monitoring en rapportage</p> \n<p>- Stakeholdermanagement</p> \n<p> </p>",
+        "htmlEncoded": "<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Demand Office Coördinator meewerkt aan de transversale processen binnen het projectaanbod dat Digitaal Valanderen biedt aan onze partners? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken.</p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p>Als Demand Coördinator ben je verantwoordelijk voor het inzichtelijk maken, afstemmen en sturen van de vraag naar producten, diensten of middelen binnen de organisatie. \n<span> Je coördineert en beheert het volledige demand management proces. Je speelt een cruciale rol in het opstellen van voorstellen en offertes die voldoen aan de eisen en verwachtingen van onze klanten. Je werkt nauw samen met de aanbod portfolio coördinator en met verschillende afdelingen binnen de organisatie om de benodigde informatie te verzamelen en te integreren in een overtuigend aanbod.</span></p> \n<p><strong>Jouw kernverantwoordelijkheden:</strong></p> \n<p><span><span>- </span></span>Strategische afstemming</p> \n<p>o Zorgt dat de concrete behoeften en noden van klanten vertaald worden naar oplossingen in het aanbod van Digitaal Vlaanderen in samenwerking met de Aanbod Portfolio Coördinator, accountmanagers en productpartners.</p> \n<p>o Werkt samen met de accountmanagers, businesspartners en productpartners om de gemeenschappelijke en strategische noden van de Vlaamse Overheid structureel in kaart te brengen om pro-actief het aanbod van Digitaal Vlaanderen hierop te kunnen afstemmen.</p> \n<p>- Proces governance en -uitvoering</p> \n<p>- Monitoring en rapportage</p> \n<p>- Stakeholdermanagement</p> \n<p> </p>"
       },
       "locations": [
         {
@@ -3776,6 +3706,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19312",
+      "internal": true,
+      "validThroughDate": "1762128000",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19312",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teammanager VSA"
+      },
+      "displayTitle": "Teammanager VSA",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb jij zin in een nieuwe uitdaging bij de Vlaamse\nStatistische Autoriteit (VSA)? Hou je ervan om samen te werken met een\ndynamisch en gemotiveerd team en mee te bouwen aan de verdere uitbouw van de\ndataverwerkings- en analyseactiviteiten van de VSA? Dan is deze functie iets\nvoor jou.&nbsp; Als Teammanager Data en Analyse:</p><p>- Coördineer,\n     coach en begeleid je een team van data-engineers, analisten,\n     datascientists en andere experts (ongeveer 18 collega’s).<br>- Zorg\n     je voor een efficiënte taakverdeling, stel je prioriteiten en bewaak je\n     het evenwicht in de werkdruk binnen het team.<br>- Houd\n     je het overzicht en kijk je waar processen verbeterd en geoptimaliseerd\n     kunnen worden.<br>- Ben\n     je het aanspreekpunt en inhoudelijk klankbord voor je teamleden en\n     vertegenwoordig je het team binnen het VSA-management en vertegenwoordig\n     je de VSA naar buiten tegenover externe belanghebbenden. <br>- Sta\n     je in voor de coördinatie van de processen rond veilige en efficiënte\n     dataverzameling, -beheer en -analyse, zowel voor de productie en\n     ontsluiting van Vlaamse openbare statistieken als voor diepgaandere\n     statistische en innovatieve analyses.<br>- Werk\n     je mee aan de uitbouw van een performante data-infrastructuur, zodat de\n     processen professioneel, kwaliteitsvol, veilig en waar mogelijk\n     geautomatiseerd verlopen.<br>- Ben\n     je eindverantwoordelijke voor het behalen van de doelstellingen van je\n     team en stuur je de medewerkers aan om die samen te realiseren.</p><p>Waar kom je terecht?<br> Je werkt binnen de Vlaamse Statistische Autoriteit (VSA), de\ncoördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen.\nDit netwerk bestaat uit alle Vlaamse overheidsinstanties die openbare\nstatistieken produceren en publiceren. De leden van het netwerk Statistiek\nVlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare\nstatistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering\nen opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als\nonderzoekers, pers, organisaties, bedrijven en individuele burgers. </p><p><strong>Voor meer details verwijzen we graag door naar het selectiereglement.</strong></p>",
+        "htmlEncoded": "<p>Heb jij zin in een nieuwe uitdaging bij de Vlaamse\nStatistische Autoriteit (VSA)? Hou je ervan om samen te werken met een\ndynamisch en gemotiveerd team en mee te bouwen aan de verdere uitbouw van de\ndataverwerkings- en analyseactiviteiten van de VSA? Dan is deze functie iets\nvoor jou.&nbsp; Als Teammanager Data en Analyse:</p><p>- Coördineer,\n     coach en begeleid je een team van data-engineers, analisten,\n     datascientists en andere experts (ongeveer 18 collega’s).<br>- Zorg\n     je voor een efficiënte taakverdeling, stel je prioriteiten en bewaak je\n     het evenwicht in de werkdruk binnen het team.<br>- Houd\n     je het overzicht en kijk je waar processen verbeterd en geoptimaliseerd\n     kunnen worden.<br>- Ben\n     je het aanspreekpunt en inhoudelijk klankbord voor je teamleden en\n     vertegenwoordig je het team binnen het VSA-management en vertegenwoordig\n     je de VSA naar buiten tegenover externe belanghebbenden. <br>- Sta\n     je in voor de coördinatie van de processen rond veilige en efficiënte\n     dataverzameling, -beheer en -analyse, zowel voor de productie en\n     ontsluiting van Vlaamse openbare statistieken als voor diepgaandere\n     statistische en innovatieve analyses.<br>- Werk\n     je mee aan de uitbouw van een performante data-infrastructuur, zodat de\n     processen professioneel, kwaliteitsvol, veilig en waar mogelijk\n     geautomatiseerd verlopen.<br>- Ben\n     je eindverantwoordelijke voor het behalen van de doelstellingen van je\n     team en stuur je de medewerkers aan om die samen te realiseren.</p><p>Waar kom je terecht?<br> Je werkt binnen de Vlaamse Statistische Autoriteit (VSA), de\ncoördinerende en ondersteunende dienst van het netwerk Statistiek Vlaanderen.\nDit netwerk bestaat uit alle Vlaamse overheidsinstanties die openbare\nstatistieken produceren en publiceren. De leden van het netwerk Statistiek\nVlaanderen en de VSA zorgen voor kwaliteitsvolle en onafhankelijke openbare\nstatistieken en data die gebruikt kunnen worden ter voorbereiding, uitvoering\nen opvolging van het Vlaamse beleid, door alle relevante actoren in de samenleving, zowel beleidsmakers, als\nonderzoekers, pers, organisaties, bedrijven en individuele burgers. </p><p><strong>Voor meer details verwijzen we graag door naar het selectiereglement.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19296",
       "internal": false,
       "validThroughDate": "1762041600",
@@ -4442,41 +4407,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19226",
-      "internal": true,
-      "validThroughDate": "1760486400",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19226",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Loods (via interne functiewijziging)"
-      },
-      "displayTitle": "Loods (via interne functiewijziging)",
-      "isProtected": false,
-      "description": {
-        "raw": "De loodsen van het Vlaams LOODSWEZEN brengen schepen veilig en vlot van en naar de havens in Vlaanderen. De organisatie beschikt over dé nautische knowhow over alle wateren, meanders en zandbanken die de aanloop van onze havens vormen. Al deze facetten, in alle weersomstandigheden, vereisen absoluut vakmanschap. Met jaarlijks een 150.000-tal scheepsbewegingen voor de Vlaamse kust en over haar rivieren en kanalen, is de Scheldemondenregio één van de drukst bevaren wateren ter wereld.&nbsp; Kom jij graag ons team versterken?<br><br>Als loods zie je toe op de veiligheid van de vaarwaters, de vaarwegmarkering, de vaartuigen en de bescherming van het milieu.&nbsp;<br><br>Je staat de gezagvoerder van een schip bij met nautisch vakmanschap en met kennis van de toe te passen nautische regelgeving en scheepvaart- en politiereglementen. Je adviseert over de hydrografische omstandigheden. Je communiceert met de scheepvaartbegeleidingsdiensten aan de wal en de andere verkeersdeelnemers, …<br><br>Je staat in voor het nautisch advies aan de gezagvoerder bij de navigatie in alle gebieden waarin het Vlaamse Gewest een loodsdienst organiseert. Dit gebeurt binnen de grenzen waar de zeevaartuigen de verplichting hebben een loods aan boord te nemen of waar loodsen op afstand (LOA) georganiseerd wordt, om het vaartuig vlot, veilig en efficiënt naar de plaats van bestemming te brengen.&nbsp;<br><br>Dit doe je op welbepaalde trajecten, conform de regelgeving inzake nautische aangelegenheden, scheepvaart- en politiereglementen. De beloodsing gebeurt door middel van een loodsjol, een motorredeboot, een Swath of een ander hulpmiddel.&nbsp;<br><br>Je verstrekt nautische adviezen bijvoorbeeld voor het treffen van beheersmaatregelen bij het plannen van waterbouwkundige projecten.&nbsp;<br><br>Loods word je niet zomaar en blijf je ook niet zomaar. Het is een continu proces van kennis en ervaring opdoen, maar ook van lering en bijscholing.&nbsp;<br><br>Deze selectieprocedure heeft tot doel <strong>een interne mutatiereserve </strong>aan te leggen.<br><br>Na <strong>een intensief opleidingsjaar</strong> kun je aan de slag als loods op het zee-, kust-, rivier- of kanaaltraject of een combinatie van deze trajecten.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>",
-        "htmlEncoded": "De loodsen van het Vlaams LOODSWEZEN brengen schepen veilig en vlot van en naar de havens in Vlaanderen. De organisatie beschikt over dé nautische knowhow over alle wateren, meanders en zandbanken die de aanloop van onze havens vormen. Al deze facetten, in alle weersomstandigheden, vereisen absoluut vakmanschap. Met jaarlijks een 150.000-tal scheepsbewegingen voor de Vlaamse kust en over haar rivieren en kanalen, is de Scheldemondenregio één van de drukst bevaren wateren ter wereld.&nbsp; Kom jij graag ons team versterken?<br><br>Als loods zie je toe op de veiligheid van de vaarwaters, de vaarwegmarkering, de vaartuigen en de bescherming van het milieu.&nbsp;<br><br>Je staat de gezagvoerder van een schip bij met nautisch vakmanschap en met kennis van de toe te passen nautische regelgeving en scheepvaart- en politiereglementen. Je adviseert over de hydrografische omstandigheden. Je communiceert met de scheepvaartbegeleidingsdiensten aan de wal en de andere verkeersdeelnemers, …<br><br>Je staat in voor het nautisch advies aan de gezagvoerder bij de navigatie in alle gebieden waarin het Vlaamse Gewest een loodsdienst organiseert. Dit gebeurt binnen de grenzen waar de zeevaartuigen de verplichting hebben een loods aan boord te nemen of waar loodsen op afstand (LOA) georganiseerd wordt, om het vaartuig vlot, veilig en efficiënt naar de plaats van bestemming te brengen.&nbsp;<br><br>Dit doe je op welbepaalde trajecten, conform de regelgeving inzake nautische aangelegenheden, scheepvaart- en politiereglementen. De beloodsing gebeurt door middel van een loodsjol, een motorredeboot, een Swath of een ander hulpmiddel.&nbsp;<br><br>Je verstrekt nautische adviezen bijvoorbeeld voor het treffen van beheersmaatregelen bij het plannen van waterbouwkundige projecten.&nbsp;<br><br>Loods word je niet zomaar en blijf je ook niet zomaar. Het is een continu proces van kennis en ervaring opdoen, maar ook van lering en bijscholing.&nbsp;<br><br>Deze selectieprocedure heeft tot doel <strong>een interne mutatiereserve </strong>aan te leggen.<br><br>Na <strong>een intensief opleidingsjaar</strong> kun je aan de slag als loods op het zee-, kust-, rivier- of kanaaltraject of een combinatie van deze trajecten.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19225",
       "internal": true,
       "validThroughDate": "1761696000",
@@ -4934,41 +4864,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19147",
-      "internal": false,
-      "validThroughDate": "1760486400",
-      "hiringOrganization": "Agentschap Overheidspersoneel",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19147",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Talentpool HR-partner"
-      },
-      "displayTitle": "Talentpool HR-partner",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij klaar voor een nieuwe uitdaging? Bouw je HR-carrière uit en werk mee aan verschillende projecten. Van leiderschapsontwikkeling tot data-analyse, van regelgeving tot welzijnsbeleid: jij bepaalt welke richting je carrière uitgaat.&nbsp;<b>Schrijf je nu in voor de talentpool voor HR-partner&nbsp;</b>en laat je loopbaan meegroeien met je ambities en interesses.</span></p><p><span>Als HR-partner ben je een centraal aanspreekpunt binnen je afdeling en beschik je dus over een gezonde dosis assertiviteit. Met je kennis en ervaring bouw je mee aan&nbsp;<b>een moderne, mens- en resultaatgerichte overheid.&nbsp;</b>Je ondersteunt leidinggevenden en denkt mee na over hoe de organisatie medewerkers kan aantrekken, ontwikkelen, begeleiden en ondersteunen, vandaag én morgen.</span></p><p><span>De eerste etappe? Die begint met je kandidatuur voor de talentpool. Verwacht daarna de volgende haltes:</span></p><ol><li><span><b>S</b></span><b>tart</b><span>: Als je je kandidatuur indient, is het startschot officieel gegeven. Als je voldoet aan de deelnemingsvoorwaarden en de vereisten van de voorselectie, mag je deelnemen aan enkele computertesten.</span></li><li><span><b>Selectiedag:</b>&nbsp;Hier worden je persoonsgebonden competenties gescreend.</span></li><li><span><b>Vacatures</b>: Zodra je een plek in de talentpool hebt bemachtigd, krijg je regelmatig relevante vacatures in je mailbox voordat deze online komen te staan. Met deze talentpool krijg jij dus voorrang op andere mogelijke kandidaten.</span></li><li><span><b>Solliciteren</b>: Zie je de job van je dromen passeren? Springen maar! Stel je kandidaat, je bestemming is in zicht.</span></li><li><span><b>Verkorte sollicitatieprocedure</b>: Je maakt kennis met de organisatie waar je terechtkomt en wordt getest op motivatie, inzicht in de functie en technische kennis.</span></li><li><span><b>Finish</b>: Of beter: start! Zodra je geselecteerd bent voor je nieuwe HR-job begint het echte werk.</span></li></ol><p><span>Wil je graag meer details over de verschillende jobs? Schrijf je dan&nbsp;<a href=\"https://events.teams.microsoft.com/event/0b59f306-3cd7-40e0-b7ce-a6ec25940fbf@0c0338a6-9561-4ee8-b8d6-4e89cbd520a0\">hier</a>&nbsp;vrijblijvend in voor de&nbsp;<b>online&nbsp;infosessie op 8 oktober 2025 om 12 uur</b>. Je krijgt er meer informatie over de procedure en je kan vragen stellen aan potentiële collega’s.&nbsp;</span><span>Na je inschrijving ontvang je automatisch een uitnodigingslink in je mailbox. Je eventuele deelname aan deze infosessie heeft geen invloed op je slaagkansen in de verdere selectieprocedure</span><span>.</span></p><p><span>Wil je meer weten over werken in HR bij de Vlaamse overheid? Bekijk dan zeker onze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vakgebieden-en-jobdomeinen-binnen-de-vlaamse-overheid/werken-in-hr-voor-de-vlaamse-overheid\">webpagina</a>.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij klaar voor een nieuwe uitdaging? Bouw je HR-carrière uit en werk mee aan verschillende projecten. Van leiderschapsontwikkeling tot data-analyse, van regelgeving tot welzijnsbeleid: jij bepaalt welke richting je carrière uitgaat.&nbsp;<b>Schrijf je nu in voor de talentpool voor HR-partner&nbsp;</b>en laat je loopbaan meegroeien met je ambities en interesses.</span></p><p><span>Als HR-partner ben je een centraal aanspreekpunt binnen je afdeling en beschik je dus over een gezonde dosis assertiviteit. Met je kennis en ervaring bouw je mee aan&nbsp;<b>een moderne, mens- en resultaatgerichte overheid.&nbsp;</b>Je ondersteunt leidinggevenden en denkt mee na over hoe de organisatie medewerkers kan aantrekken, ontwikkelen, begeleiden en ondersteunen, vandaag én morgen.</span></p><p><span>De eerste etappe? Die begint met je kandidatuur voor de talentpool. Verwacht daarna de volgende haltes:</span></p><ol><li><span><b>S</b></span><b>tart</b><span>: Als je je kandidatuur indient, is het startschot officieel gegeven. Als je voldoet aan de deelnemingsvoorwaarden en de vereisten van de voorselectie, mag je deelnemen aan enkele computertesten.</span></li><li><span><b>Selectiedag:</b>&nbsp;Hier worden je persoonsgebonden competenties gescreend.</span></li><li><span><b>Vacatures</b>: Zodra je een plek in de talentpool hebt bemachtigd, krijg je regelmatig relevante vacatures in je mailbox voordat deze online komen te staan. Met deze talentpool krijg jij dus voorrang op andere mogelijke kandidaten.</span></li><li><span><b>Solliciteren</b>: Zie je de job van je dromen passeren? Springen maar! Stel je kandidaat, je bestemming is in zicht.</span></li><li><span><b>Verkorte sollicitatieprocedure</b>: Je maakt kennis met de organisatie waar je terechtkomt en wordt getest op motivatie, inzicht in de functie en technische kennis.</span></li><li><span><b>Finish</b>: Of beter: start! Zodra je geselecteerd bent voor je nieuwe HR-job begint het echte werk.</span></li></ol><p><span>Wil je graag meer details over de verschillende jobs? Schrijf je dan&nbsp;<a href=\"https://events.teams.microsoft.com/event/0b59f306-3cd7-40e0-b7ce-a6ec25940fbf@0c0338a6-9561-4ee8-b8d6-4e89cbd520a0\">hier</a>&nbsp;vrijblijvend in voor de&nbsp;<b>online&nbsp;infosessie op 8 oktober 2025 om 12 uur</b>. Je krijgt er meer informatie over de procedure en je kan vragen stellen aan potentiële collega’s.&nbsp;</span><span>Na je inschrijving ontvang je automatisch een uitnodigingslink in je mailbox. Je eventuele deelname aan deze infosessie heeft geen invloed op je slaagkansen in de verdere selectieprocedure</span><span>.</span></p><p><span>Wil je meer weten over werken in HR bij de Vlaamse overheid? Bekijk dan zeker onze <a href=\"https://www.vlaanderen.be/werken-voor-vlaanderen/vakgebieden-en-jobdomeinen-binnen-de-vlaamse-overheid/werken-in-hr-voor-de-vlaamse-overheid\">webpagina</a>.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19142",
       "internal": false,
       "validThroughDate": "1761004800",
@@ -4999,56 +4894,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19052",
-      "internal": false,
-      "validThroughDate": "1760486400",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19052",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Loods"
-      },
-      "displayTitle": "Loods",
-      "isProtected": false,
-      "description": {
-        "raw": "De loodsen van het Vlaams LOODSWEZEN brengen schepen veilig en vlot van en naar de havens in Vlaanderen. De organisatie beschikt over dé nautische knowhow over alle wateren, meanders en zandbanken die de aanloop van onze havens vormen. Al deze facetten, in alle weersomstandigheden, vereisen absoluut vakmanschap. Met jaarlijks een 150.000-tal scheepsbewegingen voor de Vlaamse kust en over haar rivieren en kanalen, is de Scheldemondenregio één van de drukst bevaren wateren ter wereld.&nbsp; Kom jij graag ons team versterken?<br><br>Als loods zie je toe op de veiligheid van de vaarwaters, de vaarwegmarkering, de vaartuigen en de bescherming van het milieu.&nbsp;<br><br><strong>Je staat de gezagvoerder van een schip bij met nautisch vakmanschap en met kennis van de toe te passen nautische regelgeving en scheepvaart- en politiereglementen. Je adviseert over de hydrografische omstandigheden. Je communiceert met de scheepvaartbegeleidingsdiensten aan de wal en de andere verkeersdeelnemers, …</strong><br><br>Je staat in voor het nautisch advies aan de gezagvoerder bij de navigatie in alle gebieden waarin het Vlaamse Gewest een loodsdienst organiseert. Dit gebeurt binnen de grenzen waar de zeevaartuigen de verplichting hebben een loods aan boord te nemen of waar loodsen op afstand (LOA) georganiseerd wordt, om het vaartuig vlot, veilig en efficiënt naar de plaats van bestemming te brengen.&nbsp;<br><br>Dit doe je op welbepaalde trajecten, conform de regelgeving inzake nautische aangelegenheden, scheepvaart- en politiereglementen. De beloodsing gebeurt door middel van een loodsjol, een motorredeboot, een Swath of een ander hulpmiddel.&nbsp;<br><br>Je verstrekt nautische adviezen bijvoorbeeld voor het treffen van beheersmaatregelen bij het plannen van waterbouwkundige projecten.&nbsp;<br><br>Loods word je niet zomaar en blijf je ook niet zomaar. Het is een continu proces van kennis en ervaring opdoen, maar ook van lering en bijscholing.&nbsp;<br><br>Deze selectieprocedure heeft tot doel een werfreserve aan te leggen.<br><br>Na <strong>een intensief opleidingsjaar</strong> kun je aan de slag als loods op het zee-, kust-, rivier- of kanaaltraject of een combinatie van deze trajecten.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>",
-        "htmlEncoded": "De loodsen van het Vlaams LOODSWEZEN brengen schepen veilig en vlot van en naar de havens in Vlaanderen. De organisatie beschikt over dé nautische knowhow over alle wateren, meanders en zandbanken die de aanloop van onze havens vormen. Al deze facetten, in alle weersomstandigheden, vereisen absoluut vakmanschap. Met jaarlijks een 150.000-tal scheepsbewegingen voor de Vlaamse kust en over haar rivieren en kanalen, is de Scheldemondenregio één van de drukst bevaren wateren ter wereld.&nbsp; Kom jij graag ons team versterken?<br><br>Als loods zie je toe op de veiligheid van de vaarwaters, de vaarwegmarkering, de vaartuigen en de bescherming van het milieu.&nbsp;<br><br><strong>Je staat de gezagvoerder van een schip bij met nautisch vakmanschap en met kennis van de toe te passen nautische regelgeving en scheepvaart- en politiereglementen. Je adviseert over de hydrografische omstandigheden. Je communiceert met de scheepvaartbegeleidingsdiensten aan de wal en de andere verkeersdeelnemers, …</strong><br><br>Je staat in voor het nautisch advies aan de gezagvoerder bij de navigatie in alle gebieden waarin het Vlaamse Gewest een loodsdienst organiseert. Dit gebeurt binnen de grenzen waar de zeevaartuigen de verplichting hebben een loods aan boord te nemen of waar loodsen op afstand (LOA) georganiseerd wordt, om het vaartuig vlot, veilig en efficiënt naar de plaats van bestemming te brengen.&nbsp;<br><br>Dit doe je op welbepaalde trajecten, conform de regelgeving inzake nautische aangelegenheden, scheepvaart- en politiereglementen. De beloodsing gebeurt door middel van een loodsjol, een motorredeboot, een Swath of een ander hulpmiddel.&nbsp;<br><br>Je verstrekt nautische adviezen bijvoorbeeld voor het treffen van beheersmaatregelen bij het plannen van waterbouwkundige projecten.&nbsp;<br><br>Loods word je niet zomaar en blijf je ook niet zomaar. Het is een continu proces van kennis en ervaring opdoen, maar ook van lering en bijscholing.&nbsp;<br><br>Deze selectieprocedure heeft tot doel een werfreserve aan te leggen.<br><br>Na <strong>een intensief opleidingsjaar</strong> kun je aan de slag als loods op het zee-, kust-, rivier- of kanaaltraject of een combinatie van deze trajecten.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Ka Vlissingen"
           }
         }
       ]
@@ -5604,41 +5449,6 @@
         {
           "address": {
             "city": "Wingene"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-12976",
-      "internal": false,
-      "validThroughDate": "1760486400",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-12976",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Consulent  Ondersteuningscentrum en Sociale dienst Jeugdrechtbank Antwerpen"
-      },
-      "displayTitle": "Consulent  Ondersteuningscentrum en Sociale dienst Jeugdrechtbank Antwerpen",
-      "isProtected": false,
-      "description": {
-        "raw": "Elk kind moet veilig, geliefd en gezond kunnen opgroeien. Maar<strong> wat\nals de veiligheid van een kind of jongere thuis in gevaar is</strong>? Als\nconsulent volg jij <strong>verontrustende situaties in gezinnen</strong> op\nbij wie de hulpverleners op grenzen botsen.&nbsp;<br>Jeugdhulp - afdeling ondersteuningscentra en sociale diensten jeugdrechtbank\n(OSD) is op zoek naar consulenten voor locatie <strong>Antwerpen&nbsp;</strong>om&nbsp;de\nteams van het ondersteuningscentrum jeugdzorg Antwerpen (OCJ) en de sociale\ndienst bij de jeugdrechtbank Antwerpen (SDJ) te versterken. Het gaat over\ntijdelijke contracten maar met werkzekerheid op lange termijn.<br>Er zijn momenteel verschillende vacatures.<br><br><em>Een dag uit jouw leven als consulent:&nbsp;&nbsp;</em><br>Je\n     onderzoekt of de<strong> overheid&nbsp;tussenbeide moet komen</strong> bij\n     verontrustende situaties in gezinnen. Dat doe je via gesprekken met de\n     ouders, de kinderen en hun netwerk, en door het dossier te analyseren.&nbsp;&nbsp;<br>Je\n     beslist samen met je team <strong>welke\n     hulp nodig</strong> is voor een gezin: begeleiding in het gezin of\n     doorverwijzing naar de gerechtelijke jeugdhulp.&nbsp;<br>Je stelt\n     een <strong>hulpverleningsprogramma </strong>     op, volgt de gezinnen en de kinderen op.&nbsp;<br>Je bent\n     het <strong>aanspreekpunt </strong>     bij vragen en bij noodsituaties, zoals bij geweld en misbruik.&nbsp;<br><br><em>Waarom deze job echt iets voor jou is:&nbsp;&nbsp;</em><br>Jij <strong>maakt\n     het verschil </strong>voor jongeren in problematische\n     opvoedingssituaties. Door hen een uitweg te bieden als het uitzichtloos\n     lijkt of hen in veiligheid te brengen. Want iedere jongere verdient het om\n     kansrijk en veilig op te groeien.&nbsp;&nbsp;<br>Jouw werk <strong>draait\n     100% om mensen</strong>. Je bent niet alleen de vertrouwenspersoon\n     voor de jongeren. Je komt ook terecht in een netwerk van\n     (jeugd)hulpverleners, jeugdrechters, parketmagistraten en psychiaters.&nbsp;&nbsp;<br>Je krijgt <strong>veel\n     vrijheid en verantwoordelijkheid</strong>. Door de thuisbezoeken en\n     contacten met partners ben je veel onderweg. Hoe je dat werk organiseert,\n     laten we aan jou over.&nbsp;&nbsp;",
-        "htmlEncoded": "Elk kind moet veilig, geliefd en gezond kunnen opgroeien. Maar<strong> wat\nals de veiligheid van een kind of jongere thuis in gevaar is</strong>? Als\nconsulent volg jij <strong>verontrustende situaties in gezinnen</strong> op\nbij wie de hulpverleners op grenzen botsen.&nbsp;<br>Jeugdhulp - afdeling ondersteuningscentra en sociale diensten jeugdrechtbank\n(OSD) is op zoek naar consulenten voor locatie <strong>Antwerpen&nbsp;</strong>om&nbsp;de\nteams van het ondersteuningscentrum jeugdzorg Antwerpen (OCJ) en de sociale\ndienst bij de jeugdrechtbank Antwerpen (SDJ) te versterken. Het gaat over\ntijdelijke contracten maar met werkzekerheid op lange termijn.<br>Er zijn momenteel verschillende vacatures.<br><br><em>Een dag uit jouw leven als consulent:&nbsp;&nbsp;</em><br>Je\n     onderzoekt of de<strong> overheid&nbsp;tussenbeide moet komen</strong> bij\n     verontrustende situaties in gezinnen. Dat doe je via gesprekken met de\n     ouders, de kinderen en hun netwerk, en door het dossier te analyseren.&nbsp;&nbsp;<br>Je\n     beslist samen met je team <strong>welke\n     hulp nodig</strong> is voor een gezin: begeleiding in het gezin of\n     doorverwijzing naar de gerechtelijke jeugdhulp.&nbsp;<br>Je stelt\n     een <strong>hulpverleningsprogramma </strong>     op, volgt de gezinnen en de kinderen op.&nbsp;<br>Je bent\n     het <strong>aanspreekpunt </strong>     bij vragen en bij noodsituaties, zoals bij geweld en misbruik.&nbsp;<br><br><em>Waarom deze job echt iets voor jou is:&nbsp;&nbsp;</em><br>Jij <strong>maakt\n     het verschil </strong>voor jongeren in problematische\n     opvoedingssituaties. Door hen een uitweg te bieden als het uitzichtloos\n     lijkt of hen in veiligheid te brengen. Want iedere jongere verdient het om\n     kansrijk en veilig op te groeien.&nbsp;&nbsp;<br>Jouw werk <strong>draait\n     100% om mensen</strong>. Je bent niet alleen de vertrouwenspersoon\n     voor de jongeren. Je komt ook terecht in een netwerk van\n     (jeugd)hulpverleners, jeugdrechters, parketmagistraten en psychiaters.&nbsp;&nbsp;<br>Je krijgt <strong>veel\n     vrijheid en verantwoordelijkheid</strong>. Door de thuisbezoeken en\n     contacten met partners ben je veel onderweg. Hoe je dat werk organiseert,\n     laten we aan jou over.&nbsp;&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
