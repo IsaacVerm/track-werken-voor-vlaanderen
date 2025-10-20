@@ -1,10 +1,10 @@
 {
-  "totalItems": 145,
+  "totalItems": 139,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 144,
+  "lastItemOfPage": 138,
   "items": [
     {
       "link": "/Job/vdab-72204307",
@@ -2929,41 +2929,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19496",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19496",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Buffer - Brugge"
-      },
-      "displayTitle": "Scheepvaartbegeleider Buffer - Brugge",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>In tegenstelling tot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen in combinatie met een heel flexibel dienstrooster, hetzij op één standplaats maar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van collega's.&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19495",
       "internal": false,
       "validThroughDate": "1765756800",
@@ -3099,38 +3064,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19442",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19442",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "CAD- en GIS-Ontwerper"
-      },
-      "displayTitle": "CAD- en GIS-Ontwerper",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Je functie:&nbsp;</strong> <br>Als CAD- en GIS-Ontwerper bij De\nVlaamse Waterweg nv maak je deel uit van de cel technische ondersteuning binnen\nde territoriale afdeling Centraal. Je focust op het technisch ondersteunend\nproces van tekenen en ontwerpen, en werkt mee aan diverse\ninfrastructuurprojecten. Je levert kwalitatieve plannen en ontwerpen af aan\nbevoegde instanties en interne/externe klanten, volgens de vooropgestelde kwaliteitsvereisten\nen procedures.<br><br><strong>Je takenpakket:</strong><br>-<span>\t</span>Voorbereiden, verzamelen en analyseren van bouwkundige, geografische, topografische en mechanische gegevens om deze <span>\t</span>grafisch te verwerken en uit te tekenen. <br>-<span>\t</span>Uitvoeren van CAD/GIS-opdrachten en verwerken van opmeet-, peil- en andere gegevens tot plannen, dieptekaarten, volumes <span>\t</span>en verschilkaarten. <br>-<span>\t</span>Uittekenen van aanbesteding- en uitvoeringsplannen voor infrastructuurwerken en omgevingsvergunningen volgens de <span>\t</span>geldende normen. <br>-<span>\t</span>Rapporteren over de voortgang van taken en actief deelnemen aan overlegmomenten. <br>-<span>\t</span>Beheren, documenteren en ontsluiten van gegevens en plannen in GIS- en documentmanagementsystemen. <br>-<span>\t</span>Advies verlenen en verduidelijking geven over plannen aan interne en externe klanten.<br><br><strong>Je standplaats:</strong><br>Antwerpen. Afhankelijk van je agenda en in overleg met je\ncollega’s is hybride werken een mogelijkheid.</p><p>&nbsp;</p><p>&nbsp;</p><br>",
-        "htmlEncoded": "<p><strong>Je functie:&nbsp;</strong> <br>Als CAD- en GIS-Ontwerper bij De\nVlaamse Waterweg nv maak je deel uit van de cel technische ondersteuning binnen\nde territoriale afdeling Centraal. Je focust op het technisch ondersteunend\nproces van tekenen en ontwerpen, en werkt mee aan diverse\ninfrastructuurprojecten. Je levert kwalitatieve plannen en ontwerpen af aan\nbevoegde instanties en interne/externe klanten, volgens de vooropgestelde kwaliteitsvereisten\nen procedures.<br><br><strong>Je takenpakket:</strong><br>-<span>\t</span>Voorbereiden, verzamelen en analyseren van bouwkundige, geografische, topografische en mechanische gegevens om deze <span>\t</span>grafisch te verwerken en uit te tekenen. <br>-<span>\t</span>Uitvoeren van CAD/GIS-opdrachten en verwerken van opmeet-, peil- en andere gegevens tot plannen, dieptekaarten, volumes <span>\t</span>en verschilkaarten. <br>-<span>\t</span>Uittekenen van aanbesteding- en uitvoeringsplannen voor infrastructuurwerken en omgevingsvergunningen volgens de <span>\t</span>geldende normen. <br>-<span>\t</span>Rapporteren over de voortgang van taken en actief deelnemen aan overlegmomenten. <br>-<span>\t</span>Beheren, documenteren en ontsluiten van gegevens en plannen in GIS- en documentmanagementsystemen. <br>-<span>\t</span>Advies verlenen en verduidelijking geven over plannen aan interne en externe klanten.<br><br><strong>Je standplaats:</strong><br>Antwerpen. Afhankelijk van je agenda en in overleg met je\ncollega’s is hybride werken een mogelijkheid.</p><p>&nbsp;</p><p>&nbsp;</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
@@ -3370,6 +3303,41 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19370",
+      "internal": false,
+      "validThroughDate": "1762387200",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19370",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data-analist"
+      },
+      "displayTitle": "Data-analist",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben je gebeten door indicatoren, cijferanalyse en data? Zet je graag gegevens om tot waardevolle informatie voor het beleid, het agentschap en haar partners? Misschien kan dit wel voor jou een nieuwe uitdaging zijn!<br><br>In deze functie ga je data-analyses uitvoeren met als doel om beleidsinformatie te creëren en om de interne processen te optimaliseren. Je verzamelt en verwerkt informatie om door te geven aan interne en externe partners. Je werkt indicatoren uit, implementeert en volgt ze op en biedt relevante rapporteringen en dashboards aan. Je werkt samen met verschillende interne (collega’s binnen het agentschap, collega’s van andere entiteiten binnen Onderwijs en Vorming, andere diensten van de Vlaamse Overheid,) en externe partners (ICT-partners, dienstverleners, onderwijsinstellingen en -koepels) om je doelen te realiseren.<br><br>Je zal ingezet worden op verschillende projecten bij verschillende afdelingen van AHOVOKS. Zo kan je bijvoorbeeld ingezet worden op een dataproject en interne monitoring van NARIC die instaan voor het bepalen van gelijkwaardigheden van buitenlandse diploma’s en kan je betrokken worden bij de opmaak van management monitors om het proces van de uitbetaling van de Studietoelagen of de uitbetaling van de personeelsleden in het hoger en volwassenenonderwijs te verbeteren. Je zal samenwerken met beleidsmedewerkers binnen de afdelingen, en voor het technische luik samenwerken met een team van data-analisten binnen het agentschap.</div><div>Download het selectiereglement voor nog meer informatie en bewaar het voor de verdere procedure.</div>",
+        "htmlEncoded": "<div>Ben je gebeten door indicatoren, cijferanalyse en data? Zet je graag gegevens om tot waardevolle informatie voor het beleid, het agentschap en haar partners? Misschien kan dit wel voor jou een nieuwe uitdaging zijn!<br><br>In deze functie ga je data-analyses uitvoeren met als doel om beleidsinformatie te creëren en om de interne processen te optimaliseren. Je verzamelt en verwerkt informatie om door te geven aan interne en externe partners. Je werkt indicatoren uit, implementeert en volgt ze op en biedt relevante rapporteringen en dashboards aan. Je werkt samen met verschillende interne (collega’s binnen het agentschap, collega’s van andere entiteiten binnen Onderwijs en Vorming, andere diensten van de Vlaamse Overheid,) en externe partners (ICT-partners, dienstverleners, onderwijsinstellingen en -koepels) om je doelen te realiseren.<br><br>Je zal ingezet worden op verschillende projecten bij verschillende afdelingen van AHOVOKS. Zo kan je bijvoorbeeld ingezet worden op een dataproject en interne monitoring van NARIC die instaan voor het bepalen van gelijkwaardigheden van buitenlandse diploma’s en kan je betrokken worden bij de opmaak van management monitors om het proces van de uitbetaling van de Studietoelagen of de uitbetaling van de personeelsleden in het hoger en volwassenenonderwijs te verbeteren. Je zal samenwerken met beleidsmedewerkers binnen de afdelingen, en voor het technische luik samenwerken met een team van data-analisten binnen het agentschap.</div><div>Download het selectiereglement voor nog meer informatie en bewaar het voor de verdere procedure.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3796,46 +3764,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19291",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19291",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Directeur Justitiehuis Limburg"
-      },
-      "displayTitle": "Directeur Justitiehuis Limburg",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij geboeid door justitie in al haar facetten en justitiehuizen in het bijzonder? Heb je kennis van de strafrechtelijke keten? Wil je bovendien graag een team aansturen? Dan is de afdeling Justitiehuizen binnen het Agentschap Justitie en Handhaving op zoek naar jou!<br> Als directeur van het justitiehuis Limburg focus je je op een inhoudelijk en strategische sterke uitwerking van het justitiehuis. Je stemt de dagdagelijkse werking af op het algemeen beleid van het Agentschap Justitie en Handhaving en zorgt hier voor de nodige input. Hiernaast sta je in voor de operationele<span>&nbsp; </span>leiding. Je stuurt verschillende medewerkers rechtstreeks aan (de teamverantwoordelijken en de administratieve teams), volgt hen op en zorgt voor de coördinatie van de interne organisatie en opdrachten. Tevens geef je indirect leiding aan een honderdtal medewerkers die op hun beurt worden aangestuurd door teamverantwoordelijken. Je staat ook in voor het <span>&nbsp;</span>organiseren van overleg en samenwerking tussen de verschillende teams, de opdrachtgevers en de externe relevante diensten.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Ben jij geboeid door justitie in al haar facetten en justitiehuizen in het bijzonder? Heb je kennis van de strafrechtelijke keten? Wil je bovendien graag een team aansturen? Dan is de afdeling Justitiehuizen binnen het Agentschap Justitie en Handhaving op zoek naar jou!<br> Als directeur van het justitiehuis Limburg focus je je op een inhoudelijk en strategische sterke uitwerking van het justitiehuis. Je stemt de dagdagelijkse werking af op het algemeen beleid van het Agentschap Justitie en Handhaving en zorgt hier voor de nodige input. Hiernaast sta je in voor de operationele<span>&nbsp; </span>leiding. Je stuurt verschillende medewerkers rechtstreeks aan (de teamverantwoordelijken en de administratieve teams), volgt hen op en zorgt voor de coördinatie van de interne organisatie en opdrachten. Tevens geef je indirect leiding aan een honderdtal medewerkers die op hun beurt worden aangestuurd door teamverantwoordelijken. Je staat ook in voor het <span>&nbsp;</span>organiseren van overleg en samenwerking tussen de verschillende teams, de opdrachtgevers en de externe relevante diensten.<br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Tongeren-Borgloon"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19284",
       "internal": true,
       "validThroughDate": "1761004800",
@@ -4006,66 +3934,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19265",
-      "internal": true,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "Agentschap Binnenlands Bestuur",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19265",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamverantwoordelijke fiscaliteit"
-      },
-      "displayTitle": "Teamverantwoordelijke fiscaliteit",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als teamverantwoordelijke leid je een geheel van activiteiten en medewerkers en geef je input naar het beleid met als doel een kwaliteitsvolle, klantgerichte dienstverlening te verzekeren en zo bij te dragen tot de doelstellingen van de afdeling. Je versterkt als eerstelijnsleidinggevende de samenwerking met je afdelingshoofd en bouwt bruggen met andere teams binnen de afdeling, binnen het beleidsveld Binnenland en binnen het volledige agentschap. Je functie situeert zich in de afdeling Lokale Financiën (LF). Je rapporteert aan het afdelingshoofd Lokale Financiën en leidt een team van dossierbehandelaars en dossiermedewerkers.&nbsp;<br><br>Als teamverantwoordelijke geef je mee invulling aan het hiërarchisch leiderschap. Je bent een schakel in de formele beslissingslijn die in het agentschap loopt van de administrateur-generaal, via de afdelingshoofden naar de teamverantwoordelijken. Je neemt t.a.v. je teamleden vier leiderschapsrollen op: manager, coach, ondernemer en leider. Je legt je met nadruk toe op de rol van manager en de rol van coach.&nbsp;<br><br>Bij het invullen van je rol zoek je steeds een evenwicht tussen de noden en doelen van het agentschap en de talenten, noden en doelen van je medewerkers en van jezelf.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij \"meer informatie\". Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Als teamverantwoordelijke leid je een geheel van activiteiten en medewerkers en geef je input naar het beleid met als doel een kwaliteitsvolle, klantgerichte dienstverlening te verzekeren en zo bij te dragen tot de doelstellingen van de afdeling. Je versterkt als eerstelijnsleidinggevende de samenwerking met je afdelingshoofd en bouwt bruggen met andere teams binnen de afdeling, binnen het beleidsveld Binnenland en binnen het volledige agentschap. Je functie situeert zich in de afdeling Lokale Financiën (LF). Je rapporteert aan het afdelingshoofd Lokale Financiën en leidt een team van dossierbehandelaars en dossiermedewerkers.&nbsp;<br><br>Als teamverantwoordelijke geef je mee invulling aan het hiërarchisch leiderschap. Je bent een schakel in de formele beslissingslijn die in het agentschap loopt van de administrateur-generaal, via de afdelingshoofden naar de teamverantwoordelijken. Je neemt t.a.v. je teamleden vier leiderschapsrollen op: manager, coach, ondernemer en leider. Je legt je met nadruk toe op de rol van manager en de rol van coach.&nbsp;<br><br>Bij het invullen van je rol zoek je steeds een evenwicht tussen de noden en doelen van het agentschap en de talenten, noden en doelen van je medewerkers en van jezelf.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij \"meer informatie\". Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
           }
         }
       ]
@@ -4485,41 +4353,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19188",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19188",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Verantwoordelijke Risico-en crisismanagement"
-      },
-      "displayTitle": "Verantwoordelijke Risico-en crisismanagement",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Agentschap Justitie en Handhaving staat elke dag opnieuw voor complexe uitdagingen. Van strategische risico’s tot onverwachte crisissen – wendbaarheid, weerbaarheid en voorbereiding zijn essentieel. Daarom zijn we op zoek naar een daadkrachtige en strategische verantwoordelijke risico- en crisismanagement die onze organisatie toekomstbestendig maakt.</span></p> <p><span>Als verantwoordelijke risico- en crisismanagement neem je een coördinerende rol op in (1) het verkrijgen van een inzicht in de belangrijkste strategische en operationele risico’s, alsook in het detecteren van opkomende risico’s die de continuïteit van de werking in het gedrang kunnen brengen. In deze functie ondersteun je het Agentschap Justitie en Handhaving eveneens via (2) de opmaak van bedrijfscontinuïteitsplannen die in het geval van een crisis een doordachte heropstart mogelijk maken en (3) het stroomlijnen van de crisiscommunicatie.</span></p> <p><span>Binnen risico- en crisisbeheer geef jij richting aan onze strategie én dagelijkse werking:</span></p> <ul><li><span>Je identificeert en evalueert strategische en operationele risico’s en vertaalt deze naar heldere actieplannen.</span></li><li><span>Je ontwikkelt en implementeert crisis- en continuïteitsplannen die de werking van onze organisatie garanderen – ook in uitdagende omstandigheden.</span></li><li><span>Je bouwt een coherent kader uit voor risicomanagement, crisismanagement, business continuity en crisiscommunicatie, met een duidelijke governance structuur.</span></li><li><span>Je adviseert het directiecomité en de leidend ambtenaar over de risico- en crisisstrategie, en volgt actief de uitvoering ervan op.</span></li><li><span>Je faciliteert en ondersteunt de uitvoering van actieplannen doorheen de hele organisatie, in samenwerking met proceseigenaars. Je stuurt betrokken actoren aan en zorgt voor heldere afspraken, processen en documentatie.</span></li></ul> <p><span>Je komt in een opstartend team terecht. Het team zal bestaan uit medewerkers die een heel aantal aspecten van organisatiebeheersing coördineren: naast je eigen functie, zal je 2 collega’s hebben die verantwoordelijk zijn voor het agressiebeleid, een projectmanager informatieveiligheid, een medewerker PMO en een procesmanager en projectmanager waarbij de focus ligt op de organisatie-ondersteunende processen. Dit team wordt aangestuurd door een teamverantwoordelijke. In functie van je takenpakket zal je met veel collega’s in de organisatie in aanraking komen, zoals de collega’s van de eigen afdeling (IT, HR, financiën,…), maar ook de stafmedewerkers van de inhoudelijke afdelingen en de directie en de administrateur-generaal.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Agentschap Justitie en Handhaving staat elke dag opnieuw voor complexe uitdagingen. Van strategische risico’s tot onverwachte crisissen – wendbaarheid, weerbaarheid en voorbereiding zijn essentieel. Daarom zijn we op zoek naar een daadkrachtige en strategische verantwoordelijke risico- en crisismanagement die onze organisatie toekomstbestendig maakt.</span></p> <p><span>Als verantwoordelijke risico- en crisismanagement neem je een coördinerende rol op in (1) het verkrijgen van een inzicht in de belangrijkste strategische en operationele risico’s, alsook in het detecteren van opkomende risico’s die de continuïteit van de werking in het gedrang kunnen brengen. In deze functie ondersteun je het Agentschap Justitie en Handhaving eveneens via (2) de opmaak van bedrijfscontinuïteitsplannen die in het geval van een crisis een doordachte heropstart mogelijk maken en (3) het stroomlijnen van de crisiscommunicatie.</span></p> <p><span>Binnen risico- en crisisbeheer geef jij richting aan onze strategie én dagelijkse werking:</span></p> <ul><li><span>Je identificeert en evalueert strategische en operationele risico’s en vertaalt deze naar heldere actieplannen.</span></li><li><span>Je ontwikkelt en implementeert crisis- en continuïteitsplannen die de werking van onze organisatie garanderen – ook in uitdagende omstandigheden.</span></li><li><span>Je bouwt een coherent kader uit voor risicomanagement, crisismanagement, business continuity en crisiscommunicatie, met een duidelijke governance structuur.</span></li><li><span>Je adviseert het directiecomité en de leidend ambtenaar over de risico- en crisisstrategie, en volgt actief de uitvoering ervan op.</span></li><li><span>Je faciliteert en ondersteunt de uitvoering van actieplannen doorheen de hele organisatie, in samenwerking met proceseigenaars. Je stuurt betrokken actoren aan en zorgt voor heldere afspraken, processen en documentatie.</span></li></ul> <p><span>Je komt in een opstartend team terecht. Het team zal bestaan uit medewerkers die een heel aantal aspecten van organisatiebeheersing coördineren: naast je eigen functie, zal je 2 collega’s hebben die verantwoordelijk zijn voor het agressiebeleid, een projectmanager informatieveiligheid, een medewerker PMO en een procesmanager en projectmanager waarbij de focus ligt op de organisatie-ondersteunende processen. Dit team wordt aangestuurd door een teamverantwoordelijke. In functie van je takenpakket zal je met veel collega’s in de organisatie in aanraking komen, zoals de collega’s van de eigen afdeling (IT, HR, financiën,…), maar ook de stafmedewerkers van de inhoudelijke afdelingen en de directie en de administrateur-generaal.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19179",
       "internal": false,
       "validThroughDate": "1762041600",
@@ -4699,76 +4532,6 @@
         {
           "address": {
             "city": "Sint-Gillis"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18997",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "Gemeenschapsinstellingen & Vlaams Detentiecentrum",
-      "reservedForDisability": false,
-      "openPositions": 7,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18997",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Ergotherapeut"
-      },
-      "displayTitle": "Ergotherapeut",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb jij een <strong>warm hart voor jongeren</strong> in een uitdagende context? Wil je als ergotherapeut écht het verschil maken in hun ontwikkeling en re-integratie? Dan is deze functie misschien wel iets voor jou!<br><br>De gesloten gemeenschapsinstellingen van Agentschap Opgroeien (GI De Grubbe in Kortenberg, GI De Kempen in Mol en GI De Zande in Wingene) bieden een veilige en gestructureerde omgeving aan jongeren met uiteenlopende problematieken. Binnen dit kader zoeken we <strong>ergotherapeuten die stevig in hun schoenen staan</strong>, snel kunnen schakelen en samen met collega’s willen bouwen aan de toekomst van jongeren. Je maakt telkens deel uit van een team van ongeveer drie ergotherapeuten en werkt nauw samen met begeleiders, het multidisciplinair team en externe partners.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je volgt jongeren op tijdens hun verblijf en bewaakt hun fysieke en psychische gezondheidstoestand.</li><li>Je werkt vanuit een handelingsplan: je stelt doelstellingen op en bepaalt acties op maat.</li><li>Je voert gesprekken met jongeren, ouders, opvoedingsverantwoordelijken en collega-hulpverleners, en stemt acties af in multidisciplinair overleg.</li><li>Je pakt problemen aan die de re-integratie bemoeilijken, zoals leer- en taalstoornissen, ADHD, (psycho)motorische stoornissen, impulscontrolestoornissen of autismespectrumstoornissen.</li><li>Je zet creatieve methodieken in om jongeren te versterken in zelfinzicht, vaardigheden en weerbaarheid.</li></ul><p>Ben jij klaar om jongeren te ondersteunen in hun groei en re-integratie, en samen met je collega’s te bouwen aan hun toekomst?Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
-        "htmlEncoded": "<p>Heb jij een <strong>warm hart voor jongeren</strong> in een uitdagende context? Wil je als ergotherapeut écht het verschil maken in hun ontwikkeling en re-integratie? Dan is deze functie misschien wel iets voor jou!<br><br>De gesloten gemeenschapsinstellingen van Agentschap Opgroeien (GI De Grubbe in Kortenberg, GI De Kempen in Mol en GI De Zande in Wingene) bieden een veilige en gestructureerde omgeving aan jongeren met uiteenlopende problematieken. Binnen dit kader zoeken we <strong>ergotherapeuten die stevig in hun schoenen staan</strong>, snel kunnen schakelen en samen met collega’s willen bouwen aan de toekomst van jongeren. Je maakt telkens deel uit van een team van ongeveer drie ergotherapeuten en werkt nauw samen met begeleiders, het multidisciplinair team en externe partners.<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je volgt jongeren op tijdens hun verblijf en bewaakt hun fysieke en psychische gezondheidstoestand.</li><li>Je werkt vanuit een handelingsplan: je stelt doelstellingen op en bepaalt acties op maat.</li><li>Je voert gesprekken met jongeren, ouders, opvoedingsverantwoordelijken en collega-hulpverleners, en stemt acties af in multidisciplinair overleg.</li><li>Je pakt problemen aan die de re-integratie bemoeilijken, zoals leer- en taalstoornissen, ADHD, (psycho)motorische stoornissen, impulscontrolestoornissen of autismespectrumstoornissen.</li><li>Je zet creatieve methodieken in om jongeren te versterken in zelfinzicht, vaardigheden en weerbaarheid.</li></ul><p>Ben jij klaar om jongeren te ondersteunen in hun groei en re-integratie, en samen met je collega’s te bouwen aan hun toekomst?Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18919",
-      "internal": false,
-      "validThroughDate": "1760832000",
-      "hiringOrganization": "ILVO Plant 39",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18919",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Doctoraatsbursaal Meiotische recombinatie bij Soja"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Doctoraatsbursaal Meiotische recombinatie bij Soja",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben jij geboeid door genetica en plantenbiotechnologie? Wil je bijdragen aan de duurzame\nvoedselvoorziening van morgen?Klaar om deel uit te maken van een team dat zal\nwerken aan efficiëntere plantenveredeling? Dan is\ndit jouw moment om het verschil te maken – zowel in het labo als in het veld. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>",
-        "htmlEncoded": "Ben jij geboeid door genetica en plantenbiotechnologie? Wil je bijdragen aan de duurzame\nvoedselvoorziening van morgen?Klaar om deel uit te maken van een team dat zal\nwerken aan efficiëntere plantenveredeling? Dan is\ndit jouw moment om het verschil te maken – zowel in het labo als in het veld. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
           }
         }
       ]
