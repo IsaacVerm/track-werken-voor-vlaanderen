@@ -1,11 +1,46 @@
 {
-  "totalItems": 139,
+  "totalItems": 141,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 138,
+  "lastItemOfPage": 140,
   "items": [
+    {
+      "link": "/Job/vdab-72241654",
+      "internal": false,
+      "validThroughDate": "1762646400",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72241654",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jurist"
+      },
+      "displayTitle": "Jurist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij juridisch onderlegd, geboeid door de evoluties in de energiesector én maatschappelijk geëngageerd? Dan is deze functie jou op het lijf geschreven.</span><br><span>De </span><span>energietransitie</span><span> stelt netbeheerders, leveranciers en andere marktspelers voor grote uitdagingen én kansen: netcongestie, de komst van grote batterijen en datacenters, nood aan flexibiliteitsdiensten… en dat alles binnen een complex juridisch kader.</span><br><span>Als jurist speel jij een sleutelrol in het vormgeven van het energiebeleid van morgen. Samen met je collega’s zorg je ervoor dat de energietransitie juridisch stevig onderbouwd is en vlot kan verlopen. Jouw werk maakt écht het verschil.</span></p> \n<p><strong>Over Vlaamse Nutsregulator</strong></p> \n<p>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<ul> \n<li>In multidisciplinair teamverband stel je mee de \n<strong>technische en marktregels</strong> op voor de aanleg en het beheer van de elektriciteits- en gasnetten en het goed functioneren van de energiemarkt in het Vlaams Gewest.</li> \n<li>Je bestudeert de \n<strong>energiewetgeving </strong>op dit vlak (Vlaams, federaal, Europees), rechtspraak en rechtsleer en de nieuwe evoluties daarin. Je adviseert daarover intern én aan beleidsmakers (minister van energie, Vlaams Parlement).</li> \n<li>Je maakt \n<strong>beslissingen </strong>en andere documenten op (brieven, nota’s, adviezen, rapporten, ...) op, in lijn met de energiewetgeving en technische reglementen.</li> \n<li>Je gaat de naleving na van de energieregelgeving en technische reglementen door de netbeheerders en zorgt voor de \n<strong>handhaving </strong>daarvan.</li> \n<li>Je neemt deel aan \n<strong>overleg </strong>met andere regulatoren en stakeholders.</li> \n<li>Je \n<strong> overlegt met onze raadsman</strong> voor extern juridisch advies en om onze belangen in rechte te verdedigen.</li> </ul>",
+        "htmlEncoded": "<p><span>Ben jij juridisch onderlegd, geboeid door de evoluties in de energiesector én maatschappelijk geëngageerd? Dan is deze functie jou op het lijf geschreven.</span><br><span>De </span><span>energietransitie</span><span> stelt netbeheerders, leveranciers en andere marktspelers voor grote uitdagingen én kansen: netcongestie, de komst van grote batterijen en datacenters, nood aan flexibiliteitsdiensten… en dat alles binnen een complex juridisch kader.</span><br><span>Als jurist speel jij een sleutelrol in het vormgeven van het energiebeleid van morgen. Samen met je collega’s zorg je ervoor dat de energietransitie juridisch stevig onderbouwd is en vlot kan verlopen. Jouw werk maakt écht het verschil.</span></p> \n<p><strong>Over Vlaamse Nutsregulator</strong></p> \n<p>De Vlaamse Nutsregulator is verantwoordelijk voor het reguleren, toezicht houden op en monitoren van de elektriciteits- en gasmarkt in Vlaanderen. Dat doen we ook voor warmtenetten en CO2-vervoer via pijpleidingen. Als onafhankelijke autoriteit streven we naar betrouwbare en efficiënte nutsvoorzieningen. We denken op lange termijn en in het algemeen belang en richten ons op de toekomst. Vanaf 2026 worden onze verantwoordelijkheden uitgebreid naar de waterketen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<ul> \n<li>In multidisciplinair teamverband stel je mee de \n<strong>technische en marktregels</strong> op voor de aanleg en het beheer van de elektriciteits- en gasnetten en het goed functioneren van de energiemarkt in het Vlaams Gewest.</li> \n<li>Je bestudeert de \n<strong>energiewetgeving </strong>op dit vlak (Vlaams, federaal, Europees), rechtspraak en rechtsleer en de nieuwe evoluties daarin. Je adviseert daarover intern én aan beleidsmakers (minister van energie, Vlaams Parlement).</li> \n<li>Je maakt \n<strong>beslissingen </strong>en andere documenten op (brieven, nota’s, adviezen, rapporten, ...) op, in lijn met de energiewetgeving en technische reglementen.</li> \n<li>Je gaat de naleving na van de energieregelgeving en technische reglementen door de netbeheerders en zorgt voor de \n<strong>handhaving </strong>daarvan.</li> \n<li>Je neemt deel aan \n<strong>overleg </strong>met andere regulatoren en stakeholders.</li> \n<li>Je \n<strong> overlegt met onze raadsman</strong> voor extern juridisch advies en om onze belangen in rechte te verdedigen.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72204307",
       "internal": false,
@@ -942,41 +977,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Productpartner </strong>om het centraal team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als oplossingsgerichte brugfunctie tussen klant-partner \n<span><span><span><span>[</span></span></span></span>en onze productspecialisten meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? \n<strong> </strong></span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Product Partner </strong>kom je terecht in het Centraal Team van de afdeling Loketplatform. Het Centraal Team bundelt de transversale rollen – analisten, UX designers, projectleiders, architecten, service delivery team en product partners - binnen de afdeling. Per transversale rol stemmen we onze methodologie af en gebruiken we elkaar als klankbord. Zo garanderen we dat we elke vraag van een klant-partner zo holistisch mogelijk benaderen.</span></p> \n<p><span>Vanuit het Centraal Team word je toegewezen aan één of meerdere specifieke teams om samen aan een oplossing te werken :</span></p> \n<ul> \n<li><span>Digitale loketten omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht.</span></li> \n<li><span>Infoplatform is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden.</span></li> \n<li><span>Het centrale contactcenter is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></li> </ul> \n<p><span>We verwachten je minimaal 50% van de werktijd op kantoor. Je vaste werkplek is ons kantoor in \n<strong>Brussel.</strong></span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste \n<strong>Productpartner </strong>om het centraal team van de afdeling \n<strong>Loketplatform </strong>te versterken. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als oplossingsgerichte brugfunctie tussen klant-partner \n<span><span><span><span>[</span></span></span></span>en onze productspecialisten meewerkt aan een hoogstaande en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? \n<strong> </strong></span></p> \n<p><span>Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </span></p> \n<p><span>Als \n<strong>Product Partner </strong>kom je terecht in het Centraal Team van de afdeling Loketplatform. Het Centraal Team bundelt de transversale rollen – analisten, UX designers, projectleiders, architecten, service delivery team en product partners - binnen de afdeling. Per transversale rol stemmen we onze methodologie af en gebruiken we elkaar als klankbord. Zo garanderen we dat we elke vraag van een klant-partner zo holistisch mogelijk benaderen.</span></p> \n<p><span>Vanuit het Centraal Team word je toegewezen aan één of meerdere specifieke teams om samen aan een oplossing te werken :</span></p> \n<ul> \n<li><span>Digitale loketten omvat burgergerichte loketten zoals Mijn Burgerprofiel, en alle bouwstenen die gedeeld worden met andere loketten, zoals het e-loket ondernemers en het verenigingenloket. Mijn Burgerprofiel is de plek waar je al jouw zaken met de overheid veilig en digitaal kan regelen, zoals je dossiers opvolgen, gegevens inkijken, attesten downloaden of documenten raadplegen. Mijn Burgerprofiel verzamelt al je officiële gegevens en je overheidsadministratie in één persoonlijk overzicht.</span></li> \n<li><span>Infoplatform is de oplossing voor alle Vlaamse overheidsorganisaties die hun digitale dienstverlening eenvoudiger en beter herkenbaar willen maken. Het platform biedt veel functionaliteiten en voldoet aan de meest recente digitale en gebruikersstandaarden.</span></li> \n<li><span>Het centrale contactcenter is het eerste aanspreekpunt voor vragen over de Vlaamse overheid van burgers, bedrijven en organisaties, zowel digitaal als via het telefoonnummer 1700. Vlaamse overheidsdiensten kunnen het contactcenter ook inzetten om vragen via hun eigen infolijn of contactkanalen te beantwoorden.</span></li> </ul> \n<p><span>We verwachten je minimaal 50% van de werktijd op kantoor. Je vaste werkplek is ons kantoor in \n<strong>Brussel.</strong></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71991907",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71991907",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Programmaverantwoordelijke ITS en Innovatie (AWV) via Vlaanderen connect"
-      },
-      "displayTitle": "Programmaverantwoordelijke ITS en Innovatie (AWV) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p> \n<p><span>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.\n<br></span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Je maakt deel uit van het Portfolio Management Office Innovatie (PMO Innovatie), dat op zijn beurt deel uitmaakt van het CIO Office van de afdeling ICT en Innovatie. Het PMO Innovatie heeft als doel AWV voor te bereiden op de toekomst door de nieuwste ontwikkelingen te identificeren, de impact hiervan op onze activiteiten te analyseren en een visie- en strategieontwikkeling te formuleren om hiermee om te gaan.Het PMO Innovatie werkt concrete innovatietrajecten uit volgens het learning by doing principe. Voor de lopende innovatieprogramma’s monitort en rapporteert het PMO Innovatie de voortgang en verleent ze advies.</span></p> \n<p><span>Het team participeert actief in Europees en Belgisch overleg en in Vlaamse proefprojecten op het gebied van onder andere C-ITS (coöperatieve ITS: geconnecteerde voertuigen en voertuig-naar-infrastructuur-communicatie) en CAD (geconnecteerd en autonoom rijden).</span></p>",
-        "htmlEncoded": "<p>Als programmaverantwoordelijke ITS en Innovatie hou je voortdurend je blik op de wereld rond je: je volgt de trends en innovaties op het vlak van verkeer en mobiliteit nauwlettend op en vertaalt die naar de korte en lange termijnstrategie en -visie van AWV m.b.t. slimme en innovatieve mobiliteitsprojecten. Zo draag je o.a. bij aan het verzamelen en verspreiden van expertise, beste praktijken en informatie over de nieuwste evoluties op het vlak de vier innovatie focus area’s, zoals:</p> \n<ul> \n<li>Slimme wegen door digitalisatie,</li> \n<li>Geconnecteerde, coöperatieve en autonome mobiliteit (CCAM)</li> \n<li>EU green deal,</li> \n<li>Business transformatie.</li> </ul> \n<p>Je vertegenwoordigt AWV en/of de Vlaamse overheid tijdens externe overlegvergaderingen met stakeholders rond innovatieve mobiliteitsprojecten.</p> \n<p>Je ondersteunt de opmaak van businesscases voor studies, proefprojecten of van (Europees gesubsidieerde) projectvoorstellen met aandacht voor de kosten en de baten alsook de risico’s voor ons agentschap. Je volgt lopende projecten nauwgezet op, rapporteert op regelmatige basis over de vorderingen en zorgt voor een evaluatie met het oog op een eventuele verdere uitrol van succesvolle proefprojecten in de dagelijkse werking van AWV.</p> \n<p>We zijn een daadkrachtig agentschap en binnen de afdeling ICT &amp; Innovatie waarin je terecht komt spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij en onthouden we vooral de opstekers. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p> \n<p><span>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.\n<br></span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Je maakt deel uit van het Portfolio Management Office Innovatie (PMO Innovatie), dat op zijn beurt deel uitmaakt van het CIO Office van de afdeling ICT en Innovatie. Het PMO Innovatie heeft als doel AWV voor te bereiden op de toekomst door de nieuwste ontwikkelingen te identificeren, de impact hiervan op onze activiteiten te analyseren en een visie- en strategieontwikkeling te formuleren om hiermee om te gaan.Het PMO Innovatie werkt concrete innovatietrajecten uit volgens het learning by doing principe. Voor de lopende innovatieprogramma’s monitort en rapporteert het PMO Innovatie de voortgang en verleent ze advies.</span></p> \n<p><span>Het team participeert actief in Europees en Belgisch overleg en in Vlaamse proefprojecten op het gebied van onder andere C-ITS (coöperatieve ITS: geconnecteerde voertuigen en voertuig-naar-infrastructuur-communicatie) en CAD (geconnecteerd en autonoom rijden).</span></p>"
       },
       "locations": [
         {
@@ -2422,6 +2422,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19620",
+      "internal": false,
+      "validThroughDate": "1763251200",
+      "hiringOrganization": "Opgroeien",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19620",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "administratief medewerker OSD regio Antwerpen"
+      },
+      "displayTitle": "administratief medewerker OSD regio Antwerpen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Opgroeien –\nOndersteuningscentra en Sociale Diensten Jeugdrechtbank (OSD) regio Antwerpen\nis op zoek naar een medewerker om het administratief team met standplaats Mechelen te versterken.<br>Het betreft een tijdelijk contract.<br>De functie is op korte termijn vacant.<br><br>Als\nadministratief medewerker bij Opgroeien sta je o.a. in voor het onthaal van de\nbezoekers en het beantwoorden van de telefoon. Je takenpakket is voornamelijk\nvan administratieve aard zoals het invoeren van gegevens in een elektronisch\ndossier, het verslagnemen bij vergaderingen, het logistiek ondersteunen van\ncollega’s… <br>Wij\nzoeken een administratief medewerker voor de afdeling Ondersteuningscentra en Sociale\ndiensten Jeugdrechtbank in Mechelen. We werken in een gepoold team over de\nlocaties heen, dus je bent flexibel en multi-inzetbaar. <br> Heb je al een eerste administratieve ervaring? Dan ben jij misschien wel de\nkandidaat die wij zoeken!</p>",
+        "htmlEncoded": "<p>Opgroeien –\nOndersteuningscentra en Sociale Diensten Jeugdrechtbank (OSD) regio Antwerpen\nis op zoek naar een medewerker om het administratief team met standplaats Mechelen te versterken.<br>Het betreft een tijdelijk contract.<br>De functie is op korte termijn vacant.<br><br>Als\nadministratief medewerker bij Opgroeien sta je o.a. in voor het onthaal van de\nbezoekers en het beantwoorden van de telefoon. Je takenpakket is voornamelijk\nvan administratieve aard zoals het invoeren van gegevens in een elektronisch\ndossier, het verslagnemen bij vergaderingen, het logistiek ondersteunen van\ncollega’s… <br>Wij\nzoeken een administratief medewerker voor de afdeling Ondersteuningscentra en Sociale\ndiensten Jeugdrechtbank in Mechelen. We werken in een gepoold team over de\nlocaties heen, dus je bent flexibel en multi-inzetbaar. <br> Heb je al een eerste administratieve ervaring? Dan ben jij misschien wel de\nkandidaat die wij zoeken!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19599",
       "internal": false,
       "validThroughDate": "1762041600",
@@ -3096,6 +3131,41 @@
         {
           "address": {
             "city": "Sint-Gillis (Bij-Brussel)"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19402",
+      "internal": false,
+      "validThroughDate": "1763078400",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19402",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist energieprestaties van gebouwen"
+      },
+      "displayTitle": "Specialist energieprestaties van gebouwen",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een (bio-) ingenieur met een passie voor energie-efficiëntie? Wil je meewerken aan een duurzamer Vlaanderen door de energieprestaties van gebouwen en hun installaties te verbeteren? Dan is deze functie jou op het lijf geschreven.<br><br>Als specialist energieprestaties van gebouwen werk je binnen het team Methodieken van de cluster Energie-efficiëntie aan de uitvoering én versterking van het energiebeleid in Vlaanderen. Je combineert diepgaande kennis van berekeningsmethodieken voor energieprestaties van (nieuwe en bestaande) gebouwen met inzicht in technische installaties zoals verwarming, ventilatie en koeling. Vanuit jouw expertise werk je mee aan het verbeteren en vereenvoudigen van beleidskaders (vooral voor EPB en EPC), het voorbereiden van adviezen, het verzamelen en rapporteren van gegevens en het opvolgen van studies en projecten (bijvoorbeeld in kader van de omzetting van de Europese EPBD-richtlijn). Je speelt tevens een rol in de verdere defossilisering van het gebouwenpark.<br><br>Projectmatig werken is een essentieel onderdeel van je rol. Je neemt actief deel aan werkgroepen, coördineert deelprojecten en bewaakt de voortgang en kwaliteit van de uitvoering.<br><br>Je ontwikkelt technische documenten, ondersteunende tools en opleidingsmateriaal, en geeft advies aan interne en externe stakeholders. Je vertaalt complexe regelgeving naar heldere toepassingen en draagt bij aan publieksgerichte communicatie. Daarnaast volg je de implementatie van beleidsmaatregelen op, analyseer je knelpunten en stuur je bij waar nodig.<br><br>In deze functie werk je nauw samen met andere experten, beleidsmakers en belanghebbenden. Je bouwt mee aan een kennisnetwerk rond energieprestaties, blijft op de hoogte van evoluties in het werkveld en draagt actief bij aan de evaluatie en verbetering van bestaande regelgeving.<br><br>Kortom, je bent een sleutelfiguur in de technische onderbouw van het Vlaamse beleid inzake energieprestaties van gebouwen. Met jouw expertise en projectmatige aanpak maak je het verschil in de transitie naar energiezuinige gebouwen en installaties. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
+        "htmlEncoded": "Ben jij een (bio-) ingenieur met een passie voor energie-efficiëntie? Wil je meewerken aan een duurzamer Vlaanderen door de energieprestaties van gebouwen en hun installaties te verbeteren? Dan is deze functie jou op het lijf geschreven.<br><br>Als specialist energieprestaties van gebouwen werk je binnen het team Methodieken van de cluster Energie-efficiëntie aan de uitvoering én versterking van het energiebeleid in Vlaanderen. Je combineert diepgaande kennis van berekeningsmethodieken voor energieprestaties van (nieuwe en bestaande) gebouwen met inzicht in technische installaties zoals verwarming, ventilatie en koeling. Vanuit jouw expertise werk je mee aan het verbeteren en vereenvoudigen van beleidskaders (vooral voor EPB en EPC), het voorbereiden van adviezen, het verzamelen en rapporteren van gegevens en het opvolgen van studies en projecten (bijvoorbeeld in kader van de omzetting van de Europese EPBD-richtlijn). Je speelt tevens een rol in de verdere defossilisering van het gebouwenpark.<br><br>Projectmatig werken is een essentieel onderdeel van je rol. Je neemt actief deel aan werkgroepen, coördineert deelprojecten en bewaakt de voortgang en kwaliteit van de uitvoering.<br><br>Je ontwikkelt technische documenten, ondersteunende tools en opleidingsmateriaal, en geeft advies aan interne en externe stakeholders. Je vertaalt complexe regelgeving naar heldere toepassingen en draagt bij aan publieksgerichte communicatie. Daarnaast volg je de implementatie van beleidsmaatregelen op, analyseer je knelpunten en stuur je bij waar nodig.<br><br>In deze functie werk je nauw samen met andere experten, beleidsmakers en belanghebbenden. Je bouwt mee aan een kennisnetwerk rond energieprestaties, blijft op de hoogte van evoluties in het werkveld en draagt actief bij aan de evaluatie en verbetering van bestaande regelgeving.<br><br>Kortom, je bent een sleutelfiguur in de technische onderbouw van het Vlaamse beleid inzake energieprestaties van gebouwen. Met jouw expertise en projectmatige aanpak maak je het verschil in de transitie naar energiezuinige gebouwen en installaties. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
