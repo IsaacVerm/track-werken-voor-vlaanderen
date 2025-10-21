@@ -1,11 +1,46 @@
 {
-  "totalItems": 141,
+  "totalItems": 143,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 140,
+  "lastItemOfPage": 142,
   "items": [
+    {
+      "link": "/Job/vdab-72245327",
+      "internal": false,
+      "validThroughDate": "1762041600",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72245327",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "klinisch psycholoog Dagkliniek Jongeren"
+      },
+      "displayTitle": "klinisch psycholoog Dagkliniek Jongeren",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij écht het verschil maken voor jongeren in een semi-residentiële setting?\n<br> De \n<strong>Dagkliniek Jongeren van OPZ Geel</strong> zoekt een \n<strong>klinisch psycholoog</strong> die met passie, betrokkenheid en veerkracht wil bijdragen aan kwaliteitsvolle psychologische zorg.</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>De \n<strong>Dagkliniek Jongeren</strong> biedt langdurige, semi-residentiële zorg aan jongeren tussen \n<strong>15 en 18 jaar</strong>.\n<br> We werken op maat van elke jongere, met aandacht voor hun psychische en psychiatrische noden.\n<br> Ons doel? Jongeren opnieuw perspectief bieden via een afgestemde behandeling in een warme, multidisciplinaire omgeving.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog ben je een sleutelfiguur binnen het behandelteam.\n<br> Je ondersteunt jongeren in hun groei en herstel, zowel individueel als in groep, en betrekt ook hun context actief bij het proces.</span></p> \n<p><span>Concreet:</span></p> \n<ul type=\"disc\"> \n<li><span>Je begeleidt jongeren via \n<strong>individuele- en groepstherapie</strong>.</span></li> \n<li><span>Je betrekt \n<strong>ouders en context</strong> via gezins- of netwerkgesprekken.</span></li> \n<li><span>Je biedt \n<strong>therapeutische handvaten</strong> die jongeren helpen sterker te staan in hun dagelijks leven.</span></li> \n<li><span>Je implementeert en ontwikkelt \n<strong>therapeutische methodieken</strong> afgestemd op de noden van onze doelgroep.</span></li> \n<li><span>Je draagt actief bij aan een \n<strong>warm en veilig leefklimaat</strong> binnen de werking.</span></li> \n<li><span>Je inspireert collega’s en neemt samen verantwoordelijkheid voor kwalitatieve, gedragen zorg.</span></li> \n<li><span>Je voert \n<strong><span>diagnostiek</span></strong> uit op indicatie.</span></li> </ul>",
+        "htmlEncoded": "<p><span>Wil jij écht het verschil maken voor jongeren in een semi-residentiële setting?\n<br> De \n<strong>Dagkliniek Jongeren van OPZ Geel</strong> zoekt een \n<strong>klinisch psycholoog</strong> die met passie, betrokkenheid en veerkracht wil bijdragen aan kwaliteitsvolle psychologische zorg.</span></p> \n<p><strong><span>Over ons</span></strong></p> \n<p><span>De \n<strong>Dagkliniek Jongeren</strong> biedt langdurige, semi-residentiële zorg aan jongeren tussen \n<strong>15 en 18 jaar</strong>.\n<br> We werken op maat van elke jongere, met aandacht voor hun psychische en psychiatrische noden.\n<br> Ons doel? Jongeren opnieuw perspectief bieden via een afgestemde behandeling in een warme, multidisciplinaire omgeving.</span></p> \n<p><strong><span>Jouw rol</span></strong></p> \n<p><span>Als klinisch psycholoog ben je een sleutelfiguur binnen het behandelteam.\n<br> Je ondersteunt jongeren in hun groei en herstel, zowel individueel als in groep, en betrekt ook hun context actief bij het proces.</span></p> \n<p><span>Concreet:</span></p> \n<ul type=\"disc\"> \n<li><span>Je begeleidt jongeren via \n<strong>individuele- en groepstherapie</strong>.</span></li> \n<li><span>Je betrekt \n<strong>ouders en context</strong> via gezins- of netwerkgesprekken.</span></li> \n<li><span>Je biedt \n<strong>therapeutische handvaten</strong> die jongeren helpen sterker te staan in hun dagelijks leven.</span></li> \n<li><span>Je implementeert en ontwikkelt \n<strong>therapeutische methodieken</strong> afgestemd op de noden van onze doelgroep.</span></li> \n<li><span>Je draagt actief bij aan een \n<strong>warm en veilig leefklimaat</strong> binnen de werking.</span></li> \n<li><span>Je inspireert collega’s en neemt samen verantwoordelijkheid voor kwalitatieve, gedragen zorg.</span></li> \n<li><span>Je voert \n<strong><span>diagnostiek</span></strong> uit op indicatie.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72241654",
       "internal": false,
@@ -1407,41 +1442,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71725297",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71725297",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Boekhouder"
-      },
-      "displayTitle": "Boekhouder",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het Openbaar Psychiatrisch Zorgcentrum Rekem is een pluralistische en vraaggestuurde organisatie binnen de geestelijke gezondheidszorg in de regio Oost-Limburg.\n<span> </span>Wij bieden professionele interdisciplinaire antwoorden op individuele zorgbehoeften en leveren een belangrijke bijdrage aan de Vlaamse forensische zorg.</span></p> \n<p><span>Om onze financieel administratieve diensten en onze dienst boekhouding ter versterken, zoeken we een nieuwe collega boekhouder. Wil jij meehelpen om van OPZC Rekem een cashloze campus te maken? Ben je helemaal thuis in het opmaken van facturen en het rapporteren op crediteuren en debiteuren? Dan ben jij de boekhouder die we zoeken!</span></p> \n<p><strong><span> </span></strong><strong>Jouw takenpakket:</strong></p> \n<p><span>Je zal tewerkgesteld worden binnen de financieel-administratieve diensten. Hier zal je onder andere ingezet worden om van OPZC Rekem een cashloze campus te maken, in samenwerking met je rechtstreekse collega’s. Daarnaast worden je boekhoudkundige vaardigheden ingezet:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>voor de opvolging van openstaande debiteuren en crediteuren alsook de rapportage hierop;</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het scannen van aankoopfacturen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het opmaken van externe facturen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het boeken van de facturatie</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het boeken van bankverrichtingen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het opmaken van betaallijsten leveranciers en controle inhoudingsplicht crediteuren</span></p> \n<p><span><span>·\n<span> </span></span></span><span>reconciliatie BTW aangifte</span></p> \n<p><span><span>·\n<span> </span></span></span><span>verwerking reis- en verblijfskosten personeel</span></p> \n<p><span><span>·\n<span> </span></span></span><span>enz..</span></p> \n<p><span>In deze taken ondersteun je ook onze dienst Boekhouding.</span></p> \n<p> </p>",
-        "htmlEncoded": "<p><span>Het Openbaar Psychiatrisch Zorgcentrum Rekem is een pluralistische en vraaggestuurde organisatie binnen de geestelijke gezondheidszorg in de regio Oost-Limburg.\n<span> </span>Wij bieden professionele interdisciplinaire antwoorden op individuele zorgbehoeften en leveren een belangrijke bijdrage aan de Vlaamse forensische zorg.</span></p> \n<p><span>Om onze financieel administratieve diensten en onze dienst boekhouding ter versterken, zoeken we een nieuwe collega boekhouder. Wil jij meehelpen om van OPZC Rekem een cashloze campus te maken? Ben je helemaal thuis in het opmaken van facturen en het rapporteren op crediteuren en debiteuren? Dan ben jij de boekhouder die we zoeken!</span></p> \n<p><strong><span> </span></strong><strong>Jouw takenpakket:</strong></p> \n<p><span>Je zal tewerkgesteld worden binnen de financieel-administratieve diensten. Hier zal je onder andere ingezet worden om van OPZC Rekem een cashloze campus te maken, in samenwerking met je rechtstreekse collega’s. Daarnaast worden je boekhoudkundige vaardigheden ingezet:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>voor de opvolging van openstaande debiteuren en crediteuren alsook de rapportage hierop;</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het scannen van aankoopfacturen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het opmaken van externe facturen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het boeken van de facturatie</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het boeken van bankverrichtingen</span></p> \n<p><span><span>·\n<span> </span></span></span><span>het opmaken van betaallijsten leveranciers en controle inhoudingsplicht crediteuren</span></p> \n<p><span><span>·\n<span> </span></span></span><span>reconciliatie BTW aangifte</span></p> \n<p><span><span>·\n<span> </span></span></span><span>verwerking reis- en verblijfskosten personeel</span></p> \n<p><span><span>·\n<span> </span></span></span><span>enz..</span></p> \n<p><span>In deze taken ondersteun je ook onze dienst Boekhouding.</span></p> \n<p> </p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71724885",
       "internal": false,
       "validThroughDate": "-1",
@@ -2422,6 +2422,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19622",
+      "internal": false,
+      "validThroughDate": "1762387200",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19622",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Klimaatjurist"
+      },
+      "displayTitle": "Klimaatjurist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Vraag jij je weleens af hoe je met jouw rechtendiploma een stempel kan drukken op de klimaat- en energietransitie in Vlaanderen? Je merkt het vanzelf als je praat met het juristenteam van het Vlaams Energie- en Klimaatagentschap (VEKA). Een groep van een 10-tal mensen die alle medewerkers van het VEKA ondersteunen. En met een vrije stoel, misschien voor jou?&nbsp;</p><p>Samen met je collega-juristen bied je juridische ondersteuning bij het uitwerken, implementeren, handhaven en evalueren van het Vlaamse energie- en klimaatbeleid.<br>Als klimaatjurist ligt je focus onder andere - maar niet uitsluitend - op het juridisch ondersteunen van de taken van het VEKA met betrekking tot energie- en klimaataangelegenheden. Dit omvat onder meer het juridische kader rond industrieel klimaatbeleid (de emissiehandelsystemen, methaan, F-gassen, CO2-vervoer,…). Je ondersteunt daarnaast bij het omzetten en toepassen van Europese richtlijnen met betrekking tot o.a. klimaat naar Vlaamse decreten en besluiten. Je werkt samen met de andere juristen en met inhoudelijk experten en je neemt deel aan interfederaal overleg of Vlaams stakeholderoverleg om een goed begrip te krijgen van de materie. Tot slot word je ook ingeschakeld bij algemene agentschapsondersteunende juridische taken.</p><p>Een greep uit je takenpakket:</p><ul><li>Juridische expertise opbouwen rond o.a. klimaat;</li><li>Europese regelgeving in een Vlaams wetgevend kader omzetten;</li><li>Collega’s ondersteunen bij de implementatie en interpretatie van regionale, nationale en Europese klimaat- en energieregelgeving;</li><li>Juridische beleidsvoorstellen opstellen;</li><li>Deelnemen aan werkgroepen en projecten vanuit je expertisedomein;</li><li>Het uitvoeren van algemene agentschapsondersteunende juridische taken ten behoeve van het management.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Vraag jij je weleens af hoe je met jouw rechtendiploma een stempel kan drukken op de klimaat- en energietransitie in Vlaanderen? Je merkt het vanzelf als je praat met het juristenteam van het Vlaams Energie- en Klimaatagentschap (VEKA). Een groep van een 10-tal mensen die alle medewerkers van het VEKA ondersteunen. En met een vrije stoel, misschien voor jou?&nbsp;</p><p>Samen met je collega-juristen bied je juridische ondersteuning bij het uitwerken, implementeren, handhaven en evalueren van het Vlaamse energie- en klimaatbeleid.<br>Als klimaatjurist ligt je focus onder andere - maar niet uitsluitend - op het juridisch ondersteunen van de taken van het VEKA met betrekking tot energie- en klimaataangelegenheden. Dit omvat onder meer het juridische kader rond industrieel klimaatbeleid (de emissiehandelsystemen, methaan, F-gassen, CO2-vervoer,…). Je ondersteunt daarnaast bij het omzetten en toepassen van Europese richtlijnen met betrekking tot o.a. klimaat naar Vlaamse decreten en besluiten. Je werkt samen met de andere juristen en met inhoudelijk experten en je neemt deel aan interfederaal overleg of Vlaams stakeholderoverleg om een goed begrip te krijgen van de materie. Tot slot word je ook ingeschakeld bij algemene agentschapsondersteunende juridische taken.</p><p>Een greep uit je takenpakket:</p><ul><li>Juridische expertise opbouwen rond o.a. klimaat;</li><li>Europese regelgeving in een Vlaams wetgevend kader omzetten;</li><li>Collega’s ondersteunen bij de implementatie en interpretatie van regionale, nationale en Europese klimaat- en energieregelgeving;</li><li>Juridische beleidsvoorstellen opstellen;</li><li>Deelnemen aan werkgroepen en projecten vanuit je expertisedomein;</li><li>Het uitvoeren van algemene agentschapsondersteunende juridische taken ten behoeve van het management.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19620",
       "internal": false,
       "validThroughDate": "1763251200",
@@ -2789,41 +2824,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19504",
-      "internal": false,
-      "validThroughDate": "1760918400",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19504",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Centrale rapportenbouwer"
-      },
-      "displayTitle": "Centrale rapportenbouwer",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij impact maken met data en rapportering in een\norganisatie die het recht op kansrijk opgroeien voor elk kind en elke jongere\ncentraal stelt? Heb je een passie voor data, rapportering en visualisatie? Dan\nis deze functie iets voor jou!&nbsp;&nbsp;<br><br>Als <strong>centrale\nrapportenbouwer</strong> bouw je\ncentrale en afdelingsoverschrijdende rapportages en heldere dashboards die\naansluiten op de informatiebehoeften van de business. Je werkt binnen jouw team\nmee aan de uitbouw van de rapporteringsomgeving, de rapporteringsgovernance en\ndraagt de datawerking verder uit binnen opgroeien. <br><br>Binnen jouw functie ben je verantwoordelijk voor het\nsuccesvol ontwikkelen, optimaliseren, wijzigen, publiceren en buiten gebruik\nstellen van rapporten en dashboards. Je zorgt samen met de collega’s dat\nrapportages aansluiten bij de informatiebehoefte van de organisatie en\nbijdragen aan de data-gedreven besluitvorming. Je werkt hiervoor nauw samen met\ncollega’s zoals BI Engineers, rapportenanalisten, centrale en thema\nrapportenbouwers.</p><p>Daarnaast vind je het leuk om je te verdiepen in oplossingen\nin de Power BI omgeving en geef je ondersteuning aan collega’s binnen de\ndatawerking en eindgebruikers om zo ook de bruikbaarheid en datakwaliteit te\nverbeteren.&nbsp;<br><br><strong>Wat ga je doen?</strong></p><ul><li>Ontwerpen\n     en ontwikkelen van rapporten en dashboards in Power BI</li><li>Vertalen\n     van functionele vereisten naar heldere visualisaties</li><li>Toepassen\n     van rapporteringsstandaarden en governance</li><li>Publiceren\n     en beheren van rapporten via Power BI Service</li><li>Waarborgen\n     van datakwaliteit en samenwerken met technische collega’s</li><li>Coachen\n     en ondersteunen van collega’s, thema rapportenbouwers en eindgebruikers</li><li>Meewerken\n     aan een gedragen datacultuur binnen Opgroeien</li><li>Volgen\n     van technologische ontwikkelingen en implementeren van nieuwe tools</li></ul>",
-        "htmlEncoded": "<p>Wil jij impact maken met data en rapportering in een\norganisatie die het recht op kansrijk opgroeien voor elk kind en elke jongere\ncentraal stelt? Heb je een passie voor data, rapportering en visualisatie? Dan\nis deze functie iets voor jou!&nbsp;&nbsp;<br><br>Als <strong>centrale\nrapportenbouwer</strong> bouw je\ncentrale en afdelingsoverschrijdende rapportages en heldere dashboards die\naansluiten op de informatiebehoeften van de business. Je werkt binnen jouw team\nmee aan de uitbouw van de rapporteringsomgeving, de rapporteringsgovernance en\ndraagt de datawerking verder uit binnen opgroeien. <br><br>Binnen jouw functie ben je verantwoordelijk voor het\nsuccesvol ontwikkelen, optimaliseren, wijzigen, publiceren en buiten gebruik\nstellen van rapporten en dashboards. Je zorgt samen met de collega’s dat\nrapportages aansluiten bij de informatiebehoefte van de organisatie en\nbijdragen aan de data-gedreven besluitvorming. Je werkt hiervoor nauw samen met\ncollega’s zoals BI Engineers, rapportenanalisten, centrale en thema\nrapportenbouwers.</p><p>Daarnaast vind je het leuk om je te verdiepen in oplossingen\nin de Power BI omgeving en geef je ondersteuning aan collega’s binnen de\ndatawerking en eindgebruikers om zo ook de bruikbaarheid en datakwaliteit te\nverbeteren.&nbsp;<br><br><strong>Wat ga je doen?</strong></p><ul><li>Ontwerpen\n     en ontwikkelen van rapporten en dashboards in Power BI</li><li>Vertalen\n     van functionele vereisten naar heldere visualisaties</li><li>Toepassen\n     van rapporteringsstandaarden en governance</li><li>Publiceren\n     en beheren van rapporten via Power BI Service</li><li>Waarborgen\n     van datakwaliteit en samenwerken met technische collega’s</li><li>Coachen\n     en ondersteunen van collega’s, thema rapportenbouwers en eindgebruikers</li><li>Meewerken\n     aan een gedragen datacultuur binnen Opgroeien</li><li>Volgen\n     van technologische ontwikkelingen en implementeren van nieuwe tools</li></ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Gillis"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19501",
       "internal": false,
       "validThroughDate": "1761436800",
@@ -3104,6 +3104,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19459",
+      "internal": false,
+      "validThroughDate": "1762473600",
+      "hiringOrganization": "Agentschap voor Natuur en Bos",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19459",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Groenarbeider"
+      },
+      "displayTitle": "Groenarbeider",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij iemand die energie krijgt van werken in de buitenlucht, en wil je elke dag, in weer en wind bijdragen aan een mooier stukje natuur? Dan wacht er bij het Agentschap voor Natuur en Bos een unieke kans op jou! Wij zoeken een enthousiaste groenarbeider om onze ploeg in <strong>Beveren</strong> te versterken. Samen met je collega’s zet je je in voor het behoud en de groei van de biodiversiteit en de natuurlijke pracht van onze regio.<br><br><strong>Je werkterrein?</strong> Adembenemende <strong>natuurgebieden aan de linkeroever van de Schelde</strong>, waar je dagelijks het verschil maakt voor mens én dier. Van de groene buffer langs de Waaslandhaven, waar weidevogels hun thuis vinden, tot de bossen en vijvers van Linkeroever, een oase van rust in de stad. Je helpt mee aan het beheer van de Polders van Kruibeke, een paradijs voor otters en zeldzame fauna, én het iconische Stropersbos met zijn statige dreven en grazende dieren. Elk gebied heeft zijn eigen charme en uitdagingen, en jij mag er deel van uitmaken!<br><br>Jij bent niet zomaar een natuurliefhebber. Je hebt oog voor detail, bent leergierig en wil je kennis van planten en bomen verder uitbouwen. Je voelt je thuis tussen machines voor groenonderhoud en weet ze veilig en vakkundig te gebruiken. Samenwerken in een hecht team, een positieve ingesteldheid en aanpakken zijn voor jou vanzelfsprekend.<br><br>Grijp deze kans om jouw passie voor natuur om te zetten in tastbare resultaten. Bij ons krijg je de ruimte om te groeien, te leren en écht impact te maken. Samen zorgen we ervoor dat onze natuurgebieden floreren – voor vandaag én morgen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br>",
+        "htmlEncoded": "<p>Ben jij iemand die energie krijgt van werken in de buitenlucht, en wil je elke dag, in weer en wind bijdragen aan een mooier stukje natuur? Dan wacht er bij het Agentschap voor Natuur en Bos een unieke kans op jou! Wij zoeken een enthousiaste groenarbeider om onze ploeg in <strong>Beveren</strong> te versterken. Samen met je collega’s zet je je in voor het behoud en de groei van de biodiversiteit en de natuurlijke pracht van onze regio.<br><br><strong>Je werkterrein?</strong> Adembenemende <strong>natuurgebieden aan de linkeroever van de Schelde</strong>, waar je dagelijks het verschil maakt voor mens én dier. Van de groene buffer langs de Waaslandhaven, waar weidevogels hun thuis vinden, tot de bossen en vijvers van Linkeroever, een oase van rust in de stad. Je helpt mee aan het beheer van de Polders van Kruibeke, een paradijs voor otters en zeldzame fauna, én het iconische Stropersbos met zijn statige dreven en grazende dieren. Elk gebied heeft zijn eigen charme en uitdagingen, en jij mag er deel van uitmaken!<br><br>Jij bent niet zomaar een natuurliefhebber. Je hebt oog voor detail, bent leergierig en wil je kennis van planten en bomen verder uitbouwen. Je voelt je thuis tussen machines voor groenonderhoud en weet ze veilig en vakkundig te gebruiken. Samenwerken in een hecht team, een positieve ingesteldheid en aanpakken zijn voor jou vanzelfsprekend.<br><br>Grijp deze kans om jouw passie voor natuur om te zetten in tastbare resultaten. Bij ons krijg je de ruimte om te groeien, te leren en écht impact te maken. Samen zorgen we ervoor dat onze natuurgebieden floreren – voor vandaag én morgen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Beveren-Kruibeke-Zwijndrecht"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19422",
       "internal": false,
       "validThroughDate": "1763078400",
@@ -3203,6 +3238,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19394",
+      "internal": false,
+      "validThroughDate": "1763424000",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19394",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Technisch specialist klimatisatie"
+      },
+      "displayTitle": "Technisch specialist klimatisatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Klaar om een sleutelrol te spelen in de energie- en klimaattransitie?<br><br></span><span>Bij het Vlaams Energie- en Klimaatagentschap (VEKA) krijg je de kans om je ondernemerschap te tonen, innovatieve oplossingen te bedenken en impact te hebben in de wereld van klimatisatie. Heb je al kennis van of een sterke interesse in deze sector? Dan zijn wij naar jou op zoek!<br><br></span><span>Als technisch specialist klimatisatie is het jouw taak om de huidige verwarmings-, koelings- en ventilatie-installaties efficiënter te laten functioneren. Dit doe je door in te zetten op de ontwikkeling en implementatie van concrete beleidsmaatregelen voor een beter(e) opvolging, onderhoud, inregeling en dimensionering van de installaties. Ook help je mee aan acties die de vervanging van minder goed werkende installaties versnellen. Je werkt bijvoorbeeld aan methodes waarmee installateurs het rendement van huidige installaties kunnen beoordelen en ontwikkelt ondersteunende tools voor verwarmingsdeskundigen die eigenaars onafhankelijk advies aanleveren bij de keuze van een nieuwe, duurzame installatie.<br><br></span><span>Verder heb je sporadisch contacten met mensen op het terrein, zoals installateurs, technici en opleidingsinstellingen, om inzichten uit de praktijk te verzamelen. Op basis daarvan werk je mee aan het uitdenken en vormgeven van regelgeving en nieuw beleid.<br><br></span><span>Wil je nog meer over deze functie te weten komen? </span><span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/omg/2025+VEKA/16740_jobinhoud+in+detail_kandidaat_technisch+specialist+klimatisatie.pdf\">Lees hier meer details over het takenpakket</a></span><span> of stel </span><span><a href=\"#_Nog_vragen?\">hier</a></span><span> je vraag.</span><span></span></p>",
+        "htmlEncoded": "<p><span>Klaar om een sleutelrol te spelen in de energie- en klimaattransitie?<br><br></span><span>Bij het Vlaams Energie- en Klimaatagentschap (VEKA) krijg je de kans om je ondernemerschap te tonen, innovatieve oplossingen te bedenken en impact te hebben in de wereld van klimatisatie. Heb je al kennis van of een sterke interesse in deze sector? Dan zijn wij naar jou op zoek!<br><br></span><span>Als technisch specialist klimatisatie is het jouw taak om de huidige verwarmings-, koelings- en ventilatie-installaties efficiënter te laten functioneren. Dit doe je door in te zetten op de ontwikkeling en implementatie van concrete beleidsmaatregelen voor een beter(e) opvolging, onderhoud, inregeling en dimensionering van de installaties. Ook help je mee aan acties die de vervanging van minder goed werkende installaties versnellen. Je werkt bijvoorbeeld aan methodes waarmee installateurs het rendement van huidige installaties kunnen beoordelen en ontwikkelt ondersteunende tools voor verwarmingsdeskundigen die eigenaars onafhankelijk advies aanleveren bij de keuze van een nieuwe, duurzame installatie.<br><br></span><span>Verder heb je sporadisch contacten met mensen op het terrein, zoals installateurs, technici en opleidingsinstellingen, om inzichten uit de praktijk te verzamelen. Op basis daarvan werk je mee aan het uitdenken en vormgeven van regelgeving en nieuw beleid.<br><br></span><span>Wil je nog meer over deze functie te weten komen? </span><span><a href=\"https://selecties.s3.eu-west-1.amazonaws.com/omg/2025+VEKA/16740_jobinhoud+in+detail_kandidaat_technisch+specialist+klimatisatie.pdf\">Lees hier meer details over het takenpakket</a></span><span> of stel </span><span><a href=\"#_Nog_vragen?\">hier</a></span><span> je vraag.</span><span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19393",
       "internal": false,
       "validThroughDate": "1764460800",
@@ -3233,6 +3303,41 @@
         {
           "address": {
             "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19384",
+      "internal": false,
+      "validThroughDate": "1763078400",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19384",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator schoonmaak"
+      },
+      "displayTitle": "Coördinator schoonmaak",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Coördinator Schoonmaak ben je\nverantwoordelijk voor het operationeel en administratief beheer én de\nkwaliteitsopvolging van de schoonmaak in jouw regio. Je stuurt samen met twee\nteamleiders beide schoonmaakploegen van een 10-tal schoonmaakmedewerkers in\neigen beheer aan, ondersteunt deze teamleiders schoonmaak en organiseert en\nbewaakt de schoonmaak in gebouwen waar deze is uitbesteed in de beide regio’s. <br><br>De gebouwen in jouw regio omvatten zowel grote sites\nals kleinere gebouwen, waaronder onder meer kabinetten. Voor deze\nlaatste is er regelmatig contact met kabinetssecretarissen, wat een specifieke\nen zorgvuldige opvolging vereist.<br><br>Je combineert de rol van people manager met die\nvan contractmanager, bent hierbij vaak op pad tussen de diverse gebouwen\nin jouw werkregio en onderhoudt daarbij nauwe contacten met klanten.<br>Wat doe je?<br>- Je\n     plant en coördineert de dagelijkse werking van de schoonmaak in jouw\n     regio, bepaalt prioriteiten en verdeelt taken.<br>- Je\n     begeleidt en coacht teamleiders schoonmaak en medewerkers, voert\n     evaluatiegesprekken en zorgt voor een veilige en motiverende werkomgeving.<br>- Je\n     waakt over een uniforme en kwaliteitsvolle uitvoering van de\n     schoonmaakactiviteiten, zowel intern als extern, en grijpt in bij\n     problemen of klachten.<br>- Je\n     organiseert en volgt uitbestede schoonmaakopdrachten op, inclusief\n     contractbeheer, opstart en kwaliteitscontroles.<br>- Je\n     zorgt voor een correcte administratieve opvolging: van rapportering en\n     facturatie tot gebouwenfiches, meetstaten en planningen.<br>- Je\n     beheert het nodige materiaal en ziet toe op het correct gebruik van\n     toestellen en producten, conform veiligheids- en kwaliteitsnormen.<br>- Je\n     onderhoudt contacten met klanten, leveranciers en interne stakeholders,\n     behandelt vragen en klachten en stemt de dienstverlening af op de noden\n     van de klant.<br>- Je\n     werkt mee aan verbeteracties en beleidswijzigingen, levert input voor\n     optimalisatie en draagt bij aan het behalen en behouden van\n     ISO-certificaten.</p><p><strong>Meer details kan je terugvinden in het selectiereglement.&nbsp;</strong></p>",
+        "htmlEncoded": "<p>Als Coördinator Schoonmaak ben je\nverantwoordelijk voor het operationeel en administratief beheer én de\nkwaliteitsopvolging van de schoonmaak in jouw regio. Je stuurt samen met twee\nteamleiders beide schoonmaakploegen van een 10-tal schoonmaakmedewerkers in\neigen beheer aan, ondersteunt deze teamleiders schoonmaak en organiseert en\nbewaakt de schoonmaak in gebouwen waar deze is uitbesteed in de beide regio’s. <br><br>De gebouwen in jouw regio omvatten zowel grote sites\nals kleinere gebouwen, waaronder onder meer kabinetten. Voor deze\nlaatste is er regelmatig contact met kabinetssecretarissen, wat een specifieke\nen zorgvuldige opvolging vereist.<br><br>Je combineert de rol van people manager met die\nvan contractmanager, bent hierbij vaak op pad tussen de diverse gebouwen\nin jouw werkregio en onderhoudt daarbij nauwe contacten met klanten.<br>Wat doe je?<br>- Je\n     plant en coördineert de dagelijkse werking van de schoonmaak in jouw\n     regio, bepaalt prioriteiten en verdeelt taken.<br>- Je\n     begeleidt en coacht teamleiders schoonmaak en medewerkers, voert\n     evaluatiegesprekken en zorgt voor een veilige en motiverende werkomgeving.<br>- Je\n     waakt over een uniforme en kwaliteitsvolle uitvoering van de\n     schoonmaakactiviteiten, zowel intern als extern, en grijpt in bij\n     problemen of klachten.<br>- Je\n     organiseert en volgt uitbestede schoonmaakopdrachten op, inclusief\n     contractbeheer, opstart en kwaliteitscontroles.<br>- Je\n     zorgt voor een correcte administratieve opvolging: van rapportering en\n     facturatie tot gebouwenfiches, meetstaten en planningen.<br>- Je\n     beheert het nodige materiaal en ziet toe op het correct gebruik van\n     toestellen en producten, conform veiligheids- en kwaliteitsnormen.<br>- Je\n     onderhoudt contacten met klanten, leveranciers en interne stakeholders,\n     behandelt vragen en klachten en stemt de dienstverlening af op de noden\n     van de klant.<br>- Je\n     werkt mee aan verbeteracties en beleidswijzigingen, levert input voor\n     optimalisatie en draagt bij aan het behalen en behouden van\n     ISO-certificaten.</p><p><strong>Meer details kan je terugvinden in het selectiereglement.&nbsp;</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
@@ -3443,6 +3548,41 @@
         {
           "address": {
             "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19363",
+      "internal": false,
+      "validThroughDate": "1762473600",
+      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19363",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectcoördinator energie en klimaat"
+      },
+      "displayTitle": "Projectcoördinator energie en klimaat",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee het verschil maken voor een duurzaam Vlaanderen? Het Vlaams Energie- en Klimaatagentschap (VEKA) zoekt een gedreven projectcoördinator die energie krijgt van complexe projecten met maatschappelijke impact.</p><p><strong>Jouw uitdaging:</strong><br><br>Je coördineert en begeleidt strategische projecten rond energie en klimaat, zoals bijvoorbeeld de implementatie van PV-plicht voor grootverbruikers, de koppeling van databanken, het uitwerken van een handhavingskader, diverse dataprojecten.<br><br>Je werkt in een divers team, schakelt vlot tussen verschillende projecten en stakeholders, brengt risico’s en beschikbare middelen in kaart en zorgt ervoor dat deadlines en doelstellingen worden gehaald. Je kan de brug slaan tussen beleidsinhoudelijke, communicatieve, IT en juridische aspecten en je weet de juiste vragen te stellen zodat je projecten tot een goed einde kan brengen.<br><br><strong>Jouw profiel:</strong><br><br>-&nbsp; &nbsp;Je bent analytisch, flexibel, communicatief sterk en een echte teamspeler.<br>-&nbsp; &nbsp;Je houdt ervan om zowel inhoudelijk als organisatorisch werk te doen en om meerdere projecten tegelijkertijd aan te pakken.<br>-&nbsp; &nbsp;Je hebt affiniteit met digitalisering en begrijpt zowel de IT- als de juridische taal.<br>-&nbsp; &nbsp;Je werkt gestructureerd en hebt een uitstekende mondelinge en schriftelijke taalbeheersing.<br><br><strong>Wat bieden wij?</strong><br><br>-&nbsp; &nbsp;Een dynamische werkomgeving met ruimte voor initiatief en persoonlijke groei.<br>-&nbsp; &nbsp;Flexibel werken, inclusief thuiswerkmogelijkheden.<br><br><strong>Solliciteer nu en bouw mee aan een klimaatneutraal Vlaanderen!</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wil jij mee het verschil maken voor een duurzaam Vlaanderen? Het Vlaams Energie- en Klimaatagentschap (VEKA) zoekt een gedreven projectcoördinator die energie krijgt van complexe projecten met maatschappelijke impact.</p><p><strong>Jouw uitdaging:</strong><br><br>Je coördineert en begeleidt strategische projecten rond energie en klimaat, zoals bijvoorbeeld de implementatie van PV-plicht voor grootverbruikers, de koppeling van databanken, het uitwerken van een handhavingskader, diverse dataprojecten.<br><br>Je werkt in een divers team, schakelt vlot tussen verschillende projecten en stakeholders, brengt risico’s en beschikbare middelen in kaart en zorgt ervoor dat deadlines en doelstellingen worden gehaald. Je kan de brug slaan tussen beleidsinhoudelijke, communicatieve, IT en juridische aspecten en je weet de juiste vragen te stellen zodat je projecten tot een goed einde kan brengen.<br><br><strong>Jouw profiel:</strong><br><br>-&nbsp; &nbsp;Je bent analytisch, flexibel, communicatief sterk en een echte teamspeler.<br>-&nbsp; &nbsp;Je houdt ervan om zowel inhoudelijk als organisatorisch werk te doen en om meerdere projecten tegelijkertijd aan te pakken.<br>-&nbsp; &nbsp;Je hebt affiniteit met digitalisering en begrijpt zowel de IT- als de juridische taal.<br>-&nbsp; &nbsp;Je werkt gestructureerd en hebt een uitstekende mondelinge en schriftelijke taalbeheersing.<br><br><strong>Wat bieden wij?</strong><br><br>-&nbsp; &nbsp;Een dynamische werkomgeving met ruimte voor initiatief en persoonlijke groei.<br>-&nbsp; &nbsp;Flexibel werken, inclusief thuiswerkmogelijkheden.<br><br><strong>Solliciteer nu en bouw mee aan een klimaatneutraal Vlaanderen!</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4181,38 +4321,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19230",
-      "internal": true,
-      "validThroughDate": "1760918400",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19230",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectverantwoordelijke ‘Natuur in je school’"
-      },
-      "displayTitle": "Projectverantwoordelijke ‘Natuur in je school’",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als projectverantwoordelijke coördineer je de projectoproep ‘Natuur in je School’ en help je zo mee de uitdaging rond klimaatadaptatie voor scholen te realiseren. Je werkt samen met experten op verschillende domeinen: uit het Departement Omgeving, maar ook uit andere agentschappen van het beleidsdomein (Natuur en Bos, Vlaamse Milieumaatschappij), provinciale MOS-begeleiders, experten van externe organisaties en andere belanghebbenden.<br><br></span><span>Je staat in voor de coördinatie en operationele uitvoering van de subsidieoproep ‘Natuur in je School’. Je behandelt, samen met een team van experten (jury), de subsidieaanvragen en komt tot een onderbouwd advies aan de minister.<br><br></span><span>Je ondersteunt de doelgroep (scholen) met heldere communicatie over de oproep. Je neemt initiatief om kennisdeling over succesvolle natuurlijke inrichting op school op te zetten en te stimuleren. Je ondersteunt de MOS-werking bij vergroeningstrajecten op school.<br><br></span><span>Flexibele inzet op andere taken of opdrachten is ook mogelijk.</span></p>",
-        "htmlEncoded": "<p><span>Als projectverantwoordelijke coördineer je de projectoproep ‘Natuur in je School’ en help je zo mee de uitdaging rond klimaatadaptatie voor scholen te realiseren. Je werkt samen met experten op verschillende domeinen: uit het Departement Omgeving, maar ook uit andere agentschappen van het beleidsdomein (Natuur en Bos, Vlaamse Milieumaatschappij), provinciale MOS-begeleiders, experten van externe organisaties en andere belanghebbenden.<br><br></span><span>Je staat in voor de coördinatie en operationele uitvoering van de subsidieoproep ‘Natuur in je School’. Je behandelt, samen met een team van experten (jury), de subsidieaanvragen en komt tot een onderbouwd advies aan de minister.<br><br></span><span>Je ondersteunt de doelgroep (scholen) met heldere communicatie over de oproep. Je neemt initiatief om kennisdeling over succesvolle natuurlijke inrichting op school op te zetten en te stimuleren. Je ondersteunt de MOS-werking bij vergroeningstrajecten op school.<br><br></span><span>Flexibele inzet op andere taken of opdrachten is ook mogelijk.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19225",
       "internal": true,
       "validThroughDate": "1761696000",
@@ -4313,76 +4421,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19208",
-      "internal": false,
-      "validThroughDate": "1760918400",
-      "hiringOrganization": "Agentschap Wegen en Verkeer",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19208",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Operationeel relatiebeheerder"
-      },
-      "displayTitle": "Operationeel relatiebeheerder",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b>De Vlaamse wegen zijn constant in beweging</b>. Werken, evenementen en grote infrastructuurprojecten herschrijven dagelijks het verkeersbeeld. Wil jij mee zorgen voor een veilige en vlotte doorstroming? Bij het <b>Verkeerscentrum</b> draag je daar elke dag actief aan bij.</p> <p>Als <b>operationeel relatiebeheerder</b> ben jij<b> de brug tussen het Verkeerscentrum en zijn vele partners</b>. <span>&nbsp;&nbsp;</span>In nauwe samenwerking met wegbeheerders, politie en hulpdiensten, organisatoren en andere nationale en internationale stakeholders <b>zorg je er voor dat de verkeersdoostroming bij wegenwerken en evenementen vlot en veilig verloopt.</b></p> <p>Je bent een sleutelfiguur in de dagelijkse 24/7 werking van onze controlezalen. Je overlegt met partners, <b>beoordeelt hinder en vertaalt afspraken in duidelijke draaiboeken</b> voor onze verkeersleiders. Die gebruiken jouw instructies om het verkeer in goede banen te leiden, tunnels te beheren en weggebruikers correct te informeren.</p> <p>Je volgt grote infrastructuurprojecten zoals de Oosterweelverbinding of de herinrichting van de Brusselse en Gentse ring van nabij op. Je denkt mee na over de <b>afstemming tussen verschillende werven<span>,</span> adviseert over de beste timing en aanpak<span> en zorgt ervoor dat tijdens de bouwfase het verkeersmanagement en de verkeersinformatie gegarandeerd blijft.</span></b></p> <p>Je bouwt expertise op in <b>dynamisch verkeers- en tunnelmanagement</b> en werkt met technische systemen en <b>ITS (Intelligente Transportsystemen)</b>. Je werkt nauw samen met collega’s uit verschillende disciplines: van verkeersdeskundigen tot data-analisten en ICT’ers.</p> <p>Ook de woordvoerder van het Verkeerscentrum rekent op jou. Jij informeert hem proactief over geplande hinder en relevante draaiboekgegevens, zodat het Verkeerscentrum betrouwbaar kan communiceren met media en publiek.</p> <p>Je komt terecht in <b>een team van drie operationeel relatiebeheerders</b>. Samen met scenarioplanners en teamverantwoordelijken van verkeersleiders en operatoren vorm je een hecht netwerk dat elke dag het verschil maakt.</p>",
-        "htmlEncoded": "<p><b>De Vlaamse wegen zijn constant in beweging</b>. Werken, evenementen en grote infrastructuurprojecten herschrijven dagelijks het verkeersbeeld. Wil jij mee zorgen voor een veilige en vlotte doorstroming? Bij het <b>Verkeerscentrum</b> draag je daar elke dag actief aan bij.</p> <p>Als <b>operationeel relatiebeheerder</b> ben jij<b> de brug tussen het Verkeerscentrum en zijn vele partners</b>. <span>&nbsp;&nbsp;</span>In nauwe samenwerking met wegbeheerders, politie en hulpdiensten, organisatoren en andere nationale en internationale stakeholders <b>zorg je er voor dat de verkeersdoostroming bij wegenwerken en evenementen vlot en veilig verloopt.</b></p> <p>Je bent een sleutelfiguur in de dagelijkse 24/7 werking van onze controlezalen. Je overlegt met partners, <b>beoordeelt hinder en vertaalt afspraken in duidelijke draaiboeken</b> voor onze verkeersleiders. Die gebruiken jouw instructies om het verkeer in goede banen te leiden, tunnels te beheren en weggebruikers correct te informeren.</p> <p>Je volgt grote infrastructuurprojecten zoals de Oosterweelverbinding of de herinrichting van de Brusselse en Gentse ring van nabij op. Je denkt mee na over de <b>afstemming tussen verschillende werven<span>,</span> adviseert over de beste timing en aanpak<span> en zorgt ervoor dat tijdens de bouwfase het verkeersmanagement en de verkeersinformatie gegarandeerd blijft.</span></b></p> <p>Je bouwt expertise op in <b>dynamisch verkeers- en tunnelmanagement</b> en werkt met technische systemen en <b>ITS (Intelligente Transportsystemen)</b>. Je werkt nauw samen met collega’s uit verschillende disciplines: van verkeersdeskundigen tot data-analisten en ICT’ers.</p> <p>Ook de woordvoerder van het Verkeerscentrum rekent op jou. Jij informeert hem proactief over geplande hinder en relevante draaiboekgegevens, zodat het Verkeerscentrum betrouwbaar kan communiceren met media en publiek.</p> <p>Je komt terecht in <b>een team van drie operationeel relatiebeheerders</b>. Samen met scenarioplanners en teamverantwoordelijken van verkeersleiders en operatoren vorm je een hecht netwerk dat elke dag het verschil maakt.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19204",
-      "internal": false,
-      "validThroughDate": "1760918400",
-      "hiringOrganization": "Wonen in Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19204",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Afdelingshoofd Woonbeleid"
-      },
-      "displayTitle": "Afdelingshoofd Woonbeleid",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wil jij mee richting geven aan het woonbeleid van morgen? Ben je een strategische en verbindende leider met visie en daadkracht die graag impact wil maken? Dan is deze functie iets voor jou.</span></p> <p><span>Bij Wonen in Vlaanderen werk je mee aan onze missie: kwaliteitsvol, toegankelijk en betaalbaar wonen mogelijk maken voor iedereen. Als afdelingshoofd Woonbeleid stuur je een team van 28 enthousiaste medewerkers aan en speel je een sleutelrol in de ontwikkeling, opvolging en evaluatie van het Vlaamse woonbeleid. Je bouwt bruggen tussen beleid, partners en organisaties.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Wil jij mee richting geven aan het woonbeleid van morgen? Ben je een strategische en verbindende leider met visie en daadkracht die graag impact wil maken? Dan is deze functie iets voor jou.</span></p> <p><span>Bij Wonen in Vlaanderen werk je mee aan onze missie: kwaliteitsvol, toegankelijk en betaalbaar wonen mogelijk maken voor iedereen. Als afdelingshoofd Woonbeleid stuur je een team van 28 enthousiaste medewerkers aan en speel je een sleutelrol in de ontwikkeling, opvolging en evaluatie van het Vlaamse woonbeleid. Je bouwt bruggen tussen beleid, partners en organisaties.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4535,6 +4573,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19046",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19046",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager Scheepsbouw"
+      },
+      "displayTitle": "Manager Scheepsbouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb je ervaring in het managen van scheepsbouwprojecten en ben je klaar voor een <strong>sleutelpositie</strong> in een toonaangevende organisatie met een sterke focus op innovatie, duurzaamheid en maatschappelijke meerwaarde?&nbsp;<br><br>Het Agentschap Maritieme Dienstverlening en Kust zoekt een manager scheepsbouw om verder te werken aan de vergroening en moderniseren van zijn rederij, <strong>DAB VLOOT</strong>.&nbsp;<br><br>Wat ga je doen?&nbsp;<br>Je staat in voor de volledige opvolging van scheepsbouwprojecten, van conceptfase tot oplevering inclusief garantieperiode. Je speelt een cruciale rol in het <strong>realiseren van innovatieve en duurzame scheepsbouwoplossingen, waarbij technische perfectie, juridische compliance en efficiënte coördinatie centraal staan.</strong><br><br>Jouw verantwoordelijkheden:</p><ul><li>Projectopvolging: je volgt het volledige bouwproces, inclusief voortgangsvergaderingen, werfopvolgingen, inhoudelijke analyses, juridische aspecten en kwaliteitscontroles.</li><li>Technische expertise: je adviseert en controleert specialistische technische onderwerpen zoals scheepsstructuren, voortstuwingssystemen, elektrische installaties, hydraulische systemen, HVAC, navigatiesystemen en meer.</li><li>Bestekbeheer: je stelt technische bestekken op en beheert deze, inclusief juridische opvolging en naleving van relevante normen en regelgeving.</li><li>Budgetbeheer: je beheert en bewaakt projectbudgetten, inclusief risicoanalyses en financiële rapportages.</li><li>Stakeholdermanagement: je werkt nauw samen met interne afdelingen en externe partijen, en rapporteert voortgang aan alle belanghebbenden.<br><br></li></ul><p>Wie zoeken wij?&nbsp;<br>Een proactieve en oplossingsgerichte <strong>technisch expert met</strong> sterke organisatorische vaardigheden. Je bent communicatief vaardig, zowel in het Nederlands als in het Engels, en je weet de belangen van onze organisatie, het personeel en de klant op een kritische en constructieve manier te behartigen.&nbsp;<br><br>Solliciteer nu en draag bij aan de toekomst van onze vloot!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
           }
         }
       ]
