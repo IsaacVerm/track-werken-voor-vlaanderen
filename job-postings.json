@@ -1,11 +1,46 @@
 {
-  "totalItems": 145,
+  "totalItems": 147,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 144,
+  "lastItemOfPage": 146,
   "items": [
+    {
+      "link": "/Job/vdab-72343527",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72343527",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën. </span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën. </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72312356",
       "internal": false,
@@ -592,41 +627,6 @@
       "description": {
         "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</span></p> \n<p><span>Als lead ontwikkelaar binnen een Java-team krijg je de kans om zowel technisch als strategisch een cruciale rol te vervullen in het succes van projecten. Deze functie biedt een unieke combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie, waarbij je een directe impact hebt op de richting en de kwaliteit van het eindproduct. </span></p>",
         "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</span></p> \n<p><span>Als lead ontwikkelaar binnen een Java-team krijg je de kans om zowel technisch als strategisch een cruciale rol te vervullen in het succes van projecten. Deze functie biedt een unieke combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie, waarbij je een directe impact hebt op de richting en de kwaliteit van het eindproduct. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72156056",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72156056",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.Het team is samengesteld uit een teamleider, developers, een lead developer, een technisch architect, analisten en testers. De gebruikte technologieën binnen de afdeling zijn Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,..</p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.</span></p> \n<p><span>Je bent de brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...</span></p> \n<p><span>Je bent ook verantwoordelijk voor de opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p> \n<p><span>Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.</span></p> \n<p><span>Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.</span></p> \n<p><span>Moderne context: je komt in contact met veel moderne technologieën.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.Het team is samengesteld uit een teamleider, developers, een lead developer, een technisch architect, analisten en testers. De gebruikte technologieën binnen de afdeling zijn Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,..</p>"
       },
       "locations": [
         {
@@ -1442,41 +1442,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71724885",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71724885",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Community manager CRM  (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Community manager CRM  (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bij Digitaal Vlaanderen zijn we op zoek naar een gedreven en ervaren \n<strong>community manager CRM</strong> die ons team komt versterken. Je bent verantwoordelijk voor het beheren en verder uitbouwen van onze dienstverlening richting andere agentschappen en departement in MS Dynamics en Salesforce. Dit doe je door te vertrekken van de bestaande processen en configuraties, het delen van best practices en opvolgen van welke oplossing geselecteerd en uitgerold wordt.</p> \n<p>Je zal de volledige Vlaamse Overheid en de (grotere) lokale overheden ontzorgen door de gemene deler in het gebruik van key CRM-systemen in kaart te brengen. Zo creëer je niet enkel een hefboom richting de technologieleveranciers. Je garandeert bovenal ook dat gelijkaardige processen op dezelfde manier worden ingericht – wat zowel voor een consistentere (eind)gebruikerservaring zorgt en de onderhoudskost onder controle houdt.</p> \n<p><strong><span>Ter verduidelijking</span></strong><span>: het gaat hier over het managen van de \n<em>interne </em>communities binnen de Vlaamse en lokale overheden. Dus niet over het bereiken van o.m. burgers of ondernemers via sociale platformen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data.</span></p> \n<p><span><br> Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. \n<br></span></p> \n<p><span>Je zal deel zijn van de afdeling Loketplatform. Wij bouwen en ontwikkelen het platform waarop de interactie tussen burgers, ondernemers, verenigingsleden en overheidsmedewerkers gefaciliteerd wordt. Dit betekent dat we zowel loketten als Mijn Burgerprofiel aanbieden, als het platform waarop gedeelde functionaliteiten ontwikkeld worden, de volledige hub van vlaanderen.be, en ook de omnichannel beleving garanderen via het slim inzetten van ons contactcenter.</span></p> \n<p><span>Een rode draad doorheen deze customer journeys is de workflow gelinkt aan het dossier waarover we in interactie gaan met de eindgebruiker. Verschillende entiteiten binnen de Vlaamse overheid werken hiervoor met Salesforce. Vanuit het team Dossier ben jij verantwoordelijk voor het beheer van het raamcontract met Salesforce.</span></p> \n<p><span>We werken vnl. vanuit het hoofdkantoor in Brussel (Herman Teirlinck gebouw naast Tour &amp; Taxis) en vanuit onze kantoren in het VAC Gent (vlak naast het station Gent-Sint-Pieters).</span></p>",
-        "htmlEncoded": "<p>Bij Digitaal Vlaanderen zijn we op zoek naar een gedreven en ervaren \n<strong>community manager CRM</strong> die ons team komt versterken. Je bent verantwoordelijk voor het beheren en verder uitbouwen van onze dienstverlening richting andere agentschappen en departement in MS Dynamics en Salesforce. Dit doe je door te vertrekken van de bestaande processen en configuraties, het delen van best practices en opvolgen van welke oplossing geselecteerd en uitgerold wordt.</p> \n<p>Je zal de volledige Vlaamse Overheid en de (grotere) lokale overheden ontzorgen door de gemene deler in het gebruik van key CRM-systemen in kaart te brengen. Zo creëer je niet enkel een hefboom richting de technologieleveranciers. Je garandeert bovenal ook dat gelijkaardige processen op dezelfde manier worden ingericht – wat zowel voor een consistentere (eind)gebruikerservaring zorgt en de onderhoudskost onder controle houdt.</p> \n<p><strong><span>Ter verduidelijking</span></strong><span>: het gaat hier over het managen van de \n<em>interne </em>communities binnen de Vlaamse en lokale overheden. Dus niet over het bereiken van o.m. burgers of ondernemers via sociale platformen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data.</span></p> \n<p><span><br> Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. \n<br></span></p> \n<p><span>Je zal deel zijn van de afdeling Loketplatform. Wij bouwen en ontwikkelen het platform waarop de interactie tussen burgers, ondernemers, verenigingsleden en overheidsmedewerkers gefaciliteerd wordt. Dit betekent dat we zowel loketten als Mijn Burgerprofiel aanbieden, als het platform waarop gedeelde functionaliteiten ontwikkeld worden, de volledige hub van vlaanderen.be, en ook de omnichannel beleving garanderen via het slim inzetten van ons contactcenter.</span></p> \n<p><span>Een rode draad doorheen deze customer journeys is de workflow gelinkt aan het dossier waarover we in interactie gaan met de eindgebruiker. Verschillende entiteiten binnen de Vlaamse overheid werken hiervoor met Salesforce. Vanuit het team Dossier ben jij verantwoordelijk voor het beheer van het raamcontract met Salesforce.</span></p> \n<p><span>We werken vnl. vanuit het hoofdkantoor in Brussel (Herman Teirlinck gebouw naast Tour &amp; Taxis) en vanuit onze kantoren in het VAC Gent (vlak naast het station Gent-Sint-Pieters).</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71485532",
       "internal": false,
       "validThroughDate": "-1",
@@ -2212,6 +2177,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19690",
+      "internal": false,
+      "validThroughDate": "1763337600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19690",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VTS-Operator - Zemst"
+      },
+      "displayTitle": "VTS-Operator - Zemst",
+      "isProtected": false,
+      "description": {
+        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
+        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19684",
       "internal": false,
       "validThroughDate": "1763856000",
@@ -2664,6 +2664,41 @@
         {
           "address": {
             "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19618",
+      "internal": true,
+      "validThroughDate": "1764028800",
+      "hiringOrganization": "Toerisme Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19618",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR Business Partner"
+      },
+      "displayTitle": "HR Business Partner",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij klaar om het verschil te maken als\nHR-Business Partner bij Toerisme Vlaanderen? Als HR Business Partner werk je mee\naan de uitvoering van het HR-beleid en zorg je ervoor dat HR-processen en\n-projecten vlot verlopen. Je werkdagen zijn uitdagend en gevarieerd:</p><ul><li>Je volgt de\nHR-richtlijnen van de Vlaamse overheid op de voet en vertaalt deze naar de\npraktijk binnen ons agentschap.</li><li>Je bent\nverantwoordelijk voor het personeelsplan en beheert nauwgezet ons weddebudget.</li><li>Dankzij jouw analytische inzichten in HR-data\ngeef je gefundeerd advies en werk je aan verbeteringen die echt een verschil\nmaken.</li><li>Als HR Business Partner ben je het eerste\naanspreekpunt voor het directieteam en leidinggevenden. Jij maakt het verschil\nbij de implementatie van ons HR-beleid en verandermanagement.</li><li>Naast je HR-taken coördineer je samen met het\nFacilitair Bedrijf belangrijke aspecten van facility management, zoals\ngebouwbeheer, wagenpark en verzekeringen.</li></ul><p>Je werkt in een dynamische en maatschappelijk\nrelevante omgeving. Geen enkele dag is hetzelfde en jouw werk heeft direct\ninvloed op de tevredenheid en ontwikkeling van onze medewerkers. Ben jij klaar om ons team te\nversterken en mee te bouwen aan een inspirerende werkplek? Solliciteer dan\nvandaag nog!</p>",
+        "htmlEncoded": "<p>Ben jij klaar om het verschil te maken als\nHR-Business Partner bij Toerisme Vlaanderen? Als HR Business Partner werk je mee\naan de uitvoering van het HR-beleid en zorg je ervoor dat HR-processen en\n-projecten vlot verlopen. Je werkdagen zijn uitdagend en gevarieerd:</p><ul><li>Je volgt de\nHR-richtlijnen van de Vlaamse overheid op de voet en vertaalt deze naar de\npraktijk binnen ons agentschap.</li><li>Je bent\nverantwoordelijk voor het personeelsplan en beheert nauwgezet ons weddebudget.</li><li>Dankzij jouw analytische inzichten in HR-data\ngeef je gefundeerd advies en werk je aan verbeteringen die echt een verschil\nmaken.</li><li>Als HR Business Partner ben je het eerste\naanspreekpunt voor het directieteam en leidinggevenden. Jij maakt het verschil\nbij de implementatie van ons HR-beleid en verandermanagement.</li><li>Naast je HR-taken coördineer je samen met het\nFacilitair Bedrijf belangrijke aspecten van facility management, zoals\ngebouwbeheer, wagenpark en verzekeringen.</li></ul><p>Je werkt in een dynamische en maatschappelijk\nrelevante omgeving. Geen enkele dag is hetzelfde en jouw werk heeft direct\ninvloed op de tevredenheid en ontwikkeling van onze medewerkers. Ben jij klaar om ons team te\nversterken en mee te bouwen aan een inspirerende werkplek? Solliciteer dan\nvandaag nog!</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3289,6 +3324,41 @@
       "description": {
         "raw": "De Dienst van de Bestuursrechtscolleges (kortweg DBRC) is de\ndienst die vier onafhankelijke Vlaamse bestuursrechtscolleges overkoepelt en\ninhoudelijk en administratief ondersteunt: de Raad voor Vergunningsbetwistingen\n(RvVb), het Handhavingscollege (HHC), de Raad voor betwistingen inzake\nstudievoortgangsbeslissingen (R.Stvb.) en de Raad voor Verkiezingsbetwistingen\n(R.Verkb).<br><br>Als referendaris\nmet bijzondere kennis van het (hoger)onderwijsrecht ondersteun je de bestuursrechters\nvan de Raad voor betwistingen inzake Studievoortgangbeslissingen (RSTVB) bij de\nbehandeling van bestuursrechtelijke\ngeschillen in het onderwijsrecht. Aan de hand van regelgeving, rechtspraak en rechtsleer adviseer\nje de bestuursrechter via de voorbereiding van een ‘ontwerpuitspraak’. Oplossingsgericht denken is daarbij je\ngrootste troef. <br><br>Bij de DBRC\nkrijg je de kans om bij te dragen aan de ontwikkeling van toonaangevende bestuursrechtspraak. Je zet je dagelijks in voor maatschappelijke onderwerpen en draagt bij tot\neen kwalitatieve en efficiënte rechtsbescherming als sluitsteen van de\nrechtstaat. Je wordt hierbij omringd door ervaren en\nbehulpzame collega’s. Bovendien zijn er bij de DBRC veel mogelijkheden voor\nintellectuele groei en ontwikkeling.",
         "htmlEncoded": "De Dienst van de Bestuursrechtscolleges (kortweg DBRC) is de\ndienst die vier onafhankelijke Vlaamse bestuursrechtscolleges overkoepelt en\ninhoudelijk en administratief ondersteunt: de Raad voor Vergunningsbetwistingen\n(RvVb), het Handhavingscollege (HHC), de Raad voor betwistingen inzake\nstudievoortgangsbeslissingen (R.Stvb.) en de Raad voor Verkiezingsbetwistingen\n(R.Verkb).<br><br>Als referendaris\nmet bijzondere kennis van het (hoger)onderwijsrecht ondersteun je de bestuursrechters\nvan de Raad voor betwistingen inzake Studievoortgangbeslissingen (RSTVB) bij de\nbehandeling van bestuursrechtelijke\ngeschillen in het onderwijsrecht. Aan de hand van regelgeving, rechtspraak en rechtsleer adviseer\nje de bestuursrechter via de voorbereiding van een ‘ontwerpuitspraak’. Oplossingsgericht denken is daarbij je\ngrootste troef. <br><br>Bij de DBRC\nkrijg je de kans om bij te dragen aan de ontwikkeling van toonaangevende bestuursrechtspraak. Je zet je dagelijks in voor maatschappelijke onderwerpen en draagt bij tot\neen kwalitatieve en efficiënte rechtsbescherming als sluitsteen van de\nrechtstaat. Je wordt hierbij omringd door ervaren en\nbehulpzame collega’s. Bovendien zijn er bij de DBRC veel mogelijkheden voor\nintellectuele groei en ontwikkeling."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19461",
+      "internal": false,
+      "validThroughDate": "1763683200",
+      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19461",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "IT-Ontwikkelaar"
+      },
+      "displayTitle": "IT-Ontwikkelaar",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij een ontwikkelaar die graag impact maakt? Bij VLAIO krijg je de kans om écht het verschil te maken in de digitale dienstverlening aan Vlaamse ondernemers. Je biedt technische ondersteuning, vertaalt analyses naar kwaliteitsvolle code en werkt nauw samen met zowel collega’s als externe dienstverleners.<br></span><span><br>Als IT-ontwikkelaar speel je een centrale rol in de digitale toekomst van Vlaanderen. Je werkt aan de kern van onze IT-applicaties binnen de afdeling Data &amp; Interne Innovatie (D&amp;II) en ondersteunt het bredere applicatielandschap van VLAIO. Samen met product owners, analisten, architecten en eindgebruikers bouw je aan betrouwbare en gebruiksvriendelijke toepassingen die het verschil maken voor ondernemers.<br></span><span><br>Wat ga je doen?</span></p><ul><li><span>Je ontwikkelt mee aan onderhoudstaken: van troubleshooting tot kleinere verbeteringen.</span></li><li><span>&nbsp;</span><span>Je wordt ingeschakeld bij projecten waarin je nieuwe functionaliteiten helpt uitbouwen.</span></li><li><span>&nbsp;</span><span>Je speelt een actieve rol in het beheer van extern ontwikkelde applicaties.</span></li><li><span>&nbsp;</span><span>Je ondersteunt de Lead Ontwikkelaar en helpt het eigenaarschap van de code binnen VLAIO te verankeren.</span></li><li><span>&nbsp;</span><span>Je staat in voor ontwikkeling, unit testing en documentatie van jouw werk.</span><span>Je werkt volgens de Agile-ITIL governance, en volgt onze kwaliteitsprincipes nauwgezet.</span></li><li><span>&nbsp;</span><span>Je werkt samen met andere teams binnen en buiten de afdeling D&amp;II.</span></li></ul> <p><span>Samen met 17 andere collega’s uit het competentiecentrum Applicaties zorg je er mee voor dat onze applicaties betrouwbaar, gebruiksvriendelijk en toekomstgericht zijn. Solliciteer nu en bouw mee aan de digitale ruggengraat van ondernemend Vlaanderen.</span></p> <p><b><span>&nbsp;</span></b><b><span>Op 14/11/2025 van 11u- 12u organiseren we een infomoment m.b.t. tot de vacature voor IT-ontwikkelaar. Heb jij specifieke vragen over de functie-inhoud of over de selectieprocedure? Schrijf je dan zeker in via dit </span></b><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.teams.microsoft.com%2Fevent%2Fad318bea-b3ab-453d-a6d3-8dd61809a67b%400c0338a6-9561-4ee8-b8d6-4e89cbd520a0&amp;data=05%7C02%7Cbart.vercruysse%40vlaio.be%7C7323862f2a724e0e11d508de109fb3a2%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638966475255336708%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2BhgfCblhvSLLF0H828ZgKpdIJnxDQurpulPWa2pFyPM%3D&amp;reserved=0\"><span>inschrijvingsformulier</span></a></span></p> <p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken.</span><span> </span><span>Kijk ook zeker eens op</span><span> </span><span><a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\">VLAIO werft aan! | Agentschap Innoveren en Ondernemen</a></span><u><span>.</span></u></p> <p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker </span><span><a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\"><span>deze video</span></a></span><span> </span><span>en hoor wat jouw toekomstige collega’s ervan vinden!</span><span> </span><span>Proef ook de sfeer via </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\"><span>getuigenissen</span></a></span><span> van enkele collega’s.</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij een ontwikkelaar die graag impact maakt? Bij VLAIO krijg je de kans om écht het verschil te maken in de digitale dienstverlening aan Vlaamse ondernemers. Je biedt technische ondersteuning, vertaalt analyses naar kwaliteitsvolle code en werkt nauw samen met zowel collega’s als externe dienstverleners.<br></span><span><br>Als IT-ontwikkelaar speel je een centrale rol in de digitale toekomst van Vlaanderen. Je werkt aan de kern van onze IT-applicaties binnen de afdeling Data &amp; Interne Innovatie (D&amp;II) en ondersteunt het bredere applicatielandschap van VLAIO. Samen met product owners, analisten, architecten en eindgebruikers bouw je aan betrouwbare en gebruiksvriendelijke toepassingen die het verschil maken voor ondernemers.<br></span><span><br>Wat ga je doen?</span></p><ul><li><span>Je ontwikkelt mee aan onderhoudstaken: van troubleshooting tot kleinere verbeteringen.</span></li><li><span>&nbsp;</span><span>Je wordt ingeschakeld bij projecten waarin je nieuwe functionaliteiten helpt uitbouwen.</span></li><li><span>&nbsp;</span><span>Je speelt een actieve rol in het beheer van extern ontwikkelde applicaties.</span></li><li><span>&nbsp;</span><span>Je ondersteunt de Lead Ontwikkelaar en helpt het eigenaarschap van de code binnen VLAIO te verankeren.</span></li><li><span>&nbsp;</span><span>Je staat in voor ontwikkeling, unit testing en documentatie van jouw werk.</span><span>Je werkt volgens de Agile-ITIL governance, en volgt onze kwaliteitsprincipes nauwgezet.</span></li><li><span>&nbsp;</span><span>Je werkt samen met andere teams binnen en buiten de afdeling D&amp;II.</span></li></ul> <p><span>Samen met 17 andere collega’s uit het competentiecentrum Applicaties zorg je er mee voor dat onze applicaties betrouwbaar, gebruiksvriendelijk en toekomstgericht zijn. Solliciteer nu en bouw mee aan de digitale ruggengraat van ondernemend Vlaanderen.</span></p> <p><b><span>&nbsp;</span></b><b><span>Op 14/11/2025 van 11u- 12u organiseren we een infomoment m.b.t. tot de vacature voor IT-ontwikkelaar. Heb jij specifieke vragen over de functie-inhoud of over de selectieprocedure? Schrijf je dan zeker in via dit </span></b><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.teams.microsoft.com%2Fevent%2Fad318bea-b3ab-453d-a6d3-8dd61809a67b%400c0338a6-9561-4ee8-b8d6-4e89cbd520a0&amp;data=05%7C02%7Cbart.vercruysse%40vlaio.be%7C7323862f2a724e0e11d508de109fb3a2%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638966475255336708%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2BhgfCblhvSLLF0H828ZgKpdIJnxDQurpulPWa2pFyPM%3D&amp;reserved=0\"><span>inschrijvingsformulier</span></a></span></p> <p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken.</span><span> </span><span>Kijk ook zeker eens op</span><span> </span><span><a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\">VLAIO werft aan! | Agentschap Innoveren en Ondernemen</a></span><u><span>.</span></u></p> <p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker </span><span><a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\"><span>deze video</span></a></span><span> </span><span>en hoor wat jouw toekomstige collega’s ervan vinden!</span><span> </span><span>Proef ook de sfeer via </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\"><span>getuigenissen</span></a></span><span> van enkele collega’s.</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</span></p>"
       },
       "locations": [
         {
