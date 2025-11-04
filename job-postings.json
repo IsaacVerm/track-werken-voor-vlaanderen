@@ -1,10 +1,10 @@
 {
-  "totalItems": 147,
+  "totalItems": 145,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 146,
+  "lastItemOfPage": 144,
   "items": [
     {
       "link": "/Job/vdab-72343527",
@@ -1757,41 +1757,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-70837261",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70837261",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Expert & Teamlead (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product Owner Expert & Teamlead (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p>Binnen data-integratie zijn er 3 subteams die diverse producten beheren rond data-integratie. Van open tot gesloten systemen voor het ontsluiten van data via diverse kanalen. Deze data wordt gebruikt in bedrijfsprocessen en het erstrekken informatie omtrent diverse domeinen binnen de overheid (bv. Omgeving, persoon, etc…) .</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span><span>Digitalisering</span></span><span><span>staat</span></span><span><span>hoger</span></span><span><span> dan </span></span><span><span>ooit</span></span><span><span> op de </span></span><span><span>Vlaamse</span></span><span><span> agenda. </span></span><span><span>Digitaal</span></span><span><span> Vlaanderen </span></span><span><span>beantwoordt</span></span><span><span>aan</span></span><span><span>deze</span></span><span><span>nood</span></span><span><span>. We </span></span><span><span>willen</span></span><span><span> de motor </span></span><span><span>zijn</span></span><span><span>voor</span></span><span><span> de </span></span><span><span>digitale</span></span><span><span>transformatie</span></span><span><span> van </span></span><span><span>overheden</span></span><span><span> in Vlaanderen.</span></span></p> \n<p>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>In je rol van Product Owner zal je samenwerken met experten op het vlak van databeheer, datatransformatie en IT architecten binnen Digitaal Vlaanderen waarbij je als Product Owner mee vorm geeft aan een deelproces van onze data-keten en het bewaken van de functionaliteit, schaalbaarheid en beheerbaarheid van het systeem.</span></p> \n<p><span>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van klanten, stakeholders en eindgebruikers.</span></p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking, het ter beschikking stellen van nieuwe functionaliteiten binnen de bestaande systemen, het toekomstgericht opschalen van de systemen om te voldoen aan de toekomstige noden en het aanbieden van nieuwe data-formaten op basis van de evoluerende standaarden en aangereikte usecases. Je zorgt voor het opstellen van de budgetten en het opvolgen en rapporteren ervan in samenwerking met de financieel verantwoordelijken binnen de organisatie.</p> \n<p>In je rol als teamlead leid je één van de subteams in het team Data-integratie van de afdeling Data Platform van Digitaal Vlaanderen.In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de functionele teams. Je ondersteunt ook de persoonlijke en professionele groei van elk teamlid.</p> \n<p>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p>Binnen data-integratie zijn er 3 subteams die diverse producten beheren rond data-integratie. Van open tot gesloten systemen voor het ontsluiten van data via diverse kanalen. Deze data wordt gebruikt in bedrijfsprocessen en het erstrekken informatie omtrent diverse domeinen binnen de overheid (bv. Omgeving, persoon, etc…) .</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p><span><span>Digitalisering</span></span><span><span>staat</span></span><span><span>hoger</span></span><span><span> dan </span></span><span><span>ooit</span></span><span><span> op de </span></span><span><span>Vlaamse</span></span><span><span> agenda. </span></span><span><span>Digitaal</span></span><span><span> Vlaanderen </span></span><span><span>beantwoordt</span></span><span><span>aan</span></span><span><span>deze</span></span><span><span>nood</span></span><span><span>. We </span></span><span><span>willen</span></span><span><span> de motor </span></span><span><span>zijn</span></span><span><span>voor</span></span><span><span> de </span></span><span><span>digitale</span></span><span><span>transformatie</span></span><span><span> van </span></span><span><span>overheden</span></span><span><span> in Vlaanderen.</span></span></p> \n<p>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><span>In je rol van Product Owner zal je samenwerken met experten op het vlak van databeheer, datatransformatie en IT architecten binnen Digitaal Vlaanderen waarbij je als Product Owner mee vorm geeft aan een deelproces van onze data-keten en het bewaken van de functionaliteit, schaalbaarheid en beheerbaarheid van het systeem.</span></p> \n<p><span>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering van business cases en/of de end-to-end life cycle van onze bouwstenen. Hierbij verdiep je je en begrijp je de exacte vraag, knelpunten, bestaande noden, opportuniteiten en informatiebehoeften van klanten, stakeholders en eindgebruikers.</span></p> \n<p>Je neemt verantwoordelijkheid voor de operationele werking, het ter beschikking stellen van nieuwe functionaliteiten binnen de bestaande systemen, het toekomstgericht opschalen van de systemen om te voldoen aan de toekomstige noden en het aanbieden van nieuwe data-formaten op basis van de evoluerende standaarden en aangereikte usecases. Je zorgt voor het opstellen van de budgetten en het opvolgen en rapporteren ervan in samenwerking met de financieel verantwoordelijken binnen de organisatie.</p> \n<p>In je rol als teamlead leid je één van de subteams in het team Data-integratie van de afdeling Data Platform van Digitaal Vlaanderen.In jouw teamleadrol draag je een dubbele verantwoordelijkheid.</p> \n<p>Enerzijds ben je people manager: je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de functionele teams. Je ondersteunt ook de persoonlijke en professionele groei van elk teamlid.</p> \n<p>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70730227",
       "internal": false,
       "validThroughDate": "-1",
@@ -2664,41 +2629,6 @@
         {
           "address": {
             "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19618",
-      "internal": true,
-      "validThroughDate": "1764028800",
-      "hiringOrganization": "Toerisme Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19618",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "HR Business Partner"
-      },
-      "displayTitle": "HR Business Partner",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij klaar om het verschil te maken als\nHR-Business Partner bij Toerisme Vlaanderen? Als HR Business Partner werk je mee\naan de uitvoering van het HR-beleid en zorg je ervoor dat HR-processen en\n-projecten vlot verlopen. Je werkdagen zijn uitdagend en gevarieerd:</p><ul><li>Je volgt de\nHR-richtlijnen van de Vlaamse overheid op de voet en vertaalt deze naar de\npraktijk binnen ons agentschap.</li><li>Je bent\nverantwoordelijk voor het personeelsplan en beheert nauwgezet ons weddebudget.</li><li>Dankzij jouw analytische inzichten in HR-data\ngeef je gefundeerd advies en werk je aan verbeteringen die echt een verschil\nmaken.</li><li>Als HR Business Partner ben je het eerste\naanspreekpunt voor het directieteam en leidinggevenden. Jij maakt het verschil\nbij de implementatie van ons HR-beleid en verandermanagement.</li><li>Naast je HR-taken coördineer je samen met het\nFacilitair Bedrijf belangrijke aspecten van facility management, zoals\ngebouwbeheer, wagenpark en verzekeringen.</li></ul><p>Je werkt in een dynamische en maatschappelijk\nrelevante omgeving. Geen enkele dag is hetzelfde en jouw werk heeft direct\ninvloed op de tevredenheid en ontwikkeling van onze medewerkers. Ben jij klaar om ons team te\nversterken en mee te bouwen aan een inspirerende werkplek? Solliciteer dan\nvandaag nog!</p>",
-        "htmlEncoded": "<p>Ben jij klaar om het verschil te maken als\nHR-Business Partner bij Toerisme Vlaanderen? Als HR Business Partner werk je mee\naan de uitvoering van het HR-beleid en zorg je ervoor dat HR-processen en\n-projecten vlot verlopen. Je werkdagen zijn uitdagend en gevarieerd:</p><ul><li>Je volgt de\nHR-richtlijnen van de Vlaamse overheid op de voet en vertaalt deze naar de\npraktijk binnen ons agentschap.</li><li>Je bent\nverantwoordelijk voor het personeelsplan en beheert nauwgezet ons weddebudget.</li><li>Dankzij jouw analytische inzichten in HR-data\ngeef je gefundeerd advies en werk je aan verbeteringen die echt een verschil\nmaken.</li><li>Als HR Business Partner ben je het eerste\naanspreekpunt voor het directieteam en leidinggevenden. Jij maakt het verschil\nbij de implementatie van ons HR-beleid en verandermanagement.</li><li>Naast je HR-taken coördineer je samen met het\nFacilitair Bedrijf belangrijke aspecten van facility management, zoals\ngebouwbeheer, wagenpark en verzekeringen.</li></ul><p>Je werkt in een dynamische en maatschappelijk\nrelevante omgeving. Geen enkele dag is hetzelfde en jouw werk heeft direct\ninvloed op de tevredenheid en ontwikkeling van onze medewerkers. Ben jij klaar om ons team te\nversterken en mee te bouwen aan een inspirerende werkplek? Solliciteer dan\nvandaag nog!</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
