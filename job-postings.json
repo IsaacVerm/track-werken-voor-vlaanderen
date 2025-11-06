@@ -1,11 +1,151 @@
 {
-  "totalItems": 146,
+  "totalItems": 151,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 145,
+  "lastItemOfPage": 150,
   "items": [
+    {
+      "link": "/Job/vdab-72370512",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72370512",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ICT Programmamanager (60% via Vlaamse onderwijsinspectie) Via Vlaanderen connect"
+      },
+      "displayTitle": "ICT Programmamanager (60% via Vlaamse onderwijsinspectie) Via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als ICT Programmamanager zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Leiden van programma’s en projecten binnen het domein \n<span>data, analytics en IT-transformatie</span>, van strategie tot realisatie.</li> \n<li>Vertalen van strategische doelstellingen naar een geïntegreerde roadmap en concrete opleverbare resultaten.</li> \n<li>Coördineren van meerdere parallelle projecten (BI, AI, applicaties, infrastructuur, integraties, security, …).</li> \n<li>Aansturen en coachen van multidisciplinaire teams (data engineers, analisten, ontwikkelaars, architecten, …).</li> \n<li>Bewaken van \n<span>scope, kwaliteit, planning, budget en risico’s</span> volgens afgesproken standaarden.</li> \n<li>Opzetten van \n<span>Governance-structuren</span> en overlegfora (stuurgroepen, werkgroepen, leveranciersbeheer).</li> \n<li>Rapporteren van voortgang, risico’s en afhankelijkheden aan directie en stakeholders.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostenefficiëntie van data- en IT-oplossingen.</li> \n<li>Ondersteunen van de adoptie van nieuwe technologieën, cloudplatformen en datagedreven werken.</li> \n<li>Beheren van contracten en samenwerking met externe leveranciers en partners.</li> \n<li>Initiëren van procesverbeteringen en standaardisatie over teams en projecten heen.</li> \n<li>Waarborgen van \n<span>compliance, security, privacy</span> en informatiebeveiliging binnen de programma’s.</li> \n<li>Fungeren als verbindende schakel tussen business, IT en data-teams, met aandacht voor verandering en draagvlak.</li> </ul>",
+        "htmlEncoded": "<p><span>Als ICT Programmamanager zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Leiden van programma’s en projecten binnen het domein \n<span>data, analytics en IT-transformatie</span>, van strategie tot realisatie.</li> \n<li>Vertalen van strategische doelstellingen naar een geïntegreerde roadmap en concrete opleverbare resultaten.</li> \n<li>Coördineren van meerdere parallelle projecten (BI, AI, applicaties, infrastructuur, integraties, security, …).</li> \n<li>Aansturen en coachen van multidisciplinaire teams (data engineers, analisten, ontwikkelaars, architecten, …).</li> \n<li>Bewaken van \n<span>scope, kwaliteit, planning, budget en risico’s</span> volgens afgesproken standaarden.</li> \n<li>Opzetten van \n<span>Governance-structuren</span> en overlegfora (stuurgroepen, werkgroepen, leveranciersbeheer).</li> \n<li>Rapporteren van voortgang, risico’s en afhankelijkheden aan directie en stakeholders.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostenefficiëntie van data- en IT-oplossingen.</li> \n<li>Ondersteunen van de adoptie van nieuwe technologieën, cloudplatformen en datagedreven werken.</li> \n<li>Beheren van contracten en samenwerking met externe leveranciers en partners.</li> \n<li>Initiëren van procesverbeteringen en standaardisatie over teams en projecten heen.</li> \n<li>Waarborgen van \n<span>compliance, security, privacy</span> en informatiebeveiliging binnen de programma’s.</li> \n<li>Fungeren als verbindende schakel tussen business, IT en data-teams, met aandacht voor verandering en draagvlak.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72370497",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72370497",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data Scientist (80% bij Vlaamse onderwijsinspectie) via Vlaanderen connect"
+      },
+      "displayTitle": "Data Scientist (80% bij Vlaamse onderwijsinspectie) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Data Scientist zal je meewerken aan de volgende opdrachten:</p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</li> \n<li>Schrijven van ETL-code om data te transformeren.</li> \n<li>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</li> \n<li>Opzetten van het rechtenmodel van een dataproduct.</li> \n<li>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</li> \n<li>Documenteren van de end-to-end oplossing</li> \n<li>Ondersteuning leveren bij problemen, performance issues, …</li> \n<li>Meedenken aan procesverbeteringen en -optimalisaties.</li> </ul>",
+        "htmlEncoded": "<p>Als Data Scientist zal je meewerken aan de volgende opdrachten:</p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</li> \n<li>Schrijven van ETL-code om data te transformeren.</li> \n<li>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</li> \n<li>Opzetten van het rechtenmodel van een dataproduct.</li> \n<li>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</li> \n<li>Documenteren van de end-to-end oplossing</li> \n<li>Ondersteuning leveren bij problemen, performance issues, …</li> \n<li>Meedenken aan procesverbeteringen en -optimalisaties.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72370490",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72370490",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Tableau Ontwikkelaar(80% bij Vlaamse Onderwijsinspectie) via Vlaanderen connect"
+      },
+      "displayTitle": "Tableau Ontwikkelaar(80% bij Vlaamse Onderwijsinspectie) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als Tableau Ontwikkelaar zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor dashboards, rapporten of andere en deze vertalen naar een concrete visualisatie-oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, performantie en gebruiksvriendelijkheid van de gevraagde rapportering, en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Ontwerpen en ontwikkelen van interactieve dashboards, rapporten en datavisualisaties in \n<span>Tableau Desktop</span> en \n<span>Tableau Server</span></li> \n<li>Vertalen van bedrijfslogica naar bruikbare datasets in samenwerking met data engineers en analisten.</li> \n<li>Optimaliseren van extracten, berekeningen, filters en dashboards voor maximale performantie en minimale laadtijden.</li> \n<li>Opzetten en beheren van \n<span>rechtenmodellen</span> in Tableau (projecten, groepen, rollen) volgens het data Governance kader.</li> \n<li>Testen en valideren van dashboards op juistheid, volledigheid, consistentie en performantie.</li> \n<li>Documenteren van de end-to-end rapporteringsoplossing (datasource, filters, berekeningen, dashboards, rechtenstructuur, enz.).</li> \n<li>Ondersteuning leveren bij productieproblemen, refreshfouten of performantie-issues.</li> \n<li>Meedenken aan procesverbeteringen, standaardisatie en automatisatie binnen de rapporteringsketen.</li> </ul>",
+        "htmlEncoded": "<p><span>Als Tableau Ontwikkelaar zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor dashboards, rapporten of andere en deze vertalen naar een concrete visualisatie-oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, performantie en gebruiksvriendelijkheid van de gevraagde rapportering, en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Ontwerpen en ontwikkelen van interactieve dashboards, rapporten en datavisualisaties in \n<span>Tableau Desktop</span> en \n<span>Tableau Server</span></li> \n<li>Vertalen van bedrijfslogica naar bruikbare datasets in samenwerking met data engineers en analisten.</li> \n<li>Optimaliseren van extracten, berekeningen, filters en dashboards voor maximale performantie en minimale laadtijden.</li> \n<li>Opzetten en beheren van \n<span>rechtenmodellen</span> in Tableau (projecten, groepen, rollen) volgens het data Governance kader.</li> \n<li>Testen en valideren van dashboards op juistheid, volledigheid, consistentie en performantie.</li> \n<li>Documenteren van de end-to-end rapporteringsoplossing (datasource, filters, berekeningen, dashboards, rechtenstructuur, enz.).</li> \n<li>Ondersteuning leveren bij productieproblemen, refreshfouten of performantie-issues.</li> \n<li>Meedenken aan procesverbeteringen, standaardisatie en automatisatie binnen de rapporteringsketen.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72370404",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72370404",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</p> \n<p>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</p> \n<p><span>Als projectleider kom je terecht in het team projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten. We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</p>",
+        "htmlEncoded": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</p> \n<p>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</p> \n<p><span>Als projectleider kom je terecht in het team projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten. We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72361279",
       "internal": false,
@@ -2564,41 +2704,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19632",
-      "internal": false,
-      "validThroughDate": "1762300800",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19632",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Buffer - Lembeek"
-      },
-      "displayTitle": "Scheepvaartbegeleider Buffer - Lembeek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!&nbsp;</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Halle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19624",
       "internal": false,
       "validThroughDate": "1763942400",
@@ -2733,7 +2838,7 @@
       "locations": [
         {
           "address": {
-            "city": ""
+            "city": "Brussel"
           }
         }
       ]
@@ -2809,36 +2914,61 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19587",
+      "link": "/Job/cornerstone-19579",
       "internal": false,
-      "validThroughDate": "1762300800",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaamse Belastingdienst",
       "reservedForDisability": false,
-      "openPositions": 1,
+      "openPositions": 2,
       "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
+        "code": "A",
+        "name": "Masterdiploma"
       },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19587",
+      "identifier": "cornerstone-19579",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "JOBSTUDENTEN: ASSISTENT TALEN EXAMENCOMMISSIE (MEERDERE FUNCTIES)"
+        "htmlEncoded": "Corporate Finance analist"
       },
-      "displayTitle": "JOBSTUDENTEN: ASSISTENT TALEN EXAMENCOMMISSIE (MEERDERE FUNCTIES)",
+      "displayTitle": "Corporate Finance analist",
       "isProtected": false,
       "description": {
-        "raw": "De examencommissie secundair onderwijs is op zoek naar gemotiveerde\njobstudenten die hun educatief bachelordiploma secundair onderwijs al op zak\nhebben. Beschik jij over een bachelordiploma in een taalopleiding (Nederlands, Frans\nen/of Engels)? Studeer je momenteel verder in een educatieve masteropleiding?\nZoek je naar een leerrijke bijverdienste in het verlengde van je opleiding? Dan\nben jij dé persoon die we zoeken!<br><br>Binnen de examencommissie zijn er verschillende\nposities als Assistent Talen beschikbaar. In deze functie assisteer je\nervaren leerkrachten bij het afnemen van de mondelinge examens en bij het\nbeoordelen van spreek- en/of schrijfopdrachten. Het betreft zowel\npraktisch-ondersteunende taken als de inhoudelijke opvolging van de examens\nzelf.<br><br>Concreet gaat het over de volgende taken:<br>Je neemt deel aan opleidingen en overleg in functie van je opdracht,<br>Je ondersteunt bij de lopende mondelinge examens (onthaal, administratie …),<br>Je assisteert ervaren leerkrachten tijdens het afnemen van het mondeling examen, o.a. door het bevragen van kandidaten, door het noteren van antwoorden en door de beoordeling van kandidaten volgens een gestandaardiseerd stappenplan (beoordelingswijzer) voor te bereiden,<br>Je beoordeelt onder begeleiding van ervaren leerkrachten eerder opgenomen spreekopdrachten (raten) en/of schrijfopdrachten. <br>Je biedt waar nodig ondersteuning bij diverse administratieve of toetsontwikkelingstaken.<br>Je leert de werking van de examencommissie kennen,<br>Enzovoort.<br><br><strong>We zijn op zoek naar jobstudenten die beschikbaar\nzijn in het schooljaar 2025-2026 (november 2025 t.e.m. augustus 2026), liefst\ngemiddeld één werkdag per week. Tijdens examen- en vakantieperiodes kan dit\nwerkschema hier in onderling overleg zeker van afwijken.</strong><br><br>Interesse? Solliciteer dan vandaag nog!<br>",
-        "htmlEncoded": "De examencommissie secundair onderwijs is op zoek naar gemotiveerde\njobstudenten die hun educatief bachelordiploma secundair onderwijs al op zak\nhebben. Beschik jij over een bachelordiploma in een taalopleiding (Nederlands, Frans\nen/of Engels)? Studeer je momenteel verder in een educatieve masteropleiding?\nZoek je naar een leerrijke bijverdienste in het verlengde van je opleiding? Dan\nben jij dé persoon die we zoeken!<br><br>Binnen de examencommissie zijn er verschillende\nposities als Assistent Talen beschikbaar. In deze functie assisteer je\nervaren leerkrachten bij het afnemen van de mondelinge examens en bij het\nbeoordelen van spreek- en/of schrijfopdrachten. Het betreft zowel\npraktisch-ondersteunende taken als de inhoudelijke opvolging van de examens\nzelf.<br><br>Concreet gaat het over de volgende taken:<br>Je neemt deel aan opleidingen en overleg in functie van je opdracht,<br>Je ondersteunt bij de lopende mondelinge examens (onthaal, administratie …),<br>Je assisteert ervaren leerkrachten tijdens het afnemen van het mondeling examen, o.a. door het bevragen van kandidaten, door het noteren van antwoorden en door de beoordeling van kandidaten volgens een gestandaardiseerd stappenplan (beoordelingswijzer) voor te bereiden,<br>Je beoordeelt onder begeleiding van ervaren leerkrachten eerder opgenomen spreekopdrachten (raten) en/of schrijfopdrachten. <br>Je biedt waar nodig ondersteuning bij diverse administratieve of toetsontwikkelingstaken.<br>Je leert de werking van de examencommissie kennen,<br>Enzovoort.<br><br><strong>We zijn op zoek naar jobstudenten die beschikbaar\nzijn in het schooljaar 2025-2026 (november 2025 t.e.m. augustus 2026), liefst\ngemiddeld één werkdag per week. Tijdens examen- en vakantieperiodes kan dit\nwerkschema hier in onderling overleg zeker van afwijken.</strong><br><br>Interesse? Solliciteer dan vandaag nog!<br>"
+        "raw": "<p><span>Jij bent een gedreven finance professional die cijfers tot leven kan brengen. Complexe bedrijfswaarderingen ontleden, financiële inzichten vertalen naar duidelijke adviezen en met precisie werken, dat is helemaal jouw ding. Je haalt energie uit analytisch werk, denkt proactief mee en behoudt altijd het overzicht, zonder de details uit het oog te verliezen. Je bent nieuwsgierig, leergierig en vindt het uitdagend om mee te bouwen aan een professionele en betrouwbare dienstverlening.</span></p><p><span>Als Corporate Finance Analist binnen de afdeling Schatting en Waardering van de Vlaamse Belastingdienst speel je een sleutelrol bij het waarderen van niet-beursgenoteerde aandelen en het onroerend goed van bedrijven.&nbsp; Deze functie vraagt om een hoge mate van zelfstandigheid en een nauwgezette planning. Tegelijkertijd zijn samenwerking en collegialiteit essentieel: je werkt intensief samen met specialisten binnen de afdeling om elke waardering zorgvuldig en onderbouwd tot stand te brengen. In het kader van overdrachten van familiale vennootschappen ben je tevens verantwoordelijk voor de toetsing en vervolgens certificering van de door bedrijfsrevisoren en accountants ingediende verslagen. De job is allesbehalve routineus. Naast jouw analysewerk voer je ook onderhandelingen met burgers en professionals, zoals bedrijfsrevisoren en accountants, over de waardering van aandelen.</span></p><p><span>In deze rol krijg je de kans om je financiële expertise verder te ontwikkelen, mee te bouwen aan belangrijke beleidsprocessen en deel uit te maken van een professionele, stabiele én inspirerende werkomgeving waar je kennis en talent echt gewaardeerd worden.</span></p><p><span><b>Je kan de functie uitoefenen vanuit één van onze kantoren in:</b></span></p><ul><li><span><b>Aalst</b></span></li><li><span><b>Antwerpen</b></span></li><li><span><b>Brussel</b></span></li><li><span><b>Brugge</b></span></li><li><span><b>Gent</b></span></li><li><span><b>Leuven</b></span><span></span></li></ul><p><span>Klaar om jouw financiële talent in te zetten waar het telt en een verschil te maken voor Vlaanderen? Stap in en ontdek hoe jouw cijfers écht betekenis krijgen.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Jij bent een gedreven finance professional die cijfers tot leven kan brengen. Complexe bedrijfswaarderingen ontleden, financiële inzichten vertalen naar duidelijke adviezen en met precisie werken, dat is helemaal jouw ding. Je haalt energie uit analytisch werk, denkt proactief mee en behoudt altijd het overzicht, zonder de details uit het oog te verliezen. Je bent nieuwsgierig, leergierig en vindt het uitdagend om mee te bouwen aan een professionele en betrouwbare dienstverlening.</span></p><p><span>Als Corporate Finance Analist binnen de afdeling Schatting en Waardering van de Vlaamse Belastingdienst speel je een sleutelrol bij het waarderen van niet-beursgenoteerde aandelen en het onroerend goed van bedrijven.&nbsp; Deze functie vraagt om een hoge mate van zelfstandigheid en een nauwgezette planning. Tegelijkertijd zijn samenwerking en collegialiteit essentieel: je werkt intensief samen met specialisten binnen de afdeling om elke waardering zorgvuldig en onderbouwd tot stand te brengen. In het kader van overdrachten van familiale vennootschappen ben je tevens verantwoordelijk voor de toetsing en vervolgens certificering van de door bedrijfsrevisoren en accountants ingediende verslagen. De job is allesbehalve routineus. Naast jouw analysewerk voer je ook onderhandelingen met burgers en professionals, zoals bedrijfsrevisoren en accountants, over de waardering van aandelen.</span></p><p><span>In deze rol krijg je de kans om je financiële expertise verder te ontwikkelen, mee te bouwen aan belangrijke beleidsprocessen en deel uit te maken van een professionele, stabiele én inspirerende werkomgeving waar je kennis en talent echt gewaardeerd worden.</span></p><p><span><b>Je kan de functie uitoefenen vanuit één van onze kantoren in:</b></span></p><ul><li><span><b>Aalst</b></span></li><li><span><b>Antwerpen</b></span></li><li><span><b>Brussel</b></span></li><li><span><b>Brugge</b></span></li><li><span><b>Gent</b></span></li><li><span><b>Leuven</b></span><span></span></li></ul><p><span>Klaar om jouw financiële talent in te zetten waar het telt en een verschil te maken voor Vlaanderen? Stap in en ontdek hoe jouw cijfers écht betekenis krijgen.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Sint-Joost-Ten-Node"
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3439,6 +3569,38 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19449",
+      "internal": false,
+      "validThroughDate": "1764892800",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19449",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Juridisch adviseur"
+      },
+      "displayTitle": "Juridisch adviseur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Waar beleid en recht elkaar raken, maak jij het verschil.</span></p> <p><span>Als juridisch adviseur bij het Departement Kanselarij en Buitenlandse Zaken (DKBUZA) draag je bij aan een sterke juridische onderbouw van de Vlaamse overheid. Je verdiept je in het staatsrecht en administratief recht en behandelt vraagstukken die raken aan de werking van de Vlaamse Regering en haar administratie. Daarbij komen thema’s aan bod zoals het regelgevingsproces, het Bestuursdecreet, de bevoegdheidsverdeling binnen België en de samenwerking tussen overheden.</span></p> <p><span>Met je juridische expertise help je beleid vorm te geven. Je vertaalt complexe analyses naar heldere en bruikbare adviezen die beleidsmakers ondersteunen bij het nemen van doordachte beslissingen. Je werkt nauw samen met het kabinet van de minister-president en de teams binnen DKBUZA en bent voor hen een betrouwbare partner die meedenkt, verduidelijkt en richting geeft.</span></p> <p><span>In deze rol combineer je grondige juridische kennis met inzicht in beleidsprocessen en politieke besluitvorming. Je werkt zelfstandig en neemt verantwoordelijkheid voor je dossiers, ook wanneer de tijdsdruk hoog is of de materie complex. Je schrijft helder en gestructureerd en weet ingewikkelde thema’s toegankelijk te maken voor niet-juristen. Je houdt van uitdagingen en haalt voldoening uit het vinden van oplossingen die juridisch correct én bestuurlijk haalbaar zijn.</span></p> <p><span><strong>Ben jij de jurist die recht en beleid moeiteloos met elkaar verbindt? Aarzel dan niet om te solliciteren!</strong></span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Waar beleid en recht elkaar raken, maak jij het verschil.</span></p> <p><span>Als juridisch adviseur bij het Departement Kanselarij en Buitenlandse Zaken (DKBUZA) draag je bij aan een sterke juridische onderbouw van de Vlaamse overheid. Je verdiept je in het staatsrecht en administratief recht en behandelt vraagstukken die raken aan de werking van de Vlaamse Regering en haar administratie. Daarbij komen thema’s aan bod zoals het regelgevingsproces, het Bestuursdecreet, de bevoegdheidsverdeling binnen België en de samenwerking tussen overheden.</span></p> <p><span>Met je juridische expertise help je beleid vorm te geven. Je vertaalt complexe analyses naar heldere en bruikbare adviezen die beleidsmakers ondersteunen bij het nemen van doordachte beslissingen. Je werkt nauw samen met het kabinet van de minister-president en de teams binnen DKBUZA en bent voor hen een betrouwbare partner die meedenkt, verduidelijkt en richting geeft.</span></p> <p><span>In deze rol combineer je grondige juridische kennis met inzicht in beleidsprocessen en politieke besluitvorming. Je werkt zelfstandig en neemt verantwoordelijkheid voor je dossiers, ook wanneer de tijdsdruk hoog is of de materie complex. Je schrijft helder en gestructureerd en weet ingewikkelde thema’s toegankelijk te maken voor niet-juristen. Je houdt van uitdagingen en haalt voldoening uit het vinden van oplossingen die juridisch correct én bestuurlijk haalbaar zijn.</span></p> <p><span><strong>Ben jij de jurist die recht en beleid moeiteloos met elkaar verbindt? Aarzel dan niet om te solliciteren!</strong></span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19448",
       "internal": false,
       "validThroughDate": "1762732800",
@@ -3536,6 +3698,76 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19432",
+      "internal": false,
+      "validThroughDate": "1763942400",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19432",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist Watermodellering"
+      },
+      "displayTitle": "Specialist Watermodellering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Wil jij mee bouwen aan een gezonder, klimaatbestendig en duurzaam leefmilieu in Vlaanderen?</strong><br>Bij de Vlaamse Milieumaatschappij (VMM) werken we elke dag aan zuiver water, schone lucht en een veerkrachtige leefomgeving. Als specialist waterkwaliteitsmodellering speel jij een sleutelrol in de wetenschappelijke onderbouw van het Vlaamse waterbeleid. Je helpt mee de toekomst van het oppervlaktewater vorm te geven — met data, modellen en innovatie als je belangrijkste instrumenten.<br><br><strong>Jouw rol<br></strong>Je maakt deel uit van de dienst Waterkwaliteitsonderbouwing binnen de kern Planning Integraal Waterbeleid. Samen met een klein, gedreven team ontwikkel, beheer en verbeter je de waterkwaliteitsmodelketen die de VMM gebruikt om inzicht te krijgen in de toestand van onze waterlopen en de effecten van maatregelen te voorspellen.<br><br>Je werkt dagelijks op het snijvlak van data, wetenschap en beleid: je beheert de datastromen die de modelketen voeden (GIS-lagen, veldmetingen, externe en interne databanken), ontwikkelt en onderhoudt modeltoepassingen, en denkt mee na over innovaties — bijvoorbeeld rond machine learning en datagedreven analyses en probeert samen met de andere leden van het team een maximale impact op het terrein te bekomen.&nbsp;<br><br>Een belangrijk onderdeel van je werk is de ontwikkeling van een robuuste databank rond het HYMO-model (hydromorfologie) en het beheer van geografische referentielagen gelinkt aan de Vlaamse Hydrografische Atlas en de oppervlaktewaterlichamen.<br><br><strong>Wat doe je concreet?</strong></p><ul><li><strong>&nbsp;</strong>Je ontwikkelt, onderhoudt en optimaliseert de modelketen voor waterkwaliteit, zowel offline als in real-time, en zorgt dat ze actueel en performant blijft.</li><li>Je verzamelt, structureert en verwerkt data uit uiteenlopende bronnen en bewaakt de kwaliteit en bruikbaarheid ervan.</li><li>Je ondersteunt de cartografische afbakening van waterlichamen en hun afstroomgebieden in het kader van de stroomgebiedbeheerplannen.</li><li>Je analyseert en rapporteert over modelresultaten, vertaalt bevindingen naar beleidsrelevante inzichten en ondersteunt de opmaak van adviezen en plannen.</li><li>Voor specifieke modelleringsopdrachten stel je lastenboeken op, begeleid je externe studies en bewaak je de inhoudelijke kwaliteit van de resultaten.</li><li>Je werkt actief mee aan innovatie in de modelketen, bijvoorbeeld door datagestuurde optimalisaties en de integratie van nieuwe technieken.</li></ul><p><strong>Waarom jij het verschil kan maken</strong><br>Je hebt een analytische geest, een sterk gevoel voor structuur en een passie voor water, data en duurzaamheid. Je wil weten hoe Vlaanderen zijn waterkwaliteit meet, begrijpt en verbetert — en je wil daarin een zichtbare bijdrage leveren.<br>Je voelt je thuis in een wetenschappelijke en technische context, maar je werkt ook graag samen met collega’s uit verschillende disciplines om de vertaalslag naar beleid en praktijk te maken. Je bent zelfstandig en hands on.&nbsp;<br><br><strong>Wat mag je verwachten?<br></strong>Je komt terecht in een functie met duidelijke maatschappelijke relevantie, waarin je technische kennis koppelt aan zinvol werk. Je krijgt de ruimte om initiatief te nemen, nieuwe ideeën te verkennen en jezelf verder te ontwikkelen. Binnen een betrokken team combineer je data, modellering en duurzaamheid tot één krachtig geheel. Hier maak jij het verschil — niet alleen voor vandaag, maar ook voor de toekomst van het Vlaamse waterlandschap. Je bent de collega die zelfstandig aan de slag kan en snel zijn of haar weg vindt in complexe data- en modelsystemen. Je brengt graag structuur in een soms chaotische omgeving en denkt mee na over hoe dingen beter kunnen. Je bent pragmatisch, houdt het overzicht en laat je niet vastlopen in details.<br><br><strong>Klaar om samen met ons te werken aan slimmer waterbeheer?&nbsp;</strong><br>Solliciteer nu en versterk het team van de Vlaamse Milieumaatschappij.<br>Samen bouwen we aan slimme oplossingen voor propere waterlopen, robuuste ecosystemen en een klimaatbestendig Vlaanderen.<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Wil jij mee bouwen aan een gezonder, klimaatbestendig en duurzaam leefmilieu in Vlaanderen?</strong><br>Bij de Vlaamse Milieumaatschappij (VMM) werken we elke dag aan zuiver water, schone lucht en een veerkrachtige leefomgeving. Als specialist waterkwaliteitsmodellering speel jij een sleutelrol in de wetenschappelijke onderbouw van het Vlaamse waterbeleid. Je helpt mee de toekomst van het oppervlaktewater vorm te geven — met data, modellen en innovatie als je belangrijkste instrumenten.<br><br><strong>Jouw rol<br></strong>Je maakt deel uit van de dienst Waterkwaliteitsonderbouwing binnen de kern Planning Integraal Waterbeleid. Samen met een klein, gedreven team ontwikkel, beheer en verbeter je de waterkwaliteitsmodelketen die de VMM gebruikt om inzicht te krijgen in de toestand van onze waterlopen en de effecten van maatregelen te voorspellen.<br><br>Je werkt dagelijks op het snijvlak van data, wetenschap en beleid: je beheert de datastromen die de modelketen voeden (GIS-lagen, veldmetingen, externe en interne databanken), ontwikkelt en onderhoudt modeltoepassingen, en denkt mee na over innovaties — bijvoorbeeld rond machine learning en datagedreven analyses en probeert samen met de andere leden van het team een maximale impact op het terrein te bekomen.&nbsp;<br><br>Een belangrijk onderdeel van je werk is de ontwikkeling van een robuuste databank rond het HYMO-model (hydromorfologie) en het beheer van geografische referentielagen gelinkt aan de Vlaamse Hydrografische Atlas en de oppervlaktewaterlichamen.<br><br><strong>Wat doe je concreet?</strong></p><ul><li><strong>&nbsp;</strong>Je ontwikkelt, onderhoudt en optimaliseert de modelketen voor waterkwaliteit, zowel offline als in real-time, en zorgt dat ze actueel en performant blijft.</li><li>Je verzamelt, structureert en verwerkt data uit uiteenlopende bronnen en bewaakt de kwaliteit en bruikbaarheid ervan.</li><li>Je ondersteunt de cartografische afbakening van waterlichamen en hun afstroomgebieden in het kader van de stroomgebiedbeheerplannen.</li><li>Je analyseert en rapporteert over modelresultaten, vertaalt bevindingen naar beleidsrelevante inzichten en ondersteunt de opmaak van adviezen en plannen.</li><li>Voor specifieke modelleringsopdrachten stel je lastenboeken op, begeleid je externe studies en bewaak je de inhoudelijke kwaliteit van de resultaten.</li><li>Je werkt actief mee aan innovatie in de modelketen, bijvoorbeeld door datagestuurde optimalisaties en de integratie van nieuwe technieken.</li></ul><p><strong>Waarom jij het verschil kan maken</strong><br>Je hebt een analytische geest, een sterk gevoel voor structuur en een passie voor water, data en duurzaamheid. Je wil weten hoe Vlaanderen zijn waterkwaliteit meet, begrijpt en verbetert — en je wil daarin een zichtbare bijdrage leveren.<br>Je voelt je thuis in een wetenschappelijke en technische context, maar je werkt ook graag samen met collega’s uit verschillende disciplines om de vertaalslag naar beleid en praktijk te maken. Je bent zelfstandig en hands on.&nbsp;<br><br><strong>Wat mag je verwachten?<br></strong>Je komt terecht in een functie met duidelijke maatschappelijke relevantie, waarin je technische kennis koppelt aan zinvol werk. Je krijgt de ruimte om initiatief te nemen, nieuwe ideeën te verkennen en jezelf verder te ontwikkelen. Binnen een betrokken team combineer je data, modellering en duurzaamheid tot één krachtig geheel. Hier maak jij het verschil — niet alleen voor vandaag, maar ook voor de toekomst van het Vlaamse waterlandschap. Je bent de collega die zelfstandig aan de slag kan en snel zijn of haar weg vindt in complexe data- en modelsystemen. Je brengt graag structuur in een soms chaotische omgeving en denkt mee na over hoe dingen beter kunnen. Je bent pragmatisch, houdt het overzicht en laat je niet vastlopen in details.<br><br><strong>Klaar om samen met ons te werken aan slimmer waterbeheer?&nbsp;</strong><br>Solliciteer nu en versterk het team van de Vlaamse Milieumaatschappij.<br>Samen bouwen we aan slimme oplossingen voor propere waterlopen, robuuste ecosystemen en een klimaatbestendig Vlaanderen.<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19431",
+      "internal": false,
+      "validThroughDate": "1763942400",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19431",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker Gebiedsgerichte Werking"
+      },
+      "displayTitle": "Medewerker Gebiedsgerichte Werking",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Wil jij mee bouwen aan een duurzaam waterbeheer in Vlaanderen?</strong>&nbsp;<br>Bij de Vlaamse Milieumaatschappij (VMM) zetten we ons elke dag in om water, lucht en milieu te beschermen voor mens en natuur. Als medewerker gebiedsgerichte werking help je de vertaalslag maken van beleid naar praktijk in het werkingsgebied van de buitendienst Nete en Benedenschelde. Je werkt mee aan projecten die zichtbaar het verschil maken op het terrein, samen met lokale besturen, partners en collega’s binnen VMM.<br><br><strong>Wat is jouw rol?&nbsp;</strong><br>Je ondersteunt de verdere uitrol en concretisering van de gebiedsgerichte werking rond water, met bijzondere aandacht voor het Maatwerkgebied Turnhouts Vennengebied en de Vallei van de Kleine Nete (13 gemeenten). Gebiedsgerichte werking betekent dat we per afstroomgebied samenwerken met interne collega’s en externe partners om doelstellingen te realiseren rond waterkwaliteit, wateroverlast, watertekort en waterbeleving.&nbsp;<br>Jij vervult daarbij een verbindende, faciliterende en coördinerende rol: je stimuleert samenwerking, zorgt voor een vlotte informatie-uitwisseling en ondersteunt de adviesrol van het diensthoofd Gebiedsgerichte Werking.<br><br><strong>Wat doe je concreet?</strong><br>Je combineert inzicht in integraal waterbeleid met praktische organisatorische vaardigheden en een sterk samenwerkingsgericht profiel. Je takenpakket omvat onder meer:</p><ul><li>informatie, meetdata, modeloutput en geografische data verzamelen, genereren en verwerken over de verschillende aspecten van waterbeheer;</li><li>in overleg met collega’s bijdragen aan het formuleren van doelstellingen, indicatoren, screenings en actieplannen voor specifieke afstroomgebieden;</li><li>de uitvoeringsgerichte opdrachten van de VMM in het kader van de gebiedsgerichte werking (zoals monitoring, investeringen of werken aan waterlopen) faciliteren en ondersteunen via voorbereiding, vooroverleg en afstemming met betrokken partijen;</li><li>initiatieven voor communicatie en participatie mee voorbereiden en organiseren, zoals overlegmomenten met partners, evenementen (bijv. de Week van het Water) en sensibiliseringsacties;</li><li>de organisatie, agendering en verslaggeving van interne en externe overlegmomenten opvolgen.</li></ul><p><strong>Wat mag je verwachten?</strong><br>In deze functie werk je nauw samen binnen jouw team van een 6-tal collega’s van de buitendienst, en met interne en externe partners binnen het betrokken bekkengebied. Je combineert inhoudelijke deskundigheid met organisatievermogen en communicatieve sterktes om de gebiedsgerichte werking verder vorm te geven. Zo lever je een directe bijdrage aan het realiseren van de doelstellingen van het Vlaamse waterbeleid en aan een leefbare, veerkrachtige omgeving voor iedereen. Je bent hands on en neemt graag een ondersteunende, faciliterende en oplossingsgerichte rol op in taken en projecten en je weet wanneer afstemming inzake beslissingen vereist is.&nbsp;<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p><strong>Klaar om mee het verschil te maken?</strong><br>Solliciteer dan nu en versterk het team van de Vlaamse Milieumaatschappij. Samen werken we aan propere waterlopen, een veerkrachtige leefomgeving en een duurzame toekomst voor Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Wil jij mee bouwen aan een duurzaam waterbeheer in Vlaanderen?</strong>&nbsp;<br>Bij de Vlaamse Milieumaatschappij (VMM) zetten we ons elke dag in om water, lucht en milieu te beschermen voor mens en natuur. Als medewerker gebiedsgerichte werking help je de vertaalslag maken van beleid naar praktijk in het werkingsgebied van de buitendienst Nete en Benedenschelde. Je werkt mee aan projecten die zichtbaar het verschil maken op het terrein, samen met lokale besturen, partners en collega’s binnen VMM.<br><br><strong>Wat is jouw rol?&nbsp;</strong><br>Je ondersteunt de verdere uitrol en concretisering van de gebiedsgerichte werking rond water, met bijzondere aandacht voor het Maatwerkgebied Turnhouts Vennengebied en de Vallei van de Kleine Nete (13 gemeenten). Gebiedsgerichte werking betekent dat we per afstroomgebied samenwerken met interne collega’s en externe partners om doelstellingen te realiseren rond waterkwaliteit, wateroverlast, watertekort en waterbeleving.&nbsp;<br>Jij vervult daarbij een verbindende, faciliterende en coördinerende rol: je stimuleert samenwerking, zorgt voor een vlotte informatie-uitwisseling en ondersteunt de adviesrol van het diensthoofd Gebiedsgerichte Werking.<br><br><strong>Wat doe je concreet?</strong><br>Je combineert inzicht in integraal waterbeleid met praktische organisatorische vaardigheden en een sterk samenwerkingsgericht profiel. Je takenpakket omvat onder meer:</p><ul><li>informatie, meetdata, modeloutput en geografische data verzamelen, genereren en verwerken over de verschillende aspecten van waterbeheer;</li><li>in overleg met collega’s bijdragen aan het formuleren van doelstellingen, indicatoren, screenings en actieplannen voor specifieke afstroomgebieden;</li><li>de uitvoeringsgerichte opdrachten van de VMM in het kader van de gebiedsgerichte werking (zoals monitoring, investeringen of werken aan waterlopen) faciliteren en ondersteunen via voorbereiding, vooroverleg en afstemming met betrokken partijen;</li><li>initiatieven voor communicatie en participatie mee voorbereiden en organiseren, zoals overlegmomenten met partners, evenementen (bijv. de Week van het Water) en sensibiliseringsacties;</li><li>de organisatie, agendering en verslaggeving van interne en externe overlegmomenten opvolgen.</li></ul><p><strong>Wat mag je verwachten?</strong><br>In deze functie werk je nauw samen binnen jouw team van een 6-tal collega’s van de buitendienst, en met interne en externe partners binnen het betrokken bekkengebied. Je combineert inhoudelijke deskundigheid met organisatievermogen en communicatieve sterktes om de gebiedsgerichte werking verder vorm te geven. Zo lever je een directe bijdrage aan het realiseren van de doelstellingen van het Vlaamse waterbeleid en aan een leefbare, veerkrachtige omgeving voor iedereen. Je bent hands on en neemt graag een ondersteunende, faciliterende en oplossingsgerichte rol op in taken en projecten en je weet wanneer afstemming inzake beslissingen vereist is.&nbsp;<br><br>Je draagt ook bij aan de missie van de VMM om voor de huidige en toekomstige generaties in Vlaanderen:</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bewerkstelligen;</li><li>de klimaatadaptatie mee te sturen.&nbsp;</li></ul><p>In jouw job onderschrijf je de visie van VMM als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving.</p><p><strong>Klaar om mee het verschil te maken?</strong><br>Solliciteer dan nu en versterk het team van de Vlaamse Milieumaatschappij. Samen werken we aan propere waterlopen, een veerkrachtige leefomgeving en een duurzame toekomst voor Vlaanderen.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Herentals"
           }
         }
       ]
@@ -4170,41 +4402,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19365",
-      "internal": false,
-      "validThroughDate": "1762300800",
-      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19365",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidscoördinator zorgwekkende stoffen"
-      },
-      "displayTitle": "Beleidscoördinator zorgwekkende stoffen",
-      "isProtected": false,
-      "description": {
-        "raw": "Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM, Openbare Vlaamse Afvalstoffenmaatschappij, is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt je steentje daar aan bijdragen!<br><br>De problematiek rond zorgwekkende stoffen in bodem en grondwater is de laatste jaren sterk toegenomen. Denk aan chemische stoffen zoals PFAS, die risico’s kunnen vormen voor mens en milieu. De aanpak hiervan vraagt om een wetenschappelijk onderbouwde en beleidsmatige benadering, waarbij voortdurend voortschrijdend inzicht – ook internationaal – een rol speelt. Als beleidscoördinator zorgwekkende stoffen werk je mee aan het inschatten van blootstelling en milieurisico’s, het verbeteren van risicobeoordelingsmethodes en het opzetten van monitoring. Je vertaalt complexe data en inzichten naar concrete beleidsvoorstellen en draagt bij aan het ontwikkelen van een gecoördineerde aanpak binnen het bodembeleid. Daarbij werk je nauw samen met collega’s, externe partners en beleidsmakers op Vlaams, federaal en internationaal niveau.<br><br>Je komt terecht in een dynamische werkomgeving waar samenwerking centraal staat. Je krijgt de ruimte om initiatief te nemen, je expertise te verdiepen en innovatieve ideeën uit te werken. Je bent analytisch sterk, denkt strategisch en weet anderen te overtuigen en mee te nemen in je verhaal. Je communiceert vlot en overtuigend, ook in complexe overlegsituaties, en je schrikt er niet voor terug om verantwoordelijkheid te nemen. Je hebt oog voor opportuniteiten en weet deze om te zetten in concrete acties. Affiniteit met milieuthema’s en het verwerken van cijfergegevens is een pluspunt.<br><br>Bij OVAM krijg je de kans om mee te bouwen aan een duurzaam Vlaanderen. Je komt terecht in een geëngageerd team, waar je ruimte krijgt om je expertise te verdiepen en maatschappelijke impact te maken. Klaar om het verschil te maken? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
-        "htmlEncoded": "Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM, Openbare Vlaamse Afvalstoffenmaatschappij, is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt je steentje daar aan bijdragen!<br><br>De problematiek rond zorgwekkende stoffen in bodem en grondwater is de laatste jaren sterk toegenomen. Denk aan chemische stoffen zoals PFAS, die risico’s kunnen vormen voor mens en milieu. De aanpak hiervan vraagt om een wetenschappelijk onderbouwde en beleidsmatige benadering, waarbij voortdurend voortschrijdend inzicht – ook internationaal – een rol speelt. Als beleidscoördinator zorgwekkende stoffen werk je mee aan het inschatten van blootstelling en milieurisico’s, het verbeteren van risicobeoordelingsmethodes en het opzetten van monitoring. Je vertaalt complexe data en inzichten naar concrete beleidsvoorstellen en draagt bij aan het ontwikkelen van een gecoördineerde aanpak binnen het bodembeleid. Daarbij werk je nauw samen met collega’s, externe partners en beleidsmakers op Vlaams, federaal en internationaal niveau.<br><br>Je komt terecht in een dynamische werkomgeving waar samenwerking centraal staat. Je krijgt de ruimte om initiatief te nemen, je expertise te verdiepen en innovatieve ideeën uit te werken. Je bent analytisch sterk, denkt strategisch en weet anderen te overtuigen en mee te nemen in je verhaal. Je communiceert vlot en overtuigend, ook in complexe overlegsituaties, en je schrikt er niet voor terug om verantwoordelijkheid te nemen. Je hebt oog voor opportuniteiten en weet deze om te zetten in concrete acties. Affiniteit met milieuthema’s en het verwerken van cijfergegevens is een pluspunt.<br><br>Bij OVAM krijg je de kans om mee te bouwen aan een duurzaam Vlaanderen. Je komt terecht in een geëngageerd team, waar je ruimte krijgt om je expertise te verdiepen en maatschappelijke impact te maken. Klaar om het verschil te maken? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Mechelen"
           }
         }
       ]
