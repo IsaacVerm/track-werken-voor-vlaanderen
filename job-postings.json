@@ -1,10 +1,10 @@
 {
-  "totalItems": 152,
+  "totalItems": 153,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 151,
+  "lastItemOfPage": 152,
   "items": [
     {
       "link": "/Job/vdab-72374767",
@@ -2377,6 +2377,38 @@
       "description": {
         "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Als \n<strong>Release Manager</strong> bij \n<strong>VDAB</strong> sta je voor grote uitdagingen. Je komt terecht in een complexe maar zeer innovatief gedreven omgeving waarin je moet zorgen dat de legacy systemen co-existeren met microservice componenten in containers. </span></p> \n<p><strong><span>Doel</span></strong> \n<strong></strong></p> \n<p><span>Je staat (onder andere) in voor de volledige release van de opstart tot de release oplevering en het in productie zetten inclusief de definitie en uitvoering van release/programma processen, het escaleren van belemmeringen en aansturen van constante verbeteringen.</span></p> \n<p><span><span>· </span></span><span>Jij neemt de beslissingen rondom de releases en waarborgt stabiliteit en kwaliteit van onze systemen.</span></p> \n<p><span><span>· </span></span><span>Jij zorgt voor een release planning die beantwoordt aan de behoeften van de business partners</span></p> \n<p><span><span>· </span></span><span>Je coördineert de release processen en zorgt voor de verbetering en kwaliteit van de release implementaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt een proces uit waarmee de diverse applicatie componenten uitgerold worden in de diverse uitvoerbare omgevingen. Deze beschrijving omvat ook de verantwoordelijkheden en rollen alsook de entry en exit criteria tussen omgevingen. Je zorgt ervoor dat het proces en de quality gates door iedereen gekend zijn en gevolgd kunnen worden. Automatisatie is hierin een key element.</span></p> \n<p><span><span>· </span></span><span>Je voorziet de volledige risicoplanning die gepaard gaat met elk project en overlegt met de nodige stakeholders voor de mogelijke uitkomst.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan een overzicht van de diverse applicatie componenten en hun onderlinge relaties. Hierdoor krijgt de VDAB een beter inzicht in de interactie tussen de diverse componenten waardoor impact analyse en release management met veel grotere precisie en voorspelbaarheid kunnen gebeuren (configuration management). Dit in nauwe samenwerking met de architecten.</span></p>",
         "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>Als \n<strong>Release Manager</strong> bij \n<strong>VDAB</strong> sta je voor grote uitdagingen. Je komt terecht in een complexe maar zeer innovatief gedreven omgeving waarin je moet zorgen dat de legacy systemen co-existeren met microservice componenten in containers. </span></p> \n<p><strong><span>Doel</span></strong> \n<strong></strong></p> \n<p><span>Je staat (onder andere) in voor de volledige release van de opstart tot de release oplevering en het in productie zetten inclusief de definitie en uitvoering van release/programma processen, het escaleren van belemmeringen en aansturen van constante verbeteringen.</span></p> \n<p><span><span>· </span></span><span>Jij neemt de beslissingen rondom de releases en waarborgt stabiliteit en kwaliteit van onze systemen.</span></p> \n<p><span><span>· </span></span><span>Jij zorgt voor een release planning die beantwoordt aan de behoeften van de business partners</span></p> \n<p><span><span>· </span></span><span>Je coördineert de release processen en zorgt voor de verbetering en kwaliteit van de release implementaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt een proces uit waarmee de diverse applicatie componenten uitgerold worden in de diverse uitvoerbare omgevingen. Deze beschrijving omvat ook de verantwoordelijkheden en rollen alsook de entry en exit criteria tussen omgevingen. Je zorgt ervoor dat het proces en de quality gates door iedereen gekend zijn en gevolgd kunnen worden. Automatisatie is hierin een key element.</span></p> \n<p><span><span>· </span></span><span>Je voorziet de volledige risicoplanning die gepaard gaat met elk project en overlegt met de nodige stakeholders voor de mogelijke uitkomst.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan een overzicht van de diverse applicatie componenten en hun onderlinge relaties. Hierdoor krijgt de VDAB een beter inzicht in de interactie tussen de diverse componenten waardoor impact analyse en release management met veel grotere precisie en voorspelbaarheid kunnen gebeuren (configuration management). Dit in nauwe samenwerking met de architecten.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19708",
+      "internal": true,
+      "validThroughDate": "1763510400",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19708",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Sport Vlaanderen administratief medewerker shared services financiën"
+      },
+      "displayTitle": "Sport Vlaanderen administratief medewerker shared services financiën",
+      "isProtected": false,
+      "description": {
+        "raw": "nog te bepalen",
+        "htmlEncoded": "nog te bepalen"
       },
       "locations": [
         {
