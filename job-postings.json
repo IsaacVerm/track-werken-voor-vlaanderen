@@ -1,11 +1,46 @@
 {
-  "totalItems": 132,
+  "totalItems": 137,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 131,
+  "lastItemOfPage": 136,
   "items": [
+    {
+      "link": "/Job/vdab-72434022",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72434022",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker gegevensbescherming (AWV) via Vlaanderen connect"
+      },
+      "displayTitle": "Medewerker gegevensbescherming (AWV) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het Agentschap Wegen en Verkeer (AWV) is wegbeheerder van zo´n 7000 km gewest- en autosnelwegen en ruim 7700 km fietspaden. Wij werken elke dag aan een betere mobiliteit en verkeersveiligheid en doen dat samen met verschillende partners. We hebben afdelingen in Vlaanderen en Brussel. De functie van medewerker gegevensbescherming situeert zich binnen het DPO Office van de afdeling ICT en Innovatie, van waaruit je frequent zal samenwerken met collega’s uit andere afdelingen.</span></p> \n<p><span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website</span> www.wegenenverkeer.be \n<span>.</span></p> \n<p><span>Als medewerker gegevensbescherming draag je bij aan de begeleiding van de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je ondersteunt hierbij een meer ervaren profiel, die de rol van Data Protection Officer (DPO) opneemt. </span></p> \n<p><span>Je ziet onder andere toe op de naleving van de AVG, je ondersteunt bij het adviseren en informeren van de organisatie over gegevensbescherming, je zorgt voor de praktische ondersteuning en sensibilisering bij het aanleggen van de nodige documentatie en je legt deze desgevallend zelf aan. Je maakt overeenkomsten op (verwerkersovereenkomst, protocol, …) en onderhandelt hierover met de wederpartij (bijvoorbeeld andere entiteiten binnen de Vlaamse overheid). </span></p> \n<p><span>Jouw rol bestaat er bovendien in om Data Protection Impact Assessments (DPIA’s) uit te voeren/begeleiden. Het opmaken van een DPIA behelst zowel de security- als gegevensbescherming aspecten/risico's van het beoogde proces en/of applicatie. Ter voorbereiding dient de analyse van applicaties voor de implementatie van het informatieclassificatie raamwerk (ICR) van de Vlaamse overheid te gebeuren. Daarnaast breng je aan de hand van de architectuur van de betreffende applicatie (en mogelijks ruimer het proces) de daarmee gepaard gaande gegevensstromen in kaart.</span></p> \n<p><span>Je staat in nauw contact met de verschillende proceseigenaren, applicatiebeheerders en inhoudelijke experten binnen AWV. De voortgang van jouw analyse gebeurt in overleg en rapportage aan de DPO Office van AWV.</span></p> \n<p><span>De DPO Office rapporteert rechtstreeks aan de Administrateur-Generaal van AWV. </span></p>",
+        "htmlEncoded": "<p><span>Het Agentschap Wegen en Verkeer (AWV) is wegbeheerder van zo´n 7000 km gewest- en autosnelwegen en ruim 7700 km fietspaden. Wij werken elke dag aan een betere mobiliteit en verkeersveiligheid en doen dat samen met verschillende partners. We hebben afdelingen in Vlaanderen en Brussel. De functie van medewerker gegevensbescherming situeert zich binnen het DPO Office van de afdeling ICT en Innovatie, van waaruit je frequent zal samenwerken met collega’s uit andere afdelingen.</span></p> \n<p><span>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website</span> www.wegenenverkeer.be \n<span>.</span></p> \n<p><span>Als medewerker gegevensbescherming draag je bij aan de begeleiding van de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Je ondersteunt hierbij een meer ervaren profiel, die de rol van Data Protection Officer (DPO) opneemt. </span></p> \n<p><span>Je ziet onder andere toe op de naleving van de AVG, je ondersteunt bij het adviseren en informeren van de organisatie over gegevensbescherming, je zorgt voor de praktische ondersteuning en sensibilisering bij het aanleggen van de nodige documentatie en je legt deze desgevallend zelf aan. Je maakt overeenkomsten op (verwerkersovereenkomst, protocol, …) en onderhandelt hierover met de wederpartij (bijvoorbeeld andere entiteiten binnen de Vlaamse overheid). </span></p> \n<p><span>Jouw rol bestaat er bovendien in om Data Protection Impact Assessments (DPIA’s) uit te voeren/begeleiden. Het opmaken van een DPIA behelst zowel de security- als gegevensbescherming aspecten/risico's van het beoogde proces en/of applicatie. Ter voorbereiding dient de analyse van applicaties voor de implementatie van het informatieclassificatie raamwerk (ICR) van de Vlaamse overheid te gebeuren. Daarnaast breng je aan de hand van de architectuur van de betreffende applicatie (en mogelijks ruimer het proces) de daarmee gepaard gaande gegevensstromen in kaart.</span></p> \n<p><span>Je staat in nauw contact met de verschillende proceseigenaren, applicatiebeheerders en inhoudelijke experten binnen AWV. De voortgang van jouw analyse gebeurt in overleg en rapportage aan de DPO Office van AWV.</span></p> \n<p><span>De DPO Office rapporteert rechtstreeks aan de Administrateur-Generaal van AWV. </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72417976",
       "internal": false,
@@ -1967,41 +2002,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71018700",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71018700",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel en test analist (Departement Financiën en Begroting) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel en test analist (Departement Financiën en Begroting) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Context </span></strong></p> \n<p><span>Ben jij op zoek naar een uitdagende functie waarbij je kan meewerken aan de verdere uitbouw van een professioneel, klantgericht dienstencentrum? Sta je graag de klanten van het ICT dienstencentrum BOBFO bij om vanuit de dienstverlening applicaties te bouwen zodat de organisatie en haar medewerkers zo optimaal en efficiënt mogelijk kunnen werken? Dan ben jij misschien wel onze ideale kandidaat. </span></p> \n<p><span>Bij het Departement Financiën en Begroting bieden we jou een rol met veel autonomie, afwisseling en verantwoordelijkheid. Als Functionele en Test Analist werk je binnen het ICT-dienstencentrum van de afdeling Beleidsondersteuning, Begroting en Financiële Operaties (BOBFO). Deze afdeling bestaat uit zes verschillende diensten die zich allen inzetten om een onderbouwd budgettair, financieel en fiscaal beleid uit te werken en correcte rapporteringen af te leveren. Daarnaast maakt de afdeling processen efficiënter door ze te digitaliseren, stelt ze gebruiksvriendelijke toepassingen ter beschikking van de klanten en beoogt ze goed beheer van data om data te ontsluiten en aan data-analyse te doen.</span></p> \n<p><span>Spreekt je dit aan, solliciteer dan vandaag nog voor deze uitdagende functie bij het Departement Financiën en Begroting.</span></p>",
-        "htmlEncoded": "<p><strong><span>Context </span></strong></p> \n<p><span>Ben jij op zoek naar een uitdagende functie waarbij je kan meewerken aan de verdere uitbouw van een professioneel, klantgericht dienstencentrum? Sta je graag de klanten van het ICT dienstencentrum BOBFO bij om vanuit de dienstverlening applicaties te bouwen zodat de organisatie en haar medewerkers zo optimaal en efficiënt mogelijk kunnen werken? Dan ben jij misschien wel onze ideale kandidaat. </span></p> \n<p><span>Bij het Departement Financiën en Begroting bieden we jou een rol met veel autonomie, afwisseling en verantwoordelijkheid. Als Functionele en Test Analist werk je binnen het ICT-dienstencentrum van de afdeling Beleidsondersteuning, Begroting en Financiële Operaties (BOBFO). Deze afdeling bestaat uit zes verschillende diensten die zich allen inzetten om een onderbouwd budgettair, financieel en fiscaal beleid uit te werken en correcte rapporteringen af te leveren. Daarnaast maakt de afdeling processen efficiënter door ze te digitaliseren, stelt ze gebruiksvriendelijke toepassingen ter beschikking van de klanten en beoogt ze goed beheer van data om data te ontsluiten en aan data-analyse te doen.</span></p> \n<p><span>Spreekt je dit aan, solliciteer dan vandaag nog voor deze uitdagende functie bij het Departement Financiën en Begroting.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-70948751",
       "internal": false,
       "validThroughDate": "-1",
@@ -2417,6 +2417,146 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19773",
+      "internal": false,
+      "validThroughDate": "1765152000",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19773",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "3 bemiddelaars Inschatting (Kortrijk)"
+      },
+      "displayTitle": "3 bemiddelaars Inschatting (Kortrijk)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Kortrijk te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br>De klant start met een inschatting, vervolgt zijn traject in de Matching en als er extra drempels opduiken, maakt hij een tussenstop bij het team Activering. <br><br>In de rol van bemiddelaar inschatting, ben jij dus de eerste schakel in het traject van de klant.<br><br>Ben jij de Bemiddelaar Inschatting die wij zoeken?<br><br>Inschatting:&nbsp; <br>Als Bemiddelaar, gespecialiseerd in inschatting, help je werkzoekenden om een realistische en gepersonaliseerde weg naar werk of opleiding te vinden. Je bent het eerste aanspreekpunt voor jouw klant en legt de basis voor een succesvol traject op de arbeidsmarkt.&nbsp; <br><br>Wat ga je doen? <br>Je heet werkzoekenden welkom en schat hun behoefte aan dienstverlening en ondersteuning in.<br>Je bepaalt of het gewenste jobdoelwit realistisch is en oriënteert de klant naar geschikte beroepen.&nbsp;<br>Je analyseert grondig de context van de klant (werkmotivatie, werkverleden, potentieel, persoonlijke sterktes en eventuele drempels).<br>Je brengt de competenties (of het gebrek eraan) in kaart en bepaalt wanneer een diepgaande screening van vaardigheden nodig is.<br>Je zet gerichte oriënterende opdrachten in en vraagt advies bij twijfel om de juiste koers te bepalen.<br>Je zorgt voor accurate en objectieve verslaggeving in het klantendossier, volgens vastgelegde standaarden.<br>Je stelt een helder en doelgericht plan van aanpak op en houdt hierbij rekening met beroeps- en sectorvereisten.<br>Je draagt klanten warm over naar de volgende stap in hun traject. Dit kunnen externe partners, ons team Activering of onze Matching teams zijn.&nbsp;<br>Je blijft jouw klant ook opvolgen nadat je deze hebt verwezen naar een externe partner. Je voert hiervoor de noodzakelijke administratieve taken uit.<br>Je voert gesprekken met klanten en externe partners en past de overdrachtsregels correct toe.&nbsp;<br>Je wordt ingezet in de basisdienstverlening via een rotatiesysteem en je bent in staat om onder tijdsdruk te presteren.&nbsp;<br>&nbsp;<br>Must haves voor de Bemiddelaar Inschatting :&nbsp;<br>Klanten coachen en motiveren geeft jou energie. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>Hiervoor zet je beschikbare (digitale) tools gericht in.<br>Je bent communicatief sterk en het schrikt je niet af om klanten met een onrealistisch jobdoelwit op een constructieve manier te confronteren.&nbsp;</p><p>Nice to haves voor de Bemiddelaar Inschatting :<br>Kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>Je bent bekend met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br>Je kent de regelgeving met betrekking tot dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>Je kent het relevante interne en externe aanbod van VDAB tijdens de inschattings- en oriëntatiefase of bent bereid om dit aan te leren.&nbsp;</p><p>Je standplaats wordt het VDAB kantoor in de Lekkerbeetstraat 5/7 in Kortrijk.&nbsp;<br><br></p>Meer informatie vind je terug in het selectiereglement in bijlage.",
+        "htmlEncoded": "<p>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Kortrijk te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br>De klant start met een inschatting, vervolgt zijn traject in de Matching en als er extra drempels opduiken, maakt hij een tussenstop bij het team Activering. <br><br>In de rol van bemiddelaar inschatting, ben jij dus de eerste schakel in het traject van de klant.<br><br>Ben jij de Bemiddelaar Inschatting die wij zoeken?<br><br>Inschatting:&nbsp; <br>Als Bemiddelaar, gespecialiseerd in inschatting, help je werkzoekenden om een realistische en gepersonaliseerde weg naar werk of opleiding te vinden. Je bent het eerste aanspreekpunt voor jouw klant en legt de basis voor een succesvol traject op de arbeidsmarkt.&nbsp; <br><br>Wat ga je doen? <br>Je heet werkzoekenden welkom en schat hun behoefte aan dienstverlening en ondersteuning in.<br>Je bepaalt of het gewenste jobdoelwit realistisch is en oriënteert de klant naar geschikte beroepen.&nbsp;<br>Je analyseert grondig de context van de klant (werkmotivatie, werkverleden, potentieel, persoonlijke sterktes en eventuele drempels).<br>Je brengt de competenties (of het gebrek eraan) in kaart en bepaalt wanneer een diepgaande screening van vaardigheden nodig is.<br>Je zet gerichte oriënterende opdrachten in en vraagt advies bij twijfel om de juiste koers te bepalen.<br>Je zorgt voor accurate en objectieve verslaggeving in het klantendossier, volgens vastgelegde standaarden.<br>Je stelt een helder en doelgericht plan van aanpak op en houdt hierbij rekening met beroeps- en sectorvereisten.<br>Je draagt klanten warm over naar de volgende stap in hun traject. Dit kunnen externe partners, ons team Activering of onze Matching teams zijn.&nbsp;<br>Je blijft jouw klant ook opvolgen nadat je deze hebt verwezen naar een externe partner. Je voert hiervoor de noodzakelijke administratieve taken uit.<br>Je voert gesprekken met klanten en externe partners en past de overdrachtsregels correct toe.&nbsp;<br>Je wordt ingezet in de basisdienstverlening via een rotatiesysteem en je bent in staat om onder tijdsdruk te presteren.&nbsp;<br>&nbsp;<br>Must haves voor de Bemiddelaar Inschatting :&nbsp;<br>Klanten coachen en motiveren geeft jou energie. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>Hiervoor zet je beschikbare (digitale) tools gericht in.<br>Je bent communicatief sterk en het schrikt je niet af om klanten met een onrealistisch jobdoelwit op een constructieve manier te confronteren.&nbsp;</p><p>Nice to haves voor de Bemiddelaar Inschatting :<br>Kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>Je bent bekend met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br>Je kent de regelgeving met betrekking tot dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>Je kent het relevante interne en externe aanbod van VDAB tijdens de inschattings- en oriëntatiefase of bent bereid om dit aan te leren.&nbsp;</p><p>Je standplaats wordt het VDAB kantoor in de Lekkerbeetstraat 5/7 in Kortrijk.&nbsp;<br><br></p>Meer informatie vind je terug in het selectiereglement in bijlage."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Kortrijk"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19771",
+      "internal": false,
+      "validThroughDate": "1765152000",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19771",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "2 bemiddelaars Inschatting (Roeselare)"
+      },
+      "displayTitle": "2 bemiddelaars Inschatting (Roeselare)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Roeselare&nbsp; te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br>De klant start met een inschatting, vervolgt zijn traject in de Matching en als er extra drempels opduiken, maakt hij een tussenstop bij Activering. <br><br>In de rol van bemiddelaar inschatting, ben jij dus de eerste schakel in het traject van de klant.<br><br>Ben jij de Bemiddelaar Inschatting die wij zoeken?<br><br>Inschatting:&nbsp; <br>Als Bemiddelaar, gespecialiseerd in inschatting, help je werkzoekenden om een realistische en gepersonaliseerde weg naar werk of opleiding te vinden. Je bent het eerste aanspreekpunt voor jouw klant en legt de basis voor een succesvol traject op de arbeidsmarkt.&nbsp;<br><br>Wat ga je doen?<br>Je heet werkzoekenden welkom en schat hun behoefte aan dienstverlening en ondersteuning in.<br>Je bepaalt of het gewenste jobdoelwit realistisch is en oriënteert de klant naar geschikte beroepen.&nbsp;<br>Je analyseert grondig de context van de klant (werkmotivatie, werkverleden, potentieel, persoonlijke sterktes en eventuele drempels).<br>Je brengt de competenties (of het gebrek eraan) in kaart en bepaalt wanneer een diepgaande screening van vaardigheden nodig is.<br>Je zet gerichte oriënterende opdrachten in en vraagt advies bij twijfel om de juiste koers te bepalen.<br>Je zorgt voor accurate en objectieve verslaggeving in het klantendossier, volgens vastgelegde standaarden.<br>Je stelt een helder en doelgericht plan van aanpak op en houdt hierbij rekening met beroeps- en sectorvereisten.<br>Je draagt klanten warm over naar de volgende stap in hun traject. Dit kunnen externe partners, ons team Activering of onze Matching teams zijn.&nbsp;<br>Je blijft jouw klant ook opvolgen nadat je deze hebt verwezen naar een externe partner. Je voert hiervoor de noodzakelijke administratieve taken uit.<br>Je voert gesprekken met klanten en externe partners en past de overdrachtsregels correct toe.&nbsp;<br>Je staat in voor de basisdienstverlening op de locatie. Hierbij bied je de klant een warm welkom en schat je kort in voor verdere doorverwijzing. Je bezorgt de klant accurate en correcte informatie over het dienstverleningsaanbod en regelgeving.<br>&nbsp;<br><br>Must haves voor de Bemiddelaar Inschatting :&nbsp;<br>Klanten coachen en motiveren geeft jou energie. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>Hiervoor zet je beschikbare (digitale) tools gericht in.<br>Je bent communicatief sterk en het schrikt je niet af om klanten met een onrealistisch jobdoelwit op een constructieve manier te confronteren.&nbsp;<br>Jouw veelvuldige aanwezigheid op de locatie is een sterk pluspunt.</p><p>Nice to haves voor de Bemiddelaar Inschatting :<br>Kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>Je bent bekend met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br>Je kent de regelgeving met betrekking tot dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>Je kent het relevante interne en externe aanbod van VDAB tijdens de inschattings- en oriëntatiefase of bent bereid om dit aan te leren.&nbsp;</p>Meer informatie vind je terug in het selectiereglement in bijlage.",
+        "htmlEncoded": "<p>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Roeselare&nbsp; te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. <br>De klant start met een inschatting, vervolgt zijn traject in de Matching en als er extra drempels opduiken, maakt hij een tussenstop bij Activering. <br><br>In de rol van bemiddelaar inschatting, ben jij dus de eerste schakel in het traject van de klant.<br><br>Ben jij de Bemiddelaar Inschatting die wij zoeken?<br><br>Inschatting:&nbsp; <br>Als Bemiddelaar, gespecialiseerd in inschatting, help je werkzoekenden om een realistische en gepersonaliseerde weg naar werk of opleiding te vinden. Je bent het eerste aanspreekpunt voor jouw klant en legt de basis voor een succesvol traject op de arbeidsmarkt.&nbsp;<br><br>Wat ga je doen?<br>Je heet werkzoekenden welkom en schat hun behoefte aan dienstverlening en ondersteuning in.<br>Je bepaalt of het gewenste jobdoelwit realistisch is en oriënteert de klant naar geschikte beroepen.&nbsp;<br>Je analyseert grondig de context van de klant (werkmotivatie, werkverleden, potentieel, persoonlijke sterktes en eventuele drempels).<br>Je brengt de competenties (of het gebrek eraan) in kaart en bepaalt wanneer een diepgaande screening van vaardigheden nodig is.<br>Je zet gerichte oriënterende opdrachten in en vraagt advies bij twijfel om de juiste koers te bepalen.<br>Je zorgt voor accurate en objectieve verslaggeving in het klantendossier, volgens vastgelegde standaarden.<br>Je stelt een helder en doelgericht plan van aanpak op en houdt hierbij rekening met beroeps- en sectorvereisten.<br>Je draagt klanten warm over naar de volgende stap in hun traject. Dit kunnen externe partners, ons team Activering of onze Matching teams zijn.&nbsp;<br>Je blijft jouw klant ook opvolgen nadat je deze hebt verwezen naar een externe partner. Je voert hiervoor de noodzakelijke administratieve taken uit.<br>Je voert gesprekken met klanten en externe partners en past de overdrachtsregels correct toe.&nbsp;<br>Je staat in voor de basisdienstverlening op de locatie. Hierbij bied je de klant een warm welkom en schat je kort in voor verdere doorverwijzing. Je bezorgt de klant accurate en correcte informatie over het dienstverleningsaanbod en regelgeving.<br>&nbsp;<br><br>Must haves voor de Bemiddelaar Inschatting :&nbsp;<br>Klanten coachen en motiveren geeft jou energie. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>Hiervoor zet je beschikbare (digitale) tools gericht in.<br>Je bent communicatief sterk en het schrikt je niet af om klanten met een onrealistisch jobdoelwit op een constructieve manier te confronteren.&nbsp;<br>Jouw veelvuldige aanwezigheid op de locatie is een sterk pluspunt.</p><p>Nice to haves voor de Bemiddelaar Inschatting :<br>Kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>Je bent bekend met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br>Je kent de regelgeving met betrekking tot dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>Je kent het relevante interne en externe aanbod van VDAB tijdens de inschattings- en oriëntatiefase of bent bereid om dit aan te leren.&nbsp;</p>Meer informatie vind je terug in het selectiereglement in bijlage."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Roeselare"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19769",
+      "internal": false,
+      "validThroughDate": "1764547200",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 5,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19769",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider (-Buffer) Rijkevorsel"
+      },
+      "displayTitle": "Scheepvaartbegeleider (-Buffer) Rijkevorsel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Scheepvaartbegeleider (Buffer)\nbedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je\nvolgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de\npleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit\nwaterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met\nraad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want\niedere vracht op het water staat niet in de file op onze overvolle wegen. <br><br>In tegenstelling\ntot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer\nhetzij op verschillende standplaatsen in combinatie met een heel flexibel\ndienstrooster, hetzij op één standplaats maar wel met een heel flexibel\ndienstrooster. Je vangt daar diensten op van collega's.<br><br>Je volgt ook\ndagelijks de waterstanden en debieten op. Op basis van de gegevens die jij\nverzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we\nVlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.<br><br>Ook\nadministratieve taken behoren tot jouw takenpakket. Je houdt registers bij over\nhet afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te\nmonitoren, is het belangrijk om te weten wanneer welke schepen bij jou\ngepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen\nwij op jou rekenen.<br><br>Werk je graag in\neen team? Dan is dit de functie die je zoekt!<br><br>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Als Scheepvaartbegeleider (Buffer)\nbedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je\nvolgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de\npleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit\nwaterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met\nraad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want\niedere vracht op het water staat niet in de file op onze overvolle wegen. <br><br>In tegenstelling\ntot de functie van Scheepvaartbegeleider, werk je als Scheepvaartbegeleider Buffer\nhetzij op verschillende standplaatsen in combinatie met een heel flexibel\ndienstrooster, hetzij op één standplaats maar wel met een heel flexibel\ndienstrooster. Je vangt daar diensten op van collega's.<br><br>Je volgt ook\ndagelijks de waterstanden en debieten op. Op basis van de gegevens die jij\nverzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we\nVlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.<br><br>Ook\nadministratieve taken behoren tot jouw takenpakket. Je houdt registers bij over\nhet afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te\nmonitoren, is het belangrijk om te weten wanneer welke schepen bij jou\ngepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen\nwij op jou rekenen.<br><br>Werk je graag in\neen team? Dan is dit de functie die je zoekt!<br><br>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rijkevorsel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19766",
+      "internal": false,
+      "validThroughDate": "1765065600",
+      "hiringOrganization": "ILVO Plant 39",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19766",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Junior moleculair bioloog  met specialisatie bio-informatica"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Junior moleculair bioloog  met specialisatie bio-informatica",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span>Ben\njij gebeten door genoomkennis en wil je die laten landen in plantenrassen met optimale\ngroei, kwaliteit, ziekteresistentie en klimaatbestendigheid? Word je enthousiast\nvan genoom editing, vergelijkende genoomanalyses en onderzoek naar genexpressie?\nAdviseer je graag over de meest geschikte strategieën voor DNA-sequencing, zonder\nzelf in het labo te werken? Werk je vlot met high-throughput Next Generation Sequencing\ndata en bio-informatica tools om onderzoeksresultaten te vertalen naar kennis?\nDan is dit de job voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
+        "htmlEncoded": "<span></span>Ben\njij gebeten door genoomkennis en wil je die laten landen in plantenrassen met optimale\ngroei, kwaliteit, ziekteresistentie en klimaatbestendigheid? Word je enthousiast\nvan genoom editing, vergelijkende genoomanalyses en onderzoek naar genexpressie?\nAdviseer je graag over de meest geschikte strategieën voor DNA-sequencing, zonder\nzelf in het labo te werken? Werk je vlot met high-throughput Next Generation Sequencing\ndata en bio-informatica tools om onderzoeksresultaten te vertalen naar kennis?\nDan is dit de job voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
@@ -2882,7 +3022,10 @@
       "hiringOrganization": "Departement Onderwijs en Vorming",
       "reservedForDisability": false,
       "openPositions": 1,
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-19625",
       "contentType": "Job",
@@ -3708,6 +3851,41 @@
       "description": {
         "raw": "<p>Als justitieassistent binnen het Agentschap Justitie &amp; Handhaving bied je vanuit je eigen expertise&nbsp;professionele informatie, advies en begeleiding. Je ondersteunt de justitiabele proactief bij het vinden van passende oplossingen voor hun noden of vragen. Binnen het Vlaams Centrum Elektronisch Toezicht (VCET)&nbsp;geloof je in alternatieve strafuitvoering. Dankzij jouw begeleidende rol verloopt het elektronisch toezicht&nbsp;vlot en weet de enkelbanddrager dat hij bij jou terechtkan.&nbsp;</p><p>De klanten waarmee je in contact komt zijn uiteenlopend: van enkelbanddragers tot partners van het VCET en opdrachtgevers. Je komt terecht in een hecht team dat zich intensief inzet voor deze vorm van alternatieve strafuitvoering.</p><p>Jouw taken bestaan uit:<br>• het kort en digitaal (beeldbellen of telefonisch) begeleiden van daders en verdachten;<br>• het opmaken van beknopte voorlichtingsrapporten naar de opdrachtgever over het verloop&nbsp;van elektronisch toezicht en de aanpak rond de voorwaarden die opgelegd zijn aan de&nbsp;enkelbanddrager;<br>• informeren van partners inzake aangelegenheden die verband houden met de materies&nbsp;behandeld door het VCET (zoals VDAB, OCMW, CAW, etc.).</p><p>Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en&nbsp;autonomie, je analytisch vermogen, je enthousiasme en je lef. Jij bent klantvriendelijk en krijgt energie&nbsp;van oplossingsgericht werken. Je werkt nauw samen met je collega’s binnen het VCET en werkt zo mee&nbsp;aan een veiligere samenleving.</p><p>Werken voor het Vlaams Centrum Elektronisch Toezicht (VCET), is werken in een maatschappelijk relevante context. Spreekt dit jou aan? Dan ben jij misschien de collega die wij zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
         "htmlEncoded": "<p>Als justitieassistent binnen het Agentschap Justitie &amp; Handhaving bied je vanuit je eigen expertise&nbsp;professionele informatie, advies en begeleiding. Je ondersteunt de justitiabele proactief bij het vinden van passende oplossingen voor hun noden of vragen. Binnen het Vlaams Centrum Elektronisch Toezicht (VCET)&nbsp;geloof je in alternatieve strafuitvoering. Dankzij jouw begeleidende rol verloopt het elektronisch toezicht&nbsp;vlot en weet de enkelbanddrager dat hij bij jou terechtkan.&nbsp;</p><p>De klanten waarmee je in contact komt zijn uiteenlopend: van enkelbanddragers tot partners van het VCET en opdrachtgevers. Je komt terecht in een hecht team dat zich intensief inzet voor deze vorm van alternatieve strafuitvoering.</p><p>Jouw taken bestaan uit:<br>• het kort en digitaal (beeldbellen of telefonisch) begeleiden van daders en verdachten;<br>• het opmaken van beknopte voorlichtingsrapporten naar de opdrachtgever over het verloop&nbsp;van elektronisch toezicht en de aanpak rond de voorwaarden die opgelegd zijn aan de&nbsp;enkelbanddrager;<br>• informeren van partners inzake aangelegenheden die verband houden met de materies&nbsp;behandeld door het VCET (zoals VDAB, OCMW, CAW, etc.).</p><p>Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en&nbsp;autonomie, je analytisch vermogen, je enthousiasme en je lef. Jij bent klantvriendelijk en krijgt energie&nbsp;van oplossingsgericht werken. Je werkt nauw samen met je collega’s binnen het VCET en werkt zo mee&nbsp;aan een veiligere samenleving.</p><p>Werken voor het Vlaams Centrum Elektronisch Toezicht (VCET), is werken in een maatschappelijk relevante context. Spreekt dit jou aan? Dan ben jij misschien de collega die wij zoeken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19469",
+      "internal": false,
+      "validThroughDate": "1765152000",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19469",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke HR-applicaties"
+      },
+      "displayTitle": "Teamverantwoordelijke HR-applicaties",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Sta je graag aan het hoofd van een team? Doe je niets liever dan mensen motiveren, coachen en richting geven? Heb je een sterke interesse in HR en ben je gepassioneerd door technologie? Dan ben jij de kandidaat die we zoeken!</span></p> <p><span>Bij het <strong>Agentschap Overheidspersoneel (AgO)</strong> ondersteunen we de Vlaamse overheid bij haar uitdagingen op het vlak van personeel en organisatie.</span></p> <p><span>Als Teamverantwoordelijke HR-applicaties kom je terecht binnen de dynamische afdeling <strong>HR Technologie en Data (HRTD)</strong>. Samen met je team en een wisselend aantal externe experten maak je het verschil.</span></p> <p><span>Als <strong>Teamverantwoordelijke HR-applicaties</strong> ben je eindverantwoordelijk voor de dagelijkse werking van een team dat zich richt op het beheer en de ontwikkeling van HR-toepassingen.&nbsp;</span><span>In de rol van </span><strong>product manager</strong><span> ben je eindverantwoordelijk voor de strategische visie en het maximaliseren van de waarde van al onze HR toepassingen.</span></p><p><span> <br> Wat doet de afdeling HR Technologie en Data?</span></p> <p><span>De afdeling staat in voor de ontwikkeling, het onderhoud en het functioneel beheer van de HR-gerelateerde technologie binnen de Vlaamse overheid. Verder staat de afdeling in voor een totaalpakket aan sociaal secretariaatstaken zoals de volledige loonadministratie inclusief de fiscale en sociale verplichtingen als werkgever.</span></p> <p><span>Daarnaast ondersteunt de afdeling de goede werking van de personeelsadministratie en een correct toegangsbeheer tot al onze toepassingen. Verder streven we naar een data gedreven bedrijfsvoering door het aanbieden van kwaliteitsvolle HR rapportering.</span></p> <p><span>De afdeling herbergt tal van projecten die de volgende generatie van geïntegreerde HR-technologie en verdere digitalisering van HR-processen binnen de Vlaamse overheid voorbereidt.</span></p> <p><span>Het verzekeren van de informatieveiligheid en een toekomstgerichte architectuur vormen de rode draad doorheen onze werking.</span></p> <p><span>Samen met jouw team maak je een directe impact op meer dan <strong>60 Vlaamse overheidsorganisaties </strong>en beheer je bijna<strong> 30.000 personeelsdossiers</strong>.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Sta je graag aan het hoofd van een team? Doe je niets liever dan mensen motiveren, coachen en richting geven? Heb je een sterke interesse in HR en ben je gepassioneerd door technologie? Dan ben jij de kandidaat die we zoeken!</span></p> <p><span>Bij het <strong>Agentschap Overheidspersoneel (AgO)</strong> ondersteunen we de Vlaamse overheid bij haar uitdagingen op het vlak van personeel en organisatie.</span></p> <p><span>Als Teamverantwoordelijke HR-applicaties kom je terecht binnen de dynamische afdeling <strong>HR Technologie en Data (HRTD)</strong>. Samen met je team en een wisselend aantal externe experten maak je het verschil.</span></p> <p><span>Als <strong>Teamverantwoordelijke HR-applicaties</strong> ben je eindverantwoordelijk voor de dagelijkse werking van een team dat zich richt op het beheer en de ontwikkeling van HR-toepassingen.&nbsp;</span><span>In de rol van </span><strong>product manager</strong><span> ben je eindverantwoordelijk voor de strategische visie en het maximaliseren van de waarde van al onze HR toepassingen.</span></p><p><span> <br> Wat doet de afdeling HR Technologie en Data?</span></p> <p><span>De afdeling staat in voor de ontwikkeling, het onderhoud en het functioneel beheer van de HR-gerelateerde technologie binnen de Vlaamse overheid. Verder staat de afdeling in voor een totaalpakket aan sociaal secretariaatstaken zoals de volledige loonadministratie inclusief de fiscale en sociale verplichtingen als werkgever.</span></p> <p><span>Daarnaast ondersteunt de afdeling de goede werking van de personeelsadministratie en een correct toegangsbeheer tot al onze toepassingen. Verder streven we naar een data gedreven bedrijfsvoering door het aanbieden van kwaliteitsvolle HR rapportering.</span></p> <p><span>De afdeling herbergt tal van projecten die de volgende generatie van geïntegreerde HR-technologie en verdere digitalisering van HR-processen binnen de Vlaamse overheid voorbereidt.</span></p> <p><span>Het verzekeren van de informatieveiligheid en een toekomstgerichte architectuur vormen de rode draad doorheen onze werking.</span></p> <p><span>Samen met jouw team maak je een directe impact op meer dan <strong>60 Vlaamse overheidsorganisaties </strong>en beheer je bijna<strong> 30.000 personeelsdossiers</strong>.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
