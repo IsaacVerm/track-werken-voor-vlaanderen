@@ -1,10 +1,10 @@
 {
-  "totalItems": 135,
+  "totalItems": 137,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 134,
+  "lastItemOfPage": 136,
   "items": [
     {
       "link": "/Job/vdab-72454512",
@@ -242,41 +242,6 @@
       "description": {
         "raw": "<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vorm geven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Binnen deze cel werk je onder de Manager Innovatie en Data en in nauwe samenwerking met projectleiders, business analisten, architecten en data experten. Als Senior Data Scientist speel je een sleutelrol in het ontwikkelen van artificiële intelligentie oplossingen die onze werking ondersteunen en versnellen.</span></p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Als Senior Data Scientist zet je data om in waardevolle inzichten en intelligente oplossingen. Je vertaalt complexe businessvragen naar krachtige statistische of AI modellen die helpen om beleidsbeslissingen, operationele processen en natuurbeheer slimmer en efficiënter te maken.</span></p> \n<p><span>Je bent een brug tussen technologie en strategie: je combineert wiskundige diepgang met praktische ervaring in het ontwikkelen, trainen en implementeren van modellen in productie. Daarnaast begeleid je meer junior collega’s en stimuleer je kennisdeling binnen het team.</span></p> \n<p><span>Je belangrijkste verantwoordelijkheden</span></p> \n<p><span>·       Ontwikkelen van AI en andere statistische modellen van experiment tot productie.</span></p> \n<p><span>·       Vertalen van businessproblemen naar innovatieve oplossingen met tastbare impact.</span></p> \n<p><span>·       Begeleiden en coachen van meer junior profielen binnen het data science team.</span></p> \n<p><span>Je belangrijkste taken</span></p> \n<p><span>·       Uitvoeren van statistische analyses van data om trends en verbanden te ontdekken.</span></p> \n<p><span>·       Wetenschappelijk onderzoek naar de meest geschikte wiskundige modellen voor specifieke uitdagingen.</span></p> \n<p><span>·       Ontwikkelen, testen en optimaliseren van AI en andere statistische modellen.</span></p> \n<p><span>·       Delen van kennis en inzichten over ontwikkelde modellen en resultaten met collega’s en stakeholders.</span></p>",
         "htmlEncoded": "<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vorm geven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Binnen deze cel werk je onder de Manager Innovatie en Data en in nauwe samenwerking met projectleiders, business analisten, architecten en data experten. Als Senior Data Scientist speel je een sleutelrol in het ontwikkelen van artificiële intelligentie oplossingen die onze werking ondersteunen en versnellen.</span></p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Als Senior Data Scientist zet je data om in waardevolle inzichten en intelligente oplossingen. Je vertaalt complexe businessvragen naar krachtige statistische of AI modellen die helpen om beleidsbeslissingen, operationele processen en natuurbeheer slimmer en efficiënter te maken.</span></p> \n<p><span>Je bent een brug tussen technologie en strategie: je combineert wiskundige diepgang met praktische ervaring in het ontwikkelen, trainen en implementeren van modellen in productie. Daarnaast begeleid je meer junior collega’s en stimuleer je kennisdeling binnen het team.</span></p> \n<p><span>Je belangrijkste verantwoordelijkheden</span></p> \n<p><span>·       Ontwikkelen van AI en andere statistische modellen van experiment tot productie.</span></p> \n<p><span>·       Vertalen van businessproblemen naar innovatieve oplossingen met tastbare impact.</span></p> \n<p><span>·       Begeleiden en coachen van meer junior profielen binnen het data science team.</span></p> \n<p><span>Je belangrijkste taken</span></p> \n<p><span>·       Uitvoeren van statistische analyses van data om trends en verbanden te ontdekken.</span></p> \n<p><span>·       Wetenschappelijk onderzoek naar de meest geschikte wiskundige modellen voor specifieke uitdagingen.</span></p> \n<p><span>·       Ontwikkelen, testen en optimaliseren van AI en andere statistische modellen.</span></p> \n<p><span>·       Delen van kennis en inzichten over ontwikkelde modellen en resultaten met collega’s en stakeholders.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72410581",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72410581",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data scientist medior (ANB) via Vlaanderen connect"
-      },
-      "displayTitle": "Data scientist medior (ANB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vorm geven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Als Medior Data Scientist werk je mee aan het bouwen van artificiële intelligentie- en dataoplossingen die onze werking ondersteunen en vernieuwen. Je krijgt de kans om te leren van ervaren collega’s en je kennis stap voor stap toe te passen in concrete projecten met maatschappelijke impact</span></p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Als Medior Data Scientist ondersteun je bij het ontwikkelen, testen en verbeteren van data en AI toepassingen binnen ANB. Je helpt bij het vertalen van businessvragen naar bruikbare data oplossingen en werkt samen met data engineers, data scientists, business analisten en domeinexperten om innovatieve modellen te ontwikkelen.</span></p> \n<p><span>Je krijgt de ruimte om te groeien in je rol, nieuwe technologieën te ontdekken en actief bij te dragen aan projecten die Vlaanderen’s natuurbeheer slimmer maken</span></p> \n<p><span>Je belangrijkste verantwoordelijkheden</span></p> \n<p><span>·       Meewerken aan het ontwikkelen van AI- en ML-modellen, van experiment tot eerste implementatie.</span></p> \n<p><span>·       Ondersteunen bij het vertalen van businessproblemen naar datagedreven oplossingen.</span></p> \n<p><span>·       Leren van en samenwerken met senior profielen binnen het data science team</span></p> \n<p><span>Je belangrijkste taken</span></p> \n<p><span>·       Uitvoeren van statistische analyses van data om patronen en inzichten te ontdekken.</span></p> \n<p><span>·       Onderzoek doen naar geschikte AI en andere statistische modellen voor specifieke uitdagingen.</span></p> \n<p><span>·       Meewerken aan het ontwikkelen, testen en optimaliseren van modellen.</span></p> \n<p><span>·       Delen van inzichten en resultaten met collega’s en stakeholders.</span></p>",
-        "htmlEncoded": "<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vorm geven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Als Medior Data Scientist werk je mee aan het bouwen van artificiële intelligentie- en dataoplossingen die onze werking ondersteunen en vernieuwen. Je krijgt de kans om te leren van ervaren collega’s en je kennis stap voor stap toe te passen in concrete projecten met maatschappelijke impact</span></p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Als Medior Data Scientist ondersteun je bij het ontwikkelen, testen en verbeteren van data en AI toepassingen binnen ANB. Je helpt bij het vertalen van businessvragen naar bruikbare data oplossingen en werkt samen met data engineers, data scientists, business analisten en domeinexperten om innovatieve modellen te ontwikkelen.</span></p> \n<p><span>Je krijgt de ruimte om te groeien in je rol, nieuwe technologieën te ontdekken en actief bij te dragen aan projecten die Vlaanderen’s natuurbeheer slimmer maken</span></p> \n<p><span>Je belangrijkste verantwoordelijkheden</span></p> \n<p><span>·       Meewerken aan het ontwikkelen van AI- en ML-modellen, van experiment tot eerste implementatie.</span></p> \n<p><span>·       Ondersteunen bij het vertalen van businessproblemen naar datagedreven oplossingen.</span></p> \n<p><span>·       Leren van en samenwerken met senior profielen binnen het data science team</span></p> \n<p><span>Je belangrijkste taken</span></p> \n<p><span>·       Uitvoeren van statistische analyses van data om patronen en inzichten te ontdekken.</span></p> \n<p><span>·       Onderzoek doen naar geschikte AI en andere statistische modellen voor specifieke uitdagingen.</span></p> \n<p><span>·       Meewerken aan het ontwikkelen, testen en optimaliseren van modellen.</span></p> \n<p><span>·       Delen van inzichten en resultaten met collega’s en stakeholders.</span></p>"
       },
       "locations": [
         {
@@ -1127,41 +1092,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72187672",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72187672",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Hoofd IT-strategie en dienstverlening (Agentschap Integratie en Inburgering) via Vlaanderen Connect"
-      },
-      "displayTitle": "Hoofd IT-strategie en dienstverlening (Agentschap Integratie en Inburgering) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als \n<strong>Hoofd IT-strategie en dienstverlening</strong> geef je richting aan de digitale koers van onze organisatie. Je bent verantwoordelijk voor de dagelijkse werking én voor de strategische toekomst van de ICT-dienst, die bestaat uit een team van ongeveer 18 medewerkers met diverse profielen.</span></p> \n<p><span>Je rol bestaat uit twee hoofdlijnen: \n<strong>operationeel aansturen van de ICT-dienst</strong> én het \n<strong>uitbouwen van een strategisch en duurzaam ICT-beleid</strong>. Daarbij werk je in lijn met de missie van de organisatie én de strategische doelstellingen van het Agentschap.</span></p> \n<p><span>Je verantwoordelijkheden situeren zich binnen de volgende \n<strong>resultaatsgebieden</strong>:</span></p> \n<p><span><span>· </span></span><strong><span>Beleidsvorming en strategisch advies</span></strong><br> \n<span>Je ontwikkelt een toekomstgerichte ICT-visie, afgestemd op de noden van de organisatie. Je vertaalt strategische doelstellingen in concrete ICT-plannen en ondersteunt het managementmet advies rond digitalisering, technologische keuzes en innovatie.</span></p> \n<p><span><span>· </span></span><strong><span>ICT-governance en portfoliobeheer</span></strong><br> \n<span>Je bepaalt en beheert de ICT-projectportfolio. Je waakt over de samenhang, prioriteiten, kosten-batenanalyse en haalbaarheid van lopende en geplande ICT-initiatieven, waaronder een nieuw CRM-systeem dat momenteel uitgerold wordt.</span></p> \n<p><span><span>· </span></span><strong><span>Aansturing van de ICT-organisatie</span></strong><br> \n<span>Je leidt een multidisciplinair team van onder andere helpdeskmedewerkers, applicatiebeheerders, ontwikkelaars, security officer, business analisten en product owners. Je zorgt voor een goede taakverdeling, coaching, teamontwikkeling en personeelsplanning.</span></p> \n<p><span><span>· </span></span><strong><span>Aansturing van de project- en programmawerking</span></strong><br> \n<span>Je geeft richting aan de uitvoering van projecten en programma’s binnen het digitaliseringsprogramma van de organisatie. De programmamanager digitalisering rapporteert rechtstreeks aan jou. Er is een duidelijke rolafbakening: jij bepaalt de strategische koers, bewaakt de samenhang en prioriteiten en neemt de eindverantwoordelijkheid, terwijl de programmamanager digitalisering instaat voor de dagelijkse uitvoering en opvolging van het programma’en de projecten. </span></p> \n<p><span><span>· </span></span><strong><span>Operationeel beheer en dienstverlening</span></strong><br> \n<span>Je garandeert een stabiele en klantgerichte ICT-dienstverlening. Dit omvat onder meer de werking van de helpdesk, applicatiebeheer en interne gebruikerssupport. Je stuurt op efficiëntie, performantie en klantentevredenheid.</span></p> \n<p><span><span>· </span></span><strong><span>Risicobeheersing en compliance</span></strong><br> \n<span>Je zorgt voor een veilige, betrouwbare en conforme ICT-omgeving. Je houdt toezicht op gegevensbeveiliging, privacywetgeving en continuïteitsplanning.</span></p> \n<p><span><span>· </span></span><strong><span>Netwerkopbouw en samenwerking</span></strong><br> \n<span>Je bouwt bruggen met andere diensten, beleidsdomeinen en externe partners. Je vertegenwoordigt de ICT-dienst binnen overkoepelende overlegstructuren en stimuleert samenwerking over de grenzen van het eigen team heen.</span></p> \n<p>· \n<strong>Rapportering en positie in de organisatie</strong></p> \n<p><span>Je rapporteert rechtstreeks aan de directeur Financiën en Bedrijfsondersteunende Diensten. Gezien de strategische rol van ICT en digitalisering maak je als inhoudelijk expert deel uit van het managementcomité. In die hoedanigheid ben je een vaste sparringpartner voor de andere leden van managementcomité en beleidsverantwoordelijken.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als \n<strong>Hoofd IT-strategie en dienstverlening</strong> geef je richting aan de digitale koers van onze organisatie. Je bent verantwoordelijk voor de dagelijkse werking én voor de strategische toekomst van de ICT-dienst, die bestaat uit een team van ongeveer 18 medewerkers met diverse profielen.</span></p> \n<p><span>Je rol bestaat uit twee hoofdlijnen: \n<strong>operationeel aansturen van de ICT-dienst</strong> én het \n<strong>uitbouwen van een strategisch en duurzaam ICT-beleid</strong>. Daarbij werk je in lijn met de missie van de organisatie én de strategische doelstellingen van het Agentschap.</span></p> \n<p><span>Je verantwoordelijkheden situeren zich binnen de volgende \n<strong>resultaatsgebieden</strong>:</span></p> \n<p><span><span>· </span></span><strong><span>Beleidsvorming en strategisch advies</span></strong><br> \n<span>Je ontwikkelt een toekomstgerichte ICT-visie, afgestemd op de noden van de organisatie. Je vertaalt strategische doelstellingen in concrete ICT-plannen en ondersteunt het managementmet advies rond digitalisering, technologische keuzes en innovatie.</span></p> \n<p><span><span>· </span></span><strong><span>ICT-governance en portfoliobeheer</span></strong><br> \n<span>Je bepaalt en beheert de ICT-projectportfolio. Je waakt over de samenhang, prioriteiten, kosten-batenanalyse en haalbaarheid van lopende en geplande ICT-initiatieven, waaronder een nieuw CRM-systeem dat momenteel uitgerold wordt.</span></p> \n<p><span><span>· </span></span><strong><span>Aansturing van de ICT-organisatie</span></strong><br> \n<span>Je leidt een multidisciplinair team van onder andere helpdeskmedewerkers, applicatiebeheerders, ontwikkelaars, security officer, business analisten en product owners. Je zorgt voor een goede taakverdeling, coaching, teamontwikkeling en personeelsplanning.</span></p> \n<p><span><span>· </span></span><strong><span>Aansturing van de project- en programmawerking</span></strong><br> \n<span>Je geeft richting aan de uitvoering van projecten en programma’s binnen het digitaliseringsprogramma van de organisatie. De programmamanager digitalisering rapporteert rechtstreeks aan jou. Er is een duidelijke rolafbakening: jij bepaalt de strategische koers, bewaakt de samenhang en prioriteiten en neemt de eindverantwoordelijkheid, terwijl de programmamanager digitalisering instaat voor de dagelijkse uitvoering en opvolging van het programma’en de projecten. </span></p> \n<p><span><span>· </span></span><strong><span>Operationeel beheer en dienstverlening</span></strong><br> \n<span>Je garandeert een stabiele en klantgerichte ICT-dienstverlening. Dit omvat onder meer de werking van de helpdesk, applicatiebeheer en interne gebruikerssupport. Je stuurt op efficiëntie, performantie en klantentevredenheid.</span></p> \n<p><span><span>· </span></span><strong><span>Risicobeheersing en compliance</span></strong><br> \n<span>Je zorgt voor een veilige, betrouwbare en conforme ICT-omgeving. Je houdt toezicht op gegevensbeveiliging, privacywetgeving en continuïteitsplanning.</span></p> \n<p><span><span>· </span></span><strong><span>Netwerkopbouw en samenwerking</span></strong><br> \n<span>Je bouwt bruggen met andere diensten, beleidsdomeinen en externe partners. Je vertegenwoordigt de ICT-dienst binnen overkoepelende overlegstructuren en stimuleert samenwerking over de grenzen van het eigen team heen.</span></p> \n<p>· \n<strong>Rapportering en positie in de organisatie</strong></p> \n<p><span>Je rapporteert rechtstreeks aan de directeur Financiën en Bedrijfsondersteunende Diensten. Gezien de strategische rol van ICT en digitalisering maak je als inhoudelijk expert deel uit van het managementcomité. In die hoedanigheid ben je een vaste sparringpartner voor de andere leden van managementcomité en beleidsverantwoordelijken.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72183453",
       "internal": false,
       "validThroughDate": "-1",
@@ -1192,6 +1122,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72170338",
+      "internal": false,
+      "validThroughDate": "1767052800",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72170338",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Orthopedagoog/psycholoog"
+      },
+      "displayTitle": "Orthopedagoog/psycholoog",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De orthopedagoog/psycholoog maakt deel uit van het multidisciplinair team van forensische zorg 4. Hij/zij vertaalt de zorginhoudelijke beleidskeuzes naar een voor de doelgroep specifiek therapeutisch leefklimaat. Bovendien zet hij/zij behandelinhoudelijk mee de lijnen uit in de aanpak van de bewoners. Hij/zij maakt medewerkers bewust van de werkingsvisie en ondersteunt hen in het zien van mogelijkheden om deze visie concreet vorm te geven in hun dagelijks werk. Daarvoor werkt de orthopedagoog nauw samen met de psychiater, de criminoloog en de psycholoog van de afdeling.</p> \n<p>De orthopedagoog/psycholoog ontwikkelt activiteiten, zoals vorming, om binnen het team de professionele houding en de kennis die daartoe bijdraagt, te bevorderen.</p> \n<p>De orthopedagoog/psycholoog heeft dagelijks contact met de zorgvragers. Op die manier geeft hij/zij vorm aan het therapeutisch klimaat.</p> \n<p>De orthopedagoog/psycholoog neemt deel aan teamvergaderingen, behandelplanbesprekingen en ander zorginhoudelijk begeleidingsoverleg. Verder participeert hij/zij aan familiegesprekken, afdelingsvergaderingen en intervisie.</p> \n<p> </p> \n<p><strong>Competenties</strong></p> \n<ul> \n<li> \n<p>Open staan voor de forensische psychiatrie en de uitdaging zoeken in vooruitgang maar kunnen verdragen dat deze traag gebeurt.</p> </li> \n<li> \n<p>Van nature aan zelfreflectie doen en bereid zijn het eigen denken, handelen en voelen bespreekbaar te maken</p> </li> \n<li> \n<p>Zelfstandig én in team kunnen functioneren, positief ingesteld zijn, stressbestendig, goed kunnen communiceren, kunnen relativeren, humor, een open geest en een brede belangstelling</p> </li> \n<li> \n<p>Groepsdynamische processen binnen het team en binnen de leefgroep kunnen opmerken en duiden.</p> </li> \n<li> \n<p>Structurerende vaardigheden: voorbeeldfunctie naar team en bewoners, bekrachtigen, probleemoplossende vaardigheden, effectief aangeven van grenzen</p> </li> \n<li> \n<p>Kwaliteitsvolle relaties kunnen aangaan met bewoners die kampen met een verstandelijke beperking: warm, respectvol, zorgzaam, enthousiast, echt, op samenwerking gericht en met waardering van de persoonlijke autonomie</p> </li> </ul>",
+        "htmlEncoded": "<p>De orthopedagoog/psycholoog maakt deel uit van het multidisciplinair team van forensische zorg 4. Hij/zij vertaalt de zorginhoudelijke beleidskeuzes naar een voor de doelgroep specifiek therapeutisch leefklimaat. Bovendien zet hij/zij behandelinhoudelijk mee de lijnen uit in de aanpak van de bewoners. Hij/zij maakt medewerkers bewust van de werkingsvisie en ondersteunt hen in het zien van mogelijkheden om deze visie concreet vorm te geven in hun dagelijks werk. Daarvoor werkt de orthopedagoog nauw samen met de psychiater, de criminoloog en de psycholoog van de afdeling.</p> \n<p>De orthopedagoog/psycholoog ontwikkelt activiteiten, zoals vorming, om binnen het team de professionele houding en de kennis die daartoe bijdraagt, te bevorderen.</p> \n<p>De orthopedagoog/psycholoog heeft dagelijks contact met de zorgvragers. Op die manier geeft hij/zij vorm aan het therapeutisch klimaat.</p> \n<p>De orthopedagoog/psycholoog neemt deel aan teamvergaderingen, behandelplanbesprekingen en ander zorginhoudelijk begeleidingsoverleg. Verder participeert hij/zij aan familiegesprekken, afdelingsvergaderingen en intervisie.</p> \n<p> </p> \n<p><strong>Competenties</strong></p> \n<ul> \n<li> \n<p>Open staan voor de forensische psychiatrie en de uitdaging zoeken in vooruitgang maar kunnen verdragen dat deze traag gebeurt.</p> </li> \n<li> \n<p>Van nature aan zelfreflectie doen en bereid zijn het eigen denken, handelen en voelen bespreekbaar te maken</p> </li> \n<li> \n<p>Zelfstandig én in team kunnen functioneren, positief ingesteld zijn, stressbestendig, goed kunnen communiceren, kunnen relativeren, humor, een open geest en een brede belangstelling</p> </li> \n<li> \n<p>Groepsdynamische processen binnen het team en binnen de leefgroep kunnen opmerken en duiden.</p> </li> \n<li> \n<p>Structurerende vaardigheden: voorbeeldfunctie naar team en bewoners, bekrachtigen, probleemoplossende vaardigheden, effectief aangeven van grenzen</p> </li> \n<li> \n<p>Kwaliteitsvolle relaties kunnen aangaan met bewoners die kampen met een verstandelijke beperking: warm, respectvol, zorgzaam, enthousiast, echt, op samenwerking gericht en met waardering van de persoonlijke autonomie</p> </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
           }
         }
       ]
@@ -2452,6 +2417,136 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19791",
+      "internal": false,
+      "validThroughDate": "1765929600",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19791",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Aanleg voor werfreserve instructeur goederenvervoer"
+      },
+      "displayTitle": "Aanleg voor werfreserve instructeur goederenvervoer",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Voor de aanleg van een werfreserve zijn wij op zoek naar kandidaten instructeur goederenvervoer voor verschillende locaties.</p><p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>&nbsp;- Je bent bereid tot provinciale inzetbaarheid.</p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em><br><br>",
+        "htmlEncoded": "<p>Voor de aanleg van een werfreserve zijn wij op zoek naar kandidaten instructeur goederenvervoer voor verschillende locaties.</p><p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>&nbsp;- Je bent bereid tot provinciale inzetbaarheid.</p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em><br><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        },
+        {
+          "address": {
+            "city": "Bilzen-Hoeselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Asse"
+          }
+        },
+        {
+          "address": {
+            "city": "Wondelgem"
+          }
+        },
+        {
+          "address": {
+            "city": "Temse"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19790",
+      "internal": false,
+      "validThroughDate": "1765929600",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19790",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "1 instructeur goederenvervoer VDAB Rekkem"
+      },
+      "displayTitle": "1 instructeur goederenvervoer VDAB Rekkem",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>- Je bent bereid tot provinciale inzetbaarheid.<br><br>Op dit moment zoeken wij <strong>1&nbsp;instructeur goederenvervoer</strong> voor ons VDAB centrum in Rekkem.</p><p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em></p><br>",
+        "htmlEncoded": "<p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>- Je bent bereid tot provinciale inzetbaarheid.<br><br>Op dit moment zoeken wij <strong>1&nbsp;instructeur goederenvervoer</strong> voor ons VDAB centrum in Rekkem.</p><p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Menen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19789",
+      "internal": false,
+      "validThroughDate": "1765929600",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19789",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "2 instructeurs goederenvervoer VDAB Brasschaat"
+      },
+      "displayTitle": "2 instructeurs goederenvervoer VDAB Brasschaat",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>- Je bent bereid tot provinciale inzetbaarheid.<br><br>Op dit moment zoeken wij <strong>2 instructeurs goederenvervoer</strong> voor ons VDAB centrum in Brasschaat (Brechtsebaan).&nbsp;</p><p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em></p><br>",
+        "htmlEncoded": "<p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>- Je bent bereid tot provinciale inzetbaarheid.<br><br>Op dit moment zoeken wij <strong>2 instructeurs goederenvervoer</strong> voor ons VDAB centrum in Brasschaat (Brechtsebaan).&nbsp;</p><p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brasschaat"
           }
         }
       ]
