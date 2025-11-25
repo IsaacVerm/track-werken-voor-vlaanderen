@@ -1,11 +1,46 @@
 {
-  "totalItems": 126,
+  "totalItems": 127,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 125,
+  "lastItemOfPage": 126,
   "items": [
+    {
+      "link": "/Job/vdab-72485911",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Domein ' Aan de Plas'",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72485911",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Keukenmedewerker/Keukenmedewerkster"
+      },
+      "displayTitle": "Keukenmedewerker/Keukenmedewerkster",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Werk je graag als keukenhulp in een sportieve context? Vind je een goede samenwerking en klantvriendelijkheid belangrijk? Dan ben jij de persoon die wij zoeken.</span></p> \n<p><span>Als keukenhulp help je mee met de activiteiten in de keuken en bereid je er, samen met het keukenteam, de maaltijden. Je zorgt er op die manier voor dat onze klanten (jong en oud) gevarieerde en gezonde voeding krijgen. Na de maaltijden wordt de afwas van het servies verzorgd.</span></p> \n<p><span>Ook avond – en weekendshiften behoren tot je functie, afhankelijk van de drukte in het centrum.</span></p>",
+        "htmlEncoded": "<p><span>Werk je graag als keukenhulp in een sportieve context? Vind je een goede samenwerking en klantvriendelijkheid belangrijk? Dan ben jij de persoon die wij zoeken.</span></p> \n<p><span>Als keukenhulp help je mee met de activiteiten in de keuken en bereid je er, samen met het keukenteam, de maaltijden. Je zorgt er op die manier voor dat onze klanten (jong en oud) gevarieerde en gezonde voeding krijgen. Na de maaltijden wordt de afwas van het servies verzorgd.</span></p> \n<p><span>Ook avond – en weekendshiften behoren tot je functie, afhankelijk van de drukte in het centrum.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Assebroek"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72470811",
       "internal": false,
