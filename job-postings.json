@@ -1,16 +1,16 @@
 {
-  "totalItems": 116,
+  "totalItems": 117,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 115,
+  "lastItemOfPage": 116,
   "items": [
     {
-      "link": "/Job/vdab-72485911",
+      "link": "/Job/vdab-72497661",
       "internal": false,
       "validThroughDate": "-1",
-      "hiringOrganization": "Domein ' Aan de Plas'",
+      "hiringOrganization": "Sport Vlaanderen Gent 1",
       "reservedForDisability": null,
       "openPositions": 1,
       "degreeLevel": {
@@ -18,7 +18,42 @@
         "name": "Geen specifieke studievereisten"
       },
       "degreeEqualByExperience": false,
-      "identifier": "vdab-72485911",
+      "identifier": "vdab-72497661",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Centrummedewerker/Groenonderhoud"
+      },
+      "displayTitle": "Centrummedewerker/Groenonderhoud",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker/groenonderhoud ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, kleine herstellingen uitvoeren, toezicht uitoefenen, begeleiden van bezoekers, n</span>azicht en onderhoud van de (groene) buitenomgeving, instaan voor een goede ontvangst van bezoekers en gebruikers, \n<span>op/afbouw van evenementen, kleine kluswerken,...</span></p>",
+        "htmlEncoded": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker/groenonderhoud ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, kleine herstellingen uitvoeren, toezicht uitoefenen, begeleiden van bezoekers, n</span>azicht en onderhoud van de (groene) buitenomgeving, instaan voor een goede ontvangst van bezoekers en gebruikers, \n<span>op/afbouw van evenementen, kleine kluswerken,...</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72496099",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Sport Vlaanderen Brugge",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72496099",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
@@ -37,6 +72,111 @@
         {
           "address": {
             "city": "Assebroek"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72495919",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72495919",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data engineer AI (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Data engineer AI (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>",
+        "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72495376",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72495376",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data analist (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Data analist (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Voor ons team Monitoring, deel van de afdeling Strategie, zijn we op zoek naar een data analist gespecialiseerd in rapportering, analyse en dashboarding.</p> \n<p>VDAB is een data-gedreven organisatie en innovatieve netwerkregisseur waarin het monitoring team een belangrijke bijdrage levert. Het team voorziet het management en elk team binnen VDAB van structurele monitoring, onder andere via interactieve dashboards die toelaten om prestaties continu op te volgen en problemen vroegtijdig te detecteren (“evidence base” voor PDCA). Daarnaast draagt het team ook de Arbeidsmarktinfo over de Vlaamse arbeidsmarkt zoals voorzien door VDAB in cijferapplicaties (bv. Arvastat) en ad hoc analyses.</p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>●    Arbeidsmarktinfo verzekeren (co-verantwoordelijkheid)</span></p> \n<p><span>●    Evidence based besluitvorming ondersteunen (via het stimuleren van quasi-experimentele analyses op bestaande data)</span></p> \n<p><span>●    Officieel cijfersysteem van VDAB coördineren (gebruikscijfers opvolgen, poortwachtersrol invullen, coördineren)</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>●    Quasi-experimentele analyse: uitvoeren, ondersteunen en propageren</span></p> \n<p><span>●    Open data voor statistisch gebruik verzekeren naar het model van Statistiek Vlaanderen</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt minstens 1 dag per week (maar naar wens ook meerdere dagen) in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Bestaat uit een divers team dat zich bezighoudt met geautomatiseerde cijferrapporten, dashboards, publieke cijfer applicaties, ad hoc analyse-rapporten</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Dataverwerking (SAS en SQL, Singlestore), Datavisualisatie (MicroStrategy, Oracle Analytics Server, Excel), Open Data</span></p>",
+        "htmlEncoded": "<p>Voor ons team Monitoring, deel van de afdeling Strategie, zijn we op zoek naar een data analist gespecialiseerd in rapportering, analyse en dashboarding.</p> \n<p>VDAB is een data-gedreven organisatie en innovatieve netwerkregisseur waarin het monitoring team een belangrijke bijdrage levert. Het team voorziet het management en elk team binnen VDAB van structurele monitoring, onder andere via interactieve dashboards die toelaten om prestaties continu op te volgen en problemen vroegtijdig te detecteren (“evidence base” voor PDCA). Daarnaast draagt het team ook de Arbeidsmarktinfo over de Vlaamse arbeidsmarkt zoals voorzien door VDAB in cijferapplicaties (bv. Arvastat) en ad hoc analyses.</p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>●    Arbeidsmarktinfo verzekeren (co-verantwoordelijkheid)</span></p> \n<p><span>●    Evidence based besluitvorming ondersteunen (via het stimuleren van quasi-experimentele analyses op bestaande data)</span></p> \n<p><span>●    Officieel cijfersysteem van VDAB coördineren (gebruikscijfers opvolgen, poortwachtersrol invullen, coördineren)</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>●    Quasi-experimentele analyse: uitvoeren, ondersteunen en propageren</span></p> \n<p><span>●    Open data voor statistisch gebruik verzekeren naar het model van Statistiek Vlaanderen</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt minstens 1 dag per week (maar naar wens ook meerdere dagen) in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Bestaat uit een divers team dat zich bezighoudt met geautomatiseerde cijferrapporten, dashboards, publieke cijfer applicaties, ad hoc analyse-rapporten</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Dataverwerking (SAS en SQL, Singlestore), Datavisualisatie (MicroStrategy, Oracle Analytics Server, Excel), Open Data</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72495246",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72495246",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data scientist (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Data scientist (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de ontwikkeling van algoritmes en modellen die deze evolutie kunnen ondersteunen.</span></p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>●    Je vertaalt business problemen naar ML/AI oplossingen</span></p> \n<p><span>●    Je ontwikkeld AI/ML modellen van experiment tot productie</span></p> \n<p><span>●    Je werkt nauw samen met en leert van senior profielen in het team</span></p> \n<p><strong>Jouw taken</strong></p> \n<p>●    Ontwikkelen van AI/ML modellen</p> \n<p>●    Delen van kennis en inzichten van ontwikkelde modellen</p> \n<p>●    Doorgedreven data analyse</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het team bestaat momenteel uit een 30-tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Spark, Python, PyTorch, GIT, ML modellen, statistiek en probabiliteitstheorie</span></p>",
+        "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de ontwikkeling van algoritmes en modellen die deze evolutie kunnen ondersteunen.</span></p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>●    Je vertaalt business problemen naar ML/AI oplossingen</span></p> \n<p><span>●    Je ontwikkeld AI/ML modellen van experiment tot productie</span></p> \n<p><span>●    Je werkt nauw samen met en leert van senior profielen in het team</span></p> \n<p><strong>Jouw taken</strong></p> \n<p>●    Ontwikkelen van AI/ML modellen</p> \n<p>●    Delen van kennis en inzichten van ontwikkelde modellen</p> \n<p>●    Doorgedreven data analyse</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het team bestaat momenteel uit een 30-tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Spark, Python, PyTorch, GIT, ML modellen, statistiek en probabiliteitstheorie</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -72,41 +212,6 @@
         {
           "address": {
             "city": "Hofstade"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72470495",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72470495",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect"
-      },
-      "displayTitle": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -672,41 +777,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72370404",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72370404",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect"
-      },
-      "displayTitle": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</p> \n<p>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</p> \n<p><span>Als projectleider kom je terecht in het team projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten. We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</p>",
-        "htmlEncoded": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</p> \n<p>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</p> \n<p><span>Als projectleider kom je terecht in het team projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten. We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72361279",
       "internal": false,
       "validThroughDate": "-1",
@@ -935,9 +1005,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Financieel Data Analist (Digitaal Vlaanderen) via Vlaanderen connect"
+        "htmlEncoded": "Data Analist (Digitaal Vlaanderen) via Vlaanderen connect"
       },
-      "displayTitle": "Financieel Data Analist (Digitaal Vlaanderen) via Vlaanderen connect",
+      "displayTitle": "Data Analist (Digitaal Vlaanderen) via Vlaanderen connect",
       "isProtected": false,
       "description": {
         "raw": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gemotiveerde \n<span>Financieel Data Analist</span> ter versterking van het team Portfolio management.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan het verhogen van onze financiële data analyses? Dan ben jij onze ideale kandidaat!</p> \n<p>Als \n<span>Financieel Data Analist</span> ben jij een cruciale partner voor onze organisatie. Met jouw scherpe blik op cijfers en processen help je de directie en stakeholders om de juiste strategische keuzes te maken. Jij vertaalt complexe financiële data naar heldere inzichten en adviezen die écht het verschil maken.</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam. De afdeling PMO en Organisatie speelt hierbij een cruciale rol. Zij ontzorgen de interne partners door de transversale processen optimaal ondersteunend in te zetten en een ontzorgende dienstverlening te realiseren.</p> \n<p><span>Wat zal je doen?</span></p> \n<p>Binnen de functie van Financieel Data Analist sta je in voor:</p> \n<ul> \n<li>Analyseren van budgetten, forecasts en resultaten en hierover rapporteren.</li> \n<li>Opstellen van managementrapportages voor directie en stakeholders.</li> \n<li>Uitvoeren van behoefteanalyses en voorbereiden van rapporten voor audits en besluitvorming.</li> \n<li>Maken van financiële analyses en het adviseren over verkoopsprijzen en synergiën zoeken in kost/verkoopssprijsoptimalisatie</li> \n<li>Ontwikkelen van scenario- en risicoanalyses.</li> \n<li>Signaleren van trends en afwijkingen in cijfers en processen.</li> \n<li>Verbeteren van rapporteringstools, interne controles en financiële processen.</li> \n<li>Adviseren en ondersteunen van interne klanten in het gebruik van systemen en tools (o.a. PowerBI, MsOperations).</li> </ul> \n<p>We verwachten dat je je verplaatst naar zowel Gent en Brussel.</p>",
@@ -1122,41 +1192,6 @@
         {
           "address": {
             "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72156261",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72156261",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Lead developer senior (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Lead developer senior (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</span></p> \n<p><span>Als lead ontwikkelaar binnen een Java-team krijg je de kans om zowel technisch als strategisch een cruciale rol te vervullen in het succes van projecten. Deze functie biedt een unieke combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie, waarbij je een directe impact hebt op de richting en de kwaliteit van het eindproduct. </span></p>",
-        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap.</span><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</span></p> \n<p><span>Om de continiuteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</span></p> \n<p><span>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</span></p> \n<p><span>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</span></p> \n<p><span>Als lead ontwikkelaar binnen een Java-team krijg je de kans om zowel technisch als strategisch een cruciale rol te vervullen in het succes van projecten. Deze functie biedt een unieke combinatie van hands-on coderen, technisch leiderschap en teamcoördinatie, waarbij je een directe impact hebt op de richting en de kwaliteit van het eindproduct. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
