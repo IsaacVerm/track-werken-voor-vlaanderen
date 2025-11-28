@@ -1,10 +1,10 @@
 {
-  "totalItems": 118,
+  "totalItems": 117,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 117,
+  "lastItemOfPage": 116,
   "items": [
     {
       "link": "/Job/vdab-72511254",
@@ -1442,41 +1442,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72075240",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72075240",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "applicatiebeheerder (VEKA) via Vlaanderen connect"
-      },
-      "displayTitle": "applicatiebeheerder (VEKA) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een \n<span>applicatiebeheerder</span> die niet alleen toepassingen begrijpt, maar ook mensen. Iemand die initiatief neemt, vragen durft te stellen en actief zoekt naar oplossingen – zelfs als de handleiding ontbreekt. Geen stress, je staat er niet alleen voor! Ons kleine team staat voor je klaar om je uitgebreid op te leiden, begeleiden en ondersteunen zodat je deze job helemaal onder de knie krijgt. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als applicatiebeheerder ben jij het aanspreekpunt voor toepassingen die het team beheert. Je maakt deel uit van een gespecialiseerd team dat de brug slaat tussen gebruikers en IT. Vanuit IT vervul je ook een ambassadeursfunctie naar de rest van de organisatie. Je behandelt functionele vragen, volgt meldingen op en waakt over het dagelijks gebruik en de kwaliteit van de toepassingen.</p> \n<p>Binnen het team worden ook algemene aansluitingsvragen behandeld en bieden we ook ondersteuning aan externe partijen hieromtrent. We nemen ook de coördinatie van datavragen op en voorzien opvolging van kleine changes of projecten</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>Beantwoorden en opvolgen van vragen over applicaties in beheer, met focus op gebruik, functionaliteit en proces. </li> \n<li>Analyseren van meldingen en inschatten welke acties nodig zijn: zelf oplossen, documenteren of escaleren. </li> \n<li>Optreden als functioneel aanspreekpunt voor toegewezen toepassingen. </li> \n<li>Actief oppikken van signalen uit de gebruikerspraktijk en die vertalen naar voorstellen voor optimalisatie of verbetering. </li> \n<li>In overleg met collega’s en leveranciers meedenken over de verdere ontwikkeling en prioritering van wijzigingen. </li> \n<li>Uitwerken en bijhouden van heldere gebruikersdocumentatie, instructies en interne nota’s. </li> \n<li>Kennisdeling binnen het team en optreden als back-up voor collega’s. </li> \n<li>Testen van releases, updates of wijzigingen, en meewerken aan acceptatie en implementatie. </li> \n<li>Zorgen voor continuïteit, kwaliteit en gedragenheid van applicaties doorheen de organisatie. </li> </ul>",
-        "htmlEncoded": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een \n<span>applicatiebeheerder</span> die niet alleen toepassingen begrijpt, maar ook mensen. Iemand die initiatief neemt, vragen durft te stellen en actief zoekt naar oplossingen – zelfs als de handleiding ontbreekt. Geen stress, je staat er niet alleen voor! Ons kleine team staat voor je klaar om je uitgebreid op te leiden, begeleiden en ondersteunen zodat je deze job helemaal onder de knie krijgt. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als applicatiebeheerder ben jij het aanspreekpunt voor toepassingen die het team beheert. Je maakt deel uit van een gespecialiseerd team dat de brug slaat tussen gebruikers en IT. Vanuit IT vervul je ook een ambassadeursfunctie naar de rest van de organisatie. Je behandelt functionele vragen, volgt meldingen op en waakt over het dagelijks gebruik en de kwaliteit van de toepassingen.</p> \n<p>Binnen het team worden ook algemene aansluitingsvragen behandeld en bieden we ook ondersteuning aan externe partijen hieromtrent. We nemen ook de coördinatie van datavragen op en voorzien opvolging van kleine changes of projecten</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>Beantwoorden en opvolgen van vragen over applicaties in beheer, met focus op gebruik, functionaliteit en proces. </li> \n<li>Analyseren van meldingen en inschatten welke acties nodig zijn: zelf oplossen, documenteren of escaleren. </li> \n<li>Optreden als functioneel aanspreekpunt voor toegewezen toepassingen. </li> \n<li>Actief oppikken van signalen uit de gebruikerspraktijk en die vertalen naar voorstellen voor optimalisatie of verbetering. </li> \n<li>In overleg met collega’s en leveranciers meedenken over de verdere ontwikkeling en prioritering van wijzigingen. </li> \n<li>Uitwerken en bijhouden van heldere gebruikersdocumentatie, instructies en interne nota’s. </li> \n<li>Kennisdeling binnen het team en optreden als back-up voor collega’s. </li> \n<li>Testen van releases, updates of wijzigingen, en meewerken aan acceptatie en implementatie. </li> \n<li>Zorgen voor continuïteit, kwaliteit en gedragenheid van applicaties doorheen de organisatie. </li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72070344",
       "internal": false,
       "validThroughDate": "-1",
@@ -2417,6 +2382,41 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19811",
+      "internal": false,
+      "validThroughDate": "1767484800",
+      "hiringOrganization": "ILVO Technologie en Voeding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19811",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Onderzoeker precisielandbouw"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Onderzoeker precisielandbouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij\ngebeten door technologie, landbouw en data? Spreekt het je aan om met robots,\nsensoren en AI aan de slag te gaan? Werk je graag in een Europese context met\ntastbare impact op duurzame landbouw? Wil je tegelijk inhoudelijk meewerken en\nprojecten sturen? Dan is dit de perfecte combinatie van onderzoek, innovatie en\npraktijk!</p><p>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong></p>",
+        "htmlEncoded": "<p>Ben jij\ngebeten door technologie, landbouw en data? Spreekt het je aan om met robots,\nsensoren en AI aan de slag te gaan? Werk je graag in een Europese context met\ntastbare impact op duurzame landbouw? Wil je tegelijk inhoudelijk meewerken en\nprojecten sturen? Dan is dit de perfecte combinatie van onderzoek, innovatie en\npraktijk!</p><p>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
@@ -3521,56 +3521,6 @@
         {
           "address": {
             "city": "Turnhout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19544",
-      "internal": false,
-      "validThroughDate": "1764201600",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 4,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-19544",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidscoördinator"
-      },
-      "displayTitle": "Beleidscoördinator",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij een geboren netwerker en draag jij graag bij aan de vlotte samenwerking tussen organisaties? Heb je belangstelling om te werken in een gevangenis en zo het verschil te maken voor personen in detentie? Heb jij interesse en ervaring in de maatschappelijke hulp- en dienstverlening en de strafrechtelijke interventie in brede zin? Lees dan snel verder!<br><br>Als beleidscoördinator hulp- en dienstverlening aan personen in detentie maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden. Concreet ben jij als beleidscoördinator verantwoordelijk voor het coördineren en aansturen van het geheel aan hulp- en dienstverlening in de gevangenis of het detentiehuis. Dit doe je op vlak van verschillende domeinen, waaronder onderwijs, tewerkstelling, welzijn, sport, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hiervoor nauw samen met de federale partners in de gevangenis en de verantwoordelijken van de verschillende hulp- en dienstverlenende organisaties met een aanbod voor personen in detentie. Je stuurt dus een netwerkorganisatie aan en bent ook de direct leidinggevende van de organisatieondersteuner, die meer operationele taken opneemt. Verder neem jij ook een verbindende rol op tussen de hulpverleningsorganisaties enerzijds en de justitiële partners anderzijds.<br><br>Op dit moment zijn er twee voltijdse vacatures: 1 in Ieper en 1 in Dendermonde-hulp en twee halftijdse vacatures (1 in Tongeren en 1 in Vorst). In Vorst ben je flexibel inzetbaar op de twee andere standplaatsen in regio Brussel, naargelang de nood (Haren en St-Gillis).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Ben jij een geboren netwerker en draag jij graag bij aan de vlotte samenwerking tussen organisaties? Heb je belangstelling om te werken in een gevangenis en zo het verschil te maken voor personen in detentie? Heb jij interesse en ervaring in de maatschappelijke hulp- en dienstverlening en de strafrechtelijke interventie in brede zin? Lees dan snel verder!<br><br>Als beleidscoördinator hulp- en dienstverlening aan personen in detentie maak je deel uit van de afdeling Hulp- en Dienstverlening aan Gedetineerden. Concreet ben jij als beleidscoördinator verantwoordelijk voor het coördineren en aansturen van het geheel aan hulp- en dienstverlening in de gevangenis of het detentiehuis. Dit doe je op vlak van verschillende domeinen, waaronder onderwijs, tewerkstelling, welzijn, sport, cultuur, geestelijke gezondheidszorg en wonen. Je werkt hiervoor nauw samen met de federale partners in de gevangenis en de verantwoordelijken van de verschillende hulp- en dienstverlenende organisaties met een aanbod voor personen in detentie. Je stuurt dus een netwerkorganisatie aan en bent ook de direct leidinggevende van de organisatieondersteuner, die meer operationele taken opneemt. Verder neem jij ook een verbindende rol op tussen de hulpverleningsorganisaties enerzijds en de justitiële partners anderzijds.<br><br>Op dit moment zijn er twee voltijdse vacatures: 1 in Ieper en 1 in Dendermonde-hulp en twee halftijdse vacatures (1 in Tongeren en 1 in Vorst). In Vorst ben je flexibel inzetbaar op de twee andere standplaatsen in regio Brussel, naargelang de nood (Haren en St-Gillis).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Tongeren-Borgloon"
-          }
-        },
-        {
-          "address": {
-            "city": "Ieper"
-          }
-        },
-        {
-          "address": {
-            "city": ""
-          }
-        },
-        {
-          "address": {
-            "city": "Dendermonde"
           }
         }
       ]
