@@ -1,10 +1,10 @@
 {
-  "totalItems": 125,
+  "totalItems": 124,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 124,
+  "lastItemOfPage": 123,
   "items": [
     {
       "link": "/Job/vdab-72511254",
@@ -352,41 +352,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72444214",
-      "internal": false,
-      "validThroughDate": "1764460800",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72444214",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "verpleegkundige of sociotherapeut"
-      },
-      "displayTitle": "verpleegkundige of sociotherapeut",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, residentiële </span>24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige of sociotherapeut ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>",
-        "htmlEncoded": "<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, residentiële </span>24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige of sociotherapeut ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
