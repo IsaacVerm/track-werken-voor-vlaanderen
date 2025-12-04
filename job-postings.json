@@ -1,11 +1,46 @@
 {
-  "totalItems": 127,
+  "totalItems": 130,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 126,
+  "lastItemOfPage": 129,
   "items": [
+    {
+      "link": "/Job/vdab-72560954",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "MUNTPUNT",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72560954",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Productiemedewerker Zaalhuur en events"
+      },
+      "displayTitle": "Productiemedewerker Zaalhuur en events",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Muntpunt is meer dan een gebouw: het is een plek waar mensen elkaar ontmoeten, verhalen groeien en ideeën gedeeld worden. Veel van die ontmoetingen vinden plaats in onze zalen, tijdens evenementen, vergaderingen en creatieve producties.</span></p> \n<p><span>En jij? Jij zorgt dat alles daar vlekkeloos verloopt. We zoeken iemand die plannen en organiseren in de vingers heeft, vlot schakelt tussen partners, teams en leveranciers, en niet terugdeinst voor een strakke timing. Iemand die energie haalt uit dynamiek en verantwoordelijkheid.</span></p> \n<p><span>Met ruim 1.400 activiteiten per jaar is het belangrijk dat jij de juiste voorwaarden creëert op logistiek, technisch en organisatorisch vlak. Zo kunnen collega's en partners zich volledig richten op het uitvoeren van sterke en kwalitatieve producties.</span></p> \n<p><span>Concreet:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je staat organisatoren (klanten of collega’s) bij in de praktische voorbereiding en productie van hun evenementen: je geeft advies over planning, zalen, materiaal, catering en andere praktische zaken.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je bewaakt de zaalplanning in overleg met productiecollega’s en het team dat instaat voor de dagelijkse werking.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je controleert de riders, stemt af met klanten of collega’s en zorgt voor duidelijke afspraken over levering, toegang, op- en afbouw, catering, onthaal…</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je maakt heldere interne én externe afspraken met collega’s en partners zodat iedereen weet wat, waar en wanneer moet gebeuren. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je overlegt met je verantwoordelijke over mogelijke aanpassingen aan de infrastructuur en werking in functie van een betere interne werking en een klantgerichtere dienstverlening.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert de technische noden van elk project – of dat nu een eenmalige activiteit is of een terugkerend initiatief – en schakelt technische ondersteuning in waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je beheert de reservaties van audiovisueel materiaal en andere productietools.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je presteert wekelijks operationele diensten met als doel een zaal klaarzetten of opruimen, catering ophalen, dranken bestellen, leveranciers en klanten verwelkomen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>In overleg met je teamcoördinator organiseer je ook zelf enkele (jaarlijkse) activiteiten zoals de boekenverkoop op autoloze zondag, het personeelsfeest en de teamdag van Muntpunt.</span></p>",
+        "htmlEncoded": "<p><span>Muntpunt is meer dan een gebouw: het is een plek waar mensen elkaar ontmoeten, verhalen groeien en ideeën gedeeld worden. Veel van die ontmoetingen vinden plaats in onze zalen, tijdens evenementen, vergaderingen en creatieve producties.</span></p> \n<p><span>En jij? Jij zorgt dat alles daar vlekkeloos verloopt. We zoeken iemand die plannen en organiseren in de vingers heeft, vlot schakelt tussen partners, teams en leveranciers, en niet terugdeinst voor een strakke timing. Iemand die energie haalt uit dynamiek en verantwoordelijkheid.</span></p> \n<p><span>Met ruim 1.400 activiteiten per jaar is het belangrijk dat jij de juiste voorwaarden creëert op logistiek, technisch en organisatorisch vlak. Zo kunnen collega's en partners zich volledig richten op het uitvoeren van sterke en kwalitatieve producties.</span></p> \n<p><span>Concreet:</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je staat organisatoren (klanten of collega’s) bij in de praktische voorbereiding en productie van hun evenementen: je geeft advies over planning, zalen, materiaal, catering en andere praktische zaken.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je bewaakt de zaalplanning in overleg met productiecollega’s en het team dat instaat voor de dagelijkse werking.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je controleert de riders, stemt af met klanten of collega’s en zorgt voor duidelijke afspraken over levering, toegang, op- en afbouw, catering, onthaal…</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je maakt heldere interne én externe afspraken met collega’s en partners zodat iedereen weet wat, waar en wanneer moet gebeuren. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je overlegt met je verantwoordelijke over mogelijke aanpassingen aan de infrastructuur en werking in functie van een betere interne werking en een klantgerichtere dienstverlening.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je analyseert de technische noden van elk project – of dat nu een eenmalige activiteit is of een terugkerend initiatief – en schakelt technische ondersteuning in waar nodig.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je beheert de reservaties van audiovisueel materiaal en andere productietools.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je presteert wekelijks operationele diensten met als doel een zaal klaarzetten of opruimen, catering ophalen, dranken bestellen, leveranciers en klanten verwelkomen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>In overleg met je teamcoördinator organiseer je ook zelf enkele (jaarlijkse) activiteiten zoals de boekenverkoop op autoloze zondag, het personeelsfeest en de teamdag van Muntpunt.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72550411",
       "internal": false,
@@ -352,41 +387,6 @@
         {
           "address": {
             "city": "Genk"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72497661",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Sport Vlaanderen Gent 1",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72497661",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Centrummedewerker/Groenonderhoud"
-      },
-      "displayTitle": "Centrummedewerker/Groenonderhoud",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker/groenonderhoud ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, kleine herstellingen uitvoeren, toezicht uitoefenen, begeleiden van bezoekers, n</span>azicht en onderhoud van de (groene) buitenomgeving, instaan voor een goede ontvangst van bezoekers en gebruikers, \n<span>op/afbouw van evenementen, kleine kluswerken,...</span></p>",
-        "htmlEncoded": "<p><span lang=\"NL-BE\">Hou je van \n<strong>contacten met klanten</strong>? Wil je graag werken in een \n<strong>sportieve omgeving</strong>? \n<br> Ben je bovendien op zoek naar een erg \n<strong>gevarieerde functie</strong> in een \n<strong>tof team</strong>?</span></p> \n<p><span lang=\"NL-BE\">Dat komt dan goed uit, want dan is onderstaande vacature zeker iets voor jou!</span></p> \n<p><span lang=\"NL-BE\">Als centrummedewerker/groenonderhoud ga je aan de slag in een polyvalente functie: onderhouden van de sportinfrastructuur, groenonderhoud, kleine herstellingen uitvoeren, toezicht uitoefenen, begeleiden van bezoekers, n</span>azicht en onderhoud van de (groene) buitenomgeving, instaan voor een goede ontvangst van bezoekers en gebruikers, \n<span>op/afbouw van evenementen, kleine kluswerken,...</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Gent"
           }
         }
       ]
@@ -2492,6 +2492,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19838",
+      "internal": false,
+      "validThroughDate": "1767484800",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19838",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "1 bemiddelaar Activering (Eeklo)"
+      },
+      "displayTitle": "1 bemiddelaar Activering (Eeklo)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>VDAB zoekt een enthousiaste en gemotiveerde Bemiddelaar om ons team in de regio Eeklo te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;</p><p>Ben jij de Bemiddelaar Activering die wij zoeken?<br><br>Activering: Drempels Verkleinen, Kansen Creëren<br><br>Als Bemiddelaar Activering richt je je op werkzoekenden met complexe en meervoudige drempels tot de arbeidsmarkt. Je speelt een cruciale rol in het diepgaand uitklaren en fundamenteel verkleinen van deze drempels, met als doel inclusieve arbeidsmarktparticipatie voor iedereen.<br>Wat je doet:<br>Je brengt de noden en drempels van een klant diepgaand in kaart (lichamelijke, mentale, sociale en persoonlijke factoren, door middel van dossieranalyse, gesprekken en het uitklaren van medische situaties).<br>Je analyseert het arbeidsmatig functioneren van de klant en legt dit kwalitatief vast in het ICF-model (International Classification of Functioning, Disability and Health) om tot een passend advies te komen.&nbsp;<br>Je schat de klant continu in en stuurt bij gedurende het traject. Je stelt een 'Plan van Aanpak' op.<br>Je oriënteert de klant naar een geschikt vervolgtraject of dienstverlening bij externe partners (zoals GTB, GLOW, Wijk-werken).<br>Je werkt nauw samen met het bredere netwerk rond de klant, waaronder lokale partnerschappen, werkgevers in de sociale economie en welzijns- en zorgpartners.<br>Je begeleidt klanten met een 'collectief maatwerk' (CMW) advies naar openstaande vacatures.<br>Je volgt klanten op die na een diepgaande inschatting intensieve dienstverlening nodig hebben bij partners, inclusief nazorg op sleutelmomenten (start werk, nieuwe drempels).<br>Je bent de brug tussen de klant en alle betrokken partijen.<br>Je voert gesprekken zowel met de klant als met de externe partner.<br>Je past de regels voor doorverwijzing naar de controledienst correct toe.<br><br><br>Must haves voor de Bemiddelaar Activering:<br>Je hebt voeling met specifieke klantengroepen met eigen behoeften (bijvoorbeeld kwetsbare jongeren, gedetineerden, personen met complexe problematieken).<br>Je kunt goed omgaan met mensen met diverse achtergronden en uitdagingen.<br>Je bent empathisch, kunt je inleven in de klant en stelt je verbindend op.<br>Je kan vlot een dossier en functioneringsanalyse opmaken volgens het ICF-model, of je bent bereid een opleiding te volgen om hiermee te leren werken.<br>Je verricht medisch en psychosociaal contextonderzoek, met input van partners of je bent bereid dit aan te leren.&nbsp;<br>Je kunt een duidelijk advies koppelen aan een passend traject (regulier economisch circuit, individueel of collectief maatwerk, activeringstraject, arbeidsmatige activiteiten).<br>Je bouwt een zorgvuldig, compleet en duidelijk dossier op voor het juiste advies.<br><br><br>Nice to haves voor de Bemiddelaar Activering:<br>Ervaring met projectmatig werken als SPOC (Single Point Of Contact) sociale economie en het opvolgen en koppelen van vacatures in de sociale economie.&nbsp;</p>",
+        "htmlEncoded": "<p>VDAB zoekt een enthousiaste en gemotiveerde Bemiddelaar om ons team in de regio Eeklo te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;</p><p>Ben jij de Bemiddelaar Activering die wij zoeken?<br><br>Activering: Drempels Verkleinen, Kansen Creëren<br><br>Als Bemiddelaar Activering richt je je op werkzoekenden met complexe en meervoudige drempels tot de arbeidsmarkt. Je speelt een cruciale rol in het diepgaand uitklaren en fundamenteel verkleinen van deze drempels, met als doel inclusieve arbeidsmarktparticipatie voor iedereen.<br>Wat je doet:<br>Je brengt de noden en drempels van een klant diepgaand in kaart (lichamelijke, mentale, sociale en persoonlijke factoren, door middel van dossieranalyse, gesprekken en het uitklaren van medische situaties).<br>Je analyseert het arbeidsmatig functioneren van de klant en legt dit kwalitatief vast in het ICF-model (International Classification of Functioning, Disability and Health) om tot een passend advies te komen.&nbsp;<br>Je schat de klant continu in en stuurt bij gedurende het traject. Je stelt een 'Plan van Aanpak' op.<br>Je oriënteert de klant naar een geschikt vervolgtraject of dienstverlening bij externe partners (zoals GTB, GLOW, Wijk-werken).<br>Je werkt nauw samen met het bredere netwerk rond de klant, waaronder lokale partnerschappen, werkgevers in de sociale economie en welzijns- en zorgpartners.<br>Je begeleidt klanten met een 'collectief maatwerk' (CMW) advies naar openstaande vacatures.<br>Je volgt klanten op die na een diepgaande inschatting intensieve dienstverlening nodig hebben bij partners, inclusief nazorg op sleutelmomenten (start werk, nieuwe drempels).<br>Je bent de brug tussen de klant en alle betrokken partijen.<br>Je voert gesprekken zowel met de klant als met de externe partner.<br>Je past de regels voor doorverwijzing naar de controledienst correct toe.<br><br><br>Must haves voor de Bemiddelaar Activering:<br>Je hebt voeling met specifieke klantengroepen met eigen behoeften (bijvoorbeeld kwetsbare jongeren, gedetineerden, personen met complexe problematieken).<br>Je kunt goed omgaan met mensen met diverse achtergronden en uitdagingen.<br>Je bent empathisch, kunt je inleven in de klant en stelt je verbindend op.<br>Je kan vlot een dossier en functioneringsanalyse opmaken volgens het ICF-model, of je bent bereid een opleiding te volgen om hiermee te leren werken.<br>Je verricht medisch en psychosociaal contextonderzoek, met input van partners of je bent bereid dit aan te leren.&nbsp;<br>Je kunt een duidelijk advies koppelen aan een passend traject (regulier economisch circuit, individueel of collectief maatwerk, activeringstraject, arbeidsmatige activiteiten).<br>Je bouwt een zorgvuldig, compleet en duidelijk dossier op voor het juiste advies.<br><br><br>Nice to haves voor de Bemiddelaar Activering:<br>Ervaring met projectmatig werken als SPOC (Single Point Of Contact) sociale economie en het opvolgen en koppelen van vacatures in de sociale economie.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Eeklo"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19828",
       "internal": false,
       "validThroughDate": "1765929600",
@@ -2834,7 +2869,7 @@
       "validThroughDate": "1765929600",
       "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
       "reservedForDisability": false,
-      "openPositions": 1,
+      "openPositions": 2,
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
@@ -2847,9 +2882,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "1 instructeur goederenvervoer VDAB Rekkem"
+        "htmlEncoded": "2 instructeurs goederenvervoer VDAB Rekkem"
       },
-      "displayTitle": "1 instructeur goederenvervoer VDAB Rekkem",
+      "displayTitle": "2 instructeurs goederenvervoer VDAB Rekkem",
       "isProtected": false,
       "description": {
         "raw": "<p>Beschik je over technische kennis en vaardigheden op vlak van goederenvervoer? Wil je die beroepservaring overdragen aan cursisten om ze zo aan een passende job te helpen? Heb je coachende vaardigheden om onze cursisten te begeleiden op maat? Drie maal ja? Misschien word jij dan de <strong>instructeur </strong>die wij zoeken!</p><p>Een <strong>instructeur </strong>bij VDAB doet meer dan alleen instructies geven en technische vaardigheden doorgeven:</p><p>Je draagt bij aan het verdere carrièreverloop van iedere cursist die jouw pad kruist. Het is jouw doel om de cursist aan duurzaam werk te helpen.</p><p>Je coacht en begeleidt op maat van de beginnende cursist. Je hoeft hiervoor geen ervaring te hebben als opleider, maar je moet wel coachende vaardigheden bezitten.&nbsp;</p><p>Jouw <strong>takenpakket </strong>in een notendop:</p><p>- Het doel van onze opleidingen is om cursisten competenties bij te brengen die hen aan een duurzame job helpen. Daarom zoeken we gedreven vakmensen met praktijkervaring.<br>- We bieden je de kans om de technologische evoluties in je vakgebied verder te blijven volgen.<br>- Als instructeur blijf je in contact met de bedrijfswereld, zodat je jouw cursisten kan ondersteunen in het vinden van stages en werk.<br>- VDAB-opleidingen verlopen erg gevarieerd. We leggen de nadruk op “al doende leren”. Daarom geef je als instructeur niet alleen instructies, maar begeleid je ook zelfstudie, maak je gebruik van digitale tools en van opleidingspakketten. Als opleiden jouw ding is, leren wij je wel hoe je dit allemaal precies aanpakt.<br>- Je werkt binnen een team van instructeurs en bouwt samen met je collega’s ons opleidingsaanbod op dit domein verder uit via cursusontwikkeling, opleiding in bedrijven, samenwerking met scholen of andere opleidingsaanbieders, ….<br>- Je bent bereid tot provinciale inzetbaarheid.<br><br>Op dit moment zoeken wij <strong>1&nbsp;instructeur goederenvervoer</strong> voor ons VDAB centrum in Rekkem.</p><p><em>Krijg je graag een nog concreter beeld van wat de functie inhoudt? Op 20 december om 9u00 (digitaal) organiseren wij een infosessie. Je wordt uitgenodigd via mail.<br></em></p><br>",
@@ -3039,6 +3074,41 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19754",
+      "internal": false,
+      "validThroughDate": "1768089600",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19754",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Hoofdscheepstechnicus STCW III/2 of III/3"
+      },
+      "displayTitle": "Hoofdscheepstechnicus STCW III/2 of III/3",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een scheepstechnicus die houdt van efficiëntie en die graag leiderschap opneemt? Ben je tevens op zoek naar een job dicht bij huis?&nbsp;<br><br>Dan is deze vacature bij dab VLOOT, de rederij van de Vlaamse overheid, een ideale kans voor jou!<br><br>Als hoofdscheepswerktuigkundige werk je aan boord van de grote varende eenheden van VLOOT en dit&nbsp; ofwel in een week op/week af-schema ofwel in dagdienst.&nbsp;<br><br>Je plant en organiseert de werkzaamheden op een praktische en efficiënte manier. Daarnaast begeleid en motiveer je een ploeg van technische medewerkers zodat zij hun taken doeltreffend kunnen uitvoeren.&nbsp;<br><br>Bij VLOOT zetten we vaartuigen in voor beloodsing, hulpverlening, hydrografie, vaarwegmarkering, kustwachtpartners, veerdiensten en zeewetenschappelijk onderzoek.&nbsp; We streven voortdurend naar innovatie, duurzaamheid en klantgerichtheid om een sterke dienstverlening te bieden.<br><br>Klaar om ook een cruciale rol te spelen in het onderhoud en de veiligheid van onze vloot?&nbsp;<br><br>Lees hieronder meer over het gezochte profiel en de selectieprocedure en stel je kandidaat.&nbsp;&nbsp;<br><br>Wil je graag nog meer details over de job? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/jobinhoud+in+detail_19754.docx\">deze link</a>&nbsp;.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>",
+        "htmlEncoded": "Ben jij een scheepstechnicus die houdt van efficiëntie en die graag leiderschap opneemt? Ben je tevens op zoek naar een job dicht bij huis?&nbsp;<br><br>Dan is deze vacature bij dab VLOOT, de rederij van de Vlaamse overheid, een ideale kans voor jou!<br><br>Als hoofdscheepswerktuigkundige werk je aan boord van de grote varende eenheden van VLOOT en dit&nbsp; ofwel in een week op/week af-schema ofwel in dagdienst.&nbsp;<br><br>Je plant en organiseert de werkzaamheden op een praktische en efficiënte manier. Daarnaast begeleid en motiveer je een ploeg van technische medewerkers zodat zij hun taken doeltreffend kunnen uitvoeren.&nbsp;<br><br>Bij VLOOT zetten we vaartuigen in voor beloodsing, hulpverlening, hydrografie, vaarwegmarkering, kustwachtpartners, veerdiensten en zeewetenschappelijk onderzoek.&nbsp; We streven voortdurend naar innovatie, duurzaamheid en klantgerichtheid om een sterke dienstverlening te bieden.<br><br>Klaar om ook een cruciale rol te spelen in het onderhoud en de veiligheid van onze vloot?&nbsp;<br><br>Lees hieronder meer over het gezochte profiel en de selectieprocedure en stel je kandidaat.&nbsp;&nbsp;<br><br>Wil je graag nog meer details over de job? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/jobinhoud+in+detail_19754.docx\">deze link</a>&nbsp;.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19715",
       "internal": false,
       "validThroughDate": "1765756800",
@@ -3104,6 +3174,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19688",
+      "internal": false,
+      "validThroughDate": "1766361600",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19688",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "projectmedewerker afval- en materialengegevens (CMARTLIFE )"
+      },
+      "displayTitle": "projectmedewerker afval- en materialengegevens (CMARTLIFE )",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kan je steentje daar aan bijdragen!<br><br> Als projectmedewerker afval- &amp; materialengegevens ben je betrokken in het CMARTLIFE-project. Dit project zorgt voor de implementatie van afvalbeheersplannen, met de nadruk op het kunststoffenplan. Binnen het C-MARTLIFE-project werd een nieuw data-inzamelsysteem voor afvalstoffen- en materialengegevens ontwikkeld: het Materialeninformatiesysteem of MATIS.<br> <br> Je zal MATIS gebruiken om te voldoen aan de rapportageverplichtingen van OVAM en om gegevens over kunststofafval te verzamelen doorheen de hele materiaalketen. Daarnaast zal je ook meewerken aan het kwantificeren van verschillende aspecten van de circulaire economie. Je trekt conclusies uit de ingezamelde data en vertaalt ze naar concrete input ter ondersteuning van het beleid over circulaire economie. Daarnaast ben je in tweede lijn ook contactpersoon voor bedrijven die vragen hebben.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kan je steentje daar aan bijdragen!<br><br> Als projectmedewerker afval- &amp; materialengegevens ben je betrokken in het CMARTLIFE-project. Dit project zorgt voor de implementatie van afvalbeheersplannen, met de nadruk op het kunststoffenplan. Binnen het C-MARTLIFE-project werd een nieuw data-inzamelsysteem voor afvalstoffen- en materialengegevens ontwikkeld: het Materialeninformatiesysteem of MATIS.<br> <br> Je zal MATIS gebruiken om te voldoen aan de rapportageverplichtingen van OVAM en om gegevens over kunststofafval te verzamelen doorheen de hele materiaalketen. Daarnaast zal je ook meewerken aan het kwantificeren van verschillende aspecten van de circulaire economie. Je trekt conclusies uit de ingezamelde data en vertaalt ze naar concrete input ter ondersteuning van het beleid over circulaire economie. Daarnaast ben je in tweede lijn ook contactpersoon voor bedrijven die vragen hebben.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
           }
         }
       ]
