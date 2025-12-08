@@ -1,10 +1,10 @@
 {
-  "totalItems": 128,
+  "totalItems": 134,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 127,
+  "lastItemOfPage": 133,
   "items": [
     {
       "link": "/Job/vdab-72560954",
@@ -3074,76 +3074,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19766",
-      "internal": false,
-      "validThroughDate": "1765065600",
-      "hiringOrganization": "ILVO Plant 39",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19766",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Junior moleculair bioloog  met specialisatie bio-informatica"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Junior moleculair bioloog  met specialisatie bio-informatica",
-      "isProtected": false,
-      "description": {
-        "raw": "<span></span>Ben\njij gebeten door genoomkennis en wil je die laten landen in plantenrassen met optimale\ngroei, kwaliteit, ziekteresistentie en klimaatbestendigheid? Word je enthousiast\nvan genoom editing, vergelijkende genoomanalyses en onderzoek naar genexpressie?\nAdviseer je graag over de meest geschikte strategieën voor DNA-sequencing, zonder\nzelf in het labo te werken? Werk je vlot met high-throughput Next Generation Sequencing\ndata en bio-informatica tools om onderzoeksresultaten te vertalen naar kennis?\nDan is dit de job voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
-        "htmlEncoded": "<span></span>Ben\njij gebeten door genoomkennis en wil je die laten landen in plantenrassen met optimale\ngroei, kwaliteit, ziekteresistentie en klimaatbestendigheid? Word je enthousiast\nvan genoom editing, vergelijkende genoomanalyses en onderzoek naar genexpressie?\nAdviseer je graag over de meest geschikte strategieën voor DNA-sequencing, zonder\nzelf in het labo te werken? Werk je vlot met high-throughput Next Generation Sequencing\ndata en bio-informatica tools om onderzoeksresultaten te vertalen naar kennis?\nDan is dit de job voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19762",
-      "internal": false,
-      "validThroughDate": "1765065600",
-      "hiringOrganization": "ILVO Plant 96",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19762",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Laborant  Moleculaire biologie en Microbiologie"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Laborant  Moleculaire biologie en Microbiologie",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben jij\ngeboeid door plantenziekten en plagen, labowerk en wetenschap? Hou je\nvan afwisseling tussen labo en veldwerk? Werk je graag nauwkeurig, met oog voor\ndetail en kwaliteit? Wil je bijdragen aan gezonde planten voor telers en\nconsumenten?<br>Dan is deze functie iets voor jou.<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.",
-        "htmlEncoded": "Ben jij\ngeboeid door plantenziekten en plagen, labowerk en wetenschap? Hou je\nvan afwisseling tussen labo en veldwerk? Werk je graag nauwkeurig, met oog voor\ndetail en kwaliteit? Wil je bijdragen aan gezonde planten voor telers en\nconsumenten?<br>Dan is deze functie iets voor jou.<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19754",
       "internal": false,
       "validThroughDate": "1768089600",
@@ -3174,6 +3104,41 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19750",
+      "internal": false,
+      "validThroughDate": "1767744000",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19750",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Stafmedewerker Financieel Management"
+      },
+      "displayTitle": "Stafmedewerker Financieel Management",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij&nbsp;<strong><span>De Vlaamse Waterweg</span></strong>&nbsp;werk je mee aan het uitbouwen en optimaliseren van financiële processen die onze organisatie toekomstgericht maken. Je bent de brug tussen beleid en uitvoering, ondersteunt collega’s bij complexe vraagstukken en zorgt dat kwaliteit en efficiëntie altijd voorop staan.</span></p><p><span>Ben jij een verbinder met sterke communicatieskills, een oplossingsgerichte mindset en ervaring in procesmanagement? Dan willen we jou in ons team!</span></p><p><span>Bouw mee aan een organisatie die Vlaanderen letterlijk verbindt via haar waterwegen.</span></p><p><span>Solliciteer nu en maak het verschil als&nbsp;<strong><span>stafmedewerker Financieel Management</span></strong>!</span></p><p><span>Graag meer weten over deze functie? </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaamsewaterweg.be%2Fnl%2Fwerken-bij-de-vlaamse-waterweg-nv%3Fslide%3D1%26open%3Dtrue%23paragraph--26689&amp;data=05%7C02%7Ckatrien.peeters%40vlaanderen.be%7C71703ed76376492d9ee908de323f4593%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C639003444502135857%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=f03JXjd6JoIM9ZYZYZVn0CkDjYd8y53%2FG8hMfOZVV4c%3D&amp;reserved=0\"><span>Lees dan zeker verder via deze link.</span></a></span></p>",
+        "htmlEncoded": "<p><span>Bij&nbsp;<strong><span>De Vlaamse Waterweg</span></strong>&nbsp;werk je mee aan het uitbouwen en optimaliseren van financiële processen die onze organisatie toekomstgericht maken. Je bent de brug tussen beleid en uitvoering, ondersteunt collega’s bij complexe vraagstukken en zorgt dat kwaliteit en efficiëntie altijd voorop staan.</span></p><p><span>Ben jij een verbinder met sterke communicatieskills, een oplossingsgerichte mindset en ervaring in procesmanagement? Dan willen we jou in ons team!</span></p><p><span>Bouw mee aan een organisatie die Vlaanderen letterlijk verbindt via haar waterwegen.</span></p><p><span>Solliciteer nu en maak het verschil als&nbsp;<strong><span>stafmedewerker Financieel Management</span></strong>!</span></p><p><span>Graag meer weten over deze functie? </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaamsewaterweg.be%2Fnl%2Fwerken-bij-de-vlaamse-waterweg-nv%3Fslide%3D1%26open%3Dtrue%23paragraph--26689&amp;data=05%7C02%7Ckatrien.peeters%40vlaanderen.be%7C71703ed76376492d9ee908de323f4593%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C639003444502135857%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=f03JXjd6JoIM9ZYZYZVn0CkDjYd8y53%2FG8hMfOZVV4c%3D&amp;reserved=0\"><span>Lees dan zeker verder via deze link.</span></a></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
@@ -3274,6 +3239,172 @@
       "description": {
         "raw": "<p><span>ICT is een essentieel onderdeel van iedere organisatie. Binnen de Dienst van Bestuursrechtscolleges ben jij het eerstelijnsaanspreekpunt en zorg je ervoor dat collega’s altijd kunnen rekenen op een vlotte en betrouwbare ICT-ondersteuning. Dankzij jouw expertise functioneren onze digitale middelen optimaal en kunnen onze medewerkers zich volledig richten op hun dienstverlening.</span></p> <p><span>Als ICT-ondersteuner volg je bijstandsverzoeken nauwgezet op en garandeer je een correcte oplossing én afhandeling van servicevragen en problemen. Je zorgt ervoor dat hardware, smartphones, O365, SharePoint en organisatie-eigen toepassingen steeds beschikbaar zijn en optimaal gebruikt worden. Daarnaast bied je operationele en technische ondersteuning in de back office en het externe loket, waarbij je verantwoordelijk bent voor het registreren en opvolgen van bugs en issues in het ticketsysteem en het koppelen van sjablonen aan interne toepassingen.</span></p> <p><span>Ook als systeembeheerder speel je een cruciale rol: je staat in voor het dagelijks beheer en onderhoud van de ICT-omgeving, lost netwerkproblemen en technische complicaties op en gaat proactief op zoek naar mogelijke veiligheids- en performantieproblemen.</span></p> <p><span>We zoeken iemand die oplossingsgericht werkt en beschikt over uitstekende technische vaardigheden, maar ook over de nodige people skills om collega’s klantvriendelijk te ondersteunen. Ervaring in het bieden van IT-ondersteuning is een must. Daarnaast kan je zelfstandig werken, prioriteiten stellen en ga je zorgvuldig te werk. Met jouw leergierige houding en oog voor de nieuwste ICT-trends ben jij de betrouwbare partner die DBRC digitaal vooruit stuwt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
         "htmlEncoded": "<p><span>ICT is een essentieel onderdeel van iedere organisatie. Binnen de Dienst van Bestuursrechtscolleges ben jij het eerstelijnsaanspreekpunt en zorg je ervoor dat collega’s altijd kunnen rekenen op een vlotte en betrouwbare ICT-ondersteuning. Dankzij jouw expertise functioneren onze digitale middelen optimaal en kunnen onze medewerkers zich volledig richten op hun dienstverlening.</span></p> <p><span>Als ICT-ondersteuner volg je bijstandsverzoeken nauwgezet op en garandeer je een correcte oplossing én afhandeling van servicevragen en problemen. Je zorgt ervoor dat hardware, smartphones, O365, SharePoint en organisatie-eigen toepassingen steeds beschikbaar zijn en optimaal gebruikt worden. Daarnaast bied je operationele en technische ondersteuning in de back office en het externe loket, waarbij je verantwoordelijk bent voor het registreren en opvolgen van bugs en issues in het ticketsysteem en het koppelen van sjablonen aan interne toepassingen.</span></p> <p><span>Ook als systeembeheerder speel je een cruciale rol: je staat in voor het dagelijks beheer en onderhoud van de ICT-omgeving, lost netwerkproblemen en technische complicaties op en gaat proactief op zoek naar mogelijke veiligheids- en performantieproblemen.</span></p> <p><span>We zoeken iemand die oplossingsgericht werkt en beschikt over uitstekende technische vaardigheden, maar ook over de nodige people skills om collega’s klantvriendelijk te ondersteunen. Ervaring in het bieden van IT-ondersteuning is een must. Daarnaast kan je zelfstandig werken, prioriteiten stellen en ga je zorgvuldig te werk. Met jouw leergierige houding en oog voor de nieuwste ICT-trends ben jij de betrouwbare partner die DBRC digitaal vooruit stuwt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19706",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19706",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Informaticus – Data Engineer"
+      },
+      "displayTitle": "Informaticus – Data Engineer",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een gedreven hands-on probleemoplosser met een passie voor data en rapportering? Wil jij meebouwen aan duurzame, betrouwbare dataoplossingen die een zichtbare meerwaarde bieden aan burgers en beleidsmakers? Wij zoeken een data engineer die zich wil toeleggen op het ontwerpen, ontwikkelen en onderhouden van geavanceerde dataverwerkingspijplijnen binnen het Departement Zorg.</div><div>&nbsp;</div><div>Je functie situeert zich binnen de afdeling beleidsinformatie en data, waar je samenwerkt in een dynamisch BI-team. Samen met business analisten, data-analisten, visualisatie-experten en technische collega’s draag je bij aan het verzamelen, structureren en ontsluiten van gegevens die cruciaal zijn voor rapportering en data science projecten.&nbsp;</div><div></div><div>Als data-engineer ontwerp en optimaliseer je complexe ETL-flows en data pipelines, beheer je dataflows in het AWS data lake en begeleid je collega’s bij het gebruik van cloudtools en het oplossen van technische vraagstukken.&nbsp;</div><div></div><div>Je analyseert zelfstandig data-behoeften, vertaalt business requirements naar technische oplossingen en coördineert story-analyse en samenwerking met visualisatie-experts en andere stakeholders. Je voert migraties en optimalisaties uit van de data-architectuur, begeleidt junioren bij het werken met nieuwe technologieën en draagt actief bij aan het verbeteren van procedures, documentatie en testprocessen.&nbsp;</div><div></div><div>Je zet kwaliteitscontroles op, voert root-cause analyses uit en reviewt code en dataflows van collega’s. Je deelt best practices, organiseert kennissessies en bouwt mee aan een sterke kenniscommunity binnen het team. Met jouw expertise en drive zorg je ervoor dat data betrouwbaar, schaalbaar en bruikbaar is voor beleid en praktijk.</div>",
+        "htmlEncoded": "<div>Ben jij een gedreven hands-on probleemoplosser met een passie voor data en rapportering? Wil jij meebouwen aan duurzame, betrouwbare dataoplossingen die een zichtbare meerwaarde bieden aan burgers en beleidsmakers? Wij zoeken een data engineer die zich wil toeleggen op het ontwerpen, ontwikkelen en onderhouden van geavanceerde dataverwerkingspijplijnen binnen het Departement Zorg.</div><div>&nbsp;</div><div>Je functie situeert zich binnen de afdeling beleidsinformatie en data, waar je samenwerkt in een dynamisch BI-team. Samen met business analisten, data-analisten, visualisatie-experten en technische collega’s draag je bij aan het verzamelen, structureren en ontsluiten van gegevens die cruciaal zijn voor rapportering en data science projecten.&nbsp;</div><div></div><div>Als data-engineer ontwerp en optimaliseer je complexe ETL-flows en data pipelines, beheer je dataflows in het AWS data lake en begeleid je collega’s bij het gebruik van cloudtools en het oplossen van technische vraagstukken.&nbsp;</div><div></div><div>Je analyseert zelfstandig data-behoeften, vertaalt business requirements naar technische oplossingen en coördineert story-analyse en samenwerking met visualisatie-experts en andere stakeholders. Je voert migraties en optimalisaties uit van de data-architectuur, begeleidt junioren bij het werken met nieuwe technologieën en draagt actief bij aan het verbeteren van procedures, documentatie en testprocessen.&nbsp;</div><div></div><div>Je zet kwaliteitscontroles op, voert root-cause analyses uit en reviewt code en dataflows van collega’s. Je deelt best practices, organiseert kennissessies en bouwt mee aan een sterke kenniscommunity binnen het team. Met jouw expertise en drive zorg je ervoor dat data betrouwbaar, schaalbaar en bruikbaar is voor beleid en praktijk.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19705",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19705",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Informaticus – Rapportontwikkelaar/Visualisatie-expert"
+      },
+      "displayTitle": "Informaticus – Rapportontwikkelaar/Visualisatie-expert",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij data tot leven brengen en impact maken binnen het Departement Zorg? Als rapportontwikkelaar/visualisatie-expert ontwerp en publiceer je geavanceerde dashboards en datasources in Tableau, waarbij je verschillende databronnen integreert tot heldere inzichten voor beleid en praktijk.&nbsp;</div><div></div><div>Je analyseert zelfstandig complexe informatiebehoeften, vertaalt deze naar rapportoplossingen en signaleert proactief knelpunten en kansen in bestaande rapportages. Je documenteert en standaardiseert rapportageprocessen, leidt eindgebruikers op in selfservice en Tableau web-editor, en denkt mee over best practices en verbetertrajecten.&nbsp;</div><div></div><div>Je coacht junior collega’s, voert kwaliteitscontroles en reviews uit, en bent het aanspreekpunt voor inhoudelijke en technische vragen binnen het team. Je coördineert samenwerking met analisten, management en externe partners, bewaakt deliverables en kwaliteit binnen rapportageprojecten, en draagt actief bij aan het verbeteren van processen, documentatie en samenwerking.&nbsp;</div><div></div><div>Met jouw expertise organiseer je interne kennissessies, deel je kennis over nieuwe technieken en bouw je mee aan een sterke kenniscommunity binnen het Departement Zorg.</div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;",
+        "htmlEncoded": "<div>Wil jij data tot leven brengen en impact maken binnen het Departement Zorg? Als rapportontwikkelaar/visualisatie-expert ontwerp en publiceer je geavanceerde dashboards en datasources in Tableau, waarbij je verschillende databronnen integreert tot heldere inzichten voor beleid en praktijk.&nbsp;</div><div></div><div>Je analyseert zelfstandig complexe informatiebehoeften, vertaalt deze naar rapportoplossingen en signaleert proactief knelpunten en kansen in bestaande rapportages. Je documenteert en standaardiseert rapportageprocessen, leidt eindgebruikers op in selfservice en Tableau web-editor, en denkt mee over best practices en verbetertrajecten.&nbsp;</div><div></div><div>Je coacht junior collega’s, voert kwaliteitscontroles en reviews uit, en bent het aanspreekpunt voor inhoudelijke en technische vragen binnen het team. Je coördineert samenwerking met analisten, management en externe partners, bewaakt deliverables en kwaliteit binnen rapportageprojecten, en draagt actief bij aan het verbeteren van processen, documentatie en samenwerking.&nbsp;</div><div></div><div>Met jouw expertise organiseer je interne kennissessies, deel je kennis over nieuwe technieken en bouw je mee aan een sterke kenniscommunity binnen het Departement Zorg.</div><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19704",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19704",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Operationeel coördinator klimaat (informaticus)"
+      },
+      "displayTitle": "Operationeel coördinator klimaat (informaticus)",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij mee het verschil maken voor klimaat en duurzaamheid binnen de Vlaamse overheid? Als Operationeel coördinator klimaat ben je binnen de afdeling VIPA de drijvende kracht achter de ontwikkeling en optimalisatie van dienstverlening rond klimaat.<br><br>Je analyseert behoeften, vertaalt deze naar functionele en data-analyses, en werkt samen met diverse partners aan het Terra-platform en de Zorgatlas. Je breidt rapporteringen uit, ontwikkelt datamodellen en dashboards, en zorgt voor bruikbare inzichten voor beleid en praktijk. Je coördineert operationele processen, ondersteunt collega’s bij het gebruik van systemen en toepassingen, en bewaakt de timing en kwaliteit van dossierbehandeling (incl. uitbetaling van subsidies).<br><br>Je bent het aanspreekpunt voor administratieve collega’s, adviseert het management en signaleert proactief knelpunten en verbeterpunten. Je werkt samen met data-analisten van het Vlaams Energiebedrijf, VEKA en de afdeling BID, neemt deel aan projecten en werkgroepen, en draagt bij aan de optimalisatie van dataproducten en rapportering over energieaudits, klimaatsubsidies voor energiebesparende investeringen en verbruiksgegevens. Je beheert het klimaatbudget, verdedigt voorstellen en zorgt voor een efficiënte aanwending van middelen.<br><br>Met jouw innovatieve ideeën, communicatieve vaardigheden en analytisch inzicht geef je mee vorm aan duurzame oplossingen voor de zorgsector.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij mee het verschil maken voor klimaat en duurzaamheid binnen de Vlaamse overheid? Als Operationeel coördinator klimaat ben je binnen de afdeling VIPA de drijvende kracht achter de ontwikkeling en optimalisatie van dienstverlening rond klimaat.<br><br>Je analyseert behoeften, vertaalt deze naar functionele en data-analyses, en werkt samen met diverse partners aan het Terra-platform en de Zorgatlas. Je breidt rapporteringen uit, ontwikkelt datamodellen en dashboards, en zorgt voor bruikbare inzichten voor beleid en praktijk. Je coördineert operationele processen, ondersteunt collega’s bij het gebruik van systemen en toepassingen, en bewaakt de timing en kwaliteit van dossierbehandeling (incl. uitbetaling van subsidies).<br><br>Je bent het aanspreekpunt voor administratieve collega’s, adviseert het management en signaleert proactief knelpunten en verbeterpunten. Je werkt samen met data-analisten van het Vlaams Energiebedrijf, VEKA en de afdeling BID, neemt deel aan projecten en werkgroepen, en draagt bij aan de optimalisatie van dataproducten en rapportering over energieaudits, klimaatsubsidies voor energiebesparende investeringen en verbruiksgegevens. Je beheert het klimaatbudget, verdedigt voorstellen en zorgt voor een efficiënte aanwending van middelen.<br><br>Met jouw innovatieve ideeën, communicatieve vaardigheden en analytisch inzicht geef je mee vorm aan duurzame oplossingen voor de zorgsector.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19703",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19703",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "IT-Expert (informaticus)"
+      },
+      "displayTitle": "IT-Expert (informaticus)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij mee het verschil maken in de Vlaamse sociale bescherming? Als IT-expert bij het Departement Zorg in Brussel werk je in een dynamisch team aan het ontwikkelen en verbeteren van centrale toepassingen die de werking van onze organisatie ondersteunen.</span></p><p><span>Je analyseert behoeften, bedenkt innovatieve IT-oplossingen en zorgt voor veilige, efficiënte systemen die het dagelijks werk van collega’s en externe partners vergemakkelijken. Je bent het aanspreekpunt bij technische vragen, werkt samen met interne en externe stakeholders en draagt actief bij aan projecten rond informatieveiligheid en gegevensbescherming. Met jouw kennis van databanken, Java, </span><span>Angular</span><span>, SQL en moderne technologieën til je onze dienstverlening naar een hoger niveau.</span></p><p><span>Ben jij klaar om impact te maken en samen te bouwen aan een toekomstgerichte overheid? Solliciteer dan snel en versterk ons team!</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
+        "htmlEncoded": "<p><span>Wil jij mee het verschil maken in de Vlaamse sociale bescherming? Als IT-expert bij het Departement Zorg in Brussel werk je in een dynamisch team aan het ontwikkelen en verbeteren van centrale toepassingen die de werking van onze organisatie ondersteunen.</span></p><p><span>Je analyseert behoeften, bedenkt innovatieve IT-oplossingen en zorgt voor veilige, efficiënte systemen die het dagelijks werk van collega’s en externe partners vergemakkelijken. Je bent het aanspreekpunt bij technische vragen, werkt samen met interne en externe stakeholders en draagt actief bij aan projecten rond informatieveiligheid en gegevensbescherming. Met jouw kennis van databanken, Java, </span><span>Angular</span><span>, SQL en moderne technologieën til je onze dienstverlening naar een hoger niveau.</span></p><p><span>Ben jij klaar om impact te maken en samen te bouwen aan een toekomstgerichte overheid? Solliciteer dan snel en versterk ons team!</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19702",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19702",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "BI-Expert (informaticus)"
+      },
+      "displayTitle": "BI-Expert (informaticus)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij als BI-expert bijdragen aan een efficiënte en kwaliteitsvolle zorg binnen de Vlaamse overheid? Je analyseert proactief de behoeften van de organisatie en interne klanten, vertaalt deze naar concrete rapporteringsmodellen en ontwikkelt operationele en beleidsrapporten met behulp van BI-tools. Je tekent conceptueel de ETL-flow uit, werkt technische oplossingen uit en implementeert deze, zodat relevante beleidsinformatie beschikbaar wordt voor de juiste doelgroepen.</span></p><p><span>&nbsp;</span>Je ontwerpt en verbetert werkinstrumenten, stelt procedures en richtlijnen op voor het gebruik van de rapporteringsomgeving en ondersteunt interne klanten bij de implementatie van systemen en toepassingen. Je fungeert binnen team Gegevensbeheer in de afdeling Vlaamse Sociale Bescherming (VSB) als aanspreekpunt voor rapporteringsvragen, adviseert eindgebruikers en management, en neemt actief deel aan overleg en werkgroepen. Je bewaakt de kwaliteit van processen en dienstverlening, ziet toe op informatieveiligheid en doet voorstellen voor verbetering van de gehele rapporteringsflow voor de Vlaamse sociale bescherming.</p><p>Daarnaast volg je technologische ontwikkelingen op, stimuleer je kennisuitwisseling binnen het team en neem je deel aan projecten en cross-functionele werkgroepen. Je zorgt ervoor dat de BI-dienstverlening voortdurend geoptimaliseerd wordt en dat de organisatie kan rekenen op deskundige en innovatieve oplossingen.</p><p><span>Wil jij mee het verschil maken in een open en wendbare organisatie? Solliciteer en bouw mee aan een zorgzame toekomst!</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
+        "htmlEncoded": "<p><span>Wil jij als BI-expert bijdragen aan een efficiënte en kwaliteitsvolle zorg binnen de Vlaamse overheid? Je analyseert proactief de behoeften van de organisatie en interne klanten, vertaalt deze naar concrete rapporteringsmodellen en ontwikkelt operationele en beleidsrapporten met behulp van BI-tools. Je tekent conceptueel de ETL-flow uit, werkt technische oplossingen uit en implementeert deze, zodat relevante beleidsinformatie beschikbaar wordt voor de juiste doelgroepen.</span></p><p><span>&nbsp;</span>Je ontwerpt en verbetert werkinstrumenten, stelt procedures en richtlijnen op voor het gebruik van de rapporteringsomgeving en ondersteunt interne klanten bij de implementatie van systemen en toepassingen. Je fungeert binnen team Gegevensbeheer in de afdeling Vlaamse Sociale Bescherming (VSB) als aanspreekpunt voor rapporteringsvragen, adviseert eindgebruikers en management, en neemt actief deel aan overleg en werkgroepen. Je bewaakt de kwaliteit van processen en dienstverlening, ziet toe op informatieveiligheid en doet voorstellen voor verbetering van de gehele rapporteringsflow voor de Vlaamse sociale bescherming.</p><p>Daarnaast volg je technologische ontwikkelingen op, stimuleer je kennisuitwisseling binnen het team en neem je deel aan projecten en cross-functionele werkgroepen. Je zorgt ervoor dat de BI-dienstverlening voortdurend geoptimaliseerd wordt en dat de organisatie kan rekenen op deskundige en innovatieve oplossingen.</p><p><span>Wil jij mee het verschil maken in een open en wendbare organisatie? Solliciteer en bouw mee aan een zorgzame toekomst!</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
       },
       "locations": [
         {
@@ -3416,6 +3547,41 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19675",
+      "internal": false,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19675",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Helpdeskmedewerker financieel systeem"
+      },
+      "displayTitle": "Helpdeskmedewerker financieel systeem",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Word de spil in ons financiële systeem als Helpdeskmedewerker! Als jij bij ons aan boord komt, speel je een cruciale rol in het ondersteunen van eindgebruikers van zowel ons huidige (Unit4 Financials by Coda) als toekomstige interne boekhoudsysteem. Je staat klaar om gebruikers van onze centrale dienst en diverse scholengroepen te begeleiden en te ondersteunen.<br><br>Je taken zijn divers en uitdagend:<br><br>- Je biedt deskundige ondersteuning aan eindgebruikers bij vragen over het interne boekhoudsysteem.<br>- Je verzorgt inspirerende opleidingen voor financiële medewerkers van scholengroepen en centrale diensten, zodat zij het systeem optimaal kunnen benutten.<br>- Je houdt de kennis binnen de organisatie actueel door handleidingen, FAQ's en financiële richtlijnen regelmatig bij te werken en te delen via ons intranet.<br>- Je bent een actieve deelnemer in projecten die gericht zijn op de verbetering van ons systeem, waarbij jouw input en expertise van onschatbare waarde zijn.<br><br>Word lid van ons team en maak een verschil in de efficiëntie en effectiviteit van ons financiële beheer!</p><p>Kwaliteitsvol onderwijs voor iedereen is de missie van het GO! (Gemeenschapsonderwijs) op ruim 1.000 plaatsen in Vlaanderen en Brussel. Meer dan 40.000 medewerkers van het GO! dragen kennis over aan 340.000 leerlingen en cursisten en helpen hen zich te ontplooien tot actieve en positief kritische burgers. Iedereen krijgt daarbij gelijke kansen om talenten te ontwikkelen en te excelleren. Zo bereiken we meer. Als centrale diensten van het GO! hebben we de opdracht om het GO! te positioneren als het onderwijs van én voor de Vlaamse Gemeenschap.&nbsp;<br><br>Meer weten over werken bij de Vlaamse overheid?&nbsp;https://www.vlaanderen.be/werken-voor-vlaanderen<br>Werk je al bij de Vlaamse overheid? Bekijk het selectiereglement om te weten welk contracttype en welke salarisschaal van toepassing zijn voor jou.</p>",
+        "htmlEncoded": "<p>Word de spil in ons financiële systeem als Helpdeskmedewerker! Als jij bij ons aan boord komt, speel je een cruciale rol in het ondersteunen van eindgebruikers van zowel ons huidige (Unit4 Financials by Coda) als toekomstige interne boekhoudsysteem. Je staat klaar om gebruikers van onze centrale dienst en diverse scholengroepen te begeleiden en te ondersteunen.<br><br>Je taken zijn divers en uitdagend:<br><br>- Je biedt deskundige ondersteuning aan eindgebruikers bij vragen over het interne boekhoudsysteem.<br>- Je verzorgt inspirerende opleidingen voor financiële medewerkers van scholengroepen en centrale diensten, zodat zij het systeem optimaal kunnen benutten.<br>- Je houdt de kennis binnen de organisatie actueel door handleidingen, FAQ's en financiële richtlijnen regelmatig bij te werken en te delen via ons intranet.<br>- Je bent een actieve deelnemer in projecten die gericht zijn op de verbetering van ons systeem, waarbij jouw input en expertise van onschatbare waarde zijn.<br><br>Word lid van ons team en maak een verschil in de efficiëntie en effectiviteit van ons financiële beheer!</p><p>Kwaliteitsvol onderwijs voor iedereen is de missie van het GO! (Gemeenschapsonderwijs) op ruim 1.000 plaatsen in Vlaanderen en Brussel. Meer dan 40.000 medewerkers van het GO! dragen kennis over aan 340.000 leerlingen en cursisten en helpen hen zich te ontplooien tot actieve en positief kritische burgers. Iedereen krijgt daarbij gelijke kansen om talenten te ontwikkelen en te excelleren. Zo bereiken we meer. Als centrale diensten van het GO! hebben we de opdracht om het GO! te positioneren als het onderwijs van én voor de Vlaamse Gemeenschap.&nbsp;<br><br>Meer weten over werken bij de Vlaamse overheid?&nbsp;https://www.vlaanderen.be/werken-voor-vlaanderen<br>Werk je al bij de Vlaamse overheid? Bekijk het selectiereglement om te weten welk contracttype en welke salarisschaal van toepassing zijn voor jou.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
@@ -4300,6 +4466,41 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19228",
+      "internal": false,
+      "validThroughDate": "1768176000",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19228",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Administrateur-generaal Opgroeien"
+      },
+      "displayTitle": "Administrateur-generaal Opgroeien",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als administrateur-generaal bij Opgroeien ben je een strategische bruggenbouwer en een sterke manager met een hart voor kinderen, jongeren en hun gezinnen. Je stuurt een diverse groep professionals aan en bouwt samen met hen aan een toekomstgericht beleid dat gezinnen in Vlaanderen en Brussel ondersteunt. Je bent een sleutelfiguur in het realiseren van een opvoedingsvriendelijk klimaat en het creëren van kansen voor elk kind. Met visie en daadkracht vertaal je maatschappelijke ambities in concrete en aantoonbare resultaten. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p> <p><span>Twijfel je of een topfunctie wel iets voor jou is?<br></span><a href=\"https://overheid.vlaanderen.be/nieuws/panelgesprek-op-weg-naar-de-top-verslag\">Drie topambtenaren getuigen over hun parcours, ervaringen en kijk op de functie</a><span>.<br></span><span>Neem zeker een kijkje en ga ervoor als er een vonk is met deze vacature!</span></p>",
+        "htmlEncoded": "<p><span>Als administrateur-generaal bij Opgroeien ben je een strategische bruggenbouwer en een sterke manager met een hart voor kinderen, jongeren en hun gezinnen. Je stuurt een diverse groep professionals aan en bouwt samen met hen aan een toekomstgericht beleid dat gezinnen in Vlaanderen en Brussel ondersteunt. Je bent een sleutelfiguur in het realiseren van een opvoedingsvriendelijk klimaat en het creëren van kansen voor elk kind. Met visie en daadkracht vertaal je maatschappelijke ambities in concrete en aantoonbare resultaten. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p> <p><span>Twijfel je of een topfunctie wel iets voor jou is?<br></span><a href=\"https://overheid.vlaanderen.be/nieuws/panelgesprek-op-weg-naar-de-top-verslag\">Drie topambtenaren getuigen over hun parcours, ervaringen en kijk op de functie</a><span>.<br></span><span>Neem zeker een kijkje en ga ervoor als er een vonk is met deze vacature!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis (Bij-Brussel)"
           }
         }
       ]
