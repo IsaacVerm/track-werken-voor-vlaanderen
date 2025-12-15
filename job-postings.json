@@ -1,10 +1,10 @@
 {
-  "totalItems": 138,
+  "totalItems": 141,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 137,
+  "lastItemOfPage": 140,
   "items": [
     {
       "link": "/Job/vdab-72605010",
@@ -681,42 +681,6 @@
       "description": {
         "raw": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De functiehouder zorgt ervoor dat data binnen een organisatie beschikbaar, betrouwbaar, schaalbaar en bruikbaar is voor analyses, rapportages en datagedreven beslissingen. De functiehouder bouwt en onderhoudt de data-infrastructuur die het mogelijk maakt om grote hoeveelheden data op een efficiënte, veilige en gestructureerde manier te verzamelen, verwerken en opslaan.</span></p> \n<p><span>Het team is 40 personen groot maar bestaat uit subteams van 5-8 personen. De samenstelling van deze subteams kan variëren per kwartaal, ook afhankelijk van persoonlijke interesse.</span></p> \n<p><span>In het team zitten verschillende profielen: 2 teamleiders, data analisten, data engineer, rapporteringsspecialisten, testers, technisch data architecten.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      Ontwikkelen van data oplossingen</p> \n<p>●      Zorgen voor performantie van die oplossingen</p> \n<p>●      Onderhoud en herwerken van bestaande data oplossingen</p> \n<p><span>Jouw taken</span></p> \n<p>●      Het ontwikkelen van data pipelines in kader van rapportering en analytics</p> \n<p>●      Je ontwikkelt (in team) data warehouses en data lakes om waardevolle informatie te ontsluiten.</p> \n<p>●      Je implementeert data oplossingen om voor complexe data problemen..</p> \n<p>Je bent verantwoordelijk voor de implementatie en onderhoud van het datawarehouse en ETL infrastructuur, waar je data zal transformeren in bruikbare data formats voor analyses.</p> \n<p><span>Waar ga je werken</span></p> \n<p>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Binnen het team worden nieuwe rapporteringsmogelijkheden gebouwd wanneer er nieuwe vragen en/of nieuwe operationele systemen zijn. Daarnaast is het team ook bezig aan een migratie van het oude DWH naar het nieuwe dataplatform.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, NIFI, Airflow, Spark en PySpark, Cloudera Data Platform. (on premise geïnstalleerd), Spark Streaming, Kafka en Kafka streams, JDK talen (java, scala, groovy, ...), javascript (angular, d3, …), event verwerking en JSON, Apache AVRO &amp; Parquet, Apache Iceberg, Apache Impala, Vault Speed, SingleStore, lakehouse architectuur, ODI, DBT, Apache HOP.</span></p>",
         "htmlEncoded": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De functiehouder zorgt ervoor dat data binnen een organisatie beschikbaar, betrouwbaar, schaalbaar en bruikbaar is voor analyses, rapportages en datagedreven beslissingen. De functiehouder bouwt en onderhoudt de data-infrastructuur die het mogelijk maakt om grote hoeveelheden data op een efficiënte, veilige en gestructureerde manier te verzamelen, verwerken en opslaan.</span></p> \n<p><span>Het team is 40 personen groot maar bestaat uit subteams van 5-8 personen. De samenstelling van deze subteams kan variëren per kwartaal, ook afhankelijk van persoonlijke interesse.</span></p> \n<p><span>In het team zitten verschillende profielen: 2 teamleiders, data analisten, data engineer, rapporteringsspecialisten, testers, technisch data architecten.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      Ontwikkelen van data oplossingen</p> \n<p>●      Zorgen voor performantie van die oplossingen</p> \n<p>●      Onderhoud en herwerken van bestaande data oplossingen</p> \n<p><span>Jouw taken</span></p> \n<p>●      Het ontwikkelen van data pipelines in kader van rapportering en analytics</p> \n<p>●      Je ontwikkelt (in team) data warehouses en data lakes om waardevolle informatie te ontsluiten.</p> \n<p>●      Je implementeert data oplossingen om voor complexe data problemen..</p> \n<p>Je bent verantwoordelijk voor de implementatie en onderhoud van het datawarehouse en ETL infrastructuur, waar je data zal transformeren in bruikbare data formats voor analyses.</p> \n<p><span>Waar ga je werken</span></p> \n<p>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Binnen het team worden nieuwe rapporteringsmogelijkheden gebouwd wanneer er nieuwe vragen en/of nieuwe operationele systemen zijn. Daarnaast is het team ook bezig aan een migratie van het oude DWH naar het nieuwe dataplatform.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, NIFI, Airflow, Spark en PySpark, Cloudera Data Platform. (on premise geïnstalleerd), Spark Streaming, Kafka en Kafka streams, JDK talen (java, scala, groovy, ...), javascript (angular, d3, …), event verwerking en JSON, Apache AVRO &amp; Parquet, Apache Iceberg, Apache Impala, Vault Speed, SingleStore, lakehouse architectuur, ODI, DBT, Apache HOP.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72533455",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Creatief",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72533455",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "UX-UI designer (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "UX-UI designer (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De dienstverlening van VDAB wordt steeds digitaler en daarom zijn we op zoek naar een UX/UI designer ter versterking van het VDAB UX-team. Specifiek zoeken we naar iemand die ervaring heeft in het ontwerpen van digitale producten, met de nodige aandacht voor mooie, doeltreffende UI’s.</p> \n<p>Je komt terecht in een UX &amp; design team dat een brede missie heeft naar zowel werkzoekenden, werknemers als werkgevers. Denk bijvoorbeeld aan het aanleren van nieuwe competenties, het plaatsen van vacatures, zich oriënteren op de arbeidsmarkt...</p> \n<p>Het UX-team ondersteunt deze diensten door ze zo gebruiksvriendelijk mogelijk te maken.</p> \n<p>Naast de maatschappelijke meerwaarde waaraan je bijdraagt, kom je ook terecht in een fijn team dat belang hecht aan wekelijkse team lunches in Brussel en andere activiteiten.</p> \n<p>Daarnaast werken we als team verder aan de professionalisering van onze design werking, bijvoorbeeld: het verder verbeteren van ons design systeem, web componenten bouwen die andere teams gebruiken, de nodige templates ontwikkelen voor design thinking en de impact van user-centered design uitdragen binnen de organisatie.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p>●    Ontwerp en Prototyping: Het creëren van gebruiksvriendelijke, esthetisch aantrekkelijke en functionele ontwerpen in Figma.</p> \n<p>●    Implementatie van Designs naar HTML/CSS: Het vertalen van de gemaakte ontwerpen naar goed gestructureerde en semantische HTML en CSS.</p> \n<p>●    Samenwerking en Communicatie: Effectief samenwerken met andere teamleden, zoals developers, business en andere stakeholders. </p> \n<p><strong>Jouw taken</strong></p> \n<p>●    Gebruikersonderzoek en Business Analyse</p> \n<p>●    Creëren van Wireframes en Prototypes</p> \n<p>●    Gebruikerstests en Feedback</p> \n<p>●    Documentatie en Onderhoud</p> \n<p>●    Gebruik van Design Systems</p> \n<p>●    Gebruik van Web Componenten </p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het bestaat uit een combinatie van UX-copy, UX-research en UX-design. Binnen UX-design zitten designers, front-enders en een accessibility expert.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Figma, HTML/CSS, webcomponenten</span></p>",
-        "htmlEncoded": "<p>De dienstverlening van VDAB wordt steeds digitaler en daarom zijn we op zoek naar een UX/UI designer ter versterking van het VDAB UX-team. Specifiek zoeken we naar iemand die ervaring heeft in het ontwerpen van digitale producten, met de nodige aandacht voor mooie, doeltreffende UI’s.</p> \n<p>Je komt terecht in een UX &amp; design team dat een brede missie heeft naar zowel werkzoekenden, werknemers als werkgevers. Denk bijvoorbeeld aan het aanleren van nieuwe competenties, het plaatsen van vacatures, zich oriënteren op de arbeidsmarkt...</p> \n<p>Het UX-team ondersteunt deze diensten door ze zo gebruiksvriendelijk mogelijk te maken.</p> \n<p>Naast de maatschappelijke meerwaarde waaraan je bijdraagt, kom je ook terecht in een fijn team dat belang hecht aan wekelijkse team lunches in Brussel en andere activiteiten.</p> \n<p>Daarnaast werken we als team verder aan de professionalisering van onze design werking, bijvoorbeeld: het verder verbeteren van ons design systeem, web componenten bouwen die andere teams gebruiken, de nodige templates ontwikkelen voor design thinking en de impact van user-centered design uitdragen binnen de organisatie.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p>●    Ontwerp en Prototyping: Het creëren van gebruiksvriendelijke, esthetisch aantrekkelijke en functionele ontwerpen in Figma.</p> \n<p>●    Implementatie van Designs naar HTML/CSS: Het vertalen van de gemaakte ontwerpen naar goed gestructureerde en semantische HTML en CSS.</p> \n<p>●    Samenwerking en Communicatie: Effectief samenwerken met andere teamleden, zoals developers, business en andere stakeholders. </p> \n<p><strong>Jouw taken</strong></p> \n<p>●    Gebruikersonderzoek en Business Analyse</p> \n<p>●    Creëren van Wireframes en Prototypes</p> \n<p>●    Gebruikerstests en Feedback</p> \n<p>●    Documentatie en Onderhoud</p> \n<p>●    Gebruik van Design Systems</p> \n<p>●    Gebruik van Web Componenten </p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het bestaat uit een combinatie van UX-copy, UX-research en UX-design. Binnen UX-design zitten designers, front-enders en een accessibility expert.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Figma, HTML/CSS, webcomponenten</span></p>"
       },
       "locations": [
         {
@@ -2457,7 +2421,7 @@
     {
       "link": "/Job/cornerstone-19914",
       "internal": false,
-      "validThroughDate": "1767571200",
+      "validThroughDate": "1767484800",
       "hiringOrganization": "Agentschap Justitie en Handhaving",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -2529,7 +2493,7 @@
     {
       "link": "/Job/cornerstone-19876",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1767484800",
       "hiringOrganization": "Agentschap Justitie en Handhaving",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -2551,8 +2515,8 @@
       "displayTitle": "Justitieassistent Turnhout",
       "isProtected": false,
       "description": {
-        "raw": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende <br>omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, <br>je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Turnhout: <br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 5 januari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op donderdag 15 januari (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>",
-        "htmlEncoded": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende <br>omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, <br>je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Turnhout: <br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 5 januari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op donderdag 15 januari (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>"
+        "raw": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Turnhout: <br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 5 januari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op donderdag 15 januari (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>",
+        "htmlEncoded": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Turnhout: <br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 5 januari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op donderdag 15 januari (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>"
       },
       "locations": [
         {
@@ -3056,6 +3020,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19783",
+      "internal": false,
+      "validThroughDate": "1768176000",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19783",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker schoonmaak"
+      },
+      "displayTitle": "Medewerker schoonmaak",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Het Facilitair Bedrijf in Gent zoekt een enthousiaste medewerker schoonmaak. Het kantoor is gelegen net naast het station Gent Sint-Pieters.</div><div></div><div>Je maakt bureaus, vergaderzalen en andere ruimtes schoon. Samen met je collega’s werk je aan een aangename omgeving voor iedereen. Je komt in een gemotiveerde en hechte groep van een 17-tal collega’s terecht.</div><div>Je werkt 30u24min per week, van maandag tot en met vrijdag.&nbsp; Momenteel is er een plek vrij in de vroege shift, waarbij je start tussen 6u en 6u30 en eindigt tussen 12u en 12u30.</div><div>Ook kandidaten voor de late shift, met werkuren tussen 11u30 en 12u en 17u30-18u, kunnen zich hiervoor aanmelden.&nbsp;&nbsp;</div><div></div><div>Wil je meer weten over Het Facilitair Bedrijf? Bekijk dan zeker eens<a href=\"https://www.vlaanderen.be/het-facilitair-bedrijf\"> onze website.</a></div><p>&nbsp;</p><div></div><div>Om deel te kunnen nemen aan deze procedure heb je interesse in professionele schoonmaak. Je kan uitleg, korte geschreven berichten en afspraken begrijpen in het Nederlands en daarop gepast reageren. Je spreekt en begrijpt genoeg Nederlands om met collega’s en je leidinggevende te praten.&nbsp;</div><div></div><div>Als dit nodig is, bieden we opleiding en ondersteuning aan om je kennis van het Nederlands verder te verbeteren. Lees hieronder meer over het gezochte profiel en hoe de sollicitatieprocedure verloopt.</div>",
+        "htmlEncoded": "<div>Het Facilitair Bedrijf in Gent zoekt een enthousiaste medewerker schoonmaak. Het kantoor is gelegen net naast het station Gent Sint-Pieters.</div><div></div><div>Je maakt bureaus, vergaderzalen en andere ruimtes schoon. Samen met je collega’s werk je aan een aangename omgeving voor iedereen. Je komt in een gemotiveerde en hechte groep van een 17-tal collega’s terecht.</div><div>Je werkt 30u24min per week, van maandag tot en met vrijdag.&nbsp; Momenteel is er een plek vrij in de vroege shift, waarbij je start tussen 6u en 6u30 en eindigt tussen 12u en 12u30.</div><div>Ook kandidaten voor de late shift, met werkuren tussen 11u30 en 12u en 17u30-18u, kunnen zich hiervoor aanmelden.&nbsp;&nbsp;</div><div></div><div>Wil je meer weten over Het Facilitair Bedrijf? Bekijk dan zeker eens<a href=\"https://www.vlaanderen.be/het-facilitair-bedrijf\"> onze website.</a></div><p>&nbsp;</p><div></div><div>Om deel te kunnen nemen aan deze procedure heb je interesse in professionele schoonmaak. Je kan uitleg, korte geschreven berichten en afspraken begrijpen in het Nederlands en daarop gepast reageren. Je spreekt en begrijpt genoeg Nederlands om met collega’s en je leidinggevende te praten.&nbsp;</div><div></div><div>Als dit nodig is, bieden we opleiding en ondersteuning aan om je kennis van het Nederlands verder te verbeteren. Lees hieronder meer over het gezochte profiel en hoe de sollicitatieprocedure verloopt.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19782",
       "internal": false,
       "validThroughDate": "1768176000",
@@ -3381,6 +3381,39 @@
         {
           "address": {
             "city": "Leuven"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19724",
+      "internal": true,
+      "validThroughDate": "1767744000",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19724",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinerend stafmedewerker ZI"
+      },
+      "displayTitle": "Coördinerend stafmedewerker ZI",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Als coördinerend stafmedewerker bij zorginspectie speel je een bepalende rol in het verder uitbouwen en optimaliseren van onze dienstverlening. Je volgt ontwikkelingen in zorg, regelgeving en inspectiemethodieken op, vertaalt noden en uitdagingen naar concrete voorstellen en helpt de organisatie proactief anticiperen op veranderingen. Vanuit jouw brede blik analyseer je complexe vraagstukken, ondersteun je collega’s bij inhoudelijke en organisatorische thema’s en zorg je ervoor dat processen en werkinstrumenten helder, efficiënt en goed op elkaar afgestemd zijn.</div><div></div><div>Je fungeert als aanspreekpunt voor het afdelingshoofd, stafmedewerkers, teams en leidinggevenden. Je bewaakt de kwaliteit en consistentie van de interne werking. Samen met het afdelingshoofd zorg je voor een sterke informatiedoorstroom, een gedeelde visie en een vlotte samenwerking tussen alle betrokkenen. Je neemt actief deel aan projecten en overlegfora, bouwt bruggen tussen teams en helpt Zorginspectie positioneren als een collegiale, betrouwbare, neutrale partner binnen het Departement Zorg.</div><div></div><div>Met jouw kritische blik, verantwoordelijkheidszin en verbindende aanpak draag je mee de visie van Zorginspectie uit: kwaliteitsvolle zorg en een correcte besteding van middelen staan centraal. Wil jij mee richting geven aan een toekomstgerichte Zorginspectie en voel je je thuis in een omgeving waar analyse, samenwerking en vernieuwing hand in hand gaan? Aarzel dan niet om te solliciteren.</div><div></div>",
+        "htmlEncoded": "<div>Als coördinerend stafmedewerker bij zorginspectie speel je een bepalende rol in het verder uitbouwen en optimaliseren van onze dienstverlening. Je volgt ontwikkelingen in zorg, regelgeving en inspectiemethodieken op, vertaalt noden en uitdagingen naar concrete voorstellen en helpt de organisatie proactief anticiperen op veranderingen. Vanuit jouw brede blik analyseer je complexe vraagstukken, ondersteun je collega’s bij inhoudelijke en organisatorische thema’s en zorg je ervoor dat processen en werkinstrumenten helder, efficiënt en goed op elkaar afgestemd zijn.</div><div></div><div>Je fungeert als aanspreekpunt voor het afdelingshoofd, stafmedewerkers, teams en leidinggevenden. Je bewaakt de kwaliteit en consistentie van de interne werking. Samen met het afdelingshoofd zorg je voor een sterke informatiedoorstroom, een gedeelde visie en een vlotte samenwerking tussen alle betrokkenen. Je neemt actief deel aan projecten en overlegfora, bouwt bruggen tussen teams en helpt Zorginspectie positioneren als een collegiale, betrouwbare, neutrale partner binnen het Departement Zorg.</div><div></div><div>Met jouw kritische blik, verantwoordelijkheidszin en verbindende aanpak draag je mee de visie van Zorginspectie uit: kwaliteitsvolle zorg en een correcte besteding van middelen staan centraal. Wil jij mee richting geven aan een toekomstgerichte Zorginspectie en voel je je thuis in een omgeving waar analyse, samenwerking en vernieuwing hand in hand gaan? Aarzel dan niet om te solliciteren.</div><div></div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -4097,6 +4130,39 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19613",
+      "internal": true,
+      "validThroughDate": "1768176000",
+      "hiringOrganization": "Regio Antwerpen / Kempen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19613",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Regiomanager"
+      },
+      "displayTitle": "Regiomanager",
+      "isProtected": false,
+      "description": {
+        "raw": "<div></div><div></div><div>Als regioverantwoordelijke regel je, eenvoudig gezegd, het huishouden van de Vlaamse kantoorgebouwen in ons beheer. Elke regioverantwoordelijke heeft zijn eigen regio met verschillende grote en minder grote gebouwen. Je geeft rechtstreeks leiding aan een (of meerdere) Facilitair Gebouwverantwoordelijke(n), een Coördinator Technisch Beheer, een (of meerdere) Chef(s)-Catering en een Coördinator Schoonmaak. In sommige regio’s geef je ook leiding aan een Hospitality Coördinator. De onderliggende teams verschillen qua&nbsp; grootte en kunnen variëren tussen de 3 tot 45 personeelsleden per team.<br><br></div><div></div><div>Concreet voor de regio Antwerpen/Kempen geef je leiding aan een Facilitair Gebouwverantwoordelijke, een Coördinator Technisch Beheer, een Chef-Catering, een Hospitality coördinator en een Coördinator Schoonmaak. De grootte van de onderliggende teams variëren tussen de 3 en 20 personeelsleden.<br><br></div><div></div><div>Als regioverantwoordelijke maak je deel uit van de staf van de afdeling Facilitair Management. Je bent niet alleen verantwoordelijk voor een goede dienstverlening in de gebouwen in jouw regio, maar je levert via het afdelingshoofd ook input aan het beleid en je doet voorstellen om onze werking en dienstverlening te verbeteren. Je zorgt voor een kwaliteitsvolle facilitaire dienstverlening, rekening houdend met enerzijds uniforme afspraken en richtlijnen binnen de afdeling en anderzijds met de eigenheid van klanten en gebouwen in jouw regio. Hier een goed evenwicht in vinden is zeker een uitdaging.<br><br></div><div></div><div>Heb je een sterke affiniteit met facilitair management en heb je reeds ervaring in het leiding geven aan een team? Dan is deze vacature iets voor jou!</div><div></div><div><em>Via deze vacature leggen we een werfreserve aan die geldig is voor de functie van regiomanager in alle andere Vlaamse regio’s.</em></div>",
+        "htmlEncoded": "<div></div><div></div><div>Als regioverantwoordelijke regel je, eenvoudig gezegd, het huishouden van de Vlaamse kantoorgebouwen in ons beheer. Elke regioverantwoordelijke heeft zijn eigen regio met verschillende grote en minder grote gebouwen. Je geeft rechtstreeks leiding aan een (of meerdere) Facilitair Gebouwverantwoordelijke(n), een Coördinator Technisch Beheer, een (of meerdere) Chef(s)-Catering en een Coördinator Schoonmaak. In sommige regio’s geef je ook leiding aan een Hospitality Coördinator. De onderliggende teams verschillen qua&nbsp; grootte en kunnen variëren tussen de 3 tot 45 personeelsleden per team.<br><br></div><div></div><div>Concreet voor de regio Antwerpen/Kempen geef je leiding aan een Facilitair Gebouwverantwoordelijke, een Coördinator Technisch Beheer, een Chef-Catering, een Hospitality coördinator en een Coördinator Schoonmaak. De grootte van de onderliggende teams variëren tussen de 3 en 20 personeelsleden.<br><br></div><div></div><div>Als regioverantwoordelijke maak je deel uit van de staf van de afdeling Facilitair Management. Je bent niet alleen verantwoordelijk voor een goede dienstverlening in de gebouwen in jouw regio, maar je levert via het afdelingshoofd ook input aan het beleid en je doet voorstellen om onze werking en dienstverlening te verbeteren. Je zorgt voor een kwaliteitsvolle facilitaire dienstverlening, rekening houdend met enerzijds uniforme afspraken en richtlijnen binnen de afdeling en anderzijds met de eigenheid van klanten en gebouwen in jouw regio. Hier een goed evenwicht in vinden is zeker een uitdaging.<br><br></div><div></div><div>Heb je een sterke affiniteit met facilitair management en heb je reeds ervaring in het leiding geven aan een team? Dan is deze vacature iets voor jou!</div><div></div><div><em>Via deze vacature leggen we een werfreserve aan die geldig is voor de functie van regiomanager in alle andere Vlaamse regio’s.</em></div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19612",
       "internal": false,
       "validThroughDate": "1767571200",
@@ -4189,6 +4255,72 @@
       "description": {
         "raw": "<div>Wil jij mee het verschil maken in de kwaliteit en continuïteit van onze kinderopvang? Als hoofddeskundige kinderopvang speel je een sleutelrol in de ondersteuning van de opdrachten van de afdeling, nl het erkennen, vergunnen, subsidiëren, informeren en opvolgen van kinderopvanginitiatieven en van de beleidsvoorbereiding en beleidsimplementatie voor deze sector. . Je combineert beleidsmatig inzicht met organisatorisch talent en bent een spilfiguur tussen het comité van toezicht, het kabinet, en de backoffice kinderopvang. Je zorgt voor een vlotte informatiedoorstroming, coördinatie van overlegmomenten en bewaakt samen met je team de kwaliteit en efficiëntie van onze werking.&nbsp;</div><div></div><div>🧩 Jouw taken&nbsp;</div><div>- Voorbereiden van agenda’s, uitnodigingen en dossiers voor dossieroverleg en crisisoverleg van het comité van toezicht.&nbsp;</div><div>- Verzamelen van documenten en actief deelnemen aan ad-hoc overleggen rond openbaarheid en beleidsafstemming.&nbsp;</div><div>- Opstellen van communicatiefiches voor het kabinet en de woordvoerder, en beantwoorden of opzoeken van bijkomende vragen.&nbsp;</div><div>- Zorgen voor verslaggeving tijdens dossier- en crisisoverleg, en stand-by zijn bij crisissituaties.&nbsp;</div><div>- Opvolgen van afspraken uit overleggen via dagelijkse monitoring en signaleren van zorgwekkende situaties.&nbsp;</div><div>- Organiseren van meetings met externe partners (zoals Zorginspectie, leidend ambtenaar, enz.).&nbsp;</div><div>- Ondersteunen van de backoffice kinderopvang bij complexe vragen die toekomen via de mailbox.&nbsp;</div><div>- Fungeren als aanspreekpunt voor de afdeling kinderopvang bij interne en externe vragen.&nbsp;</div><div>- Beschikken over basiskennis van de regelgeving rond kinderopvang, buitenschoolse opvang en activiteiten.</div><div>- Op de hoogte blijven van ontwikkelingen in het werkveld en relevante informatie delen met collega’s.&nbsp;</div><div>- Aansturen, opvolgen en evalueren van 2 medewerkers; taken plannen, verdelen en coördineren binnen het team.&nbsp;</div><div>- Optreden als contactpersoon voor het team richting afdelingshoofd, leidinggevenden en beleidsmedewerker.&nbsp;<br><br></div><div>🎯 Wie zoeken we?&nbsp;</div><div>Een collega die:</div><div>- minstens vier jaar relevante beroepsmatige ervaring heeft binnen de organisatie;&nbsp;</div><div>-&nbsp; vlot kan schakelen tussen operationele en beleidsmatige taken;&nbsp;</div><div>-&nbsp; gestructureerd en nauwkeurig werkt, ook onder tijdsdruk;&nbsp;</div><div>-&nbsp; communicatief sterk is, zowel mondeling als schriftelijk;&nbsp;</div><div>-&nbsp; beschikt over een gezonde dosis verantwoordelijkheidszin en zin voor initiatief;&nbsp;</div><div>-&nbsp; graag samenwerkt, maar ook zelfstandig beslissingen durft nemen;&nbsp;</div><div>-&nbsp; affiniteit heeft met regelgeving en het werkveld kinderopvang.</div>",
         "htmlEncoded": "<div>Wil jij mee het verschil maken in de kwaliteit en continuïteit van onze kinderopvang? Als hoofddeskundige kinderopvang speel je een sleutelrol in de ondersteuning van de opdrachten van de afdeling, nl het erkennen, vergunnen, subsidiëren, informeren en opvolgen van kinderopvanginitiatieven en van de beleidsvoorbereiding en beleidsimplementatie voor deze sector. . Je combineert beleidsmatig inzicht met organisatorisch talent en bent een spilfiguur tussen het comité van toezicht, het kabinet, en de backoffice kinderopvang. Je zorgt voor een vlotte informatiedoorstroming, coördinatie van overlegmomenten en bewaakt samen met je team de kwaliteit en efficiëntie van onze werking.&nbsp;</div><div></div><div>🧩 Jouw taken&nbsp;</div><div>- Voorbereiden van agenda’s, uitnodigingen en dossiers voor dossieroverleg en crisisoverleg van het comité van toezicht.&nbsp;</div><div>- Verzamelen van documenten en actief deelnemen aan ad-hoc overleggen rond openbaarheid en beleidsafstemming.&nbsp;</div><div>- Opstellen van communicatiefiches voor het kabinet en de woordvoerder, en beantwoorden of opzoeken van bijkomende vragen.&nbsp;</div><div>- Zorgen voor verslaggeving tijdens dossier- en crisisoverleg, en stand-by zijn bij crisissituaties.&nbsp;</div><div>- Opvolgen van afspraken uit overleggen via dagelijkse monitoring en signaleren van zorgwekkende situaties.&nbsp;</div><div>- Organiseren van meetings met externe partners (zoals Zorginspectie, leidend ambtenaar, enz.).&nbsp;</div><div>- Ondersteunen van de backoffice kinderopvang bij complexe vragen die toekomen via de mailbox.&nbsp;</div><div>- Fungeren als aanspreekpunt voor de afdeling kinderopvang bij interne en externe vragen.&nbsp;</div><div>- Beschikken over basiskennis van de regelgeving rond kinderopvang, buitenschoolse opvang en activiteiten.</div><div>- Op de hoogte blijven van ontwikkelingen in het werkveld en relevante informatie delen met collega’s.&nbsp;</div><div>- Aansturen, opvolgen en evalueren van 2 medewerkers; taken plannen, verdelen en coördineren binnen het team.&nbsp;</div><div>- Optreden als contactpersoon voor het team richting afdelingshoofd, leidinggevenden en beleidsmedewerker.&nbsp;<br><br></div><div>🎯 Wie zoeken we?&nbsp;</div><div>Een collega die:</div><div>- minstens vier jaar relevante beroepsmatige ervaring heeft binnen de organisatie;&nbsp;</div><div>-&nbsp; vlot kan schakelen tussen operationele en beleidsmatige taken;&nbsp;</div><div>-&nbsp; gestructureerd en nauwkeurig werkt, ook onder tijdsdruk;&nbsp;</div><div>-&nbsp; communicatief sterk is, zowel mondeling als schriftelijk;&nbsp;</div><div>-&nbsp; beschikt over een gezonde dosis verantwoordelijkheidszin en zin voor initiatief;&nbsp;</div><div>-&nbsp; graag samenwerkt, maar ook zelfstandig beslissingen durft nemen;&nbsp;</div><div>-&nbsp; affiniteit heeft met regelgeving en het werkveld kinderopvang.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19598",
+      "internal": false,
+      "validThroughDate": "1767744000",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19598",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medisch Milieudeskundige"
+      },
+      "displayTitle": "Medisch Milieudeskundige",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Als medisch milieudeskundige bij het Departement Zorg werk je aan de frontlinie van milieugezondheid. Je beoordeelt bodemdossiers met aandacht voor chemische stoffen zoals PFAS, adviseert over de veiligheid van drink- en recreatiewater, en vertaalt wetenschappelijke inzichten naar concrete maatregelen die de gezondheid van burgers beschermen.</div><div></div><div>Je werkt afwisselend binnen twee thematische equipes: ‘Bodem’ en ‘Water’. Je evalueert risico’s, stelt adviezen op voor lokale besturen en burgers, en ondersteunt beleidsontwikkeling en toezicht. Je bent een brugfiguur tussen wetenschap, beleid en praktijk, en draagt bij aan een gezonde leefomgeving — met bijzondere aandacht voor kwetsbare groepen.</div><div></div><div>Van veldonderzoek tot beleidsadvies, van dataverwerking tot sensibilisering: jouw werk heeft impact. Je komt terecht in een multidisciplinair team dat inzet op samenwerking, innovatie en maatschappelijke relevantie.</div><div>Klaar om jouw expertise in te zetten voor een Vlaanderen waar gezondheid en milieu hand in hand gaan? Lees dan verder en ontdek hoe jij het verschil maakt.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Als medisch milieudeskundige bij het Departement Zorg werk je aan de frontlinie van milieugezondheid. Je beoordeelt bodemdossiers met aandacht voor chemische stoffen zoals PFAS, adviseert over de veiligheid van drink- en recreatiewater, en vertaalt wetenschappelijke inzichten naar concrete maatregelen die de gezondheid van burgers beschermen.</div><div></div><div>Je werkt afwisselend binnen twee thematische equipes: ‘Bodem’ en ‘Water’. Je evalueert risico’s, stelt adviezen op voor lokale besturen en burgers, en ondersteunt beleidsontwikkeling en toezicht. Je bent een brugfiguur tussen wetenschap, beleid en praktijk, en draagt bij aan een gezonde leefomgeving — met bijzondere aandacht voor kwetsbare groepen.</div><div></div><div>Van veldonderzoek tot beleidsadvies, van dataverwerking tot sensibilisering: jouw werk heeft impact. Je komt terecht in een multidisciplinair team dat inzet op samenwerking, innovatie en maatschappelijke relevantie.</div><div>Klaar om jouw expertise in te zetten voor een Vlaanderen waar gezondheid en milieu hand in hand gaan? Lees dan verder en ontdek hoe jij het verschil maakt.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19594",
+      "internal": true,
+      "validThroughDate": "1767571200",
+      "hiringOrganization": "VLAIO (Agentschap Innoveren & Ondernemen)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19594",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator ondernemersvorming"
+      },
+      "displayTitle": "Coördinator ondernemersvorming",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als coördinator ondernemingsvorming beheer je processen van A tot Z voor de steuntoekenning richting de Syntra’s. Hiervoor teken je het proces uit, bewaakt de kwaliteit van de inhoudelijke opvolging en houdt de financiële structuur helder. Je werkt hiervoor samen met een team van een zestal projectadviseurs en twee administratief ondersteuner en stuurt hen waar nodig functioneel aan. Jij bewaakt het overzicht, brengt structuur aan en zorgt dat collega’s het proces op een consistente manier uitvoeren. Je slaagt erin om over thema’s heen bruggen te bouwen en de connectie te leggen met andere instrumenten en programma’s, daarbij wordt in eerste instantie gekeken naar de STEM-werking, dienstverlening ondernemerschap en de hogescholen maar wordt daar niet toe beperkt. </span></p> <p><span>Je volgt beslissingen nauwgezet op en bewaakt de samenhang tussen activiteiten, organisaties en bredere doelstellingen. Als inhoudelijk aanspreekpunt coach je collega’s, bouw je kennisnetwerken uit en veranker je expertise binnen de organisatie. Je weet mensen te verbinden, te beïnvloeden en gedragen samenwerking tot stand te brengen—zowel intern als internationaal.</span></p> <p><span>Je blijft voortdurend op de hoogte van ontwikkelingen in je vakgebied en wisselt actief kennis uit. Vanuit die expertise analyseer je complexe dossiers, weeg je verschillende belangen af en formuleer je onderbouwde beslissingsvoorstellen die richting geven aan projecten en beleid. Je zorgt voor heldere, tijdige communicatie en onderhoudt sterke relaties met organisaties. Dankzij jouw vakkennis geef je advies op hoog niveau, treed je op als spreker en vertegenwoordig je de organisatie extern.</span></p> <p><span>Met jouw scherpe blik op trends en noden draag je bij aan de optimalisatie van wetgeving, procedures en programma’s. Je signaleert nieuwe opportuniteiten en helpt mee vernieuwende dienstverlening opzetten. Tot slot zorg je voor een volledig, kwalitatief dossier door informatie te verzamelen, te interpreteren en correct te verwerken.</span></p> <p><span><strong>Kortom: je combineert expertise, leiderschap, proceskracht en impact om ondernemers, partners en collega’s vooruit te helpen.</strong></span></p> <p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken.</span><span> </span><span>Kijk ook zeker eens op</span><span> </span><span><a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\"><span>VLAIO werft aan! | Agentschap Innoveren en Ondernemen</span></a></span><u><span>.</span></u></p> <p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker </span><span><a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\"><span>deze video</span></a></span><span> </span><span>en hoor wat jouw toekomstige collega’s ervan vinden!</span><span> </span><span>Proef ook de sfeer via </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\"><span>getuigenissen</span></a></span><span> van enkele collega’s.</span></p>",
+        "htmlEncoded": "<p><span>Als coördinator ondernemingsvorming beheer je processen van A tot Z voor de steuntoekenning richting de Syntra’s. Hiervoor teken je het proces uit, bewaakt de kwaliteit van de inhoudelijke opvolging en houdt de financiële structuur helder. Je werkt hiervoor samen met een team van een zestal projectadviseurs en twee administratief ondersteuner en stuurt hen waar nodig functioneel aan. Jij bewaakt het overzicht, brengt structuur aan en zorgt dat collega’s het proces op een consistente manier uitvoeren. Je slaagt erin om over thema’s heen bruggen te bouwen en de connectie te leggen met andere instrumenten en programma’s, daarbij wordt in eerste instantie gekeken naar de STEM-werking, dienstverlening ondernemerschap en de hogescholen maar wordt daar niet toe beperkt. </span></p> <p><span>Je volgt beslissingen nauwgezet op en bewaakt de samenhang tussen activiteiten, organisaties en bredere doelstellingen. Als inhoudelijk aanspreekpunt coach je collega’s, bouw je kennisnetwerken uit en veranker je expertise binnen de organisatie. Je weet mensen te verbinden, te beïnvloeden en gedragen samenwerking tot stand te brengen—zowel intern als internationaal.</span></p> <p><span>Je blijft voortdurend op de hoogte van ontwikkelingen in je vakgebied en wisselt actief kennis uit. Vanuit die expertise analyseer je complexe dossiers, weeg je verschillende belangen af en formuleer je onderbouwde beslissingsvoorstellen die richting geven aan projecten en beleid. Je zorgt voor heldere, tijdige communicatie en onderhoudt sterke relaties met organisaties. Dankzij jouw vakkennis geef je advies op hoog niveau, treed je op als spreker en vertegenwoordig je de organisatie extern.</span></p> <p><span>Met jouw scherpe blik op trends en noden draag je bij aan de optimalisatie van wetgeving, procedures en programma’s. Je signaleert nieuwe opportuniteiten en helpt mee vernieuwende dienstverlening opzetten. Tot slot zorg je voor een volledig, kwalitatief dossier door informatie te verzamelen, te interpreteren en correct te verwerken.</span></p> <p><span><strong>Kortom: je combineert expertise, leiderschap, proceskracht en impact om ondernemers, partners en collega’s vooruit te helpen.</strong></span></p> <p><span>Je kan meerdere dagen per week van thuis of vanuit een satellietkantoor werken.</span><span> </span><span>Kijk ook zeker eens op</span><span> </span><span><a href=\"https://www.vlaio.be/nl/over-ons/vlaio-werft-aan\"><span>VLAIO werft aan! | Agentschap Innoveren en Ondernemen</span></a></span><u><span>.</span></u></p> <p><span>Wil jij graag weten hoe het is om bij VLAIO te werken? Bekijk dan zeker </span><span><a href=\"https://www.youtube.com/watch?v=mIB1G6t8-m0\"><span>deze video</span></a></span><span> </span><span>en hoor wat jouw toekomstige collega’s ervan vinden!</span><span> </span><span>Proef ook de sfeer via </span><span><a href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vlaio.be%2Fnl%2Fover-ons%2Fvlaio-werft-aan&amp;data=04%7C01%7Cbirgit.vandamme%40vlaanderen.be%7C0f61085b0e4f4e914b5f08da02815bda%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C637825051849854412%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LwAszKNPG0xSr09daFONsK3YIno5yLb%2BbCzOiNuu12g%3D&amp;reserved=0\"><span>getuigenissen</span></a></span><span> van enkele collega’s.</span></p>"
       },
       "locations": [
         {
@@ -4792,42 +4924,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19417",
-      "internal": false,
-      "validThroughDate": "1796688000",
-      "hiringOrganization": "Wonen in Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Financieel",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19417",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beheerder thesaurie en begroting"
-      },
-      "displayTitle": "Beheerder thesaurie en begroting",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als beheerder thesaurie en begroting werk je in de <strong>afdeling Financiën</strong>, in de <strong>dienst Thesaurie en begroting,</strong> een enthousiast team van een 10-tal collega’s.&nbsp;Deze dienst werkt rond 3 thema’s:&nbsp; begroting, interne thesaurie en subsidies.&nbsp;Als beheerder thesaurie en begroting kan je ingezet worden op alle drie de thema’s, met een bijzondere focus op interne thesaurie.</p><p>Je start met de dagelijkse opvolging van betalingen en bankrekeningen van VMSW. Je voert betaalopdrachten uit, volgt beleggingen en leningen op, en berekent rentevoeten voor verstrekte leningen en bankrekeningen die VMSW aanbiedt.&nbsp;Daarnaast neem je ook complexere taken op, zoals het organiseren van en het notuleren tijdens het maandelijks thesauriecomité, het behandelen van complexe dossiers, input leveren voor analyses van ICT-projecten enz.</p><p>Ook op de andere thema’s werk je mee aan uitdagende taken, zoals bijvoorbeeld: het berekenen van subsidies en opstellen van subsidiebesluiten, het meewerken aan begrotingsprocessen zoals de eindejaarafsluiting enz. </p><p>We verwachten uiteraard niet dat je alles al kent en kan van bij de start. We voorzien voor al onze nieuwe collega’s een opleidingstraject en de nodige tijd om jezelf in te werken. Belangrijk is vooral dat je enthousiast bent om bij te leren en van aanpakken weet.</p><p>Ben jij iemand die energie haalt uit het werken met cijfers en graag helder en nauwkeurig rapporteert? Heb je een scherpe analytische blik en ben je bereid om je (geleidelijk aan) zelfstandig de interne procedures, werkwijzen en handleidingen eigen te maken? Dan hebben wij een boeiende en afwisselende functie voor jou binnen een heel tof team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken</em></strong>.</p><p>Als beheerder thesaurie en begroting werk je in de <strong>afdeling Financiën</strong>, in de <strong>dienst Thesaurie en begroting,</strong> een enthousiast team van een 10-tal collega’s.&nbsp;Deze dienst werkt rond 3 thema’s:&nbsp; begroting, interne thesaurie en subsidies.&nbsp;Als beheerder thesaurie en begroting kan je ingezet worden op alle drie de thema’s, met een bijzondere focus op interne thesaurie.</p><p>Je start met de dagelijkse opvolging van betalingen en bankrekeningen van VMSW. Je voert betaalopdrachten uit, volgt beleggingen en leningen op, en berekent rentevoeten voor verstrekte leningen en bankrekeningen die VMSW aanbiedt.&nbsp;Daarnaast neem je ook complexere taken op, zoals het organiseren van en het notuleren tijdens het maandelijks thesauriecomité, het behandelen van complexe dossiers, input leveren voor analyses van ICT-projecten enz.</p><p>Ook op de andere thema’s werk je mee aan uitdagende taken, zoals bijvoorbeeld: het berekenen van subsidies en opstellen van subsidiebesluiten, het meewerken aan begrotingsprocessen zoals de eindejaarafsluiting enz. </p><p>We verwachten uiteraard niet dat je alles al kent en kan van bij de start. We voorzien voor al onze nieuwe collega’s een opleidingstraject en de nodige tijd om jezelf in te werken. Belangrijk is vooral dat je enthousiast bent om bij te leren en van aanpakken weet.</p><p>Ben jij iemand die energie haalt uit het werken met cijfers en graag helder en nauwkeurig rapporteert? Heb je een scherpe analytische blik en ben je bereid om je (geleidelijk aan) zelfstandig de interne procedures, werkwijzen en handleidingen eigen te maken? Dan hebben wij een boeiende en afwisselende functie voor jou binnen een heel tof team!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
