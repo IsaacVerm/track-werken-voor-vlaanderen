@@ -1,11 +1,227 @@
 {
-  "totalItems": 141,
+  "totalItems": 146,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 140,
+  "lastItemOfPage": 145,
   "items": [
+    {
+      "link": "/Job/vdab-72637645",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72637645",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Aanbod Portfolio Coördinator (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Aanbod Portfolio Coördinator (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee vorm geven aan het digitale aanbod van de Vlaamse overheid? Als \n<strong>aanbod</strong> \n<strong>Portfolio Coördinator</strong> zorg je ervoor dat onze producten en diensten strategisch afgestemd zijn op maatschappelijke noden en beleidsdoelstellingen. Je focust op \n<strong><span>wat er daadwerkelijk beschikbaar is of komt voor eindgebruikers</span></strong>. Je bewaakt de samenstelling van het aanbod, adviseert over investeringen en prijsstrategieën, en zorgt voor transparantie in keuzes en rapportage. Dankzij jouw samenwerking met accountmanagement, productverantwoordelijken en dienstverleners blijft het portfolio relevant, efficiënt en toekomstgericht.</p> \n<p><em><span>Jouw kernverantwoordelijkheden:</span></em></p> \n<p>-\n<span> </span><strong><span>Strategische afstemming</span></strong></p> \n<p><span>o\n<span> </span></span><span>Zorgt dat het aanbod van digitale producten en diensten aansluit bij beleidsdoelstellingen en maatschappelijke noden in samenwerking met de Demand Coördinator, beleidsmedewerkers, productverantwoordelijken en architectuur. </span></p> \n<p><span>o\n<span> </span></span>Werkt samen met productverantwoordelijken en portfoliopartners om oplossingen en prijsmodellen te ontwikkelen die aansluiten bij de organisatiedoelen, marktbehoeften en klanttevredenheid.</p> \n<p>-\n<span> </span><strong><span>Portfolio governance van het aanbod</span></strong></p> \n<p><span>o\n<span> </span></span><span>Adviseert welke producten/diensten in het aanbod blijven, worden vernieuwd of uitgefaseerd.</span></p> \n<p><span>o\n<span> </span></span><span>Hanteert criteria zoals gebruik, impact, kosten, compliance en strategische relevantie.</span></p> \n<p>-\n<span> </span><strong><span>Prioritering en besluitvorming</span></strong></p> \n<p><span>o\n<span> </span></span><span>Formuleert voorstellen over investeringen in nieuwe functionaliteiten of verbeteringen.</span></p> \n<p><span>o\n<span> </span></span><span>Helpt bij het balanceren van innovatie versus onderhoud.</span></p> \n<p><span>o\n<span> </span></span>Valideert prijswijzigingen en bewaakt de coherentie in prijsstrategieën binnen het portfolio aanbod.</p> \n<p>-\n<span> </span><strong><span>Monitoring en rapportage</span></strong></p> \n<p><span>o\n<span> </span></span><span>Houdt zicht op prestaties van het aanbod (gebruik, tevredenheid, beschikbaarheid).</span></p> \n<p><span>o\n<span> </span></span>Evalueert de impact van prijsstrategieën op gebruik, klanttevredenheid en financiële resultaten.</p> \n<p><span>o\n<span> </span></span><span>Rapporteert over de voortgang richting strategische doelen.</span></p> \n<p>-\n<span> </span><strong><span>Stakeholdermanagement</span></strong></p> \n<p><span>o\n<span> </span></span><span>Overlegt met interne en externe stakeholders over behoeften en verwachtingen.</span></p> \n<p><span>Zorgt voor transparantie in keuzes en afwegingen in het beheer van het aanbod aan producten en diensten binnen Digitaal Vlaanderen.</span></p>",
+        "htmlEncoded": "<p>Wil jij mee vorm geven aan het digitale aanbod van de Vlaamse overheid? Als \n<strong>aanbod</strong> \n<strong>Portfolio Coördinator</strong> zorg je ervoor dat onze producten en diensten strategisch afgestemd zijn op maatschappelijke noden en beleidsdoelstellingen. Je focust op \n<strong><span>wat er daadwerkelijk beschikbaar is of komt voor eindgebruikers</span></strong>. Je bewaakt de samenstelling van het aanbod, adviseert over investeringen en prijsstrategieën, en zorgt voor transparantie in keuzes en rapportage. Dankzij jouw samenwerking met accountmanagement, productverantwoordelijken en dienstverleners blijft het portfolio relevant, efficiënt en toekomstgericht.</p> \n<p><em><span>Jouw kernverantwoordelijkheden:</span></em></p> \n<p>-\n<span> </span><strong><span>Strategische afstemming</span></strong></p> \n<p><span>o\n<span> </span></span><span>Zorgt dat het aanbod van digitale producten en diensten aansluit bij beleidsdoelstellingen en maatschappelijke noden in samenwerking met de Demand Coördinator, beleidsmedewerkers, productverantwoordelijken en architectuur. </span></p> \n<p><span>o\n<span> </span></span>Werkt samen met productverantwoordelijken en portfoliopartners om oplossingen en prijsmodellen te ontwikkelen die aansluiten bij de organisatiedoelen, marktbehoeften en klanttevredenheid.</p> \n<p>-\n<span> </span><strong><span>Portfolio governance van het aanbod</span></strong></p> \n<p><span>o\n<span> </span></span><span>Adviseert welke producten/diensten in het aanbod blijven, worden vernieuwd of uitgefaseerd.</span></p> \n<p><span>o\n<span> </span></span><span>Hanteert criteria zoals gebruik, impact, kosten, compliance en strategische relevantie.</span></p> \n<p>-\n<span> </span><strong><span>Prioritering en besluitvorming</span></strong></p> \n<p><span>o\n<span> </span></span><span>Formuleert voorstellen over investeringen in nieuwe functionaliteiten of verbeteringen.</span></p> \n<p><span>o\n<span> </span></span><span>Helpt bij het balanceren van innovatie versus onderhoud.</span></p> \n<p><span>o\n<span> </span></span>Valideert prijswijzigingen en bewaakt de coherentie in prijsstrategieën binnen het portfolio aanbod.</p> \n<p>-\n<span> </span><strong><span>Monitoring en rapportage</span></strong></p> \n<p><span>o\n<span> </span></span><span>Houdt zicht op prestaties van het aanbod (gebruik, tevredenheid, beschikbaarheid).</span></p> \n<p><span>o\n<span> </span></span>Evalueert de impact van prijsstrategieën op gebruik, klanttevredenheid en financiële resultaten.</p> \n<p><span>o\n<span> </span></span><span>Rapporteert over de voortgang richting strategische doelen.</span></p> \n<p>-\n<span> </span><strong><span>Stakeholdermanagement</span></strong></p> \n<p><span>o\n<span> </span></span><span>Overlegt met interne en externe stakeholders over behoeften en verwachtingen.</span></p> \n<p><span>Zorgt voor transparantie in keuzes en afwegingen in het beheer van het aanbod aan producten en diensten binnen Digitaal Vlaanderen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72637488",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72637488",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product manager Knowledge and workflow management (Departement Omgeving) via Vlaanderen connect"
+      },
+      "displayTitle": "Product manager Knowledge and workflow management (Departement Omgeving) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil je meewerken aan een efficiënte werking van het departement omgeving? Ben je gepassioneerd door workflowsystemen en kennisdeelystemen ? Kan je goed organiseren en werk je graag in teamverband ?</span></p> \n<p><span>We zijn op zoek naar een Product Manager voor onze workflow- en content managementsystemen. Je werkt op het snijvlak van business, technologie en gebruikerservaring, en is cruciaal om onze teams in staat te stellen slimmer te werken en effectiever samen te werken.</span></p> \n<p><span>Je bent verantwoordelijk voor het waarborgen dat onze interne tools (met name onze wiki/contentmanagementplatforms en workflow-automatisering al dan niet met AI enabled) intuïtief, robuust en afgestemd zijn op de noden van de organisatie. Vanuit een strategische visie stuur je productspecialisten aan om je projecten en visie mee te realiseren in lijn met de business behoeften. Efficiëntie en kostenbeheersing zijn hierbij sleutelbegrippen. </span></p> \n<p><span>We zoeken geen technische specialist in workflow- en contentmanagement maar wel een analist die met alle beschikbare tools in de digitale werkplek geïntegreerde oplossingen voorstelt. Naast je productkennis zijn je professionalisme en sociale vaardigheden belangrijk.</span></p>",
+        "htmlEncoded": "<p><span>Wil je meewerken aan een efficiënte werking van het departement omgeving? Ben je gepassioneerd door workflowsystemen en kennisdeelystemen ? Kan je goed organiseren en werk je graag in teamverband ?</span></p> \n<p><span>We zijn op zoek naar een Product Manager voor onze workflow- en content managementsystemen. Je werkt op het snijvlak van business, technologie en gebruikerservaring, en is cruciaal om onze teams in staat te stellen slimmer te werken en effectiever samen te werken.</span></p> \n<p><span>Je bent verantwoordelijk voor het waarborgen dat onze interne tools (met name onze wiki/contentmanagementplatforms en workflow-automatisering al dan niet met AI enabled) intuïtief, robuust en afgestemd zijn op de noden van de organisatie. Vanuit een strategische visie stuur je productspecialisten aan om je projecten en visie mee te realiseren in lijn met de business behoeften. Efficiëntie en kostenbeheersing zijn hierbij sleutelbegrippen. </span></p> \n<p><span>We zoeken geen technische specialist in workflow- en contentmanagement maar wel een analist die met alle beschikbare tools in de digitale werkplek geïntegreerde oplossingen voorstelt. Naast je productkennis zijn je professionalisme en sociale vaardigheden belangrijk.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72634960",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72634960",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner Dataintegratie (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Product Owner Dataintegratie (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner ter versterking van het team Data-integratie. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-integratie, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Binnen Data-integratie zoeken wij een Product Owner om het subteam Data-integratie diensten te versterken. Dit subteam richt zich voornamelijk op het ontsluiten van diverse datastromen over meerdere domeinen via de bouwstenen van Digitaal Vlaanderen. De data wordt gebruikt in bedrijfsprocessen en het verstrekken informatie aan diverse overheidsinstanties en burgers. </span></p> \n<p><span>Deze data wordt gebruikt door diverse stakeholders binnen het brede overheidslandschap. Van Federale, vlaamse, lokale entiteiten tot burgers binnen diverse functies.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span><span>Digitaal Vlaanderen is </span></span><span><span>een </span></span><span><span>geëngageerde</span></span><span><span>, </span></span><span><span>klantgerichte </span></span><span><span>businesspartner </span></span><span><span>voor </span></span><span><span>Vlaamse </span></span><span><span>overheidsdiensten </span></span><span><span>en </span></span><span><span>lokale</span></span><span><span>overheden</span></span><span><span>. We </span></span><span><span>bieden</span></span><span><span> hen </span></span><span><span>een </span></span><span><span>voorsprong</span></span><span><span> door </span></span><span><span>digitale </span></span><span><span>oplossingen </span></span><span><span>aan </span></span><span><span>te </span></span><span><span>bieden</span></span><span><span> die </span></span><span><span>binnen </span></span><span><span>een</span></span><span><span> breed </span></span><span><span>en </span></span><span><span>schaalbaar </span></span><span><span>ecosysteem </span></span><span><span>te </span></span><span><span>situeren </span></span><span><span>zijn</span></span><span><span>. Een </span></span><span><span>intelligente </span></span><span><span>en </span></span><span><span>wendbare </span></span><span><span>dienstverlening </span></span><span><span>staat </span></span><span><span>hierbij</span></span><span><span> steeds </span></span><span><span>centraal</span></span><span><span>.</span></span></p> \n<p><span>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als Product Owner krijg je bij ons de kans om mee richting te geven aan onze software en ben je het eerste aanspreekpunt zowel intern als extern naar onze partners toe.</span></p> \n<p><span>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</span></p>",
+        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner ter versterking van het team Data-integratie. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Product Owner wil mee bouwen aan de bouwstenen binnen Data-integratie, om zo verschillende types datastromen van diverse domeinen mogelijk te maken? Dan ben jij misschien wel onze ideale kandidaat!</span></p> \n<p><span>Binnen Data-integratie zoeken wij een Product Owner om het subteam Data-integratie diensten te versterken. Dit subteam richt zich voornamelijk op het ontsluiten van diverse datastromen over meerdere domeinen via de bouwstenen van Digitaal Vlaanderen. De data wordt gebruikt in bedrijfsprocessen en het verstrekken informatie aan diverse overheidsinstanties en burgers. </span></p> \n<p><span>Deze data wordt gebruikt door diverse stakeholders binnen het brede overheidslandschap. Van Federale, vlaamse, lokale entiteiten tot burgers binnen diverse functies.</span></p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span><span>Digitaal Vlaanderen is </span></span><span><span>een </span></span><span><span>geëngageerde</span></span><span><span>, </span></span><span><span>klantgerichte </span></span><span><span>businesspartner </span></span><span><span>voor </span></span><span><span>Vlaamse </span></span><span><span>overheidsdiensten </span></span><span><span>en </span></span><span><span>lokale</span></span><span><span>overheden</span></span><span><span>. We </span></span><span><span>bieden</span></span><span><span> hen </span></span><span><span>een </span></span><span><span>voorsprong</span></span><span><span> door </span></span><span><span>digitale </span></span><span><span>oplossingen </span></span><span><span>aan </span></span><span><span>te </span></span><span><span>bieden</span></span><span><span> die </span></span><span><span>binnen </span></span><span><span>een</span></span><span><span> breed </span></span><span><span>en </span></span><span><span>schaalbaar </span></span><span><span>ecosysteem </span></span><span><span>te </span></span><span><span>situeren </span></span><span><span>zijn</span></span><span><span>. Een </span></span><span><span>intelligente </span></span><span><span>en </span></span><span><span>wendbare </span></span><span><span>dienstverlening </span></span><span><span>staat </span></span><span><span>hierbij</span></span><span><span> steeds </span></span><span><span>centraal</span></span><span><span>.</span></span></p> \n<p><span>Je komt terecht in een van de subteams van Data-integratie binnen de afdeling Data platform. Via deze tools ontzorgen we partners bij het aansluiten, publiceren en beheren van data op het platform. We zorgen dat deze tools duurzaam en op een veilige en gestandaardiseerde manier kunnen ingezet worden. Op het centrale gegevensuitwisselingsplatform bieden we zowel open als gesloten overheidsdata aan. Deze data wordt op een uniforme, gestandaardiseerde, betrouwbare, veilige manier en conform de wetgeving ter beschikking gesteld waarbij de principes van dataveiligheid &amp; informatieclassificatie toegepast worden. \n<br> We treden op als een betrouwbare partner om de continuïteit en kwaliteit van de data-uitwisseling te waarborgen. Als Product Owner krijg je bij ons de kans om mee richting te geven aan onze software en ben je het eerste aanspreekpunt zowel intern als extern naar onze partners toe.</span></p> \n<p><span>De teams werken zowel vanuit VAC Gent als vanuit Herman Teirlinck te Brussel en verplaatsen zich over de beide locaties met een aanwezigheid van minstens 50% op kantoor.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72634935",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72634935",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>",
+        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72632793",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72632793",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product partner Dataplatform (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Product partner Dataplatform (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een product partner \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Als product partner binnen de afdeling dataplatform sta je klanten/gebruikers/partners bij met betrekking tot de toepassingsmogelijkheden van de bouwsteencluster naar oplossingen. Als product partner ga je samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></p> \n<p><span>Concreet zal je als product partner werken met bouwstenen die ressorteren onder het team basiskaart en het team basisregisters.</span></p> \n<p><span>Je komt in een team terecht bestaande uit in totaal zeven product partners, maar zal ook erg nauw samenwerken met diverse profielen van het bouwsteenteam.</span></p> \n<p><span>Je takenpakket zal bestaan uit:</span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams. Je geeft enerzijds input van de klant door aan het bouwsteenteam en anderzijds geef je wijzigingen van de bouwsteen door aan de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent het aanspreekpunt voor account en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met onder andere de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klant en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, pmo, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op jouw bouwsteencluster in te schatten samen met de Product Owners en programmamanagers.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand met betrekking tot je bouwsteencluster en dit op basis van je domein- en bronexpertise. Je werkt hiervoor nauw samen met de Service Delivery Managers, Product Owners en aansluitingsbeheer. Je ondersteunt hen waar nodig in functie van de noden.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team bij de platformafdelingen en bewaakt de transversale werking en visie met de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je stemt pre-sales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je geeft presentaties over je bouwstenen tijdens opleidingen, webinars en events. Je hebt tevens een vlotte pen voor het schrijven van nieuwsberichten.</span></p>",
+        "htmlEncoded": "<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een product partner \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Als product partner binnen de afdeling dataplatform sta je klanten/gebruikers/partners bij met betrekking tot de toepassingsmogelijkheden van de bouwsteencluster naar oplossingen. Als product partner ga je samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></p> \n<p><span>Concreet zal je als product partner werken met bouwstenen die ressorteren onder het team basiskaart en het team basisregisters.</span></p> \n<p><span>Je komt in een team terecht bestaande uit in totaal zeven product partners, maar zal ook erg nauw samenwerken met diverse profielen van het bouwsteenteam.</span></p> \n<p><span>Je takenpakket zal bestaan uit:</span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams. Je geeft enerzijds input van de klant door aan het bouwsteenteam en anderzijds geef je wijzigingen van de bouwsteen door aan de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent het aanspreekpunt voor account en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met onder andere de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klant en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, pmo, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op jouw bouwsteencluster in te schatten samen met de Product Owners en programmamanagers.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand met betrekking tot je bouwsteencluster en dit op basis van je domein- en bronexpertise. Je werkt hiervoor nauw samen met de Service Delivery Managers, Product Owners en aansluitingsbeheer. Je ondersteunt hen waar nodig in functie van de noden.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team bij de platformafdelingen en bewaakt de transversale werking en visie met de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je stemt pre-sales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je geeft presentaties over je bouwstenen tijdens opleidingen, webinars en events. Je hebt tevens een vlotte pen voor het schrijven van nieuwsberichten.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72632763",
+      "internal": false,
+      "validThroughDate": "1768348800",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72632763",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Onderzoeker BioHealth"
+      },
+      "displayTitle": "Onderzoeker BioHealth",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>De vacature in het kort</strong></p> \n<p>Binnen deze functie zijn we op zoek naar iemand die zich enthousiast wil inzetten voor onderzoek naar pathogenen, polluenten en de impact op de biodiversiteit. Je bereidt wetenschappelijke publicaties voor, analyseert gegevens en publiceert open datasets. Je staat ook in voor adviesverlening, coördinatie en het ontwikkelen van nieuwe projecten.</p> \n<p> </p> \n<p><strong>Doel van de functie</strong></p> \n<p>In de rol van onderzoeker binnen het BioHealth-team richt je je op onderzoek van wildziekten en ecotoxicologie, en hun impact op de biodiversiteit, het duurzaam gebruik van fauna en hun relatie met IAS en dit alles binnen het kader van het Europese en Vlaamse beleid. Hierbij ligt de focus op monitoring, surveillance &amp; analyse, early warning, het aanreiken van duurzame oplossingen en het beschermen en herstellen van het ecosysteem en de dieren die daar deel van uitmaken.</p> \n<p>Het takenpakket is grotendeels geconcentreerd op experimenteel onderzoek, monitoring en analyse, uitvoeren autopsies en beheer van onze weefselcollecties, evaluatie en ziektebewaking bij herintroducties en of translocaties, het geven en uitwerken van beheeradvies, enz.</p> \n<p>Je initieert (inter)nationale samenwerking en projectwerking rond deze thema’s.</p> \n<p>Samenwerking met collega's binnen en buiten het team staat centraal met als uiteindelijke doel het voorbereiden en implementeren van acties ter bescherming en verbetering van het natuurlijk milieu in Vlaanderen. Je neemt actief deel aan lopende en nieuwe projecten, waarbij je betrokken bent bij het ontwerp, de planning en uitvoering van diverse deelprojecten, de coördinatie van vrijwilligers, gegevensanalyse, rapportage en publicatie van resultaten.</p> \n<p>Je neemt binnen het team een aantal verantwoordelijkheden gerelateerd aan de werking van het team binnen INBO (sterrollen, administratie).</p>",
+        "htmlEncoded": "<p><strong>De vacature in het kort</strong></p> \n<p>Binnen deze functie zijn we op zoek naar iemand die zich enthousiast wil inzetten voor onderzoek naar pathogenen, polluenten en de impact op de biodiversiteit. Je bereidt wetenschappelijke publicaties voor, analyseert gegevens en publiceert open datasets. Je staat ook in voor adviesverlening, coördinatie en het ontwikkelen van nieuwe projecten.</p> \n<p> </p> \n<p><strong>Doel van de functie</strong></p> \n<p>In de rol van onderzoeker binnen het BioHealth-team richt je je op onderzoek van wildziekten en ecotoxicologie, en hun impact op de biodiversiteit, het duurzaam gebruik van fauna en hun relatie met IAS en dit alles binnen het kader van het Europese en Vlaamse beleid. Hierbij ligt de focus op monitoring, surveillance &amp; analyse, early warning, het aanreiken van duurzame oplossingen en het beschermen en herstellen van het ecosysteem en de dieren die daar deel van uitmaken.</p> \n<p>Het takenpakket is grotendeels geconcentreerd op experimenteel onderzoek, monitoring en analyse, uitvoeren autopsies en beheer van onze weefselcollecties, evaluatie en ziektebewaking bij herintroducties en of translocaties, het geven en uitwerken van beheeradvies, enz.</p> \n<p>Je initieert (inter)nationale samenwerking en projectwerking rond deze thema’s.</p> \n<p>Samenwerking met collega's binnen en buiten het team staat centraal met als uiteindelijke doel het voorbereiden en implementeren van acties ter bescherming en verbetering van het natuurlijk milieu in Vlaanderen. Je neemt actief deel aan lopende en nieuwe projecten, waarbij je betrokken bent bij het ontwerp, de planning en uitvoering van diverse deelprojecten, de coördinatie van vrijwilligers, gegevensanalyse, rapportage en publicatie van resultaten.</p> \n<p>Je neemt binnen het team een aantal verantwoordelijkheden gerelateerd aan de werking van het team binnen INBO (sterrollen, administratie).</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72605010",
       "internal": false,
@@ -1087,42 +1303,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72385032",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "vzw 'de Rand'",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72385032",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Medewerker administratie en communicatie"
-      },
-      "displayTitle": "Medewerker administratie en communicatie",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><em><span lang=\"NL\">Vzw ‘de Rand’ zet in opdracht van de Vlaamse overheid en de provincie Vlaams-Brabant in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt via 5 pijlers, waaronder het beheer van 7 gemeenschapscentra.\n<br> De gemeenschapscentra zijn de centrale ontmoetingsplaats voor het lokale gemeenschapsleven. De centra ondersteunen ook de cultuur-, jeugd- en sportverenigingen.</span></em></p> \n<p><em><span lang=\"NL\">We zoeken voor GC de Boesdaalhoeve in Sint-Genesius-Rode een</span></em></p> \n<p><span lang=\"NL\"> </span></p> \n<p align=\"center\"><strong><span lang=\"NL\">MEDEWERKER ADMINISTRATIE EN COMMUNICATIE</span></strong></p> \n<p><em><span lang=\"NL\"> </span></em></p> \n<p><span lang=\"NL\">Als medewerker administratie en communicatie verzorg je het onthaal in het gemeenschapscentrum. Je bent het \n<span>eerste aanspreekpunt</span> voor bezoekers. In je takenpakket zitten zowel administratieve, communicatieve, financiële als logistieke opdrachten die zorgen voor een vlotte werking van het gemeenschapscentrum.</span></p> \n<p><em><span lang=\"NL\"> </span></em></p> \n<p><span lang=\"NL\"> </span><strong><span lang=\"NL\">Dankzij jou</span></strong></p> \n<p><strong><span lang=\"NL\"> </span></strong></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">voelt elke bezoeker zich warm onthaald omdat je vriendelijk, duidelijk en klantgericht communiceert – aan de balie, via telefoon of online.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">loopt elke voorstelling, (huur)activiteit van het gemeenschapscentrum op wieltjes. </span><span lang=\"NL\">omdat jij het overzicht bewaart, goed plant en collega’s tijdig informeert.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">weet heel Sint-Genesius-Rode en omstreken wat op het programma staat omdat jij enthousiast promotie voert via Facebook, Instagram, op de centrumwebsite, met flyers of affiches.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">zijn reservaties, contracten en facturen tot in de puntjes verzorgd, omdat jij zorgvuldig werkt in onze digitale plannings- en administratiesystemen.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">blijft de administratie overzichtelijk, ook bij piekmomenten, omdat je prioriteiten stelt en gestructureerd werkt</span></p> \n<p><span lang=\"NL\">loopt de dagelijkse werking vlot en worden de doelstellingen van het centrum behaald, dankzij jouw engagement, overzicht en initiatief.</span></p>",
-        "htmlEncoded": "<p><em><span lang=\"NL\">Vzw ‘de Rand’ zet in opdracht van de Vlaamse overheid en de provincie Vlaams-Brabant in op het Nederlands als verbindende taal én op gemeenschapsvorming in de Vlaamse Rand. Dat gebeurt via 5 pijlers, waaronder het beheer van 7 gemeenschapscentra.\n<br> De gemeenschapscentra zijn de centrale ontmoetingsplaats voor het lokale gemeenschapsleven. De centra ondersteunen ook de cultuur-, jeugd- en sportverenigingen.</span></em></p> \n<p><em><span lang=\"NL\">We zoeken voor GC de Boesdaalhoeve in Sint-Genesius-Rode een</span></em></p> \n<p><span lang=\"NL\"> </span></p> \n<p align=\"center\"><strong><span lang=\"NL\">MEDEWERKER ADMINISTRATIE EN COMMUNICATIE</span></strong></p> \n<p><em><span lang=\"NL\"> </span></em></p> \n<p><span lang=\"NL\">Als medewerker administratie en communicatie verzorg je het onthaal in het gemeenschapscentrum. Je bent het \n<span>eerste aanspreekpunt</span> voor bezoekers. In je takenpakket zitten zowel administratieve, communicatieve, financiële als logistieke opdrachten die zorgen voor een vlotte werking van het gemeenschapscentrum.</span></p> \n<p><em><span lang=\"NL\"> </span></em></p> \n<p><span lang=\"NL\"> </span><strong><span lang=\"NL\">Dankzij jou</span></strong></p> \n<p><strong><span lang=\"NL\"> </span></strong></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">voelt elke bezoeker zich warm onthaald omdat je vriendelijk, duidelijk en klantgericht communiceert – aan de balie, via telefoon of online.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">loopt elke voorstelling, (huur)activiteit van het gemeenschapscentrum op wieltjes. </span><span lang=\"NL\">omdat jij het overzicht bewaart, goed plant en collega’s tijdig informeert.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">weet heel Sint-Genesius-Rode en omstreken wat op het programma staat omdat jij enthousiast promotie voert via Facebook, Instagram, op de centrumwebsite, met flyers of affiches.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">zijn reservaties, contracten en facturen tot in de puntjes verzorgd, omdat jij zorgvuldig werkt in onze digitale plannings- en administratiesystemen.</span></p> \n<p><span lang=\"NL\">▫\n<span> </span></span><span lang=\"NL\">blijft de administratie overzichtelijk, ook bij piekmomenten, omdat je prioriteiten stelt en gestructureerd werkt</span></p> \n<p><span lang=\"NL\">loopt de dagelijkse werking vlot en worden de doelstellingen van het centrum behaald, dankzij jouw engagement, overzicht en initiatief.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Genesius-Rode"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72370497",
       "internal": false,
       "validThroughDate": "-1",
@@ -1401,42 +1581,6 @@
       "description": {
         "raw": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gemotiveerde \n<span>Financieel Data Analist</span> ter versterking van het team Portfolio management.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan het verhogen van onze financiële data analyses? Dan ben jij onze ideale kandidaat!</p> \n<p>Als \n<span>Financieel Data Analist</span> ben jij een cruciale partner voor onze organisatie. Met jouw scherpe blik op cijfers en processen help je de directie en stakeholders om de juiste strategische keuzes te maken. Jij vertaalt complexe financiële data naar heldere inzichten en adviezen die écht het verschil maken.</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam. De afdeling PMO en Organisatie speelt hierbij een cruciale rol. Zij ontzorgen de interne partners door de transversale processen optimaal ondersteunend in te zetten en een ontzorgende dienstverlening te realiseren.</p> \n<p><span>Wat zal je doen?</span></p> \n<p>Binnen de functie van Financieel Data Analist sta je in voor:</p> \n<ul> \n<li>Analyseren van budgetten, forecasts en resultaten en hierover rapporteren.</li> \n<li>Opstellen van managementrapportages voor directie en stakeholders.</li> \n<li>Uitvoeren van behoefteanalyses en voorbereiden van rapporten voor audits en besluitvorming.</li> \n<li>Maken van financiële analyses en het adviseren over verkoopsprijzen en synergiën zoeken in kost/verkoopssprijsoptimalisatie</li> \n<li>Ontwikkelen van scenario- en risicoanalyses.</li> \n<li>Signaleren van trends en afwijkingen in cijfers en processen.</li> \n<li>Verbeteren van rapporteringstools, interne controles en financiële processen.</li> \n<li>Adviseren en ondersteunen van interne klanten in het gebruik van systemen en tools (o.a. PowerBI, MsOperations).</li> </ul> \n<p>We verwachten dat je je verplaatst naar zowel Gent en Brussel.</p>",
         "htmlEncoded": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gemotiveerde \n<span>Financieel Data Analist</span> ter versterking van het team Portfolio management.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan het verhogen van onze financiële data analyses? Dan ben jij onze ideale kandidaat!</p> \n<p>Als \n<span>Financieel Data Analist</span> ben jij een cruciale partner voor onze organisatie. Met jouw scherpe blik op cijfers en processen help je de directie en stakeholders om de juiste strategische keuzes te maken. Jij vertaalt complexe financiële data naar heldere inzichten en adviezen die écht het verschil maken.</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam. De afdeling PMO en Organisatie speelt hierbij een cruciale rol. Zij ontzorgen de interne partners door de transversale processen optimaal ondersteunend in te zetten en een ontzorgende dienstverlening te realiseren.</p> \n<p><span>Wat zal je doen?</span></p> \n<p>Binnen de functie van Financieel Data Analist sta je in voor:</p> \n<ul> \n<li>Analyseren van budgetten, forecasts en resultaten en hierover rapporteren.</li> \n<li>Opstellen van managementrapportages voor directie en stakeholders.</li> \n<li>Uitvoeren van behoefteanalyses en voorbereiden van rapporten voor audits en besluitvorming.</li> \n<li>Maken van financiële analyses en het adviseren over verkoopsprijzen en synergiën zoeken in kost/verkoopssprijsoptimalisatie</li> \n<li>Ontwikkelen van scenario- en risicoanalyses.</li> \n<li>Signaleren van trends en afwijkingen in cijfers en processen.</li> \n<li>Verbeteren van rapporteringstools, interne controles en financiële processen.</li> \n<li>Adviseren en ondersteunen van interne klanten in het gebruik van systemen en tools (o.a. PowerBI, MsOperations).</li> </ul> \n<p>We verwachten dat je je verplaatst naar zowel Gent en Brussel.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72204307",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72204307",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Business Analyst (VEKA) via Vlaanderen connect"
-      },
-      "displayTitle": "Business Analyst (VEKA) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. Deze rol fungeert als brug tussen de business en ICT en vormt de basis voor het ontwikkelen van oplossingen die aansluiten bij de behoeften van de organisatie en de IT-strategie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p><span>Dimensies van de functie</span></p> \n<p>· Verzamelt en analyseert behoeften van stakeholders</p> \n<p>· Het vertalen van bedrijfsbehoeften naar functionele en technische specificaties die begrijpelijk zijn voor ontwikkelteams.</p> \n<p>· Is de expert op vlak van procesverbetering en business process re-engineering</p> \n<p>· Heeft een directe impact op de manier waarop de business processen lopen</p> \n<p>· Is verantwoordelijk voor de coaching en functionele aansturing van andere business analisten</p> \n<p>· Is verantwoordelijk voor het opmaken en implementeren van standaarden met betrekking tot business analyse.</p> \n<p><strong>Autonome beslissingsbevoegdheid:</strong></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p> \n<p><strong>Resultaatgebieden</strong></p> \n<p><span><span>Resultaatgebied 1: Softwareontwikkeling</span></span></p> \n<p><span>Doel :</span> Het strategisch voorbereiden, plannen en organiseren van analyses om maximale efficiëntie en impact te garanderen, rekening houdend met complexe bedrijfsprocessen en technologische architecturen.</p> \n<p><span><span>Resultaatgebied 2: Analyse &amp; aanbeveling</span></span></p> \n<p><span>Doel :</span> Het uitvoeren van diepgaande analyses en het formuleren van strategische aanbevelingen om innovatieve en schaalbare oplossingen te bieden die aansluiten bij de behoeften van de business en de (ICT-)strategie versterken.</p> \n<p><span><span>Resultaatgebied 3: Projectbegeleiding</span></span></p> \n<p><span>Doel :</span> Leiden van of strategisch bijdragen aan (deel)projecten om de succesvolle en efficiënte realisatie van projectdoelstellingen te waarborgen, met focus op het behalen van strategische bedrijfsresultaten..</p> \n<p><span><span>Resultaat gebied 4: Kennismanagement en kwaliteitsbewaking </span></span></p> \n<p><span>Doel :</span> Het strategisch beheren, ontwikkelen en delen van cruciale kennis om ervoor te zorgen dat alle analyses en gegevens altijd van hoge kwaliteit zijn en effectief toegepast worden, met focus op continue verbetering en consistente resultaten.</p> \n<p><span><span>Resultaatgebied 5: Communicatie en overleg</span></span></p> \n<p><span>Doel :</span> Plegen van communicatie en overleg met alle mogelijke betrokken partijen met als doel een draagvlak te creëren en actief de afstand tussen IT en business te overbruggen.</p> \n<p><span><span>Resultaatgebied 6: Kennis mbt het vakgebied </span></span></p> \n<p><span>Doel :</span> Het strategisch monitoren van trends en ontwikkelingen binnen het vakgebied en het actief ontwikkelen van diepgaande expertise, om zo de kwaliteit van uitgevoerde opdrachten te verbeteren en nieuwe evoluties te integreren in lijn met de ICT-strategie en de vooruitgang van het vakgebied</p>",
-        "htmlEncoded": "<p>Het in kaart brengen, analyseren en documenteren van de werking en behoeften van de business, met een focus op procesanalyse en het opstellen van businesscases. Het doel is het inrichten en verbeteren van bedrijfsprocessen, al dan niet ondersteund door ICT-oplossingen. Deze rol fungeert als brug tussen de business en ICT en vormt de basis voor het ontwikkelen van oplossingen die aansluiten bij de behoeften van de organisatie en de IT-strategie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p><span>Dimensies van de functie</span></p> \n<p>· Verzamelt en analyseert behoeften van stakeholders</p> \n<p>· Het vertalen van bedrijfsbehoeften naar functionele en technische specificaties die begrijpelijk zijn voor ontwikkelteams.</p> \n<p>· Is de expert op vlak van procesverbetering en business process re-engineering</p> \n<p>· Heeft een directe impact op de manier waarop de business processen lopen</p> \n<p>· Is verantwoordelijk voor de coaching en functionele aansturing van andere business analisten</p> \n<p>· Is verantwoordelijk voor het opmaken en implementeren van standaarden met betrekking tot business analyse.</p> \n<p><strong>Autonome beslissingsbevoegdheid:</strong></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p> \n<p><strong>Resultaatgebieden</strong></p> \n<p><span><span>Resultaatgebied 1: Softwareontwikkeling</span></span></p> \n<p><span>Doel :</span> Het strategisch voorbereiden, plannen en organiseren van analyses om maximale efficiëntie en impact te garanderen, rekening houdend met complexe bedrijfsprocessen en technologische architecturen.</p> \n<p><span><span>Resultaatgebied 2: Analyse &amp; aanbeveling</span></span></p> \n<p><span>Doel :</span> Het uitvoeren van diepgaande analyses en het formuleren van strategische aanbevelingen om innovatieve en schaalbare oplossingen te bieden die aansluiten bij de behoeften van de business en de (ICT-)strategie versterken.</p> \n<p><span><span>Resultaatgebied 3: Projectbegeleiding</span></span></p> \n<p><span>Doel :</span> Leiden van of strategisch bijdragen aan (deel)projecten om de succesvolle en efficiënte realisatie van projectdoelstellingen te waarborgen, met focus op het behalen van strategische bedrijfsresultaten..</p> \n<p><span><span>Resultaat gebied 4: Kennismanagement en kwaliteitsbewaking </span></span></p> \n<p><span>Doel :</span> Het strategisch beheren, ontwikkelen en delen van cruciale kennis om ervoor te zorgen dat alle analyses en gegevens altijd van hoge kwaliteit zijn en effectief toegepast worden, met focus op continue verbetering en consistente resultaten.</p> \n<p><span><span>Resultaatgebied 5: Communicatie en overleg</span></span></p> \n<p><span>Doel :</span> Plegen van communicatie en overleg met alle mogelijke betrokken partijen met als doel een draagvlak te creëren en actief de afstand tussen IT en business te overbruggen.</p> \n<p><span><span>Resultaatgebied 6: Kennis mbt het vakgebied </span></span></p> \n<p><span>Doel :</span> Het strategisch monitoren van trends en ontwikkelingen binnen het vakgebied en het actief ontwikkelen van diepgaande expertise, om zo de kwaliteit van uitgevoerde opdrachten te verbeteren en nieuwe evoluties te integreren in lijn met de ICT-strategie en de vooruitgang van het vakgebied</p>"
       },
       "locations": [
         {
@@ -3223,6 +3367,42 @@
       "description": {
         "raw": "<p><span>Als Afdelingshoofd Interne Organisatie bouw je mee aan het fundament van onze organisatie. Jij stuurt de interne organisatie aan en zorgt voor ondersteuning op cruciale domeinen zoals informatietechnologie, financiële processen en dossierbeheer, HR-ondersteuning en interne communicatie. Met jouw leiderschap en verbindende aanpak creëer je een omgeving waarin samenwerking, innovatie en klantgerichtheid centraal staan. </span></p> <p><span>In jouw rol als afdelingshoofd ben je niet alleen een motor binnen je eigen afdeling, maar ook een partner in het geheel van onze organisatie. Je werkt actief mee aan een cultuur waarin afdelingen elkaar versterken, beslissingen onderbouwd en eenduidig worden genomen, en het managementteam als één geheel naar buiten treedt. Jij begrijpt dat leiderschap bij Cultuur, Jeugd en Media (CJM) gestoeld is op samenwerking, gedeelde verantwoordelijkheid en het vermogen om breed mee te denken over de toekomst van het departement.</span></p> <p><span>De komende jaren zetten we sterk in op procesoptimalisatie en digitalisering. Jij zit mee aan het stuur van verbeterprojecten die onze werking slimmer, dus efficiënter en toekomstgericht maken. Met jouw visie en daadkracht help je ons om werkprocessen te vereenvoudigen, middelen middels een doorgedreven resourceplanning optimaal in te zetten, risico’s in te schatten en te beheren, en een cultuur van continue verbetering uit te bouwen. Zo maak jij het verschil voor onze organisatie én voor de mensen die er elke dag het beste van zichzelf geven. Je versterkt de organisatie door complexe uitdagingen helder te structureren, gedragen keuzes te helpen maken en collega’s mee te nemen in verandering. Je vertaalt strategische ambities in realistische implementaties en bewaakt dat die in het geheel van CJM passen.</span></p> <p><span>Je maakt samen met de andere afdelingshoofden en de secretaris-generaal deel uit van het managementcomité, dat functioneert als een collegiaal bestuur. We verwachten dat elk lid vanuit gedeelde verantwoordelijkheid meedenkt over departementsbrede uitdagingen en actief bijdraagt aan de vorming van strategische beslissingen. Die beslissingen dragen we vervolgens eensgezind uit in de organisatie. Jij helpt mee bouwen aan een managementcultuur waarin openheid, strategisch denken, onderling vertrouwen en samenhang centraal staan.</span></p> <p><span>Onze organisatiecultuur is gebaseerd op open communicatie, vertrouwen en respect. We streven naar efficiëntie en kwaliteit, maar ook naar een werkklimaat waarin medewerkers zich gewaardeerd en betrokken voelen. Jij helpt ons deze waarden uit te dragen en vertaalt onze strategische doelstellingen naar concrete acties binnen jouw teams. </span></p> <p><span>Binnen CJM geloven we in een vorm van leiderschap die richting geeft, verbindt en versterkt. Als afdelingshoofd draag je actief bij aan een cultuur van maturiteit en verantwoordelijkheid: je neemt beslissingen op basis van feiten, overleg en een breed zicht op de organisatie, ondersteunt collega-leidinggevenden, werkt horizontaal en transparant, en stimuleert een werkcontext waarin mensen ruimte krijgen om te groeien, te leren en initiatief te nemen. Je bouwt mee aan een managementteam dat als geheel zichtbaar, coherent en betrouwbaar is voor de hele organisatie.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
         "htmlEncoded": "<p><span>Als Afdelingshoofd Interne Organisatie bouw je mee aan het fundament van onze organisatie. Jij stuurt de interne organisatie aan en zorgt voor ondersteuning op cruciale domeinen zoals informatietechnologie, financiële processen en dossierbeheer, HR-ondersteuning en interne communicatie. Met jouw leiderschap en verbindende aanpak creëer je een omgeving waarin samenwerking, innovatie en klantgerichtheid centraal staan. </span></p> <p><span>In jouw rol als afdelingshoofd ben je niet alleen een motor binnen je eigen afdeling, maar ook een partner in het geheel van onze organisatie. Je werkt actief mee aan een cultuur waarin afdelingen elkaar versterken, beslissingen onderbouwd en eenduidig worden genomen, en het managementteam als één geheel naar buiten treedt. Jij begrijpt dat leiderschap bij Cultuur, Jeugd en Media (CJM) gestoeld is op samenwerking, gedeelde verantwoordelijkheid en het vermogen om breed mee te denken over de toekomst van het departement.</span></p> <p><span>De komende jaren zetten we sterk in op procesoptimalisatie en digitalisering. Jij zit mee aan het stuur van verbeterprojecten die onze werking slimmer, dus efficiënter en toekomstgericht maken. Met jouw visie en daadkracht help je ons om werkprocessen te vereenvoudigen, middelen middels een doorgedreven resourceplanning optimaal in te zetten, risico’s in te schatten en te beheren, en een cultuur van continue verbetering uit te bouwen. Zo maak jij het verschil voor onze organisatie én voor de mensen die er elke dag het beste van zichzelf geven. Je versterkt de organisatie door complexe uitdagingen helder te structureren, gedragen keuzes te helpen maken en collega’s mee te nemen in verandering. Je vertaalt strategische ambities in realistische implementaties en bewaakt dat die in het geheel van CJM passen.</span></p> <p><span>Je maakt samen met de andere afdelingshoofden en de secretaris-generaal deel uit van het managementcomité, dat functioneert als een collegiaal bestuur. We verwachten dat elk lid vanuit gedeelde verantwoordelijkheid meedenkt over departementsbrede uitdagingen en actief bijdraagt aan de vorming van strategische beslissingen. Die beslissingen dragen we vervolgens eensgezind uit in de organisatie. Jij helpt mee bouwen aan een managementcultuur waarin openheid, strategisch denken, onderling vertrouwen en samenhang centraal staan.</span></p> <p><span>Onze organisatiecultuur is gebaseerd op open communicatie, vertrouwen en respect. We streven naar efficiëntie en kwaliteit, maar ook naar een werkklimaat waarin medewerkers zich gewaardeerd en betrokken voelen. Jij helpt ons deze waarden uit te dragen en vertaalt onze strategische doelstellingen naar concrete acties binnen jouw teams. </span></p> <p><span>Binnen CJM geloven we in een vorm van leiderschap die richting geeft, verbindt en versterkt. Als afdelingshoofd draag je actief bij aan een cultuur van maturiteit en verantwoordelijkheid: je neemt beslissingen op basis van feiten, overleg en een breed zicht op de organisatie, ondersteunt collega-leidinggevenden, werkt horizontaal en transparant, en stimuleert een werkcontext waarin mensen ruimte krijgen om te groeien, te leren en initiatief te nemen. Je bouwt mee aan een managementteam dat als geheel zichtbaar, coherent en betrouwbaar is voor de hele organisatie.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19758",
+      "internal": false,
+      "validThroughDate": "1768089600",
+      "hiringOrganization": "Departement Kanselarij en Buitenlandse Zaken",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19758",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Crisisexpert"
+      },
+      "displayTitle": "Crisisexpert",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij de helderheid in chaos? </p><p>Weet jij in onverwachte situaties meteen wat te doen? Blijf je kalm wanneer anderen de druk voelen? Dan ligt er bij het Crisiscentrum van de Vlaamse overheid (CCVO) een boeiende en impactvolle uitdaging op jou te wachten.</p><p>De Vlaamse overheid investeert volop in weerbaarheid. Want hoe beter we risico’s inschatten en ons voorbereiden, hoe sterker we staan wanneer er zich toch een crisis voordoet. Het CCVO speelt hierin een sleutelrol: we ondersteunen alle Vlaamse entiteiten om voorbereid te zijn, en wanneer het misgaat, coördineren we de brede respons. We werken over de grenzen van diensten en beleidsdomeinen heen en zorgen dat de Vlaamse overheid kordaat, gecoördineerd en professioneel reageert.</p><p>Ben jij gepassioneerd door crisisbeheer? Wil je mee bouwen aan een efficiënte, wendbare en toekomstgerichte crisisorganisatie? Wil je jouw expertise verdiepen en delen, én een netwerk uitbouwen met sectorspecialisten binnen en buiten de Vlaamse overheid? Dan ben jij de crisisexpert die we zoeken.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Ben jij de helderheid in chaos? </p><p>Weet jij in onverwachte situaties meteen wat te doen? Blijf je kalm wanneer anderen de druk voelen? Dan ligt er bij het Crisiscentrum van de Vlaamse overheid (CCVO) een boeiende en impactvolle uitdaging op jou te wachten.</p><p>De Vlaamse overheid investeert volop in weerbaarheid. Want hoe beter we risico’s inschatten en ons voorbereiden, hoe sterker we staan wanneer er zich toch een crisis voordoet. Het CCVO speelt hierin een sleutelrol: we ondersteunen alle Vlaamse entiteiten om voorbereid te zijn, en wanneer het misgaat, coördineren we de brede respons. We werken over de grenzen van diensten en beleidsdomeinen heen en zorgen dat de Vlaamse overheid kordaat, gecoördineerd en professioneel reageert.</p><p>Ben jij gepassioneerd door crisisbeheer? Wil je mee bouwen aan een efficiënte, wendbare en toekomstgerichte crisisorganisatie? Wil je jouw expertise verdiepen en delen, én een netwerk uitbouwen met sectorspecialisten binnen en buiten de Vlaamse overheid? Dan ben jij de crisisexpert die we zoeken.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
       },
       "locations": [
         {
