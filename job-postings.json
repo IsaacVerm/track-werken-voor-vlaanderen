@@ -1,10 +1,10 @@
 {
-  "totalItems": 142,
+  "totalItems": 143,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 141,
+  "lastItemOfPage": 142,
   "items": [
     {
       "link": "/Job/vdab-72646091",
@@ -2917,6 +2917,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19816",
+      "internal": false,
+      "validThroughDate": "1768694400",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderwijs",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19816",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Regisseur onderwijslandschap"
+      },
+      "displayTitle": "Regisseur onderwijslandschap",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij GO! helpen om te evolueren naar een geografisch optimaal gespreid onderwijsaanbod en een evenwichtig -landschap? Heb je feeling voor data analyse, maatschappelijke tendensen en de relatie tussen vraag en aanbod? Wil jij mee opvolgen hoe ons strategisch plan binnen onze scholengroepen uitvoering krijgt en onderzoeken hoe we de kracht van ons net nog kunnen versterken? Is de rol van facilitator en regisseur jou op het lijf geschreven? Kortom, wil je er mee voor zorgen dat we als GO! centrale diensten en scholengroepen samen sterk besturen en ‘meer bereiken’? Dan is deze functie iets voor jou!<br><br>Als regisseur onderwijslandschap geef je mee sturing én ondersteuning aan de interne beleidscyclus binnen het GO! onderwijsnet: van visie- en strategieontwikkeling (plan) tot implementatie (do), monitoring (check) en bijsturing (act).<br><br>Vanuit een helikopterperspectief coördineer je de ontwikkeling van een duidelijke visie en strategie en de vertaling ervan naar tactische kaders. Je volgt de uitvoering ervan nauwgezet op en stuurt bij waar nodig.<br><br>Je zet thematische onderzoeken op (bv. rond lacunes of overlap m.b.t. bepaalde studiedomeinen of -richtingen in het GO! onderwijsaanbod), en vertaalt data-onderbouwde analyses naar concrete aanbevelingen. Hiervoor werk je intensief samen met collega’s binnen de centrale diensten van het GO! en stel je een multidisciplinaire werk- of projectgroep samen. Je werkt mee aan de optimalisering van het onderwijsaanbod op de verschillende onderwijsniveaus (basisonderwijs, secundair onderwijs…). Zo draag je er actief toe bij dat het GO! onderwijslandschap de netbrede principes en de poolstervisie weerspiegelt.<br><br>Daarnaast onderhoud je een nauwe band met de scholengroepen. Je fungeert als contactpersoon voor een cluster van scholengroepen binnen een bepaalde regio, en begeleidt hen bij de implementatie van de netbrede visie en kaders, afgestemd op hun context en noden. Dit doe je zowel op vraag als proactief. Je vormt daarbij een klankbord, biedt ondersteuning en weet hen mee te nemen in een gedragen verhaal.<br><br>Samenwerking is in jouw rol essentieel: zowel intern, waar je de juiste expertise samenbrengt, als extern, waar je scholengroepen overtuigt en ondersteunt om strategische en tactische kaders te vertalen naar hun eigen lokale realiteit.<br>",
+        "htmlEncoded": "Wil jij GO! helpen om te evolueren naar een geografisch optimaal gespreid onderwijsaanbod en een evenwichtig -landschap? Heb je feeling voor data analyse, maatschappelijke tendensen en de relatie tussen vraag en aanbod? Wil jij mee opvolgen hoe ons strategisch plan binnen onze scholengroepen uitvoering krijgt en onderzoeken hoe we de kracht van ons net nog kunnen versterken? Is de rol van facilitator en regisseur jou op het lijf geschreven? Kortom, wil je er mee voor zorgen dat we als GO! centrale diensten en scholengroepen samen sterk besturen en ‘meer bereiken’? Dan is deze functie iets voor jou!<br><br>Als regisseur onderwijslandschap geef je mee sturing én ondersteuning aan de interne beleidscyclus binnen het GO! onderwijsnet: van visie- en strategieontwikkeling (plan) tot implementatie (do), monitoring (check) en bijsturing (act).<br><br>Vanuit een helikopterperspectief coördineer je de ontwikkeling van een duidelijke visie en strategie en de vertaling ervan naar tactische kaders. Je volgt de uitvoering ervan nauwgezet op en stuurt bij waar nodig.<br><br>Je zet thematische onderzoeken op (bv. rond lacunes of overlap m.b.t. bepaalde studiedomeinen of -richtingen in het GO! onderwijsaanbod), en vertaalt data-onderbouwde analyses naar concrete aanbevelingen. Hiervoor werk je intensief samen met collega’s binnen de centrale diensten van het GO! en stel je een multidisciplinaire werk- of projectgroep samen. Je werkt mee aan de optimalisering van het onderwijsaanbod op de verschillende onderwijsniveaus (basisonderwijs, secundair onderwijs…). Zo draag je er actief toe bij dat het GO! onderwijslandschap de netbrede principes en de poolstervisie weerspiegelt.<br><br>Daarnaast onderhoud je een nauwe band met de scholengroepen. Je fungeert als contactpersoon voor een cluster van scholengroepen binnen een bepaalde regio, en begeleidt hen bij de implementatie van de netbrede visie en kaders, afgestemd op hun context en noden. Dit doe je zowel op vraag als proactief. Je vormt daarbij een klankbord, biedt ondersteuning en weet hen mee te nemen in een gedragen verhaal.<br><br>Samenwerking is in jouw rol essentieel: zowel intern, waar je de juiste expertise samenbrengt, als extern, waar je scholengroepen overtuigt en ondersteunt om strategische en tactische kaders te vertalen naar hun eigen lokale realiteit.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19811",
       "internal": false,
       "validThroughDate": "1767484800",
@@ -3676,37 +3712,37 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19711",
-      "internal": false,
-      "validThroughDate": "1766016000",
-      "hiringOrganization": "Dienst van de Bestuursrechtscolleges",
+      "link": "/Job/cornerstone-19710",
+      "internal": true,
+      "validThroughDate": "1767916800",
+      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
       "reservedForDisability": false,
       "openPositions": 1,
-      "domain": "ICT",
+      "domain": "Administratie",
       "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
+        "code": "C",
+        "name": "Secundair onderwijs"
       },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19711",
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19710",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "ICT-ondersteuner"
+        "htmlEncoded": "Management assistent"
       },
-      "displayTitle": "ICT-ondersteuner",
+      "displayTitle": "Management assistent",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>ICT is een essentieel onderdeel van iedere organisatie. Binnen de Dienst van Bestuursrechtscolleges ben jij het eerstelijnsaanspreekpunt en zorg je ervoor dat collega’s altijd kunnen rekenen op een vlotte en betrouwbare ICT-ondersteuning. Dankzij jouw expertise functioneren onze digitale middelen optimaal en kunnen onze medewerkers zich volledig richten op hun dienstverlening.</span></p> <p><span>Als ICT-ondersteuner volg je bijstandsverzoeken nauwgezet op en garandeer je een correcte oplossing én afhandeling van servicevragen en problemen. Je zorgt ervoor dat hardware, smartphones, O365, SharePoint en organisatie-eigen toepassingen steeds beschikbaar zijn en optimaal gebruikt worden. Daarnaast bied je operationele en technische ondersteuning in de back office en het externe loket, waarbij je verantwoordelijk bent voor het registreren en opvolgen van bugs en issues in het ticketsysteem en het koppelen van sjablonen aan interne toepassingen.</span></p> <p><span>Ook als systeembeheerder speel je een cruciale rol: je staat in voor het dagelijks beheer en onderhoud van de ICT-omgeving, lost netwerkproblemen en technische complicaties op en gaat proactief op zoek naar mogelijke veiligheids- en performantieproblemen.</span></p> <p><span>We zoeken iemand die oplossingsgericht werkt en beschikt over uitstekende technische vaardigheden, maar ook over de nodige people skills om collega’s klantvriendelijk te ondersteunen. Ervaring in het bieden van IT-ondersteuning is een must. Daarnaast kan je zelfstandig werken, prioriteiten stellen en ga je zorgvuldig te werk. Met jouw leergierige houding en oog voor de nieuwste ICT-trends ben jij de betrouwbare partner die DBRC digitaal vooruit stuwt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>ICT is een essentieel onderdeel van iedere organisatie. Binnen de Dienst van Bestuursrechtscolleges ben jij het eerstelijnsaanspreekpunt en zorg je ervoor dat collega’s altijd kunnen rekenen op een vlotte en betrouwbare ICT-ondersteuning. Dankzij jouw expertise functioneren onze digitale middelen optimaal en kunnen onze medewerkers zich volledig richten op hun dienstverlening.</span></p> <p><span>Als ICT-ondersteuner volg je bijstandsverzoeken nauwgezet op en garandeer je een correcte oplossing én afhandeling van servicevragen en problemen. Je zorgt ervoor dat hardware, smartphones, O365, SharePoint en organisatie-eigen toepassingen steeds beschikbaar zijn en optimaal gebruikt worden. Daarnaast bied je operationele en technische ondersteuning in de back office en het externe loket, waarbij je verantwoordelijk bent voor het registreren en opvolgen van bugs en issues in het ticketsysteem en het koppelen van sjablonen aan interne toepassingen.</span></p> <p><span>Ook als systeembeheerder speel je een cruciale rol: je staat in voor het dagelijks beheer en onderhoud van de ICT-omgeving, lost netwerkproblemen en technische complicaties op en gaat proactief op zoek naar mogelijke veiligheids- en performantieproblemen.</span></p> <p><span>We zoeken iemand die oplossingsgericht werkt en beschikt over uitstekende technische vaardigheden, maar ook over de nodige people skills om collega’s klantvriendelijk te ondersteunen. Ervaring in het bieden van IT-ondersteuning is een must. Daarnaast kan je zelfstandig werken, prioriteiten stellen en ga je zorgvuldig te werk. Met jouw leergierige houding en oog voor de nieuwste ICT-trends ben jij de betrouwbare partner die DBRC digitaal vooruit stuwt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+        "raw": "<p>Als management assistent ben je in de eerste plaats de rechterhand van het afdelingshoofd Maritieme Toegang. Je ondersteunt proactief en zorgt ervoor dat het afdelingshoofd zich kan focussen op de kerntaken. Jij regelt de praktische en administratieve zaken, volgt dossiers op en denkt actief mee over verbeteringen.</p><p>Deze functie is bijzonder veelzijdig: je schakelt vlot tussen verschillende taken, van agendabeheer tot het voorbereiden van vergaderingen en het opvolgen van vertrouwelijke documenten. Je bent een echte manus-van-alles, die energie haalt uit afwisseling en onverwachte uitdagingen. Geen enkele dag is hetzelfde, en dat maakt jouw job boeiend en dynamisch.</p><p>Flexibiliteit is jouw tweede natuur. Je speelt snel in op veranderende prioriteiten en springt bij waar nodig. Die flexibiliteit vraagt soms wat extra inzet, maar geeft ook veel terug: je krijgt de kans om je breed te ontwikkelen, je talenten te tonen en een onmisbare schakel te zijn in het team. Je werkt nauw samen met het afdelingshoofd, maar krijgt ook veel autonomie om je werk zelf te organiseren.</p><p>Kortom: deze job is ideaal voor wie houdt van variatie, initiatief en het gevoel écht het verschil te maken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als management assistent ben je in de eerste plaats de rechterhand van het afdelingshoofd Maritieme Toegang. Je ondersteunt proactief en zorgt ervoor dat het afdelingshoofd zich kan focussen op de kerntaken. Jij regelt de praktische en administratieve zaken, volgt dossiers op en denkt actief mee over verbeteringen.</p><p>Deze functie is bijzonder veelzijdig: je schakelt vlot tussen verschillende taken, van agendabeheer tot het voorbereiden van vergaderingen en het opvolgen van vertrouwelijke documenten. Je bent een echte manus-van-alles, die energie haalt uit afwisseling en onverwachte uitdagingen. Geen enkele dag is hetzelfde, en dat maakt jouw job boeiend en dynamisch.</p><p>Flexibiliteit is jouw tweede natuur. Je speelt snel in op veranderende prioriteiten en springt bij waar nodig. Die flexibiliteit vraagt soms wat extra inzet, maar geeft ook veel terug: je krijgt de kans om je breed te ontwikkelen, je talenten te tonen en een onmisbare schakel te zijn in het team. Je werkt nauw samen met het afdelingshoofd, maar krijgt ook veel autonomie om je werk zelf te organiseren.</p><p>Kortom: deze job is ideaal voor wie houdt van variatie, initiatief en het gevoel écht het verschil te maken.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Antwerpen"
           }
         }
       ]
@@ -4453,29 +4489,32 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19602",
-      "internal": true,
-      "validThroughDate": "1766016000",
+      "link": "/Job/cornerstone-19606",
+      "internal": false,
+      "validThroughDate": "1768521600",
       "hiringOrganization": "Opgroeien regie",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Dienstverlening",
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19602",
+      "identifier": "cornerstone-19606",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Hoofddeskundige kinderopvang"
+        "htmlEncoded": "Klachtendeskundige Kind en Gezin"
       },
-      "displayTitle": "Hoofddeskundige kinderopvang",
+      "displayTitle": "Klachtendeskundige Kind en Gezin",
       "isProtected": false,
       "description": {
-        "raw": "<div>Wil jij mee het verschil maken in de kwaliteit en continuïteit van onze kinderopvang? Als hoofddeskundige kinderopvang speel je een sleutelrol in de ondersteuning van de opdrachten van de afdeling, nl het erkennen, vergunnen, subsidiëren, informeren en opvolgen van kinderopvanginitiatieven en van de beleidsvoorbereiding en beleidsimplementatie voor deze sector. . Je combineert beleidsmatig inzicht met organisatorisch talent en bent een spilfiguur tussen het comité van toezicht, het kabinet, en de backoffice kinderopvang. Je zorgt voor een vlotte informatiedoorstroming, coördinatie van overlegmomenten en bewaakt samen met je team de kwaliteit en efficiëntie van onze werking.&nbsp;</div><div></div><div>🧩 Jouw taken&nbsp;</div><div>- Voorbereiden van agenda’s, uitnodigingen en dossiers voor dossieroverleg en crisisoverleg van het comité van toezicht.&nbsp;</div><div>- Verzamelen van documenten en actief deelnemen aan ad-hoc overleggen rond openbaarheid en beleidsafstemming.&nbsp;</div><div>- Opstellen van communicatiefiches voor het kabinet en de woordvoerder, en beantwoorden of opzoeken van bijkomende vragen.&nbsp;</div><div>- Zorgen voor verslaggeving tijdens dossier- en crisisoverleg, en stand-by zijn bij crisissituaties.&nbsp;</div><div>- Opvolgen van afspraken uit overleggen via dagelijkse monitoring en signaleren van zorgwekkende situaties.&nbsp;</div><div>- Organiseren van meetings met externe partners (zoals Zorginspectie, leidend ambtenaar, enz.).&nbsp;</div><div>- Ondersteunen van de backoffice kinderopvang bij complexe vragen die toekomen via de mailbox.&nbsp;</div><div>- Fungeren als aanspreekpunt voor de afdeling kinderopvang bij interne en externe vragen.&nbsp;</div><div>- Beschikken over basiskennis van de regelgeving rond kinderopvang, buitenschoolse opvang en activiteiten.</div><div>- Op de hoogte blijven van ontwikkelingen in het werkveld en relevante informatie delen met collega’s.&nbsp;</div><div>- Aansturen, opvolgen en evalueren van 2 medewerkers; taken plannen, verdelen en coördineren binnen het team.&nbsp;</div><div>- Optreden als contactpersoon voor het team richting afdelingshoofd, leidinggevenden en beleidsmedewerker.&nbsp;<br><br></div><div>🎯 Wie zoeken we?&nbsp;</div><div>Een collega die:</div><div>- minstens vier jaar relevante beroepsmatige ervaring heeft binnen de organisatie;&nbsp;</div><div>-&nbsp; vlot kan schakelen tussen operationele en beleidsmatige taken;&nbsp;</div><div>-&nbsp; gestructureerd en nauwkeurig werkt, ook onder tijdsdruk;&nbsp;</div><div>-&nbsp; communicatief sterk is, zowel mondeling als schriftelijk;&nbsp;</div><div>-&nbsp; beschikt over een gezonde dosis verantwoordelijkheidszin en zin voor initiatief;&nbsp;</div><div>-&nbsp; graag samenwerkt, maar ook zelfstandig beslissingen durft nemen;&nbsp;</div><div>-&nbsp; affiniteit heeft met regelgeving en het werkveld kinderopvang.</div>",
-        "htmlEncoded": "<div>Wil jij mee het verschil maken in de kwaliteit en continuïteit van onze kinderopvang? Als hoofddeskundige kinderopvang speel je een sleutelrol in de ondersteuning van de opdrachten van de afdeling, nl het erkennen, vergunnen, subsidiëren, informeren en opvolgen van kinderopvanginitiatieven en van de beleidsvoorbereiding en beleidsimplementatie voor deze sector. . Je combineert beleidsmatig inzicht met organisatorisch talent en bent een spilfiguur tussen het comité van toezicht, het kabinet, en de backoffice kinderopvang. Je zorgt voor een vlotte informatiedoorstroming, coördinatie van overlegmomenten en bewaakt samen met je team de kwaliteit en efficiëntie van onze werking.&nbsp;</div><div></div><div>🧩 Jouw taken&nbsp;</div><div>- Voorbereiden van agenda’s, uitnodigingen en dossiers voor dossieroverleg en crisisoverleg van het comité van toezicht.&nbsp;</div><div>- Verzamelen van documenten en actief deelnemen aan ad-hoc overleggen rond openbaarheid en beleidsafstemming.&nbsp;</div><div>- Opstellen van communicatiefiches voor het kabinet en de woordvoerder, en beantwoorden of opzoeken van bijkomende vragen.&nbsp;</div><div>- Zorgen voor verslaggeving tijdens dossier- en crisisoverleg, en stand-by zijn bij crisissituaties.&nbsp;</div><div>- Opvolgen van afspraken uit overleggen via dagelijkse monitoring en signaleren van zorgwekkende situaties.&nbsp;</div><div>- Organiseren van meetings met externe partners (zoals Zorginspectie, leidend ambtenaar, enz.).&nbsp;</div><div>- Ondersteunen van de backoffice kinderopvang bij complexe vragen die toekomen via de mailbox.&nbsp;</div><div>- Fungeren als aanspreekpunt voor de afdeling kinderopvang bij interne en externe vragen.&nbsp;</div><div>- Beschikken over basiskennis van de regelgeving rond kinderopvang, buitenschoolse opvang en activiteiten.</div><div>- Op de hoogte blijven van ontwikkelingen in het werkveld en relevante informatie delen met collega’s.&nbsp;</div><div>- Aansturen, opvolgen en evalueren van 2 medewerkers; taken plannen, verdelen en coördineren binnen het team.&nbsp;</div><div>- Optreden als contactpersoon voor het team richting afdelingshoofd, leidinggevenden en beleidsmedewerker.&nbsp;<br><br></div><div>🎯 Wie zoeken we?&nbsp;</div><div>Een collega die:</div><div>- minstens vier jaar relevante beroepsmatige ervaring heeft binnen de organisatie;&nbsp;</div><div>-&nbsp; vlot kan schakelen tussen operationele en beleidsmatige taken;&nbsp;</div><div>-&nbsp; gestructureerd en nauwkeurig werkt, ook onder tijdsdruk;&nbsp;</div><div>-&nbsp; communicatief sterk is, zowel mondeling als schriftelijk;&nbsp;</div><div>-&nbsp; beschikt over een gezonde dosis verantwoordelijkheidszin en zin voor initiatief;&nbsp;</div><div>-&nbsp; graag samenwerkt, maar ook zelfstandig beslissingen durft nemen;&nbsp;</div><div>-&nbsp; affiniteit heeft met regelgeving en het werkveld kinderopvang.</div>"
+        "raw": "<div>Bij Opgroeien Regie werken we samen aan de beste kansen voor elk kind, elke jongere en elk gezin. We ondersteunen gezinnen via gezinsondersteuning, kinderopvang, jeugdhulp en pleegzorg.</div><div></div><div>Om onze dienstverlening verder te versterken, zoeken we een klachtendeskundige die instaat voor een zorgvuldige en klantgerichte behandeling van klacht</div><p>&nbsp;</p><div></div><div><strong>Jouw taken</strong></div><div></div><ul><li>Je regisseert en volgt klachten op over alle sectoren waar Opgroeien actief is.</li><li>Je behandelt klachten over onze eigen dienstverlening.</li><li>Je wint informatie in, voert voorbereidende taken uit en analyseert klachten tot een duidelijke eindbevinding.</li><li>Je beantwoordt vragen van klanten, geeft uitleg over procedures en verwijst door naar de juiste diensten.</li><li>Je signaleert knelpunten en doet verbetervoorstellen.</li><li>Je werkt nauw samen met collega’s en neemt deel aan overleg over het klachtenbeleid.</li></ul><p>&nbsp;</p>",
+        "htmlEncoded": "<div>Bij Opgroeien Regie werken we samen aan de beste kansen voor elk kind, elke jongere en elk gezin. We ondersteunen gezinnen via gezinsondersteuning, kinderopvang, jeugdhulp en pleegzorg.</div><div></div><div>Om onze dienstverlening verder te versterken, zoeken we een klachtendeskundige die instaat voor een zorgvuldige en klantgerichte behandeling van klacht</div><p>&nbsp;</p><div></div><div><strong>Jouw taken</strong></div><div></div><ul><li>Je regisseert en volgt klachten op over alle sectoren waar Opgroeien actief is.</li><li>Je behandelt klachten over onze eigen dienstverlening.</li><li>Je wint informatie in, voert voorbereidende taken uit en analyseert klachten tot een duidelijke eindbevinding.</li><li>Je beantwoordt vragen van klanten, geeft uitleg over procedures en verwijst door naar de juiste diensten.</li><li>Je signaleert knelpunten en doet verbetervoorstellen.</li><li>Je werkt nauw samen met collega’s en neemt deel aan overleg over het klachtenbeleid.</li></ul><p>&nbsp;</p>"
       },
       "locations": [
         {
