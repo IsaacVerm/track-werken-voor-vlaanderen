@@ -1,11 +1,155 @@
 {
-  "totalItems": 143,
+  "totalItems": 145,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 142,
+  "lastItemOfPage": 144,
   "items": [
+    {
+      "link": "/Job/vdab-72669243",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Hendrik Conscience",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72669243",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel tester (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Functioneel tester (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p> </p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>",
+        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p> </p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72669167",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Hendrik Conscience",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72669167",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager solution architectuur (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Manager solution architectuur (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p> </p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p> </p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong><strong></strong></p> \n<p> </p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>",
+        "htmlEncoded": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p> </p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p> </p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong><strong></strong></p> \n<p> </p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72668225",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72668225",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adviseur elektriciteitsnetten"
+      },
+      "displayTitle": "Adviseur elektriciteitsnetten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De energietransitie biedt de elektriciteitsnetbeheerders, leveranciers en andere marktspelers heel wat uitdagingen en kansen. Als adviseur elektriciteitsnetten zorg je er samen met je collega’s voor dat die transitie vlot kan verlopen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Als adviseur zorg je ervoor dat de energiemarkt goed blijft werken en de netten betrouwbaar blijven. Je helpt mee aan de opmaak van technische regels voor de netbeheerders.</p> \n<p>Je controleert hoe netbeheerders omgaan met de energietransitie en hoe ze hun werking daarop afstemmen, via investeringen en alternatieve oplossingen.</p> \n<p>Netbeheerders plaatsen volop digitale meters en ontwikkelen nieuwe processen zoals voor energiedelen en flexibiliteit. Jij volgt dat op en leidt alles in goede banen.</p> \n<p>Je maakt analyses en overlegt met collega’s en externe belanghebbenden. Je adviseert het management. Je schrijft bevindingen helder uit in rapporten.</p> \n<p>Je hebt je eigen verantwoordelijkheden, maar werkt vooral in team.</p>",
+        "htmlEncoded": "<p>De energietransitie biedt de elektriciteitsnetbeheerders, leveranciers en andere marktspelers heel wat uitdagingen en kansen. Als adviseur elektriciteitsnetten zorg je er samen met je collega’s voor dat die transitie vlot kan verlopen.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Als adviseur zorg je ervoor dat de energiemarkt goed blijft werken en de netten betrouwbaar blijven. Je helpt mee aan de opmaak van technische regels voor de netbeheerders.</p> \n<p>Je controleert hoe netbeheerders omgaan met de energietransitie en hoe ze hun werking daarop afstemmen, via investeringen en alternatieve oplossingen.</p> \n<p>Netbeheerders plaatsen volop digitale meters en ontwikkelen nieuwe processen zoals voor energiedelen en flexibiliteit. Jij volgt dat op en leidt alles in goede banen.</p> \n<p>Je maakt analyses en overlegt met collega’s en externe belanghebbenden. Je adviseert het management. Je schrijft bevindingen helder uit in rapporten.</p> \n<p>Je hebt je eigen verantwoordelijkheden, maar werkt vooral in team.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72668055",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72668055",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Economisch adviseur voor water"
+      },
+      "displayTitle": "Economisch adviseur voor water",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb jij een economische achtergrond en wil je bijdragen aan een duurzame toekomst? Ben je analytisch sterk en geïnteresseerd in publieke dienstverlening en de watersector? Dan is de functie van economisch adviseur voor water iets voor jou!</p> \n<p>We zoeken meerdere collega’s om het economisch toezicht op de waterketen verder vorm te geven. Je werkt in een organisatie die innovatie en samenwerking waardeert en waar je zowel binnen als buiten je kennisdomein impact hebt op de Vlaamse watersector.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Vanaf 1 januari 2026 hebben we de verantwoordelijkheid om het economisch toezicht op de waterketen in Vlaanderen te organiseren. Vertrekkende van onze ervaring als regulator van de elektriciteits- en gasmarkt ontwikkelen we een transparant, toekomstgericht kader voor de watersector. Zo sleutel je mee aan je eigen job. </p> \n<p>Een greep uit je takenpakket:</p> \n<p>Je keurt de maximumtarieven voor drinkwater goed. Die tarieven gebruiken drinkwatermaatschappijen om de kosten voor de productie en levering van drinkwater door te rekenen. Je ziet ook toe op hun werkelijke kosten.</p> \n<p>Je brengt de werking en kostenstructuur van de drinkwatermaatschappijen in kaart. Je onderzoekt hoe we als regulator bijdragen aan een betrouwbare, duurzame en betaalbare watervoorziening.</p> \n<p>Je ziet toe op de bepaling van tarieven voor riolerings- en zuiveringsverplichtingen.</p> \n<p>Je ontwikkelt en implementeert het economisch toezicht op de drinkwatermaatschappijen en rioolbeheerders.</p> \n<p>Je controleert de correcte bepaling van de drinkwaterfactuur. </p>",
+        "htmlEncoded": "<p>Heb jij een economische achtergrond en wil je bijdragen aan een duurzame toekomst? Ben je analytisch sterk en geïnteresseerd in publieke dienstverlening en de watersector? Dan is de functie van economisch adviseur voor water iets voor jou!</p> \n<p>We zoeken meerdere collega’s om het economisch toezicht op de waterketen verder vorm te geven. Je werkt in een organisatie die innovatie en samenwerking waardeert en waar je zowel binnen als buiten je kennisdomein impact hebt op de Vlaamse watersector.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Vanaf 1 januari 2026 hebben we de verantwoordelijkheid om het economisch toezicht op de waterketen in Vlaanderen te organiseren. Vertrekkende van onze ervaring als regulator van de elektriciteits- en gasmarkt ontwikkelen we een transparant, toekomstgericht kader voor de watersector. Zo sleutel je mee aan je eigen job. </p> \n<p>Een greep uit je takenpakket:</p> \n<p>Je keurt de maximumtarieven voor drinkwater goed. Die tarieven gebruiken drinkwatermaatschappijen om de kosten voor de productie en levering van drinkwater door te rekenen. Je ziet ook toe op hun werkelijke kosten.</p> \n<p>Je brengt de werking en kostenstructuur van de drinkwatermaatschappijen in kaart. Je onderzoekt hoe we als regulator bijdragen aan een betrouwbare, duurzame en betaalbare watervoorziening.</p> \n<p>Je ziet toe op de bepaling van tarieven voor riolerings- en zuiveringsverplichtingen.</p> \n<p>Je ontwikkelt en implementeert het economisch toezicht op de drinkwatermaatschappijen en rioolbeheerders.</p> \n<p>Je controleert de correcte bepaling van de drinkwaterfactuur. </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72646091",
       "internal": false,
@@ -691,42 +835,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72580933",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72580933",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data analist (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Data analist (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Het UX-team zoekt een expert Analytics en SEO </span></p> \n<p><span>Hoe zou jij het vinden om mee te werken aan de optimalisatie van een website die elke dag een impact heeft op het leven van duizenden mensen? En dat je vanop de eerste rij kan zien hoe groot die impact precies is? </span></p> \n<p><span>VDAB is op zoek naar een expert in gebruikersonderzoek met een focus op Google analytics en SEO. </span></p> \n<p><span>Duik jij graag in cijfers op zoek naar gebruikersinzichten? En schrik je er niet voor terug om die inzichten op een begrijpelijke en behapbare manier te presenteren? Dan ben jij misschien de nieuwe collega die we zoeken!</span></p> \n<p><strong><span>Wie zijn wij? </span></strong></p> \n<p><span>Het UX-team bestaat uit verschillende expertises: gebruikersonderzoek, copy (web en social media), design. Allemaal hebben we hetzelfde doel: de gebruikerservaring van onze klant verbeteren. En daar zijn we heel bevlogen in. </span></p> \n<p><span>We vormen een hecht team, waarin veel ruimte is voor zelfontplooiing en initiatief.</span></p> \n<p><strong><span>Wie ben jij? </span></strong></p> \n<p><span>Je bent </span></p> \n<p><span><span>-\n<span> </span></span></span><span>klantgericht </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een vlotte communicator </span></p> \n<p><span><span>-\n<span> </span></span></span><span>nauwkeurig en georganiseerd </span></p> \n<p><span><span>-\n<span> </span></span></span><span>analytisch ingesteld </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een cijfernerd </span></p> \n<p><span><span>-\n<span> </span></span></span><span>leergierig en proactief </span></p> \n<p><span><span>-\n<span> </span></span></span><span>iemand die prioriteiten kan stellen </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een doorzetter die van uitdagingen houdt </span></p> \n<p><span>Je hebt technische kennis van Google Analytics 4, Google Tag Manager en Google Looker Studio. </span></p> \n<p><span>Ervaring met SEO tools zoals SEMrush, Screaming Frog &amp; MOZ is een pluspunt</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Het UX-team zoekt een expert Analytics en SEO </span></p> \n<p><span>Hoe zou jij het vinden om mee te werken aan de optimalisatie van een website die elke dag een impact heeft op het leven van duizenden mensen? En dat je vanop de eerste rij kan zien hoe groot die impact precies is? </span></p> \n<p><span>VDAB is op zoek naar een expert in gebruikersonderzoek met een focus op Google analytics en SEO. </span></p> \n<p><span>Duik jij graag in cijfers op zoek naar gebruikersinzichten? En schrik je er niet voor terug om die inzichten op een begrijpelijke en behapbare manier te presenteren? Dan ben jij misschien de nieuwe collega die we zoeken!</span></p> \n<p><strong><span>Wie zijn wij? </span></strong></p> \n<p><span>Het UX-team bestaat uit verschillende expertises: gebruikersonderzoek, copy (web en social media), design. Allemaal hebben we hetzelfde doel: de gebruikerservaring van onze klant verbeteren. En daar zijn we heel bevlogen in. </span></p> \n<p><span>We vormen een hecht team, waarin veel ruimte is voor zelfontplooiing en initiatief.</span></p> \n<p><strong><span>Wie ben jij? </span></strong></p> \n<p><span>Je bent </span></p> \n<p><span><span>-\n<span> </span></span></span><span>klantgericht </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een vlotte communicator </span></p> \n<p><span><span>-\n<span> </span></span></span><span>nauwkeurig en georganiseerd </span></p> \n<p><span><span>-\n<span> </span></span></span><span>analytisch ingesteld </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een cijfernerd </span></p> \n<p><span><span>-\n<span> </span></span></span><span>leergierig en proactief </span></p> \n<p><span><span>-\n<span> </span></span></span><span>iemand die prioriteiten kan stellen </span></p> \n<p><span><span>-\n<span> </span></span></span><span>een doorzetter die van uitdagingen houdt </span></p> \n<p><span>Je hebt technische kennis van Google Analytics 4, Google Tag Manager en Google Looker Studio. </span></p> \n<p><span>Ervaring met SEO tools zoals SEMrush, Screaming Frog &amp; MOZ is een pluspunt</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72560954",
       "internal": false,
       "validThroughDate": "-1",
@@ -979,42 +1087,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72533503",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72533503",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data engineer INTEL SWF (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Data engineer INTEL SWF (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De functiehouder zorgt ervoor dat data binnen een organisatie beschikbaar, betrouwbaar, schaalbaar en bruikbaar is voor analyses, rapportages en datagedreven beslissingen. De functiehouder bouwt en onderhoudt de data-infrastructuur die het mogelijk maakt om grote hoeveelheden data op een efficiënte, veilige en gestructureerde manier te verzamelen, verwerken en opslaan.</span></p> \n<p><span>Het team is 40 personen groot maar bestaat uit subteams van 5-8 personen. De samenstelling van deze subteams kan variëren per kwartaal, ook afhankelijk van persoonlijke interesse.</span></p> \n<p><span>In het team zitten verschillende profielen: 2 teamleiders, data analisten, data engineer, rapporteringsspecialisten, testers, technisch data architecten.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      Ontwikkelen van data oplossingen</p> \n<p>●      Zorgen voor performantie van die oplossingen</p> \n<p>●      Onderhoud en herwerken van bestaande data oplossingen</p> \n<p><span>Jouw taken</span></p> \n<p>●      Het ontwikkelen van data pipelines in kader van rapportering en analytics</p> \n<p>●      Je ontwikkelt (in team) data warehouses en data lakes om waardevolle informatie te ontsluiten.</p> \n<p>●      Je implementeert data oplossingen om voor complexe data problemen..</p> \n<p>Je bent verantwoordelijk voor de implementatie en onderhoud van het datawarehouse en ETL infrastructuur, waar je data zal transformeren in bruikbare data formats voor analyses.</p> \n<p><span>Waar ga je werken</span></p> \n<p>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Binnen het team worden nieuwe rapporteringsmogelijkheden gebouwd wanneer er nieuwe vragen en/of nieuwe operationele systemen zijn. Daarnaast is het team ook bezig aan een migratie van het oude DWH naar het nieuwe dataplatform.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, NIFI, Airflow, Spark en PySpark, Cloudera Data Platform. (on premise geïnstalleerd), Spark Streaming, Kafka en Kafka streams, JDK talen (java, scala, groovy, ...), javascript (angular, d3, …), event verwerking en JSON, Apache AVRO &amp; Parquet, Apache Iceberg, Apache Impala, Vault Speed, SingleStore, lakehouse architectuur, ODI, DBT, Apache HOP.</span></p>",
-        "htmlEncoded": "<p><span>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</span></p> \n<p><span>De functiehouder zorgt ervoor dat data binnen een organisatie beschikbaar, betrouwbaar, schaalbaar en bruikbaar is voor analyses, rapportages en datagedreven beslissingen. De functiehouder bouwt en onderhoudt de data-infrastructuur die het mogelijk maakt om grote hoeveelheden data op een efficiënte, veilige en gestructureerde manier te verzamelen, verwerken en opslaan.</span></p> \n<p><span>Het team is 40 personen groot maar bestaat uit subteams van 5-8 personen. De samenstelling van deze subteams kan variëren per kwartaal, ook afhankelijk van persoonlijke interesse.</span></p> \n<p><span>In het team zitten verschillende profielen: 2 teamleiders, data analisten, data engineer, rapporteringsspecialisten, testers, technisch data architecten.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      Ontwikkelen van data oplossingen</p> \n<p>●      Zorgen voor performantie van die oplossingen</p> \n<p>●      Onderhoud en herwerken van bestaande data oplossingen</p> \n<p><span>Jouw taken</span></p> \n<p>●      Het ontwikkelen van data pipelines in kader van rapportering en analytics</p> \n<p>●      Je ontwikkelt (in team) data warehouses en data lakes om waardevolle informatie te ontsluiten.</p> \n<p>●      Je implementeert data oplossingen om voor complexe data problemen..</p> \n<p>Je bent verantwoordelijk voor de implementatie en onderhoud van het datawarehouse en ETL infrastructuur, waar je data zal transformeren in bruikbare data formats voor analyses.</p> \n<p><span>Waar ga je werken</span></p> \n<p>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Binnen het team worden nieuwe rapporteringsmogelijkheden gebouwd wanneer er nieuwe vragen en/of nieuwe operationele systemen zijn. Daarnaast is het team ook bezig aan een migratie van het oude DWH naar het nieuwe dataplatform.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, NIFI, Airflow, Spark en PySpark, Cloudera Data Platform. (on premise geïnstalleerd), Spark Streaming, Kafka en Kafka streams, JDK talen (java, scala, groovy, ...), javascript (angular, d3, …), event verwerking en JSON, Apache AVRO &amp; Parquet, Apache Iceberg, Apache Impala, Vault Speed, SingleStore, lakehouse architectuur, ODI, DBT, Apache HOP.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72511254",
       "internal": false,
       "validThroughDate": "-1",
@@ -1113,42 +1185,6 @@
       "description": {
         "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>",
         "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72495376",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72495376",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data analist (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Data analist (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Voor ons team Monitoring, deel van de afdeling Strategie, zijn we op zoek naar een data analist gespecialiseerd in rapportering, analyse en dashboarding.</p> \n<p>VDAB is een data-gedreven organisatie en innovatieve netwerkregisseur waarin het monitoring team een belangrijke bijdrage levert. Het team voorziet het management en elk team binnen VDAB van structurele monitoring, onder andere via interactieve dashboards die toelaten om prestaties continu op te volgen en problemen vroegtijdig te detecteren (“evidence base” voor PDCA). Daarnaast draagt het team ook de Arbeidsmarktinfo over de Vlaamse arbeidsmarkt zoals voorzien door VDAB in cijferapplicaties (bv. Arvastat) en ad hoc analyses.</p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>●    Arbeidsmarktinfo verzekeren (co-verantwoordelijkheid)</span></p> \n<p><span>●    Evidence based besluitvorming ondersteunen (via het stimuleren van quasi-experimentele analyses op bestaande data)</span></p> \n<p><span>●    Officieel cijfersysteem van VDAB coördineren (gebruikscijfers opvolgen, poortwachtersrol invullen, coördineren)</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>●    Quasi-experimentele analyse: uitvoeren, ondersteunen en propageren</span></p> \n<p><span>●    Open data voor statistisch gebruik verzekeren naar het model van Statistiek Vlaanderen</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt minstens 1 dag per week (maar naar wens ook meerdere dagen) in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Bestaat uit een divers team dat zich bezighoudt met geautomatiseerde cijferrapporten, dashboards, publieke cijfer applicaties, ad hoc analyse-rapporten</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Dataverwerking (SAS en SQL, Singlestore), Datavisualisatie (MicroStrategy, Oracle Analytics Server, Excel), Open Data</span></p>",
-        "htmlEncoded": "<p>Voor ons team Monitoring, deel van de afdeling Strategie, zijn we op zoek naar een data analist gespecialiseerd in rapportering, analyse en dashboarding.</p> \n<p>VDAB is een data-gedreven organisatie en innovatieve netwerkregisseur waarin het monitoring team een belangrijke bijdrage levert. Het team voorziet het management en elk team binnen VDAB van structurele monitoring, onder andere via interactieve dashboards die toelaten om prestaties continu op te volgen en problemen vroegtijdig te detecteren (“evidence base” voor PDCA). Daarnaast draagt het team ook de Arbeidsmarktinfo over de Vlaamse arbeidsmarkt zoals voorzien door VDAB in cijferapplicaties (bv. Arvastat) en ad hoc analyses.</p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>●    Arbeidsmarktinfo verzekeren (co-verantwoordelijkheid)</span></p> \n<p><span>●    Evidence based besluitvorming ondersteunen (via het stimuleren van quasi-experimentele analyses op bestaande data)</span></p> \n<p><span>●    Officieel cijfersysteem van VDAB coördineren (gebruikscijfers opvolgen, poortwachtersrol invullen, coördineren)</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>●    Quasi-experimentele analyse: uitvoeren, ondersteunen en propageren</span></p> \n<p><span>●    Open data voor statistisch gebruik verzekeren naar het model van Statistiek Vlaanderen</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt minstens 1 dag per week (maar naar wens ook meerdere dagen) in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Bestaat uit een divers team dat zich bezighoudt met geautomatiseerde cijferrapporten, dashboards, publieke cijfer applicaties, ad hoc analyse-rapporten</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Dataverwerking (SAS en SQL, Singlestore), Datavisualisatie (MicroStrategy, Oracle Analytics Server, Excel), Open Data</span></p>"
       },
       "locations": [
         {
@@ -4817,6 +4853,39 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19509",
+      "internal": false,
+      "validThroughDate": "1769126400",
+      "hiringOrganization": "Agentschap Overheidspersoneel",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19509",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Payroll expert"
+      },
+      "displayTitle": "Payroll expert",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als payroll expert en coördinator van het ISAE 3402 rapport, combineer jij graag je kennis van loonadministratie en payrollprocessen en ben je iemand die snel mogelijkheden om processen te optimaliseren benut. In deze functie werk je op het snijvlak van HR en IT.</span></p> <p><span>&nbsp;</span></p> <p><span>Je bent verantwoordelijk voor de jaarlijkse planning en het behalen van het ISAE 3402 rapport samen met een externe auditor. Je bewaakt hiermee de kwaliteit van de dienstverlening en de integriteit van de payrollprocessen. Jaarlijks evalueer je met collega’s de scope van het rapport, analyseer je processen en systemen, en pas je controles aan waar nodig. Je volgt acties op die voortkomen uit aanbevelingen van de auditor om de interne controleomgeving te versterken.</span></p> <p><span>&nbsp;</span></p> <p><span>Je coördineert de uitvoering van controles en bent het aanspreekpunt voor communicatie met collega’s, auditor, klanten en directieteam.<br> <br> </span></p> <p><span>Daarnaast werk je mee aan de dienstverlening aan het sociaal secretariaat Vlimpers, het personeelssysteem van de Vlaamse overheid. Je voert controles uit rond de het afsluiten van de lonen en volgt het proces van betaalbestanden tot uitbetaling aan 30.000 ambtenaren. Je beheert het personeelssysteem inhoudelijk en technisch, behandelt complexe vragen en incidenten, en documenteert oplossingen. Je ondersteunt medewerkers met handleidingen en training, en denkt kritisch mee over optimalisaties en systeemtesten. </span></p>",
+        "htmlEncoded": "<p><span>Als payroll expert en coördinator van het ISAE 3402 rapport, combineer jij graag je kennis van loonadministratie en payrollprocessen en ben je iemand die snel mogelijkheden om processen te optimaliseren benut. In deze functie werk je op het snijvlak van HR en IT.</span></p> <p><span>&nbsp;</span></p> <p><span>Je bent verantwoordelijk voor de jaarlijkse planning en het behalen van het ISAE 3402 rapport samen met een externe auditor. Je bewaakt hiermee de kwaliteit van de dienstverlening en de integriteit van de payrollprocessen. Jaarlijks evalueer je met collega’s de scope van het rapport, analyseer je processen en systemen, en pas je controles aan waar nodig. Je volgt acties op die voortkomen uit aanbevelingen van de auditor om de interne controleomgeving te versterken.</span></p> <p><span>&nbsp;</span></p> <p><span>Je coördineert de uitvoering van controles en bent het aanspreekpunt voor communicatie met collega’s, auditor, klanten en directieteam.<br> <br> </span></p> <p><span>Daarnaast werk je mee aan de dienstverlening aan het sociaal secretariaat Vlimpers, het personeelssysteem van de Vlaamse overheid. Je voert controles uit rond de het afsluiten van de lonen en volgt het proces van betaalbestanden tot uitbetaling aan 30.000 ambtenaren. Je beheert het personeelssysteem inhoudelijk en technisch, behandelt complexe vragen en incidenten, en documenteert oplossingen. Je ondersteunt medewerkers met handleidingen en training, en denkt kritisch mee over optimalisaties en systeemtesten. </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
