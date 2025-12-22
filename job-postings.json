@@ -1,11 +1,47 @@
 {
-  "totalItems": 145,
+  "totalItems": 151,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 144,
+  "lastItemOfPage": 150,
   "items": [
+    {
+      "link": "/Job/vdab-72679125",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Sport Vlaanderen Willebroek",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Onderhoud",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72679125",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker schoonmaak"
+      },
+      "displayTitle": "Medewerker schoonmaak",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br>Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig met de ondersteuning van logistieke voorbereiding van activiteiten of als domeinwachter.</p>",
+        "htmlEncoded": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br>Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig met de ondersteuning van logistieke voorbereiding van activiteiten of als domeinwachter.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72669243",
       "internal": false,
@@ -1951,42 +1987,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72059402",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72059402",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Projectleider ICT - Teamlead (departement Omgeving) via Vlaanderen connect"
-      },
-      "displayTitle": "Projectleider ICT - Teamlead (departement Omgeving) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie m.b.t. het domein bodem en ondergrond? Wil je meehelpen om zo de missie en visie van Databank Ondergrond Vlaanderen (DOV) mee te ondersteunen ? Lees dan verder of deze functie bij je past.</p> \n<p>Databank Ondergrond Vlaanderen (DOV) is een samenwerkingsverband binnen de Vlaamse Overheid, tussen het Departement Omgeving, het Departement MOW, de Vlaamse Milieumaatschappij en de Openbare Vlaamse Afvalstoffenmaatschappij dat zich toelegt op het samen beheren en ontsluiten van data en informatie met betrekking tot de ondergrond en de bodem in Vlaanderen. De DOV-coördinatie, evenals het DOV-IT-team, bevinden zich binnen het departement Omgeving. DOV is een netwerkorganisatie met niet enkel partners binnen de overheid, maar ook veel externe partijen die data aanleveren en/of afnemen.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de partners van DOV die langs business kant gecoördineerd worden via het DOV-coördinatieteam) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> \n<li>Je belangrijkste taken:</li> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. DOV is een complexe organisatie met veel businesspartners zowel binnen als buiten het departement. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je software- en GIS-ontwikkelaars en (GIS) data-operatoren aanstuurt. Ook architecten, productowners en (business- en) functionele analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je werkt nauw samen met de DOV-coördinatie (programmamanager) in het opstellen van een roadmap conform de prioriteiten in het DOV-portfolio. Je geeft mee invulling aan het Strategisch overleg van DOV.</p>",
-        "htmlEncoded": "<p>Heb je ervaring als projectleider in een softwareontwikkelingsomgeving? Voel jij je geroepen om technische oplossingen te realiseren en te onderhouden die zich richten op het beheer en de ontsluiting van data en informatie m.b.t. het domein bodem en ondergrond? Wil je meehelpen om zo de missie en visie van Databank Ondergrond Vlaanderen (DOV) mee te ondersteunen ? Lees dan verder of deze functie bij je past.</p> \n<p>Databank Ondergrond Vlaanderen (DOV) is een samenwerkingsverband binnen de Vlaamse Overheid, tussen het Departement Omgeving, het Departement MOW, de Vlaamse Milieumaatschappij en de Openbare Vlaamse Afvalstoffenmaatschappij dat zich toelegt op het samen beheren en ontsluiten van data en informatie met betrekking tot de ondergrond en de bodem in Vlaanderen. De DOV-coördinatie, evenals het DOV-IT-team, bevinden zich binnen het departement Omgeving. DOV is een netwerkorganisatie met niet enkel partners binnen de overheid, maar ook veel externe partijen die data aanleveren en/of afnemen.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om je scrumteam aan te sturen om de vragen van de PO’s (zijnde verschillende verantwoordelijken bij de partners van DOV die langs business kant gecoördineerd worden via het DOV-coördinatieteam) te realiseren. Daarbij staat centraal:</p> \n<ul> \n<li>Leiden, coördineren en opvolgen van projecten met een complexe I&amp;T component, van initiatie tot oplevering.</li> \n<li>Opstellen en beheren van projectplannen, inclusief scope, timing en budget.</li> \n<li>Coördineren van een multidisciplinair projectteam en externe partners.</li> \n<li>Je belangrijkste taken:</li> \n<li>Projectinitiatie. Opstellen van projectdefinitie, doelstellingen, deliverables, en scope in overleg met opdrachtgevers en stakeholders.</li> \n<li>Planning en organisatie. Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> \n<li>Teamcoördinatie. Samenstellen, aansturen en coachen van multidisciplinaire projectteams.</li> \n<li>Risicobeheer en het implementeren van mitigatiestrategieën.</li> \n<li>Rapportering en communicatie. Regelmatig rapporteren aan stuurgroep, sponsors of lijnmanagement (statusrapporten, dashboards, lessons learned).</li> \n<li>Budgetbeheer. Opvolgen van kosten, budgetten en indien nodig bijsturen.</li> \n<li>Opstellen en bewaken van projectplanning, mijlpalen, deadlines en afhankelijkheden.</li> </ul> \n<p>Je bent sterk in het samenbrengen van mensen zowel binnen als buiten je team om tot gepaste technische oplossingen te komen zoals afgesproken in de business cases. DOV is een complexe organisatie met veel businesspartners zowel binnen als buiten het departement. Heldere communicatie is daarbij uiterst belangrijk.</p> \n<p>Je werkt nauw samen met de Techleads waarmee je zowel de functionele als de technische kant van de ontwikkelingen uittekent en je software- en GIS-ontwikkelaars en (GIS) data-operatoren aanstuurt. Ook architecten, productowners en (business- en) functionele analisten maken deel uit van elk project.</p> \n<p>Je team is ook verantwoordelijk voor het onderhoud van een aantal softwareproducten en datapublicaties. We werken in een opensource (voornamelijk JAVA) omgeving.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je werkt nauw samen met de DOV-coördinatie (programmamanager) in het opstellen van een roadmap conform de prioriteiten in het DOV-portfolio. Je geeft mee invulling aan het Strategisch overleg van DOV.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zwijnaarde"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71953713",
       "internal": false,
       "validThroughDate": "-1",
@@ -2563,6 +2563,114 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19976",
+      "internal": false,
+      "validThroughDate": "1768694400",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19976",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "2 bemiddelaars activering"
+      },
+      "displayTitle": "2 bemiddelaars activering",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span><p dir=\"ltr\"><span>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Sint-Niklaas te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</span><span>&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. </span><span><br></span><span>De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. </span><span><br></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p dir=\"ltr\"><span>Ben jij de </span><span>Bemiddelaar Activering</span><span> die wij zoeken?</span><span><br></span><span><br></span><span>Activering: Drempels Verkleinen, Kansen Creëren</span><span><br></span><span><br></span><span>Als Bemiddelaar Activering richt je je op werkzoekenden met complexe en meervoudige drempels tot de arbeidsmarkt. Je speelt een cruciale rol in het diepgaand uitklaren en fundamenteel verkleinen van deze drempels, met als doel inclusieve arbeidsmarktparticipatie voor iedereen.</span></p><span><br></span><p dir=\"ltr\"><span>Wat je doet:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je brengt de noden en drempels van een klant diepgaand in kaart (lichamelijke, mentale, sociale en persoonlijke factoren, door middel van dossieranalyse, bronnenbevraging,&nbsp; gesprekken en het uitklaren van medische situaties).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je analyseert het arbeidsmatig functioneren van de klant en legt dit kwalitatief vast in het ICF-model (International Classification of Functioning, Disability and Health) om tot een passend advies te komen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je schat de klant continu in en stuurt bij gedurende het traject. Je stelt een 'Plan van Aanpak' op.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je oriënteert de klant naar een geschikt vervolgtraject of dienstverlening bij externe partners.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je werkt nauw samen met het bredere netwerk rond de klant, waaronder lokale partnerschappen, werkgevers in de sociale economie en welzijns- en zorgpartners.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt klanten met een 'collectief maatwerk' (CMW) advies naar openstaande vacatures.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je volgt klanten op die na een diepgaande inschatting intensieve dienstverlening nodig hebben bij partners, inclusief nazorg op sleutelmomenten (bv. start werk, nieuwe drempels).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bent de brug tussen de klant en alle betrokken partijen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je voert gesprekken zowel met de klant als met de externe partner.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je past de regels voor doorverwijzing naar de controledienst correct toe.</span><span><br><br></span></p></li></ul><p dir=\"ltr\"><span>Must haves voor de Bemiddelaar Intensieve Dienstverlening:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je hebt voeling met specifieke klantengroepen met eigen behoeften (bijvoorbeeld kwetsbare jongeren, personen met complexe problematieken).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt goed omgaan met mensen met diverse achtergronden en uitdagingen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bent empathisch, kunt je inleven in de klant en stelt je verbindend op.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt vlot een dossier en functioneringsanalyse opmaken volgens het ICF-model of je kan je hier snel inwerken.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je verricht medisch en psychosociaal contextonderzoek, met input van partners of je bent bereid dit aan te leren.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt een duidelijk advies koppelen aan een passend traject (regulier economisch circuit, individueel of collectief maatwerk, activeringstraject, arbeidsmatige activiteiten).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bouwt een zorgvuldig, compleet en duidelijk dossier op voor het juiste advies.</span><span><br><br></span></p></li></ul><p dir=\"ltr\"><span>Nice to haves voor de Bemiddelaar Intensieve Dienstverlening:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ervaring met projectmatig werken als SPOC (Single Point Of Contact) sociale economie en het opvolgen en koppelen van vacatures in de sociale economie.</span><span>&nbsp;</span></p></li></ul><span><br><span>Bel met Carina Corne </span><span>(teamleider). Zij vertelt je graag hoe een dag in haar team er zal uitzien: 0494 13 74 32 of </span><a href=\"mailto:carina.corne@vdab.be\"><span>carina.corne@vdab.be</span></a><span>&nbsp; </span></span>Vul hier de vacaturetekst in het kort in",
+        "htmlEncoded": "<span></span><p dir=\"ltr\"><span>VDAB zoekt enthousiaste en gemotiveerde Bemiddelaars om ons team in de regio Sint-Niklaas te versterken. Als Bemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te schakelen op de arbeidsmarkt.&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>VDAB is een open en wendbare organisatie die anticipeert op maatschappelijke evoluties. We werken samen met externe partners en lokale besturen aan een duurzame dienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.</span><span>&nbsp;</span></p><span><br></span><p dir=\"ltr\"><span>Om deze opdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. </span><span><br></span><span>De klant start met een inschatting, vervolgt zijn traject in de sectorale werking en als er extra drempels opduiken, maakt hij een tussenstop bij Intensieve dienstverlening. </span><span><br></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p dir=\"ltr\"><span>Ben jij de </span><span>Bemiddelaar Activering</span><span> die wij zoeken?</span><span><br></span><span><br></span><span>Activering: Drempels Verkleinen, Kansen Creëren</span><span><br></span><span><br></span><span>Als Bemiddelaar Activering richt je je op werkzoekenden met complexe en meervoudige drempels tot de arbeidsmarkt. Je speelt een cruciale rol in het diepgaand uitklaren en fundamenteel verkleinen van deze drempels, met als doel inclusieve arbeidsmarktparticipatie voor iedereen.</span></p><span><br></span><p dir=\"ltr\"><span>Wat je doet:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je brengt de noden en drempels van een klant diepgaand in kaart (lichamelijke, mentale, sociale en persoonlijke factoren, door middel van dossieranalyse, bronnenbevraging,&nbsp; gesprekken en het uitklaren van medische situaties).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je analyseert het arbeidsmatig functioneren van de klant en legt dit kwalitatief vast in het ICF-model (International Classification of Functioning, Disability and Health) om tot een passend advies te komen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je schat de klant continu in en stuurt bij gedurende het traject. Je stelt een 'Plan van Aanpak' op.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je oriënteert de klant naar een geschikt vervolgtraject of dienstverlening bij externe partners.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je werkt nauw samen met het bredere netwerk rond de klant, waaronder lokale partnerschappen, werkgevers in de sociale economie en welzijns- en zorgpartners.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je begeleidt klanten met een 'collectief maatwerk' (CMW) advies naar openstaande vacatures.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je volgt klanten op die na een diepgaande inschatting intensieve dienstverlening nodig hebben bij partners, inclusief nazorg op sleutelmomenten (bv. start werk, nieuwe drempels).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bent de brug tussen de klant en alle betrokken partijen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je voert gesprekken zowel met de klant als met de externe partner.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je past de regels voor doorverwijzing naar de controledienst correct toe.</span><span><br><br></span></p></li></ul><p dir=\"ltr\"><span>Must haves voor de Bemiddelaar Intensieve Dienstverlening:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je hebt voeling met specifieke klantengroepen met eigen behoeften (bijvoorbeeld kwetsbare jongeren, personen met complexe problematieken).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt goed omgaan met mensen met diverse achtergronden en uitdagingen.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bent empathisch, kunt je inleven in de klant en stelt je verbindend op.</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt vlot een dossier en functioneringsanalyse opmaken volgens het ICF-model of je kan je hier snel inwerken.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je verricht medisch en psychosociaal contextonderzoek, met input van partners of je bent bereid dit aan te leren.&nbsp;</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je kunt een duidelijk advies koppelen aan een passend traject (regulier economisch circuit, individueel of collectief maatwerk, activeringstraject, arbeidsmatige activiteiten).</span></p></li><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Je bouwt een zorgvuldig, compleet en duidelijk dossier op voor het juiste advies.</span><span><br><br></span></p></li></ul><p dir=\"ltr\"><span>Nice to haves voor de Bemiddelaar Intensieve Dienstverlening:</span></p><ul><li aria-level=\"1\" dir=\"ltr\"><p role=\"presentation\" dir=\"ltr\"><span>Ervaring met projectmatig werken als SPOC (Single Point Of Contact) sociale economie en het opvolgen en koppelen van vacatures in de sociale economie.</span><span>&nbsp;</span></p></li></ul><span><br><span>Bel met Carina Corne </span><span>(teamleider). Zij vertelt je graag hoe een dag in haar team er zal uitzien: 0494 13 74 32 of </span><a href=\"mailto:carina.corne@vdab.be\"><span>carina.corne@vdab.be</span></a><span>&nbsp; </span></span>Vul hier de vacaturetekst in het kort in"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Niklaas"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19975",
+      "internal": false,
+      "validThroughDate": "1767484800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19975",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "VTS-Operator - Zemst"
+      },
+      "displayTitle": "VTS-Operator - Zemst",
+      "isProtected": false,
+      "description": {
+        "raw": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
+        "htmlEncoded": "Als VTS-operator (Vessel Traffic Services) coördineer je het scheepvaartverkeer op het zeekanaal Brussel-Schelde op basis van de voorhanden zijnde informatiebronnen (zoals camerabeelden, radar- en AIS-gegevens, scheepsmeldingen, marifooninformatie, Flaris, informatie van schippers en derden. Zo draag je bij aan een vlotte en een veilige doorvaart op de waterwegen.&nbsp;&nbsp;<br>Als VTS-operator ben je het eerste aanspreekpunt voor de scheepvaart bij vragen en calamiteiten. Ook volg je mee de waterstanden op.&nbsp;<br>Je wordt ingeschakeld in een volcontinu ploegensysteem.&nbsp;&nbsp;<br>Tijdens het uitvoeren van je functie stuur je scheepvaartbegeleiders functioneel aan en werk je nauw samen met de scheepvaartinspecteur.&nbsp;<br><br>Bekijk zeker deze video (https://vimeo.com/822005529) om wat meer te leren over De Vlaamse Waterweg. &nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Zemst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19974",
+      "internal": false,
+      "validThroughDate": "1768089600",
+      "hiringOrganization": "Departement Onderwijs en Vorming",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderwijs",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19974",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder"
+      },
+      "displayTitle": "Dossierbeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een nauwkeurige en gestructureerde werker met interesse in beleidsprocessen en parlementaire opvolging?&nbsp;<br><br>Dan zijn wij misschien op zoek naar jou!<br>Voor de tijdelijke versterking van de Kwaliteitscel binnen het team Interne Organisatie zoeken we een medewerker die ondersteuning biedt in de opvolging en rapportering van beleidsdossiers in EDOS (EDOS = het digitale dossierstroomsysteem van het departement) en het subsidiebehandelingssysteem, de parlementaire vragen en de publieksvragen.<br><br>Wat zal je gaan doen?<br>Je staat in voor de digitale dossierstroom van beleidsdossiers van de afdelingen naar de secretaris-generaal én naar het kabinet. Je zorgt mee voor de verzending, attendering en archivering van dossiers via een mailbox en via SharePoint. Je monitort de voortgang via overzichtstabellen en rapportages in Excel die je continu aanvult.<br>Daarnaast volg je de digitale stroom van schriftelijke vragen, vragen om uitleg en actuele vragen op. Je bewaakt deadlines en je staat in voor de goede dispatch van de vragen en antwoorden. Je zorgt eveneens voor een correcte archivering en rapportering via SharePoint en je maakt maandelijkse overzichten.<br>Je ondersteunt bij de verdeling en opvolging van publieksvragen, je bewaakt de tijdige afhandeling en verzorgt de rapportering.<br>Je neemt deel aan het wekelijks teamoverleg van de Kwaliteitscel. Je werkt nauw samen met collega’s van alle afdelingen van het departement en alle entiteiten van het beleidsdomein.<br>",
+        "htmlEncoded": "Ben jij een nauwkeurige en gestructureerde werker met interesse in beleidsprocessen en parlementaire opvolging?&nbsp;<br><br>Dan zijn wij misschien op zoek naar jou!<br>Voor de tijdelijke versterking van de Kwaliteitscel binnen het team Interne Organisatie zoeken we een medewerker die ondersteuning biedt in de opvolging en rapportering van beleidsdossiers in EDOS (EDOS = het digitale dossierstroomsysteem van het departement) en het subsidiebehandelingssysteem, de parlementaire vragen en de publieksvragen.<br><br>Wat zal je gaan doen?<br>Je staat in voor de digitale dossierstroom van beleidsdossiers van de afdelingen naar de secretaris-generaal én naar het kabinet. Je zorgt mee voor de verzending, attendering en archivering van dossiers via een mailbox en via SharePoint. Je monitort de voortgang via overzichtstabellen en rapportages in Excel die je continu aanvult.<br>Daarnaast volg je de digitale stroom van schriftelijke vragen, vragen om uitleg en actuele vragen op. Je bewaakt deadlines en je staat in voor de goede dispatch van de vragen en antwoorden. Je zorgt eveneens voor een correcte archivering en rapportering via SharePoint en je maakt maandelijkse overzichten.<br>Je ondersteunt bij de verdeling en opvolging van publieksvragen, je bewaakt de tijdige afhandeling en verzorgt de rapportering.<br>Je neemt deel aan het wekelijks teamoverleg van de Kwaliteitscel. Je werkt nauw samen met collega’s van alle afdelingen van het departement en alle entiteiten van het beleidsdomein.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19952",
       "internal": false,
       "validThroughDate": "1772236800",
@@ -2948,6 +3056,78 @@
         {
           "address": {
             "city": "Eeklo"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19832",
+      "internal": false,
+      "validThroughDate": "1768694400",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19832",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker voedselverlies"
+      },
+      "displayTitle": "Beleidsmedewerker voedselverlies",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als beleidsmedewerker binnen de afdeling Afval- en materialenbeheer werk je mee aan het realiseren van de Europese doelstellingen rond de sterke vermindering van voedselafval tegen 2030. Vlaanderen heeft een lange traditie in het beperken van voedselverlies en via het actieplan “Voedselverlies en Biomassa(rest)stromen Circulair” bouw je hier verder op. Samen met je collega’s van het team Bio werk je nauw samen met alle schakels in de voedingsketen en stimuleer je hen om gerichte acties te ondernemen.<br><br></span><span>Je vertaalt data en inzichten over de preventie, productie, inzameling en verwerking van voedselreststromen naar concrete beleidsvoorstellen en -aanpakken. Zo draag je bij aan het voortdurend verbeteren van het beleid om biologische kringlopen te sluiten. Je werkt hiervoor intensief samen met collega’s, partners en beleidsmakers op Vlaams, intergewestelijk, federaal en Europees niveau.<br><br></span><span>Naast voedselverlies krijg je ook andere beleidsthema’s rond biomassa toegewezen. Hierdoor kan je je expertise verder verdiepen, je blik verruimen en verbanden leggen tussen de verschillende domeinen van organisch afvalbeheer en het bredere afvalstoffenbeleid.<br><br></span><span>Je komt terecht in een dynamische omgeving waar samenwerking, initiatief en expertise centraal staan. Je denkt analytisch en strategisch, weet stakeholders te overtuigen en communiceert vlot in het Nederlands en het Engels. Je herkent opportuniteiten en zet ze om in concrete acties. Affiniteit met de sector, afvalthema’s en beleidsrapportering is belangrijk.</span></p>",
+        "htmlEncoded": "<p><span>Als beleidsmedewerker binnen de afdeling Afval- en materialenbeheer werk je mee aan het realiseren van de Europese doelstellingen rond de sterke vermindering van voedselafval tegen 2030. Vlaanderen heeft een lange traditie in het beperken van voedselverlies en via het actieplan “Voedselverlies en Biomassa(rest)stromen Circulair” bouw je hier verder op. Samen met je collega’s van het team Bio werk je nauw samen met alle schakels in de voedingsketen en stimuleer je hen om gerichte acties te ondernemen.<br><br></span><span>Je vertaalt data en inzichten over de preventie, productie, inzameling en verwerking van voedselreststromen naar concrete beleidsvoorstellen en -aanpakken. Zo draag je bij aan het voortdurend verbeteren van het beleid om biologische kringlopen te sluiten. Je werkt hiervoor intensief samen met collega’s, partners en beleidsmakers op Vlaams, intergewestelijk, federaal en Europees niveau.<br><br></span><span>Naast voedselverlies krijg je ook andere beleidsthema’s rond biomassa toegewezen. Hierdoor kan je je expertise verder verdiepen, je blik verruimen en verbanden leggen tussen de verschillende domeinen van organisch afvalbeheer en het bredere afvalstoffenbeleid.<br><br></span><span>Je komt terecht in een dynamische omgeving waar samenwerking, initiatief en expertise centraal staan. Je denkt analytisch en strategisch, weet stakeholders te overtuigen en communiceert vlot in het Nederlands en het Engels. Je herkent opportuniteiten en zet ze om in concrete acties. Affiniteit met de sector, afvalthema’s en beleidsrapportering is belangrijk.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19823",
+      "internal": false,
+      "validThroughDate": "1768521600",
+      "hiringOrganization": "Agentschap voor Natuur en Bos",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19823",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Advies- en dossierbehandelaar Vlaams-Brabant"
+      },
+      "displayTitle": "Advies- en dossierbehandelaar Vlaams-Brabant",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een geboren communicator met een hart voor natuur en sta je administratief sterk in je schoenen? Heb je zin om écht het verschil te maken in het bos- en natuurbeheer in Vlaanderen? Dan is deze job iets voor jou!<br><br>Bij de afdeling Adviezen, Vergunningen, Erkenningen en Subsidies van Natuur en Bos zoeken we voor Vlaams-Brabant een dossier- en gegevensbeheerder die met beide voeten in het veld én stevig in de schoenen staat. Je behandelt dossiers rond het natuur- en bosdecreet (zoals kapmachtigingen, ontbossingen en vegetatiewijzigingen).<br><br><strong>Wat ga je doen?</strong></p><ul><li>Je behandelt vergunningsaanvragen en adviesvragen rond onder meer ontbossing, vegetatiewijzigingen en natuurbeheer;</li><li>Je voert terreincontroles uit en vertaalt complexe regelgeving naar heldere, menselijke taal;</li><li>Je communiceert verbindend en oplossingsgericht met burgers en andere stakeholders, ook in uitdagende situaties;</li><li>Je werkt zelfstandig én in nauwe samenwerking met je collega’s;</li><li>Je zorgt voor een vlotte administratie en respecteert wettelijke adviestermijnen.</li></ul><p><strong>Wie zoeken we?</strong><br><br>Een enthousiaste doener met:</p><ul><li>sterke communicatieve vaardigheden – je weet mensen te overtuigen en blijft kalm in moeilijke gesprekken;</li><li>een pragmatische aanpak – je zoekt mee naar oplossingen en denkt in mogelijkheden binnen het wettelijk kader;</li><li>voeling met ecologie en natuurbeheer – idealiter heb je al wat terreinkennis;</li><li>een positieve drive – je straalt goesting uit en wil samen met het team vooruit;</li><li>organisatietalent – je werkt planmatig en stressbestendig richting deadlines;</li><li>een rijbewijs B – je kantoor bevindt zich in Leuven. Je zal af en toe ook op het terrein gaan en daarvoor vertrek je van thuis of vanuit Leuven, afhankelijk van je woonplaats.</li></ul><p>Wil jij mee het verschil maken voor onze bossen en natuur? Solliciteer dan nu en word onze nieuwe dossier- en gegevensbeheerder in Leuven!<br><br>Lees meer over de vacature en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij een geboren communicator met een hart voor natuur en sta je administratief sterk in je schoenen? Heb je zin om écht het verschil te maken in het bos- en natuurbeheer in Vlaanderen? Dan is deze job iets voor jou!<br><br>Bij de afdeling Adviezen, Vergunningen, Erkenningen en Subsidies van Natuur en Bos zoeken we voor Vlaams-Brabant een dossier- en gegevensbeheerder die met beide voeten in het veld én stevig in de schoenen staat. Je behandelt dossiers rond het natuur- en bosdecreet (zoals kapmachtigingen, ontbossingen en vegetatiewijzigingen).<br><br><strong>Wat ga je doen?</strong></p><ul><li>Je behandelt vergunningsaanvragen en adviesvragen rond onder meer ontbossing, vegetatiewijzigingen en natuurbeheer;</li><li>Je voert terreincontroles uit en vertaalt complexe regelgeving naar heldere, menselijke taal;</li><li>Je communiceert verbindend en oplossingsgericht met burgers en andere stakeholders, ook in uitdagende situaties;</li><li>Je werkt zelfstandig én in nauwe samenwerking met je collega’s;</li><li>Je zorgt voor een vlotte administratie en respecteert wettelijke adviestermijnen.</li></ul><p><strong>Wie zoeken we?</strong><br><br>Een enthousiaste doener met:</p><ul><li>sterke communicatieve vaardigheden – je weet mensen te overtuigen en blijft kalm in moeilijke gesprekken;</li><li>een pragmatische aanpak – je zoekt mee naar oplossingen en denkt in mogelijkheden binnen het wettelijk kader;</li><li>voeling met ecologie en natuurbeheer – idealiter heb je al wat terreinkennis;</li><li>een positieve drive – je straalt goesting uit en wil samen met het team vooruit;</li><li>organisatietalent – je werkt planmatig en stressbestendig richting deadlines;</li><li>een rijbewijs B – je kantoor bevindt zich in Leuven. Je zal af en toe ook op het terrein gaan en daarvoor vertrek je van thuis of vanuit Leuven, afhankelijk van je woonplaats.</li></ul><p>Wil jij mee het verschil maken voor onze bossen en natuur? Solliciteer dan nu en word onze nieuwe dossier- en gegevensbeheerder in Leuven!<br><br>Lees meer over de vacature en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
@@ -4089,6 +4269,42 @@
       "description": {
         "raw": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kan je steentje daar aan bijdragen!<br><br> Als projectmedewerker afval- &amp; materialengegevens ben je betrokken in het CMARTLIFE-project. Dit project zorgt voor de implementatie van afvalbeheersplannen, met de nadruk op het kunststoffenplan. Binnen het C-MARTLIFE-project werd een nieuw data-inzamelsysteem voor afvalstoffen- en materialengegevens ontwikkeld: het Materialeninformatiesysteem of MATIS.<br> <br> Je zal MATIS gebruiken om te voldoen aan de rapportageverplichtingen van OVAM en om gegevens over kunststofafval te verzamelen doorheen de hele materiaalketen. Daarnaast zal je ook meewerken aan het kwantificeren van verschillende aspecten van de circulaire economie. Je trekt conclusies uit de ingezamelde data en vertaalt ze naar concrete input ter ondersteuning van het beleid over circulaire economie. Daarnaast ben je in tweede lijn ook contactpersoon voor bedrijven die vragen hebben.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
         "htmlEncoded": "<p><span>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kan je steentje daar aan bijdragen!<br><br> Als projectmedewerker afval- &amp; materialengegevens ben je betrokken in het CMARTLIFE-project. Dit project zorgt voor de implementatie van afvalbeheersplannen, met de nadruk op het kunststoffenplan. Binnen het C-MARTLIFE-project werd een nieuw data-inzamelsysteem voor afvalstoffen- en materialengegevens ontwikkeld: het Materialeninformatiesysteem of MATIS.<br> <br> Je zal MATIS gebruiken om te voldoen aan de rapportageverplichtingen van OVAM en om gegevens over kunststofafval te verzamelen doorheen de hele materiaalketen. Daarnaast zal je ook meewerken aan het kwantificeren van verschillende aspecten van de circulaire economie. Je trekt conclusies uit de ingezamelde data en vertaalt ze naar concrete input ter ondersteuning van het beleid over circulaire economie. Daarnaast ben je in tweede lijn ook contactpersoon voor bedrijven die vragen hebben.<br><br> </span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19687",
+      "internal": false,
+      "validThroughDate": "1769126400",
+      "hiringOrganization": "Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19687",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator uitgebreide producentenverantwoordelijkheid"
+      },
+      "displayTitle": "Coördinator uitgebreide producentenverantwoordelijkheid",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt je steentje daar aan bijdragen!</p><p>Het Interregionaal samenwerkingsakkoord UPV (uitgebreide producentenverantwoordelijkheid) zwerfvuil werd eind 2025 goedgekeurd. Dan begint het grote werk: het onderhandelen van uitvoerende interregionale samenwerkingsakkoorden en de uitwerking van de interregionale samenwerking tussen de gewesten en met het secretariaat van EPRiBEL2. Hier ben jij als coördinator aan zet.</p><p>Als coördinator voor de uitgebreide producentenverantwoordelijkheid fungeer je als aanspreekpunt voor België/Vlaanderen/OVAM om het beleid rond UPV uit te werken. Je takenpakket bestaat uit:</p><p><strong>Op Vlaams niveau:</strong></p><ul><li>Je fungeert als klankbord voor alle OVAM-beleidsmedewerkers UPV en zorgt voor de kwaliteitscontrole bij de opvolging van de UPV’s. Je hebt een helikopterzicht op zowel het Vlaamse als het Europese beleid inzake UPV.</li><li>Je bent binnen OVAM trekker voor de opmaak van de overkoepelende UPV-wetgeving, in afstemming met de staf van de afdeling Afval- en Materialenbeheer.</li><li>Je evalueert de noodzaak tot nieuwe UPV’s en helpt deze mee uitwerken.</li><li>Je organiseert de taskforce UPV.</li><li>Je coördineert de input voor de afdeling Handhaving en het team Terreincontrole inzake UPV.</li><li>Je beoordeelt de financiële plannen van de beheersorganismen of de organisaties voor producentenverantwoordelijkheid.</li><li>Je coördineert de uitgaven van het UPV-fonds</li></ul><p><strong>Op intergewestelijk niveau</strong></p><ul><li>Je neemt deel aan de vergaderingen van het beslissingsorgaan UPV binnen EPRiBEL en verdedigt er de OVAM-standpunten. Binnen dit beslissingsorgaan werk je mee aan:</li></ul><ol><li>de aanpassingen van het Interregionale Samenwerkingsakkoord UPV en zwerfvuil</li><li>uitvoerende Interregionale Samenwerkingsakkoorden om uitvoeringsmodaliteiten vast te leggen of rond specifieke afvalstromen</li><li>de toekenning van erkenningen, goedkeuringen en registraties na onderhandeling</li><li>de opvolging van de lopende erkenningen en goedkeuringen, met bijzondere aandacht voor de financiële analyse</li></ol><ul><li>Je geeft je medewerking bij de uitbouw van een team binnen het secretariaat van EPRiBEL en zorgt mee voor de noodzakelijke opleiding.</li></ul><p><strong>Op Europees/internationaal niveau</strong></p><ul><li>Je verzorgt de OVAM-input voor het internationale beleid rond UPV en promoot het Vlaamse beleid op internationale fora.</li><li>Je volgt de Europese wetgevende initiatieven rond UPV nauw op en werkt het Vlaamse en vervolgens Belgische standpunt uit samen met de andere gewesten en het federale beleidsniveau.</li><li>Je verleent je medewerking aan nieuwe studies rond UPV zowel op Vlaams, federaal, Europees als ander internationaal niveau.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor het voorbereiden en uitvoeren van het Vlaamse afvalstoffen-, materialen- en bodemsaneringsbeleid. Ook jij kunt je steentje daar aan bijdragen!</p><p>Het Interregionaal samenwerkingsakkoord UPV (uitgebreide producentenverantwoordelijkheid) zwerfvuil werd eind 2025 goedgekeurd. Dan begint het grote werk: het onderhandelen van uitvoerende interregionale samenwerkingsakkoorden en de uitwerking van de interregionale samenwerking tussen de gewesten en met het secretariaat van EPRiBEL2. Hier ben jij als coördinator aan zet.</p><p>Als coördinator voor de uitgebreide producentenverantwoordelijkheid fungeer je als aanspreekpunt voor België/Vlaanderen/OVAM om het beleid rond UPV uit te werken. Je takenpakket bestaat uit:</p><p><strong>Op Vlaams niveau:</strong></p><ul><li>Je fungeert als klankbord voor alle OVAM-beleidsmedewerkers UPV en zorgt voor de kwaliteitscontrole bij de opvolging van de UPV’s. Je hebt een helikopterzicht op zowel het Vlaamse als het Europese beleid inzake UPV.</li><li>Je bent binnen OVAM trekker voor de opmaak van de overkoepelende UPV-wetgeving, in afstemming met de staf van de afdeling Afval- en Materialenbeheer.</li><li>Je evalueert de noodzaak tot nieuwe UPV’s en helpt deze mee uitwerken.</li><li>Je organiseert de taskforce UPV.</li><li>Je coördineert de input voor de afdeling Handhaving en het team Terreincontrole inzake UPV.</li><li>Je beoordeelt de financiële plannen van de beheersorganismen of de organisaties voor producentenverantwoordelijkheid.</li><li>Je coördineert de uitgaven van het UPV-fonds</li></ul><p><strong>Op intergewestelijk niveau</strong></p><ul><li>Je neemt deel aan de vergaderingen van het beslissingsorgaan UPV binnen EPRiBEL en verdedigt er de OVAM-standpunten. Binnen dit beslissingsorgaan werk je mee aan:</li></ul><ol><li>de aanpassingen van het Interregionale Samenwerkingsakkoord UPV en zwerfvuil</li><li>uitvoerende Interregionale Samenwerkingsakkoorden om uitvoeringsmodaliteiten vast te leggen of rond specifieke afvalstromen</li><li>de toekenning van erkenningen, goedkeuringen en registraties na onderhandeling</li><li>de opvolging van de lopende erkenningen en goedkeuringen, met bijzondere aandacht voor de financiële analyse</li></ol><ul><li>Je geeft je medewerking bij de uitbouw van een team binnen het secretariaat van EPRiBEL en zorgt mee voor de noodzakelijke opleiding.</li></ul><p><strong>Op Europees/internationaal niveau</strong></p><ul><li>Je verzorgt de OVAM-input voor het internationale beleid rond UPV en promoot het Vlaamse beleid op internationale fora.</li><li>Je volgt de Europese wetgevende initiatieven rond UPV nauw op en werkt het Vlaamse en vervolgens Belgische standpunt uit samen met de andere gewesten en het federale beleidsniveau.</li><li>Je verleent je medewerking aan nieuwe studies rond UPV zowel op Vlaams, federaal, Europees als ander internationaal niveau.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
       },
       "locations": [
         {
