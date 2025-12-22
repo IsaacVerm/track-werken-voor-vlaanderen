@@ -1,10 +1,10 @@
 {
-  "totalItems": 144,
+  "totalItems": 145,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 143,
+  "lastItemOfPage": 144,
   "items": [
     {
       "link": "/Job/vdab-72669243",
@@ -3020,6 +3020,42 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19805",
+      "internal": false,
+      "validThroughDate": "1769558400",
+      "hiringOrganization": "Vlaamse Regulator voor de Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19805",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Gedelegeerd bestuurder Vlaamse Regulator voor de Media"
+      },
+      "displayTitle": "Gedelegeerd bestuurder Vlaamse Regulator voor de Media",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als gedelegeerd bestuurder neem je het dagelijks bestuur waar van de Vlaamse Regulator voor de Media (VRM), ook wel bekend als de onafhankelijk toezichthouder voor de Vlaamse mediasector.</span></p> <p><span>Je stuurt het personeel (22 medewerkers) aan en coördineert de interne werking van de VRM. Je bent verantwoordelijk voor de voorbereiding van de dossiers die aan de kamers worden voorgelegd en voor de uitvoering van de beslissingen van de kamers. Daarnaast vertegenwoordig je de VRM in rechte wat de bevoegdheden van de raad van bestuur betreft en je woont ook de vergaderingen van de kamers binnen de VRM als waarnemer bij.</span></p> <p><span>De rol van de gedelegeerd bestuurder omvat zowel strategische als operationele taken. De coördinatie tussen beleid, uitvoering en externe stakeholders behoort ook tot jouw takenpakket. Je ontwikkelt een strategische beleidsvisie op de werking van de VRM, staat in voor regelmatig overleg met de belanghebbenden uit de mediasector en je bent je bewust van de belangen van de verschillende mediaspelers en -gebruikers. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p> <p><span>Twijfel je of een topfunctie wel iets voor jou is?<br> <a href=\"https://www.vlaanderen.be/informatie-voor-leidinggevenden/panelgesprek-op-weg-naar-de-top-verslag\">Drie topambtenaren getuigen over hun parcours, ervaringen en kijk op de functie.</a><br> Neem zeker een kijkje en ga ervoor als er een vonk is met deze vacature!</span></p>",
+        "htmlEncoded": "<p><span>Als gedelegeerd bestuurder neem je het dagelijks bestuur waar van de Vlaamse Regulator voor de Media (VRM), ook wel bekend als de onafhankelijk toezichthouder voor de Vlaamse mediasector.</span></p> <p><span>Je stuurt het personeel (22 medewerkers) aan en coördineert de interne werking van de VRM. Je bent verantwoordelijk voor de voorbereiding van de dossiers die aan de kamers worden voorgelegd en voor de uitvoering van de beslissingen van de kamers. Daarnaast vertegenwoordig je de VRM in rechte wat de bevoegdheden van de raad van bestuur betreft en je woont ook de vergaderingen van de kamers binnen de VRM als waarnemer bij.</span></p> <p><span>De rol van de gedelegeerd bestuurder omvat zowel strategische als operationele taken. De coördinatie tussen beleid, uitvoering en externe stakeholders behoort ook tot jouw takenpakket. Je ontwikkelt een strategische beleidsvisie op de werking van de VRM, staat in voor regelmatig overleg met de belanghebbenden uit de mediasector en je bent je bewust van de belangen van de verschillende mediaspelers en -gebruikers. </span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p> <p><span>Twijfel je of een topfunctie wel iets voor jou is?<br> <a href=\"https://www.vlaanderen.be/informatie-voor-leidinggevenden/panelgesprek-op-weg-naar-de-top-verslag\">Drie topambtenaren getuigen over hun parcours, ervaringen en kijk op de functie.</a><br> Neem zeker een kijkje en ga ervoor als er een vonk is met deze vacature!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
