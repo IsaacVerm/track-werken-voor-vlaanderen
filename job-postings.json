@@ -1,10 +1,10 @@
 {
-  "totalItems": 161,
+  "totalItems": 162,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 160,
+  "lastItemOfPage": 161,
   "items": [
     {
       "link": "/Job/vdab-72679125",
@@ -110,6 +110,42 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72668880",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72668880",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Backend python ontwikkelaar (Agentschap onroerend erfgoed) via Vlaanderen connect"
+      },
+      "displayTitle": "Backend python ontwikkelaar (Agentschap onroerend erfgoed) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij het agentschap Onroerend Erfgoed gaan we op zoek naar een Python backend ontwikkelaar om ons team te versterken. Samen met collega ontwikkelaars, applicatiebeheerders en analisten bouw je de digitale werking van het agentschap verder uit. Deze gaat van het bouwen van digitale kaarttoepassingen over het aanbieden van een loket om een premie voor beschermd erfgoed aan te vragen tot het bouwen van een AI model om nummerplaten in foto’s te herkennen en blurren.</p> \n<p>Als Python developer bouw je moderne backend systemen die data uit verschillende databronnen (PostgreSQL, Elasticsearch, Redis) ontsluiten via REST-services. De services worden in de eerste plaats gebruikt door interne frontend systemen om data te lezen en te schrijven, maar ook heel vaak bevraagd door externen op zoek naar informatie over onroerend erfgoed. Je schrijft duidelijk leesbare code die goed te onderhouden is en makkelijk uit te breiden is, voldoende gedocumenteerd is en stapt mee in regelmatige code reviews. Zo ontwikkel je performante en duurzame oplossingen die zorgen dat onze data on-the-fly beschikbaar is voor onze klanten en medewerkers en de data-kwaliteit hoog blijft.</p> \n<p>Je komt terecht in een team van ontwikkelaars waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen. We beheren een dertigtal bestaande toepassingen. Naast het onderhoud en de optimalisatie van deze bestaande systemen bouwen we ook nieuwe functionaliteiten en toepassingen.</p> \n<p>Bij de ontwikkeling van nieuwe functionaliteiten en applicaties wordt er per project een multidisciplinair team samengesteld, bestaande uit een analist, een applicatiebeheerder en één of meerdere ontwikkelaars. Samenwerken en kennis delen staan centraal, en elk teamlid draagt vanuit zijn expertise bij aan het succes van de projecten.</p>",
+        "htmlEncoded": "<p>Bij het agentschap Onroerend Erfgoed gaan we op zoek naar een Python backend ontwikkelaar om ons team te versterken. Samen met collega ontwikkelaars, applicatiebeheerders en analisten bouw je de digitale werking van het agentschap verder uit. Deze gaat van het bouwen van digitale kaarttoepassingen over het aanbieden van een loket om een premie voor beschermd erfgoed aan te vragen tot het bouwen van een AI model om nummerplaten in foto’s te herkennen en blurren.</p> \n<p>Als Python developer bouw je moderne backend systemen die data uit verschillende databronnen (PostgreSQL, Elasticsearch, Redis) ontsluiten via REST-services. De services worden in de eerste plaats gebruikt door interne frontend systemen om data te lezen en te schrijven, maar ook heel vaak bevraagd door externen op zoek naar informatie over onroerend erfgoed. Je schrijft duidelijk leesbare code die goed te onderhouden is en makkelijk uit te breiden is, voldoende gedocumenteerd is en stapt mee in regelmatige code reviews. Zo ontwikkel je performante en duurzame oplossingen die zorgen dat onze data on-the-fly beschikbaar is voor onze klanten en medewerkers en de data-kwaliteit hoog blijft.</p> \n<p>Je komt terecht in een team van ontwikkelaars waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen. We beheren een dertigtal bestaande toepassingen. Naast het onderhoud en de optimalisatie van deze bestaande systemen bouwen we ook nieuwe functionaliteiten en toepassingen.</p> \n<p>Bij de ontwikkeling van nieuwe functionaliteiten en applicaties wordt er per project een multidisciplinair team samengesteld, bestaande uit een analist, een applicatiebeheerder en één of meerdere ontwikkelaars. Samenwerken en kennis delen staan centraal, en elk teamlid draagt vanuit zijn expertise bij aan het succes van de projecten.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
