@@ -1,11 +1,47 @@
 {
-  "totalItems": 139,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 138,
+  "lastItemOfPage": 137,
   "items": [
+    {
+      "link": "/Job/vdab-72795524",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72795524",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Business analist (DCJM) via Vlaanderen connect"
+      },
+      "displayTitle": "Business analist (DCJM) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het Verenigingsloket is één van de vier hoofdloketten van de Vlaamse overheid. Het platform ondersteunt verenigingen in Vlaanderen en Brussel bij het vinden en afhandelen van (overheids)dienstverlening, met als doel de administratieve lasten te verlagen voor zowel verenigingen als dienstverleners.</p> \n<p>Sinds de lancering begin 2024 als MVP wordt het Verenigingsloket continu verder uitgebouwd. Nieuwe functionaliteiten worden ontwikkeld in samenhang met bestaande Vlaamse overheidsbouwstenen en op basis van inzichten uit gebruikersonderzoek, testen en samenwerking met verschillende partners. We werken agile en productgericht, met veel aandacht voor de noden van eindgebruikers en de samenhang binnen het bredere digitale overheidslandschap.</p> \n<p>Om dit team te versterken, zijn we op zoek naar een ervaren business analist.</p> \n<p><span>Jouw rol</span></p> \n<p>Als business analist maak je deel uit van een multidisciplinair programmateam. Je werkt mee aan de verdere uitbouw van het Verenigingsloket door businessprocessen te analyseren, behoeften te vertalen naar duidelijke requirements en samen met stakeholders tot gedragen oplossingen te komen.</p> \n<p>Je houdt daarbij rekening met bestaande en geplande ontwikkelingen, integraties met Vlaamse overheidsbouwstenen (zoals ACM/IDM, Notificaties, IPDC, DOSI, …) en de koppeling met het Verenigingsregister.</p> \n<p>Je werkt nauw samen met interne collega’s, externe product owners, projectmanagers en andere betrokken departementen en partners.</p> \n<p><span>Kernverantwoordelijkheden</span></p> \n<ul> \n<li>Verzamelen en analyseren van business requirements via interviews, workshops en documentanalyse</li> \n<li>In kaart brengen en optimaliseren van businessprocessen</li> \n<li>Faciliteren van workshops en werksessies om inzichten te verzamelen, keuzes af te toetsen en oplossingen te valideren</li> \n<li>Vertalen van businessnoden naar duidelijke functionele en niet-functionele requirements</li> \n<li>Detecteren van knelpunten, risico’s en verbetermogelijkheden binnen bestaande processen</li> \n<li>Opstellen van user stories, use cases en acceptatiecriteria voor het ontwikkelteam</li> \n<li>Ondersteunen van ontwikkelteams tijdens de implementatie door het verduidelijken en bewaken van requirements</li> </ul> \n<p>Je wordt ingeschakeld in het programmateam van het Verenigingsloket, dat functioneert onder de vleugels van het Team Transversaal beleid binnen de Afdeling Jeugd, Media en Transversaal Beleid van het Departement Cultuur Jeugd en Media.</p> \n<p>Het Team Transversaal Beleid is een divers team met een 12-tal gemotiveerde collega's, elk met hun eigen expertise, voornamelijk binnen beleidsondersteuning (participatie, cultuur &amp; economie gelijke kansen, digitale transformatie, …).</p>",
+        "htmlEncoded": "<p>Het Verenigingsloket is één van de vier hoofdloketten van de Vlaamse overheid. Het platform ondersteunt verenigingen in Vlaanderen en Brussel bij het vinden en afhandelen van (overheids)dienstverlening, met als doel de administratieve lasten te verlagen voor zowel verenigingen als dienstverleners.</p> \n<p>Sinds de lancering begin 2024 als MVP wordt het Verenigingsloket continu verder uitgebouwd. Nieuwe functionaliteiten worden ontwikkeld in samenhang met bestaande Vlaamse overheidsbouwstenen en op basis van inzichten uit gebruikersonderzoek, testen en samenwerking met verschillende partners. We werken agile en productgericht, met veel aandacht voor de noden van eindgebruikers en de samenhang binnen het bredere digitale overheidslandschap.</p> \n<p>Om dit team te versterken, zijn we op zoek naar een ervaren business analist.</p> \n<p><span>Jouw rol</span></p> \n<p>Als business analist maak je deel uit van een multidisciplinair programmateam. Je werkt mee aan de verdere uitbouw van het Verenigingsloket door businessprocessen te analyseren, behoeften te vertalen naar duidelijke requirements en samen met stakeholders tot gedragen oplossingen te komen.</p> \n<p>Je houdt daarbij rekening met bestaande en geplande ontwikkelingen, integraties met Vlaamse overheidsbouwstenen (zoals ACM/IDM, Notificaties, IPDC, DOSI, …) en de koppeling met het Verenigingsregister.</p> \n<p>Je werkt nauw samen met interne collega’s, externe product owners, projectmanagers en andere betrokken departementen en partners.</p> \n<p><span>Kernverantwoordelijkheden</span></p> \n<ul> \n<li>Verzamelen en analyseren van business requirements via interviews, workshops en documentanalyse</li> \n<li>In kaart brengen en optimaliseren van businessprocessen</li> \n<li>Faciliteren van workshops en werksessies om inzichten te verzamelen, keuzes af te toetsen en oplossingen te valideren</li> \n<li>Vertalen van businessnoden naar duidelijke functionele en niet-functionele requirements</li> \n<li>Detecteren van knelpunten, risico’s en verbetermogelijkheden binnen bestaande processen</li> \n<li>Opstellen van user stories, use cases en acceptatiecriteria voor het ontwikkelteam</li> \n<li>Ondersteunen van ontwikkelteams tijdens de implementatie door het verduidelijken en bewaken van requirements</li> </ul> \n<p>Je wordt ingeschakeld in het programmateam van het Verenigingsloket, dat functioneert onder de vleugels van het Team Transversaal beleid binnen de Afdeling Jeugd, Media en Transversaal Beleid van het Departement Cultuur Jeugd en Media.</p> \n<p>Het Team Transversaal Beleid is een divers team met een 12-tal gemotiveerde collega's, elk met hun eigen expertise, voornamelijk binnen beleidsondersteuning (participatie, cultuur &amp; economie gelijke kansen, digitale transformatie, …).</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72791867",
       "internal": false,
@@ -727,42 +763,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72634935",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72634935",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Senior Procurement Strateeg (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>",
-        "htmlEncoded": "<p><span>Het agentschap Digitaal Vlaanderen is op zoek naar een gedreven en enthousiaste Senior Procurement Strateeg om de afdeling PMO &amp; Organisatie te versterken.</span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je als \n<strong>Senior</strong> \n<strong>Procurement Strateeg </strong>kan bijdragen aan de digitale transformatie van Vlaanderen, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. Voor hen ontwikkelen we hightech oplossingen, bouwstenen en platformen, van loket- en frontoffice-oplossingen tot ICT, beveiliging en data. Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> Op het vlak van open gelinkte data en open datastandaarden zijn we toonaangevend. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken! </span></p> \n<p><strong><span>Jij, als spil in slimme en strategische aankopen</span></strong></p> \n<p><span>Concreet betekent dit:</span></p> \n<p><strong><span>Je begeleidt aankoopdossiers van aanvraag tot levering:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert en coördineert aankopen via raamcontracten en overheidsopdrachten, voor uiteenlopende percelen zoals ICT-diensten, materiaal en externe resources.</span></li> \n<li><span>Je adviseert collega’s over het meest geschikte aankooptraject en schat risico’s in, ook bij wervingen.</span></li> \n<li><span>Je volgt de volledige administratie nauwkeurig op: van werkopdrachten en aanvragen tot gunningsverslagen en IF-documentatie.</span></li> </ul> \n<p><strong><span>Je denkt strategisch mee en verbetert processen:</span></strong><strong></strong></p> \n<ul type=\"disc\"> \n<li><span>Je analyseert interne en externe aankoopnoden en vertaalt die naar slimme aankoopstrategieën.</span></li> \n<li><span>Je denkt proactief mee over nieuwe raamcontracten die beantwoorden aan de noden van vandaag én morgen.</span></li> \n<li><span>Je ondersteunt de aankoopmanager bij het vormgeven en optimaliseren van het centrale aankoopbeleid en -processen.</span></li> </ul> \n<p><strong><span>Je zorgt voor overzicht, grip en kwaliteit:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je volgt het financieel beheer van alle aankopen nauwgezet op.</span></li> \n<li><span>Je houdt de profielencatalogus voor externe medewerkers up-to-date en scherp geprijsd.</span></li> \n<li><span>Je optimaliseert het gebruik van het Managed Service Provider-platform (Connecting Expertise / Public Sourcing).</span></li> </ul> \n<p><strong><span>Je bouwt sterke relaties op:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je beheert actief de relaties met leveranciers en partners, en voert zowel individuele als strategische prijs- en contractonderhandelingen.</span></li> \n<li><span>Je versterkt het stakeholdermanagement: je werkt in tandem met interne teams, collega-aankopers en externe partners om duurzame samenwerking op te bouwen.</span></li> </ul> \n<p><strong><span>Je werkt mee aan innovatieve projecten:</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Je hebt een adviserende rol bij resource-aankopen binnen de verschillende afdelingen.</span></li> \n<li><span>Je vertaalt complexe noden naar concrete oplossingen met maatschappelijke impact.</span></li> \n<li><span>Je krijgt de kans om mee te werken aan een AI Proof of Concept (POC) om de aankoopprocessen efficiënter en slimmer te maken.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72632793",
       "internal": false,
       "validThroughDate": "-1",
@@ -1185,42 +1185,6 @@
       "description": {
         "raw": "<p>Heb je ruime ervaring in business analyse ? Heb je ervaring als teamlead? Zoek je een uitdaging om een analistenteam aan te sturen en te coachen?</p> \n<p>Lees dan verder of deze functie bij je past.</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</p> \n<p>Afdeling Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur.</p> \n<p><span>Het team</span></p> \n<p>Het team bestaat momenteel uit zes analisten. Deze analisten werken mee aan de strategische programma’s van het departement. De afdeling Digitalisering bestaat uit tachtig collega’s die instaan voor softwareontwikkeling, datamanagement, data governance en informatiebeheer, projectbeheer, analyse en architectuur, en IT-infrastructuur.</p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Je eerste hoofdopdracht bestaat erin om de \n<span>werking van je team te ondersteunen</span> in lijn met de strategie en met het governancekader van zowel het departement als van de eigen afdeling. Je voorziet in de nodige planning- en afstemmingsmomenten.</p> \n<p>Je bent de SPOC om de interfaces van je team met alle stakeholders te beheren Je voorziet in de nodige werkafspraken en de opvolging om analysetrajecten op te leveren volgens verwachting.</p> \n<p>· Je bewaakt in overleg met de programmamanagers de masterplanning van je team zodat alle analisten optimaal ingezet worden</p> \n<p>· Je neemt deel aan de reviews van businesscases en projectdefinitie die gehouden worden voor alle projecten teneinde kwaliteit van deze laatste te verhogen.</p> \n<p>Aandachtpunten zijn</p> \n<p>· Duidelijke verwachtingen van de ontwikkelteams over de inhoud en detail van de analyses.</p> \n<p>· Duidelijke verwachtingen m.b.t. projectdefinitie (functionele scope, archivage, datamodellen, GDPR, ....)</p> \n<p><span>Duidelijkheid en transparantie zijn basisprincipes voor een goede werking. Als teamlead zorg je ervoor dat deze principes ingebouwd zijn in de werking.</span></p> \n<p>Je hebt de nodige expertise om methodologische en persoonlijke coaching te verzekeren.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je tweede hoofdopdracht is \n<span>zelf analyses uitvoeren</span>. Dit is nodig om</p> \n<p>· zelf goed inzicht te verzamelen over de werking van het departement</p> \n<p>· goede voorbeelden (best practices) vanuit de praktijk aan te kunnen brengen</p>",
         "htmlEncoded": "<p>Heb je ruime ervaring in business analyse ? Heb je ervaring als teamlead? Zoek je een uitdaging om een analistenteam aan te sturen en te coachen?</p> \n<p>Lees dan verder of deze functie bij je past.</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Het Departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.</p> \n<p>Afdeling Digitalisering staat binnen het Departement Omgeving in voor de digitalisatie van dienstverlening en de optimalisatie van datastromen. Dat doen we door het opzetten van overkoepelende informatiesystemen, referentie- en kruispuntdatabanken, interactieve loketten voor gegevensuitwisseling en het uitbouwen van een geïntegreerde ICT-infrastructuur.</p> \n<p><span>Het team</span></p> \n<p>Het team bestaat momenteel uit zes analisten. Deze analisten werken mee aan de strategische programma’s van het departement. De afdeling Digitalisering bestaat uit tachtig collega’s die instaan voor softwareontwikkeling, datamanagement, data governance en informatiebeheer, projectbeheer, analyse en architectuur, en IT-infrastructuur.</p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Je eerste hoofdopdracht bestaat erin om de \n<span>werking van je team te ondersteunen</span> in lijn met de strategie en met het governancekader van zowel het departement als van de eigen afdeling. Je voorziet in de nodige planning- en afstemmingsmomenten.</p> \n<p>Je bent de SPOC om de interfaces van je team met alle stakeholders te beheren Je voorziet in de nodige werkafspraken en de opvolging om analysetrajecten op te leveren volgens verwachting.</p> \n<p>· Je bewaakt in overleg met de programmamanagers de masterplanning van je team zodat alle analisten optimaal ingezet worden</p> \n<p>· Je neemt deel aan de reviews van businesscases en projectdefinitie die gehouden worden voor alle projecten teneinde kwaliteit van deze laatste te verhogen.</p> \n<p>Aandachtpunten zijn</p> \n<p>· Duidelijke verwachtingen van de ontwikkelteams over de inhoud en detail van de analyses.</p> \n<p>· Duidelijke verwachtingen m.b.t. projectdefinitie (functionele scope, archivage, datamodellen, GDPR, ....)</p> \n<p><span>Duidelijkheid en transparantie zijn basisprincipes voor een goede werking. Als teamlead zorg je ervoor dat deze principes ingebouwd zijn in de werking.</span></p> \n<p>Je hebt de nodige expertise om methodologische en persoonlijke coaching te verzekeren.</p> \n<p>Je trekt waar nodig verbeteringstrajecten om organisatorische en methodische wijzigingen te implementeren.</p> \n<p>Je tweede hoofdopdracht is \n<span>zelf analyses uitvoeren</span>. Dit is nodig om</p> \n<p>· zelf goed inzicht te verzamelen over de werking van het departement</p> \n<p>· goede voorbeelden (best practices) vanuit de praktijk aan te kunnen brengen</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72533612",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72533612",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Security projectleider (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Security projectleider (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>VDAB I&amp;T is een dynamische omgeving van ongeveer 450 medewerkers. Samen werken we met state-of-the-art technologieën aan innovatieve projecten met een directe en positieve impact op de maatschappij.</span></p> \n<p><span>Voor het Security Team binnen I&amp;T zoeken we een gedreven IAM Projectleider / Program Manager.</span></p> \n<p><span>Je komt terecht in een boeiende en uitdagende omgeving. Je ondersteunt de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data. We werken met de nieuwste technologieën en worden geconfronteerd met de laatste IT trends zoals migratie naar cloud, containers en </span><span>DevSecOps.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      De transitie leiden naar een robuuste en toekomstgerichte IAM landschap binnen de organisatie (J2IAM).</p> \n<p>●      Een coördinerende rol opnemen voor alles wat met IAM te maken heeft binnen het Security Team.</p> \n<p>●      Het vertalen van de informatiebeveiliging behoeften van de organisatie naar passende beveiligingsmaatregelen.</p> \n<p><span>Jouw taken</span></p> \n<p>●      Optreden als programmamanager voor de transitie van het IAM landschap (J2IAM)</p> \n<p>●      Opleveren van design documenten ikv J2IAM</p> \n<p>●      Uitvoering van risicoanalyses op strategisch en tactisch organisatorisch niveau, met bijzondere aandacht voor IAM</p> \n<p>●      Uitwerken van beleidsdocumenten op vlak van IAM</p> \n<p>●      Rapportage van het J2IAM tracejt op diverse niveau's, van technisch en niet-technisch personeel tot en met management</p> \n<p><span>Jouw toekomstig team </span></p> \n<p><span>Het securityteam bestaat uit 12 personen en staat onder leiding van de CISO.</span></p> \n<p><span>We werken met de meest recente technologieën voor security doeleinden, zoals bv. Endpoint Detection &amp; Response (EDR), Network Detection &amp; Response (NDR), Privileged Account Management, Network Segregation, Vulnerability Management, App Security testing tools, 24x7 SOC...</span></p>",
-        "htmlEncoded": "<p><span>VDAB I&amp;T is een dynamische omgeving van ongeveer 450 medewerkers. Samen werken we met state-of-the-art technologieën aan innovatieve projecten met een directe en positieve impact op de maatschappij.</span></p> \n<p><span>Voor het Security Team binnen I&amp;T zoeken we een gedreven IAM Projectleider / Program Manager.</span></p> \n<p><span>Je komt terecht in een boeiende en uitdagende omgeving. Je ondersteunt de IT dienstverlening die meer dan 2 miljoen Vlamingen dagelijks aan een job helpt en beveiligt hun data. We werken met de nieuwste technologieën en worden geconfronteerd met de laatste IT trends zoals migratie naar cloud, containers en </span><span>DevSecOps.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p>●      De transitie leiden naar een robuuste en toekomstgerichte IAM landschap binnen de organisatie (J2IAM).</p> \n<p>●      Een coördinerende rol opnemen voor alles wat met IAM te maken heeft binnen het Security Team.</p> \n<p>●      Het vertalen van de informatiebeveiliging behoeften van de organisatie naar passende beveiligingsmaatregelen.</p> \n<p><span>Jouw taken</span></p> \n<p>●      Optreden als programmamanager voor de transitie van het IAM landschap (J2IAM)</p> \n<p>●      Opleveren van design documenten ikv J2IAM</p> \n<p>●      Uitvoering van risicoanalyses op strategisch en tactisch organisatorisch niveau, met bijzondere aandacht voor IAM</p> \n<p>●      Uitwerken van beleidsdocumenten op vlak van IAM</p> \n<p>●      Rapportage van het J2IAM tracejt op diverse niveau's, van technisch en niet-technisch personeel tot en met management</p> \n<p><span>Jouw toekomstig team </span></p> \n<p><span>Het securityteam bestaat uit 12 personen en staat onder leiding van de CISO.</span></p> \n<p><span>We werken met de meest recente technologieën voor security doeleinden, zoals bv. Endpoint Detection &amp; Response (EDR), Network Detection &amp; Response (NDR), Privileged Account Management, Network Segregation, Vulnerability Management, App Security testing tools, 24x7 SOC...</span></p>"
       },
       "locations": [
         {
@@ -1843,42 +1807,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72133251",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72133251",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "tester (Veka) via Vlaanderen connect"
-      },
-      "displayTitle": "tester (Veka) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een tester die niet alleen bugs opspoort, maar ook de gebruikerservaring begrijpt. Iemand die kritisch durft te denken, de juiste vragen stelt en actief zoekt naar wat er beter kan – zelfs als de requirements nog vaag zijn. Je werkt nauw samen met ontwikkelaars, analisten en eindgebruikers om tot het beste resultaat te komen. Testscenario’s opstellen, uitvoeren en bijsturen zit in je vingers – of je leert het snel. Dankzij jouw oog voor detail en nieuwsgierige mindset maken we onze toepassingen elke dag een stukje beter. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als tester ben je verantwoordelijk voor het waarborgen van de kwaliteit van onze softwaretoepassingen. Je voert verschillende soorten tests uit, zoals functionele, integratie- en regressietests, om ervoor te zorgen dat onze producten voldoen aan de hoogste standaarden. Je ontwikkelt gedetailleerde testplannen en zorgt ervoor dat alle testactiviteiten goed gedocumenteerd zijn. Daarnaast werk je aan het automatiseren van tests om de efficiëntie van het testproces te verhogen.</p> \n<p>Je documenteert en rapporteert testresultaten en werkt nauw samen met ontwikkelaars om eventuele problemen op te lossen. Bovendien draag je bij aan de continue verbetering van onze testprocessen en -methoden, zodat we altijd op de hoogte blijven van de nieuwste ontwikkelingen in het vakgebied. </p> \n<p>Je maakt deel uit van projecten, maar levert ook ondersteuning voor bestaande producten en toepassing op basis van de ervaring die je eerder opdeed tijdens die projecten.</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>· Je reviewt specificaties van de nieuwe toepassing en testscenario's. </li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van VEKA</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p> o  de user story volledig en duidelijk is </p> \n<p> o  de opgeleverde functionaliteit de beschreven analyse volgt </p> \n<p> o  de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen </li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die jij of het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> \n<li>Je hebt ervaring met Playwright en Javascrip</li> </ul>",
-        "htmlEncoded": "<p><span>Maak jij graag het verschil tussen IT en business?</span> </p> \n<p>Wij zoeken een tester die niet alleen bugs opspoort, maar ook de gebruikerservaring begrijpt. Iemand die kritisch durft te denken, de juiste vragen stelt en actief zoekt naar wat er beter kan – zelfs als de requirements nog vaag zijn. Je werkt nauw samen met ontwikkelaars, analisten en eindgebruikers om tot het beste resultaat te komen. Testscenario’s opstellen, uitvoeren en bijsturen zit in je vingers – of je leert het snel. Dankzij jouw oog voor detail en nieuwsgierige mindset maken we onze toepassingen elke dag een stukje beter. </p> \n<p><span>Wat ga je doen?</span> </p> \n<p>Als tester ben je verantwoordelijk voor het waarborgen van de kwaliteit van onze softwaretoepassingen. Je voert verschillende soorten tests uit, zoals functionele, integratie- en regressietests, om ervoor te zorgen dat onze producten voldoen aan de hoogste standaarden. Je ontwikkelt gedetailleerde testplannen en zorgt ervoor dat alle testactiviteiten goed gedocumenteerd zijn. Daarnaast werk je aan het automatiseren van tests om de efficiëntie van het testproces te verhogen.</p> \n<p>Je documenteert en rapporteert testresultaten en werkt nauw samen met ontwikkelaars om eventuele problemen op te lossen. Bovendien draag je bij aan de continue verbetering van onze testprocessen en -methoden, zodat we altijd op de hoogte blijven van de nieuwste ontwikkelingen in het vakgebied. </p> \n<p>Je maakt deel uit van projecten, maar levert ook ondersteuning voor bestaande producten en toepassing op basis van de ervaring die je eerder opdeed tijdens die projecten.</p> \n<p><span>Jouw verantwoordelijkheden:</span> </p> \n<ul> \n<li>· Je reviewt specificaties van de nieuwe toepassing en testscenario's. </li> \n<li>Je stelt functionele, technische, validatie- en andere testen op en voert deze uit, conform de teststrategie en standaarden van VEKA</li> \n<li>Je test de nieuwe of aangepaste functionaliteit en verifieert of:</li> </ul> \n<p> o  de user story volledig en duidelijk is </p> \n<p> o  de opgeleverde functionaliteit de beschreven analyse volgt </p> \n<p> o  de functionaliteit in alle omstandigheden correct werkt</p> \n<ul> \n<li>Je maakt de nodige testdocumentatie</li> \n<li>Je registreert testdefecten en rapporteert de testresultaten en de voortgang van de testen </li> \n<li>Je bent betrokken bij automatiseren van testen: je schrijft testcases uit die jij of het ontwikkelteam automatiseert</li> \n<li>Je duikt in de databank om testdata aan te maken of testresultaten te verifiëren. Je schrijft hiervoor SQL-query's.</li> \n<li>Je onderzoekt testdefecten (op test) en bugs (op productie).</li> \n<li>Je verdiept jezelf in jouw vakgebied, via literatuur, opleidingen,… en verbetert zo de kwaliteit van jouw werk en dat van je team.</li> \n<li>Je hebt ervaring met Playwright en Javascrip</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72132887",
       "internal": false,
       "validThroughDate": "-1",
@@ -2013,42 +1941,6 @@
       "description": {
         "raw": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p>Dimensies van de functie:</p> \n<ul> \n<li>Stuurt ICT-projecten aan met hoge complexiteit en/of strategisch belang, die een directe impact hebben op organisatie kritische processen.</li> \n<li>Beschikt over diepgaande kennis van de business en stemt projecten af op de specifieke behoeften en strategische doelen van de klantorganisatie.</li> \n<li>Plant en beheert projecten waarbij zowel korte- als langetermijndoelen worden geborgd.</li> \n<li>Volgt de voortgang van projecten nauwgezet op, bewaakt mijlpalen en budgetten en zorgt voor de inzet van de benodigde middelen.</li> \n<li>Werkt effectief samen met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Zorgt ervoor dat de ICT-dienstverlening van de klantorganisatie op een kwalitatieve en duurzame manier wordt verbeterd.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p>",
         "htmlEncoded": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p>Binnen VEKA wordt een pragmatische aanpak en een hands-on mentaliteit gehanteerd om de voortgang te monitoren en een effectieve samenwerking met alle stakeholders te realiseren</p> \n<p>Dimensies van de functie:</p> \n<ul> \n<li>Stuurt ICT-projecten aan met hoge complexiteit en/of strategisch belang, die een directe impact hebben op organisatie kritische processen.</li> \n<li>Beschikt over diepgaande kennis van de business en stemt projecten af op de specifieke behoeften en strategische doelen van de klantorganisatie.</li> \n<li>Plant en beheert projecten waarbij zowel korte- als langetermijndoelen worden geborgd.</li> \n<li>Volgt de voortgang van projecten nauwgezet op, bewaakt mijlpalen en budgetten en zorgt voor de inzet van de benodigde middelen.</li> \n<li>Werkt effectief samen met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Zorgt ervoor dat de ICT-dienstverlening van de klantorganisatie op een kwalitatieve en duurzame manier wordt verbeterd.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder beslist hoe de bestaande procedures en methodes moeten aangepast worden om de zich nieuw aandienende situatie binnen de bestaande context te integreren. De functiehouder kan de inhoudelijke betekenis van bestaande concepten bijsturen.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72070215",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72070215",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "program manager (VEKA) via Vlaanderen connect"
-      },
-      "displayTitle": "program manager (VEKA) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p><span>Dimensies van de functie</span></p> \n<ul> \n<li>Je coördineert en beheert een portefeuille van diverse ICT-projecten met korte en lange doorlooptijden.</li> \n<li>Je houdt rekening met de behoeften van klanten en richt de projecten zodanig in dat ze een directe impact hebben op organisatie kritische processen en bijdragen aan de strategische doelen van de organisatie.</li> \n<li>Je beschikt over kennis van de business en stemt ICT-oplossingen af op de technologische mogelijkheden en beperkingen, inclusief personeel, budget en tijd.</li> \n<li>Je werkt effectief met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Je zorgt voor een samenhangend en geïntegreerd beleid en beheer van alle ICT-initiatieven en projecten binnen de portefeuille, met een focus op strategische samenhang en efficiëntie.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder kan beslissingen nemen waardoor de tactische betekenis van de bestaande procedures en technieken wijzigt en/of verschuift zo lang er aan het bestaan en het uiteindelijke doel van deze laatste niet wordt geraakt. Dit houdt tevens in dat hij binnen het bestaande kader nieuwe concepten kan toevoegen of de inhoud van de reeds bestaande kan aanpassen.</p> \n<p><span>Resultaatgebieden</span></p> \n<ul> \n<li><span>Resultaatgebied 1</span>: Programma-management</li> \n<li><span>Resultaatgebied 2:</span> Programma-uitvoering en -opvolging. Het opvolgen en begeleiden van de uitvoering van de geplande projecten om te garanderen dat de beoogde resultaten en doelstellingen van het programma succesvol worden behaald</li> \n<li><span>Resultaatgebied 3</span>: Peoplemanagement. Zorgen dat alle projectleden zowel individueel als in teamverband op een efficiënte manier bijdragen aan de realisatie van het programma en de deelprojecten, en hen de benodigde vaardigheden en kennis ontwikkelen om succesvol te presteren</li> \n<li><span>Resultaatgebied 4:</span> Rapporteren. Het rapporteren van de voortgang en de behaalde resultaten van het programma, zodat het management goed geïnformeerd blijft en eventuele bijsturingen tijdig kunnen worden gepland en uitgevoerd</li> \n<li><span>Resultaatgebied 5:</span> Communicatie en samenwerken. Samenwerken met de betrokken stakeholders en opstellen van communicatie-initiatieven om de klanten beter te informeren over het ICT-dienstenaanbod</li> \n<li><span>Resultaatgebied 6</span>: Kennisoverdracht. Het effectief overdragen van het programma naar de organisatie om een succesvolle implementatie van de programma- en projectresultaten te realiseren</li> </ul>",
-        "htmlEncoded": "<p>Het managen van ICT-projecten binnen de vastgestelde scope, tijd en budget, met als doel de kwaliteit van de ICT-dienstverlening binnen de klantorganisatie te optimaliseren. De ICT-programmamanager zorgt voor een gestructureerde aanpak, bewaakt de voortgang en stuurt bij waar nodig. Daarnaast onderhoudt hij of zij een goede samenwerking tussen stakeholders, communiceert transparant over de projectstatus en zorgt ervoor dat de resultaten aansluiten bij de behoeften van de organisatie.</p> \n<p><span>Dimensies van de functie</span></p> \n<ul> \n<li>Je coördineert en beheert een portefeuille van diverse ICT-projecten met korte en lange doorlooptijden.</li> \n<li>Je houdt rekening met de behoeften van klanten en richt de projecten zodanig in dat ze een directe impact hebben op organisatie kritische processen en bijdragen aan de strategische doelen van de organisatie.</li> \n<li>Je beschikt over kennis van de business en stemt ICT-oplossingen af op de technologische mogelijkheden en beperkingen, inclusief personeel, budget en tijd.</li> \n<li>Je werkt effectief met een heterogene groep van belanghebbenden, vaak met tegengestelde belangen, en creëert draagvlak door duidelijke communicatie en belangenafweging.</li> \n<li>Je zorgt voor een samenhangend en geïntegreerd beleid en beheer van alle ICT-initiatieven en projecten binnen de portefeuille, met een focus op strategische samenhang en efficiëntie.</li> </ul> \n<p><span>Autonome beslissingsbevoegdheid:</span></p> \n<p>De functiehouder kan beslissingen nemen waardoor de tactische betekenis van de bestaande procedures en technieken wijzigt en/of verschuift zo lang er aan het bestaan en het uiteindelijke doel van deze laatste niet wordt geraakt. Dit houdt tevens in dat hij binnen het bestaande kader nieuwe concepten kan toevoegen of de inhoud van de reeds bestaande kan aanpassen.</p> \n<p><span>Resultaatgebieden</span></p> \n<ul> \n<li><span>Resultaatgebied 1</span>: Programma-management</li> \n<li><span>Resultaatgebied 2:</span> Programma-uitvoering en -opvolging. Het opvolgen en begeleiden van de uitvoering van de geplande projecten om te garanderen dat de beoogde resultaten en doelstellingen van het programma succesvol worden behaald</li> \n<li><span>Resultaatgebied 3</span>: Peoplemanagement. Zorgen dat alle projectleden zowel individueel als in teamverband op een efficiënte manier bijdragen aan de realisatie van het programma en de deelprojecten, en hen de benodigde vaardigheden en kennis ontwikkelen om succesvol te presteren</li> \n<li><span>Resultaatgebied 4:</span> Rapporteren. Het rapporteren van de voortgang en de behaalde resultaten van het programma, zodat het management goed geïnformeerd blijft en eventuele bijsturingen tijdig kunnen worden gepland en uitgevoerd</li> \n<li><span>Resultaatgebied 5:</span> Communicatie en samenwerken. Samenwerken met de betrokken stakeholders en opstellen van communicatie-initiatieven om de klanten beter te informeren over het ICT-dienstenaanbod</li> \n<li><span>Resultaatgebied 6</span>: Kennisoverdracht. Het effectief overdragen van het programma naar de organisatie om een succesvolle implementatie van de programma- en projectresultaten te realiseren</li> </ul>"
       },
       "locations": [
         {
@@ -2743,6 +2635,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19929",
+      "internal": true,
+      "validThroughDate": "1769644800",
+      "hiringOrganization": "Vlaams Agentschap voor Internationaal Ondernemen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19929",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Chief of Staff"
+      },
+      "displayTitle": "Chief of Staff",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee aan het stuur zitten van een organisatie in volle beweging? Als chief of staff ben jij de strategische rechterhand van de CEO en speel je een sleutelrol in het realiseren van onze ambities. Je combineert een scherpe helikopterblik met daadkracht en weet strategie feilloos om te zetten in concrete resultaten.</p><p> Als verbindende schakel tussen de CEO en interne en externe stakeholders bouw je duurzame relaties uit en zorg je voor heldere, consistente communicatie. Je waakt over onze reputatie en stuurt bij waar nodig, ook in gevoelige of high-impact situaties.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Wil jij mee aan het stuur zitten van een organisatie in volle beweging? Als chief of staff ben jij de strategische rechterhand van de CEO en speel je een sleutelrol in het realiseren van onze ambities. Je combineert een scherpe helikopterblik met daadkracht en weet strategie feilloos om te zetten in concrete resultaten.</p><p> Als verbindende schakel tussen de CEO en interne en externe stakeholders bouw je duurzame relaties uit en zorg je voor heldere, consistente communicatie. Je waakt over onze reputatie en stuurt bij waar nodig, ook in gevoelige of high-impact situaties.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19915",
       "internal": false,
       "validThroughDate": "-1",
@@ -3111,7 +3039,7 @@
       "internal": false,
       "validThroughDate": "1768953600",
       "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": false,
+      "reservedForDisability": true,
       "openPositions": 3,
       "domain": "Administratie",
       "degreeLevel": {
@@ -3441,6 +3369,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19786",
+      "internal": false,
+      "validThroughDate": "1769644800",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Human resources",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19786",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR Manager"
+      },
+      "displayTitle": "HR Manager",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Maak het verschil als HR-Manager bij Digitaal Vlaanderen!</p><p>Iedere digitale transformatie begint bij mensen – en jij laat ze schitteren. Als HR-Manager vertaal je strategie naar actie en creëer je ruimte voor groei en samenwerking. Je leidt het HR-team en bent de verbindende schakel tussen directie en medewerkers.<br data-end=\"325\" data-start=\"322\"></p><p>Met een heldere visie bouw je aan een toekomstgericht HR-beleid, afgestemd op digitalisering. Je bepaalt de koers in talent-, prestatie- en leiderschapsontwikkeling, L&amp;D en welzijn. Je optimaliseert HR-processen en verhoogt de kwaliteit van de interne dienstverlening. Je leidt strategische HR-projecten en anticipeert op toekomstige noden.<br data-end=\"674\" data-start=\"671\"></p><p>Zo maak je Digitaal Vlaanderen én zijn mensen klaar voor morgen.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Maak het verschil als HR-Manager bij Digitaal Vlaanderen!</p><p>Iedere digitale transformatie begint bij mensen – en jij laat ze schitteren. Als HR-Manager vertaal je strategie naar actie en creëer je ruimte voor groei en samenwerking. Je leidt het HR-team en bent de verbindende schakel tussen directie en medewerkers.<br data-end=\"325\" data-start=\"322\"></p><p>Met een heldere visie bouw je aan een toekomstgericht HR-beleid, afgestemd op digitalisering. Je bepaalt de koers in talent-, prestatie- en leiderschapsontwikkeling, L&amp;D en welzijn. Je optimaliseert HR-processen en verhoogt de kwaliteit van de interne dienstverlening. Je leidt strategische HR-projecten en anticipeert op toekomstige noden.<br data-end=\"674\" data-start=\"671\"></p><p>Zo maak je Digitaal Vlaanderen én zijn mensen klaar voor morgen.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
           }
         }
       ]
