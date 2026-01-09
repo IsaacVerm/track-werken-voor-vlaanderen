@@ -1,11 +1,191 @@
 {
-  "totalItems": 141,
+  "totalItems": 139,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 140,
+  "lastItemOfPage": 138,
   "items": [
+    {
+      "link": "/Job/vdab-72791867",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72791867",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Salesforce ontwikkelaar expert (Agentschap Integratie en Inburgering) via Vlaanderen connect"
+      },
+      "displayTitle": "Salesforce ontwikkelaar expert (Agentschap Integratie en Inburgering) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Salesforce Ontwikkelaar Expert bent u de leidende technische kracht die zowel via geavanceerde code als optimale configuratie robuuste en schaalbare oplossingen op het Salesforce Platform ontwerpt, ontwikkelt en beheert. Uw expertise ligt in de implementatie en uitbreiding van Salesforce Public Sector Solutions, met name de functionaliteiten rond Service Cloud en het gebruik van de API-gestuurde integraties via MuleSoft.</p> \n<p>U bent de expert in het bepalen van de juiste technische aanpak (code vs. configuratie) en u fungeert als technische coach en mentor.</p> \n<p>1. Salesforce Oplossingsrealisatie (Code &amp; Configuratie)</p> \n<p><span>• </span>Code Excellence: U schrijft kwalitatieve en performante code met behulp van Apex en/of Lightning Web Components (LWC/Aura) voor complexe, niet-configureerbare functionaliteiten.</p> \n<p><span>• </span>PSS &amp; Service Cloud Implementatie: U implementeert en configureert de Public Sector Solutions (PSS), met een sterke nadruk op de functionaliteiten van Service Cloud (zoals Case Management, Knowledge en de Service Console).</p> \n<p><span>• </span>Declaratieve Expertise: U past het platform optimaal aan met behulp van de modernste declaratie tools, met name Salesforce Flows (voor complexe automatiseringen).</p> \n<p><span>• </span>U leidt of neemt deel aan Agile ceremonies en vertaalt functionele vereisten naar technische ontwerpen.</p> \n<p>2. Integratie en Kwaliteitsborging</p> \n<p><span>• </span>Integratie Gebruik: U bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van de verbindingen van Salesforce met externe systemen, waarbij u de API's en services aanroept die via MuleSoft ter beschikking worden gesteld.</p> \n<p><span>• </span>U voert code reviews uit op de Apex- en Lightning-componenten.</p> \n<p><span>• </span>U draagt bij aan DevOps-praktijken (CI/CD) en bewaakt de naleving van de Salesforce-architectuurprincipes.</p> \n<p>3. Technische Coaching en Kennisdeling</p> \n<p><span>• </span>U fungeert als coach en mentor voor andere Salesforce Ontwikkelaars in het team.</p> \n<p><span>• </span>U bent de go-to expert voor vragen over de optimale inzet van PSS en de nieuwste Salesforce releases.</p> \n<p>4. Onderhoud, Support en Documentatie</p> \n<p><span>• </span>U biedt 3de lijns support bij complexe technische problemen en incidenten.</p> \n<p><span>U creëert en onderhoudt duidelijke en uitgebreide documentatie van de geconfigureerde en gecodeerde oplossingen.</span></p>",
+        "htmlEncoded": "<p>Als Salesforce Ontwikkelaar Expert bent u de leidende technische kracht die zowel via geavanceerde code als optimale configuratie robuuste en schaalbare oplossingen op het Salesforce Platform ontwerpt, ontwikkelt en beheert. Uw expertise ligt in de implementatie en uitbreiding van Salesforce Public Sector Solutions, met name de functionaliteiten rond Service Cloud en het gebruik van de API-gestuurde integraties via MuleSoft.</p> \n<p>U bent de expert in het bepalen van de juiste technische aanpak (code vs. configuratie) en u fungeert als technische coach en mentor.</p> \n<p>1. Salesforce Oplossingsrealisatie (Code &amp; Configuratie)</p> \n<p><span>• </span>Code Excellence: U schrijft kwalitatieve en performante code met behulp van Apex en/of Lightning Web Components (LWC/Aura) voor complexe, niet-configureerbare functionaliteiten.</p> \n<p><span>• </span>PSS &amp; Service Cloud Implementatie: U implementeert en configureert de Public Sector Solutions (PSS), met een sterke nadruk op de functionaliteiten van Service Cloud (zoals Case Management, Knowledge en de Service Console).</p> \n<p><span>• </span>Declaratieve Expertise: U past het platform optimaal aan met behulp van de modernste declaratie tools, met name Salesforce Flows (voor complexe automatiseringen).</p> \n<p><span>• </span>U leidt of neemt deel aan Agile ceremonies en vertaalt functionele vereisten naar technische ontwerpen.</p> \n<p>2. Integratie en Kwaliteitsborging</p> \n<p><span>• </span>Integratie Gebruik: U bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van de verbindingen van Salesforce met externe systemen, waarbij u de API's en services aanroept die via MuleSoft ter beschikking worden gesteld.</p> \n<p><span>• </span>U voert code reviews uit op de Apex- en Lightning-componenten.</p> \n<p><span>• </span>U draagt bij aan DevOps-praktijken (CI/CD) en bewaakt de naleving van de Salesforce-architectuurprincipes.</p> \n<p>3. Technische Coaching en Kennisdeling</p> \n<p><span>• </span>U fungeert als coach en mentor voor andere Salesforce Ontwikkelaars in het team.</p> \n<p><span>• </span>U bent de go-to expert voor vragen over de optimale inzet van PSS en de nieuwste Salesforce releases.</p> \n<p>4. Onderhoud, Support en Documentatie</p> \n<p><span>• </span>U biedt 3de lijns support bij complexe technische problemen en incidenten.</p> \n<p><span>U creëert en onderhoudt duidelijke en uitgebreide documentatie van de geconfigureerde en gecodeerde oplossingen.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72791865",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72791865",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data scientist (Agentschap uitbetaling groeipakket) via Vlaanderen connect"
+      },
+      "displayTitle": "Data scientist (Agentschap uitbetaling groeipakket) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p><strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. \n<strong>Een groot deel van het takenpakket is het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren</strong>. Tegelijk heb je als data scientist ook een rol te vervullen in het samenwerken met de verschillende diensten van het agentschap om \n<strong>noden te detecteren, en samen te komen tot goede en bruikbare oplossingen met behulp van data en AI.</strong></p> \n<p><strong>Je belangrijkste taken zijn:</strong></p> \n<p><span>· </span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</p> \n<p><span>· </span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s.</p> \n<p><span>· </span>Je ondersteunt en begeleidt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</p> \n<p><span>· </span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</p> \n<p><span>· </span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</p> \n<p><span>· </span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</p> \n<p><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>",
+        "htmlEncoded": "<p>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p><strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. \n<strong>Een groot deel van het takenpakket is het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren</strong>. Tegelijk heb je als data scientist ook een rol te vervullen in het samenwerken met de verschillende diensten van het agentschap om \n<strong>noden te detecteren, en samen te komen tot goede en bruikbare oplossingen met behulp van data en AI.</strong></p> \n<p><strong>Je belangrijkste taken zijn:</strong></p> \n<p><span>· </span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</p> \n<p><span>· </span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s.</p> \n<p><span>· </span>Je ondersteunt en begeleidt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</p> \n<p><span>· </span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</p> \n<p><span>· </span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</p> \n<p><span>· </span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</p> \n<p><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72791853",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72791853",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel tester (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Functioneel tester (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>",
+        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72791845",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72791845",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager solution architectuur (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Manager solution architectuur (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>",
+        "htmlEncoded": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72791829",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72791829",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data engineer (Agentschap uitbetaling groeipakket) via Vlaanderen connect"
+      },
+      "displayTitle": "Data engineer (Agentschap uitbetaling groeipakket) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>· </span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>· </span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>· </span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>· </span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>· </span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>· </span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>· </span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>· </span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>· </span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>· </span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>",
+        "htmlEncoded": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data. </span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>· </span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>· </span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>· </span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>· </span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>· </span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>· </span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>· </span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>· </span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>· </span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>· </span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72781322",
       "internal": false,
@@ -295,78 +475,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72669243",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Hendrik Conscience",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72669243",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel tester (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Functioneel tester (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p> </p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>",
-        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p> </p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72669167",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Hendrik Conscience",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72669167",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager solution architectuur (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Manager solution architectuur (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p> </p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p> </p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong><strong></strong></p> \n<p> </p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>",
-        "htmlEncoded": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p> </p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p> </p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong><strong></strong></p> \n<p> </p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72668880",
       "internal": false,
       "validThroughDate": "-1",
@@ -470,114 +578,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72646091",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap Integratie en Inburgering",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72646091",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Salesforce ontwikkelaar expert (Agentschap Integratie en Inburgering) via Vlaanderen connect"
-      },
-      "displayTitle": "Salesforce ontwikkelaar expert (Agentschap Integratie en Inburgering) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Salesforce Ontwikkelaar Expert bent u de leidende technische kracht die zowel via geavanceerde code als optimale configuratie robuuste en schaalbare oplossingen op het Salesforce Platform ontwerpt, ontwikkelt en beheert. Uw expertise ligt in de implementatie en uitbreiding van Salesforce Public Sector Solutions, met name de functionaliteiten rond Service Cloud en het gebruik van de API-gestuurde integraties via MuleSoft.</p> \n<p>U bent de expert in het bepalen van de juiste technische aanpak (code vs. configuratie) en u fungeert als technische coach en mentor.</p> \n<p>1. Salesforce Oplossingsrealisatie (Code &amp; Configuratie)</p> \n<p><span>•\n<span> </span></span>Code Excellence: U schrijft kwalitatieve en performante code met behulp van Apex en/of Lightning Web Components (LWC/Aura) voor complexe, niet-configureerbare functionaliteiten.</p> \n<p><span>•\n<span> </span></span>PSS &amp; Service Cloud Implementatie: U implementeert en configureert de Public Sector Solutions (PSS), met een sterke nadruk op de functionaliteiten van Service Cloud (zoals Case Management, Knowledge en de Service Console).</p> \n<p><span>•\n<span> </span></span>Declaratieve Expertise: U past het platform optimaal aan met behulp van de modernste declaratie tools, met name Salesforce Flows (voor complexe automatiseringen).</p> \n<p><span>•\n<span> </span></span>U leidt of neemt deel aan Agile ceremonies en vertaalt functionele vereisten naar technische ontwerpen.</p> \n<p>2. Integratie en Kwaliteitsborging</p> \n<p><span>•\n<span> </span></span>Integratie Gebruik: U bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van de verbindingen van Salesforce met externe systemen, waarbij u de API's en services aanroept die via MuleSoft ter beschikking worden gesteld.</p> \n<p><span>•\n<span> </span></span>U voert code reviews uit op de Apex- en Lightning-componenten.</p> \n<p><span>•\n<span> </span></span>U draagt bij aan DevOps-praktijken (CI/CD) en bewaakt de naleving van de Salesforce-architectuurprincipes.</p> \n<p>3. Technische Coaching en Kennisdeling</p> \n<p><span>•\n<span> </span></span>U fungeert als coach en mentor voor andere Salesforce Ontwikkelaars in het team.</p> \n<p><span>•\n<span> </span></span>U bent de go-to expert voor vragen over de optimale inzet van PSS en de nieuwste Salesforce releases.</p> \n<p>4. Onderhoud, Support en Documentatie</p> \n<p><span>•\n<span> </span></span>U biedt 3de lijns support bij complexe technische problemen en incidenten.</p> \n<p><span>U creëert en onderhoudt duidelijke en uitgebreide documentatie van de geconfigureerde en gecodeerde oplossingen.</span></p>",
-        "htmlEncoded": "<p>Als Salesforce Ontwikkelaar Expert bent u de leidende technische kracht die zowel via geavanceerde code als optimale configuratie robuuste en schaalbare oplossingen op het Salesforce Platform ontwerpt, ontwikkelt en beheert. Uw expertise ligt in de implementatie en uitbreiding van Salesforce Public Sector Solutions, met name de functionaliteiten rond Service Cloud en het gebruik van de API-gestuurde integraties via MuleSoft.</p> \n<p>U bent de expert in het bepalen van de juiste technische aanpak (code vs. configuratie) en u fungeert als technische coach en mentor.</p> \n<p>1. Salesforce Oplossingsrealisatie (Code &amp; Configuratie)</p> \n<p><span>•\n<span> </span></span>Code Excellence: U schrijft kwalitatieve en performante code met behulp van Apex en/of Lightning Web Components (LWC/Aura) voor complexe, niet-configureerbare functionaliteiten.</p> \n<p><span>•\n<span> </span></span>PSS &amp; Service Cloud Implementatie: U implementeert en configureert de Public Sector Solutions (PSS), met een sterke nadruk op de functionaliteiten van Service Cloud (zoals Case Management, Knowledge en de Service Console).</p> \n<p><span>•\n<span> </span></span>Declaratieve Expertise: U past het platform optimaal aan met behulp van de modernste declaratie tools, met name Salesforce Flows (voor complexe automatiseringen).</p> \n<p><span>•\n<span> </span></span>U leidt of neemt deel aan Agile ceremonies en vertaalt functionele vereisten naar technische ontwerpen.</p> \n<p>2. Integratie en Kwaliteitsborging</p> \n<p><span>•\n<span> </span></span>Integratie Gebruik: U bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van de verbindingen van Salesforce met externe systemen, waarbij u de API's en services aanroept die via MuleSoft ter beschikking worden gesteld.</p> \n<p><span>•\n<span> </span></span>U voert code reviews uit op de Apex- en Lightning-componenten.</p> \n<p><span>•\n<span> </span></span>U draagt bij aan DevOps-praktijken (CI/CD) en bewaakt de naleving van de Salesforce-architectuurprincipes.</p> \n<p>3. Technische Coaching en Kennisdeling</p> \n<p><span>•\n<span> </span></span>U fungeert als coach en mentor voor andere Salesforce Ontwikkelaars in het team.</p> \n<p><span>•\n<span> </span></span>U bent de go-to expert voor vragen over de optimale inzet van PSS en de nieuwste Salesforce releases.</p> \n<p>4. Onderhoud, Support en Documentatie</p> \n<p><span>•\n<span> </span></span>U biedt 3de lijns support bij complexe technische problemen en incidenten.</p> \n<p><span>U creëert en onderhoudt duidelijke en uitgebreide documentatie van de geconfigureerde en gecodeerde oplossingen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72643951",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Belpairegebouw",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72643951",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data scientist (Agentschap uitbetaling groeipakket) via Vlaanderen connect"
-      },
-      "displayTitle": "Data scientist (Agentschap uitbetaling groeipakket) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p><strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. \n<strong>Een groot deel van het takenpakket is het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren</strong>. Tegelijk heb je als data scientist ook een rol te vervullen in het samenwerken met de verschillende diensten van het agentschap om \n<strong>noden te detecteren, en samen te komen tot goede en bruikbare oplossingen met behulp van data en AI.</strong></p> \n<p><strong>Je belangrijkste taken zijn:</strong></p> \n<p><span>· </span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</p> \n<p><span>· </span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s.</p> \n<p><span>· </span>Je ondersteunt en begeleidt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</p> \n<p><span>· </span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</p> \n<p><span>· </span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</p> \n<p><span>· </span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</p> \n<p><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>",
-        "htmlEncoded": "<p>Ben jij de \n<strong>data scientist </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket?</p> \n<p><strong>Het Agentschap Uitbetaling Groeipakket (VUTG)</strong> zoekt een data scientist die waardevolle inzichten haalt uit grote hoeveelheden gestructureerde en ongestructureerde data (‘big data’) met behulp van gespecialiseerde tools, software en zelfgeschreven algoritmes. \n<strong>Een groot deel van het takenpakket is het bouwen van modellen en het maken van voorspellingen door data te analyseren en te extrapoleren</strong>. Tegelijk heb je als data scientist ook een rol te vervullen in het samenwerken met de verschillende diensten van het agentschap om \n<strong>noden te detecteren, en samen te komen tot goede en bruikbare oplossingen met behulp van data en AI.</strong></p> \n<p><strong>Je belangrijkste taken zijn:</strong></p> \n<p><span>· </span>Je analyseert datasets om trends en inzichten te ontdekken die bijdragen aan managementbeslissingen.</p> \n<p><span>· </span>Je ontwikkelt en implementeert algoritmes en modellen op het dataplatform onder begeleiding of met medewerking van collega’s.</p> \n<p><span>· </span>Je ondersteunt en begeleidt stakeholders (onze diensten, technische partners, het management en anderen) bij het definiëren van datagedreven oplossingen die aansluiten op behoeften van de organisatie.</p> \n<p><span>· </span>Je werkt mee aan de succesvolle uitvoering van data science-projecten.</p> \n<p><span>· </span>Je visualiseert data-inzichten en rapporteert deze op een toegankelijke manier.</p> \n<p><span>· </span>Je vergroot continu je eigen kennis van data science-technieken en deelt geleerde inzichten met het team.</p> \n<p><span>Je volgt ontwikkelingen in het vakgebied en doet suggesties voor praktische nieuwe of bijkomende toepassingen in het agentschap.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72643770",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Belpairegebouw",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72643770",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data engineer (Agentschap uitbetaling groeipakket) via Vlaanderen connect"
-      },
-      "displayTitle": "Data engineer (Agentschap uitbetaling groeipakket) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data.\n<span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>",
-        "htmlEncoded": "<p><span>Ben jij de \n<strong>data-engineer </strong>die we zoeken? Wil je een uitdagende job met een breed takenpakket? </span><span><br> </span><strong><span>Het Agentschap Uitbetaling Groeipakket (VUTG)</span></strong><span> zoekt een data-engineer die een expert is in het organiseren van grote hoeveelheden data zodat deze beschikbaar én bruikbaar worden voor analytische doeleinden. De belangrijkste taak van een data engineer is het bepalen, verzamelen, structureren en samenvatten van data. Een data-engineer fungeert als belangrijke schakel tussen alle data die binnenkomt en de eindgebruikers van deze data.\n<span> </span></span></p> \n<p><strong><span>Je belangrijkste taken zijn:</span></strong></p> \n<p><span><span>·\n<span> </span></span></span><span>Scripts ontwikkelen voor het bij elkaar brengen van data uit verschillende bronnen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Analyseren van requirements, ontwerpen, bouwen en bruikbaar maken van datasets. Opzetten van datapipelines op het dataplatform.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Beheren en optimaliseren van datastromen en een enterprise data warehouse.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Testen en valideren van datasets en dataproducten om de kwaliteit en integriteit te waarborgen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Integreren van datamanagement-technologieën en software-engineering in de bestaande omgevingen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Documenteren van de end-to-end oplossing.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Opzetten en mee bewaken van het rechtenmodel van een dataproduct.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Ondersteuning leveren aan de BI-analisten bij het aanmaken van complexe rapporten </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meewerken aan ontwerpen van algoritmes en (machine-learning) modellen.</span></p> \n<p><span><span>·\n<span> </span></span></span><span>Meedenken bij het opstellen van planningen, uitdenken van procesverbeteringen, …</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4405,42 +4405,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19699",
-      "internal": false,
-      "validThroughDate": "1767830400",
-      "hiringOrganization": "Vlaamse Landmaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19699",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Juridisch specialist vastgoed"
-      },
-      "displayTitle": "Juridisch specialist vastgoed",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als juridisch specialist vastgoed sta je centraal in de controle en validatie van dossiers inzake grondverwerving binnen de Vlaamse Landmaatschappij (VLM). Vanuit de verschillende regio’s ontvang je dossiers die jij grondig beoordeelt op volledigheid, juridische correctheid en budgettaire haalbaarheid. Vastgoedrecht, pachtwetgeving en het kadaster vormen daarbij jouw vertrouwde werkdomein.<br><br></span><span>Je zorgt ervoor dat enkel correct onderbouwde en haalbare dossiers worden voorgelegd aan onze gedelegeerd bestuurder en onze raad van bestuur. Na de beslissingen van onze bestuursorganen stuur jij de dossierbehandelaars aan die instaan voor het verdere na-traject.<br><br></span><span>Tijdens het validatieproces werk je nauw samen met collega’s van de dienst grondzaken, onze grondverwervers, de juridische dienst en diverse externe partners zoals lokale besturen, provincies, havenbesturen en het Agentschap Natuur en Bos. Je communiceert vlot, stemt continu af en bouwt constructieve samenwerkingsrelaties op.<br><br></span><span>Met jouw inhoudelijke deskundigheid draag je ook bij aan de opmaak en actualisatie van interne instructies en leidraden. Daarnaast volg je mee de begrotingstechnische en boekhoudkundige impact van goedgekeurde dossiers op en bewaak je de correcte uitvoering van de voorziene budgetten.<br><br></span><span>In deze rol combineer je juridische expertise, administratieve nauwkeurigheid en pragmatisch denkvermogen. Voel je je aangesproken en wil je mee bouwen aan een kwalitatieve grondverwervingswerking? Dan kijken we graag uit naar jouw kandidatuur.</span></p>",
-        "htmlEncoded": "<p><span>Als juridisch specialist vastgoed sta je centraal in de controle en validatie van dossiers inzake grondverwerving binnen de Vlaamse Landmaatschappij (VLM). Vanuit de verschillende regio’s ontvang je dossiers die jij grondig beoordeelt op volledigheid, juridische correctheid en budgettaire haalbaarheid. Vastgoedrecht, pachtwetgeving en het kadaster vormen daarbij jouw vertrouwde werkdomein.<br><br></span><span>Je zorgt ervoor dat enkel correct onderbouwde en haalbare dossiers worden voorgelegd aan onze gedelegeerd bestuurder en onze raad van bestuur. Na de beslissingen van onze bestuursorganen stuur jij de dossierbehandelaars aan die instaan voor het verdere na-traject.<br><br></span><span>Tijdens het validatieproces werk je nauw samen met collega’s van de dienst grondzaken, onze grondverwervers, de juridische dienst en diverse externe partners zoals lokale besturen, provincies, havenbesturen en het Agentschap Natuur en Bos. Je communiceert vlot, stemt continu af en bouwt constructieve samenwerkingsrelaties op.<br><br></span><span>Met jouw inhoudelijke deskundigheid draag je ook bij aan de opmaak en actualisatie van interne instructies en leidraden. Daarnaast volg je mee de begrotingstechnische en boekhoudkundige impact van goedgekeurde dossiers op en bewaak je de correcte uitvoering van de voorziene budgetten.<br><br></span><span>In deze rol combineer je juridische expertise, administratieve nauwkeurigheid en pragmatisch denkvermogen. Voel je je aangesproken en wil je mee bouwen aan een kwalitatieve grondverwervingswerking? Dan kijken we graag uit naar jouw kandidatuur.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19696",
       "internal": false,
       "validThroughDate": "1768348800",
@@ -4539,42 +4503,6 @@
       "description": {
         "raw": "<p>Ben jij de rust in de storm, scherp van geest wanneer de druk stijgt en altijd een stap vooruit?</p><p>\nBij het Crisiscentrum van de Vlaamse overheid (CCVO) krijg je een sleutelrol met echte maatschappelijke impact. Als kenniswerker ben jij de rots in de branding voor collega’s rond crisisbeheer, bedrijfscontinuïteit en strategisch risicomanagement. Je bouwt expertise op, vertaalt complexe materie naar helder advies en versterkt kennisdeling binnen de Vlaamse overheid. Je structureert informatie, beheert een kennisdatabank en ontwikkelt praktische sjablonen en tools. Je organiseert opleidingen, begeleidt buddywerkingen en faciliteert crisisoefeningen met blijvende lessons learned. Je verbindt theorie en praktijk en werkt samen met partners over entiteiten en bestuursniveaus heen.</p><p>\nTijdens crisissituaties sta je mee in de frontlinie als volwaardig lid van het crisismanagementteam. Je bewaart het overzicht, ondersteunt snelle besluitvorming en verbindt crisiscellen waar nodig. Geen dag is hetzelfde: afwisseling, verantwoordelijkheid en samenwerking staan centraal.Klaar om te groeien en écht het verschil te maken wanneer het erop aankomt?</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>",
         "htmlEncoded": "<p>Ben jij de rust in de storm, scherp van geest wanneer de druk stijgt en altijd een stap vooruit?</p><p>\nBij het Crisiscentrum van de Vlaamse overheid (CCVO) krijg je een sleutelrol met echte maatschappelijke impact. Als kenniswerker ben jij de rots in de branding voor collega’s rond crisisbeheer, bedrijfscontinuïteit en strategisch risicomanagement. Je bouwt expertise op, vertaalt complexe materie naar helder advies en versterkt kennisdeling binnen de Vlaamse overheid. Je structureert informatie, beheert een kennisdatabank en ontwikkelt praktische sjablonen en tools. Je organiseert opleidingen, begeleidt buddywerkingen en faciliteert crisisoefeningen met blijvende lessons learned. Je verbindt theorie en praktijk en werkt samen met partners over entiteiten en bestuursniveaus heen.</p><p>\nTijdens crisissituaties sta je mee in de frontlinie als volwaardig lid van het crisismanagementteam. Je bewaart het overzicht, ondersteunt snelle besluitvorming en verbindt crisiscellen waar nodig. Geen dag is hetzelfde: afwisseling, verantwoordelijkheid en samenwerking staan centraal.Klaar om te groeien en écht het verschil te maken wanneer het erop aankomt?</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19658",
-      "internal": false,
-      "validThroughDate": "1767830400",
-      "hiringOrganization": "Vlaamse Landmaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19658",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Specialist schattingsmethodieken en procesondersteuner"
-      },
-      "displayTitle": "Specialist schattingsmethodieken en procesondersteuner",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De vacature situeert zich binnen het secretariaat van de landcommissies. Deze commissies staan in voor de meer uitvoerende taken van het decreet landinrichting, waaronder het bepalen van vergoedingen bij waardeverlies van gronden, bedrijfsverplaatsingen en herverkavelingen. Daarnaast behandelen ze ook de aanvragen voor flankerend beleid PAS (Programmatische Aanpak Stikstof) en maken ze de schade- en meerwaarderapporten op in het kader van het instrumentendecreet.<br><br></span><span>De Vlaamse Landmaatschappij (VLM) verzorgt het secretariaat van deze landcommissies. De regionale secretariaten bereiden de zittingen en dossiers voor. Het centrale secretariaat ondersteunt hen, bewaakt de uniforme werking en garandeert de kwaliteit van de dossiers.<br><br></span><span>Als specialist schattingsmethodieken en procesondersteuner maak je deel uit van het centraal secretariaat. Je vervult daarbij een dubbelrol:<br><br><strong>&nbsp;</strong></span><span><strong>Ondersteunen van de schatters :</strong><br><br></span><span>Je bent zelf geen schatter, maar ondersteunt een tiental schatters in de regio's bij het uitvoeren van hun taken. Je staat in voor :</span></p> <ul><li><span>Het uitwerken van templates conform geldende wetgeving en interne richtlijnen</span></li><li><span>&nbsp;</span>Het evalueren en verder uitwerken van schattingsmethodieken</li><li>De ondersteuning bij de ontwikkeling en het onderhoud van digitale schattingstools</li><li>Het opstellen en communiceren van richtlijnen</li><li>Het bewaken van een uniforme interpretatie en toepassing binnen de regionale secretariaten</li><li>Het organiseren van overlegmomenten</li></ul> <p><span><strong>Ondersteunen van inhoudelijke processen van de landcommissies :</strong><br><br>D</span><span>aarnaast werk je mee aan de verdere ontwikkeling van de processen binnen de landcommissies. Dit omvat :</span></p> <ul><li>Het&nbsp;opstellen en bijhouden van modeldocumenten en werkinstructies</li><li>Het bieden van ondersteuning bij inhoudelijke vragen rond procedures en interpretatie van wetgeving</li><li>Het opvolgen van relevante wetgeving</li><li>Het ondersteunen van de ontwikkeling en het onderhoud van het digitale aanvraagloket</li></ul>",
-        "htmlEncoded": "<p><span>De vacature situeert zich binnen het secretariaat van de landcommissies. Deze commissies staan in voor de meer uitvoerende taken van het decreet landinrichting, waaronder het bepalen van vergoedingen bij waardeverlies van gronden, bedrijfsverplaatsingen en herverkavelingen. Daarnaast behandelen ze ook de aanvragen voor flankerend beleid PAS (Programmatische Aanpak Stikstof) en maken ze de schade- en meerwaarderapporten op in het kader van het instrumentendecreet.<br><br></span><span>De Vlaamse Landmaatschappij (VLM) verzorgt het secretariaat van deze landcommissies. De regionale secretariaten bereiden de zittingen en dossiers voor. Het centrale secretariaat ondersteunt hen, bewaakt de uniforme werking en garandeert de kwaliteit van de dossiers.<br><br></span><span>Als specialist schattingsmethodieken en procesondersteuner maak je deel uit van het centraal secretariaat. Je vervult daarbij een dubbelrol:<br><br><strong>&nbsp;</strong></span><span><strong>Ondersteunen van de schatters :</strong><br><br></span><span>Je bent zelf geen schatter, maar ondersteunt een tiental schatters in de regio's bij het uitvoeren van hun taken. Je staat in voor :</span></p> <ul><li><span>Het uitwerken van templates conform geldende wetgeving en interne richtlijnen</span></li><li><span>&nbsp;</span>Het evalueren en verder uitwerken van schattingsmethodieken</li><li>De ondersteuning bij de ontwikkeling en het onderhoud van digitale schattingstools</li><li>Het opstellen en communiceren van richtlijnen</li><li>Het bewaken van een uniforme interpretatie en toepassing binnen de regionale secretariaten</li><li>Het organiseren van overlegmomenten</li></ul> <p><span><strong>Ondersteunen van inhoudelijke processen van de landcommissies :</strong><br><br>D</span><span>aarnaast werk je mee aan de verdere ontwikkeling van de processen binnen de landcommissies. Dit omvat :</span></p> <ul><li>Het&nbsp;opstellen en bijhouden van modeldocumenten en werkinstructies</li><li>Het bieden van ondersteuning bij inhoudelijke vragen rond procedures en interpretatie van wetgeving</li><li>Het opvolgen van relevante wetgeving</li><li>Het ondersteunen van de ontwikkeling en het onderhoud van het digitale aanvraagloket</li></ul>"
       },
       "locations": [
         {
