@@ -1,11 +1,47 @@
 {
-  "totalItems": 119,
+  "totalItems": 120,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 118,
+  "lastItemOfPage": 119,
   "items": [
+    {
+      "link": "/Job/vdab-72821739",
+      "internal": false,
+      "validThroughDate": "1769990400",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Gezondheid",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72821739",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Vaktherapeut"
+      },
+      "displayTitle": "Vaktherapeut",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span lang=\"NL\">Jouw rol</span></strong></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je biedt zowel individuele en groepsgerichte muziektherapie</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je voert intakes en observaties uit om de hulpvraag van zorgvragers in kaart te brengen</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je stelt muziektherapeutische behandelplannen op, voert ze uit en evalueert ze in samenwerking met \n<br> het interdisciplinaire team.</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je legt de voortgang en evaluaties van het individuele behandelproces vast in het patiëntendossier</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je stimuleert zorgvragers vanuit jouw vakgebied om de regie te nemen over hun persoonlijke proces</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je werkt nauw samen binnen een interdisciplinair team om aangepaste, kwalitatieve behandeling en \n<br> zorg te leveren</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Het begrip presentie is jou vertrouwd: je benadert zorgvragers als gelijkwaardige partners, met respect \n<br> en oprechte aandacht.</span></p> \n<p>- Je neemt actief deel aan overlegmomenten</p>",
+        "htmlEncoded": "<p><strong><span lang=\"NL\">Jouw rol</span></strong></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je biedt zowel individuele en groepsgerichte muziektherapie</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je voert intakes en observaties uit om de hulpvraag van zorgvragers in kaart te brengen</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je stelt muziektherapeutische behandelplannen op, voert ze uit en evalueert ze in samenwerking met \n<br> het interdisciplinaire team.</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je legt de voortgang en evaluaties van het individuele behandelproces vast in het patiëntendossier</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je stimuleert zorgvragers vanuit jouw vakgebied om de regie te nemen over hun persoonlijke proces</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Je werkt nauw samen binnen een interdisciplinair team om aangepaste, kwalitatieve behandeling en \n<br> zorg te leveren</span></p> \n<p><span lang=\"NL\">· </span><span lang=\"NL\">Het begrip presentie is jou vertrouwd: je benadert zorgvragers als gelijkwaardige partners, met respect \n<br> en oprechte aandacht.</span></p> \n<p>- Je neemt actief deel aan overlegmomenten</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72795524",
       "internal": false,
