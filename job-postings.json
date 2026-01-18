@@ -1,10 +1,10 @@
 {
-  "totalItems": 104,
+  "totalItems": 103,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 103,
+  "lastItemOfPage": 102,
   "items": [
     {
       "link": "/Job/vdab-72836140",
@@ -506,42 +506,6 @@
         {
           "address": {
             "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72679125",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Sport Vlaanderen Willebroek",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Onderhoud",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72679125",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Medewerker schoonmaak"
-      },
-      "displayTitle": "Medewerker schoonmaak",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br>Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig met de ondersteuning van logistieke voorbereiding van activiteiten of als domeinwachter.</p>",
-        "htmlEncoded": "<p>Werk je graag als \n<strong>schoonmaakmedewerker</strong> in een sportieve context? \n<br>Vind je een goede \n<strong>samenwerking en klantvriendelijkheid</strong> belangrijk? \n<br>Dan ben jij de persoon die wij zoeken.</p> \n<p>Je wordt ingeschakeld in het schoonmaakteam van het sportverblijf waardoor je de kamers van het verblijf, alsook de lokalen en sanitaire ruimtes zal mogen poetsen.</p> \n<p>Anderzijds help je wanneer nodig met de ondersteuning van logistieke voorbereiding van activiteiten of als domeinwachter.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Willebroek"
           }
         }
       ]
