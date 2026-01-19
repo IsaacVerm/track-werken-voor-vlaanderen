@@ -1,11 +1,47 @@
 {
-  "totalItems": 98,
+  "totalItems": 101,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 97,
+  "lastItemOfPage": 100,
   "items": [
+    {
+      "link": "/Job/vdab-72858458",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72858458",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect"
+      },
+      "displayTitle": "QA Ontwikkelaar (WEWIS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
+        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72856840",
       "internal": false,
@@ -2475,6 +2511,72 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19918",
+      "internal": false,
+      "validThroughDate": "1770336000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19918",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamverantwoordelijke justitiehuizen"
+      },
+      "displayTitle": "Teamverantwoordelijke justitiehuizen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je ervaring in een justitiële of forensische context en een sterke drang naar leiderschap? Dan biedt deze functie jou de kans om je leidinggevende talenten te ontplooien!<br> <br> Voor diverse justitiehuizen in regio Oost- en West-Vlaanderen zijn wij op zoek naar teamverantwoordelijken met uitstekende people managementvaardigheden. Als teamverantwoordelijke ben jij de drijvende kracht achter je team. Je coacht, inspireert en zorgt ervoor dat jouw team de juiste koers vaart. Verantwoordelijkheid nemen en het belang van de organisatie staan voor jou centraal. Je bent gedreven in het balanceren van verschillende aspecten die ervoor zorgen dat beslissingen effectief worden geïmplementeerd en je team succesvol opereert. Kwaliteit is jouw stokpaardje en je draagt bij aan een cultuur van kennisdeling en uniforme dienstverlening binnen de afdeling.<br> <br> Als teamverantwoordelijke stuur je een team van medewerkers aan dat verantwoordelijk is voor een of meerdere kernopdrachten: strafrechtelijke opdrachten, opdrachten in het kader van slachtofferonthaal en burgerrechtelijke opdrachten.<br> <br> Het Agentschap Justitie en Handhaving legt een werfreserve aan voor de functie van teamverantwoordelijke justitiehuizen regio Oost- en West-Vlaanderen.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Heb je ervaring in een justitiële of forensische context en een sterke drang naar leiderschap? Dan biedt deze functie jou de kans om je leidinggevende talenten te ontplooien!<br> <br> Voor diverse justitiehuizen in regio Oost- en West-Vlaanderen zijn wij op zoek naar teamverantwoordelijken met uitstekende people managementvaardigheden. Als teamverantwoordelijke ben jij de drijvende kracht achter je team. Je coacht, inspireert en zorgt ervoor dat jouw team de juiste koers vaart. Verantwoordelijkheid nemen en het belang van de organisatie staan voor jou centraal. Je bent gedreven in het balanceren van verschillende aspecten die ervoor zorgen dat beslissingen effectief worden geïmplementeerd en je team succesvol opereert. Kwaliteit is jouw stokpaardje en je draagt bij aan een cultuur van kennisdeling en uniforme dienstverlening binnen de afdeling.<br> <br> Als teamverantwoordelijke stuur je een team van medewerkers aan dat verantwoordelijk is voor een of meerdere kernopdrachten: strafrechtelijke opdrachten, opdrachten in het kader van slachtofferonthaal en burgerrechtelijke opdrachten.<br> <br> Het Agentschap Justitie en Handhaving legt een werfreserve aan voor de functie van teamverantwoordelijke justitiehuizen regio Oost- en West-Vlaanderen.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Kortrijk"
+          }
+        },
+        {
+          "address": {
+            "city": "Veurne"
+          }
+        },
+        {
+          "address": {
+            "city": "Ieper"
+          }
+        },
+        {
+          "address": {
+            "city": "Dendermonde"
+          }
+        },
+        {
+          "address": {
+            "city": "Oudenaarde"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19915",
       "internal": false,
       "validThroughDate": "-1",
@@ -3565,6 +3667,52 @@
         {
           "address": {
             "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-18456",
+      "internal": false,
+      "validThroughDate": "1770595200",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 5,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-18456",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar taxatie erfbelasting"
+      },
+      "displayTitle": "Dossierbehandelaar taxatie erfbelasting",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij bent iemand die graag de touwtjes in handen neemt en nauwkeurig te werk gaat. Jij haalt voldoening uit het grondig behandelen van dossiers, waarbij je analytisch nadenkt en pragmatisch handelt. Je werkt zelfstandig, houdt overzicht en zorgt ervoor dat elk dossier tijdig en tot in de puntjes verzorgd wordt. Collega’s weten jou te vinden als betrouwbaar aanspreekpunt, en waar mogelijk draag jij bij aan verbeteringen en optimalisaties binnen je werkproces.</span></p><p><span>Als dossierbehandelaar taxatie erfbelasting kan jij de meer complexere erfbelastingdossiers zelfstandig behandelen. Je volgt duidelijke procedures, wetgeving, richtlijnen en checklists, zodat je weloverwogen beslissingen kunt nemen. Je behandelt vragen en telefoontjes over jouw dossiers professioneel en klantgericht, en je draagt actief bij aan een efficiënte en hoogwaardige dienstverlening. Dankzij jouw inzet verlopen dossiers soepel en blijft alles netjes op koers, terwijl jij de inhoudelijke controle behoudt en altijd oog hebt voor detail.</span></p><p><span><b>Momenteel zijn wij op zoek naar collega’s voor de volgende standplaatsen:</b></span></p><ul><li><span><b>2 collega’s voor standplaats Hasselt</b></span></li><li><span><b>1 collega’s voor standplaats Brugge</b></span></li><li><span><b> 2 collega’s voor standplaats Leuven </b></span></li></ul><p><span><b>&nbsp;</b>Klinkt dit als jouw volgende uitdaging? Stap in de wereld van erfbelasting en draag bij aan dossiers die er écht toe doen, samen met een betrokken team. </span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>Vul hier de vacaturetekst in het kort in",
+        "htmlEncoded": "<p><span>Jij bent iemand die graag de touwtjes in handen neemt en nauwkeurig te werk gaat. Jij haalt voldoening uit het grondig behandelen van dossiers, waarbij je analytisch nadenkt en pragmatisch handelt. Je werkt zelfstandig, houdt overzicht en zorgt ervoor dat elk dossier tijdig en tot in de puntjes verzorgd wordt. Collega’s weten jou te vinden als betrouwbaar aanspreekpunt, en waar mogelijk draag jij bij aan verbeteringen en optimalisaties binnen je werkproces.</span></p><p><span>Als dossierbehandelaar taxatie erfbelasting kan jij de meer complexere erfbelastingdossiers zelfstandig behandelen. Je volgt duidelijke procedures, wetgeving, richtlijnen en checklists, zodat je weloverwogen beslissingen kunt nemen. Je behandelt vragen en telefoontjes over jouw dossiers professioneel en klantgericht, en je draagt actief bij aan een efficiënte en hoogwaardige dienstverlening. Dankzij jouw inzet verlopen dossiers soepel en blijft alles netjes op koers, terwijl jij de inhoudelijke controle behoudt en altijd oog hebt voor detail.</span></p><p><span><b>Momenteel zijn wij op zoek naar collega’s voor de volgende standplaatsen:</b></span></p><ul><li><span><b>2 collega’s voor standplaats Hasselt</b></span></li><li><span><b>1 collega’s voor standplaats Brugge</b></span></li><li><span><b> 2 collega’s voor standplaats Leuven </b></span></li></ul><p><span><b>&nbsp;</b>Klinkt dit als jouw volgende uitdaging? Stap in de wereld van erfbelasting en draag bij aan dossiers die er écht toe doen, samen met een betrokken team. </span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>Vul hier de vacaturetekst in het kort in"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
           }
         }
       ]
