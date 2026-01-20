@@ -1,11 +1,47 @@
 {
-  "totalItems": 101,
+  "totalItems": 100,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 100,
+  "lastItemOfPage": 99,
   "items": [
+    {
+      "link": "/Job/vdab-72871260",
+      "internal": false,
+      "validThroughDate": "1770681600",
+      "hiringOrganization": "Openbaar Psychiatrisch Zorgcentrum",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Gezondheid",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72871260",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Verpleegkundige"
+      },
+      "displayTitle": "Verpleegkundige",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span lang=\"NL\">Jouw rol</span></strong></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je biedt elke zorgvrager intensieve, warme zorg, afgestemd op zijn of haar behoeften en in lijn met de\n<br> behandelfilosofie van de zorgeenheid.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je kijkt naar het geheel: je signaleert somatische problemen en betrekt naasten en het netwerk actief\n<br> bij de zorg.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jou toegewezen zorgvragers op</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je stimuleert zorgvragers om de regie te nemen over hun persoonlijke proces</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je werkt nauw samen binnen een interdisciplinair team om aangepaste, kwalitatieve behandeling en\n<br> zorg te leveren</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Het begrip presentie is jou vertrouwd: je benadert zorgvragers als gelijkwaardige partners, met respect\n<br> en oprechte aandacht.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je neemt actief deel aan overlegmomenten</span></p>",
+        "htmlEncoded": "<p><strong><span lang=\"NL\">Jouw rol</span></strong></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je biedt elke zorgvrager intensieve, warme zorg, afgestemd op zijn of haar behoeften en in lijn met de\n<br> behandelfilosofie van de zorgeenheid.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je kijkt naar het geheel: je signaleert somatische problemen en betrekt naasten en het netwerk actief\n<br> bij de zorg.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Als mentor neem je het casemanagement van de aan jou toegewezen zorgvragers op</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je stimuleert zorgvragers om de regie te nemen over hun persoonlijke proces</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je werkt nauw samen binnen een interdisciplinair team om aangepaste, kwalitatieve behandeling en\n<br> zorg te leveren</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Het begrip presentie is jou vertrouwd: je benadert zorgvragers als gelijkwaardige partners, met respect\n<br> en oprechte aandacht.</span></p> \n<p><span lang=\"NL\"><span>·\n<span> </span></span></span><span lang=\"NL\">Je neemt actief deel aan overlegmomenten</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Rekem"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72858458",
       "internal": false,
@@ -1591,42 +1627,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-71883893",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71883893",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "BI data engineer (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "BI data engineer (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren (Microsoft) BI data engineer om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI-team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 7 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI-team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij Wonen in Vlaanderen zijn we op zoek naar een ervaren (Microsoft) BI data engineer om ons Business Intelligence (BI) team te versterken. Je speelt een sleutelrol in een goed draaiend BI-team dat diverse business afdelingen en het beleid actief ondersteunt om hun analytische rapporteringsbehoeften optimaal in te vullen.</span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Dit houdt o.a. in: zorgen voor voldoende sociale woningen en stimuleren van kwalitatief, duurzaam en energie-efficiënt wonen.</span></p> \n<p><span>Binnen een ICT-dienst van een 80-tal specialisten kom je terecht in een hecht BI-team van 7 personen. Dit team werkt nauw samen met het team Kennisbeheer en met diverse business diensten om de (analytische) rapporteringsbehoeften van gebruikers, management en beleid zo goed mogelijk in te vullen.</span><span>Het BI-team onderhoudt een enterprise data warehouse volgens de regels van de kunst, en ondersteunt business experten en het Vlaamse woonbeleid door middel van data marts, tools en expertise. Je werkt 1 of 2 dagen per week in het moderne VAC gebouw in Brussel en krijgt verder alle faciliteiten om vlot van thuis uit werken.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-71765604",
       "internal": false,
       "validThroughDate": "-1",
@@ -2049,42 +2049,6 @@
       "description": {
         "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een \n<strong>Consultant Gegevensbescherming</strong> ter versterking van de Partnerdienst Gegevensbescherming. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je deel uitmaakt van een echte gemeenschap van vakspecialisten en waarbij je bij verschillende organisaties tewerk kan worden gesteld? </span></p> \n<p><span>Heb jij reeds ervaring als specialist gegevensbescherming of Data Protection Officer en ben je op zoek naar een uitdaging waar je kan meewerken aan een ruim gamma van projecten in jouw vakgebied? \n<br> Dan ben jij misschien onze ideale kandidaat!!</span></p> \n<p><strong><span> </span></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Als Consultant Gegevensbescherming kom je terecht bij de Partnerdienst Gegevensbescherming die vanuit Digitaal Vlaanderen de Vlaamse Overheid een centraal expertisecentrum aanbiedt m.b.t. gegevensbescherming.\n<br> In deze gemeenschap van experten staan klankbordsessies, opleidingen en kennisdeling centraal en kan je ook de expertise vinden die eigen is aan de Vlaamse Overheid.\n<br> \n<br> Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken. </span></span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Consultant Gegevensbescherming begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Het is mogelijk dat je hierbij de rol van Data Protection Officer (DPO) opneemt. </span></p> \n<p><span> </span></p> \n<p><span>Daarnaast kan je ook gevraagd worden concrete begeleiding in verband met gegevensbescherming bij projecten te geven (zoals de opmaak van een gegevensbeschermingseffectbeoordeling), ofwel maak je deel uit van een groter gegevensbeschermingsteam.</span></p> \n<p><span> </span></p> \n<p><span>Je ziet onder andere toe op de naleving van de AVG, je adviseert en informeert de organisatie over gegevensbescherming, je ziet toe op de aanmaak van de nodige documentatie. Je maakt overeenkomsten op (verwerkersovereenkomst, protocol, …) en onderhandelt hierover met de wederpartij. \n<br> Als je als DPO bent aangesteld, adviseer en rapporteer je rechtstreeks aan de leidend ambtenaar. \n<br> Dan voer je bovendien de taken uit zoals bedoeld in artikel 39 van de AVG vanuit een onafhankelijke en onpartijdige positie.</span></p> \n<p><span> </span></p> \n<p><span>Je behandelt vragen van betrokkenen en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p>",
         "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een \n<strong>Consultant Gegevensbescherming</strong> ter versterking van de Partnerdienst Gegevensbescherming. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je deel uitmaakt van een echte gemeenschap van vakspecialisten en waarbij je bij verschillende organisaties tewerk kan worden gesteld? </span></p> \n<p><span>Heb jij reeds ervaring als specialist gegevensbescherming of Data Protection Officer en ben je op zoek naar een uitdaging waar je kan meewerken aan een ruim gamma van projecten in jouw vakgebied? \n<br> Dan ben jij misschien onze ideale kandidaat!!</span></p> \n<p><strong><span> </span></strong></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Als Consultant Gegevensbescherming kom je terecht bij de Partnerdienst Gegevensbescherming die vanuit Digitaal Vlaanderen de Vlaamse Overheid een centraal expertisecentrum aanbiedt m.b.t. gegevensbescherming.\n<br> In deze gemeenschap van experten staan klankbordsessies, opleidingen en kennisdeling centraal en kan je ook de expertise vinden die eigen is aan de Vlaamse Overheid.\n<br> \n<br> Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken. </span></span></p> \n<p><strong><span>Wat is jouw opdracht?</span></strong></p> \n<p><span>Als Consultant Gegevensbescherming begeleid je de organisatie op vlak van de toepassing en de naleving van de wet- en regelgeving in verband met de verwerking van persoonsgegevens, in het bijzonder de Algemene Verordening Gegevensbescherming (AVG). Het is mogelijk dat je hierbij de rol van Data Protection Officer (DPO) opneemt. </span></p> \n<p><span> </span></p> \n<p><span>Daarnaast kan je ook gevraagd worden concrete begeleiding in verband met gegevensbescherming bij projecten te geven (zoals de opmaak van een gegevensbeschermingseffectbeoordeling), ofwel maak je deel uit van een groter gegevensbeschermingsteam.</span></p> \n<p><span> </span></p> \n<p><span>Je ziet onder andere toe op de naleving van de AVG, je adviseert en informeert de organisatie over gegevensbescherming, je ziet toe op de aanmaak van de nodige documentatie. Je maakt overeenkomsten op (verwerkersovereenkomst, protocol, …) en onderhandelt hierover met de wederpartij. \n<br> Als je als DPO bent aangesteld, adviseer en rapporteer je rechtstreeks aan de leidend ambtenaar. \n<br> Dan voer je bovendien de taken uit zoals bedoeld in artikel 39 van de AVG vanuit een onafhankelijke en onpartijdige positie.</span></p> \n<p><span> </span></p> \n<p><span>Je behandelt vragen van betrokkenen en je staat in voor eventuele contacten met de bevoegde toezichthoudende autoriteit.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20134",
-      "internal": false,
-      "validThroughDate": "1768953600",
-      "hiringOrganization": "Departement Onderwijs en Vorming",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Onderwijs",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20134",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Organisatieondersteuner Vlaamse Toetsen"
-      },
-      "displayTitle": "Organisatieondersteuner Vlaamse Toetsen",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben\nje gepassioneerd door onderwijs en wil meebouwen aan een sterk beleid?\nUitdagende projecten geven je energie en je werkt graag met vernieuwende\nonderwijsthema’s? <br>Als\nhet antwoord ‘ja’ is op deze vragen, dan ben jij misschien de persoon die we\nzoeken! <br><br>Binnen\nde afdeling Strategie en Kennis maak je deel uit van het team Vlaamse Toetsen.<br><br>Het\nteam is verantwoordelijk voor de verdere uitrol van de Vlaamse toetsen, het\nimplementeren van eventueel nieuw beleid rond de Vlaamse toetsen en voor de\npraktische organisatie van de afname van de toetsen in 2026 bij 225.000\nleerlingen in bijna 3.600 scholen. <br>Binnen\nhet team ondersteun je mee de praktische organisatie van de Vlaamse toetsen en\nsta je mee in voor de communicatie richting het onderwijsveld. Je ondersteunt\nhet team bij de uitvoering van hun taken.",
-        "htmlEncoded": "Ben\nje gepassioneerd door onderwijs en wil meebouwen aan een sterk beleid?\nUitdagende projecten geven je energie en je werkt graag met vernieuwende\nonderwijsthema’s? <br>Als\nhet antwoord ‘ja’ is op deze vragen, dan ben jij misschien de persoon die we\nzoeken! <br><br>Binnen\nde afdeling Strategie en Kennis maak je deel uit van het team Vlaamse Toetsen.<br><br>Het\nteam is verantwoordelijk voor de verdere uitrol van de Vlaamse toetsen, het\nimplementeren van eventueel nieuw beleid rond de Vlaamse toetsen en voor de\npraktische organisatie van de afname van de toetsen in 2026 bij 225.000\nleerlingen in bijna 3.600 scholen. <br>Binnen\nhet team ondersteun je mee de praktische organisatie van de Vlaamse toetsen en\nsta je mee in voor de communicatie richting het onderwijsveld. Je ondersteunt\nhet team bij de uitvoering van hun taken."
       },
       "locations": [
         {
@@ -2750,8 +2714,8 @@
       "displayTitle": "Analist energiebesparingen en hernieuwbare energie",
       "isProtected": false,
       "description": {
-        "raw": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het [Vlaams Energie- en Klimaatagentschap (VEKA)](https://www.vlaanderen.be/veka) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het [Vlaams Energie- en Klimaatagentschap (VEKA)](https://www.vlaanderen.be/veka) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
+        "raw": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het Vlaams Energie- en Klimaatagentschap (VEKA) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
+        "htmlEncoded": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het Vlaams Energie- en Klimaatagentschap (VEKA) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
       },
       "locations": [
         {
