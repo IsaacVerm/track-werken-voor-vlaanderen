@@ -1,11 +1,47 @@
 {
-  "totalItems": 100,
+  "totalItems": 99,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 99,
+  "lastItemOfPage": 98,
   "items": [
+    {
+      "link": "/Job/vdab-72874795",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72874795",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner overheidsopdrachten (AWV) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner overheidsopdrachten (AWV) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De Pijler Contracten biedt ondersteuning en expertise voor alle contracten (overheidsopdrachten) van het Agentschap Wegen en Verkeer.</p> \n<p>De functie product owner overheidsopdrachten zorgt voor het end-to-end beheer van applicaties, inclusief het waken over ontwikkeling en exploitatie. Dat doe je o.a. door</p> \n<p>een goed begrip van de klantenbehoeften, kansen te identificeren en de productlevenscyclus te sturen. Je bewaakt de prioriteiten, rapporteert voortgang en optimaliseert processen. Je zorgt ook voor een goede informatiedoorstroming, kennisdeling en ondersteuning van de eindgebruikers.</p> \n<p>De applicatie OverheidsOpdrachten (OO) wordt intern in AWV ontwikkeld en zal zorgen voor een optimaal contractmanagementsysteem. De release van het Minimum Viable Product van OO is gepland in het voorjaar van 2026. Daarna volgt de verdere ontwikkeling. Daarnaast zijn we sterk betrokken in de ontwikkeling van verschillende applicaties gerelateerd aan onze processen overheidsopdrachten binnen het beleidsdomein Mobiliteit en Openbare Werken (o.a. eDelta (registratie), eRio (rapportering), eContracting). We maken verder ook gebruik van applicaties ontwikkeld door de federale overheid (o.a. eProcurement, eDepo).</p> \n<p>Je doelen als product owner overheidsopdrachten realiseer je niet alleen, maar samen met je collega’s van de pijler contracten en van de afdeling ICT en Innovatie. Je kan steeds op iedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km fietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met iedereen</p> \n<p>Het Agentschap Wegen en Verkeer wil dé toonaangevende, toekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor van veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid komt bij ons steeds op de eerste plaats. Agentschap Wegen en Verkeer zet sterk in op kwaliteit en is een asset gedreven organisatie. We willen onze middelen en assets zo optimaal en efficiënt mogelijk beheren en inzetten, in lijn met ISO-normeringen.</p> \n<p>We zijn een doe-agentschap en binnen de afdeling centrale dienstverlening, waar jij terecht komt, spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>",
+        "htmlEncoded": "<p>De Pijler Contracten biedt ondersteuning en expertise voor alle contracten (overheidsopdrachten) van het Agentschap Wegen en Verkeer.</p> \n<p>De functie product owner overheidsopdrachten zorgt voor het end-to-end beheer van applicaties, inclusief het waken over ontwikkeling en exploitatie. Dat doe je o.a. door</p> \n<p>een goed begrip van de klantenbehoeften, kansen te identificeren en de productlevenscyclus te sturen. Je bewaakt de prioriteiten, rapporteert voortgang en optimaliseert processen. Je zorgt ook voor een goede informatiedoorstroming, kennisdeling en ondersteuning van de eindgebruikers.</p> \n<p>De applicatie OverheidsOpdrachten (OO) wordt intern in AWV ontwikkeld en zal zorgen voor een optimaal contractmanagementsysteem. De release van het Minimum Viable Product van OO is gepland in het voorjaar van 2026. Daarna volgt de verdere ontwikkeling. Daarnaast zijn we sterk betrokken in de ontwikkeling van verschillende applicaties gerelateerd aan onze processen overheidsopdrachten binnen het beleidsdomein Mobiliteit en Openbare Werken (o.a. eDelta (registratie), eRio (rapportering), eContracting). We maken verder ook gebruik van applicaties ontwikkeld door de federale overheid (o.a. eProcurement, eDepo).</p> \n<p>Je doelen als product owner overheidsopdrachten realiseer je niet alleen, maar samen met je collega’s van de pijler contracten en van de afdeling ICT en Innovatie. Je kan steeds op iedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km fietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met iedereen</p> \n<p>Het Agentschap Wegen en Verkeer wil dé toonaangevende, toekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor van veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid komt bij ons steeds op de eerste plaats. Agentschap Wegen en Verkeer zet sterk in op kwaliteit en is een asset gedreven organisatie. We willen onze middelen en assets zo optimaal en efficiënt mogelijk beheren en inzetten, in lijn met ISO-normeringen.</p> \n<p>We zijn een doe-agentschap en binnen de afdeling centrale dienstverlening, waar jij terecht komt, spelen we kort op de bal in onze projecten. Dankzij onze positiviteit en open geest vinden we steeds oplossingen voor onverwachte dingen. En van problemen onderweg leren we bij. De open communicatiecultuur en een aangename werksfeer typeren ons. Jouw welzijn is daarin altijd prioritair.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72871260",
       "internal": false,
@@ -146,42 +182,6 @@
         {
           "address": {
             "city": "Rekem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72826049",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72826049",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Programma verantwoordelijke (AWV) via Vlaanderen connect"
-      },
-      "displayTitle": "Programma verantwoordelijke (AWV) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p>Je komt terecht in de de pijler Digitalisering binnen de afdeling ICT en Innovatie. Deze bestaat onder meer uit 5 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p><span>Functie beschrijving en verwachtingen</span></p> \n<p>Wij zijn op zoek naar een (medior/senior) Programma - en Project Manager die een cruciale rol speelt in het coördineren van strategische programma's en het ondersteunen van agile IT software ontwikkelteams bij realisatie.</p> \n<p>In deze hybride rol werk je samen met initiatief eigenaren, toepassing eigenaren, applicatie beheerders aan het ontwikkelen van een visie en relevante ideeën die bijdragen aan het behalen van onze doelstellingen.</p> \n<p>Vervolgens werk je samen met de betrokken ontwikkelteams voor de implementatie van deze ideeën, met aandacht voor de scoping en de raakvlakken tussen de verschillende applicaties binnen ons applicatielandschap.</p> \n<p><span>Wat verwachten we van je?</span></p> \n<p>Programma Management</p> \n<ul> \n<li>Sterke focus op alignering, bruggen bouwen en win-win situaties.</li> \n<li>Ontwikkel en beheer de programma roadmap in lijn met de strategische doelstellingen van de organisatie, in samenspraak met de business.</li> \n<li>Faciliteer de afstemming tussen initiatief eigenaren, toepassing eigenaren en applicatie beheerders om synergie en samenwerking te bevorderen.</li> \n<li>Is in staat om onderlinge opportuniteiten en (business) raakvlakken met andere programma verantwoordelijken in kaart te brengen.</li> \n<li>Monitor de voortgang van programma's en rapporteer over de status, financiële aspecten, risico's en knelpunten aan het management.</li> </ul> \n<p>Project Management</p> \n<ul> \n<li>Aligneert het inplannen van de IT-teams samen met de team leads, architectuur en de andere programma verantwoordelijken.</li> \n<li>Heeft de capaciteit om conflicten te (bij)sturen en bij escalaties adequaat te handelen.</li> \n<li>Zorgt voor een E2E opvolging van projecten volgens prioritering binnen de programma roadmap en bewaakt het kritieke pad.</li> \n<li>Houdt het budget in de gaten en zorgt voor een tijdige en accurate rapportage.</li> \n<li>Ondersteunt bij verandering en zorgt voor een soepele adoptie bij realisatie binnen de organisatie.</li> </ul> \n<p><strong><span>Waar ga je werken</span></strong></p> \n<p><span>Het kantoor bevindt zich op korte wandelafstand van het station Brussel Noord, in het Marie-Elisabeth Belpaire gebouw.\n<span> </span>We werken 2 vaste dagen - maandag en donderdag - fysiek op kantoor.</span></p>",
-        "htmlEncoded": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p>Je komt terecht in de de pijler Digitalisering binnen de afdeling ICT en Innovatie. Deze bestaat onder meer uit 5 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p><span>Functie beschrijving en verwachtingen</span></p> \n<p>Wij zijn op zoek naar een (medior/senior) Programma - en Project Manager die een cruciale rol speelt in het coördineren van strategische programma's en het ondersteunen van agile IT software ontwikkelteams bij realisatie.</p> \n<p>In deze hybride rol werk je samen met initiatief eigenaren, toepassing eigenaren, applicatie beheerders aan het ontwikkelen van een visie en relevante ideeën die bijdragen aan het behalen van onze doelstellingen.</p> \n<p>Vervolgens werk je samen met de betrokken ontwikkelteams voor de implementatie van deze ideeën, met aandacht voor de scoping en de raakvlakken tussen de verschillende applicaties binnen ons applicatielandschap.</p> \n<p><span>Wat verwachten we van je?</span></p> \n<p>Programma Management</p> \n<ul> \n<li>Sterke focus op alignering, bruggen bouwen en win-win situaties.</li> \n<li>Ontwikkel en beheer de programma roadmap in lijn met de strategische doelstellingen van de organisatie, in samenspraak met de business.</li> \n<li>Faciliteer de afstemming tussen initiatief eigenaren, toepassing eigenaren en applicatie beheerders om synergie en samenwerking te bevorderen.</li> \n<li>Is in staat om onderlinge opportuniteiten en (business) raakvlakken met andere programma verantwoordelijken in kaart te brengen.</li> \n<li>Monitor de voortgang van programma's en rapporteer over de status, financiële aspecten, risico's en knelpunten aan het management.</li> </ul> \n<p>Project Management</p> \n<ul> \n<li>Aligneert het inplannen van de IT-teams samen met de team leads, architectuur en de andere programma verantwoordelijken.</li> \n<li>Heeft de capaciteit om conflicten te (bij)sturen en bij escalaties adequaat te handelen.</li> \n<li>Zorgt voor een E2E opvolging van projecten volgens prioritering binnen de programma roadmap en bewaakt het kritieke pad.</li> \n<li>Houdt het budget in de gaten en zorgt voor een tijdige en accurate rapportage.</li> \n<li>Ondersteunt bij verandering en zorgt voor een soepele adoptie bij realisatie binnen de organisatie.</li> </ul> \n<p><strong><span>Waar ga je werken</span></strong></p> \n<p><span>Het kantoor bevindt zich op korte wandelafstand van het station Brussel Noord, in het Marie-Elisabeth Belpaire gebouw.\n<span> </span>We werken 2 vaste dagen - maandag en donderdag - fysiek op kantoor.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -861,42 +861,6 @@
       "description": {
         "raw": "<p>Ben jij een gedreven leider met een passie voor IT-projecten en Agile-methodologie? Wil je een sleutelrol spelen in het realiseren van complexe trajecten binnen een dynamische omgeving? Dan zijn wij op zoek naar jou!</p> \n<p>Als ervaren ICT-projectleider bij het Agentschap voor Natuur en Bos zorg je voor het succes van digitale projecten die bijdragen aan een groenere en duurzamere toekomst. Jij bent de drijvende kracht achter het plannen, coördineren en realiseren van innovatieve IT-oplossingen binnen scope, tijd en budget. Je brengt structuur en overzicht in complexe trajecten en zorgt dat alle betrokkenen – van interne teams tot externe partners – op één lijn zitten. Met jouw expertise in Agile/Scrum en Prince2 leid je multidisciplinaire teams en stuur je stuurgroepen met overtuiging. Je houdt risico’s onder controle, rapporteert helder over voortgang en resultaten, en beweegt je moeiteloos in technische omgevingen zoals .NET, Angular, AWS/Azure en PowerBI. Dankzij jouw communicatieve kracht en hands-on mentaliteit lever je oplossingen die niet alleen processen verbeteren, maar ook de missie van ANB ondersteunen: natuur beschermen en toegankelijk maken voor iedereen.</p> \n<p><span>Jouw rol</span></p> \n<p>Als Projectleider en Scrum Master ben jij het centrale aanspreekpunt voor één of meerdere domeinen en afdelingen. Je zorgt voor het opstellen, presenteren en opvolgen van multi-projectroadmaps en bewaakt de samenhang tussen diverse trajecten.</p> \n<ul> \n<li>Je werkt projectvoorstellen uit van idee tot concreet project en begeleidt het volledige traject.</li> \n<li>Je organiseert inspirerende hackathons om innovatie en samenwerking binnen de teams te stimuleren.</li> \n<li>Je faciliteert een vlotte samenwerking en communicatie met een breed scala aan functies en rollen.</li> \n<li>Je integreert change requests en onderhoudsopdrachten in onze scrumwerking.</li> \n<li>Je beheert efficiënt de inzet van gedeelde resources en werkt nauw samen met business- en functioneel analisten en Product Owners.</li> </ul>",
         "htmlEncoded": "<p>Ben jij een gedreven leider met een passie voor IT-projecten en Agile-methodologie? Wil je een sleutelrol spelen in het realiseren van complexe trajecten binnen een dynamische omgeving? Dan zijn wij op zoek naar jou!</p> \n<p>Als ervaren ICT-projectleider bij het Agentschap voor Natuur en Bos zorg je voor het succes van digitale projecten die bijdragen aan een groenere en duurzamere toekomst. Jij bent de drijvende kracht achter het plannen, coördineren en realiseren van innovatieve IT-oplossingen binnen scope, tijd en budget. Je brengt structuur en overzicht in complexe trajecten en zorgt dat alle betrokkenen – van interne teams tot externe partners – op één lijn zitten. Met jouw expertise in Agile/Scrum en Prince2 leid je multidisciplinaire teams en stuur je stuurgroepen met overtuiging. Je houdt risico’s onder controle, rapporteert helder over voortgang en resultaten, en beweegt je moeiteloos in technische omgevingen zoals .NET, Angular, AWS/Azure en PowerBI. Dankzij jouw communicatieve kracht en hands-on mentaliteit lever je oplossingen die niet alleen processen verbeteren, maar ook de missie van ANB ondersteunen: natuur beschermen en toegankelijk maken voor iedereen.</p> \n<p><span>Jouw rol</span></p> \n<p>Als Projectleider en Scrum Master ben jij het centrale aanspreekpunt voor één of meerdere domeinen en afdelingen. Je zorgt voor het opstellen, presenteren en opvolgen van multi-projectroadmaps en bewaakt de samenhang tussen diverse trajecten.</p> \n<ul> \n<li>Je werkt projectvoorstellen uit van idee tot concreet project en begeleidt het volledige traject.</li> \n<li>Je organiseert inspirerende hackathons om innovatie en samenwerking binnen de teams te stimuleren.</li> \n<li>Je faciliteert een vlotte samenwerking en communicatie met een breed scala aan functies en rollen.</li> \n<li>Je integreert change requests en onderhoudsopdrachten in onze scrumwerking.</li> \n<li>Je beheert efficiënt de inzet van gedeelde resources en werkt nauw samen met business- en functioneel analisten en Product Owners.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72581826",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72581826",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Bedrijfs- en functioneel analist (AWV) via Vlaanderen connect"
-      },
-      "displayTitle": "Bedrijfs- en functioneel analist (AWV) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern).</p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 5 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Combi BA/FA</span></p> \n<p>Als analist binnen één van onze 5 IT maatwerk ontwikkel teams neem je de combi rol op van bedrijfs- en functioneel analist. Als bedrijfsanalist werk je nauw samen met stakeholders binnen het initiatief en zet je mede je schouders onder het vormen van de visie en nieuwe trajecten. Als functioneel analist werk je binnen het ontwikkelteam om de functionaliteiten van het track uit te schrijven en realiseren. Deze combi rol kan een 30%-70% (BA-FA) verdeling zijn.</p> \n<p><span>Doel BA</span></p> \n<p>Als business analist - of bedrijfsanalist - verdiep je je in de business processen van één of meerdere business domeinen van het agentschap. Je zet je schouders onder een specifiek vraagstuk en gaat de uitdaging aan om dit uit te werken.</p> \n<p>Je bakent grenzen af - in samenspraak met de betrokken stakeholders - en verkent in een vervolgstadium samen met de solution architect mogelijke oplossingsrichtingen welke inschat- en realiseerbaar zijn door de betrokken IT-teams. Een oplossingsrichting kan zowel business procesmatig als IT-matig zijn.</p> \n<p>Een afgestemde en gedocumenteerde consensus van scope en prioritering hiervan is het ultieme doel.</p> \n<p>Je begrijpt de motivatie van een behoefte en je bent in staat een rationele kosten/baten argumentatie uit te zetten.</p> \n<p>Je gaat hierbij constructief en diplomatisch te werk om tot een gedragen akkoord te komen met alle betrokken stakeholders.</p> \n<p>Daarnaast participeer je constructief aan interne verbetertrajecten, zodoende de maturiteit van onze ICT werking samen te optimaliseren.</p> \n<p><span>Doel FA</span></p> \n<p>Als functioneel analist sta je in voor het opmaken, implementeren en opvolgen van functionele analyses voor ICT toepassingen. Je vormt hierbij de schakel tussen business en IT. Je bent verantwoordelijk voor de doorvertaling van de business noden naar een functioneel ontwerp.</p> \n<p>Je hebt hiervoor op regelmatige tijdstippen overleg met de eindgebruikers, collega-analisten en het UX team. Je werkt nauw samen met de leden van het IT-team waarin je zal terechtkomen.</p> \n<p>Er wordt gewerkt volgens een agile/SCRUM methodologie, waarbij je als analist nauw samenwerkt met de product owner, het project management office (PMO) en het ontwikkelteam. Je bent samen met de product owner verantwoordelijk voor het beheer van de backlog, het uitwerken van de user stories - rekening houdende met het budget - en de kwaliteitscontrole van het resultaat.</p>",
-        "htmlEncoded": "<p>Het Agentschap Wegen en Verkeer beheert ongeveer 7000 km gewest- en autosnelwegen en ruim 6700 km fietspaden.</p> \n<p>Je komt terecht in een centrale afdeling die een sturende en coördinerende rol opneemt wat betreft IT beheer en ontwikkelingen binnen AWV context (intern en extern).</p> \n<p>De afdeling waarin je terechtkomt bestaat onder meer uit 5 IT ontwikkel teams waarin een vlakke structuur, professionaliteit, transparantie en openheid hoog in het vaandel worden gedragen.</p> \n<p>Meer algemene informatie over het Agentschap Wegen en Verkeer is te vinden via de website www.wegenenverkeer.be.</p> \n<p><span>Combi BA/FA</span></p> \n<p>Als analist binnen één van onze 5 IT maatwerk ontwikkel teams neem je de combi rol op van bedrijfs- en functioneel analist. Als bedrijfsanalist werk je nauw samen met stakeholders binnen het initiatief en zet je mede je schouders onder het vormen van de visie en nieuwe trajecten. Als functioneel analist werk je binnen het ontwikkelteam om de functionaliteiten van het track uit te schrijven en realiseren. Deze combi rol kan een 30%-70% (BA-FA) verdeling zijn.</p> \n<p><span>Doel BA</span></p> \n<p>Als business analist - of bedrijfsanalist - verdiep je je in de business processen van één of meerdere business domeinen van het agentschap. Je zet je schouders onder een specifiek vraagstuk en gaat de uitdaging aan om dit uit te werken.</p> \n<p>Je bakent grenzen af - in samenspraak met de betrokken stakeholders - en verkent in een vervolgstadium samen met de solution architect mogelijke oplossingsrichtingen welke inschat- en realiseerbaar zijn door de betrokken IT-teams. Een oplossingsrichting kan zowel business procesmatig als IT-matig zijn.</p> \n<p>Een afgestemde en gedocumenteerde consensus van scope en prioritering hiervan is het ultieme doel.</p> \n<p>Je begrijpt de motivatie van een behoefte en je bent in staat een rationele kosten/baten argumentatie uit te zetten.</p> \n<p>Je gaat hierbij constructief en diplomatisch te werk om tot een gedragen akkoord te komen met alle betrokken stakeholders.</p> \n<p>Daarnaast participeer je constructief aan interne verbetertrajecten, zodoende de maturiteit van onze ICT werking samen te optimaliseren.</p> \n<p><span>Doel FA</span></p> \n<p>Als functioneel analist sta je in voor het opmaken, implementeren en opvolgen van functionele analyses voor ICT toepassingen. Je vormt hierbij de schakel tussen business en IT. Je bent verantwoordelijk voor de doorvertaling van de business noden naar een functioneel ontwerp.</p> \n<p>Je hebt hiervoor op regelmatige tijdstippen overleg met de eindgebruikers, collega-analisten en het UX team. Je werkt nauw samen met de leden van het IT-team waarin je zal terechtkomen.</p> \n<p>Er wordt gewerkt volgens een agile/SCRUM methodologie, waarbij je als analist nauw samenwerkt met de product owner, het project management office (PMO) en het ontwikkelteam. Je bent samen met de product owner verantwoordelijk voor het beheer van de backlog, het uitwerken van de user stories - rekening houdende met het budget - en de kwaliteitscontrole van het resultaat.</p>"
       },
       "locations": [
         {
