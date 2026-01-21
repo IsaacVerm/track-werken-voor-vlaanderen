@@ -1,11 +1,47 @@
 {
-  "totalItems": 99,
+  "totalItems": 104,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 98,
+  "lastItemOfPage": 103,
   "items": [
+    {
+      "link": "/Job/vdab-72878165",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72878165",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Devops ontwikkelaar (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Devops ontwikkelaar (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Devos ontwikkelaar ter versterking van de Data platform afdeling en dit binnen het Centraal Team.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je aan de digitale transformatie van Vlaanderen werkt , dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op \n<span>#partner, #ontzorgen en #éénteam</span>.</p> \n<p>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen. </p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Binnen Digitaal Vlaanderen is het Centraal Team van de afdeling Dataplatform verantwoordelijk voor het operationeel houden van de toepassingen van de afdeling. De afdeling dataplatform zorgt voor een basiskaart voor Vlaanderen, betrouwbare dataregisters, naadloze data-integratie, inzichtelijke data-analyses en een uitmuntende datagovernance. We zorgen dat data vindbaar, toegankelijk, interoperabel en herbruikbaar zijn en verzekeren de kwaliteit en de veiligheid ervan om innovatie, een efficiëntere dienstverlening en strategische besluitvorming van onze partners te bevorderen.</p> \n<p>Het Centraal Team monitort en onderhoudt bestaande infrastructuur en containers. Via het Azure dataplatform identificeren, ontgrendelen en koppelen we de data, die nodig is voor de digitale transformatie van Vlaanderen.</p> \n<p>Als Devops ontwikkelaar ben je binnen het Centraal Team verantwoordelijk voor het beheer, exploitatie en evolutie van de bestaande Azure infrastructuur, volgens de principes van DevOps en Platform Engineering. Dit voor de bouwstenen Geopunt, Download en Datavindplaats.</p> \n<p>De kernverantwoordelijkheid van de Devops ontwikkelaar is verantwoordelijkheid nemen voor het beheer en de exploitatie van het nieuwe data platform, het beheer van de stromen op het platform en de verdere optimalisatie en doorontwikkelingen.</p> \n<p>Je takenpakket zal onder andere bestaan uit:</p> \n<p>·       Het verder uitbouwen en schalen van de infrastructuur van het dataplatform</p> \n<p>·       Automatiseren van de releases op de verschillende omgevingen</p> \n<p>·       Monitoring van de gezondheid van de infrastructuur en toepassingen</p> \n<p>·       Toevoegen/configureren van nieuwe services/stromen</p> \n<p>·       Voorzien van system failure/recovery plannen</p> \n<p>·       De nodige acties nemen om de betrouwbaarheid van het platform en de systemen te kunnen garanderen.</p>",
+        "htmlEncoded": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Devos ontwikkelaar ter versterking van de Data platform afdeling en dit binnen het Centraal Team.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je aan de digitale transformatie van Vlaanderen werkt , dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op \n<span>#partner, #ontzorgen en #éénteam</span>.</p> \n<p>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen. </p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Binnen Digitaal Vlaanderen is het Centraal Team van de afdeling Dataplatform verantwoordelijk voor het operationeel houden van de toepassingen van de afdeling. De afdeling dataplatform zorgt voor een basiskaart voor Vlaanderen, betrouwbare dataregisters, naadloze data-integratie, inzichtelijke data-analyses en een uitmuntende datagovernance. We zorgen dat data vindbaar, toegankelijk, interoperabel en herbruikbaar zijn en verzekeren de kwaliteit en de veiligheid ervan om innovatie, een efficiëntere dienstverlening en strategische besluitvorming van onze partners te bevorderen.</p> \n<p>Het Centraal Team monitort en onderhoudt bestaande infrastructuur en containers. Via het Azure dataplatform identificeren, ontgrendelen en koppelen we de data, die nodig is voor de digitale transformatie van Vlaanderen.</p> \n<p>Als Devops ontwikkelaar ben je binnen het Centraal Team verantwoordelijk voor het beheer, exploitatie en evolutie van de bestaande Azure infrastructuur, volgens de principes van DevOps en Platform Engineering. Dit voor de bouwstenen Geopunt, Download en Datavindplaats.</p> \n<p>De kernverantwoordelijkheid van de Devops ontwikkelaar is verantwoordelijkheid nemen voor het beheer en de exploitatie van het nieuwe data platform, het beheer van de stromen op het platform en de verdere optimalisatie en doorontwikkelingen.</p> \n<p>Je takenpakket zal onder andere bestaan uit:</p> \n<p>·       Het verder uitbouwen en schalen van de infrastructuur van het dataplatform</p> \n<p>·       Automatiseren van de releases op de verschillende omgevingen</p> \n<p>·       Monitoring van de gezondheid van de infrastructuur en toepassingen</p> \n<p>·       Toevoegen/configureren van nieuwe services/stromen</p> \n<p>·       Voorzien van system failure/recovery plannen</p> \n<p>·       De nodige acties nemen om de betrouwbaarheid van het platform en de systemen te kunnen garanderen.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72874795",
       "internal": false,
@@ -2439,6 +2475,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19948",
+      "internal": false,
+      "validThroughDate": "1770508800",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Human resources",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19948",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR-medewerker"
+      },
+      "displayTitle": "HR-medewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Niet elke HR-job past in een vast stramien. Deze ook niet.<br><br></span><span>Als HR-medewerker bij het Agentschap Justitie en Handhaving werk je achter de schermen mee aan alles wat mensen doet instromen, groeien en vertrekken. Jij zorgt voor overzicht en opvolging binnen de verschillende HR-processen en bewaakt de administratieve kwaliteit, ook wanneer prioriteiten wijzigen.<br><br></span><span>Je dag kan starten met het administratief ondersteunen van een selectieprocedure en eindigen met het opvolgen van een uitstroomdossier of het meehelpen aan een HR-project. Tussendoor beantwoord je vragen, check je documenten en zorg je ervoor dat gegevens correct, volledig en actueel blijven. Geen afgebakend takenlijstje, wél een brede rol waarin je verantwoordelijkheid opneemt en mee vorm geeft aan de HR-werking.<br><br></span><span>Wat je zoal doet?</span></p><ul><li><span>&nbsp;</span><span>Je ondersteunt administratief alle HR-processen: rekrutering en selectie, in-, door- en uitstroom, prestatiemanagement, stages, jobstudenten, HR-projecten…</span></li><li><span>Je verzamelt, verwerkt en controleert HR-gegevens en -documenten en bewaart het overzicht in dossiers, systemen en digitale klassementen.</span></li><li><span>Je werkt met verschillende HR-tools en volgt rapporten en dashboards mee op.</span></li></ul> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Je bent een aanspreekpunt voor HR-gerelateerde vragen van medewerkers en leidinggevenden.<br><br></span><span>Je komt dus terecht in een afwisselende functie waarin je betrokken bent bij het volledige HR-verhaal. Samen met je collega’s bouw je mee aan een sterke en toekomstgerichte HR-werking binnen het agentschap. Dat doe je als lid van het team HR-administratie, een hechte ploeg van 8 collega’s binnen het bredere HR-team.</span></p>",
+        "htmlEncoded": "<p><span>Niet elke HR-job past in een vast stramien. Deze ook niet.<br><br></span><span>Als HR-medewerker bij het Agentschap Justitie en Handhaving werk je achter de schermen mee aan alles wat mensen doet instromen, groeien en vertrekken. Jij zorgt voor overzicht en opvolging binnen de verschillende HR-processen en bewaakt de administratieve kwaliteit, ook wanneer prioriteiten wijzigen.<br><br></span><span>Je dag kan starten met het administratief ondersteunen van een selectieprocedure en eindigen met het opvolgen van een uitstroomdossier of het meehelpen aan een HR-project. Tussendoor beantwoord je vragen, check je documenten en zorg je ervoor dat gegevens correct, volledig en actueel blijven. Geen afgebakend takenlijstje, wél een brede rol waarin je verantwoordelijkheid opneemt en mee vorm geeft aan de HR-werking.<br><br></span><span>Wat je zoal doet?</span></p><ul><li><span>&nbsp;</span><span>Je ondersteunt administratief alle HR-processen: rekrutering en selectie, in-, door- en uitstroom, prestatiemanagement, stages, jobstudenten, HR-projecten…</span></li><li><span>Je verzamelt, verwerkt en controleert HR-gegevens en -documenten en bewaart het overzicht in dossiers, systemen en digitale klassementen.</span></li><li><span>Je werkt met verschillende HR-tools en volgt rapporten en dashboards mee op.</span></li></ul> <p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Je bent een aanspreekpunt voor HR-gerelateerde vragen van medewerkers en leidinggevenden.<br><br></span><span>Je komt dus terecht in een afwisselende functie waarin je betrokken bent bij het volledige HR-verhaal. Samen met je collega’s bouw je mee aan een sterke en toekomstgerichte HR-werking binnen het agentschap. Dat doe je als lid van het team HR-administratie, een hechte ploeg van 8 collega’s binnen het bredere HR-team.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19936",
       "internal": false,
       "validThroughDate": "1770854400",
@@ -2618,6 +2690,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19896",
+      "internal": false,
+      "validThroughDate": "1770768000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19896",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Informatiebeheerder"
+      },
+      "displayTitle": "Informatiebeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij analytisch sterk en wil je richting geven aan informatiebeheer binnen ons agentschap? Zoek je een functie waarin je zowel beleidsmatig als operationeel het verschil kan maken? Dan is deze rol van informatiebeheerder iets voor jou.<br> <br> Als informatiebeheerder werk je mee aan een beleidskader voor het beheer van bestuursdocumenten en zorg je ervoor dat dit beleid ook concreet en werkbaar wordt toegepast. Je analyseert informatiestromen, stelt de juiste vragen en vertaalt noden van de organisatie naar duidelijke richtlijnen, processen en oplossingen. Je bent mee verantwoordelijk voor het opstellen en opvolgen van het informatiebeleidsplan en coördineert mee de operationele werking van het informatiebeheer. Je ondersteunt collega’s bij dagelijkse vragen rond onder andere document- en archiefbeheer, overdrachten, digitalisering en het gebruik van digitale werkplekomgevingen zoals SharePoint.<br> <br> In deze functie werk je nauw samen met verschillende actoren binnen het agentschap, fungeer je als schakel tussen business en ICT, en breng je informatiebeheer actief op de agenda van lopende projecten. Met je analytische blik en zelfstandige aanpak zorg je voor structuur in een omgeving die volop in beweging is.<br> <br> Je komt terecht in een enthousiast en gedreven Team Informatiebeheer, dat we, met jouw komst, willen uitbreiden naar drie medewerkers. De taakverdeling binnen het Team&nbsp;Informatiebeheer&nbsp;zal in onderling overleg tot stand komen en wordt gebaseerd op de individuele interesses en sterktes van de teamleden. Zo leveren we maximale kwaliteit en creëren we tegelijk maximale werkvoldoening.<br> <br> Dit is een veelzijdige functie voor wie strategie en uitvoering moeiteloos combineert, en wil bijdragen aan een duurzaam en toekomstgericht informatiebeheer binnen het Agentschap Justitie en Handhaving.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij analytisch sterk en wil je richting geven aan informatiebeheer binnen ons agentschap? Zoek je een functie waarin je zowel beleidsmatig als operationeel het verschil kan maken? Dan is deze rol van informatiebeheerder iets voor jou.<br> <br> Als informatiebeheerder werk je mee aan een beleidskader voor het beheer van bestuursdocumenten en zorg je ervoor dat dit beleid ook concreet en werkbaar wordt toegepast. Je analyseert informatiestromen, stelt de juiste vragen en vertaalt noden van de organisatie naar duidelijke richtlijnen, processen en oplossingen. Je bent mee verantwoordelijk voor het opstellen en opvolgen van het informatiebeleidsplan en coördineert mee de operationele werking van het informatiebeheer. Je ondersteunt collega’s bij dagelijkse vragen rond onder andere document- en archiefbeheer, overdrachten, digitalisering en het gebruik van digitale werkplekomgevingen zoals SharePoint.<br> <br> In deze functie werk je nauw samen met verschillende actoren binnen het agentschap, fungeer je als schakel tussen business en ICT, en breng je informatiebeheer actief op de agenda van lopende projecten. Met je analytische blik en zelfstandige aanpak zorg je voor structuur in een omgeving die volop in beweging is.<br> <br> Je komt terecht in een enthousiast en gedreven Team Informatiebeheer, dat we, met jouw komst, willen uitbreiden naar drie medewerkers. De taakverdeling binnen het Team&nbsp;Informatiebeheer&nbsp;zal in onderling overleg tot stand komen en wordt gebaseerd op de individuele interesses en sterktes van de teamleden. Zo leveren we maximale kwaliteit en creëren we tegelijk maximale werkvoldoening.<br> <br> Dit is een veelzijdige functie voor wie strategie en uitvoering moeiteloos combineert, en wil bijdragen aan een duurzaam en toekomstgericht informatiebeheer binnen het Agentschap Justitie en Handhaving.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19887",
       "internal": false,
       "validThroughDate": "1769040000",
@@ -2649,6 +2757,42 @@
         {
           "address": {
             "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19880",
+      "internal": false,
+      "validThroughDate": "1771113600",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19880",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "IT analist"
+      },
+      "displayTitle": "IT analist",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij meebouwen aan diverse business ideeën die impact hebben op de ICT-werking binnen het Agentschap Justitie en Handhaving in Vlaanderen? Word je warm van het bouwen van bruggen tussen de noden van de business en het opstellen van ICT-oplossingen in digitaliserings- en automatiseringsprojecten voor de diverse teams?&nbsp;<br><br>Het Agentschap Justitie en Handhaving is op zoek naar één ICT-analist om het team van analisten te versterken.<br><br>Als ICT-analist speel je een sleutelrol binnen het Agentschap Justitie en Handhaving en vorm je de brug tussen de inhoudelijke experten en de interne en externe ICT-partners. Je vertaalt ideeën, noden en beleidsdoelstellingen naar haalbare en duurzame ICT-oplossingen en zorgt ervoor dat projecten correct worden voorbereid, opgestart en opgevolgd.<br><br>Je werkt mee aan uiteenlopende digitaliserings- en automatiseringsprojecten binnen verschillende inhoudelijke domeinen van het Agentschap. Dat kan gaan over justitiehuizen, elektronisch toezicht, gendergerelateerd geweld, hulp- en dienstverlening aan gedetineerden, jeugddelinquentie of Vlaamse handhaving etc. Afhankelijk van het project ga je aan de slag met nieuwe toepassingen of met de verdere optimalisatie van bestaande systemen.<br><br>Op basis van jouw business analyse werk je, samen met je collega’s, een deel van de functionele analyse voor een concrete ICT gerelateerde toepassing uit. Je maakt een gestructureerde en coherente doorvertaling tussen wat als oplossing gevraagd wordt en hoe dit functioneel zou kunnen vertaald worden in een ICT-ontwerp, binnen de afgesproken kaders (standaarden, architectuur, beleid).<br><br>Het Agentschap werkt voor de implementatie samen met externe dienstenleveranciers. Het zwaartepunt van deze functie ligt bij het aspect business analyse en de eerste 2 fasen van functionele analyse, zoals het definiëren van de functionele en niet-functionele vereisten en het opstellen van use cases en bijhorende testscenario’s.<br><br>Tot slot kan je ingezet worden tijdens de testfase van een ICT-project om testsessies te begeleiden. De facto is dat je vaak expert bent van (delen van) een business domein en de functionele expert van één of meerdere toepassingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
+        "htmlEncoded": "Wil jij meebouwen aan diverse business ideeën die impact hebben op de ICT-werking binnen het Agentschap Justitie en Handhaving in Vlaanderen? Word je warm van het bouwen van bruggen tussen de noden van de business en het opstellen van ICT-oplossingen in digitaliserings- en automatiseringsprojecten voor de diverse teams?&nbsp;<br><br>Het Agentschap Justitie en Handhaving is op zoek naar één ICT-analist om het team van analisten te versterken.<br><br>Als ICT-analist speel je een sleutelrol binnen het Agentschap Justitie en Handhaving en vorm je de brug tussen de inhoudelijke experten en de interne en externe ICT-partners. Je vertaalt ideeën, noden en beleidsdoelstellingen naar haalbare en duurzame ICT-oplossingen en zorgt ervoor dat projecten correct worden voorbereid, opgestart en opgevolgd.<br><br>Je werkt mee aan uiteenlopende digitaliserings- en automatiseringsprojecten binnen verschillende inhoudelijke domeinen van het Agentschap. Dat kan gaan over justitiehuizen, elektronisch toezicht, gendergerelateerd geweld, hulp- en dienstverlening aan gedetineerden, jeugddelinquentie of Vlaamse handhaving etc. Afhankelijk van het project ga je aan de slag met nieuwe toepassingen of met de verdere optimalisatie van bestaande systemen.<br><br>Op basis van jouw business analyse werk je, samen met je collega’s, een deel van de functionele analyse voor een concrete ICT gerelateerde toepassing uit. Je maakt een gestructureerde en coherente doorvertaling tussen wat als oplossing gevraagd wordt en hoe dit functioneel zou kunnen vertaald worden in een ICT-ontwerp, binnen de afgesproken kaders (standaarden, architectuur, beleid).<br><br>Het Agentschap werkt voor de implementatie samen met externe dienstenleveranciers. Het zwaartepunt van deze functie ligt bij het aspect business analyse en de eerste 2 fasen van functionele analyse, zoals het definiëren van de functionele en niet-functionele vereisten en het opstellen van use cases en bijhorende testscenario’s.<br><br>Tot slot kan je ingezet worden tijdens de testfase van een ICT-project om testsessies te begeleiden. De facto is dat je vaak expert bent van (delen van) een business domein en de functionele expert van één of meerdere toepassingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -2790,6 +2934,42 @@
         {
           "address": {
             "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19850",
+      "internal": false,
+      "validThroughDate": "1770595200",
+      "hiringOrganization": "Toerisme Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19850",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jurist"
+      },
+      "displayTitle": "Jurist",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Als jurist bestaat jouw kerntaak uit juridisch adviesverlening. Je analyseert de juridische vragen en je formuleert je deskundig advies zowel op vraag onze interne collega’s als met een proactieve houding. Je werkt hiervoor nauw samen met je collega’s en Hub-Coach binnen het team Juridische Zaken en Overheidsopdrachten. Je communiceert op een transparante manier, wisselt expertise uit en houdt je vakinhoudelijke kennis actief bij.</div><div></div><div>Je zal instaan voor een diverse, specifieke en efficiënte dienstverlening met betrekking tot alle rechtsmateries waarmee de business van Toerisme Vlaanderen in contact komt. Je komt terecht in een klein, hecht team waar je écht impact hebt. Je krijgt veel autonomie en neemt je dossiers vast met een gezonde dosis verantwoordelijkheidszin. Je wacht niet af, maar denkt vooruit, neemt beslissingen en houdt de lijnen kort.</div><div>Je schakelt vlot tussen uiteenlopende juridische rechtsdomeinen, wat de functie bijzonder afwisselend maakt.</div><div></div><div>Onze interne klanten rekenen op jouw juridische expertise, maar ook op jouw vermogen om mee te denken. Je past niet gewoon regels toe — je analyseert, redeneert en zoekt oplossingen die aansluiten bij de context en noden van de vraagsteller. Ook heldere communicatie is essentieel: je stemt vlot af met collega’s, laat weten waar je mee bezig bent en geeft tijdig aan wanneer iets even moet wachten. Zo houden we elkaar scherp en blijven dossiers in beweging.</div><div></div><div>Kortom: je bent een jurist die initiatief neemt, graag zelfstandig werkt en energie krijgt van veelzijdige juridische uitdagingen binnen een organisatie die Vlaanderen mee op de kaart zet.</div>",
+        "htmlEncoded": "<div>Als jurist bestaat jouw kerntaak uit juridisch adviesverlening. Je analyseert de juridische vragen en je formuleert je deskundig advies zowel op vraag onze interne collega’s als met een proactieve houding. Je werkt hiervoor nauw samen met je collega’s en Hub-Coach binnen het team Juridische Zaken en Overheidsopdrachten. Je communiceert op een transparante manier, wisselt expertise uit en houdt je vakinhoudelijke kennis actief bij.</div><div></div><div>Je zal instaan voor een diverse, specifieke en efficiënte dienstverlening met betrekking tot alle rechtsmateries waarmee de business van Toerisme Vlaanderen in contact komt. Je komt terecht in een klein, hecht team waar je écht impact hebt. Je krijgt veel autonomie en neemt je dossiers vast met een gezonde dosis verantwoordelijkheidszin. Je wacht niet af, maar denkt vooruit, neemt beslissingen en houdt de lijnen kort.</div><div>Je schakelt vlot tussen uiteenlopende juridische rechtsdomeinen, wat de functie bijzonder afwisselend maakt.</div><div></div><div>Onze interne klanten rekenen op jouw juridische expertise, maar ook op jouw vermogen om mee te denken. Je past niet gewoon regels toe — je analyseert, redeneert en zoekt oplossingen die aansluiten bij de context en noden van de vraagsteller. Ook heldere communicatie is essentieel: je stemt vlot af met collega’s, laat weten waar je mee bezig bent en geeft tijdig aan wanneer iets even moet wachten. Zo houden we elkaar scherp en blijven dossiers in beweging.</div><div></div><div>Kortom: je bent een jurist die initiatief neemt, graag zelfstandig werkt en energie krijgt van veelzijdige juridische uitdagingen binnen een organisatie die Vlaanderen mee op de kaart zet.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
