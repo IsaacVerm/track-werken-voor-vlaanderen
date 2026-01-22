@@ -1,10 +1,10 @@
 {
-  "totalItems": 104,
+  "totalItems": 105,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 103,
+  "lastItemOfPage": 104,
   "items": [
     {
       "link": "/Job/vdab-72878165",
@@ -2757,6 +2757,42 @@
         {
           "address": {
             "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19882",
+      "internal": false,
+      "validThroughDate": "1770595200",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19882",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Tactisch aankoper"
+      },
+      "displayTitle": "Tactisch aankoper",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij de bruggenbouwer die complexe regels vertaalt naar slimme oplossingen? Wil jij mee zorgen dat het Agentschap Justitie en Handhaving correct én efficiënt aankoopt?<br data-end=\"175\" data-start=\"172\"></p><p>Dan is deze nieuwe, unieke functie als tactisch aankoper iets voor jou! Je begeleidt collega’s doorheen het volledige aankooptraject: van behoeftebepaling tot nazorg. Je zet inhoudelijke noden om in de juiste procedures en bewaakt kwaliteit, timing en regelgeving.<br data-end=\"450\" data-start=\"447\"></p><p>Met jouw marktkennis zorg je voor sterke prijs-kwaliteitsverhoudingen en gezonde concurrentie. Daarnaast neem je het contract-, leveranciers- én verzekeringsbeheer in handen. Klaar om impact te maken achter de schermen van een sterk agentschap? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij de bruggenbouwer die complexe regels vertaalt naar slimme oplossingen? Wil jij mee zorgen dat het Agentschap Justitie en Handhaving correct én efficiënt aankoopt?<br data-end=\"175\" data-start=\"172\"></p><p>Dan is deze nieuwe, unieke functie als tactisch aankoper iets voor jou! Je begeleidt collega’s doorheen het volledige aankooptraject: van behoeftebepaling tot nazorg. Je zet inhoudelijke noden om in de juiste procedures en bewaakt kwaliteit, timing en regelgeving.<br data-end=\"450\" data-start=\"447\"></p><p>Met jouw marktkennis zorg je voor sterke prijs-kwaliteitsverhoudingen en gezonde concurrentie. Daarnaast neem je het contract-, leveranciers- én verzekeringsbeheer in handen. Klaar om impact te maken achter de schermen van een sterk agentschap? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
