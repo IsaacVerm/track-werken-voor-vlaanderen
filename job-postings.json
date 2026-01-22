@@ -1,10 +1,10 @@
 {
-  "totalItems": 105,
+  "totalItems": 103,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 104,
+  "lastItemOfPage": 102,
   "items": [
     {
       "link": "/Job/vdab-72878165",
@@ -3088,57 +3088,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19833",
-      "internal": false,
-      "validThroughDate": "1768953600",
-      "hiringOrganization": "Departement Omgeving",
-      "reservedForDisability": true,
-      "openPositions": 3,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19833",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Archivaris"
-      },
-      "displayTitle": "Archivaris",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wil je mee jouw steentje bijdragen aan interne administratieve werking van het Departement Omgeving? Wij zijn op zoek naar archivarissen die hun handen uit de mouwen willen steken bij de verhuis en opkuis van het papieren archief.<br><br> Als archivaris orden of vernietig je het papieren archief. Je verplaatst dozen met dossiers en doet licht papierwerk. Je neemt de dossiers stuk voor stuk in handen, plooit de archiefdozen en plaatst de dossiers in de dozen. Dit vul je ook aan in een Excel-bestand. Vervolgens zet je de dozen op paletten zodat ze klaar zijn voor de verhuis.<br><br> </span><span>Deze vacature wil kansen geven aan werkzoekenden die deeltijds of voltijds willen werken en het omwille van hun handicap of ziekte moelijker hebben op de arbeidsmarkt. Heb je bepaalde aanpassingen nodig? Weet dat de Vlaamse overheid redelijke aanpassingen voorziet in het selectieproces.<br><br> </span><span>Als je last hebt van longen, luchtwegen of allergieën, voorzien we mondmaskers of handschoenen.<br><br> Het archief zit verspreid over kelderverdiepingen en verschillende lokalen op de werkvloer. Waar mogelijk worden eerst delen van archief uit de kelder verplaatst naar een aangenamere werkruimte op de werkvloer.<br><br> </span><span>Je wordt tewerkgesteld op verschillende locaties (VAC Brugge, VAC Gent, VAC Leuven en VAC Hasselt). Het archief van Hasselt moet tegen eind volgend jaar gearchiveerd zijn en het archief van Leuven tegen de zomer van 2027. In eerste instantie gaat er dus vooral in Hasselt en Leuven gewerkt worden.<br> <br> </span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></span></p>",
-        "htmlEncoded": "<p><span>Wil je mee jouw steentje bijdragen aan interne administratieve werking van het Departement Omgeving? Wij zijn op zoek naar archivarissen die hun handen uit de mouwen willen steken bij de verhuis en opkuis van het papieren archief.<br><br> Als archivaris orden of vernietig je het papieren archief. Je verplaatst dozen met dossiers en doet licht papierwerk. Je neemt de dossiers stuk voor stuk in handen, plooit de archiefdozen en plaatst de dossiers in de dozen. Dit vul je ook aan in een Excel-bestand. Vervolgens zet je de dozen op paletten zodat ze klaar zijn voor de verhuis.<br><br> </span><span>Deze vacature wil kansen geven aan werkzoekenden die deeltijds of voltijds willen werken en het omwille van hun handicap of ziekte moelijker hebben op de arbeidsmarkt. Heb je bepaalde aanpassingen nodig? Weet dat de Vlaamse overheid redelijke aanpassingen voorziet in het selectieproces.<br><br> </span><span>Als je last hebt van longen, luchtwegen of allergieën, voorzien we mondmaskers of handschoenen.<br><br> Het archief zit verspreid over kelderverdiepingen en verschillende lokalen op de werkvloer. Waar mogelijk worden eerst delen van archief uit de kelder verplaatst naar een aangenamere werkruimte op de werkvloer.<br><br> </span><span>Je wordt tewerkgesteld op verschillende locaties (VAC Brugge, VAC Gent, VAC Leuven en VAC Hasselt). Het archief van Hasselt moet tegen eind volgend jaar gearchiveerd zijn en het archief van Leuven tegen de zomer van 2027. In eerste instantie gaat er dus vooral in Hasselt en Leuven gewerkt worden.<br> <br> </span><span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19826",
       "internal": true,
       "validThroughDate": "1769990400",
@@ -3311,42 +3260,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19765",
-      "internal": true,
-      "validThroughDate": "1768953600",
-      "hiringOrganization": "Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Human resources",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19765",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "HR Partner Talent en Groei"
-      },
-      "displayTitle": "HR Partner Talent en Groei",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als HR-partner Talent en Groei bij het Vlaams Uitbetalingsagentschap Groeipakket (VUTG) ben je een spilfiguur in het ondersteunen van medewerkers en leidinggevenden op het vlak van personeelsplanning, selectie, rekrutering en prestatiemanagement. Je zorgt mee voor een efficiënte werking van de organisatie en het realiseren van ambitieuze doelstellingen.</span></p><p><span>Je adviseert collega’s en management en samen zorgen jullie voor een toekomstgerichte HR-aanpak die medewerkers laat groeien en de organisatie sterker maakt. Je draagt bij aan een cultuur van samenwerking, kennisdeling en continue verbetering.</span></p><p><span>In deze rol werk je nauw samen met je collega’s van het team HROO (Strategisch HR, opleiding- en organisatieontwikkeling). Je neemt het voortouw in jouw expertisedomeinen en bent een sparringpartner bij het uitstippelen, voorbereiden en implementeren van diverse HR-processen.</span></p><p><span>Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!</span></p><p><span>Met jouw expertise en communicatieve vaardigheden help je het VUTG om zijn maatschappelijke opdracht waar te maken en een betrouwbare partner te zijn voor gezinnen in Vlaanderen.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Als HR-partner Talent en Groei bij het Vlaams Uitbetalingsagentschap Groeipakket (VUTG) ben je een spilfiguur in het ondersteunen van medewerkers en leidinggevenden op het vlak van personeelsplanning, selectie, rekrutering en prestatiemanagement. Je zorgt mee voor een efficiënte werking van de organisatie en het realiseren van ambitieuze doelstellingen.</span></p><p><span>Je adviseert collega’s en management en samen zorgen jullie voor een toekomstgerichte HR-aanpak die medewerkers laat groeien en de organisatie sterker maakt. Je draagt bij aan een cultuur van samenwerking, kennisdeling en continue verbetering.</span></p><p><span>In deze rol werk je nauw samen met je collega’s van het team HROO (Strategisch HR, opleiding- en organisatieontwikkeling). Je neemt het voortouw in jouw expertisedomeinen en bent een sparringpartner bij het uitstippelen, voorbereiden en implementeren van diverse HR-processen.</span></p><p><span>Bij ons krijg je de kans om echt impact te maken en bij te dragen aan de groei en het succes van het team. Klinkt dit als jouw volgende uitdaging? Solliciteer dan nu!</span></p><p><span>Met jouw expertise en communicatieve vaardigheden help je het VUTG om zijn maatschappelijke opdracht waar te maken en een betrouwbare partner te zijn voor gezinnen in Vlaanderen.</span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
