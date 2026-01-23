@@ -1,11 +1,227 @@
 {
-  "totalItems": 109,
+  "totalItems": 114,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 108,
+  "lastItemOfPage": 113,
   "items": [
+    {
+      "link": "/Job/vdab-72897455",
+      "internal": false,
+      "validThroughDate": "1771718400",
+      "hiringOrganization": "INSTITUUT VOOR NATUUR- EN BOSONDERZOEK (INBO)",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72897455",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "GIS-analist gebiedsdekkende Biologische Waarderingskaart"
+      },
+      "displayTitle": "GIS-analist gebiedsdekkende Biologische Waarderingskaart",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Als GIS analist speel je een cruciale rol in de ondersteuning van het opmaken van een gebiedsdekkende Biologische Waarderingskaart (BWK). De Biologische Waarderingskaart is een geodataset met een ruimtelijk expliciete inventaris van de Vlaamse biotopen en Natura2000 habitats. Binnen de Speciale Beschermingszones (SBZ) van het Natura 2000 netwerk  worden deze biotopen en habitats in kaart gebracht door middel van veldwerk. Een uitbreiding van deze werkwijze naar heel Vlaanderen (gebiedsdekkend) is niet haalbaar. Daarom kijken we naar de integratie van alternatieve databronnen. We beschikken over een breed gamma aan publieke en interne databronnen die de productie van een gebiedsdekkende BWK kunnen ondersteunen. De kerntaak van deze vacante positie is het integreren van zo veel mogelijk bestaande databronnen in een workflow voor het creëren van een gebiedsdekkende BWK. Daartoe zal je de kwaliteit van deze databronnen analyseren en workflows ontwikkelen voor kwaliteitscontrole en een (semi)automatische data-integratie ontwikkelen. </span></p> \n<p dir=\"ltr\"><span>Je zal deel uitmaken van het INBO-team </span><span>Biotoopdiversiteit</span><span>. Dit team bouwt kennis en inzicht op over toestand en trends van vegetaties als ondersteuning voor een passend Natura 2000, biotoop - en gebiedsgericht beleid. De BWK en de Natura 2000 habitatkaart zijn de best bekende outputs. De kwaliteit van de Natura 2000 habitats (Staat van instandhouding) wordt opgevolgd in een voor Vlaanderen representatief meetnet. </span></p> \n<p dir=\"ltr\"><span><br></span></p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het inventariseren van bestaande databronnen die ingezet kunnen worden voor het creëren van een gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het analyseren van de kwaliteit en inzetbaarheid van de meest veelbelovende databronnen</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het opmaken van een visietekst voor de integratie van de best inzetbare databronnen in de gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het ontwikkelen van workflows voor de kwaliteitscontrole en (semi-)automatische integratie van deze databronnen in de gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het organiseren van een kwaliteitscontrole van de gegevens vooraleer die in de BWK te integreren. Indien nodig, kan hiervoor een veldcampagne opgezet worden in samenwerking met collega’s uit het team.</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het concipiëren en uitwerken van diverse beleidsrelevante GIS-analyses gebaseerd op de BWK.</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het meedenken en uitwerken van diverse GIS-analyses gebaseerd op de BWK .</span></p> </li> </ul>",
+        "htmlEncoded": "<p><strong>Je takenpakket</strong></p> \n<p dir=\"ltr\"><span>Als GIS analist speel je een cruciale rol in de ondersteuning van het opmaken van een gebiedsdekkende Biologische Waarderingskaart (BWK). De Biologische Waarderingskaart is een geodataset met een ruimtelijk expliciete inventaris van de Vlaamse biotopen en Natura2000 habitats. Binnen de Speciale Beschermingszones (SBZ) van het Natura 2000 netwerk  worden deze biotopen en habitats in kaart gebracht door middel van veldwerk. Een uitbreiding van deze werkwijze naar heel Vlaanderen (gebiedsdekkend) is niet haalbaar. Daarom kijken we naar de integratie van alternatieve databronnen. We beschikken over een breed gamma aan publieke en interne databronnen die de productie van een gebiedsdekkende BWK kunnen ondersteunen. De kerntaak van deze vacante positie is het integreren van zo veel mogelijk bestaande databronnen in een workflow voor het creëren van een gebiedsdekkende BWK. Daartoe zal je de kwaliteit van deze databronnen analyseren en workflows ontwikkelen voor kwaliteitscontrole en een (semi)automatische data-integratie ontwikkelen. </span></p> \n<p dir=\"ltr\"><span>Je zal deel uitmaken van het INBO-team </span><span>Biotoopdiversiteit</span><span>. Dit team bouwt kennis en inzicht op over toestand en trends van vegetaties als ondersteuning voor een passend Natura 2000, biotoop - en gebiedsgericht beleid. De BWK en de Natura 2000 habitatkaart zijn de best bekende outputs. De kwaliteit van de Natura 2000 habitats (Staat van instandhouding) wordt opgevolgd in een voor Vlaanderen representatief meetnet. </span></p> \n<p dir=\"ltr\"><span><br></span></p> \n<p dir=\"ltr\"><span>Meer specifiek omvat je takenpakket volgende taken:</span></p> \n<ul> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het inventariseren van bestaande databronnen die ingezet kunnen worden voor het creëren van een gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het analyseren van de kwaliteit en inzetbaarheid van de meest veelbelovende databronnen</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het opmaken van een visietekst voor de integratie van de best inzetbare databronnen in de gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het ontwikkelen van workflows voor de kwaliteitscontrole en (semi-)automatische integratie van deze databronnen in de gebiedsdekkende BWK</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het organiseren van een kwaliteitscontrole van de gegevens vooraleer die in de BWK te integreren. Indien nodig, kan hiervoor een veldcampagne opgezet worden in samenwerking met collega’s uit het team.</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het concipiëren en uitwerken van diverse beleidsrelevante GIS-analyses gebaseerd op de BWK.</span></p> </li> \n<li dir=\"ltr\"> \n<p dir=\"ltr\"><span>Het meedenken en uitwerken van diverse GIS-analyses gebaseerd op de BWK .</span></p> </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72896375",
+      "internal": false,
+      "validThroughDate": "1771113600",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72896375",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Economisch adviseur voor water"
+      },
+      "displayTitle": "Economisch adviseur voor water",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb jij een economische achtergrond en wil je bijdragen aan een duurzame toekomst? Ben je analytisch sterk en geïnteresseerd in publieke dienstverlening en de watersector? Dan is de functie van economisch adviseur voor water iets voor jou!</span></p> \n<p>We zoeken meerdere collega’s om het economisch toezicht op de waterketen verder vorm te geven. Je werkt in een organisatie die innovatie en samenwerking waardeert en waar je zowel binnen als buiten je kennisdomein impact hebt op de Vlaamse watersector.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Vanaf 1 januari 2026 hebben we de verantwoordelijkheid om het economisch toezicht op de waterketen in Vlaanderen te organiseren. Vertrekkende van onze ervaring als regulator van de elektriciteits- en gasmarkt ontwikkelen we een transparant, toekomstgericht kader voor de watersector. Zo sleutel je mee aan je eigen job.</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je keurt de \n<span>maximumtarieven</span> voor drinkwater goed. Die tarieven gebruiken drinkwatermaatschappijen om de kosten voor de productie en levering van drinkwater door te rekenen. Je ziet ook toe op hun \n<span>werkelijke kosten</span>.</li> \n<li>Je brengt de \n<span>werking en kostenstructuur</span> van de drinkwatermaatschappijen in kaart. Je onderzoekt hoe we als regulator bijdragen aan een betrouwbare, duurzame en betaalbare watervoorziening.</li> \n<li>Je ziet toe op de bepaling van tarieven voor riolerings- en zuiveringsverplichtingen.</li> \n<li>Je ontwikkelt en implementeert het economisch toezicht op de drinkwatermaatschappijen en rioolbeheerders.</li> \n<li>Je controleert de correcte bepaling van de drinkwaterfactuur. </li> </ul>",
+        "htmlEncoded": "<p><span>Heb jij een economische achtergrond en wil je bijdragen aan een duurzame toekomst? Ben je analytisch sterk en geïnteresseerd in publieke dienstverlening en de watersector? Dan is de functie van economisch adviseur voor water iets voor jou!</span></p> \n<p>We zoeken meerdere collega’s om het economisch toezicht op de waterketen verder vorm te geven. Je werkt in een organisatie die innovatie en samenwerking waardeert en waar je zowel binnen als buiten je kennisdomein impact hebt op de Vlaamse watersector.</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Vanaf 1 januari 2026 hebben we de verantwoordelijkheid om het economisch toezicht op de waterketen in Vlaanderen te organiseren. Vertrekkende van onze ervaring als regulator van de elektriciteits- en gasmarkt ontwikkelen we een transparant, toekomstgericht kader voor de watersector. Zo sleutel je mee aan je eigen job.</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je keurt de \n<span>maximumtarieven</span> voor drinkwater goed. Die tarieven gebruiken drinkwatermaatschappijen om de kosten voor de productie en levering van drinkwater door te rekenen. Je ziet ook toe op hun \n<span>werkelijke kosten</span>.</li> \n<li>Je brengt de \n<span>werking en kostenstructuur</span> van de drinkwatermaatschappijen in kaart. Je onderzoekt hoe we als regulator bijdragen aan een betrouwbare, duurzame en betaalbare watervoorziening.</li> \n<li>Je ziet toe op de bepaling van tarieven voor riolerings- en zuiveringsverplichtingen.</li> \n<li>Je ontwikkelt en implementeert het economisch toezicht op de drinkwatermaatschappijen en rioolbeheerders.</li> \n<li>Je controleert de correcte bepaling van de drinkwaterfactuur. </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72896272",
+      "internal": false,
+      "validThroughDate": "1771113600",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Bouw",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72896272",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adviseur elektriciteitsnetten"
+      },
+      "displayTitle": "Adviseur elektriciteitsnetten",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De energietransitie biedt de elektriciteitsnetbeheerders, leveranciers en andere marktspelers heel wat uitdagingen en kansen. Als adviseur elektriciteitsnetten zorg je er samen met je collega’s voor dat die transitie vlot kan verlopen.</span></p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Als adviseur zorg je ervoor dat de \n<span>energiemarkt goed</span> \n<span>blijft</span> \n<span>werken</span> en de \n<span>netten</span> \n<span>betrouwbaar</span> blijven. Je helpt mee aan de opmaak van \n<span>technische regels</span> voor de netbeheerders.</li> \n<li>Je controleert hoe netbeheerders omgaan met de \n<span><span data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" title=\"Klik hier voor meer uitleg over: energietransitie\">energietransitie</span> </span>en hoe ze hun werking daarop afstemmen, via investeringen en alternatieve oplossingen.</li> \n<li>Netbeheerders plaatsen volop digitale meters en ontwikkelen \n<span>nieuwe processen</span> zoals voor energiedelen en flexibiliteit. Jij volgt dat op en leidt alles in \n<span>goede banen</span>.</li> \n<li>Je maakt analyses en overlegt met collega’s en externe belanghebbenden. Je adviseert het management. Je schrijft bevindingen helder uit in rapporten.</li> \n<li>Je hebt je \n<span>eigen verantwoordelijkheden</span>, maar werkt vooral in \n<span>team</span>.</li> </ul>",
+        "htmlEncoded": "<p><span>De energietransitie biedt de elektriciteitsnetbeheerders, leveranciers en andere marktspelers heel wat uitdagingen en kansen. Als adviseur elektriciteitsnetten zorg je er samen met je collega’s voor dat die transitie vlot kan verlopen.</span></p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Als adviseur zorg je ervoor dat de \n<span>energiemarkt goed</span> \n<span>blijft</span> \n<span>werken</span> en de \n<span>netten</span> \n<span>betrouwbaar</span> blijven. Je helpt mee aan de opmaak van \n<span>technische regels</span> voor de netbeheerders.</li> \n<li>Je controleert hoe netbeheerders omgaan met de \n<span><span data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" title=\"Klik hier voor meer uitleg over: energietransitie\">energietransitie</span> </span>en hoe ze hun werking daarop afstemmen, via investeringen en alternatieve oplossingen.</li> \n<li>Netbeheerders plaatsen volop digitale meters en ontwikkelen \n<span>nieuwe processen</span> zoals voor energiedelen en flexibiliteit. Jij volgt dat op en leidt alles in \n<span>goede banen</span>.</li> \n<li>Je maakt analyses en overlegt met collega’s en externe belanghebbenden. Je adviseert het management. Je schrijft bevindingen helder uit in rapporten.</li> \n<li>Je hebt je \n<span>eigen verantwoordelijkheden</span>, maar werkt vooral in \n<span>team</span>.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72896150",
+      "internal": false,
+      "validThroughDate": "1771113600",
+      "hiringOrganization": "Vlaamse Nutsregulator",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72896150",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Economisch adviseur nettarieven"
+      },
+      "displayTitle": "Economisch adviseur nettarieven",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb jij een economische achtergrond en ben je geboeid door alle ontwikkelingen in de energiemarkt? Ben jij sterk in analyses en kan je die vertalen in concrete acties en heldere adviezen? Wil je impact hebben op de energiefactuur van elke Vlaming en mee de energietransitie waarmaken? Dan is de functie van economisch adviseur nettarieven bij de VNR iets voor jou!</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je \n<span>bepaalt</span> mee \n<span>de regels</span> die de Vlaamse distributienetbeheerders moeten volgen bij het \n<span>aanrekenen van nettarieven</span> voor elektriciteit en gas. Je zorgt ervoor dat die regels mee evolueren met de \n<span data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" title=\"Klik hier voor meer uitleg over: energietransitie\">energietransitie</span> . Met jouw adviezen sta je het management van de VNR bij om de juiste beslissingen te nemen.</li> \n<li>Je \n<span>ziet toe op de kosten</span> die de distributienetbeheerders maken. Je \n<span>controleert de nettarieven</span> die zij willen aanrekenen en \n<span>legt</span> die jaarlijks mee \n<span>vast</span>.</li> \n<li>Je \n<span>becijfert de impact van beleidskeuzes en onze tariefregulering</span> op de energiefactuur.</li> \n<li>Je volgt op hoe tariefregulering en nettarieven evolueren in \n<span>andere gewesten en in het buitenland</span>.</li> \n<li>Je stelt\n<span> beslissingen en rapporten</span> op en voert \n<span>studies </span>uit samen met externe partijen. </li> \n<li>Je hebt je \n<span>eigen verantwoordelijkheden</span>, maar werkt vooral in \n<span>team</span>. Je overlegt met je collega’s en verschillende marktpartijen. Je toetst voorstellen af bij alle belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul>",
+        "htmlEncoded": "<p>Heb jij een economische achtergrond en ben je geboeid door alle ontwikkelingen in de energiemarkt? Ben jij sterk in analyses en kan je die vertalen in concrete acties en heldere adviezen? Wil je impact hebben op de energiefactuur van elke Vlaming en mee de energietransitie waarmaken? Dan is de functie van economisch adviseur nettarieven bij de VNR iets voor jou!</p> \n<p>Jouw verantwoordelijkheden</p> \n<p>Een greep uit je takenpakket:</p> \n<ul> \n<li>Je \n<span>bepaalt</span> mee \n<span>de regels</span> die de Vlaamse distributienetbeheerders moeten volgen bij het \n<span>aanrekenen van nettarieven</span> voor elektriciteit en gas. Je zorgt ervoor dat die regels mee evolueren met de \n<span data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" title=\"Klik hier voor meer uitleg over: energietransitie\">energietransitie</span> . Met jouw adviezen sta je het management van de VNR bij om de juiste beslissingen te nemen.</li> \n<li>Je \n<span>ziet toe op de kosten</span> die de distributienetbeheerders maken. Je \n<span>controleert de nettarieven</span> die zij willen aanrekenen en \n<span>legt</span> die jaarlijks mee \n<span>vast</span>.</li> \n<li>Je \n<span>becijfert de impact van beleidskeuzes en onze tariefregulering</span> op de energiefactuur.</li> \n<li>Je volgt op hoe tariefregulering en nettarieven evolueren in \n<span>andere gewesten en in het buitenland</span>.</li> \n<li>Je stelt\n<span> beslissingen en rapporten</span> op en voert \n<span>studies </span>uit samen met externe partijen. </li> \n<li>Je hebt je \n<span>eigen verantwoordelijkheden</span>, maar werkt vooral in \n<span>team</span>. Je overlegt met je collega’s en verschillende marktpartijen. Je toetst voorstellen af bij alle belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72893480",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72893480",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "product owner Allis (Agentschap integratie en inburgering) via Vlaanderen connect"
+      },
+      "displayTitle": "product owner Allis (Agentschap integratie en inburgering) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Digitalisering is een belangrijk speerpunt voor het AgII. De afgelopen jaren hebben we flink geïnvesteerd in het ontwikkelen van digitale oplossingen. Ons grootste project heet ‘Allis’.</p> \n<p>Allis is een systeem dat ons helpt om klanten te volgen en onze verschillende diensten te ondersteunen. Het draait op het platform Salesforce. Allis zal instaan voor klantopvolging binnen onze diensten Inburgering en NT2, Samenleven en Taal, Certificering Sociaal Tolken, Vreemdelingenrecht en Internationaal Familierecht.</p> \n<p>Omdat het systeem voortdurend verandert, zoeken we een product owner Allis. Deze persoon zal instaan voor de realisatie en opvolging van het klantopvolgsysteem.</p> \n<p><strong>Jouw talenten en vaardigheden</strong></p> \n<p>Je werkt in nauwe afstemming met de applicatiebeheerder Salesforce, de inhoudelijk verantwoordelijken binnen de betrokken diensten (de \n<em>proces owners</em>), het ontwikkelteam én de ICT-helpdesk. Jouw verantwoordelijkheden:</p> \n<p>· De \n<span>productvisie en -strategie bepalen</span> en vertalen naar concrete taken voor het team.</p> \n<p>· Aan het ontwikkelteam de productdoelen \n<span>communiceren</span> om een duidelijk beeld te geven van het beoogde resultaat.</p> \n<p>· Je houdt een lijst bij met alle taken en ideeën voor het product ( \n<span>de \n<em>backlog</em></span>) en zorgt dat deze duidelijk en overzichtelijk is. Je beschrijft wat er gedaan moet worden, bepaalt wat het belangrijkste is, en houdt daarbij rekening met de wensen van de klant, de strategie van de organisatie en wat praktisch haalbaar is.</p> \n<p>· Je \n<span>stemt regelmatig af met interne en externe stakeholders</span> om feedback te verzamelen en verwachtingen te beheren. Je communiceert transparant over de voortgang, prioriteiten en wijzigingen binnen het project.</p> \n<p>· Je bent beschikbaar voor het ontwikkelteam om \n<span>vragen</span> te beantwoorden en \n<span>beslissingen te nemen</span> die noodzakelijk zijn voor de voortgang. Je \n<span>werkt samen</span> met het team om technische en operationele knelpunten op te lossen en het ontwikkelproces soepel te laten verlopen.</p> \n<p>· Je evalueert de \n<span>prestaties van nieuwe features en bestaande functionaliteiten</span>. Dat doe je op basis van gebruikersfeedback en data-analyse. Om de gebruikerservaring en productwaarde te verhogen initieer je verbeteringen en optimalisaties.</p> \n<p>· Je identificeert mogelijke \n<span>risico’s </span>en knelpunten in het ontwikkelproces of productgebruik. Om problemen op te lossen en risico’s te beperken, ontwikkel je actieplannen.</p> \n<p>· Je kan de \n<span>projectleiding</span> Je bent verantwoordelijk voor de inhoudelijke uitvoering van de \n<em>end-to-end product life cycle</em>; de opvolging van technische ontwikkelingen, de informatie voor de DPIA, heldere project- en procescommunicatie, het uitwerken van \n<em>policies</em>, …</p> \n<p>· Je bent \n<span>communicatief</span> en kan \n<span>diplomatiek onderhandelen</span>; zowel ten aanzien van eindgebruikers als dienstverleners. Je biedt ondersteuning aan de ICT-helpdesk, luistert naar de \n<em>proces owners</em> en je hebt een sterke binding met de uitvoerende diensten (E4). Je bent in staat om noden, opportuniteit en informatiebehoeften voor een specifiek product te capteren.</p> \n<p>· Je kan het \n<span> eigenaarschap opnemen:</span> je bent in staat om zicht te houden op de waarde van het product (inhoudelijk, technisch én functioneel) en detecteert nieuwe productkansen. Je beheert het gebruik van het product.</p> \n<p>· Je kan \n<span> rapporteren en signaleren</span> aan de programmamanager. Aan optimalisatieprojecten werk je actief mee. Je signaleert opportuniteiten.</p> \n<p>· Je \n<span>beheert het budget</span>. Je waakt over het budget, stuurt bij waar nodig, en rapporteert aan de directeur financiën en bedrijfsondersteunende diensten.</p>",
+        "htmlEncoded": "<p>Digitalisering is een belangrijk speerpunt voor het AgII. De afgelopen jaren hebben we flink geïnvesteerd in het ontwikkelen van digitale oplossingen. Ons grootste project heet ‘Allis’.</p> \n<p>Allis is een systeem dat ons helpt om klanten te volgen en onze verschillende diensten te ondersteunen. Het draait op het platform Salesforce. Allis zal instaan voor klantopvolging binnen onze diensten Inburgering en NT2, Samenleven en Taal, Certificering Sociaal Tolken, Vreemdelingenrecht en Internationaal Familierecht.</p> \n<p>Omdat het systeem voortdurend verandert, zoeken we een product owner Allis. Deze persoon zal instaan voor de realisatie en opvolging van het klantopvolgsysteem.</p> \n<p><strong>Jouw talenten en vaardigheden</strong></p> \n<p>Je werkt in nauwe afstemming met de applicatiebeheerder Salesforce, de inhoudelijk verantwoordelijken binnen de betrokken diensten (de \n<em>proces owners</em>), het ontwikkelteam én de ICT-helpdesk. Jouw verantwoordelijkheden:</p> \n<p>· De \n<span>productvisie en -strategie bepalen</span> en vertalen naar concrete taken voor het team.</p> \n<p>· Aan het ontwikkelteam de productdoelen \n<span>communiceren</span> om een duidelijk beeld te geven van het beoogde resultaat.</p> \n<p>· Je houdt een lijst bij met alle taken en ideeën voor het product ( \n<span>de \n<em>backlog</em></span>) en zorgt dat deze duidelijk en overzichtelijk is. Je beschrijft wat er gedaan moet worden, bepaalt wat het belangrijkste is, en houdt daarbij rekening met de wensen van de klant, de strategie van de organisatie en wat praktisch haalbaar is.</p> \n<p>· Je \n<span>stemt regelmatig af met interne en externe stakeholders</span> om feedback te verzamelen en verwachtingen te beheren. Je communiceert transparant over de voortgang, prioriteiten en wijzigingen binnen het project.</p> \n<p>· Je bent beschikbaar voor het ontwikkelteam om \n<span>vragen</span> te beantwoorden en \n<span>beslissingen te nemen</span> die noodzakelijk zijn voor de voortgang. Je \n<span>werkt samen</span> met het team om technische en operationele knelpunten op te lossen en het ontwikkelproces soepel te laten verlopen.</p> \n<p>· Je evalueert de \n<span>prestaties van nieuwe features en bestaande functionaliteiten</span>. Dat doe je op basis van gebruikersfeedback en data-analyse. Om de gebruikerservaring en productwaarde te verhogen initieer je verbeteringen en optimalisaties.</p> \n<p>· Je identificeert mogelijke \n<span>risico’s </span>en knelpunten in het ontwikkelproces of productgebruik. Om problemen op te lossen en risico’s te beperken, ontwikkel je actieplannen.</p> \n<p>· Je kan de \n<span>projectleiding</span> Je bent verantwoordelijk voor de inhoudelijke uitvoering van de \n<em>end-to-end product life cycle</em>; de opvolging van technische ontwikkelingen, de informatie voor de DPIA, heldere project- en procescommunicatie, het uitwerken van \n<em>policies</em>, …</p> \n<p>· Je bent \n<span>communicatief</span> en kan \n<span>diplomatiek onderhandelen</span>; zowel ten aanzien van eindgebruikers als dienstverleners. Je biedt ondersteuning aan de ICT-helpdesk, luistert naar de \n<em>proces owners</em> en je hebt een sterke binding met de uitvoerende diensten (E4). Je bent in staat om noden, opportuniteit en informatiebehoeften voor een specifiek product te capteren.</p> \n<p>· Je kan het \n<span> eigenaarschap opnemen:</span> je bent in staat om zicht te houden op de waarde van het product (inhoudelijk, technisch én functioneel) en detecteert nieuwe productkansen. Je beheert het gebruik van het product.</p> \n<p>· Je kan \n<span> rapporteren en signaleren</span> aan de programmamanager. Aan optimalisatieprojecten werk je actief mee. Je signaleert opportuniteiten.</p> \n<p>· Je \n<span>beheert het budget</span>. Je waakt over het budget, stuurt bij waar nodig, en rapporteert aan de directeur financiën en bedrijfsondersteunende diensten.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72893459",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72893459",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Innovatie Project Manager AI & Data (ANB) via Vlaanderen connect"
+      },
+      "displayTitle": "Innovatie Project Manager AI & Data (ANB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij innovatieprojecten leiden die met AI en data een echte impact hebben op natuur en samenleving?</span></p> \n<p><span>Bij ANB zoeken we een gedreven Innovatie Project Manager AI &amp; Data die ideeën vertaalt naar concrete oplossingen en meebouwt aan de digitale toekomst van natuur. Samen ontwikkelen we slimme, datagedreven toepassingen die het verschil maken – vandaag en morgen.</span></p> \n<p><span>Als Innovatie Project Manager AI &amp; Data bij het Agentschap voor Natuur en Bos neem je end-to-end ownership over innovatieve AI- en dataprojecten. Je bent de verbindende kracht tussen business en technische experten, en zorgt ervoor dat ideeën uitgroeien tot schaalbare oplossingen in productie. Je bewaakt planning, budget en risico’s, maar denkt ook actief mee over inhoudelijke keuzes, use cases en maatschappelijke impact.</span></p> \n<p><span>Met jouw sterke affiniteit voor AI, machine learning en advanced analytics stuur je multidisciplinaire teams inhoudelijk aan en challenge je technische oplossingen waar nodig. Je werkt vlot in een Agile omgeving, rapporteert helder over voortgang en resultaten, en houdt daarbij steeds oog voor waardecreatie, governance en ethiek. Dankzij jouw analytische blik, communicatieve vaardigheden en pragmatische aanpak realiseer je innovatieprojecten die processen verbeteren en bijdragen aan de missie van ANB: natuur beschermen en duurzaam toegankelijk maken voor iedereen.</span></p> \n<p><span>Waar kom je terecht?</span></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vormgeven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Binnen deze cel werk je onder de Manager Innovatie &amp; Data en dit als Innovatie Project Manager AI &amp; Data om onze AI- en innovatieprojecten verder te versterken.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<ul> \n<li><span>Vormgeven, opstarten en trekken van innovatie- en AI-experimenten en projecten van idee tot in productie</span></li> \n<li><span>Vertalen van businessvragen naar concrete innovatie en AI use cases, doelstellingen en scope</span></li> \n<li><span>Inhoudelijk aansturen en challengen van technische teams (data science, engineering, MLOps)</span></li> \n<li><span>Bewaken van voortgang, kwaliteit, risico’s en waardecreatie</span></li> \n<li><span>Rapporteren over status, knelpunten en beslissingen aan stakeholders en management</span></li> \n<li><span>Faciliteren van samenwerking in een Agile werkomgeving</span></li> \n<li><span>Meedenken over AI- en data governance, ethiek en duurzame inbedding binnen ANB</span></li> \n<li><span>Bijdragen aan de verdere uitbouw van innovatieprocessen binnen de organisatie</span></li> </ul>",
+        "htmlEncoded": "<p><span>Wil jij innovatieprojecten leiden die met AI en data een echte impact hebben op natuur en samenleving?</span></p> \n<p><span>Bij ANB zoeken we een gedreven Innovatie Project Manager AI &amp; Data die ideeën vertaalt naar concrete oplossingen en meebouwt aan de digitale toekomst van natuur. Samen ontwikkelen we slimme, datagedreven toepassingen die het verschil maken – vandaag en morgen.</span></p> \n<p><span>Als Innovatie Project Manager AI &amp; Data bij het Agentschap voor Natuur en Bos neem je end-to-end ownership over innovatieve AI- en dataprojecten. Je bent de verbindende kracht tussen business en technische experten, en zorgt ervoor dat ideeën uitgroeien tot schaalbare oplossingen in productie. Je bewaakt planning, budget en risico’s, maar denkt ook actief mee over inhoudelijke keuzes, use cases en maatschappelijke impact.</span></p> \n<p><span>Met jouw sterke affiniteit voor AI, machine learning en advanced analytics stuur je multidisciplinaire teams inhoudelijk aan en challenge je technische oplossingen waar nodig. Je werkt vlot in een Agile omgeving, rapporteert helder over voortgang en resultaten, en houdt daarbij steeds oog voor waardecreatie, governance en ethiek. Dankzij jouw analytische blik, communicatieve vaardigheden en pragmatische aanpak realiseer je innovatieprojecten die processen verbeteren en bijdragen aan de missie van ANB: natuur beschermen en duurzaam toegankelijk maken voor iedereen.</span></p> \n<p><span>Waar kom je terecht?</span></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Met vakmanschap en partnerschap realiseren we waardevolle natuurprojecten onder het motto </span><em>“Samen voor Meer en Beter”</em><span>.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel staat in voor het digitaliseren van onze werking en het ontwikkelen van innovatieve oplossingen. Naast de reguliere IT-werking en -ondersteuning, lopen binnen de cel D&amp;I twee strategische programma’s die de digitale transformatie van het agentschap vormgeven:</span></p> \n<ul> \n<li><span>Digitale Dienstverlening: optimaliseren van digitale interactie met burgers en partners.</span></li> \n<li><span>Smart Nature: inzetten van technologie (IoT, AI, data-analyse, satellietbeelden, drones…) om natuurbeheer slimmer en efficiënter te maken.</span></li> </ul> \n<p><span>Binnen deze cel werk je onder de Manager Innovatie &amp; Data en dit als Innovatie Project Manager AI &amp; Data om onze AI- en innovatieprojecten verder te versterken.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<ul> \n<li><span>Vormgeven, opstarten en trekken van innovatie- en AI-experimenten en projecten van idee tot in productie</span></li> \n<li><span>Vertalen van businessvragen naar concrete innovatie en AI use cases, doelstellingen en scope</span></li> \n<li><span>Inhoudelijk aansturen en challengen van technische teams (data science, engineering, MLOps)</span></li> \n<li><span>Bewaken van voortgang, kwaliteit, risico’s en waardecreatie</span></li> \n<li><span>Rapporteren over status, knelpunten en beslissingen aan stakeholders en management</span></li> \n<li><span>Faciliteren van samenwerking in een Agile werkomgeving</span></li> \n<li><span>Meedenken over AI- en data governance, ethiek en duurzame inbedding binnen ANB</span></li> \n<li><span>Bijdragen aan de verdere uitbouw van innovatieprocessen binnen de organisatie</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72890073",
       "internal": false,
@@ -1627,42 +1843,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72192203",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72192203",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Expert Verenigingsregister (Digitaal Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Product Owner Expert Verenigingsregister (Digitaal Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een \n<strong>product owner expert </strong>ter versterking van onze afdeling \n<strong>Data Platform</strong> binnen het team \n<strong>Basisregisters</strong>. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je \n<strong>graag actief wil samenwerken met steden en gemeenten en andere Vlaamse overheidsorganisaties om samen tot kwaliteitsvolle gegevens over (feitelijke) verenigingen te komen</strong>, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span></p> \n<p><span><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op  \n<strong>#partner, #ontzorgen en #éénteam</strong>.</span></span></p> \n<p><span><span>Je komt terecht binnen de afdeling Data-oplossingen in het team Basisregisters. De basisregisters vormen de hoeksteen van de digitale overheid van morgen. Ze ondersteunen organisaties in het maken van data-gedreven beleidsbeslissingen en faciliteren dienstverlening t.a.v. burgers, ondernemingen en verenigingen.</span></span></p> \n<p><span><span>Het verenigingsregister zorgt voor een eenmalige, kwaliteitsvolle registratie van gegevens over verenigingen, opdat deze door vele afnemers binnen de private en publieke sector hergebruikt kunnen worden.</span></span></p> \n<p><span><span>Onze kantoren bevinden zich in Gent en Brussel en wij hebben een 50% aanwezigheid op kantoor afspraak in combinatie met thuiswerk.</span></span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><strong>Als product owner expert </strong>binnen de Basisregisters ontferm je je over de organisatie van beheer van kwaliteitsvolle gegevens over verenigingen. Dit betekent dat je de \n<strong>(data) governance</strong> uitwerkt, implementeert en monitort. Je werkt nauw samen met steden en gemeenten voor de registratie van de gegevens. Ook samenwerking met Vlaamse en Federale overheidsorganisaties is belangrijk. Het aligneren van de verschillende belangen, het zoeken naar compromissen en het maken van moeilijke beslissingen met oog op een ambitieus toekomstbeeld schrikken je niet af.</p> \n<p>Je bent \n<strong>geen ICT backlog owner</strong>, gezien de technologische oplossing en bijhorende backlog slechts een klein stukje van het werk is. Je zal vooral inzetten \n<strong>op interactie</strong><strong> met organisaties die verenigingsgegevens beheren en gebruiken in hun eigen werking </strong>om opportuniteiten te identificeren, de meerwaarde van het register tot bij hen te brengen en hun noden te begrijpen. \n<strong></strong>Daarnaast is \n<strong></strong>een \n<strong></strong><strong>degelijke kennis van het datadomein</strong> en begrip van de meerwaarde van de gegevens voor de Vlaamse overheidsorganisaties belangrijk.</p>",
-        "htmlEncoded": "<p><strong><span>Inleiding</span></strong></p> \n<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een \n<strong>product owner expert </strong>ter versterking van onze afdeling \n<strong>Data Platform</strong> binnen het team \n<strong>Basisregisters</strong>. </span></p> \n<p><span>Ben jij op zoek naar een nieuwe uitdaging waarbij je \n<strong>graag actief wil samenwerken met steden en gemeenten en andere Vlaamse overheidsorganisaties om samen tot kwaliteitsvolle gegevens over (feitelijke) verenigingen te komen</strong>, dan ben jij misschien wel onze ideale kandidaat! </span></p> \n<p><strong><span>Waar kom je terecht? </span></strong></p> \n<p><span><span>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen.</span></span></p> \n<p><span><span>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa. \n<br> We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken.</span></span></p> \n<p><span><span>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op  \n<strong>#partner, #ontzorgen en #éénteam</strong>.</span></span></p> \n<p><span><span>Je komt terecht binnen de afdeling Data-oplossingen in het team Basisregisters. De basisregisters vormen de hoeksteen van de digitale overheid van morgen. Ze ondersteunen organisaties in het maken van data-gedreven beleidsbeslissingen en faciliteren dienstverlening t.a.v. burgers, ondernemingen en verenigingen.</span></span></p> \n<p><span><span>Het verenigingsregister zorgt voor een eenmalige, kwaliteitsvolle registratie van gegevens over verenigingen, opdat deze door vele afnemers binnen de private en publieke sector hergebruikt kunnen worden.</span></span></p> \n<p><span><span>Onze kantoren bevinden zich in Gent en Brussel en wij hebben een 50% aanwezigheid op kantoor afspraak in combinatie met thuiswerk.</span></span></p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p><strong>Als product owner expert </strong>binnen de Basisregisters ontferm je je over de organisatie van beheer van kwaliteitsvolle gegevens over verenigingen. Dit betekent dat je de \n<strong>(data) governance</strong> uitwerkt, implementeert en monitort. Je werkt nauw samen met steden en gemeenten voor de registratie van de gegevens. Ook samenwerking met Vlaamse en Federale overheidsorganisaties is belangrijk. Het aligneren van de verschillende belangen, het zoeken naar compromissen en het maken van moeilijke beslissingen met oog op een ambitieus toekomstbeeld schrikken je niet af.</p> \n<p>Je bent \n<strong>geen ICT backlog owner</strong>, gezien de technologische oplossing en bijhorende backlog slechts een klein stukje van het werk is. Je zal vooral inzetten \n<strong>op interactie</strong><strong> met organisaties die verenigingsgegevens beheren en gebruiken in hun eigen werking </strong>om opportuniteiten te identificeren, de meerwaarde van het register tot bij hen te brengen en hun noden te begrijpen. \n<strong></strong>Daarnaast is \n<strong></strong>een \n<strong></strong><strong>degelijke kennis van het datadomein</strong> en begrip van de meerwaarde van de gegevens voor de Vlaamse overheidsorganisaties belangrijk.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72183453",
       "internal": false,
       "validThroughDate": "-1",
@@ -2657,7 +2837,7 @@
     {
       "link": "/Job/cornerstone-19938",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1770595200",
       "hiringOrganization": "Departement Cultuur, Jeugd en Media",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -2674,18 +2854,18 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Medewerker collectiebeheer collectie Vlaamse Gemeenschap"
+        "htmlEncoded": "Medewerker collectiebeheer Collectie Vlaamse Gemeenschap"
       },
-      "displayTitle": "Medewerker collectiebeheer collectie Vlaamse Gemeenschap",
+      "displayTitle": "Medewerker collectiebeheer Collectie Vlaamse Gemeenschap",
       "isProtected": false,
       "description": {
-        "raw": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers): opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers): opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+        "raw": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers: opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers: opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Vilvoorde"
           }
         }
       ]
