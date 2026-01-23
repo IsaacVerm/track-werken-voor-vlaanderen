@@ -1,10 +1,10 @@
 {
-  "totalItems": 108,
+  "totalItems": 109,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 107,
+  "lastItemOfPage": 108,
   "items": [
     {
       "link": "/Job/vdab-72890073",
@@ -2655,6 +2655,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19938",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19938",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker collectiebeheer collectie Vlaamse Gemeenschap"
+      },
+      "displayTitle": "Medewerker collectiebeheer collectie Vlaamse Gemeenschap",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers): opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers): opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19936",
       "internal": false,
       "validThroughDate": "1770854400",
@@ -2906,42 +2942,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19887",
-      "internal": false,
-      "validThroughDate": "1769040000",
-      "hiringOrganization": "Sport Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19887",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Coördinator keuken en schoonmaak"
-      },
-      "displayTitle": "Coördinator keuken en schoonmaak",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij een geboren coördinator en vind je het belangrijk om mensen te coachen op vlak van welzijn en hen te motiveren om tot het beste resultaat te komen? Zijn de HACPP-normen en schoonmaaknormen je niet vreemd? Leg je bovendien graag contacten en schrikt het je niet af om met zowel interne als externe partners te communiceren? Dan ben jij dé logistiek coördinator keuken en schoonmaak waar Sport Vlaanderen Herentals naar op zoek is!<br><br>Je speelt een cruciale rol voor Sport Vlaanderen Herentals. Je staat in voor de coördinatie van het keuken- en schoonmaakteam (11 personen) en zorgt dat de kwaliteitseisen behaald worden. Je steekt ook geregeld zelf de handen uit de mouwen en je draait mee met de teams.&nbsp; Daarnaast ben je ook verantwoordelijk voor het onderhouden van de operationele contacten van de externe partijen. Bij events en wedstrijden werk je samen met de andere coördinatoren en bied je logistieke ondersteuning.<br><br>Jouw flexibiliteit is hierbij een grote troef, want je werkt niet alleen in dagshiften maar ook af en toe in avondshiften of in het weekend, afhankelijk van de bezetting. <br><br>In deze rol ben je niet alleen een organisator, maar ook een coach. Je inspireert je teamleden en ondersteunt hen in hun werk. Dankzij jouw coachende aanpak weet je mensen te motiveren en eventuele spanningen binnen het team op te lossen. Je staat in voor het welzijn van de medewerkers en zorgt ervoor dat alles vlot verloopt op vlak van veiligheid en gezondheid.<br><br>Kortom, als logistiek coördinator keuken en schoonmaak ben je onmisbaar voor Sport Vlaanderen Herentals. Dankzij jouw inzet en expertise blijft het sportcentrum in topconditie en kunnen de klanten zorgeloos sporten.<br><br>Solliciteer nu en word deel van ons team! Wij bieden jou een uitdagende en afwisselende job in een&nbsp; groene en sportieve omgeving.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Ben jij een geboren coördinator en vind je het belangrijk om mensen te coachen op vlak van welzijn en hen te motiveren om tot het beste resultaat te komen? Zijn de HACPP-normen en schoonmaaknormen je niet vreemd? Leg je bovendien graag contacten en schrikt het je niet af om met zowel interne als externe partners te communiceren? Dan ben jij dé logistiek coördinator keuken en schoonmaak waar Sport Vlaanderen Herentals naar op zoek is!<br><br>Je speelt een cruciale rol voor Sport Vlaanderen Herentals. Je staat in voor de coördinatie van het keuken- en schoonmaakteam (11 personen) en zorgt dat de kwaliteitseisen behaald worden. Je steekt ook geregeld zelf de handen uit de mouwen en je draait mee met de teams.&nbsp; Daarnaast ben je ook verantwoordelijk voor het onderhouden van de operationele contacten van de externe partijen. Bij events en wedstrijden werk je samen met de andere coördinatoren en bied je logistieke ondersteuning.<br><br>Jouw flexibiliteit is hierbij een grote troef, want je werkt niet alleen in dagshiften maar ook af en toe in avondshiften of in het weekend, afhankelijk van de bezetting. <br><br>In deze rol ben je niet alleen een organisator, maar ook een coach. Je inspireert je teamleden en ondersteunt hen in hun werk. Dankzij jouw coachende aanpak weet je mensen te motiveren en eventuele spanningen binnen het team op te lossen. Je staat in voor het welzijn van de medewerkers en zorgt ervoor dat alles vlot verloopt op vlak van veiligheid en gezondheid.<br><br>Kortom, als logistiek coördinator keuken en schoonmaak ben je onmisbaar voor Sport Vlaanderen Herentals. Dankzij jouw inzet en expertise blijft het sportcentrum in topconditie en kunnen de klanten zorgeloos sporten.<br><br>Solliciteer nu en word deel van ons team! Wij bieden jou een uitdagende en afwisselende job in een&nbsp; groene en sportieve omgeving.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Herentals"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19882",
       "internal": false,
       "validThroughDate": "1770595200",
@@ -3150,6 +3150,47 @@
         {
           "address": {
             "city": "Meise"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19860",
+      "internal": false,
+      "validThroughDate": "1770681600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19860",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker innovatie"
+      },
+      "displayTitle": "Beleidsmedewerker innovatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Wil jij mee vormgeven\naan een duurzame toekomst voor de binnenvaart?</strong></p><p>Als <strong>beleidsmedewerker\ninnovatie</strong> ben jij de motor achter vernieuwende projecten die Vlaanderen\nslimmer, groener en efficiënter maken. Je werkt in een klein, dynamisch team en\nkrijgt de ruimte om ideeën om te zetten in impactvolle resultaten.</p><p>Wat ga je doen?</p><ul><li><strong>Projectbegeleiding</strong>: je leidt projecten van klein tot groot, met focus op vergroening, innovatieve oplossingen en extra volume op de binnenvaart.</li><li><strong>Interne ondersteuning</strong>: je neemt deel aan het kernteam innovatie, schrijft beleidsadviezen en begeleidt andere afdelingen bij hun innovatieve projecten. Je werkt nauw samen met commerciële teams en collega’s rond de Green Deal Binnenvaart.</li><li><strong>Netwerkopbouw</strong>: intern vorm je de juiste teams rond innovatie. Extern onderhoud je contacten met partners, overheden en stakeholders. Je vertegenwoordigt De Vlaamse Waterweg op seminaries, beurzen en events.</li><li><strong>Administratie &amp; beleid</strong>: je stelt nota’s, rapporteringen en kabinetsdocumenten op, analyseert projecten en formuleert voorstellen voor nieuw beleid.</li><li><strong>Expertise &amp; kennis</strong>: je volgt trends en ontwikkelingen op, bouwt expertise op rond innovatie, vergroening, mobiliteit en innovatieve overheidsopdrachten.</li></ul><p>Een greep uit onze\nlopende projecten:</p><ul><li><strong>Vergroening van onze vloot</strong>: van bestekken uitschrijven tot aanvragen van ondersteuning.</li><li><strong>Green Deal Binnenvaart Vlaanderen</strong>: deelnemen aan seminaries, presentaties geven en werkgroepen organiseren.</li><li><strong>Interne ideachallenge</strong>: creatieve ideeën verzamelen, selecteren en realiseren.</li><li><strong>Opzetten en opvolgen van pilootprojecten.</strong></li></ul><p>Waarom kiezen voor deze\nfunctie?</p><p>Je krijgt een <strong>gevarieerd\ntakenpakket</strong> met uiteenlopende thema’s en werkt zowel zelfstandig als in\nteam, in nauwe samenwerking met interne collega’s én externe partners. <strong>Creativiteit\nen out-of-the-box denken</strong> worden aangemoedigd, en er is veel ruimte voor <strong>eigen\ninbreng</strong>. Bovendien maak je écht het verschil: jouw werk draagt bij aan <strong>innovatie\nen duurzaamheid in Vlaanderen.</strong></p><p>Wil je graag nog meer details over de job van beleidsmedewerker\ninnovatie? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/19860+-+fube+(1).pdf\">deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Wil jij mee vormgeven\naan een duurzame toekomst voor de binnenvaart?</strong></p><p>Als <strong>beleidsmedewerker\ninnovatie</strong> ben jij de motor achter vernieuwende projecten die Vlaanderen\nslimmer, groener en efficiënter maken. Je werkt in een klein, dynamisch team en\nkrijgt de ruimte om ideeën om te zetten in impactvolle resultaten.</p><p>Wat ga je doen?</p><ul><li><strong>Projectbegeleiding</strong>: je leidt projecten van klein tot groot, met focus op vergroening, innovatieve oplossingen en extra volume op de binnenvaart.</li><li><strong>Interne ondersteuning</strong>: je neemt deel aan het kernteam innovatie, schrijft beleidsadviezen en begeleidt andere afdelingen bij hun innovatieve projecten. Je werkt nauw samen met commerciële teams en collega’s rond de Green Deal Binnenvaart.</li><li><strong>Netwerkopbouw</strong>: intern vorm je de juiste teams rond innovatie. Extern onderhoud je contacten met partners, overheden en stakeholders. Je vertegenwoordigt De Vlaamse Waterweg op seminaries, beurzen en events.</li><li><strong>Administratie &amp; beleid</strong>: je stelt nota’s, rapporteringen en kabinetsdocumenten op, analyseert projecten en formuleert voorstellen voor nieuw beleid.</li><li><strong>Expertise &amp; kennis</strong>: je volgt trends en ontwikkelingen op, bouwt expertise op rond innovatie, vergroening, mobiliteit en innovatieve overheidsopdrachten.</li></ul><p>Een greep uit onze\nlopende projecten:</p><ul><li><strong>Vergroening van onze vloot</strong>: van bestekken uitschrijven tot aanvragen van ondersteuning.</li><li><strong>Green Deal Binnenvaart Vlaanderen</strong>: deelnemen aan seminaries, presentaties geven en werkgroepen organiseren.</li><li><strong>Interne ideachallenge</strong>: creatieve ideeën verzamelen, selecteren en realiseren.</li><li><strong>Opzetten en opvolgen van pilootprojecten.</strong></li></ul><p>Waarom kiezen voor deze\nfunctie?</p><p>Je krijgt een <strong>gevarieerd\ntakenpakket</strong> met uiteenlopende thema’s en werkt zowel zelfstandig als in\nteam, in nauwe samenwerking met interne collega’s én externe partners. <strong>Creativiteit\nen out-of-the-box denken</strong> worden aangemoedigd, en er is veel ruimte voor <strong>eigen\ninbreng</strong>. Bovendien maak je écht het verschil: jouw werk draagt bij aan <strong>innovatie\nen duurzaamheid in Vlaanderen.</strong></p><p>Wil je graag nog meer details over de job van beleidsmedewerker\ninnovatie? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/19860+-+fube+(1).pdf\">deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
