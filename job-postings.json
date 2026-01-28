@@ -1,10 +1,10 @@
 {
-  "totalItems": 116,
+  "totalItems": 115,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 115,
+  "lastItemOfPage": 114,
   "items": [
     {
       "link": "/Job/vdab-72897455",
@@ -2342,42 +2342,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20153",
-      "internal": false,
-      "validThroughDate": "1771113600",
-      "hiringOrganization": "ILVO Landbouw en Maatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Onderzoek en ontwikkeling",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20153",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "ILVO Eigen Vermogen Onderzoeker bedrijfsmodellen in de landbouw"
-      },
-      "displayTitle": "ILVO Eigen Vermogen Onderzoeker bedrijfsmodellen in de landbouw",
-      "isProtected": false,
-      "description": {
-        "raw": "Ben je geboeid door landbouwbedrijfsmodellen en hun\nrol in een toekomstbestendig agrovoedingssysteem? Wil je onderzoeken hoe\nlandbouwers meer waarde kunnen creëren en hun inkomensstrategieën kunnen\nversterken? Werk je graag in een interdisciplinair, wetenschappelijk team met\nvoeling voor praktijk en beleid? Zoek je een onderzoeksrol\nwaarin analyse, reflectie en impact samenkomen? Dan is deze positie een\nunieke kans voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
-        "htmlEncoded": "Ben je geboeid door landbouwbedrijfsmodellen en hun\nrol in een toekomstbestendig agrovoedingssysteem? Wil je onderzoeken hoe\nlandbouwers meer waarde kunnen creëren en hun inkomensstrategieën kunnen\nversterken? Werk je graag in een interdisciplinair, wetenschappelijk team met\nvoeling voor praktijk en beleid? Zoek je een onderzoeksrol\nwaarin analyse, reflectie en impact samenkomen? Dan is deze positie een\nunieke kans voor jou!<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
           }
         }
       ]
