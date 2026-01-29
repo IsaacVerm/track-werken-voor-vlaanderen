@@ -1,11 +1,47 @@
 {
-  "totalItems": 112,
+  "totalItems": 114,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 111,
+  "lastItemOfPage": 113,
   "items": [
+    {
+      "link": "/Job/vdab-72939350",
+      "internal": false,
+      "validThroughDate": "1771718400",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72939350",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "hoofd IT"
+      },
+      "displayTitle": "hoofd IT",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>OPZ Geel staat aan de vooravond van een belangrijke digitale en organisatorische transitie. Technologie is daarbij een hefboom voor kwaliteitsvolle zorg, efficiënte processen en veilige informatievoorziening. Onze IT-dienst speelt hierin een sleutelrol. Daarom zoeken we een hoofd IT die de noden van OPZ Geel kan vertalen naar concrete, werkbare IT-oplossingen die de organisatie versterken.</span></p> \n<p><span> </span></p> \n<p><b><span>Jouw rol</span></b></p> \n<p><span>Als hoofd IT stuur je de IT-dienst operationeel aan en bouw je mee aan een toekomstgericht IT-beleid. Je vormt de brug tussen IT en zorg- en ondersteunende diensten, luistert naar hun noden en zet deze om in oplossingsgerichte, haalbare digitale verbeteringen. Je waakt over een stabiele, veilige en performante IT-omgeving waar cybersecurity en betrouwbare informatievoorziening essentieel zijn. Daarnaast neem je een sleutelrol op in de digitale transformatie van OPZ Geel.</span></p> \n<p><span> </span></p> \n<p><b><span>Jouw verantwoordelijkheden</span></b></p> \n<p><span>· </span><span>Ontwikkelen en uitvoeren van de IT-strategie in lijn met het beleid van OPZ Geel</span></p> \n<p><span>· </span><span>Vertalen van organisatienoden naar IT-oplossingen die de werking ondersteunen</span></p> \n<p><span>· </span><span>Leidinggeven aan het IT-team en het stimuleren van groei, verantwoordelijkheid en samenwerking</span></p> \n<p><span>· </span><span>Samenwerken met interne stakeholders (o.a. zorg, HR, kwaliteit, finance)</span></p> \n<p><span>· </span><span>Uitwerken en opvolgen van het cybersecuritybeleid (conform NIS2)</span></p> \n<p><span>· </span><span>Bewaken van continuïteit van infrastructuur, applicaties en support</span></p> \n<p><span>· </span><span>Vertalen van technologische evoluties naar kansen voor de organisatie</span></p>",
+        "htmlEncoded": "<p><span>OPZ Geel staat aan de vooravond van een belangrijke digitale en organisatorische transitie. Technologie is daarbij een hefboom voor kwaliteitsvolle zorg, efficiënte processen en veilige informatievoorziening. Onze IT-dienst speelt hierin een sleutelrol. Daarom zoeken we een hoofd IT die de noden van OPZ Geel kan vertalen naar concrete, werkbare IT-oplossingen die de organisatie versterken.</span></p> \n<p><span> </span></p> \n<p><b><span>Jouw rol</span></b></p> \n<p><span>Als hoofd IT stuur je de IT-dienst operationeel aan en bouw je mee aan een toekomstgericht IT-beleid. Je vormt de brug tussen IT en zorg- en ondersteunende diensten, luistert naar hun noden en zet deze om in oplossingsgerichte, haalbare digitale verbeteringen. Je waakt over een stabiele, veilige en performante IT-omgeving waar cybersecurity en betrouwbare informatievoorziening essentieel zijn. Daarnaast neem je een sleutelrol op in de digitale transformatie van OPZ Geel.</span></p> \n<p><span> </span></p> \n<p><b><span>Jouw verantwoordelijkheden</span></b></p> \n<p><span>· </span><span>Ontwikkelen en uitvoeren van de IT-strategie in lijn met het beleid van OPZ Geel</span></p> \n<p><span>· </span><span>Vertalen van organisatienoden naar IT-oplossingen die de werking ondersteunen</span></p> \n<p><span>· </span><span>Leidinggeven aan het IT-team en het stimuleren van groei, verantwoordelijkheid en samenwerking</span></p> \n<p><span>· </span><span>Samenwerken met interne stakeholders (o.a. zorg, HR, kwaliteit, finance)</span></p> \n<p><span>· </span><span>Uitwerken en opvolgen van het cybersecuritybeleid (conform NIS2)</span></p> \n<p><span>· </span><span>Bewaken van continuïteit van infrastructuur, applicaties en support</span></p> \n<p><span>· </span><span>Vertalen van technologische evoluties naar kansen voor de organisatie</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72897455",
       "internal": false,
@@ -411,8 +447,8 @@
       "openPositions": 1,
       "domain": "ICT",
       "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
       "degreeEqualByExperience": false,
       "identifier": "vdab-72878165",
@@ -722,42 +758,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72791853",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72791853",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel tester (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Functioneel tester (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>",
-        "htmlEncoded": "<p><span>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties en bewaken we de functionele en technische gezondheid ervan.</span></p> \n<p><span>VDAB is een omgeving met een moderne technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt terecht in een aangenaam team van fijne collega’s en krijgt ruimte voor professionele groei. We hechten veel belang aan de work-life balance van onze medewerkers en de functie bij VDAB heeft een belangrijke maatschappelijke impact.</span></p> \n<p><span>Om de continuïteit en de kwaliteit van het QA proces te garanderen zet SWF in op interne medewerkers.</span></p> \n<p><span>Een typisch software team bij VDAB bestaat uit een teamleider, technisch en functioneel architect, 3 functioneel analisten, 8 developers en 1 tester.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als functioneel tester ben je verantwoordelijk voor het waarborgen van de functionele kwaliteit en betrouwbaarheid van onze software. Dit doe je door te controleren of het eindproduct exact voldoet aan de gedefinieerde businessvereisten en specificaties. Zo zorgen we voor een optimale en foutloze gebruikerservaring.</span></p> \n<p><span>De functie biedt een unieke combinatie van technische en functionele uitdagingen, waarbij kritisch denken en directe impact op het eindproduct centraal staan. Je werkt intensief samen met je teamleden en stakeholders, waarbij assertieve communicatie en samenwerking essentieel zijn.</span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>Men is succesvol in de functie van Functioneel Tester als:</span></p> \n<p><span><span>● </span></span><span>men de business behoeften en functionele eisen begrijpt</span></p> \n<p><span><span>● </span></span><span>heldere, gestructureerde testscenario’s en testcases opstelt </span></p> \n<p><span><span>● </span></span><span>proactief fouten opspoort en signaleert risico’s</span></p> \n<p><span><span>● </span></span><span>je effectief samen werkt met developers en business stakeholders</span></p> \n<p><span><span>● </span></span><span>je analytisch sterk en resultaatgericht bent</span></p> \n<p><span><span>● </span></span><span>kennis heeft van relevante testtools en -methodieken</span></p> \n<p><span><span>● </span></span><span>zelfstandig werkt en communiceert binnen het team</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -2131,6 +2131,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20212",
+      "internal": false,
+      "validThroughDate": "1771718400",
+      "hiringOrganization": "ILVO Technologie en Voeding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20212",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Doctoraatsbursaal Microbioom van eiwithoudende zaden"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Doctoraatsbursaal Microbioom van eiwithoudende zaden",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij meebouwen aan kwaliteitsvolle, veilige,\nlokale, eiwitrijke gewassen voor de toekomst? Interesseert het je om microbiologie, landbouw en\nvoedselveiligheid te verbinden? Werk je graag afwisselend in het veld, het labo\nén in overleg met stakeholders? Wil je pionieren in een onderzoeksdomein dat\nvolop in beweging is?<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.",
+        "htmlEncoded": "Wil jij meebouwen aan kwaliteitsvolle, veilige,\nlokale, eiwitrijke gewassen voor de toekomst? Interesseert het je om microbiologie, landbouw en\nvoedselveiligheid te verbinden? Werk je graag afwisselend in het veld, het labo\nén in overleg met stakeholders? Wil je pionieren in een onderzoeksdomein dat\nvolop in beweging is?<br><br>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20181",
       "internal": false,
       "validThroughDate": "1771718400",
@@ -2542,6 +2578,39 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20028",
+      "internal": false,
+      "validThroughDate": "1771200000",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Horeca en toerisme",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20028",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Kok"
+      },
+      "displayTitle": "Kok",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><strong>Het Facilitair Bedrijf leg een werfreserve aan voor de functie van kok.</strong></span></p><p><span>Ben jij een enthousiaste kok met liefde voor smaakvolle gerechten en werk je graag in een moderne en professionele omgeving? Dan hebben wij dé job voor jou!</span></p> <p><span>Voor onze keukens in Brussel leggen we een werfreserve aan voor toekomstige vacatures in de grootkeuken.</span></p> <p><span>Als kok ben je verantwoordelijk voor de bereiding van gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse overheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en organisatie in de keuken. Je werkt met moderne technieken en toestellen en draagt actief bij aan de ontwikkeling van nieuwe menu’s.</span></p> <p><span>Samen met je collega’s, waaronder een back-up chef, andere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude en warme gerechten, desserts en andere lekkernijen. Je werkt in een grootkeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en klantvriendelijkheid.</span></p> <p><span>Klinkt dit als iets voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span><strong>Het Facilitair Bedrijf leg een werfreserve aan voor de functie van kok.</strong></span></p><p><span>Ben jij een enthousiaste kok met liefde voor smaakvolle gerechten en werk je graag in een moderne en professionele omgeving? Dan hebben wij dé job voor jou!</span></p> <p><span>Voor onze keukens in Brussel leggen we een werfreserve aan voor toekomstige vacatures in de grootkeuken.</span></p> <p><span>Als kok ben je verantwoordelijk voor de bereiding van gevarieerde en kwalitatieve maaltijden voor de medewerkers van de Vlaamse overheid. Je ondersteunt de chef catering bij de werkplanning, bestellingen en organisatie in de keuken. Je werkt met moderne technieken en toestellen en draagt actief bij aan de ontwikkeling van nieuwe menu’s.</span></p> <p><span>Samen met je collega’s, waaronder een back-up chef, andere koks en keukenhulpen zorg je dagelijks voor een breed aanbod aan koude en warme gerechten, desserts en andere lekkernijen. Je werkt in een grootkeuken en hecht veel belang aan kwaliteit, efficiëntie, hygiëne en klantvriendelijkheid.</span></p> <p><span>Klinkt dit als iets voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
