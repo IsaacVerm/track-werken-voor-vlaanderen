@@ -1,11 +1,119 @@
 {
-  "totalItems": 120,
+  "totalItems": 121,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 119,
+  "lastItemOfPage": 120,
   "items": [
+    {
+      "link": "/Job/vdab-72968323",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72968323",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "System engineer - Data, AI & GIS (Agentschap Natuur en Bos) via Vlaanderen Connect"
+      },
+      "displayTitle": "System engineer - Data, AI & GIS (Agentschap Natuur en Bos) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt meer dan 70.000 hectare natuurgebieden, bossen en parken in Vlaanderen. Onder het motto “Samen voor Meer en Beter” zetten we ons dagelijks in voor waardevolle natuur en een duurzame leefomgeving.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel ondersteunt en versnelt de digitale transformatie van het agentschap en ontwikkelt innovatieve oplossingen die onze werking slimmer, efficiënter en toekomstgericht maken. Binnen deze cel lopen onder andere twee strategische programma’s:</span></p> \n<p><span>· Digitale Dienstverlening: verbeteren van digitale interactie met burgers, terreinpartners en andere overheden.</span></p> \n<p><span>· Smart Nature: inzetten van technologie zoals IoT, data-analyse, artificiële intelligentie, satellietbeelden en drones om natuurbeheer te ondersteunen en te optimaliseren.</span></p> \n<p><span>Als System Engineer Data, AI &amp; GIS werk je onder leiding van de Manager Innovatie &amp; Data en speel je een cruciale rol in het bouwen, beheren en professionaliseren van de technische platformen die deze programma’s mogelijk maken.</span></p> \n<p><span>Jouw rol – Wat ga je doen?</span></p> \n<p><span>Als Platform / System Engineer Data, AI &amp; GIS bouw je mee aan de technische fundamenten van onze digitale werking. Je zorgt ervoor dat platformen voor data-analyse, AI-toepassingen en GIS stabiel, veilig en toekomstgericht worden opgezet en beheerd.</span></p> \n<p><span>Je bent verantwoordelijk voor het beheer en de samenhang tussen infrastructuur, platformen en geïntegreerde toepassingen. Afhankelijk van noden en projecten ondersteun je verschillende teams (data, AI, GIS, ontwikkeling) en zorg je dat hun toepassingen vlot van ontwikkeling naar productie kunnen gaan.</span></p> \n<p><strong>Concreet betekent dit dat je:</strong></p> \n<p><span>· Platformen en omgevingen ontwerpt, installeert, configureert en beheert voor data-, AI- en GIS-toepassingen.</span></p> \n<p><span>· Zorgt voor een betrouwbare productieomgeving via automatisatie, monitoring, beveiliging en performantie-optimalisatie.</span></p> \n<p><span>· Linux servers en onderliggende infrastructuur beheert, zowel on premise als in de cloud.</span></p> \n<p><span>· Containertechnologieën (Docker, Kubernetes of gelijkaardig) inzet voor het uitrollen en beheren van applicaties.</span></p> \n<p><span>· Meewerkt aan CI/CD-, DevOps- en MLOps-processen zodat toepassingen schaalbaar en reproduceerbaar kunnen draaien.</span></p> \n<p><span>· Databanken en datastromen beheert die gebruikt worden door data-, AI- en GIS-applicaties.</span></p> \n<p><span>· API’s en services opzet en onderhoudt om platformen, applicaties en externe diensten met elkaar te integreren.</span></p> \n<p><span>· Meewerkt aan de uitbouw en het beheer van de Enterprise GIS-omgeving, inclusief services, gebruikersbeheer en integraties.</span></p> \n<p><span>· Samenwerkt met ontwikkelaars, data scientists, GIS-experten en cloudteams om technische oplossingen af te stemmen op functionele noden.</span></p> \n<p><span>· Actief meedenkt over verbeteringen, nieuwe technologieën en de verdere professionalisering van het platformlandschap.</span></p> \n<p><span>· Architecturen, configuraties en werkwijzen documenteert.</span></p>",
+        "htmlEncoded": "<p><strong>Waar kom je terecht?</strong></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt meer dan 70.000 hectare natuurgebieden, bossen en parken in Vlaanderen. Onder het motto “Samen voor Meer en Beter” zetten we ons dagelijks in voor waardevolle natuur en een duurzame leefomgeving.</span></p> \n<p><span>Je komt terecht bij de Cel Digitalisering &amp; Innovatie van ANB. Deze cel ondersteunt en versnelt de digitale transformatie van het agentschap en ontwikkelt innovatieve oplossingen die onze werking slimmer, efficiënter en toekomstgericht maken. Binnen deze cel lopen onder andere twee strategische programma’s:</span></p> \n<p><span>· Digitale Dienstverlening: verbeteren van digitale interactie met burgers, terreinpartners en andere overheden.</span></p> \n<p><span>· Smart Nature: inzetten van technologie zoals IoT, data-analyse, artificiële intelligentie, satellietbeelden en drones om natuurbeheer te ondersteunen en te optimaliseren.</span></p> \n<p><span>Als System Engineer Data, AI &amp; GIS werk je onder leiding van de Manager Innovatie &amp; Data en speel je een cruciale rol in het bouwen, beheren en professionaliseren van de technische platformen die deze programma’s mogelijk maken.</span></p> \n<p><span>Jouw rol – Wat ga je doen?</span></p> \n<p><span>Als Platform / System Engineer Data, AI &amp; GIS bouw je mee aan de technische fundamenten van onze digitale werking. Je zorgt ervoor dat platformen voor data-analyse, AI-toepassingen en GIS stabiel, veilig en toekomstgericht worden opgezet en beheerd.</span></p> \n<p><span>Je bent verantwoordelijk voor het beheer en de samenhang tussen infrastructuur, platformen en geïntegreerde toepassingen. Afhankelijk van noden en projecten ondersteun je verschillende teams (data, AI, GIS, ontwikkeling) en zorg je dat hun toepassingen vlot van ontwikkeling naar productie kunnen gaan.</span></p> \n<p><strong>Concreet betekent dit dat je:</strong></p> \n<p><span>· Platformen en omgevingen ontwerpt, installeert, configureert en beheert voor data-, AI- en GIS-toepassingen.</span></p> \n<p><span>· Zorgt voor een betrouwbare productieomgeving via automatisatie, monitoring, beveiliging en performantie-optimalisatie.</span></p> \n<p><span>· Linux servers en onderliggende infrastructuur beheert, zowel on premise als in de cloud.</span></p> \n<p><span>· Containertechnologieën (Docker, Kubernetes of gelijkaardig) inzet voor het uitrollen en beheren van applicaties.</span></p> \n<p><span>· Meewerkt aan CI/CD-, DevOps- en MLOps-processen zodat toepassingen schaalbaar en reproduceerbaar kunnen draaien.</span></p> \n<p><span>· Databanken en datastromen beheert die gebruikt worden door data-, AI- en GIS-applicaties.</span></p> \n<p><span>· API’s en services opzet en onderhoudt om platformen, applicaties en externe diensten met elkaar te integreren.</span></p> \n<p><span>· Meewerkt aan de uitbouw en het beheer van de Enterprise GIS-omgeving, inclusief services, gebruikersbeheer en integraties.</span></p> \n<p><span>· Samenwerkt met ontwikkelaars, data scientists, GIS-experten en cloudteams om technische oplossingen af te stemmen op functionele noden.</span></p> \n<p><span>· Actief meedenkt over verbeteringen, nieuwe technologieën en de verdere professionalisering van het platformlandschap.</span></p> \n<p><span>· Architecturen, configuraties en werkwijzen documenteert.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72967983",
+      "internal": false,
+      "validThroughDate": "1770508800",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72967983",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "maatschappelijk assistent Crisisunit"
+      },
+      "displayTitle": "maatschappelijk assistent Crisisunit",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode van hun leven? De crisisunit binnen de divisie jongeren van het OPZ Geel zoekt een maatschappelijk assistent die sociaal, communicatief en organisatorisch sterk is. </span></p> \n<p><b><span>Over ons</span></b></p> \n<p><span>De crisisunit jongeren biedt \n<b>kortdurende residentiële zorg</b> aan jongeren tussen 12 en 18 jaar. \n<b>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</b>.</span></p> \n<p><b><span>Wat ga je doen?</span></b></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul> \n<li><span>Je ondersteunt ouders tijdens het \n<b>opnameproces van hun kind </b><span>en tracht op deze manier de \n<b>context een plaats</b> te geven tijdens de crisisopname</span></span></li> \n<li><span>Je coördineert de \n<b>aanmeldings- en intakeprocedures</b> en stemt alle stappen zorgvuldig af binnen het team</span></li> \n<li><span>Je onderhoudt op \n<b>professionele wijze</b> contacten met verwijzers en juridische instanties</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<b>sociaal-administratieve opvolging</b> </span></li> \n<li><span>Als belangrijk lid van het \n<b>kernteam</b> geef je ons dagelijks beleid actief mee vorm</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<b>externe overlegplatformen</b> </span></li> \n<li><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving.</span></li> </ul>",
+        "htmlEncoded": "<p><span>Wil jij écht het verschil maken voor jongeren in een kwetsbare periode van hun leven? De crisisunit binnen de divisie jongeren van het OPZ Geel zoekt een maatschappelijk assistent die sociaal, communicatief en organisatorisch sterk is. </span></p> \n<p><b><span>Over ons</span></b></p> \n<p><span>De crisisunit jongeren biedt \n<b>kortdurende residentiële zorg</b> aan jongeren tussen 12 en 18 jaar. \n<b>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</b>.</span></p> \n<p><b><span>Wat ga je doen?</span></b></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul> \n<li><span>Je ondersteunt ouders tijdens het \n<b>opnameproces van hun kind </b><span>en tracht op deze manier de \n<b>context een plaats</b> te geven tijdens de crisisopname</span></span></li> \n<li><span>Je coördineert de \n<b>aanmeldings- en intakeprocedures</b> en stemt alle stappen zorgvuldig af binnen het team</span></li> \n<li><span>Je onderhoudt op \n<b>professionele wijze</b> contacten met verwijzers en juridische instanties</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<b>sociaal-administratieve opvolging</b> </span></li> \n<li><span>Als belangrijk lid van het \n<b>kernteam</b> geef je ons dagelijks beleid actief mee vorm</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<b>externe overlegplatformen</b> </span></li> \n<li><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72967721",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72967721",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Java developers SWF (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Java developers SWF (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p> \n<p>Een Java Developer is een programmeur die met behulp van de programmeertaal Java en enkele andere technologieën applicaties ontwikkelt. De doelstellingen van deze functie zijn gericht op het creëren van technologische oplossingen die voldoen aan de eisen van gebruikers en VDAB.</p> \n<p>Het team bestaat uit een teamleider, scrummaster, een technisch architect, 1 functionele architect, 2 analisten, een lead developer, 8 java ontwikkelaars, een test automator en een manuele tester.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>● </span>Het ontwikkelen van kwaliteitsvolle software.</p> \n<p><span>● </span>Het up to date houden van het portfolio van het team.</p> \n<p><span>● </span>Omgaan met privacygevoelige data.</p> \n<p><strong>Jouw taken</strong></p> \n<p><span>● </span>Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap.</p> \n<p><span>● </span>Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</p> \n<p><span>● </span>We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.</p> \n<p>Volgende technologieën worden gebruikt in onze afdeling: Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,... </p>",
+        "htmlEncoded": "<p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p> \n<p>Een Java Developer is een programmeur die met behulp van de programmeertaal Java en enkele andere technologieën applicaties ontwikkelt. De doelstellingen van deze functie zijn gericht op het creëren van technologische oplossingen die voldoen aan de eisen van gebruikers en VDAB.</p> \n<p>Het team bestaat uit een teamleider, scrummaster, een technisch architect, 1 functionele architect, 2 analisten, een lead developer, 8 java ontwikkelaars, een test automator en een manuele tester.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>● </span>Het ontwikkelen van kwaliteitsvolle software.</p> \n<p><span>● </span>Het up to date houden van het portfolio van het team.</p> \n<p><span>● </span>Omgaan met privacygevoelige data.</p> \n<p><strong>Jouw taken</strong></p> \n<p><span>● </span>Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap.</p> \n<p><span>● </span>Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</p> \n<p><span>● </span>We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Team Icarus ontwikkelt vooral applicaties die informatiestromen (data) gaan uitwisselen van en naar VDAB met externe partner. Daarnaast hebben ze ook enkele master applicaties.</p> \n<p>Volgende technologieën worden gebruikt in onze afdeling: Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,... </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72953219",
       "internal": false,
@@ -278,9 +386,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "product owner Allis (Agentschap integratie en inburgering) via Vlaanderen connect"
+        "htmlEncoded": "Product Owner (CRM in Salesforce) (Agentschap integratie en inburgering) via Vlaanderen connect"
       },
-      "displayTitle": "product owner Allis (Agentschap integratie en inburgering) via Vlaanderen connect",
+      "displayTitle": "Product Owner (CRM in Salesforce) (Agentschap integratie en inburgering) via Vlaanderen connect",
       "isProtected": false,
       "description": {
         "raw": "<p>Digitalisering is een belangrijk speerpunt voor het AgII. De afgelopen jaren hebben we flink geïnvesteerd in het ontwikkelen van digitale oplossingen. Ons grootste project heet ‘Allis’.</p> \n<p>Allis is een systeem dat ons helpt om klanten te volgen en onze verschillende diensten te ondersteunen. Het draait op het platform Salesforce. Allis zal instaan voor klantopvolging binnen onze diensten Inburgering en NT2, Samenleven en Taal, Certificering Sociaal Tolken, Vreemdelingenrecht en Internationaal Familierecht.</p> \n<p>Omdat het systeem voortdurend verandert, zoeken we een product owner Allis. Deze persoon zal instaan voor de realisatie en opvolging van het klantopvolgsysteem.</p> \n<p><strong>Jouw talenten en vaardigheden</strong></p> \n<p>Je werkt in nauwe afstemming met de applicatiebeheerder Salesforce, de inhoudelijk verantwoordelijken binnen de betrokken diensten (de \n<em>proces owners</em>), het ontwikkelteam én de ICT-helpdesk. Jouw verantwoordelijkheden:</p> \n<p>· De \n<span>productvisie en -strategie bepalen</span> en vertalen naar concrete taken voor het team.</p> \n<p>· Aan het ontwikkelteam de productdoelen \n<span>communiceren</span> om een duidelijk beeld te geven van het beoogde resultaat.</p> \n<p>· Je houdt een lijst bij met alle taken en ideeën voor het product ( \n<span>de \n<em>backlog</em></span>) en zorgt dat deze duidelijk en overzichtelijk is. Je beschrijft wat er gedaan moet worden, bepaalt wat het belangrijkste is, en houdt daarbij rekening met de wensen van de klant, de strategie van de organisatie en wat praktisch haalbaar is.</p> \n<p>· Je \n<span>stemt regelmatig af met interne en externe stakeholders</span> om feedback te verzamelen en verwachtingen te beheren. Je communiceert transparant over de voortgang, prioriteiten en wijzigingen binnen het project.</p> \n<p>· Je bent beschikbaar voor het ontwikkelteam om \n<span>vragen</span> te beantwoorden en \n<span>beslissingen te nemen</span> die noodzakelijk zijn voor de voortgang. Je \n<span>werkt samen</span> met het team om technische en operationele knelpunten op te lossen en het ontwikkelproces soepel te laten verlopen.</p> \n<p>· Je evalueert de \n<span>prestaties van nieuwe features en bestaande functionaliteiten</span>. Dat doe je op basis van gebruikersfeedback en data-analyse. Om de gebruikerservaring en productwaarde te verhogen initieer je verbeteringen en optimalisaties.</p> \n<p>· Je identificeert mogelijke \n<span>risico’s </span>en knelpunten in het ontwikkelproces of productgebruik. Om problemen op te lossen en risico’s te beperken, ontwikkel je actieplannen.</p> \n<p>· Je kan de \n<span>projectleiding</span> Je bent verantwoordelijk voor de inhoudelijke uitvoering van de \n<em>end-to-end product life cycle</em>; de opvolging van technische ontwikkelingen, de informatie voor de DPIA, heldere project- en procescommunicatie, het uitwerken van \n<em>policies</em>, …</p> \n<p>· Je bent \n<span>communicatief</span> en kan \n<span>diplomatiek onderhandelen</span>; zowel ten aanzien van eindgebruikers als dienstverleners. Je biedt ondersteuning aan de ICT-helpdesk, luistert naar de \n<em>proces owners</em> en je hebt een sterke binding met de uitvoerende diensten (E4). Je bent in staat om noden, opportuniteit en informatiebehoeften voor een specifiek product te capteren.</p> \n<p>· Je kan het \n<span> eigenaarschap opnemen:</span> je bent in staat om zicht te houden op de waarde van het product (inhoudelijk, technisch én functioneel) en detecteert nieuwe productkansen. Je beheert het gebruik van het product.</p> \n<p>· Je kan \n<span> rapporteren en signaleren</span> aan de programmamanager. Aan optimalisatieprojecten werk je actief mee. Je signaleert opportuniteiten.</p> \n<p>· Je \n<span>beheert het budget</span>. Je waakt over het budget, stuurt bij waar nodig, en rapporteert aan de directeur financiën en bedrijfsondersteunende diensten.</p>",
@@ -1483,114 +1591,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72370497",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72370497",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data Scientist (80% bij Vlaamse onderwijsinspectie) via Vlaanderen connect"
-      },
-      "displayTitle": "Data Scientist (80% bij Vlaamse onderwijsinspectie) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Data Scientist zal je meewerken aan de volgende opdrachten:</p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</li> \n<li>Schrijven van ETL-code om data te transformeren.</li> \n<li>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</li> \n<li>Opzetten van het rechtenmodel van een dataproduct.</li> \n<li>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</li> \n<li>Documenteren van de end-to-end oplossing</li> \n<li>Ondersteuning leveren bij problemen, performance issues, …</li> \n<li>Meedenken aan procesverbeteringen en -optimalisaties.</li> </ul>",
-        "htmlEncoded": "<p>Als Data Scientist zal je meewerken aan de volgende opdrachten:</p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.</li> \n<li>Schrijven van ETL-code om data te transformeren.</li> \n<li>Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.</li> \n<li>Opzetten van het rechtenmodel van een dataproduct.</li> \n<li>Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.</li> \n<li>Documenteren van de end-to-end oplossing</li> \n<li>Ondersteuning leveren bij problemen, performance issues, …</li> \n<li>Meedenken aan procesverbeteringen en -optimalisaties.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72370490",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72370490",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Tableau Ontwikkelaar(80% bij Vlaamse Onderwijsinspectie) via Vlaanderen connect"
-      },
-      "displayTitle": "Tableau Ontwikkelaar(80% bij Vlaamse Onderwijsinspectie) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als Tableau Ontwikkelaar zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor dashboards, rapporten of andere en deze vertalen naar een concrete visualisatie-oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, performantie en gebruiksvriendelijkheid van de gevraagde rapportering, en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Ontwerpen en ontwikkelen van interactieve dashboards, rapporten en datavisualisaties in \n<span>Tableau Desktop</span> en \n<span>Tableau Server</span></li> \n<li>Vertalen van bedrijfslogica naar bruikbare datasets in samenwerking met data engineers en analisten.</li> \n<li>Optimaliseren van extracten, berekeningen, filters en dashboards voor maximale performantie en minimale laadtijden.</li> \n<li>Opzetten en beheren van \n<span>rechtenmodellen</span> in Tableau (projecten, groepen, rollen) volgens het data Governance kader.</li> \n<li>Testen en valideren van dashboards op juistheid, volledigheid, consistentie en performantie.</li> \n<li>Documenteren van de end-to-end rapporteringsoplossing (datasource, filters, berekeningen, dashboards, rechtenstructuur, enz.).</li> \n<li>Ondersteuning leveren bij productieproblemen, refreshfouten of performantie-issues.</li> \n<li>Meedenken aan procesverbeteringen, standaardisatie en automatisatie binnen de rapporteringsketen.</li> </ul>",
-        "htmlEncoded": "<p><span>Als Tableau Ontwikkelaar zal je meewerken aan de volgende opdrachten:</span></p> \n<ul> \n<li>Analyseren van de gevraagde requirements voor dashboards, rapporten of andere en deze vertalen naar een concrete visualisatie-oplossing.</li> \n<li>Evalueren van de technische haalbaarheid, performantie en gebruiksvriendelijkheid van de gevraagde rapportering, en voorstellen van verbeteringen hieromtrent.</li> \n<li>Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.</li> \n<li>Ontwerpen en ontwikkelen van interactieve dashboards, rapporten en datavisualisaties in \n<span>Tableau Desktop</span> en \n<span>Tableau Server</span></li> \n<li>Vertalen van bedrijfslogica naar bruikbare datasets in samenwerking met data engineers en analisten.</li> \n<li>Optimaliseren van extracten, berekeningen, filters en dashboards voor maximale performantie en minimale laadtijden.</li> \n<li>Opzetten en beheren van \n<span>rechtenmodellen</span> in Tableau (projecten, groepen, rollen) volgens het data Governance kader.</li> \n<li>Testen en valideren van dashboards op juistheid, volledigheid, consistentie en performantie.</li> \n<li>Documenteren van de end-to-end rapporteringsoplossing (datasource, filters, berekeningen, dashboards, rechtenstructuur, enz.).</li> \n<li>Ondersteuning leveren bij productieproblemen, refreshfouten of performantie-issues.</li> \n<li>Meedenken aan procesverbeteringen, standaardisatie en automatisatie binnen de rapporteringsketen.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72361279",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72361279",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Oracle APEX Ontwikkelaar (60% bij de Vlaams Onderwijs Inspectie) via Vlaanderen connect"
-      },
-      "displayTitle": "Oracle APEX Ontwikkelaar (60% bij de Vlaams Onderwijs Inspectie) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als Oracle APEX Ontwikkelaar zal je meewerken aan de volgende opdrachten</span></p> \n<ul> \n<li>Analyseren van functionele requirements en vertalen naar efficiënte en gebruiksvriendelijke APEX-applicaties.</li> \n<li>Ontwerpen, ontwikkelen en onderhouden van databankgestuurde webapplicaties met behulp van \n<span>Oracle Application Express (APEX).</span></li> \n<li>Ontwerpen en optimaliseren van datamodellen en \n<span>PL/SQL-logica </span>die de ruggengraat vormen van de applicaties.</li> \n<li>Bouwen van interactieve formulieren, rapporten, dashboards en grafieken met aandacht voor performantie en gebruiksgemak.</li> \n<li>Schrijven en optimaliseren van SQL- en PL/SQL-code (packages, procedures, functies, triggers).</li> \n<li>Integreren van APEX-applicaties met interne en externe databronnen via \n<span>REST API’s (ORDS)</span> of andere koppelvlakken.</li> \n<li>Implementeren van \n<span>authenticatie- en autorisatiemodellen</span> volgens het geldende security- en governance-kader.</li> \n<li>Testen en valideren van applicaties om kwaliteit, performantie en dataconsistentie te waarborgen.</li> \n<li>Documenteren van de end-to-end oplossing: datamodel, logica, componenten en deploymentprocedure.</li> \n<li>Ondersteuning leveren bij problemen, incidenten en performance-issues.</li> \n<li>Meedenken over procesverbeteringen, standaardisatie en automatisatie binnen het ontwikkelproces.</li> </ul>",
-        "htmlEncoded": "<p><span>Als Oracle APEX Ontwikkelaar zal je meewerken aan de volgende opdrachten</span></p> \n<ul> \n<li>Analyseren van functionele requirements en vertalen naar efficiënte en gebruiksvriendelijke APEX-applicaties.</li> \n<li>Ontwerpen, ontwikkelen en onderhouden van databankgestuurde webapplicaties met behulp van \n<span>Oracle Application Express (APEX).</span></li> \n<li>Ontwerpen en optimaliseren van datamodellen en \n<span>PL/SQL-logica </span>die de ruggengraat vormen van de applicaties.</li> \n<li>Bouwen van interactieve formulieren, rapporten, dashboards en grafieken met aandacht voor performantie en gebruiksgemak.</li> \n<li>Schrijven en optimaliseren van SQL- en PL/SQL-code (packages, procedures, functies, triggers).</li> \n<li>Integreren van APEX-applicaties met interne en externe databronnen via \n<span>REST API’s (ORDS)</span> of andere koppelvlakken.</li> \n<li>Implementeren van \n<span>authenticatie- en autorisatiemodellen</span> volgens het geldende security- en governance-kader.</li> \n<li>Testen en valideren van applicaties om kwaliteit, performantie en dataconsistentie te waarborgen.</li> \n<li>Documenteren van de end-to-end oplossing: datamodel, logica, componenten en deploymentprocedure.</li> \n<li>Ondersteuning leveren bij problemen, incidenten en performance-issues.</li> \n<li>Meedenken over procesverbeteringen, standaardisatie en automatisatie binnen het ontwikkelproces.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72361140",
       "internal": false,
       "validThroughDate": "-1",
@@ -2717,6 +2717,42 @@
       "description": {
         "raw": "<p>Wil jij elke dag het verschil maken in een van de meest unieke natuurregio’s van Vlaanderen? Heb je een hart voor bos, biodiversiteit en duurzaam beheer? Dan is deze functie misschien helemaal jouw terrein.<br><br><strong>Jouw impact</strong><br><br>Als boswachter in de regio <strong>Lage tot Hoge Kempen</strong> vervul je een sleutelrol binnen het terreinbeheer. Je werkt in een regio met een snel groeiend en complex natuurdomein door grote beheeroverdrachten (+3700 ha), nieuwe aankopen en diverse gebiedsprojecten.<br><br>Jouw werk ondersteunt onder meer:</p><ul><li>de uitvoering van doelstellingen van het <strong>Nationaal Park Bosland</strong>,</li><li><strong>brandrisicobeheersing</strong>,</li><li><strong>faunabeheer</strong>,</li><li>projecten binnen <strong>Blue Deal</strong>, <strong>Programmatorische Aanpak Stikstof (PAS)</strong>, <strong>Vlaams Adaptatie Plan (klimaatverandering) (VAP)</strong>, <strong>Soorten Beschermings Programma’s (SBP)</strong>, <strong>Instandhoudingsdoelstellingen (IHD)</strong>,…</li><li>en het beheer van zeven habitatrichtlijngebieden.</li></ul><p>Je wordt toegewezen aan <strong>een boswachterij gelegen in het Nationaal Park Bosland</strong>, één van de grootste en meest uitdagende clusters binnen de regio.<br><br><strong>Wat ga je doen?</strong><br><br>Je dagelijkse taken omvatten onder andere:</p><ul><li>voorbereiden, opvolgen en uitvoeren van <strong>terreinbeheer</strong>;</li><li><strong>toezicht houden</strong> op natuurgebieden en bezoekers;</li><li>praktische uitvoer van bos- en natuurbeheer (bosbouwkundige technieken, beheerwerken…);</li><li>aanspreekpunt zijn voor bezoekers, lokale besturen en partners;</li><li>bijdragen aan natuurprojecten en bescherming van kwetsbare habitats.</li></ul><p><strong>De uitdagingen van jouw regio!</strong><br><br>De <strong>Lage tot Hoge Kempen</strong>‑regio kent een hoge werkdruk door:</p><ul><li>forse uitbreidingen van beheergebieden;</li><li>beheer van uiteenlopende natuurtypes;</li><li>complexe beheerthema’s zoals hydrologisch herstel en brandpreventie;</li><li>en talrijke lopende projecten.</li></ul><p>Geen dag is dezelfde en dat vind jij net boeiend!<br><br><strong>Wie zoeken we?</strong><br><br>Een collega die:</p><ul><li>zelfstandig en oplossingsgericht werkt;</li><li>graag buiten werkt in alle omstandigheden;</li><li>sterk communiceert, zowel met collega’s als met bezoekers;</li><li>graag samenwerkt aan natuurprojecten;</li><li>verantwoordelijkheid neemt voor zijn/haar deelgebieden.</li></ul><p>Je komt terecht in de afdeling <strong>Terreinbeheer</strong>&nbsp;regio <strong>Lage tot Hoge Kempen</strong>. Je werkt nauw samen met ervaren boswachters, projectleiders en regionale teams binnen én buiten Nationaal Park Bosland.</p>",
         "htmlEncoded": "<p>Wil jij elke dag het verschil maken in een van de meest unieke natuurregio’s van Vlaanderen? Heb je een hart voor bos, biodiversiteit en duurzaam beheer? Dan is deze functie misschien helemaal jouw terrein.<br><br><strong>Jouw impact</strong><br><br>Als boswachter in de regio <strong>Lage tot Hoge Kempen</strong> vervul je een sleutelrol binnen het terreinbeheer. Je werkt in een regio met een snel groeiend en complex natuurdomein door grote beheeroverdrachten (+3700 ha), nieuwe aankopen en diverse gebiedsprojecten.<br><br>Jouw werk ondersteunt onder meer:</p><ul><li>de uitvoering van doelstellingen van het <strong>Nationaal Park Bosland</strong>,</li><li><strong>brandrisicobeheersing</strong>,</li><li><strong>faunabeheer</strong>,</li><li>projecten binnen <strong>Blue Deal</strong>, <strong>Programmatorische Aanpak Stikstof (PAS)</strong>, <strong>Vlaams Adaptatie Plan (klimaatverandering) (VAP)</strong>, <strong>Soorten Beschermings Programma’s (SBP)</strong>, <strong>Instandhoudingsdoelstellingen (IHD)</strong>,…</li><li>en het beheer van zeven habitatrichtlijngebieden.</li></ul><p>Je wordt toegewezen aan <strong>een boswachterij gelegen in het Nationaal Park Bosland</strong>, één van de grootste en meest uitdagende clusters binnen de regio.<br><br><strong>Wat ga je doen?</strong><br><br>Je dagelijkse taken omvatten onder andere:</p><ul><li>voorbereiden, opvolgen en uitvoeren van <strong>terreinbeheer</strong>;</li><li><strong>toezicht houden</strong> op natuurgebieden en bezoekers;</li><li>praktische uitvoer van bos- en natuurbeheer (bosbouwkundige technieken, beheerwerken…);</li><li>aanspreekpunt zijn voor bezoekers, lokale besturen en partners;</li><li>bijdragen aan natuurprojecten en bescherming van kwetsbare habitats.</li></ul><p><strong>De uitdagingen van jouw regio!</strong><br><br>De <strong>Lage tot Hoge Kempen</strong>‑regio kent een hoge werkdruk door:</p><ul><li>forse uitbreidingen van beheergebieden;</li><li>beheer van uiteenlopende natuurtypes;</li><li>complexe beheerthema’s zoals hydrologisch herstel en brandpreventie;</li><li>en talrijke lopende projecten.</li></ul><p>Geen dag is dezelfde en dat vind jij net boeiend!<br><br><strong>Wie zoeken we?</strong><br><br>Een collega die:</p><ul><li>zelfstandig en oplossingsgericht werkt;</li><li>graag buiten werkt in alle omstandigheden;</li><li>sterk communiceert, zowel met collega’s als met bezoekers;</li><li>graag samenwerkt aan natuurprojecten;</li><li>verantwoordelijkheid neemt voor zijn/haar deelgebieden.</li></ul><p>Je komt terecht in de afdeling <strong>Terreinbeheer</strong>&nbsp;regio <strong>Lage tot Hoge Kempen</strong>. Je werkt nauw samen met ervaren boswachters, projectleiders en regionale teams binnen én buiten Nationaal Park Bosland.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20069",
+      "internal": false,
+      "validThroughDate": "1771804800",
+      "hiringOrganization": "Agentschap Binnenlands Bestuur",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20069",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider verkiezingen"
+      },
+      "displayTitle": "Projectleider verkiezingen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>De organisatie van verkiezingen is een maatschappelijk cruciaal proces dat vraagt om sterke coördinatie, strategisch inzicht en technische affiniteit. Als projectleider verkiezingen leid je het volledige projecttraject, met als doel de afgesproken doelstellingen te realiseren binnen de vooropgestelde timing, kwaliteitsnormen en budgetten.&nbsp;&nbsp;</span></p> <p><span>Je werkt vlot samen met verschillende actoren en gaat actief de interactie aan met andere overheidsinstanties en&nbsp;</span><span>bedrijven</span><span>. Je weet zaken daadwerkelijk tot stand te brengen en vindt voor elk probleem een passende oplossing.&nbsp;</span><span>&nbsp;</span></p> <p><span>De organisatie van verkiezingen verloopt steeds meer via digitale processen; niet alleen bij het digitaal stemmen zelf, maar ook voor het kandidatenbeheer, de verwerking van manueel uitgebrachte stemmen, de zetelberekening, de aanmaak van processen-verbaal en de verspreiding van de uitslagen naar de pers. Dat vraagt kennis van en interesse in de eerder technische componenten van de verkiezingsorganisatie.</span></p> <p><span>De verkiezingskalender bepaalt het ritme van het project. Om de zes jaar vinden gemeente- en provincieraadsverkiezingen plaats, waarvoor de voorbereiding ongeveer twee jaar in beslag neemt, gevolgd door een half jaar nazorg. In de tussenliggende periodes is er een kleiner projectteam en blijf je als projectleider nauw betrokken bij overleg met andere overheden. Je volgt de evoluties in verkiezingssoftware, digitale stemprocedures, apparatuur en overheidsopdrachten op de voet. Ook voor de vijfjaarlijkse verkiezingen van het Vlaams Parlement zijn er taken, voornamelijk rond de publicatie van de uitslagen en de samenwerking met het Vlaams Parlement.&nbsp;</span></p> <p><span>Verkiezingen vragen een bijzondere inzet. In aanloop naar de verkiezingen ben je flexibel beschikbaar, ook ’s avonds en in het weekend. In ruil krijg je een unieke functie met grote autonomie en verantwoordelijkheid, waarin je samen met je projectteam toewerkt naar een intens maar betekenisvol hoogtepunt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>De organisatie van verkiezingen is een maatschappelijk cruciaal proces dat vraagt om sterke coördinatie, strategisch inzicht en technische affiniteit. Als projectleider verkiezingen leid je het volledige projecttraject, met als doel de afgesproken doelstellingen te realiseren binnen de vooropgestelde timing, kwaliteitsnormen en budgetten.&nbsp;&nbsp;</span></p> <p><span>Je werkt vlot samen met verschillende actoren en gaat actief de interactie aan met andere overheidsinstanties en&nbsp;</span><span>bedrijven</span><span>. Je weet zaken daadwerkelijk tot stand te brengen en vindt voor elk probleem een passende oplossing.&nbsp;</span><span>&nbsp;</span></p> <p><span>De organisatie van verkiezingen verloopt steeds meer via digitale processen; niet alleen bij het digitaal stemmen zelf, maar ook voor het kandidatenbeheer, de verwerking van manueel uitgebrachte stemmen, de zetelberekening, de aanmaak van processen-verbaal en de verspreiding van de uitslagen naar de pers. Dat vraagt kennis van en interesse in de eerder technische componenten van de verkiezingsorganisatie.</span></p> <p><span>De verkiezingskalender bepaalt het ritme van het project. Om de zes jaar vinden gemeente- en provincieraadsverkiezingen plaats, waarvoor de voorbereiding ongeveer twee jaar in beslag neemt, gevolgd door een half jaar nazorg. In de tussenliggende periodes is er een kleiner projectteam en blijf je als projectleider nauw betrokken bij overleg met andere overheden. Je volgt de evoluties in verkiezingssoftware, digitale stemprocedures, apparatuur en overheidsopdrachten op de voet. Ook voor de vijfjaarlijkse verkiezingen van het Vlaams Parlement zijn er taken, voornamelijk rond de publicatie van de uitslagen en de samenwerking met het Vlaams Parlement.&nbsp;</span></p> <p><span>Verkiezingen vragen een bijzondere inzet. In aanloop naar de verkiezingen ben je flexibel beschikbaar, ook ’s avonds en in het weekend. In ruil krijg je een unieke functie met grote autonomie en verantwoordelijkheid, waarin je samen met je projectteam toewerkt naar een intens maar betekenisvol hoogtepunt.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
