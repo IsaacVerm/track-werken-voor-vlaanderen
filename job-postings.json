@@ -1,10 +1,10 @@
 {
-  "totalItems": 121,
+  "totalItems": 122,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 120,
+  "lastItemOfPage": 121,
   "items": [
     {
       "link": "/Job/vdab-72968323",
@@ -2573,6 +2573,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20119",
+      "internal": false,
+      "validThroughDate": "1771459200",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Inspectie/audit",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-20119",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Privacy & data governance specialist"
+      },
+      "displayTitle": "Privacy & data governance specialist",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.</div><div></div><div>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.</div><div></div><div>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.</div><div></div><div>Wat ga je doen?</div><div>-&nbsp; &nbsp;Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).</div><div>-&nbsp; &nbsp;Opmaken en beoordelen van DPIA’s/GEB’s.</div><div>-&nbsp; &nbsp;Evalueren van datagovernance en beleidsdocumenten.</div><div>-&nbsp; &nbsp;Controleren van datamapping en gegevensdeling met externe partijen.</div><div>-&nbsp; &nbsp;Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.</div><div></div><div>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.</div><div></div><div>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.</div><div></div><div>Wat ga je doen?</div><div>-&nbsp; &nbsp;Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).</div><div>-&nbsp; &nbsp;Opmaken en beoordelen van DPIA’s/GEB’s.</div><div>-&nbsp; &nbsp;Evalueren van datagovernance en beleidsdocumenten.</div><div>-&nbsp; &nbsp;Controleren van datamapping en gegevensdeling met externe partijen.</div><div>-&nbsp; &nbsp;Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20118",
       "internal": false,
       "validThroughDate": "1770508800",
@@ -2830,42 +2866,6 @@
         {
           "address": {
             "city": "Veurne"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20039",
-      "internal": false,
-      "validThroughDate": "1769990400",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20039",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Bemiddelaar ambassadeur"
-      },
-      "displayTitle": "Bemiddelaar ambassadeur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span></span></strong>VDAB\nzoekt enthousiaste en gemotiveerde ambassadeurs om ons team in de regio Brussel\nte versterken. Als ambassadeur werk je mee aan de missie van VDAB om\niedereen die werkt zoekt duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br><br>VDAB is\neen open en wendbare organisatie die anticipeert op maatschappelijke evoluties.\nWe werken samen met externe partners en lokale besturen aan een duurzame\ndienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br><br>Om deze\nopdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij\nVDAB aflegt. <br> In de rol van ambassadeur ben jij de eerste schakel in het traject van de\nklant. Je vormt samen met je collega’s de toegangspoort tot VDAB Brussel.</p><p><strong>Ben jij de gedreven Ambassadeur die wij zoeken? <br><em>Wil\njij een cruciale rol spelen in de oriëntering van werkzoekenden naar een\npassende job? Ken je de Brusselse context en verplaats je je vlot in onze\nhoofdstad?</em></strong><em><br></em><br>Beschik je over goede communicatieve\nvaardigheden, inlevingsvermogen en spreek je graag voor groepen? Ben je een\ngemotiveerde teamplayer? Ben je iemand die graag op zoek gaat naar oplossingen,\nmaar kan je wel werken binnen vastgelegde structuren? Ben jij een brugfiguur\nmet commerciële flair? Ken je de Brusselse context en verplaats je je vlot in\nonze hoofdstad? Dan ben jij de persoon die we zoeken. <br><br>VDAB\nBrussel is op zoek naar een ambassadeur die de Brusselse werkzoekenden kan\nmotiveren en informeren om hen op weg te helpen richting een job in Brussel of\nVlaanderen. Je bent de eerste lijn in het contact met de Brusselse\nwerkzoekenden. Samen met je collega’s zorg je ervoor dat VDAB bekend is binnen\nBrussel. Je ondersteunt onze klanten bij hun eerste stappen binnen de\ndienstverlening van VDAB. Daarna zorg je voor een warme overdracht naar je\ncollega’s die de klanten verder begeleiden tijdens hun traject. <br><br>Heb je\ninteresse om je hierin te verdiepen en heb je affiniteit met het Brusselse\nlandschap van socio-professionele inschakeling? Stel je dan zeker kandidaat\nvoor deze boeiende en uitdagende job.</p><p><strong>Wat ga je doen?</strong><br>●Je leidt werkzoekenden toe naar de gepaste dienstverlening.<br>●Je organiseert samen met je collega’s infosessies over de mogelijkheden die er zijn met VDAB en zijn partners. Soms gebeurt dit ook in samenwerking met de partner die de opleidingen aanbiedt. <br>●Je bekijkt samen met de werkzoekende wat zijn/haar pad naar werk zou kunnen zijn. Je doet een basisinschatting en verwijst de klant door naar een collega bemiddelaar. <br>●Je verwerkt de informatie in het klantvolgsysteem (klantendossier). <br>●Je staat mee in voor het uitbouwen en onderhouden van een professioneel netwerk van organisaties in Brussel die zich inzetten voor werkzoekenden. <br>●Je bent actief in het ‘Beroepenpunt’: een plaats waar verschillende organisaties samenzitten om alle vragen met betrekking tot werk heel laagdrempelig te beantwoorden. Het Beroepenpunt is deel van een groot netwerk van beroepenpunten over de wereld. <br>●Je staat in voor de basisdienstverlening. Dit wil zeggen dat je aanspreekpunt bent voor klanten, en dat je hen ondersteunt en informeert over de opbouw van een kwalitatief en matchbaar dossier. <br>●Je stelt je flexibel op. Je verplaatst je vlot in het Brussels Hoofdstedelijk Gewest. Bovendien ben je in staat om snel te schakelen als de dienstverlening dit vraagt. <br><br><strong>Wie\nben jij?</strong><br>●Je zorgt dat de Brusselse werkzoekende weet waarvoor VDAB Brussel staat en waarvoor hij/zij bij VDAB terecht kan. Je bepaalt met de werkzoekende, via gesprekken, wat hij/zij nodig heeft om aan een job te geraken. Je wacht niet tot de Brusselse werkzoekende naar jou komt maar je gaat actief naar hem/haar op zoek. <br>●Je verzorgt een permanentie op verschillende locaties.<br>-De nieuwe stadscampus in Anderlecht (wanneer we verhuisd zijn)<br>-De werkwinkel in de Astrotoren (Sint-Joost-ten-Node) <br>-Één avondpermanentie per week (tot 19u). Deze wordt afwisselend door de teamleden opgenomen.<br>●Je werkt samen met je collega-bemiddelaars over de verschillende teams heen. <br>●Je krijgt energie van klanten te motiveren. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>●Je zet je beschikbare (digitale) tools gericht in.<br>●Je bent communicatief sterk en zet deze vaardigheden in voor het motiveren, informeren en confronteren van werkzoekende klanten. <br>●Je hebt affiniteit met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br><br><strong>Nice to haves voor de Ambassadeur:</strong><br>●Je hebt kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>●Je kent de regelgeving over dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>●Je kan je vlot uitdrukken in de verschillende landstalen en/of beheerst andere talen die in Brussel courant zijn. <br><strong><br>Plaats tewerkstelling</strong><br>Standplaats Astrotoren (op termijn Stadscampus)<br><br><strong>Meet\n&amp; Greet :</strong> Wil je graag meer te weten\nkomen over de jobinhoud tijdens een vrijblijvende\nMeet and Greet en al jouw vragen kunnen\nstellen? Dat kan!&nbsp; <br> Teamleider Tuur Desagher en het team ambassadeurs geven jou alle nodige\ninlichtingen op 26 januari 2026 om 11 uur (einde rond 12 uur) in de Astrotoren te Sint-Joost-ten-Node (Sterrenkundelaan\n14, 1210 Sint-Joost-ten-Node). <br> Om erbij te zijn stuur je vooraf een mail naar tuur.desagher@vdab.be. Je\nvermeldt in het onderwerp van de mail ‘Meet &amp; Greet’ en in de mail vermeld\nje je naam, contactgegevens.</p><p>Wil je al even de <a href=\"https://mediastock.vdab.be/p82iKYTcGN\">sfeer bij VDAB Brussel </a>opsnuiven?<br><br>Lees meer over het takenpakket en de selectieprocedure in het selectiereglement (zie bijlage).</p>",
-        "htmlEncoded": "<p><strong><span></span></strong>VDAB\nzoekt enthousiaste en gemotiveerde ambassadeurs om ons team in de regio Brussel\nte versterken. Als ambassadeur werk je mee aan de missie van VDAB om\niedereen die werkt zoekt duurzaam in te schakelen op de arbeidsmarkt.&nbsp;<br><br>VDAB is\neen open en wendbare organisatie die anticipeert op maatschappelijke evoluties.\nWe werken samen met externe partners en lokale besturen aan een duurzame\ndienstverlening, gebaseerd op vertrouwen en gericht op het algemeen belang.&nbsp;<br><br>Om deze\nopdracht goed uit te voeren werkt VDAB vanuit het traject dat een klant bij\nVDAB aflegt. <br> In de rol van ambassadeur ben jij de eerste schakel in het traject van de\nklant. Je vormt samen met je collega’s de toegangspoort tot VDAB Brussel.</p><p><strong>Ben jij de gedreven Ambassadeur die wij zoeken? <br><em>Wil\njij een cruciale rol spelen in de oriëntering van werkzoekenden naar een\npassende job? Ken je de Brusselse context en verplaats je je vlot in onze\nhoofdstad?</em></strong><em><br></em><br>Beschik je over goede communicatieve\nvaardigheden, inlevingsvermogen en spreek je graag voor groepen? Ben je een\ngemotiveerde teamplayer? Ben je iemand die graag op zoek gaat naar oplossingen,\nmaar kan je wel werken binnen vastgelegde structuren? Ben jij een brugfiguur\nmet commerciële flair? Ken je de Brusselse context en verplaats je je vlot in\nonze hoofdstad? Dan ben jij de persoon die we zoeken. <br><br>VDAB\nBrussel is op zoek naar een ambassadeur die de Brusselse werkzoekenden kan\nmotiveren en informeren om hen op weg te helpen richting een job in Brussel of\nVlaanderen. Je bent de eerste lijn in het contact met de Brusselse\nwerkzoekenden. Samen met je collega’s zorg je ervoor dat VDAB bekend is binnen\nBrussel. Je ondersteunt onze klanten bij hun eerste stappen binnen de\ndienstverlening van VDAB. Daarna zorg je voor een warme overdracht naar je\ncollega’s die de klanten verder begeleiden tijdens hun traject. <br><br>Heb je\ninteresse om je hierin te verdiepen en heb je affiniteit met het Brusselse\nlandschap van socio-professionele inschakeling? Stel je dan zeker kandidaat\nvoor deze boeiende en uitdagende job.</p><p><strong>Wat ga je doen?</strong><br>●Je leidt werkzoekenden toe naar de gepaste dienstverlening.<br>●Je organiseert samen met je collega’s infosessies over de mogelijkheden die er zijn met VDAB en zijn partners. Soms gebeurt dit ook in samenwerking met de partner die de opleidingen aanbiedt. <br>●Je bekijkt samen met de werkzoekende wat zijn/haar pad naar werk zou kunnen zijn. Je doet een basisinschatting en verwijst de klant door naar een collega bemiddelaar. <br>●Je verwerkt de informatie in het klantvolgsysteem (klantendossier). <br>●Je staat mee in voor het uitbouwen en onderhouden van een professioneel netwerk van organisaties in Brussel die zich inzetten voor werkzoekenden. <br>●Je bent actief in het ‘Beroepenpunt’: een plaats waar verschillende organisaties samenzitten om alle vragen met betrekking tot werk heel laagdrempelig te beantwoorden. Het Beroepenpunt is deel van een groot netwerk van beroepenpunten over de wereld. <br>●Je staat in voor de basisdienstverlening. Dit wil zeggen dat je aanspreekpunt bent voor klanten, en dat je hen ondersteunt en informeert over de opbouw van een kwalitatief en matchbaar dossier. <br>●Je stelt je flexibel op. Je verplaatst je vlot in het Brussels Hoofdstedelijk Gewest. Bovendien ben je in staat om snel te schakelen als de dienstverlening dit vraagt. <br><br><strong>Wie\nben jij?</strong><br>●Je zorgt dat de Brusselse werkzoekende weet waarvoor VDAB Brussel staat en waarvoor hij/zij bij VDAB terecht kan. Je bepaalt met de werkzoekende, via gesprekken, wat hij/zij nodig heeft om aan een job te geraken. Je wacht niet tot de Brusselse werkzoekende naar jou komt maar je gaat actief naar hem/haar op zoek. <br>●Je verzorgt een permanentie op verschillende locaties.<br>-De nieuwe stadscampus in Anderlecht (wanneer we verhuisd zijn)<br>-De werkwinkel in de Astrotoren (Sint-Joost-ten-Node) <br>-Één avondpermanentie per week (tot 19u). Deze wordt afwisselend door de teamleden opgenomen.<br>●Je werkt samen met je collega-bemiddelaars over de verschillende teams heen. <br>●Je krijgt energie van klanten te motiveren. Je bent in staat om je klant een breed scala aan mogelijkheden voor te leggen.<br>●Je zet je beschikbare (digitale) tools gericht in.<br>●Je bent communicatief sterk en zet deze vaardigheden in voor het motiveren, informeren en confronteren van werkzoekende klanten. <br>●Je hebt affiniteit met gesprekstechnieken, verslaggeving en actieve bemiddeling.<br><br><strong>Nice to haves voor de Ambassadeur:</strong><br>●Je hebt kennis van aspecten rond inschrijvingen en verblijfsdocumenten, specifiek voor basisdienstverlening.<br>●Je kent de regelgeving over dienstverlening aan specifieke doelgroepen en domeinen (o.a. anderstaligen, jongeren, RIZIV-cliënten) of bent bereid om deze bij te leren.<br>●Je kan je vlot uitdrukken in de verschillende landstalen en/of beheerst andere talen die in Brussel courant zijn. <br><strong><br>Plaats tewerkstelling</strong><br>Standplaats Astrotoren (op termijn Stadscampus)<br><br><strong>Meet\n&amp; Greet :</strong> Wil je graag meer te weten\nkomen over de jobinhoud tijdens een vrijblijvende\nMeet and Greet en al jouw vragen kunnen\nstellen? Dat kan!&nbsp; <br> Teamleider Tuur Desagher en het team ambassadeurs geven jou alle nodige\ninlichtingen op 26 januari 2026 om 11 uur (einde rond 12 uur) in de Astrotoren te Sint-Joost-ten-Node (Sterrenkundelaan\n14, 1210 Sint-Joost-ten-Node). <br> Om erbij te zijn stuur je vooraf een mail naar tuur.desagher@vdab.be. Je\nvermeldt in het onderwerp van de mail ‘Meet &amp; Greet’ en in de mail vermeld\nje je naam, contactgegevens.</p><p>Wil je al even de <a href=\"https://mediastock.vdab.be/p82iKYTcGN\">sfeer bij VDAB Brussel </a>opsnuiven?<br><br>Lees meer over het takenpakket en de selectieprocedure in het selectiereglement (zie bijlage).</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -3269,6 +3269,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19941",
+      "internal": false,
+      "validThroughDate": "1772323200",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Horeca en toerisme",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19941",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Keukenchef voor de Landcommanderij Alden Biesen"
+      },
+      "displayTitle": "Keukenchef voor de Landcommanderij Alden Biesen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het Departement Cultuur, Jeugd en Media is op zoek naar een keukenchef voor de Landcommanderij Alden Biesen. <strong>Ben jij een enthousiaste en veelzijdige keukenchef die graag de handen uit de mouwen steekt?</strong> Krijg je energie van koken in een unieke historische omgeving en zoek je een <strong>stabiele functie</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Landcommanderij Alden Biesen is jaarlijks gastvrouw voor meer dan 800 activiteiten, gaande van kleinschalige vergaderingen tot meerdaagse congressen, festivals en internationale evenementen. Als keukenchef sta je mee in voor de <strong>culinaire ondersteuning</strong> van deze activiteiten en draag je bij aan een <strong>warme en kwaliteitsvolle beleving </strong>voor onze gasten. Samen met twee collega-keukenchefs verzorg je de dagelijkse keukenwerking voor vergaderingen, congressen en groepsverblijven van 5 tot 100 personen.&nbsp;<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je staat in voor de volledige keukenwerking van A tot Z: van bestellingen en mise-en-place tot bereiding, afwas en onderhoud van de keuken.</li><li>Je bereidt ontbijt, lunch en avondmaaltijden voor groepen en houdt rekening met dieetwensen en allergieën.</li><li>Je stelt menu’s op in functie van de activiteiten, vereisten en de beschikbare middelen.</li><li>Je beheert voorraad en foodcost en waakt over een efficiënte werking.</li><li>Je past de geldende regels rond voedselveiligheid en hygiëne correct toe.</li></ul><p><strong>Je werkt voornamelijk overdag.</strong> Avond-, weekend- en feestdagenwerk is echter mogelijk in functie van de ingeplande activiteiten en wordt georganiseerd via een afwisselend werkrooster waarover de leidinggevende het overzicht bewaart.</p><p>Geïnteresseerd?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Het Departement Cultuur, Jeugd en Media is op zoek naar een keukenchef voor de Landcommanderij Alden Biesen. <strong>Ben jij een enthousiaste en veelzijdige keukenchef die graag de handen uit de mouwen steekt?</strong> Krijg je energie van koken in een unieke historische omgeving en zoek je een <strong>stabiele functie</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Landcommanderij Alden Biesen is jaarlijks gastvrouw voor meer dan 800 activiteiten, gaande van kleinschalige vergaderingen tot meerdaagse congressen, festivals en internationale evenementen. Als keukenchef sta je mee in voor de <strong>culinaire ondersteuning</strong> van deze activiteiten en draag je bij aan een <strong>warme en kwaliteitsvolle beleving </strong>voor onze gasten. Samen met twee collega-keukenchefs verzorg je de dagelijkse keukenwerking voor vergaderingen, congressen en groepsverblijven van 5 tot 100 personen.&nbsp;<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je staat in voor de volledige keukenwerking van A tot Z: van bestellingen en mise-en-place tot bereiding, afwas en onderhoud van de keuken.</li><li>Je bereidt ontbijt, lunch en avondmaaltijden voor groepen en houdt rekening met dieetwensen en allergieën.</li><li>Je stelt menu’s op in functie van de activiteiten, vereisten en de beschikbare middelen.</li><li>Je beheert voorraad en foodcost en waakt over een efficiënte werking.</li><li>Je past de geldende regels rond voedselveiligheid en hygiëne correct toe.</li></ul><p><strong>Je werkt voornamelijk overdag.</strong> Avond-, weekend- en feestdagenwerk is echter mogelijk in functie van de ingeplande activiteiten en wordt georganiseerd via een afwisselend werkrooster waarover de leidinggevende het overzicht bewaart.</p><p>Geïnteresseerd?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Bilzen-Hoeselt"
           }
         }
       ]
@@ -3921,37 +3957,47 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19871",
-      "internal": false,
-      "validThroughDate": "1769990400",
-      "hiringOrganization": "Vlaams Energie- en Klimaatagentschap",
+      "link": "/Job/cornerstone-19861",
+      "internal": true,
+      "validThroughDate": "1771804800",
+      "hiringOrganization": "De Vlaamse Waterweg",
       "reservedForDisability": false,
       "openPositions": 1,
-      "domain": "Milieu/omgeving",
+      "domain": "Techniek",
       "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
       },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19871",
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-19861",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Analist energiebesparingen en hernieuwbare energie"
+        "htmlEncoded": "Deskundige automatisatie expert"
       },
-      "displayTitle": "Analist energiebesparingen en hernieuwbare energie",
+      "displayTitle": "Deskundige automatisatie expert",
       "isProtected": false,
       "description": {
-        "raw": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het Vlaams Energie- en Klimaatagentschap (VEKA) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Ben jij geboeid door technische analyses en wil je meewerken aan de energietransitie? Het Vlaams Energie- en Klimaatagentschap (VEKA) is op zoek naar een dossieranalist. In deze rol duik je diep in dossiers rond energiebesparende en hernieuwbare energie-investeringen in ondernemingen. Je analyseert de financiële en technische onderbouwing van attestaanvragen en zorgt ervoor dat ze correct en volgens de regelgeving worden afgehandeld. Met jouw oog voor detail, technisch inzicht en kritische blik draag je bij aan een doordachte besluitvorming. Concreet neem je volgende taken op:<br><br>&nbsp;- Je beoordeelt dossiers rond de verhoogde investeringsaftrek voor energiebesparende investeringen en investeringen in hernieuwbare energie.<br>&nbsp;- Je onderzoekt bewijsstukken zoals projectbeschrijvingen, offertes, facturen en attesten van uitgevoerde werken.<br>&nbsp;- Je verifieert opgegeven cijfers, zoals energiebesparing, opgewekte hernieuwbare energie, totale investeringskosten en warmteverliezen.<br>&nbsp;- Je toetst aanvragen aan de lijst van aanvaardbare investeringen en stelt een (ontwerp)beslissing op in de databank.<br>&nbsp;- Je overlegt met de coördinator dossierbehandeling en zorgt voor een efficiënte en correcte verwerking van dossiers.<br>&nbsp;- Je optimaliseert processen voor dossierbehandeling en vanuit de eigen expertise geef je beleidsinput voor de verdere ontwikkeling van de energietransitie.<br>&nbsp;- Op termijn groei je naar de rol van proceseigenaar en neem je een meer coördinerende functie op.<br><br>Je komt terecht in een team van een tiental collega’s met wie je samenwerkt en overlegt om dossiers vlot en correct af te handelen. In samenspraak met je coördinator werk je gemiddeld twee dagen per week op kantoor en de rest van de tijd kun je van thuis uit werken. Je krijgt zo het beste van beide werelden: overleg en samenwerking op kantoor, gecombineerd met thuiswerk voor meer focus en flexibiliteit.<br><br>Klinkt dit als een uitdaging waar jij je tanden in wilt zetten? Solliciteer dan snel!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
+        "raw": "<p>Als <strong>deskundige automatisatie expert</strong> bij De Vlaamse Waterweg bouw je mee aan de technologische toekomst van onze watergebonden infrastructuur. Je werkt binnen de <strong>cel Telematica</strong>, het kenniscentrum dat alle oplossingen ontwikkelt, beheert en onderhoudt rond afstandsbediening, automatisatie, modernisering en bewaking van kunstwerken. Denk aan sluizen, bruggen en andere installaties die dankzij jouw werk slimmer, veiliger en betrouwbaarder functioneren.</p><p>In deze rol combineer je <strong>technische diepgang met praktische uitvoering</strong>. Je start met het voorbereiden van opdrachten: je analyseert de vraag, verzamelt informatie, verdiept je in technische documentatie en werkt een concreet werkplan uit. Je denkt mee over optimalisaties, standaardisaties en uitbreidingen van telematica‑ en automatisatiesystemen en ondersteunt de planning van projecten binnen de regio.</p><p>Op het terrein ben je actief aanwezig. Je voert metingen en controles uit, spoort defecten op, doet kleine herstellingen en volgt aannemers nauwgezet op. Je beheert en onderhoudt systemen zoals PLC‑sturingen, SCADA, marifonie, CCTV en andere telematicatoepassingen. Je zorgt ervoor dat onze installaties betrouwbaar blijven draaien en dat problemen snel en efficiënt worden opgelost. Daarbij bewaak je de kwaliteit, veiligheid en voortgang van uitbestede werken en ondersteun je elektriciens en onderhoudsaannemers bij technische vragen.</p><p>Je rapporteert helder over je activiteiten, signaleert knelpunten en deelt actief kennis met collega’s. Je beheert technische data, documentatie en toestellen en draagt bij aan een correct en efficiënt asset‑ en informatiebeheer. Daarnaast ben je een aanspreekpunt voor interne en externe partners: je geeft uitleg over systemen en procedures, ondersteunt opleidingen en helpt gebruikers op weg met nieuwe technologieën.</p><p>Als expert blijf je jezelf ontwikkelen. Je volgt nieuwe technieken, regelgeving en innovaties op en vertaalt die naar de praktijk. Je analyseert data om onderhoudsstrategieën te verbeteren, denkt mee over preventief onderhoud en doet voorstellen om onze infrastructuur nog performanter te maken. Je werkt samen met andere disciplines, deelt inzichten en helpt de kennis binnen de organisatie te verankeren.</p><p>Kortom: als deskundige automatisatie expert speel je een sleutelrol in het moderniseren en optimaliseren van de infrastructuur van De Vlaamse Waterweg. Je combineert <strong>techniek, innovatie en maatschappelijke impact</strong> in een functie waar jouw expertise écht het verschil maakt.</p><p>Wil je graag nog meer details over de job van deskundige automatisatie expert? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/Fube.pdf\">deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als <strong>deskundige automatisatie expert</strong> bij De Vlaamse Waterweg bouw je mee aan de technologische toekomst van onze watergebonden infrastructuur. Je werkt binnen de <strong>cel Telematica</strong>, het kenniscentrum dat alle oplossingen ontwikkelt, beheert en onderhoudt rond afstandsbediening, automatisatie, modernisering en bewaking van kunstwerken. Denk aan sluizen, bruggen en andere installaties die dankzij jouw werk slimmer, veiliger en betrouwbaarder functioneren.</p><p>In deze rol combineer je <strong>technische diepgang met praktische uitvoering</strong>. Je start met het voorbereiden van opdrachten: je analyseert de vraag, verzamelt informatie, verdiept je in technische documentatie en werkt een concreet werkplan uit. Je denkt mee over optimalisaties, standaardisaties en uitbreidingen van telematica‑ en automatisatiesystemen en ondersteunt de planning van projecten binnen de regio.</p><p>Op het terrein ben je actief aanwezig. Je voert metingen en controles uit, spoort defecten op, doet kleine herstellingen en volgt aannemers nauwgezet op. Je beheert en onderhoudt systemen zoals PLC‑sturingen, SCADA, marifonie, CCTV en andere telematicatoepassingen. Je zorgt ervoor dat onze installaties betrouwbaar blijven draaien en dat problemen snel en efficiënt worden opgelost. Daarbij bewaak je de kwaliteit, veiligheid en voortgang van uitbestede werken en ondersteun je elektriciens en onderhoudsaannemers bij technische vragen.</p><p>Je rapporteert helder over je activiteiten, signaleert knelpunten en deelt actief kennis met collega’s. Je beheert technische data, documentatie en toestellen en draagt bij aan een correct en efficiënt asset‑ en informatiebeheer. Daarnaast ben je een aanspreekpunt voor interne en externe partners: je geeft uitleg over systemen en procedures, ondersteunt opleidingen en helpt gebruikers op weg met nieuwe technologieën.</p><p>Als expert blijf je jezelf ontwikkelen. Je volgt nieuwe technieken, regelgeving en innovaties op en vertaalt die naar de praktijk. Je analyseert data om onderhoudsstrategieën te verbeteren, denkt mee over preventief onderhoud en doet voorstellen om onze infrastructuur nog performanter te maken. Je werkt samen met andere disciplines, deelt inzichten en helpt de kennis binnen de organisatie te verankeren.</p><p>Kortom: als deskundige automatisatie expert speel je een sleutelrol in het moderniseren en optimaliseren van de infrastructuur van De Vlaamse Waterweg. Je combineert <strong>techniek, innovatie en maatschappelijke impact</strong> in een functie waar jouw expertise écht het verschil maakt.</p><p>Wil je graag nog meer details over de job van deskundige automatisatie expert? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/Fube.pdf\">deze link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Mol"
+          }
+        },
+        {
+          "address": {
+            "city": "Evergem"
           }
         }
       ]
@@ -4070,34 +4116,57 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19826",
-      "internal": true,
-      "validThroughDate": "1769990400",
-      "hiringOrganization": "Departement Zorg",
+      "link": "/Job/cornerstone-19817",
+      "internal": false,
+      "validThroughDate": "1772409600",
+      "hiringOrganization": "De Vlaamse Waterweg",
       "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Gezondheid",
-      "degreeLevel": null,
+      "openPositions": 7,
+      "domain": "Techniek",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19826",
+      "identifier": "cornerstone-19817",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Productbeheerder Sociale Kaart en Rechtenverkenner"
+        "htmlEncoded": "Onderhoudstechnieker"
       },
-      "displayTitle": "Productbeheerder Sociale Kaart en Rechtenverkenner",
+      "displayTitle": "Onderhoudstechnieker",
       "isProtected": false,
       "description": {
-        "raw": "Zin om mee te bouwen aan digitale producten die écht het verschil maken voor burgers en professionelen in zorg en welzijn? Als productbeheerder Sociale Kaart en Rechtenverkenner bij Departement Zorg werk je mee aan twee cruciale online toepassingen die dagelijks gebruikt worden om zorgvragen te beantwoorden en sociale rechten zichtbaar te maken.<br><br>In deze rol bouw je, samen met de productverantwoordelijke, de Sociale Kaart en Rechtenverkenner inhoudelijk verder uit. Je zorgt voor kwaliteitsvolle, actuele en bruikbare informatie, analyseert hoe evoluties in de zorg- en welzijnssector impact hebben op de producten en vertaalt die naar duidelijke structuren en databanken. Je werkt projectmatig mee aan verbeteringen, test nieuwe functionaliteiten en denkt proactief na over optimalisaties van de dienstverlening.<br><br>Daarnaast ben je een actieve brugfiguur met het werkveld. Je geeft toelichting over het gebruik van beide producten aan lokale besturen, organisaties en partners, promoot ze op evenementen en stimuleert zorgvoorzieningen om hun gegevens up-to-date te houden. Door je netwerk en inhoudelijke expertise hou je vinger aan de pols van wetgeving en tendensen én draag je bij aan een sterke datagovernance en rapportering.<br><br>Kortom: een veelzijdige functie voor wie inhoudelijke diepgang, digitale producten en maatschappelijke impact graag combineert binnen een samenwerkend team in Brussel.<br>",
-        "htmlEncoded": "Zin om mee te bouwen aan digitale producten die écht het verschil maken voor burgers en professionelen in zorg en welzijn? Als productbeheerder Sociale Kaart en Rechtenverkenner bij Departement Zorg werk je mee aan twee cruciale online toepassingen die dagelijks gebruikt worden om zorgvragen te beantwoorden en sociale rechten zichtbaar te maken.<br><br>In deze rol bouw je, samen met de productverantwoordelijke, de Sociale Kaart en Rechtenverkenner inhoudelijk verder uit. Je zorgt voor kwaliteitsvolle, actuele en bruikbare informatie, analyseert hoe evoluties in de zorg- en welzijnssector impact hebben op de producten en vertaalt die naar duidelijke structuren en databanken. Je werkt projectmatig mee aan verbeteringen, test nieuwe functionaliteiten en denkt proactief na over optimalisaties van de dienstverlening.<br><br>Daarnaast ben je een actieve brugfiguur met het werkveld. Je geeft toelichting over het gebruik van beide producten aan lokale besturen, organisaties en partners, promoot ze op evenementen en stimuleert zorgvoorzieningen om hun gegevens up-to-date te houden. Door je netwerk en inhoudelijke expertise hou je vinger aan de pols van wetgeving en tendensen én draag je bij aan een sterke datagovernance en rapportering.<br><br>Kortom: een veelzijdige functie voor wie inhoudelijke diepgang, digitale producten en maatschappelijke impact graag combineert binnen een samenwerkend team in Brussel.<br>"
+        "raw": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=2&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=2&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Tessenderlo-Ham"
+          }
+        },
+        {
+          "address": {
+            "city": "Wevelgem"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Wijnegem"
           }
         }
       ]
