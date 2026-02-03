@@ -1,11 +1,83 @@
 {
-  "totalItems": 121,
+  "totalItems": 122,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 120,
+  "lastItemOfPage": 121,
   "items": [
+    {
+      "link": "/Job/vdab-72977092",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72977092",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Data engineer (beleidsdomein Onderwijs en Vorming) via Vlaanderen connect"
+      },
+      "displayTitle": "Data engineer (beleidsdomein Onderwijs en Vorming) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Het beleidsdomein Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de verdere uitbouw en doorontwikkeling van het centrale dataplatform Minerva.</p> \n<p>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie.</p> \n<p>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform uit te breiden en duurzaam te verankeren. </p> \n<p>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat! </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Departement Onderwijs en Vorming. Je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs.</p> \n<p>In je rol als data engineer zal je het datagedreven werken binnen het beleidsdomein Onderwijs en Vorming ondersteunen.</p> \n<p>Het beleidsdomein Onderwijs en Vorming bestaat uit vijf entiteiten die elk een eigen missie hebben, nl.</p> \n<ul> \n<li>Het Departement Onderwijs en Vorming\n<span> </span>stippelt het Vlaamse onderwijsbeleid uit en ondersteunt de Vlaamse minister van Onderwijs en Vorming met een brede reeks beleidsondersteunende taken</li> \n<li>Het Agentschap voor Onderwijsdiensten (AGODI) is verantwoordelijk voor de uitvoering van het onderwijsbeleid van het basis- en secundair onderwijs, het deeltijds kunstonderwijs de centra voor leerlingenbegeleiding</li> \n<li>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. AHOVOKS heeft een waaier aan diensten binnen het onderwijs onder zijn vleugels. Enkele voorbeelden hiervan zijn het financieren van universiteiten, hogescholen en centra voor volwassenenonderwijs en basiseducatie, het uitbetalen van de studietoelagen van studenten in het hoger onderwijs en het organiseren van de examencommissie secundair onderwijs.</li> \n<li>De onderwijsinspectie\n<span> </span>heeft als belangrijkste missie te waken over de kwaliteit van het onderwijs in Vlaanderen en de Nederlandstalige scholen in het Brussels Hoofdstedelijk Gewest. Ze verleent hiervoor o.a. advies bij de opname van instellingen in de erkenning en licht onderwijsinstellingen door.</li> \n<li>Het Agentschap voor Infrastructuur in het Onderwijs (AGION) is verantwoordelijk voor de subsidies van schoolgebouwen voor het leerplichtonderwijs en coördineert de realisatie van schoolgebouwen bij partnerschappen tussen de overheid en private inrichtende machten.</li> </ul> \n<p>Elk van deze entiteiten heeft zijn eigen databehoeften voor het uitvoeren van zijn taken. Vaak zijn hier ook data van de andere entiteiten binnen het beleidsdomein voor nodig. Daarom is er een gemeenschappelijk dataplatform opgezet, waarbinnen zowel de entiteits-eigen data kunnen worden bewerkt en geautomatiseerd als de entiteits-overschrijdende data. Het dataplatform Minerva ambieert om voor al deze gegevensuitwisselingen een betrouwbare technische ondersteuning te zijn.</p> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>",
+        "htmlEncoded": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Het beleidsdomein Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de verdere uitbouw en doorontwikkeling van het centrale dataplatform Minerva.</p> \n<p>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie.</p> \n<p>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform uit te breiden en duurzaam te verankeren. </p> \n<p>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat! </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Departement Onderwijs en Vorming. Je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs.</p> \n<p>In je rol als data engineer zal je het datagedreven werken binnen het beleidsdomein Onderwijs en Vorming ondersteunen.</p> \n<p>Het beleidsdomein Onderwijs en Vorming bestaat uit vijf entiteiten die elk een eigen missie hebben, nl.</p> \n<ul> \n<li>Het Departement Onderwijs en Vorming\n<span> </span>stippelt het Vlaamse onderwijsbeleid uit en ondersteunt de Vlaamse minister van Onderwijs en Vorming met een brede reeks beleidsondersteunende taken</li> \n<li>Het Agentschap voor Onderwijsdiensten (AGODI) is verantwoordelijk voor de uitvoering van het onderwijsbeleid van het basis- en secundair onderwijs, het deeltijds kunstonderwijs de centra voor leerlingenbegeleiding</li> \n<li>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. AHOVOKS heeft een waaier aan diensten binnen het onderwijs onder zijn vleugels. Enkele voorbeelden hiervan zijn het financieren van universiteiten, hogescholen en centra voor volwassenenonderwijs en basiseducatie, het uitbetalen van de studietoelagen van studenten in het hoger onderwijs en het organiseren van de examencommissie secundair onderwijs.</li> \n<li>De onderwijsinspectie\n<span> </span>heeft als belangrijkste missie te waken over de kwaliteit van het onderwijs in Vlaanderen en de Nederlandstalige scholen in het Brussels Hoofdstedelijk Gewest. Ze verleent hiervoor o.a. advies bij de opname van instellingen in de erkenning en licht onderwijsinstellingen door.</li> \n<li>Het Agentschap voor Infrastructuur in het Onderwijs (AGION) is verantwoordelijk voor de subsidies van schoolgebouwen voor het leerplichtonderwijs en coördineert de realisatie van schoolgebouwen bij partnerschappen tussen de overheid en private inrichtende machten.</li> </ul> \n<p>Elk van deze entiteiten heeft zijn eigen databehoeften voor het uitvoeren van zijn taken. Vaak zijn hier ook data van de andere entiteiten binnen het beleidsdomein voor nodig. Daarom is er een gemeenschappelijk dataplatform opgezet, waarbinnen zowel de entiteits-eigen data kunnen worden bewerkt en geautomatiseerd als de entiteits-overschrijdende data. Het dataplatform Minerva ambieert om voor al deze gegevensuitwisselingen een betrouwbare technische ondersteuning te zijn.</p> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-72974390",
+      "internal": false,
+      "validThroughDate": "1771113600",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Gezondheid",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-72974390",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "verpleegkundige Dagkliniek Volwassenen"
+      },
+      "displayTitle": "verpleegkundige Dagkliniek Volwassenen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b><span>Over ons</span></b></p> \n<p><span>Het Knooppunt is een gespecialiseerde afdeling van de Dagkliniek Volwassenen, waar we mensen met een psychotische kwetsbaarheid begeleiden in hun herstelproces. We bieden een multidisciplinair en intensief therapieprogramma, op maar van elke patiënt. Onze cliënten worden zowel vanuit residentiële als ambulante zorg naar ons verwezen. </span></p> \n<p><span>Wat ons typeert? Samenwerking, betrokkenheid en geloven in herstel, ook wanneer het pad niet altijd rechtlijnig is.</span></p> \n<p><b><span>Jouw rol</span></b></p> \n<p><span>Als verpleegkundige word je een onmisbare schakel in ons hecht multidisciplinair team. Je werkt nauw samen met collega’s en stemt je vlot af op onze herstelgerichte, psychotherapeutische visie binnen de hedendaagse psychiatrie. Je takenpakket is \n<strong>afwisselend, inhoudelijk sterk en mensgericht</strong>:</span></p> \n<p><span>· </span><span>Uitvoeren van verpleegtechnische handelingen zoals medicatieopvolging, drugscreening en bloednames</span></p> \n<p><span>· </span><span>Deelname aan de dagelijkse permanentie (telefonisch en als aanspreekpunt op de afdeling)</span></p> \n<p><span>· </span><span>Individuele begeleidingen met oog voor herstel en autonomie</span></p> \n<p><span>· </span><span>Begeleiding van therapeutische groepssessies, systeemgesprekken en huisbezoeken</span></p> \n<p><span>· </span><span>Actieve betrokkenheid bij intakes</span></p> \n<p><span>· </span><span>Delen van observaties en inzichten tijdens overlegmomenten en via het elektronisch patiëntendossier</span></p>",
+        "htmlEncoded": "<p><b><span>Over ons</span></b></p> \n<p><span>Het Knooppunt is een gespecialiseerde afdeling van de Dagkliniek Volwassenen, waar we mensen met een psychotische kwetsbaarheid begeleiden in hun herstelproces. We bieden een multidisciplinair en intensief therapieprogramma, op maar van elke patiënt. Onze cliënten worden zowel vanuit residentiële als ambulante zorg naar ons verwezen. </span></p> \n<p><span>Wat ons typeert? Samenwerking, betrokkenheid en geloven in herstel, ook wanneer het pad niet altijd rechtlijnig is.</span></p> \n<p><b><span>Jouw rol</span></b></p> \n<p><span>Als verpleegkundige word je een onmisbare schakel in ons hecht multidisciplinair team. Je werkt nauw samen met collega’s en stemt je vlot af op onze herstelgerichte, psychotherapeutische visie binnen de hedendaagse psychiatrie. Je takenpakket is \n<strong>afwisselend, inhoudelijk sterk en mensgericht</strong>:</span></p> \n<p><span>· </span><span>Uitvoeren van verpleegtechnische handelingen zoals medicatieopvolging, drugscreening en bloednames</span></p> \n<p><span>· </span><span>Deelname aan de dagelijkse permanentie (telefonisch en als aanspreekpunt op de afdeling)</span></p> \n<p><span>· </span><span>Individuele begeleidingen met oog voor herstel en autonomie</span></p> \n<p><span>· </span><span>Begeleiding van therapeutische groepssessies, systeemgesprekken en huisbezoeken</span></p> \n<p><span>· </span><span>Actieve betrokkenheid bij intakes</span></p> \n<p><span>· </span><span>Delen van observaties en inzichten tijdens overlegmomenten en via het elektronisch patiëntendossier</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-72968323",
       "internal": false,
@@ -1447,42 +1519,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72495246",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72495246",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data scientist (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Data scientist (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de ontwikkeling van algoritmes en modellen die deze evolutie kunnen ondersteunen.</span></p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>● Je vertaalt business problemen naar ML/AI oplossingen</span></p> \n<p><span>● Je ontwikkelt AI/ML modellen van experiment tot productie</span></p> \n<p><span>● Je werkt nauw samen met en leert van senior profielen in het team</span></p> \n<p><strong>Jouw taken</strong></p> \n<p>● Ontwikkelen van AI/ML modellen</p> \n<p>● Delen van kennis en inzichten van ontwikkelde modellen</p> \n<p>● Doorgedreven data analyse</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het team bestaat momenteel uit een 30-tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Spark, Python, PyTorch, GIT, ML modellen, statistiek en probabiliteitstheorie</span></p>",
-        "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarkt data te verwerken en uit te wisselen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die mee kan werken aan de ontwikkeling van algoritmes en modellen die deze evolutie kunnen ondersteunen.</span></p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<p><span>● Je vertaalt business problemen naar ML/AI oplossingen</span></p> \n<p><span>● Je ontwikkelt AI/ML modellen van experiment tot productie</span></p> \n<p><span>● Je werkt nauw samen met en leert van senior profielen in het team</span></p> \n<p><strong>Jouw taken</strong></p> \n<p>● Ontwikkelen van AI/ML modellen</p> \n<p>● Delen van kennis en inzichten van ontwikkelde modellen</p> \n<p>● Doorgedreven data analyse</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Het team bestaat momenteel uit een 30-tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Spark, Python, PyTorch, GIT, ML modellen, statistiek en probabiliteitstheorie</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72413682",
       "internal": false,
       "validThroughDate": "-1",
@@ -1905,42 +1941,6 @@
       "description": {
         "raw": "<p><strong><span>Ben jij een analytische denker met een hart voor maatschappelijke impact?</span></strong><span><br> Het Agentschap Wonen in Vlaanderen zoekt een ervaren</span><strong><span>Business Analist</span></strong><span>die wil bijdragen aan een efficiënter woonbeleid. Je start binnen de afdeling</span><strong><span>Financiën</span></strong><span>, met focus op het programma</span><strong><span>‘Performante Actoren’</span></strong><span>, dat woonmaatschappijen en lokale besturen ondersteunt in hun maatschappelijke opdracht.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Uitvoeren van impact- en businessanalyses binnen het domein ‘Performante Actoren’.</span></li> \n<li><span>Vertalen van regelgeving en signalen uit het werkveld naar concrete oplossingen.</span></li> \n<li><span>Brug vormen tussen business en ICT: samenwerken met Business experten, Product Owners, analisten en architecten.</span></li> \n<li><span>Identificeren en opvolgen van procesoptimalisaties en waar noodzakelijk voorstellen tot digitalisatie uitwerken</span></li> \n<li><span>Opstellen van storymaps en datamodellen ter ondersteuning van initiatieven.</span></li> </ul> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in</span><strong><span>Brussel – VAC Herman Teirlinck (Tour &amp; Taxis)</span></strong><span>, met ruime mogelijkheid tot thuiswerk. Je maakt deel uit van de ICT-dienst (100-tal medewerkers), maar werkt initieel nauw samen met de afdeling Financiën. Het agentschap telt 500 medewerkers verspreid over Vlaanderen en streeft naar kwaliteitsvol, betaalbaar en toegankelijk wonen.</span></p>",
         "htmlEncoded": "<p><strong><span>Ben jij een analytische denker met een hart voor maatschappelijke impact?</span></strong><span><br> Het Agentschap Wonen in Vlaanderen zoekt een ervaren</span><strong><span>Business Analist</span></strong><span>die wil bijdragen aan een efficiënter woonbeleid. Je start binnen de afdeling</span><strong><span>Financiën</span></strong><span>, met focus op het programma</span><strong><span>‘Performante Actoren’</span></strong><span>, dat woonmaatschappijen en lokale besturen ondersteunt in hun maatschappelijke opdracht.</span></p> \n<p> </p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<ul type=\"disc\"> \n<li><span>Uitvoeren van impact- en businessanalyses binnen het domein ‘Performante Actoren’.</span></li> \n<li><span>Vertalen van regelgeving en signalen uit het werkveld naar concrete oplossingen.</span></li> \n<li><span>Brug vormen tussen business en ICT: samenwerken met Business experten, Product Owners, analisten en architecten.</span></li> \n<li><span>Identificeren en opvolgen van procesoptimalisaties en waar noodzakelijk voorstellen tot digitalisatie uitwerken</span></li> \n<li><span>Opstellen van storymaps en datamodellen ter ondersteuning van initiatieven.</span></li> </ul> \n<p> </p> \n<p><strong><span>Waar kom je terecht?</span></strong></p> \n<p><span>Je werkt in</span><strong><span>Brussel – VAC Herman Teirlinck (Tour &amp; Taxis)</span></strong><span>, met ruime mogelijkheid tot thuiswerk. Je maakt deel uit van de ICT-dienst (100-tal medewerkers), maar werkt initieel nauw samen met de afdeling Financiën. Het agentschap telt 500 medewerkers verspreid over Vlaanderen en streeft naar kwaliteitsvol, betaalbaar en toegankelijk wonen.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70948751",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70948751",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Junior Solution Architect (Wonen in Vlaanderen) via Vlaanderen Connect"
-      },
-      "displayTitle": "Junior Solution Architect (Wonen in Vlaanderen) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>",
-        "htmlEncoded": "<p><span>Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.</span></p> \n<p> </p> \n<p><span>Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).</span></p> \n<p> </p> \n<p><span>Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Architectuur &amp; Governance. Deze dienst staat in voor een optimale ICT-ondersteuning van de businessafdelingen, een steeds verder doorgedreven digitalisering van de interne werking, inclusief de interactie met woonactoren en lokale besturen, en voor diensten ter beschikking van de burger. De ICT-dienst is een 100-tal personen groot, waarvan 7 personen in het team ‘Architectuur &amp; Governance’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven. </span></p> \n<p> </p> \n<p><span>Bij Wonen in Vlaanderen maken we gebruik van een breed scala aan technologieën om onze operationele efficiëntie en dienstverlening te optimaliseren. Voor onze financiële processen maken we gebruik van SAP. </span></p> \n<p><span>Casemanagement en low-code platformen worden ingezet voor de ontwikkeling van workflow-gebaseerde toepassingen en dossierbehandeling. Deze platformen stellen ons in staat om snel en flexibel applicaties te ontwikkelen die voldoen aan de behoeften van onze organisatie, zonder dat er uitgebreide programmeerkennis vereist is. Voor maatontwikkeling, zetten we in op .NET Core </span><span>wanneer specifieke eisen en uitgebreide functionaliteiten vereist zijn.</span><span>. </span></p> \n<p><span>Voor de hosting maken we gebruik van een hybride omgeving die bestaat uit Azure, AWS en on-premise. Hierdoor kunnen we onze applicaties veilig en schaalbaar hosten en beheren, afhankelijk van de specifieke eisen van onze projecten.</span></p>"
       },
       "locations": [
         {
@@ -2561,8 +2561,8 @@
       "displayTitle": "Privacy & data governance specialist",
       "isProtected": false,
       "description": {
-        "raw": "<div>Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.</div><div></div><div>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.</div><div></div><div>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.</div><div></div><div>Wat ga je doen?</div><div>-&nbsp; &nbsp;Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).</div><div>-&nbsp; &nbsp;Opmaken en beoordelen van DPIA’s/GEB’s.</div><div>-&nbsp; &nbsp;Evalueren van datagovernance en beleidsdocumenten.</div><div>-&nbsp; &nbsp;Controleren van datamapping en gegevensdeling met externe partijen.</div><div>-&nbsp; &nbsp;Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.</div><div></div><div>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.</div><div></div><div>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.</div><div></div><div>Wat ga je doen?</div><div>-&nbsp; &nbsp;Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).</div><div>-&nbsp; &nbsp;Opmaken en beoordelen van DPIA’s/GEB’s.</div><div>-&nbsp; &nbsp;Evalueren van datagovernance en beleidsdocumenten.</div><div>-&nbsp; &nbsp;Controleren van datamapping en gegevensdeling met externe partijen.</div><div>-&nbsp; &nbsp;Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+        "raw": "Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.<br><br>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.<br><br>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.<br><br>Wat ga je doen?<br><br>- Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).<br><br>- Opmaken en beoordelen van DPIA’s/GEB’s.<br><br>- Evalueren van datagovernance en beleidsdocumenten.<br><br>- Controleren van datamapping en gegevensdeling met externe partijen.<br><br>- Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
+        "htmlEncoded": "Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.<br><br>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.<br><br>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.<br><br>Wat ga je doen?<br><br>- Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).<br><br>- Opmaken en beoordelen van DPIA’s/GEB’s.<br><br>- Evalueren van datagovernance en beleidsdocumenten.<br><br>- Controleren van datamapping en gegevensdeling met externe partijen.<br><br>- Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
       },
       "locations": [
         {
@@ -2650,6 +2650,42 @@
         {
           "address": {
             "city": "Maaseik"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20103",
+      "internal": true,
+      "validThroughDate": "1771459200",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20103",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Teamhoofd Operationele Aankoop"
+      },
+      "displayTitle": "Teamhoofd Operationele Aankoop",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als teamhoofd Operationele Aankoop ben je een administratieve duizendpoot die instaat voor de operationele aankoopprocessen van het dienstencentrum. Geef je graag leiding aan een grote groep mensen, werk je gestructureerd en hecht je veel belang aan een klantvriendelijke dienstverlening? Dan is deze job iets voor jou.<br><br>Het teamhoofd is verantwoordelijk voor de dagelijkse werking van het dienstencentrum en geeft leiding aan een team van ongeveer 45 medewerkers, verdeeld over 7 clusters, elk aangestuurd door een clusterverantwoordelijke. Het team behandelt aanvragen van klanten tot de aankoop van goederen en diensten, zoals telefonie, meubilair, kledij, kantoor en IT-benodigdheden, documentatie, dienstreizen, mobiliteit of andere aankopen. Daarnaast verzorgt het team het beheer van de goederen, waaronder abonnementen, lidmaatschappen, licenties en ter beschikking gestelde goederen. En last but not least: het teamhoofd rapporteert over de budgetevolutie van alle klanten en de KPI’s die de dagelijkse werking meten.</p>",
+        "htmlEncoded": "<p>Als teamhoofd Operationele Aankoop ben je een administratieve duizendpoot die instaat voor de operationele aankoopprocessen van het dienstencentrum. Geef je graag leiding aan een grote groep mensen, werk je gestructureerd en hecht je veel belang aan een klantvriendelijke dienstverlening? Dan is deze job iets voor jou.<br><br>Het teamhoofd is verantwoordelijk voor de dagelijkse werking van het dienstencentrum en geeft leiding aan een team van ongeveer 45 medewerkers, verdeeld over 7 clusters, elk aangestuurd door een clusterverantwoordelijke. Het team behandelt aanvragen van klanten tot de aankoop van goederen en diensten, zoals telefonie, meubilair, kledij, kantoor en IT-benodigdheden, documentatie, dienstreizen, mobiliteit of andere aankopen. Daarnaast verzorgt het team het beheer van de goederen, waaronder abonnementen, lidmaatschappen, licenties en ter beschikking gestelde goederen. En last but not least: het teamhoofd rapporteert over de budgetevolutie van alle klanten en de KPI’s die de dagelijkse werking meten.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -2793,7 +2829,12 @@
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
           }
         }
       ]
@@ -4104,8 +4145,8 @@
       "displayTitle": "Onderhoudstechnieker",
       "isProtected": false,
       "description": {
-        "raw": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=2&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>",
-        "htmlEncoded": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=2&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>"
+        "raw": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=1&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><b><span>Ben jij een handige technieker met een passie voor elektromechanica, hydraulica en automatisatie of studeer je binnenkort af in een van deze richtingen? Wil je bijdragen aan het optimaal functioneren van de infrastructuur langs de Vlaamse waterwegen? Dan is dit jouw kans!<br></span></b><span>Op korte termijn zoeken we versterking voor de cel Elektromechanica, Hydraulica en Beheer van de afdeling Techniek. Specifiek gaat het om 4 functies in Willebroek, 1 functie in Ham, 1 functie in Wevelgem en 1 functie in Wijnegem. Daarnaast leggen we ook een werfreserve aan om hier voor de potentieel toekomstige standplaats Sint-Denijs-Westrem beroep op te kunnen doen.&nbsp;<br></span><span>Als onderhoudstechnieker speel jij een cruciale rol in het onderhoud van onze sluizen, bruggen, stuwen en andere beweegbare kunstwerken en hun aanhorigheden. Dankzij jouw expertise blijft deze essentiële infrastructuur operationeel en betrouwbaar.&nbsp;</span><span>Concreet neem je de volgende taken op:</span></p> <ul type=\"disc\"> <li><b><span>preventief en correctief onderhoud</span></b><span>: je voert onderhoud uit aan gespecialiseerde elektrische, hydraulische en geautomatiseerde installaties.</span></li> <li><b><span>eerstelijns interventies</span></b><span>: je maakt deel uit van een 24/7 wachtdienst en staat paraat om defecten of calamiteiten snel op te lossen.</span></li> <li><b><span>technische ondersteuning</span></b><span>: je biedt ondersteuning aan interne en externe partners bij infrastructuurwerken, moderniseringsprojecten, technische keuringen en inspecties.</span></li></ul> <p><span>Voor de uitvoer van je taken gebruik je de nodige ter beschikking gestelde (elektrische) gereedschappen en (persoonlijke) veiligheidsuitrustingen.&nbsp;</span><span>Veiligheid, kwaliteit en samenwerken met collega’s zijn voor jou belangrijke waarden.<br><br></span><span>Je mag rekenen op een vast contract met aantrekkelijke extra's: maaltijdcheques, een dertiende maand, ruime vakantieregeling, extra vergoedingen, een hospitalisatieverzekering</span><i> </i><span>én tal van andere voordelen die jouw werk belonen zoals het hoort.</span><i> </i><span>Je kan, mits bijdrage voordeel alle aard, gebruik maken van jouw dienstvoertuig voor verplaatsingen in het woon-werkverkeer.<br></span><span>Bij De Vlaamse Waterweg krijg je de kans om impact te maken in een organisatie die cruciaal is voor de mobiliteit, veiligheid en infrastructuur in Vlaanderen. Je werkt aan uitdagende projecten in een dynamische omgeving waar innovatie en samenwerking centraal staan.<br><br></span><span>Solliciteer vandaag nog en draag bij aan de werking van onze kunstwerken langs de Vlaamse waterwegen!</span>&nbsp;<br><span>Wil je weten hoe deze functie er in de praktijk uitziet?&nbsp;</span><a href=\"https://www.vlaamsewaterweg.be/nl/werken-bij-de-vlaamse-waterweg-nv?slide=1&amp;open=true#paragraph--26689\">Lees de getuigenis van&nbsp;Geoffrey, die deze rol vandaag uitoefent.</a><span>&nbsp;<br></span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>"
       },
       "locations": [
         {
