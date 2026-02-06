@@ -1,10 +1,10 @@
 {
-  "totalItems": 135,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 134,
+  "lastItemOfPage": 137,
   "items": [
     {
       "link": "/Job/vdab-72985842",
@@ -2203,6 +2203,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20290",
+      "internal": false,
+      "validThroughDate": "1771545600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20290",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepvaartbegeleider - Asper"
+      },
+      "displayTitle": "Scheepvaartbegeleider - Asper",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als Scheepvaartbegeleider bedien\nje jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op\ndat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de\nprofessionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig\nte laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij\nvoor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat\nniet in de file op onze overvolle wegen. <br><br>Je volgt ook\ndagelijks de waterstanden en debieten op. Op basis van de gegevens die jij\nverzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we\nVlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.<br><br>Ook\nadministratieve taken behoren tot jouw takenpakket. Je houdt registers bij over\nhet afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te\nmonitoren, is het belangrijk om te weten wanneer welke schepen bij jou\ngepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen\nwij op jou rekenen.<br><br>Als er voor jouw\nbrug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor\nin.<br><br>Werk je graag zelfstandig en dichtbij het water?\nDan is dit de functie die je zoekt!</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Als Scheepvaartbegeleider bedien\nje jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op\ndat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de\nprofessionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig\nte laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij\nvoor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat\nniet in de file op onze overvolle wegen. <br><br>Je volgt ook\ndagelijks de waterstanden en debieten op. Op basis van de gegevens die jij\nverzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we\nVlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.<br><br>Ook\nadministratieve taken behoren tot jouw takenpakket. Je houdt registers bij over\nhet afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te\nmonitoren, is het belangrijk om te weten wanneer welke schepen bij jou\ngepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen\nwij op jou rekenen.<br><br>Als er voor jouw\nbrug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor\nin.<br><br>Werk je graag zelfstandig en dichtbij het water?\nDan is dit de functie die je zoekt!</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gavere"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20285",
       "internal": false,
       "validThroughDate": "1771545600",
@@ -2306,6 +2342,39 @@
         {
           "address": {
             "city": "Veurne"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20268",
+      "internal": false,
+      "validThroughDate": "1771372800",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20268",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent Juridische Dienstverlening"
+      },
+      "displayTitle": "Jobstudent Juridische Dienstverlening",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob ? Het Departement Cultuur, Jeugd en Media zoekt een student met juridische achtergrond om het team Media en Film te ondersteunen. Dit kan voor één à twee dagen per week van maart tot eind augustus of gedurende een intensievere korte periode, afhankelijk van wat voor jou past.&nbsp;<br><br>Situering</p><p>Het Departement Cultuur, Jeugd en Media (CJM) staat in voor de voorbereiding, opvolging en evaluatie van het Vlaamse cultuur-, jeugd- en mediabeleid. Binnen het mediabeleid neemt het team Media en Film een centrale rol op in het ontwikkelen, actualiseren en juridisch onderbouwen van het Vlaamse Mediadecreet.<br>Door een tijdelijk capaciteitstekort en meerdere parallelle regelgevingstrajecten zoekt het Departement CJM juridische versterking Als jobstudent krijg je de kans om je juridische expertise te verdiepen en uit te bouwen. Je werkt mee aan regelgeving en beleidsvoorstellen die inspelen op evoluties in het medialandschap.<br><br>Als jobstudent zou je ingeschakeld worden voor<br>-\tjuridisch opzoekingswerk (o.a. in het kader van de herziening van het Mediadecreet en de relevante Europese kaders);<br>-\tde voorbereiding en uitwerking van aanpassingen aan het Mediadecreet en bijhorende uitvoeringsbesluiten;<br>-\thet actualiseren van juridische en technische omschrijvingen ter ondersteuning van het aangepaste radiobeleid;<br>-\talgemeen juridisch administratieve ondersteuning (bijv. verwerking van input uit publieke consultaties etc.).&nbsp; </p><br>",
+        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob ? Het Departement Cultuur, Jeugd en Media zoekt een student met juridische achtergrond om het team Media en Film te ondersteunen. Dit kan voor één à twee dagen per week van maart tot eind augustus of gedurende een intensievere korte periode, afhankelijk van wat voor jou past.&nbsp;<br><br>Situering</p><p>Het Departement Cultuur, Jeugd en Media (CJM) staat in voor de voorbereiding, opvolging en evaluatie van het Vlaamse cultuur-, jeugd- en mediabeleid. Binnen het mediabeleid neemt het team Media en Film een centrale rol op in het ontwikkelen, actualiseren en juridisch onderbouwen van het Vlaamse Mediadecreet.<br>Door een tijdelijk capaciteitstekort en meerdere parallelle regelgevingstrajecten zoekt het Departement CJM juridische versterking Als jobstudent krijg je de kans om je juridische expertise te verdiepen en uit te bouwen. Je werkt mee aan regelgeving en beleidsvoorstellen die inspelen op evoluties in het medialandschap.<br><br>Als jobstudent zou je ingeschakeld worden voor<br>-\tjuridisch opzoekingswerk (o.a. in het kader van de herziening van het Mediadecreet en de relevante Europese kaders);<br>-\tde voorbereiding en uitwerking van aanpassingen aan het Mediadecreet en bijhorende uitvoeringsbesluiten;<br>-\thet actualiseren van juridische en technische omschrijvingen ter ondersteuning van het aangepaste radiobeleid;<br>-\talgemeen juridisch administratieve ondersteuning (bijv. verwerking van input uit publieke consultaties etc.).&nbsp; </p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -2969,6 +3038,42 @@
       "description": {
         "raw": "<p>Als adviseur\nbeleidsimplementatie landbouw weet je van aanpakken en werk je graag concepten\nuit tot concrete acties. We zoeken een collega met oog voor optimalisatie die\nzo wil meewerken aan het verder verduurzamen van onze Vlaamse land- en\ntuinbouw.</p><p>Er zijn\ntal van vergroeningsinitiatieven die ingekanteld moeten worden in het\nPAS-omgevingskader (PAS = Programmatische Aanpak Stikstof) en het\nlandbouwbeleid. Nieuwe beleidsmaatregelen vanuit diverse Vlaamse en Europese\nbeleidskaders zullen ook de transitie van de landbouw beïnvloeden en\nsamensporen met PAS. De afstemming tussen deze kaders dient opgevolgd te\nworden.</p><p>Als\nadviseur beleidsimplementatie vervul je hierin een brugfunctie tussen dat\nlandbouwbeleid en vergroeningsbeleid aan de ene kant, en de uitwerking en\nuitvoering ervan in concrete maatregelen ter ondersteuning en begeleiding van\nde landbouwer aan de andere kant. Je zorgt er mee voor dat de transitie van de\nlandbouwer ten gevolge van nieuwe Vlaamse en Europese beleidskaders vlot\nverloopt, zodat deze in de praktijk omgezet kunnen worden en in lijn gebracht\nmet de uitdagingen die voortkomen uit ondermeer het stikstofbeleid (door\nbehoeftebevragingen, het uitdenken van werkwijze, het mee vertalen naar IT\ntoepassingen, …).</p><p>Je werkt mee aan het\nvoorbereiden en ontwikkelen van dat beleid en staat in voor de communicatie\nhierrond naar collega’s en externe belanghebbenden. Je verzamelt en analyseert\ninformatie aangaande je beleidsthema(‘s), op basis waarvan je voorstellen\nuitwerkt. Deze toets je af met de verschillende belanghebbenden om draagvlak te\ncreëren en om over de implementeerbaarheid ervan te waken. Je neemt deel aan\noverleg (o.a. met andere overheidsdiensten, de sector, …) en bekijkt\nbeleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen thema(‘s).</p><p>Je\nwerkt hiervoor ook nauw samen met de collega’s binnen de dienst en de afdeling\nen onderhoudt contacten met collega’s van andere afdelingen binnen de\norganisatie en met de partners van andere beleidsdomeinen.</p><p>Zo draag jij je steentje bij aan\nde missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</p>",
         "htmlEncoded": "<p>Als adviseur\nbeleidsimplementatie landbouw weet je van aanpakken en werk je graag concepten\nuit tot concrete acties. We zoeken een collega met oog voor optimalisatie die\nzo wil meewerken aan het verder verduurzamen van onze Vlaamse land- en\ntuinbouw.</p><p>Er zijn\ntal van vergroeningsinitiatieven die ingekanteld moeten worden in het\nPAS-omgevingskader (PAS = Programmatische Aanpak Stikstof) en het\nlandbouwbeleid. Nieuwe beleidsmaatregelen vanuit diverse Vlaamse en Europese\nbeleidskaders zullen ook de transitie van de landbouw beïnvloeden en\nsamensporen met PAS. De afstemming tussen deze kaders dient opgevolgd te\nworden.</p><p>Als\nadviseur beleidsimplementatie vervul je hierin een brugfunctie tussen dat\nlandbouwbeleid en vergroeningsbeleid aan de ene kant, en de uitwerking en\nuitvoering ervan in concrete maatregelen ter ondersteuning en begeleiding van\nde landbouwer aan de andere kant. Je zorgt er mee voor dat de transitie van de\nlandbouwer ten gevolge van nieuwe Vlaamse en Europese beleidskaders vlot\nverloopt, zodat deze in de praktijk omgezet kunnen worden en in lijn gebracht\nmet de uitdagingen die voortkomen uit ondermeer het stikstofbeleid (door\nbehoeftebevragingen, het uitdenken van werkwijze, het mee vertalen naar IT\ntoepassingen, …).</p><p>Je werkt mee aan het\nvoorbereiden en ontwikkelen van dat beleid en staat in voor de communicatie\nhierrond naar collega’s en externe belanghebbenden. Je verzamelt en analyseert\ninformatie aangaande je beleidsthema(‘s), op basis waarvan je voorstellen\nuitwerkt. Deze toets je af met de verschillende belanghebbenden om draagvlak te\ncreëren en om over de implementeerbaarheid ervan te waken. Je neemt deel aan\noverleg (o.a. met andere overheidsdiensten, de sector, …) en bekijkt\nbeleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen thema(‘s).</p><p>Je\nwerkt hiervoor ook nauw samen met de collega’s binnen de dienst en de afdeling\nen onderhoudt contacten met collega’s van andere afdelingen binnen de\norganisatie en met de partners van andere beleidsdomeinen.</p><p>Zo draag jij je steentje bij aan\nde missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20070",
+      "internal": false,
+      "validThroughDate": "1771977600",
+      "hiringOrganization": "Toerisme Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Horeca en toerisme",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20070",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Executive trips & events"
+      },
+      "displayTitle": "Executive trips & events",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Schrijft de buitenlandse pers lovend over de toeristische troeven van Vlaanderen? Zijn de mensen van Toerisme Vlaanderen in de wolken over het jongste personeelsevent? Dan is dat dankzij jou, want als executive trips &amp; events organiseer jij ervaringen die blijven nazinderen.</span></p> <p><span>Je job is dan ook zo afwisselend als het weer in Vlaanderen. Vandaag organiseer je een perstrip voor 5 journalisten uit Spanje of de States, morgen boks je een event in elkaar voor 150 professionals uit de toeristische sector.</span></p> <p><span><strong>Om dat te bolwerken, ben jij van vele markten thuis.</strong></span></p> <p><span>Zo ben je een teamspeler pur sang, die samen met de collega's aan de kar trekt. Tegelijk krijg je alle ruimte om initiatief te nemen en eigen ideeën uit te werken.</span></p> <p><span>Daarbij doe je met evenveel gemak een beroep op je beide hersenhelften. Je denkt analytisch na en stelt de juiste vragen. Vervolgens zoek je creatief naar de gepaste oplossing en steek je de handen uit de mouwen.</span></p> <p><span>Kortom, je organiseert, coördineert, prospecteert, communiceert, rapporteert en improviseert nog zoveel meer. Geen twee dagen lijken op elkaar.</span></p> <p><span><strong>Werken voor de toeristische troeven van Vlaanderen is een droomjob.</strong></span></p> <p><span>Ons eeuwenoude erfgoed, de eerlijke en heerlijke keuken, de unieke pareltjes natuur, de fietsroutes die de hele wereld ons benijdt - het staat allemaal garant voor ervaringen die blijven nazinderen. En daar zorg jij mee voor, als onze nieuwe executive trips &amp; events.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Schrijft de buitenlandse pers lovend over de toeristische troeven van Vlaanderen? Zijn de mensen van Toerisme Vlaanderen in de wolken over het jongste personeelsevent? Dan is dat dankzij jou, want als executive trips &amp; events organiseer jij ervaringen die blijven nazinderen.</span></p> <p><span>Je job is dan ook zo afwisselend als het weer in Vlaanderen. Vandaag organiseer je een perstrip voor 5 journalisten uit Spanje of de States, morgen boks je een event in elkaar voor 150 professionals uit de toeristische sector.</span></p> <p><span><strong>Om dat te bolwerken, ben jij van vele markten thuis.</strong></span></p> <p><span>Zo ben je een teamspeler pur sang, die samen met de collega's aan de kar trekt. Tegelijk krijg je alle ruimte om initiatief te nemen en eigen ideeën uit te werken.</span></p> <p><span>Daarbij doe je met evenveel gemak een beroep op je beide hersenhelften. Je denkt analytisch na en stelt de juiste vragen. Vervolgens zoek je creatief naar de gepaste oplossing en steek je de handen uit de mouwen.</span></p> <p><span>Kortom, je organiseert, coördineert, prospecteert, communiceert, rapporteert en improviseert nog zoveel meer. Geen twee dagen lijken op elkaar.</span></p> <p><span><strong>Werken voor de toeristische troeven van Vlaanderen is een droomjob.</strong></span></p> <p><span>Ons eeuwenoude erfgoed, de eerlijke en heerlijke keuken, de unieke pareltjes natuur, de fietsroutes die de hele wereld ons benijdt - het staat allemaal garant voor ervaringen die blijven nazinderen. En daar zorg jij mee voor, als onze nieuwe executive trips &amp; events.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
@@ -4754,9 +4859,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Afdelingshoofd Beleidsondersteuning, financiële operaties en regelgeving"
+        "htmlEncoded": "Afdelingshoofd Beleidsondersteuning, Begroting en Financiële Operaties"
       },
-      "displayTitle": "Afdelingshoofd Beleidsondersteuning, financiële operaties en regelgeving",
+      "displayTitle": "Afdelingshoofd Beleidsondersteuning, Begroting en Financiële Operaties",
       "isProtected": false,
       "description": {
         "raw": "<p><span>Het Departement Financiën en Begroting ondersteunt de minister bevoegd voor Financiën en Begroting en de Vlaamse overheid bij de beleidsvoorbereiding over financieel, budgettair en fiscaal beheer en bij de aansturing van de beleidsuitvoering.</span></p> <p><span>Als afdelingshoofd Beleidsondersteuning, Begroting en Financiële Operaties geef je leiding aan een team van experten dat werkt aan het hart van de Vlaamse overheidsfinanciën. Je stuurt hen aan met scherpe analyses, strategisch advies en financieel-technische expertise. Denk aan het voorbereiden van begrotingsrondes, het begeleiden van hervormingen, het ondersteunen van belangrijke beleidsbeslissingen en het uitbouwen van ons kenniscentrum.</span></p> <p><span>Als afdelingshoofd zorg je er mee voor dat complexe financiële vraagstukken helder worden, dat cijfers kloppen én dat beleidsmakers de tools hebben om hun ambities waar te maken. Bijgevolg ben je dé spil tussen beleid en uitvoering en krijg je de kans om echt impact te maken.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
