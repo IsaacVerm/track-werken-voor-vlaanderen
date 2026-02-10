@@ -1,10 +1,10 @@
 {
-  "totalItems": 143,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 142,
+  "lastItemOfPage": 137,
   "items": [
     {
       "link": "/Job/vdab-73018502",
@@ -2668,6 +2668,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20207",
+      "internal": false,
+      "validThroughDate": "1772064000",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Human resources",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20207",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "HR officer instroom"
+      },
+      "displayTitle": "HR officer instroom",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b><span>Ben jij gebeten door HR</span></b><span> en krijg je energie van instroomprocessen die vlot en correct lopen?</span><br> <span>Stap aan boord bij <b>DAB VLOOT</b> en versterk een <b>maritieme omgeving</b> waar proactief werken de norm is.</span></p> <p><span>In deze rol zorg jij mee voor impact: van <b>rekrutering van A tot Z</b> tot <b>pre- en onboarding</b>, en van <b>interne communicatie</b> tot <b>employer branding</b>. Je krijgt autonomie om mee te denken en initiatief te nemen.</span></p> <p>Je bent <b>verantwoordelijk voor</b> <b>het volledige instroomproces</b>. Dat betekent dat je de juiste rekruteringstools inzet, het selectieproces coördineert en samen met leidinggevenden de beste kandidaten kiest. Je zorgt voor een <b>warme onboarding</b>, bereidt interne communicatie voor en bouwt <b>relaties met scholen</b> uit. Daarnaast vertegenwoordig je DAB VLOOT op <b>jobevents</b>.</p><p> <b>Administratie schrikt jou niet af</b>: je bewaart het overzicht, stelt <b>wervingsplannen</b> op en houdt alles netjes op orde. Met jouw enthousiasme en klantgerichte aanpak geef je onze instroomprocessen een stevige boost. Daarnaast hou je van afwisseling en ben je graag onderweg: je bezoekt regelmatig onze locaties in <b>Antwerpen, Gent, Oostende en Vlissingen</b> om samen met collega’s het verschil te maken.</p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><b><span>Ben jij gebeten door HR</span></b><span> en krijg je energie van instroomprocessen die vlot en correct lopen?</span><br> <span>Stap aan boord bij <b>DAB VLOOT</b> en versterk een <b>maritieme omgeving</b> waar proactief werken de norm is.</span></p> <p><span>In deze rol zorg jij mee voor impact: van <b>rekrutering van A tot Z</b> tot <b>pre- en onboarding</b>, en van <b>interne communicatie</b> tot <b>employer branding</b>. Je krijgt autonomie om mee te denken en initiatief te nemen.</span></p> <p>Je bent <b>verantwoordelijk voor</b> <b>het volledige instroomproces</b>. Dat betekent dat je de juiste rekruteringstools inzet, het selectieproces coördineert en samen met leidinggevenden de beste kandidaten kiest. Je zorgt voor een <b>warme onboarding</b>, bereidt interne communicatie voor en bouwt <b>relaties met scholen</b> uit. Daarnaast vertegenwoordig je DAB VLOOT op <b>jobevents</b>.</p><p> <b>Administratie schrikt jou niet af</b>: je bewaart het overzicht, stelt <b>wervingsplannen</b> op en houdt alles netjes op orde. Met jouw enthousiasme en klantgerichte aanpak geef je onze instroomprocessen een stevige boost. Daarnaast hou je van afwisseling en ben je graag onderweg: je bezoekt regelmatig onze locaties in <b>Antwerpen, Gent, Oostende en Vlissingen</b> om samen met collega’s het verschil te maken.</p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20181",
       "internal": false,
       "validThroughDate": "1771718400",
@@ -3331,42 +3367,6 @@
         {
           "address": {
             "city": "Brugge"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20044",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Juridisch",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20044",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Justitieassistent Veurne"
-      },
-      "displayTitle": "Justitieassistent Veurne",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Veurne:&nbsp;<br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 16 februari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op<strong> 26 februari 2026 in Brugge</strong> (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>",
-        "htmlEncoded": "<p>Spreekt het begeleiden van daders en het informeren en bijstaan van slachtoffers je aan? Wil je werken <br>met ouders en kinderen in (hoog) conflict en word je niet afgeschrikt door complexe dossiers? <br>Dan is de functie van justitieassistent in een justitiehuis iets voor jou. Je komt terecht in een uitdagende omgeving waar al je talenten benut zullen worden: je teamspirit en autonomie, je analytische vermogen, je enthousiasme en lef. Ga jij samen met ons voor een veiligere samenleving?</p><p>We zijn op zoek naar justitieassistenten voor het jusititiehuis van Veurne:&nbsp;<br>• Binnen het justitiehuis sta je, samen met je collega’s, in voor de begeleiding en opvolging <br>van daders, de uitvoering van gemeenschapsgerichte straffen, de informatie en bijstand aan <br>slachtoffers en hun na(ast)bestaanden en de bemiddeling tussen dader en slachtoffer. <br>• Hiernaast beschik je over goede rapporteringsvaardigenheden en goede schriftelijke en <br>communicatieve vaardigheden, aangezien je instaat voor het advies en de rapportage aan <br>gerechtelijke instanties en het uitvoeren van maatschappelijke onderzoeken voorafgaand aan <br>gerechtelijke beslissingen in zowel strafrechtelijke als burgerrechtelijke (verblijfs- en de <br>omgangsregelingen) procedures.</p><p><strong>Sollicitatieprocedure</strong></p><p>In de week van 16 februari 2026 doen we een CV-screening. In die week zal je vernemen of je uitgenodigd wordt voor een selectiegesprek. De selectiegesprekken gaan door op<strong> 26 februari 2026 in Brugge</strong> (datum onder voorbehoud). Houd dit moment alvast vrij in je agenda.&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Veurne"
           }
         }
       ]
@@ -4086,42 +4086,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19938",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Andere",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19938",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Medewerker collectiebeheer Collectie Vlaamse Gemeenschap"
-      },
-      "displayTitle": "Medewerker collectiebeheer Collectie Vlaamse Gemeenschap",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers: opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Heb je een interesse in collectiebeheer? Verdiep je je graag in dossiers en werk je zorgvuldig en&nbsp;&nbsp;<br>probleemoplossend? Dan is de functie van dossierbeheerder bewaargevingen collectie iets voor jou!&nbsp; &nbsp;<br><br>Het depot in Vilvoorde bewaart een deel van de Collectie Vlaamse Gemeenschap. De meeste stukken zijn&nbsp;<br>in bewaring gegeven aan cultureel-erfgoedorganisaties en organisaties binnen de publieke sector zoals&nbsp;<br>kabinetten, openbare besturen, universiteiten, etc.&nbsp;<br><br>Deze bewaargevingen volgen we zorgvuldig op. We zoeken een gedreven dossierbeheerder om&nbsp;&nbsp;<br>bewaargevingsdossiers op te schonen en te registreren in ons nieuwe online opvolgingssysteem.&nbsp;<br><br><strong>Wat ga je concreet doen?</strong><br>• Je werkt je in in de lopende en historische bewaargevingsdossiers van de collectie en neemt&nbsp;&nbsp;<br>vervolgens contact op met de bewaarnemers om standplaatsbezoeken in te plannen.&nbsp; &nbsp;<br>• Je bezoekt op zeer regelmatige basis bewaarnemers over heel Vlaanderen en Brussel. &nbsp;<br>• Je verwerkt je bevindingen in het collectieregistratiesysteem, het online opvolgingssysteem en in&nbsp;&nbsp;<br>standplaatsverslagen. &nbsp; &nbsp;<br>• Je bepaalt de nodige opvolgacties en voert die uit (al dan niet in samenspraak met de&nbsp;&nbsp;<br>bewaarnemers: opstarten van restauraties, aangiftes van verloren werken, opmaak van nieuwe&nbsp;&nbsp;<br>overeenkomsten…).&nbsp;&nbsp;<br>• Je bent mee verantwoordelijk voor het invoeren van historische bewaargevingsdossiers in het&nbsp;&nbsp;<br>online opvolgingssysteem van de collectie en de implementatie van het systeem in de dagelijkse&nbsp;&nbsp;<br>werking.<br>• Je bereidt in- en uitgaande transporten van kunstwerken voor van je lopende dossiers.&nbsp;&nbsp;<br>• Je neemt, samen met je collega's, actief deel aan het werk in het depot (toestandscontrole&nbsp;&nbsp;<br>kunstwerken, intern transport kunstwerken,…).&nbsp;<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Vilvoorde"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19936",
       "internal": false,
       "validThroughDate": "1770854400",
@@ -4261,6 +4225,47 @@
         {
           "address": {
             "city": "Aalst"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19915",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Eigen Vermogen Xperta",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Ingenieur",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19915",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Ingenieur staalconstructies - keuring & toezicht"
+      },
+      "displayTitle": "Ingenieur staalconstructies - keuring & toezicht",
+      "isProtected": false,
+      "description": {
+        "raw": "<div><p>Staalconstructies zoals <strong>bruggen</strong>, <strong>sluizen </strong>en <strong>kaaimuren </strong>vormen de ruggengraat\nvan onze mobiliteit. Wil jij bijdragen aan duurzame en veilige\ninfrastructuurprojecten binnen Mobiliteit en Openbare Werken? Dan is deze\nfunctie iets voor jou.</p><p>Als <strong>ingenieur\nstaalconstructies </strong>werk je bij de <strong>afdeling Expertise Beton en Staal</strong>.\nJe focust op het adviseren van <strong>bouwmaterialen en bouwproducten</strong>, en op\nhet <strong>controleren van de uitvoering</strong> van staalconstructies in werkhuizen.</p><p>Een greep\nuit je takenpakket:</p><ul><li>Je bereidt <strong>technisch advies </strong>voor bij de constructie van stalen kunstwerken. Daarbij kijk je uitvoeringsdocumenten zoals uitvoeringstekeningen, lasplannen, ITP, WPS en WPQR grondig na.</li><li>Je <strong>adviseert </strong>de aanbesteder betreffende de materialen<strong> </strong>en <strong>volgt de controle op</strong> van de uitvoering<strong> </strong>bij <strong>staalbouwprojecten in werkhuizen</strong>.</li><li>Je zorgt ervoor dat <strong>keurings- en toezichtsverslagen </strong>tijdig worden afgeleverd en geeft daarbij technisch advies waar nodig.</li><li>Je stelt <strong>bestekteksten </strong>en <strong>technische voorschriften </strong>op en leest deze zorgvuldig na.</li><li>Je werkt mee aan de <strong>uitbouw van voorschriften </strong>binnen het <strong>standaardbestek 260/280</strong>.</li></ul><p>Je komt terecht in een <strong>klein\nen hecht team</strong>. Samen met je collega’s speel je een cruciale rol in het\nondersteunen van <strong>interne klanten </strong>zoals o.a. onze <strong>afdeling Maritieme Toegang </strong>en <strong>De Vlaamse Waterweg </strong>bij de uitvoering van complexe structuren.</p><p>Het team werkt vanuit\nde kantoren in <strong>Gent </strong>en <strong>Hasselt</strong>, en jij bepaalt bij de start zelf vanuit welk kantoor je\naan de slag gaat. Gemiddeld verdeel je je tijd gelijk tussen thuiswerken en\naanwezig zijn op kantoor. Dankzij deze <strong>flexibele werkregeling </strong>kun je werk\nen privé eenvoudig combineren.</p><div></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div><br>",
+        "htmlEncoded": "<div><p>Staalconstructies zoals <strong>bruggen</strong>, <strong>sluizen </strong>en <strong>kaaimuren </strong>vormen de ruggengraat\nvan onze mobiliteit. Wil jij bijdragen aan duurzame en veilige\ninfrastructuurprojecten binnen Mobiliteit en Openbare Werken? Dan is deze\nfunctie iets voor jou.</p><p>Als <strong>ingenieur\nstaalconstructies </strong>werk je bij de <strong>afdeling Expertise Beton en Staal</strong>.\nJe focust op het adviseren van <strong>bouwmaterialen en bouwproducten</strong>, en op\nhet <strong>controleren van de uitvoering</strong> van staalconstructies in werkhuizen.</p><p>Een greep\nuit je takenpakket:</p><ul><li>Je bereidt <strong>technisch advies </strong>voor bij de constructie van stalen kunstwerken. Daarbij kijk je uitvoeringsdocumenten zoals uitvoeringstekeningen, lasplannen, ITP, WPS en WPQR grondig na.</li><li>Je <strong>adviseert </strong>de aanbesteder betreffende de materialen<strong> </strong>en <strong>volgt de controle op</strong> van de uitvoering<strong> </strong>bij <strong>staalbouwprojecten in werkhuizen</strong>.</li><li>Je zorgt ervoor dat <strong>keurings- en toezichtsverslagen </strong>tijdig worden afgeleverd en geeft daarbij technisch advies waar nodig.</li><li>Je stelt <strong>bestekteksten </strong>en <strong>technische voorschriften </strong>op en leest deze zorgvuldig na.</li><li>Je werkt mee aan de <strong>uitbouw van voorschriften </strong>binnen het <strong>standaardbestek 260/280</strong>.</li></ul><p>Je komt terecht in een <strong>klein\nen hecht team</strong>. Samen met je collega’s speel je een cruciale rol in het\nondersteunen van <strong>interne klanten </strong>zoals o.a. onze <strong>afdeling Maritieme Toegang </strong>en <strong>De Vlaamse Waterweg </strong>bij de uitvoering van complexe structuren.</p><p>Het team werkt vanuit\nde kantoren in <strong>Gent </strong>en <strong>Hasselt</strong>, en jij bepaalt bij de start zelf vanuit welk kantoor je\naan de slag gaat. Gemiddeld verdeel je je tijd gelijk tussen thuiswerken en\naanwezig zijn op kantoor. Dankzij deze <strong>flexibele werkregeling </strong>kun je werk\nen privé eenvoudig combineren.</p><div></div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div></div><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Hasselt"
           }
         }
       ]
@@ -4515,42 +4520,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19882",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Financieel",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19882",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Tactisch aankoper"
-      },
-      "displayTitle": "Tactisch aankoper",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij de bruggenbouwer die complexe regels vertaalt naar slimme oplossingen? Wil jij mee zorgen dat het Agentschap Justitie en Handhaving correct én efficiënt aankoopt?<br data-end=\"175\" data-start=\"172\"></p><p>Dan is deze nieuwe, unieke functie als tactisch aankoper iets voor jou! Je begeleidt collega’s doorheen het volledige aankooptraject: van behoeftebepaling tot nazorg. Je zet inhoudelijke noden om in de juiste procedures en bewaakt kwaliteit, timing en regelgeving.<br data-end=\"450\" data-start=\"447\"></p><p>Met jouw marktkennis zorg je voor sterke prijs-kwaliteitsverhoudingen en gezonde concurrentie. Daarnaast neem je het contract-, leveranciers- én verzekeringsbeheer in handen. Klaar om impact te maken achter de schermen van een sterk agentschap? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij de bruggenbouwer die complexe regels vertaalt naar slimme oplossingen? Wil jij mee zorgen dat het Agentschap Justitie en Handhaving correct én efficiënt aankoopt?<br data-end=\"175\" data-start=\"172\"></p><p>Dan is deze nieuwe, unieke functie als tactisch aankoper iets voor jou! Je begeleidt collega’s doorheen het volledige aankooptraject: van behoeftebepaling tot nazorg. Je zet inhoudelijke noden om in de juiste procedures en bewaakt kwaliteit, timing en regelgeving.<br data-end=\"450\" data-start=\"447\"></p><p>Met jouw marktkennis zorg je voor sterke prijs-kwaliteitsverhoudingen en gezonde concurrentie. Daarnaast neem je het contract-, leveranciers- én verzekeringsbeheer in handen. Klaar om impact te maken achter de schermen van een sterk agentschap? Solliciteer nu!</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19880",
       "internal": false,
       "validThroughDate": "1771113600",
@@ -4577,42 +4546,6 @@
       "description": {
         "raw": "Wil jij meebouwen aan diverse business ideeën die impact hebben op de ICT-werking binnen het Agentschap Justitie en Handhaving in Vlaanderen? Word je warm van het bouwen van bruggen tussen de noden van de business en het opstellen van ICT-oplossingen in digitaliserings- en automatiseringsprojecten voor de diverse teams?&nbsp;<br><br>Het Agentschap Justitie en Handhaving is op zoek naar één ICT-analist om het team van analisten te versterken.<br><br>Als ICT-analist speel je een sleutelrol binnen het Agentschap Justitie en Handhaving en vorm je de brug tussen de inhoudelijke experten en de interne en externe ICT-partners. Je vertaalt ideeën, noden en beleidsdoelstellingen naar haalbare en duurzame ICT-oplossingen en zorgt ervoor dat projecten correct worden voorbereid, opgestart en opgevolgd.<br><br>Je werkt mee aan uiteenlopende digitaliserings- en automatiseringsprojecten binnen verschillende inhoudelijke domeinen van het Agentschap. Dat kan gaan over justitiehuizen, elektronisch toezicht, gendergerelateerd geweld, hulp- en dienstverlening aan gedetineerden, jeugddelinquentie of Vlaamse handhaving etc. Afhankelijk van het project ga je aan de slag met nieuwe toepassingen of met de verdere optimalisatie van bestaande systemen.<br><br>Op basis van jouw business analyse werk je, samen met je collega’s, een deel van de functionele analyse voor een concrete ICT gerelateerde toepassing uit. Je maakt een gestructureerde en coherente doorvertaling tussen wat als oplossing gevraagd wordt en hoe dit functioneel zou kunnen vertaald worden in een ICT-ontwerp, binnen de afgesproken kaders (standaarden, architectuur, beleid).<br><br>Het Agentschap werkt voor de implementatie samen met externe dienstenleveranciers. Het zwaartepunt van deze functie ligt bij het aspect business analyse en de eerste 2 fasen van functionele analyse, zoals het definiëren van de functionele en niet-functionele vereisten en het opstellen van use cases en bijhorende testscenario’s.<br><br>Tot slot kan je ingezet worden tijdens de testfase van een ICT-project om testsessies te begeleiden. De facto is dat je vaak expert bent van (delen van) een business domein en de functionele expert van één of meerdere toepassingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
         "htmlEncoded": "Wil jij meebouwen aan diverse business ideeën die impact hebben op de ICT-werking binnen het Agentschap Justitie en Handhaving in Vlaanderen? Word je warm van het bouwen van bruggen tussen de noden van de business en het opstellen van ICT-oplossingen in digitaliserings- en automatiseringsprojecten voor de diverse teams?&nbsp;<br><br>Het Agentschap Justitie en Handhaving is op zoek naar één ICT-analist om het team van analisten te versterken.<br><br>Als ICT-analist speel je een sleutelrol binnen het Agentschap Justitie en Handhaving en vorm je de brug tussen de inhoudelijke experten en de interne en externe ICT-partners. Je vertaalt ideeën, noden en beleidsdoelstellingen naar haalbare en duurzame ICT-oplossingen en zorgt ervoor dat projecten correct worden voorbereid, opgestart en opgevolgd.<br><br>Je werkt mee aan uiteenlopende digitaliserings- en automatiseringsprojecten binnen verschillende inhoudelijke domeinen van het Agentschap. Dat kan gaan over justitiehuizen, elektronisch toezicht, gendergerelateerd geweld, hulp- en dienstverlening aan gedetineerden, jeugddelinquentie of Vlaamse handhaving etc. Afhankelijk van het project ga je aan de slag met nieuwe toepassingen of met de verdere optimalisatie van bestaande systemen.<br><br>Op basis van jouw business analyse werk je, samen met je collega’s, een deel van de functionele analyse voor een concrete ICT gerelateerde toepassing uit. Je maakt een gestructureerde en coherente doorvertaling tussen wat als oplossing gevraagd wordt en hoe dit functioneel zou kunnen vertaald worden in een ICT-ontwerp, binnen de afgesproken kaders (standaarden, architectuur, beleid).<br><br>Het Agentschap werkt voor de implementatie samen met externe dienstenleveranciers. Het zwaartepunt van deze functie ligt bij het aspect business analyse en de eerste 2 fasen van functionele analyse, zoals het definiëren van de functionele en niet-functionele vereisten en het opstellen van use cases en bijhorende testscenario’s.<br><br>Tot slot kan je ingezet worden tijdens de testfase van een ICT-project om testsessies te begeleiden. De facto is dat je vaak expert bent van (delen van) een business domein en de functionele expert van één of meerdere toepassingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19879",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19879",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Financieel Directeur"
-      },
-      "displayTitle": "Financieel Directeur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Wil jij mee het financiële beleid vormgeven van een organisatie die werkt aan een groenere, duurzame toekomst voor Vlaanderen? Natuur en Bos zoekt een gedreven Financieel directeur die de eindverantwoordelijkheid neemt over alle financiële processen en de volledige budgettaire cyclus van Natuur en Bos. Je leidt een team van circa tien medewerkers en werkt nauw samen met het management, interne en externe partners.&nbsp; Je bent de spil in het financiële beleid. Je combineert visie met daadkracht en zorgt ervoor dat onze organisatie financieel gezond en toekomstgericht blijft.<br><br><strong>Jouw uitdaging:</strong></p><ul><li>Je optimaliseert financiële processen en bewaakt wet- en regelgeving, interne controle en risicobeheersing. Je stuurt proactief bij.</li><li>Je bent de drijvende kracht achter de invoering van het nieuwe financiële systeem (project Finance on the Move of kortweg FOMO) en zorgt voor een structurele basis voor duurzame budgettaire beslissingen.</li><li>Je combineert operationeel leiderschap met strategisch inzicht en levert inhoudelijke bijdragen aan complexe dossiers en projecten.</li><li>Je bouwt mee aan een moderne overheid en denkt proactief mee over innovatieve financieringsmogelijkheden.</li></ul><p><strong>Jouw profiel:</strong></p><ul><li><strong>&nbsp;</strong>Je bent een coachende leider met een analytisch en toekomstgericht profiel.</li><li>Je hebt voelsprieten voor wat er leeft binnen de organisatie en jouw team. Je durft vooruit te denken en verandering vorm te geven.</li></ul><p><strong>Wat bieden wij?</strong></p><ul><li><strong>&nbsp;</strong>Een uitdagende rol met impact op een budget van circa 180 miljoen euro.</li><li>Werken in een dynamisch team, met ruimte voor innovatie en persoonlijke ontwikkeling.</li></ul><p><strong>Solliciteer nu en bouw mee aan de natuur van morgen!</strong>**<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Wil jij mee het financiële beleid vormgeven van een organisatie die werkt aan een groenere, duurzame toekomst voor Vlaanderen? Natuur en Bos zoekt een gedreven Financieel directeur die de eindverantwoordelijkheid neemt over alle financiële processen en de volledige budgettaire cyclus van Natuur en Bos. Je leidt een team van circa tien medewerkers en werkt nauw samen met het management, interne en externe partners.&nbsp; Je bent de spil in het financiële beleid. Je combineert visie met daadkracht en zorgt ervoor dat onze organisatie financieel gezond en toekomstgericht blijft.<br><br><strong>Jouw uitdaging:</strong></p><ul><li>Je optimaliseert financiële processen en bewaakt wet- en regelgeving, interne controle en risicobeheersing. Je stuurt proactief bij.</li><li>Je bent de drijvende kracht achter de invoering van het nieuwe financiële systeem (project Finance on the Move of kortweg FOMO) en zorgt voor een structurele basis voor duurzame budgettaire beslissingen.</li><li>Je combineert operationeel leiderschap met strategisch inzicht en levert inhoudelijke bijdragen aan complexe dossiers en projecten.</li><li>Je bouwt mee aan een moderne overheid en denkt proactief mee over innovatieve financieringsmogelijkheden.</li></ul><p><strong>Jouw profiel:</strong></p><ul><li><strong>&nbsp;</strong>Je bent een coachende leider met een analytisch en toekomstgericht profiel.</li><li>Je hebt voelsprieten voor wat er leeft binnen de organisatie en jouw team. Je durft vooruit te denken en verandering vorm te geven.</li></ul><p><strong>Wat bieden wij?</strong></p><ul><li><strong>&nbsp;</strong>Een uitdagende rol met impact op een budget van circa 180 miljoen euro.</li><li>Werken in een dynamisch team, met ruimte voor innovatie en persoonlijke ontwikkeling.</li></ul><p><strong>Solliciteer nu en bouw mee aan de natuur van morgen!</strong>**<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -4741,42 +4674,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19850",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Toerisme Vlaanderen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Juridisch",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19850",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jurist"
-      },
-      "displayTitle": "Jurist",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Als jurist bestaat jouw kerntaak uit juridisch adviesverlening. Je analyseert de juridische vragen en je formuleert je deskundig advies zowel op vraag onze interne collega’s als met een proactieve houding. Je werkt hiervoor nauw samen met je collega’s en Hub-Coach binnen het team Juridische Zaken en Overheidsopdrachten. Je communiceert op een transparante manier, wisselt expertise uit en houdt je vakinhoudelijke kennis actief bij.</div><div></div><div>Je zal instaan voor een diverse, specifieke en efficiënte dienstverlening met betrekking tot alle rechtsmateries waarmee de business van Toerisme Vlaanderen in contact komt. Je komt terecht in een klein, hecht team waar je écht impact hebt. Je krijgt veel autonomie en neemt je dossiers vast met een gezonde dosis verantwoordelijkheidszin. Je wacht niet af, maar denkt vooruit, neemt beslissingen en houdt de lijnen kort.</div><div>Je schakelt vlot tussen uiteenlopende juridische rechtsdomeinen, wat de functie bijzonder afwisselend maakt.</div><div></div><div>Onze interne klanten rekenen op jouw juridische expertise, maar ook op jouw vermogen om mee te denken. Je past niet gewoon regels toe — je analyseert, redeneert en zoekt oplossingen die aansluiten bij de context en noden van de vraagsteller. Ook heldere communicatie is essentieel: je stemt vlot af met collega’s, laat weten waar je mee bezig bent en geeft tijdig aan wanneer iets even moet wachten. Zo houden we elkaar scherp en blijven dossiers in beweging.</div><div></div><div>Kortom: je bent een jurist die initiatief neemt, graag zelfstandig werkt en energie krijgt van veelzijdige juridische uitdagingen binnen een organisatie die Vlaanderen mee op de kaart zet.</div>",
-        "htmlEncoded": "<div>Als jurist bestaat jouw kerntaak uit juridisch adviesverlening. Je analyseert de juridische vragen en je formuleert je deskundig advies zowel op vraag onze interne collega’s als met een proactieve houding. Je werkt hiervoor nauw samen met je collega’s en Hub-Coach binnen het team Juridische Zaken en Overheidsopdrachten. Je communiceert op een transparante manier, wisselt expertise uit en houdt je vakinhoudelijke kennis actief bij.</div><div></div><div>Je zal instaan voor een diverse, specifieke en efficiënte dienstverlening met betrekking tot alle rechtsmateries waarmee de business van Toerisme Vlaanderen in contact komt. Je komt terecht in een klein, hecht team waar je écht impact hebt. Je krijgt veel autonomie en neemt je dossiers vast met een gezonde dosis verantwoordelijkheidszin. Je wacht niet af, maar denkt vooruit, neemt beslissingen en houdt de lijnen kort.</div><div>Je schakelt vlot tussen uiteenlopende juridische rechtsdomeinen, wat de functie bijzonder afwisselend maakt.</div><div></div><div>Onze interne klanten rekenen op jouw juridische expertise, maar ook op jouw vermogen om mee te denken. Je past niet gewoon regels toe — je analyseert, redeneert en zoekt oplossingen die aansluiten bij de context en noden van de vraagsteller. Ook heldere communicatie is essentieel: je stemt vlot af met collega’s, laat weten waar je mee bezig bent en geeft tijdig aan wanneer iets even moet wachten. Zo houden we elkaar scherp en blijven dossiers in beweging.</div><div></div><div>Kortom: je bent een jurist die initiatief neemt, graag zelfstandig werkt en energie krijgt van veelzijdige juridische uitdagingen binnen een organisatie die Vlaanderen mee op de kaart zet.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -5054,42 +4951,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19558",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Departement Mobiliteit en Openbare Werken",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Bouw",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19558",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Werfingenieur"
-      },
-      "displayTitle": "Werfingenieur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als <strong>werfingenieur</strong> bij de afdeling Maritieme Toegang werk je aan technisch uitdagende projecten\ndie onze Vlaamse zeehavens bereikbaar en veilig houden. Denk aan sluizen,\nkaaimuren, bruggen, waterbouwkundige constructies en baggerwerken. Je\ncombineert technische expertise met projectsturing en werfopvolging in een\nunieke maritieme omgeving.</p><p>Je maakt\ndeel uit van een team van ingenieurs, toezichters en veiligheidspecialisten.\nSamen zorg je ervoor dat complexe infrastructuurprojecten correct, veilig en\nefficiënt worden uitgevoerd. Je neemt daarbij een cruciale rol op, want in je\ndagelijkse werk:</p><ul><li><strong>coördineer je de werfopvolging</strong>, bewaak je kwaliteit,\n     planning en budget en werk je nauw samen met aannemers en toezichters;</li><li><strong>bereid je werfvergaderingen\n     voor</strong>, neem je\n     actief deel en zorg je voor duidelijke technische verslaggeving en\n     opvolging;</li><li><strong>begeleid je projectdossiers</strong> in alle fasen: ontwerp,\n     voorbereiding, uitvoering en nazorg;</li><li><strong>bouw je expertise op in\n     waterbouw</strong>,\n     volg je relevante opleidingen en deel je nieuwe inzichten met collega’s;</li><li><strong>waak je over veiligheid</strong>, ondersteun je de\n     veiligheidscoördinatie en stimuleer je een veilige werkcultuur op en rond\n     de werf;</li><li><strong>analyseer je technische\n     documentatie </strong>     en draag je bij aan kostenramingen, administratieve opvolging en\n     begrotingsadvies;</li><li><strong>help je procedures verbeteren</strong> en denk je mee over\n     efficiëntere werkwijzen binnen de afdeling.</li></ul><p>Deze\nfunctie is bijzonder omdat je werkt aan unieke infrastructuurprojecten op\nnationale schaal, een sterke mix krijgt tussen bureau en terrein, snel\neigen dossiers beheert, en uitgroeit tot een expert binnen een niche-domein\nwaar grote maatschappelijke impact en technische complexiteit samenkomen.</p><p>Je wordt tewerkgesteld in de afdeling\nMaritieme Toegang. Deze afdeling is een uitvoerende dienst van het Departement\nMobiliteit en Openbare Werken (DMOW) die de maritieme toegang tot de Vlaamse\nzeehavens onderhoudt, verbetert en exploiteert. Je maakt deel uit van de cel\nInvesteringen en Infrastructuur (cel I&amp;I) van de afdeling Maritieme\nToegang.<br><br><strong>Lees meer over de\njob en het selectieproces in het selectiereglement als bijlage bij ‘meer\ninformatie’. Download dit document en hou het bij.&nbsp;</strong></p>",
-        "htmlEncoded": "<p>Als <strong>werfingenieur</strong> bij de afdeling Maritieme Toegang werk je aan technisch uitdagende projecten\ndie onze Vlaamse zeehavens bereikbaar en veilig houden. Denk aan sluizen,\nkaaimuren, bruggen, waterbouwkundige constructies en baggerwerken. Je\ncombineert technische expertise met projectsturing en werfopvolging in een\nunieke maritieme omgeving.</p><p>Je maakt\ndeel uit van een team van ingenieurs, toezichters en veiligheidspecialisten.\nSamen zorg je ervoor dat complexe infrastructuurprojecten correct, veilig en\nefficiënt worden uitgevoerd. Je neemt daarbij een cruciale rol op, want in je\ndagelijkse werk:</p><ul><li><strong>coördineer je de werfopvolging</strong>, bewaak je kwaliteit,\n     planning en budget en werk je nauw samen met aannemers en toezichters;</li><li><strong>bereid je werfvergaderingen\n     voor</strong>, neem je\n     actief deel en zorg je voor duidelijke technische verslaggeving en\n     opvolging;</li><li><strong>begeleid je projectdossiers</strong> in alle fasen: ontwerp,\n     voorbereiding, uitvoering en nazorg;</li><li><strong>bouw je expertise op in\n     waterbouw</strong>,\n     volg je relevante opleidingen en deel je nieuwe inzichten met collega’s;</li><li><strong>waak je over veiligheid</strong>, ondersteun je de\n     veiligheidscoördinatie en stimuleer je een veilige werkcultuur op en rond\n     de werf;</li><li><strong>analyseer je technische\n     documentatie </strong>     en draag je bij aan kostenramingen, administratieve opvolging en\n     begrotingsadvies;</li><li><strong>help je procedures verbeteren</strong> en denk je mee over\n     efficiëntere werkwijzen binnen de afdeling.</li></ul><p>Deze\nfunctie is bijzonder omdat je werkt aan unieke infrastructuurprojecten op\nnationale schaal, een sterke mix krijgt tussen bureau en terrein, snel\neigen dossiers beheert, en uitgroeit tot een expert binnen een niche-domein\nwaar grote maatschappelijke impact en technische complexiteit samenkomen.</p><p>Je wordt tewerkgesteld in de afdeling\nMaritieme Toegang. Deze afdeling is een uitvoerende dienst van het Departement\nMobiliteit en Openbare Werken (DMOW) die de maritieme toegang tot de Vlaamse\nzeehavens onderhoudt, verbetert en exploiteert. Je maakt deel uit van de cel\nInvesteringen en Infrastructuur (cel I&amp;I) van de afdeling Maritieme\nToegang.<br><br><strong>Lees meer over de\njob en het selectieproces in het selectiereglement als bijlage bij ‘meer\ninformatie’. Download dit document en hou het bij.&nbsp;</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19520",
       "internal": false,
       "validThroughDate": "1771545600",
@@ -5162,52 +5023,6 @@
         {
           "address": {
             "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-18456",
-      "internal": false,
-      "validThroughDate": "1770595200",
-      "hiringOrganization": "Vlaamse Belastingdienst",
-      "reservedForDisability": false,
-      "openPositions": 5,
-      "domain": "Juridisch",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-18456",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Dossierbehandelaar taxatie erfbelasting"
-      },
-      "displayTitle": "Dossierbehandelaar taxatie erfbelasting",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Jij bent iemand die graag de touwtjes in handen neemt en nauwkeurig te werk gaat. Jij haalt voldoening uit het grondig behandelen van dossiers, waarbij je analytisch nadenkt en pragmatisch handelt. Je werkt zelfstandig, houdt overzicht en zorgt ervoor dat elk dossier tijdig en tot in de puntjes verzorgd wordt. Collega’s weten jou te vinden als betrouwbaar aanspreekpunt, en waar mogelijk draag jij bij aan verbeteringen en optimalisaties binnen je werkproces.</span></p><p><span>Als dossierbehandelaar taxatie erfbelasting kan jij de meer complexere erfbelastingdossiers zelfstandig behandelen. Je volgt duidelijke procedures, wetgeving, richtlijnen en checklists, zodat je weloverwogen beslissingen kunt nemen. Je behandelt vragen en telefoontjes over jouw dossiers professioneel en klantgericht, en je draagt actief bij aan een efficiënte en hoogwaardige dienstverlening. Dankzij jouw inzet verlopen dossiers soepel en blijft alles netjes op koers, terwijl jij de inhoudelijke controle behoudt en altijd oog hebt voor detail.</span></p><p><span><b>Momenteel zijn wij op zoek naar collega’s voor de volgende standplaatsen:</b></span></p><ul><li><span><b>2 collega’s voor standplaats Hasselt</b></span></li><li><span><b>1 collega’s voor standplaats Brugge</b></span></li><li><span><b> 2 collega’s voor standplaats Leuven </b></span></li></ul><p><span><b>&nbsp;</b>Klinkt dit als jouw volgende uitdaging? Stap in de wereld van erfbelasting en draag bij aan dossiers die er écht toe doen, samen met een betrokken team. </span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Jij bent iemand die graag de touwtjes in handen neemt en nauwkeurig te werk gaat. Jij haalt voldoening uit het grondig behandelen van dossiers, waarbij je analytisch nadenkt en pragmatisch handelt. Je werkt zelfstandig, houdt overzicht en zorgt ervoor dat elk dossier tijdig en tot in de puntjes verzorgd wordt. Collega’s weten jou te vinden als betrouwbaar aanspreekpunt, en waar mogelijk draag jij bij aan verbeteringen en optimalisaties binnen je werkproces.</span></p><p><span>Als dossierbehandelaar taxatie erfbelasting kan jij de meer complexere erfbelastingdossiers zelfstandig behandelen. Je volgt duidelijke procedures, wetgeving, richtlijnen en checklists, zodat je weloverwogen beslissingen kunt nemen. Je behandelt vragen en telefoontjes over jouw dossiers professioneel en klantgericht, en je draagt actief bij aan een efficiënte en hoogwaardige dienstverlening. Dankzij jouw inzet verlopen dossiers soepel en blijft alles netjes op koers, terwijl jij de inhoudelijke controle behoudt en altijd oog hebt voor detail.</span></p><p><span><b>Momenteel zijn wij op zoek naar collega’s voor de volgende standplaatsen:</b></span></p><ul><li><span><b>2 collega’s voor standplaats Hasselt</b></span></li><li><span><b>1 collega’s voor standplaats Brugge</b></span></li><li><span><b> 2 collega’s voor standplaats Leuven </b></span></li></ul><p><span><b>&nbsp;</b>Klinkt dit als jouw volgende uitdaging? Stap in de wereld van erfbelasting en draag bij aan dossiers die er écht toe doen, samen met een betrokken team. </span></p><p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
           }
         }
       ]
