@@ -1,11 +1,47 @@
 {
-  "totalItems": 137,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 136,
+  "lastItemOfPage": 137,
   "items": [
+    {
+      "link": "/Job/vdab-73048057",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73048057",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Expert Digitaal Informatiebeheer (ANB) via Vlaanderen connect"
+      },
+      "displayTitle": "Expert Digitaal Informatiebeheer (ANB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je draagt projectmatig bij aan het realiseren van het projectplan informatiebeheer 2025-2029 op vlak van digitaal informatiebeheer. Hierbij gaat ook voldoende aandacht naar informatieveiligheid en kennisbeheer. </p> \n<p>De focus ligt op het optimaliseren van de voorkeurstools binnen Microsoft 365 (SharePoint in combinatie met PowerAutomate, PowerBI…), aangevuld met andere tools (bv. Confluence). Tegelijk willen we verouderde informatiestructuren afbouwen (bv. verouderde SharePointsites, verdere afbouw netwerkschijven…) Ten slotte draag je bij aan het verankeren van informatiebeheer in de werking van het agentschap. </p> \n<p>Je werkt nauw samen met de consulent Informatiebeheer die het eigenaarschap opneemt voor fysieke archieven en in beperkte mate ondersteuning biedt bij digitale processen. Er is ook een goede samenwerking met de collega’s van ICT die het technische eigenaarschap opnemen en met de DPO en CISO inzake informatieveiligheid. </p> \n<p><strong>Jouw rol – Wat ga je doen?</strong></p> \n<p>Informatiebeheer ontsluiten en verankeren in de werking van het agentschap </p> \n<ul> \n<li>Verfijnen van richtlijnen voor digitaal informatiebeheer en informatieveiligheid en deze vertalen naar de eindgebruikers. Erover waken dat deze correct worden gecommuniceerd en toegepast. </li> \n<li>Samen met de andere betrokkenen een opleidingsaanbod ontwikkelen en implementeren binnen de organisatie. </li> </ul> \n<p>Eigenaarschap SharePointlandschap </p> \n<ul> \n<li>Neemt eigenaarschap op van het SharePointlandschap: optimaliseren en beter ontsluiten van het SharePoint-landschap (structuur, metadata, rechten, retentie). </li> \n<li>Actief opsporen van verouderde sites en deze afbouwen. </li> \n<li>Actief opsporen van sites die kunnen geoptimaliseerd worden en dit samen met andere betrokken collega’s stapsgewijs aanpakken. Toepassen van bewaartermijnen en retentiebeleid in M365. </li> \n<li>Opzetten en opvolgen van complexe SharePoint-projecten, automatisering van processen via Power Automate. </li> </ul> \n<p>Overige digitale projecten </p> \n<ul> \n<li>Afbouwen van netwerkschijven door enerzijds vernietiging van verouderde informatie en anderzijds opbouw van eigentijdse alternatieven. </li> \n<li>Monitoring opzetten via Power BI. </li> \n<li>Voorbereiden en coördineren van aansluiting op Digitaal Archief Vlaanderen (in overleg met consulent informatiebeheer) </li> </ul> \n<p>Samenwerking </p> \n<ul> \n<li>Intensieve samenwerking met de consulent Informatiebeheer. Samen met deze consulent stuurt de expert digitaal informatiebeheer de werkgroep informatiebeheer aan, met vertegenwoordiging uit elke afdeling en cel van het agentschap. </li> \n<li>Samenwerking met team ICT en de dpo. </li> </ul>",
+        "htmlEncoded": "<p>Je draagt projectmatig bij aan het realiseren van het projectplan informatiebeheer 2025-2029 op vlak van digitaal informatiebeheer. Hierbij gaat ook voldoende aandacht naar informatieveiligheid en kennisbeheer. </p> \n<p>De focus ligt op het optimaliseren van de voorkeurstools binnen Microsoft 365 (SharePoint in combinatie met PowerAutomate, PowerBI…), aangevuld met andere tools (bv. Confluence). Tegelijk willen we verouderde informatiestructuren afbouwen (bv. verouderde SharePointsites, verdere afbouw netwerkschijven…) Ten slotte draag je bij aan het verankeren van informatiebeheer in de werking van het agentschap. </p> \n<p>Je werkt nauw samen met de consulent Informatiebeheer die het eigenaarschap opneemt voor fysieke archieven en in beperkte mate ondersteuning biedt bij digitale processen. Er is ook een goede samenwerking met de collega’s van ICT die het technische eigenaarschap opnemen en met de DPO en CISO inzake informatieveiligheid. </p> \n<p><strong>Jouw rol – Wat ga je doen?</strong></p> \n<p>Informatiebeheer ontsluiten en verankeren in de werking van het agentschap </p> \n<ul> \n<li>Verfijnen van richtlijnen voor digitaal informatiebeheer en informatieveiligheid en deze vertalen naar de eindgebruikers. Erover waken dat deze correct worden gecommuniceerd en toegepast. </li> \n<li>Samen met de andere betrokkenen een opleidingsaanbod ontwikkelen en implementeren binnen de organisatie. </li> </ul> \n<p>Eigenaarschap SharePointlandschap </p> \n<ul> \n<li>Neemt eigenaarschap op van het SharePointlandschap: optimaliseren en beter ontsluiten van het SharePoint-landschap (structuur, metadata, rechten, retentie). </li> \n<li>Actief opsporen van verouderde sites en deze afbouwen. </li> \n<li>Actief opsporen van sites die kunnen geoptimaliseerd worden en dit samen met andere betrokken collega’s stapsgewijs aanpakken. Toepassen van bewaartermijnen en retentiebeleid in M365. </li> \n<li>Opzetten en opvolgen van complexe SharePoint-projecten, automatisering van processen via Power Automate. </li> </ul> \n<p>Overige digitale projecten </p> \n<ul> \n<li>Afbouwen van netwerkschijven door enerzijds vernietiging van verouderde informatie en anderzijds opbouw van eigentijdse alternatieven. </li> \n<li>Monitoring opzetten via Power BI. </li> \n<li>Voorbereiden en coördineren van aansluiting op Digitaal Archief Vlaanderen (in overleg met consulent informatiebeheer) </li> </ul> \n<p>Samenwerking </p> \n<ul> \n<li>Intensieve samenwerking met de consulent Informatiebeheer. Samen met deze consulent stuurt de expert digitaal informatiebeheer de werkgroep informatiebeheer aan, met vertegenwoordiging uit elke afdeling en cel van het agentschap. </li> \n<li>Samenwerking met team ICT en de dpo. </li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73040720",
       "internal": false,
@@ -1010,42 +1046,6 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72776868",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "SPORT VLAANDEREN HOFSTADE",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72776868",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Zaalwachter"
-      },
-      "displayTitle": "Zaalwachter",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>De taak van de zaalwachter is het verzekeren van een veilige, ordelijke en goed functionerende sportinfrastructuur door toezicht te houden op de sporthal en gymhal, gebruikers te begeleiden en technische en logistieke ondersteuning te bieden waar nodig.</span></p> \n<p><span>Takenpakket:</span></p> \n<p><span>Toezicht &amp; veiligheid:</span></p> \n<ul type=\"disc\"> \n<li><span>Toezicht houden in de sporthal en gymhal om een veilige omgeving te garanderen.</span></li> \n<li><span>Toezien op het naleven van huisregels, veiligheidsnormen en afspraken met clubs, scholen en bezoekers.</span></li> \n<li><span>Optreden bij incidenten, conflicten of onveilige situaties en deze rapporteren volgens interne procedures.</span></li> \n<li><span>Eerste hulp verlenen wanneer nodig.</span></li> </ul> \n<p><span>Infrastructuurbeheer:</span></p> \n<ul type=\"disc\"> \n<li><span>Openen, sluiten en klaarzetten van de zalen voor trainingen, wedstrijden en evenementen.</span></li> \n<li><span>Controleren van sportmaterieel (matten, doelpalen, toestellen, geluidsinstallatie, scoreborden…) en melden van defecten.</span></li> \n<li><span>Uitvoeren van kleine onderhoudstaken en ondersteunen bij grotere technische interventies.</span></li> \n<li><span>Zorg dragen voor orde, netheid en een vlot gebruik van alle ruimtes:</span></li> \n<ul type=\"circle\"> \n<li><span>Sportterreinen</span></li> \n<li><span>Sanitair </span></li> \n<li><span>Burelen</span></li> \n<li><span>Kleedkamers en douches</span></li> </ul> </ul> \n<p><span>Ondersteuning van gebruikers</span></p> \n<ul type=\"disc\"> \n<li><span>Verwelkomen van clubs, scholen, verenigingen en individuele bezoekers.</span></li> \n<li><span>Informeren over zaalindelingen, materiaalgebruik, sleutelbeheer en veiligheidsregels.</span></li> \n<li><span>Assisteren bij opstellingen en ombouw (bijv. van volleybal- naar basketbalveld).</span></li> \n<li><span>Controle op correct terugplaatsen materiaal.</span></li> \n<li><span>Aanspreekpunt zijn bij vragen of problemen.</span></li> </ul> \n<p><span>Administratieve taken</span></p> \n<ul type=\"disc\"> \n<li><span>Registreren van aanwezigheden, incidenten, beschadigingen en interventies.</span></li> \n<li><span>Doorgeven van planningsproblemen of wijzigingen aan de verantwoordelijke.</span></li> \n<li>Eventueel ondersteunen bij reservaties en toegangssysteem.</li> </ul>",
-        "htmlEncoded": "<p><span>De taak van de zaalwachter is het verzekeren van een veilige, ordelijke en goed functionerende sportinfrastructuur door toezicht te houden op de sporthal en gymhal, gebruikers te begeleiden en technische en logistieke ondersteuning te bieden waar nodig.</span></p> \n<p><span>Takenpakket:</span></p> \n<p><span>Toezicht &amp; veiligheid:</span></p> \n<ul type=\"disc\"> \n<li><span>Toezicht houden in de sporthal en gymhal om een veilige omgeving te garanderen.</span></li> \n<li><span>Toezien op het naleven van huisregels, veiligheidsnormen en afspraken met clubs, scholen en bezoekers.</span></li> \n<li><span>Optreden bij incidenten, conflicten of onveilige situaties en deze rapporteren volgens interne procedures.</span></li> \n<li><span>Eerste hulp verlenen wanneer nodig.</span></li> </ul> \n<p><span>Infrastructuurbeheer:</span></p> \n<ul type=\"disc\"> \n<li><span>Openen, sluiten en klaarzetten van de zalen voor trainingen, wedstrijden en evenementen.</span></li> \n<li><span>Controleren van sportmaterieel (matten, doelpalen, toestellen, geluidsinstallatie, scoreborden…) en melden van defecten.</span></li> \n<li><span>Uitvoeren van kleine onderhoudstaken en ondersteunen bij grotere technische interventies.</span></li> \n<li><span>Zorg dragen voor orde, netheid en een vlot gebruik van alle ruimtes:</span></li> \n<ul type=\"circle\"> \n<li><span>Sportterreinen</span></li> \n<li><span>Sanitair </span></li> \n<li><span>Burelen</span></li> \n<li><span>Kleedkamers en douches</span></li> </ul> </ul> \n<p><span>Ondersteuning van gebruikers</span></p> \n<ul type=\"disc\"> \n<li><span>Verwelkomen van clubs, scholen, verenigingen en individuele bezoekers.</span></li> \n<li><span>Informeren over zaalindelingen, materiaalgebruik, sleutelbeheer en veiligheidsregels.</span></li> \n<li><span>Assisteren bij opstellingen en ombouw (bijv. van volleybal- naar basketbalveld).</span></li> \n<li><span>Controle op correct terugplaatsen materiaal.</span></li> \n<li><span>Aanspreekpunt zijn bij vragen of problemen.</span></li> </ul> \n<p><span>Administratieve taken</span></p> \n<ul type=\"disc\"> \n<li><span>Registreren van aanwezigheden, incidenten, beschadigingen en interventies.</span></li> \n<li><span>Doorgeven van planningsproblemen of wijzigingen aan de verantwoordelijke.</span></li> \n<li>Eventueel ondersteunen bij reservaties en toegangssysteem.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hofstade"
           }
         }
       ]
@@ -2126,6 +2126,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20314",
+      "internal": false,
+      "validThroughDate": "1772928000",
+      "hiringOrganization": "ILVO Technologie en Voeding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20314",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Computer Scientist met interesse in AI en data"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Computer Scientist met interesse in AI en data",
+      "isProtected": false,
+      "description": {
+        "raw": "Krijg je energie van technische uitdagingen, data en AI-toepassingen? Neem je graag initiatief en vind\nje het fijn om zelf oplossingen uit te tekenen? Wil je groeien in een omgeving\nwaar onderzoek en technologie samenkomen? Zoek je een gevarieerde job met\nduidelijke impact op de agrivoeding sector? Dan is dit de job voor jou?<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>",
+        "htmlEncoded": "Krijg je energie van technische uitdagingen, data en AI-toepassingen? Neem je graag initiatief en vind\nje het fijn om zelf oplossingen uit te tekenen? Wil je groeien in een omgeving\nwaar onderzoek en technologie samenkomen? Zoek je een gevarieerde job met\nduidelijke impact op de agrivoeding sector? Dan is dit de job voor jou?<br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.<br><br><strong>For English see page 4 of the selection rules</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
