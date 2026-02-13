@@ -1,10 +1,10 @@
 {
-  "totalItems": 138,
+  "totalItems": 139,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 137,
+  "lastItemOfPage": 138,
   "items": [
     {
       "link": "/Job/vdab-73048057",
@@ -2889,6 +2889,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20141",
+      "internal": false,
+      "validThroughDate": "1773014400",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderhoud",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20141",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Polyvalent Onderhoudsmedewerker"
+      },
+      "displayTitle": "Polyvalent Onderhoudsmedewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><strong>Voor de locatie in Schoten zoekt De Vlaamse Waterweg een handige en gemotiveerde polyvalent onderhoudsmedewerker. Je zorgt mee voor het dagelijks onderhoud van waterwegen, oevers en infrastructuur, zodat alles veilig en netjes blijft voor gebruikers en omgeving. Geen enkele dag is dezelfde: van onderhoudswerken tot het ingrijpen bij onverwachte situaties, jij steekt graag de handen uit de mouwen.</strong></span></p><p><span>&nbsp;</span><span>Als polyvalent onderhoudsmedewerker ben je verantwoordelijk voor het uitvoeren van onderhoud en herstellingen aan infrastructuur beheerd door De Vlaamse Waterweg.&nbsp;</span><span>Je takenpakket omvat onder andere:</span></p><ul><li><span> Uitvoeren van alle elementaire onderhoudswerken aan oevers, wegen, grachten, kunstwerken, … Je maakt hiervoor gebruik van gemotoriseerde werktuigen zoals een bosmaaier, bladblazer, kettingzaag, hakselaar …</span></li><li><span>Bedienen van machines zoals graafmachine, heftruck, hoogtewerker …</span></li><li><span>Ophalen van sluikstorten en drijfvuil opruimen en deponeren in afvalverzamelplaats.</span></li><li>Opvangen van noodsituaties bij calamiteiten aan waterwegen, oevers en jaagpaden.</li></ul><p><span>Bij deze taken hou je de nodige aandacht voor een goed nazicht en onderhoud van je materiaal en zorg je voor een correcte en nauwkeurige administratie. Op basis van een weekplanning neem je taken op en voer je opdrachten uit samen met je collega’s. Indien nodig signaleer je problemen en bespreek je deze met je leidinggevende. Daarnaast zijn er opleidingsmogelijkheden, zoals het besturen van specifieke voertuigen en machines.<br><br>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. Met ongeveer 1.350 medewerkers werken we vanuit verschillende afdelingen aan een veelzijdig en slim waterwegennet.<br> Ben jij iemand die graag buiten werkt en zich inzet voor het onderhoud van onze waterwegen? Heb je oog voor kwaliteit en duurzaamheid?</span></p><p><span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</span></p><p><span>&nbsp;</span></p>",
+        "htmlEncoded": "<p><span><strong>Voor de locatie in Schoten zoekt De Vlaamse Waterweg een handige en gemotiveerde polyvalent onderhoudsmedewerker. Je zorgt mee voor het dagelijks onderhoud van waterwegen, oevers en infrastructuur, zodat alles veilig en netjes blijft voor gebruikers en omgeving. Geen enkele dag is dezelfde: van onderhoudswerken tot het ingrijpen bij onverwachte situaties, jij steekt graag de handen uit de mouwen.</strong></span></p><p><span>&nbsp;</span><span>Als polyvalent onderhoudsmedewerker ben je verantwoordelijk voor het uitvoeren van onderhoud en herstellingen aan infrastructuur beheerd door De Vlaamse Waterweg.&nbsp;</span><span>Je takenpakket omvat onder andere:</span></p><ul><li><span> Uitvoeren van alle elementaire onderhoudswerken aan oevers, wegen, grachten, kunstwerken, … Je maakt hiervoor gebruik van gemotoriseerde werktuigen zoals een bosmaaier, bladblazer, kettingzaag, hakselaar …</span></li><li><span>Bedienen van machines zoals graafmachine, heftruck, hoogtewerker …</span></li><li><span>Ophalen van sluikstorten en drijfvuil opruimen en deponeren in afvalverzamelplaats.</span></li><li>Opvangen van noodsituaties bij calamiteiten aan waterwegen, oevers en jaagpaden.</li></ul><p><span>Bij deze taken hou je de nodige aandacht voor een goed nazicht en onderhoud van je materiaal en zorg je voor een correcte en nauwkeurige administratie. Op basis van een weekplanning neem je taken op en voer je opdrachten uit samen met je collega’s. Indien nodig signaleer je problemen en bespreek je deze met je leidinggevende. Daarnaast zijn er opleidingsmogelijkheden, zoals het besturen van specifieke voertuigen en machines.<br><br>De Vlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig netwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van Vlaanderen. Met ongeveer 1.350 medewerkers werken we vanuit verschillende afdelingen aan een veelzijdig en slim waterwegennet.<br> Ben jij iemand die graag buiten werkt en zich inzet voor het onderhoud van onze waterwegen? Heb je oog voor kwaliteit en duurzaamheid?</span></p><p><span>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</span></p><p><span>&nbsp;</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Schoten"
           }
         }
       ]
