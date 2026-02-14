@@ -1,10 +1,10 @@
 {
-  "totalItems": 140,
+  "totalItems": 141,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 139,
+  "lastItemOfPage": 140,
   "items": [
     {
       "link": "/Job/vdab-73048057",
@@ -3038,6 +3038,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20117",
+      "internal": false,
+      "validThroughDate": "1772582400",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Inspectie/audit",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20117",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Auditor gegevensdeling & privacy"
+      },
+      "displayTitle": "Auditor gegevensdeling & privacy",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als <strong>auditor\ngegevensdeling &amp; privacy</strong> voer je audits uit rond gegevensdeling,\nprivacy, databeveiliging en data governance. Je zorgt voor een consequente\nauditmethodiek en vertaalt bevindingen naar duidelijke risico’s en\naanbevelingen die bijdragen aan de verbetering van onze werking.</p><p>Je versterkt de afdeling\nOrganisatie-evaluatie, een nieuwe en onafhankelijke afdeling binnen ons\nagentschap. De afdeling staat in voor interne audits (proces-, thema en\nforensische audits), consultancy-opdrachten, het opzetten en beheer van een\nklokkenluidersregeling en het uittekenen van een integriteitsaanpak ingebed in\ndat van de Vlaamse Gemeenschap. De afdeling werkt op basis van een charter en\nressorteert rechtstreeks onder de leidend ambtenaar. De afdeling wil een\nbijdrage leveren aan een betere werking van ons agentschap.<br><br>Je komt terecht in een\nafdeling in opbouw, met in een eerste fase een beperkt aantal collega’s. De\nafdeling en het team is nog in constructie, wat betekent dat je bij de verdere\nvormgeving wordt betrokken.<br><br><strong>Wat ga je doen?</strong><br>•&nbsp;Voorbereiden, uitvoeren en rapporteren\n     van audits rond gegevensdeling en privacy.<br>•&nbsp;Identificeren van procesrisico’s en\n     beoordelen van interne controles.<br>•&nbsp;Analyseren en visualiseren van\n     datastromen binnen en tussen entiteiten.<br>•&nbsp;Schrijven van heldere, gestructureerde\n     auditrapporten met concrete aanbevelingen.<br>•&nbsp;Afstemmen met juridische, IT‑ en\n     security‑experten.<br>•&nbsp;Monitoren van de opvolging van\n     aanbevelingen en rapporteren over voortgang.<br><br><strong>Belangrijk: lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>Als <strong>auditor\ngegevensdeling &amp; privacy</strong> voer je audits uit rond gegevensdeling,\nprivacy, databeveiliging en data governance. Je zorgt voor een consequente\nauditmethodiek en vertaalt bevindingen naar duidelijke risico’s en\naanbevelingen die bijdragen aan de verbetering van onze werking.</p><p>Je versterkt de afdeling\nOrganisatie-evaluatie, een nieuwe en onafhankelijke afdeling binnen ons\nagentschap. De afdeling staat in voor interne audits (proces-, thema en\nforensische audits), consultancy-opdrachten, het opzetten en beheer van een\nklokkenluidersregeling en het uittekenen van een integriteitsaanpak ingebed in\ndat van de Vlaamse Gemeenschap. De afdeling werkt op basis van een charter en\nressorteert rechtstreeks onder de leidend ambtenaar. De afdeling wil een\nbijdrage leveren aan een betere werking van ons agentschap.<br><br>Je komt terecht in een\nafdeling in opbouw, met in een eerste fase een beperkt aantal collega’s. De\nafdeling en het team is nog in constructie, wat betekent dat je bij de verdere\nvormgeving wordt betrokken.<br><br><strong>Wat ga je doen?</strong><br>•&nbsp;Voorbereiden, uitvoeren en rapporteren\n     van audits rond gegevensdeling en privacy.<br>•&nbsp;Identificeren van procesrisico’s en\n     beoordelen van interne controles.<br>•&nbsp;Analyseren en visualiseren van\n     datastromen binnen en tussen entiteiten.<br>•&nbsp;Schrijven van heldere, gestructureerde\n     auditrapporten met concrete aanbevelingen.<br>•&nbsp;Afstemmen met juridische, IT‑ en\n     security‑experten.<br>•&nbsp;Monitoren van de opvolging van\n     aanbevelingen en rapporteren over voortgang.<br><br><strong>Belangrijk: lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20103",
       "internal": true,
       "validThroughDate": "1771459200",
@@ -3517,7 +3553,7 @@
       "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
       "reservedForDisability": false,
       "openPositions": 1,
-      "domain": "ICT",
+      "domain": "Administratie",
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
