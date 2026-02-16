@@ -1,11 +1,47 @@
 {
-  "totalItems": 140,
+  "totalItems": 142,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 139,
+  "lastItemOfPage": 141,
   "items": [
+    {
+      "link": "/Job/vdab-73074333",
+      "internal": false,
+      "validThroughDate": "1772323200",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73074333",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "casemanager"
+      },
+      "displayTitle": "casemanager",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>In het kader van de vermaatschappelijking van de Geestelijke Gezondheidszorg werd in 2010 het Netwerk GGZ Kempen opgericht. Dit netwerk is actief in het ganse arrondissement Turnhout. Voor het Langdurig Zorgteam (LZ) werft het Openbaar Psychiatrisch Zorgcentrum Geel, als partner binnen het Netwerk GGZ-Kempen, hiervoor aan:</span></p> \n<p><span> </span></p> \n<p><b><span>Casemanagers – bepaalde duur (1 jaar, 80-100%) – </span></b></p> \n<p><b><span>regio Turnhout-Herentals-Geel-Mol</span></b></p> \n<p><b><span> </span></b></p> \n<p><b><span>Wij hebben deze job voor jou</span></b></p> \n<p><span> </span></p> \n<p><span>· </span><span>Het Team Langdurige Zorg is een \n<b>multidisciplinair mobiel team</b> dat zich richt tot volwassenen en ouderen die door een \n<b>ernstige en langdurige psychische kwetsbaarheid</b>, ondersteuning nodig hebben op verschillende levensdomeinen. </span></p> \n<p><span>· </span><span>Cliënten krijgen 2 begeleiders (casemanagers) toegewezen die de zorg samen met de cliënt in duo opnemen.</span></p> \n<p><span>· </span><span>Het LZ-team begeleidt mensen in \n<b>hun eigen leefomgeving</b> die na hun ontslag uit het ziekenhuis of soms parallel met een ambulante behandeling steun nodig hebben om hun eigen leven in handen te nemen of te houden. </span></p> \n<p><span>· </span><span>Het team werkt intensief samen met andere zorgpartners binnen en buiten GGZ (huisartsen, thuiszorgdiensten en mantelzorgers). Cliënten en hun naasten worden beschouwd als partners in de zorg. </span></p> \n<p><span>· </span><span>Bij het LZ-team delen we de overtuiging dat complexe problemen een gedeelde aanpak vereisen. Expertisedeling en deelname aan overlegmomenten zijn een onderdeel van het takenpakket.</span></p>",
+        "htmlEncoded": "<p><span>In het kader van de vermaatschappelijking van de Geestelijke Gezondheidszorg werd in 2010 het Netwerk GGZ Kempen opgericht. Dit netwerk is actief in het ganse arrondissement Turnhout. Voor het Langdurig Zorgteam (LZ) werft het Openbaar Psychiatrisch Zorgcentrum Geel, als partner binnen het Netwerk GGZ-Kempen, hiervoor aan:</span></p> \n<p><span> </span></p> \n<p><b><span>Casemanagers – bepaalde duur (1 jaar, 80-100%) – </span></b></p> \n<p><b><span>regio Turnhout-Herentals-Geel-Mol</span></b></p> \n<p><b><span> </span></b></p> \n<p><b><span>Wij hebben deze job voor jou</span></b></p> \n<p><span> </span></p> \n<p><span>· </span><span>Het Team Langdurige Zorg is een \n<b>multidisciplinair mobiel team</b> dat zich richt tot volwassenen en ouderen die door een \n<b>ernstige en langdurige psychische kwetsbaarheid</b>, ondersteuning nodig hebben op verschillende levensdomeinen. </span></p> \n<p><span>· </span><span>Cliënten krijgen 2 begeleiders (casemanagers) toegewezen die de zorg samen met de cliënt in duo opnemen.</span></p> \n<p><span>· </span><span>Het LZ-team begeleidt mensen in \n<b>hun eigen leefomgeving</b> die na hun ontslag uit het ziekenhuis of soms parallel met een ambulante behandeling steun nodig hebben om hun eigen leven in handen te nemen of te houden. </span></p> \n<p><span>· </span><span>Het team werkt intensief samen met andere zorgpartners binnen en buiten GGZ (huisartsen, thuiszorgdiensten en mantelzorgers). Cliënten en hun naasten worden beschouwd als partners in de zorg. </span></p> \n<p><span>· </span><span>Bij het LZ-team delen we de overtuiging dat complexe problemen een gedeelde aanpak vereisen. Expertisedeling en deelname aan overlegmomenten zijn een onderdeel van het takenpakket.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73048057",
       "internal": false,
@@ -897,42 +933,6 @@
       "description": {
         "raw": "<p><span>Wil je meewerken aan een efficiënte werking van het departement omgeving? Ben je gepassioneerd door workflowsystemen en kennisdeelystemen ? Kan je goed organiseren en werk je graag in teamverband ?</span></p> \n<p><span>We zijn op zoek naar een Product Manager voor onze workflow- en content managementsystemen. Je werkt op het snijvlak van business, technologie en gebruikerservaring, en is cruciaal om onze teams in staat te stellen slimmer te werken en effectiever samen te werken.</span></p> \n<p><span>Je bent verantwoordelijk voor het waarborgen dat onze interne tools (met name onze wiki/contentmanagementplatforms en workflow-automatisering al dan niet met AI enabled) intuïtief, robuust en afgestemd zijn op de noden van de organisatie. Vanuit een strategische visie stuur je productspecialisten aan om je projecten en visie mee te realiseren in lijn met de business behoeften. Efficiëntie en kostenbeheersing zijn hierbij sleutelbegrippen. </span></p> \n<p><span>We zoeken geen technische specialist in workflow- en contentmanagement maar wel een analist die met alle beschikbare tools in de digitale werkplek geïntegreerde oplossingen voorstelt. Naast je productkennis zijn je professionalisme en sociale vaardigheden belangrijk.</span></p>",
         "htmlEncoded": "<p><span>Wil je meewerken aan een efficiënte werking van het departement omgeving? Ben je gepassioneerd door workflowsystemen en kennisdeelystemen ? Kan je goed organiseren en werk je graag in teamverband ?</span></p> \n<p><span>We zijn op zoek naar een Product Manager voor onze workflow- en content managementsystemen. Je werkt op het snijvlak van business, technologie en gebruikerservaring, en is cruciaal om onze teams in staat te stellen slimmer te werken en effectiever samen te werken.</span></p> \n<p><span>Je bent verantwoordelijk voor het waarborgen dat onze interne tools (met name onze wiki/contentmanagementplatforms en workflow-automatisering al dan niet met AI enabled) intuïtief, robuust en afgestemd zijn op de noden van de organisatie. Vanuit een strategische visie stuur je productspecialisten aan om je projecten en visie mee te realiseren in lijn met de business behoeften. Efficiëntie en kostenbeheersing zijn hierbij sleutelbegrippen. </span></p> \n<p><span>We zoeken geen technische specialist in workflow- en contentmanagement maar wel een analist die met alle beschikbare tools in de digitale werkplek geïntegreerde oplossingen voorstelt. Naast je productkennis zijn je professionalisme en sociale vaardigheden belangrijk.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72632793",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72632793",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product partner Dataplatform (Digitaal Vlaanderen) via Vlaanderen connect"
-      },
-      "displayTitle": "Product partner Dataplatform (Digitaal Vlaanderen) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een product partner \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Als product partner binnen de afdeling dataplatform sta je klanten/gebruikers/partners bij met betrekking tot de toepassingsmogelijkheden van de bouwsteencluster naar oplossingen. Als product partner ga je samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></p> \n<p><span>Concreet zal je als product partner werken met bouwstenen die ressorteren onder het team basiskaart en het team basisregisters.</span></p> \n<p><span>Je komt in een team terecht bestaande uit in totaal zeven product partners, maar zal ook erg nauw samenwerken met diverse profielen van het bouwsteenteam.</span></p> \n<p><span>Je takenpakket zal bestaan uit:</span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams. Je geeft enerzijds input van de klant door aan het bouwsteenteam en anderzijds geef je wijzigingen van de bouwsteen door aan de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent het aanspreekpunt voor account en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met onder andere de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klant en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, pmo, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op jouw bouwsteencluster in te schatten samen met de Product Owners en programmamanagers.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand met betrekking tot je bouwsteencluster en dit op basis van je domein- en bronexpertise. Je werkt hiervoor nauw samen met de Service Delivery Managers, Product Owners en aansluitingsbeheer. Je ondersteunt hen waar nodig in functie van de noden.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team bij de platformafdelingen en bewaakt de transversale werking en visie met de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je stemt pre-sales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je geeft presentaties over je bouwstenen tijdens opleidingen, webinars en events. Je hebt tevens een vlotte pen voor het schrijven van nieuwsberichten.</span></p>",
-        "htmlEncoded": "<p><span>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een product partner \n<strong> </strong>ter versterking van onze Dataplatform afdeling. </span></p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als product partner op een klantgerichte manier wil meewerken aan de digitalisering van de overheden in Vlaanderen? Dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Als product partner binnen de afdeling dataplatform sta je klanten/gebruikers/partners bij met betrekking tot de toepassingsmogelijkheden van de bouwsteencluster naar oplossingen. Als product partner ga je samen met account en demand management op zoek naar samenwerkingsmogelijkheden bij bestaande en potentiële afnemers van de oplossing.</span></p> \n<p><span>Concreet zal je als product partner werken met bouwstenen die ressorteren onder het team basiskaart en het team basisregisters.</span></p> \n<p><span>Je komt in een team terecht bestaande uit in totaal zeven product partners, maar zal ook erg nauw samenwerken met diverse profielen van het bouwsteenteam.</span></p> \n<p><span>Je takenpakket zal bestaan uit:</span></p> \n<p><span><span>· </span></span><span>Je vormt de brug tussen de klant en de productteams. Je geeft enerzijds input van de klant door aan het bouwsteenteam en anderzijds geef je wijzigingen van de bouwsteen door aan de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent het aanspreekpunt voor account en demand management.</span></p> \n<p><span><span>· </span></span><span>Je draagt bij aan het ontwikkelen van bredere oplossingen, samen met onder andere de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je begrijpt en analyseert de behoeften van de klant en zoekt een oplossing in het aanbod van Digitaal Vlaanderen.</span></p> \n<p><span><span>· </span></span><span>Je werkt samen met het multidisciplinair team (demand, pmo, architectuur) een business case/voorstel uit voor de klant.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op jouw bouwsteencluster in te schatten samen met de Product Owners en programmamanagers.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk om de impact van initiatieven op de producten in te schatten samen met de productteams.</span></p> \n<p><span><span>· </span></span><span>Je informeert en adviseert bestaande en nieuwe gebruikers en klanten op functioneel niveau.</span></p> \n<p><span><span>· </span></span><span>Je bent verantwoordelijk voor het tijdig beantwoorden van informatieve vragen van klanten in het kader van demand met betrekking tot je bouwsteencluster en dit op basis van je domein- en bronexpertise. Je werkt hiervoor nauw samen met de Service Delivery Managers, Product Owners en aansluitingsbeheer. Je ondersteunt hen waar nodig in functie van de noden.</span></p> \n<p><span><span>· </span></span><span>Je bent deel van het centraal team bij de platformafdelingen en bewaakt de transversale werking en visie met de andere product partners.</span></p> \n<p><span><span>· </span></span><span>Je stemt pre-sales activiteiten, kennisdeling/vorming af met account- en demand management.</span></p> \n<p><span><span>· </span></span><span>Je geeft presentaties over je bouwstenen tijdens opleidingen, webinars en events. Je hebt tevens een vlotte pen voor het schrijven van nieuwsberichten.</span></p>"
       },
       "locations": [
         {
@@ -1838,6 +1838,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20340",
+      "internal": false,
+      "validThroughDate": "1772496000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20340",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "adjunct directeur"
+      },
+      "displayTitle": "adjunct directeur",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij iemand die graag\nverantwoordelijkheid opneemt en energie krijgt van samenwerken aan een\ngemeenschappelijke ambitie? Dan hebben wij goed nieuws: wij zoeken een gedreven\nprofessional die mee richting wil geven aan de toekomst van het Vlaams Detentiecentrum.<br>Als\nadjunct van de directeur ondersteun je de directeur van het Vlaams\ndetentiecentrum bij het formuleren en actualiseren van de missie en visie van de\norganisatie. Je bent lid van het managementteam van het Vlaams detentiecentrum\ndat instaat voor de uitvoering van de ‘uithandengeving’ van jonge delictplegers\nvanaf 16 jaar in Vlaanderen.<br>Je\ndraagt inhoudelijk bij tot de strategische planning, de omzetting van de\nstrategische doelstellingen in operationele doelstellingen. Je implementeert de\noperationele doelstellingen in de organisatie, volgt deze op, stuurt de\nprocessen bij waar nodig en meet het effect ervan.<br>Je\nstuurt verschillende teams aan, waaronder: het team van veiligheidsmedewerkers,\nhet team onderwijs en de administratieve diensten (griffie, boekhouding,\nsecretariaat…).<br>Je\nrapporteert aan de directeur van het Vlaams Detentiecentrum.<br>Je\nlevert, vanuit je dagelijkse ervaring op de werkvloer, input aan het management\nvan de afdeling met als doel bij te dragen tot een effectiever en efficiënter\nbeleid afgestemd op de noden van de klanten.",
+        "htmlEncoded": "Ben jij iemand die graag\nverantwoordelijkheid opneemt en energie krijgt van samenwerken aan een\ngemeenschappelijke ambitie? Dan hebben wij goed nieuws: wij zoeken een gedreven\nprofessional die mee richting wil geven aan de toekomst van het Vlaams Detentiecentrum.<br>Als\nadjunct van de directeur ondersteun je de directeur van het Vlaams\ndetentiecentrum bij het formuleren en actualiseren van de missie en visie van de\norganisatie. Je bent lid van het managementteam van het Vlaams detentiecentrum\ndat instaat voor de uitvoering van de ‘uithandengeving’ van jonge delictplegers\nvanaf 16 jaar in Vlaanderen.<br>Je\ndraagt inhoudelijk bij tot de strategische planning, de omzetting van de\nstrategische doelstellingen in operationele doelstellingen. Je implementeert de\noperationele doelstellingen in de organisatie, volgt deze op, stuurt de\nprocessen bij waar nodig en meet het effect ervan.<br>Je\nstuurt verschillende teams aan, waaronder: het team van veiligheidsmedewerkers,\nhet team onderwijs en de administratieve diensten (griffie, boekhouding,\nsecretariaat…).<br>Je\nrapporteert aan de directeur van het Vlaams Detentiecentrum.<br>Je\nlevert, vanuit je dagelijkse ervaring op de werkvloer, input aan het management\nvan de afdeling met als doel bij te dragen tot een effectiever en efficiënter\nbeleid afgestemd op de noden van de klanten."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Beveren-Kruibeke-Zwijndrecht"
           }
         }
       ]
@@ -3901,6 +3937,42 @@
       "description": {
         "raw": "<p>Ben jij een assertieve en gedreven collega die graag bijdraagt aan een kwalitatieve dienstverlening,&nbsp;medewerkers weet te motiveren en zorgt dat een vlotte afhandeling van hun tussenkomsten mogelijk&nbsp;wordt? Dan zoeken wij jou als leidinggevende voor het team monitoring!</p><p>Als teamverantwoordelijke Monitoring binnen het Vlaams Centrum Elektronisch Toezicht (VCET) geef je,&nbsp;samen met je collega-teamverantwoordelijke, leiding aan medewerkers die verantwoordelijk zijn voor het&nbsp;beheren van alarmen van enkelbanddragers. Je stuurt een groot team aan dat werkt in een 24/7 setting&nbsp;en weet wat er nodig is om een goede samenwerking te bevorderen. Jij organiseert en superviseert hun&nbsp;dagelijkse werkzaamheden, zodat de werking van het team efficiënt en continu verloopt en zodat de&nbsp;operationele doelstellingen worden gerealiseerd. Je stelt, in samenspraak met de operationeel directeur,&nbsp;je eigen werkschema als leidinggevende flexibel op. Waar nodig, kan je af en toe een shift of weekenddag&nbsp;meedraaien. Zo zorgen we samen dat alles vlot blijft lopen.</p><p>Je bewaakt de kwaliteit van de uitvoering van taken en zorgt voor een correcte afhandeling van dossiers&nbsp;en interventies door jouw medewerkers. Daarnaast ben je verantwoordelijk voor de evaluatie van&nbsp;medewerkers en organiseer je de werktijdregeling van je team, zodat de continuïteit van de&nbsp;dienstverlening gewaarborgd blijft. Je biedt ondersteuning bij complexe dossiers of interventies en&nbsp;fungeert als back-up voor de teamverantwoordelijken van de andere teams wanneer deze niet op de&nbsp;dienst zijn. Je legt verantwoording af aan je operationeel directeur waarmee je samen de bakens uitzet&nbsp;van de operationele werking van het VCET. Die ondersteuning vereist dat je suggesties ter verbetering&nbsp;van de werking uitwerkt en voordraagt.</p><p>Kortom, als teamverantwoordelijke Monitoring ben je een sleutelfiguur binnen de werking van het VCET&nbsp;en van het Agentschap Justitie &amp; Handhaving (AJH).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
         "htmlEncoded": "<p>Ben jij een assertieve en gedreven collega die graag bijdraagt aan een kwalitatieve dienstverlening,&nbsp;medewerkers weet te motiveren en zorgt dat een vlotte afhandeling van hun tussenkomsten mogelijk&nbsp;wordt? Dan zoeken wij jou als leidinggevende voor het team monitoring!</p><p>Als teamverantwoordelijke Monitoring binnen het Vlaams Centrum Elektronisch Toezicht (VCET) geef je,&nbsp;samen met je collega-teamverantwoordelijke, leiding aan medewerkers die verantwoordelijk zijn voor het&nbsp;beheren van alarmen van enkelbanddragers. Je stuurt een groot team aan dat werkt in een 24/7 setting&nbsp;en weet wat er nodig is om een goede samenwerking te bevorderen. Jij organiseert en superviseert hun&nbsp;dagelijkse werkzaamheden, zodat de werking van het team efficiënt en continu verloopt en zodat de&nbsp;operationele doelstellingen worden gerealiseerd. Je stelt, in samenspraak met de operationeel directeur,&nbsp;je eigen werkschema als leidinggevende flexibel op. Waar nodig, kan je af en toe een shift of weekenddag&nbsp;meedraaien. Zo zorgen we samen dat alles vlot blijft lopen.</p><p>Je bewaakt de kwaliteit van de uitvoering van taken en zorgt voor een correcte afhandeling van dossiers&nbsp;en interventies door jouw medewerkers. Daarnaast ben je verantwoordelijk voor de evaluatie van&nbsp;medewerkers en organiseer je de werktijdregeling van je team, zodat de continuïteit van de&nbsp;dienstverlening gewaarborgd blijft. Je biedt ondersteuning bij complexe dossiers of interventies en&nbsp;fungeert als back-up voor de teamverantwoordelijken van de andere teams wanneer deze niet op de&nbsp;dienst zijn. Je legt verantwoording af aan je operationeel directeur waarmee je samen de bakens uitzet&nbsp;van de operationele werking van het VCET. Die ondersteuning vereist dat je suggesties ter verbetering&nbsp;van de werking uitwerkt en voordraagt.</p><p>Kortom, als teamverantwoordelijke Monitoring ben je een sleutelfiguur binnen de werking van het VCET&nbsp;en van het Agentschap Justitie &amp; Handhaving (AJH).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19988",
+      "internal": false,
+      "validThroughDate": "1772582400",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19988",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbeheerder  stikstof"
+      },
+      "displayTitle": "Dossierbeheerder  stikstof",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Je werkt graag dossiermatig en hebt een sterke interesse in de landbouwsector. Met jouw nauwkeurige aanpak en aanleg in het uitzoeken en analyseren van informatie, ben jij dé ideale kandidaat voor deze functie.</span></p><p><span>A</span><span>ls dossierbeheerder stikstof begeleidingstrajecten behandel je subsidiedossiers en overheidsopdrachten in kader van een van de jaarlijkse projecten die gelanceerd worden in het kader van PAS (=programmatische aanpak stikstof) innovatie, met focus op landbouwers in transitie gelinkt aan de stikstofproblematiek.</span></p><p><span>Je analyseert het dossier en vraagt bijkomende informatie daar waar nodig. Je doet een aantal vaststellingen en onderzoekt of de aanvraag voldoet aan de voorwaarden voor het verkrijgen van de steun, zoals in de regelgeving is opgenomen. Op basis van al deze informatie maak je een (voorstel tot) beslissing op betreffende de aangevraagde steun.</span></p><p><span>Hierbij volg je ook het administratieve en financiële luik op: je waakt over grote budgetten tijdens de uitvoering en bij de financiële controles achteraf, controleert dat uitgaven correct gebeuren en dat er geen dubbele financiering voor activiteiten is.</span></p><p><span>Je contacteert regelmatig klanten en collega’s die betrokkenen zijn bij de dossiers. Je bent waakzaam voor een uniforme behandeling van de dossiers en vanuit je praktijkervaring geef je input voor optimalisaties in de dossierbehandeling.</span></p><p><span>Flexibiliteit is je tweede natuur: je springt waar nodig bij, ook in andere diensten, om samen resultaten te behalen.</span></p><p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “<strong>Vooruit voor (h)eerlijk voedsel in Vlaanderen</strong>”.</span></p><p><span>&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Je werkt graag dossiermatig en hebt een sterke interesse in de landbouwsector. Met jouw nauwkeurige aanpak en aanleg in het uitzoeken en analyseren van informatie, ben jij dé ideale kandidaat voor deze functie.</span></p><p><span>A</span><span>ls dossierbeheerder stikstof begeleidingstrajecten behandel je subsidiedossiers en overheidsopdrachten in kader van een van de jaarlijkse projecten die gelanceerd worden in het kader van PAS (=programmatische aanpak stikstof) innovatie, met focus op landbouwers in transitie gelinkt aan de stikstofproblematiek.</span></p><p><span>Je analyseert het dossier en vraagt bijkomende informatie daar waar nodig. Je doet een aantal vaststellingen en onderzoekt of de aanvraag voldoet aan de voorwaarden voor het verkrijgen van de steun, zoals in de regelgeving is opgenomen. Op basis van al deze informatie maak je een (voorstel tot) beslissing op betreffende de aangevraagde steun.</span></p><p><span>Hierbij volg je ook het administratieve en financiële luik op: je waakt over grote budgetten tijdens de uitvoering en bij de financiële controles achteraf, controleert dat uitgaven correct gebeuren en dat er geen dubbele financiering voor activiteiten is.</span></p><p><span>Je contacteert regelmatig klanten en collega’s die betrokkenen zijn bij de dossiers. Je bent waakzaam voor een uniforme behandeling van de dossiers en vanuit je praktijkervaring geef je input voor optimalisaties in de dossierbehandeling.</span></p><p><span>Flexibiliteit is je tweede natuur: je springt waar nodig bij, ook in andere diensten, om samen resultaten te behalen.</span></p><p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “<strong>Vooruit voor (h)eerlijk voedsel in Vlaanderen</strong>”.</span></p><p><span>&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
       },
       "locations": [
         {
