@@ -1,10 +1,10 @@
 {
-  "totalItems": 136,
+  "totalItems": 142,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 135,
+  "lastItemOfPage": 141,
   "items": [
     {
       "link": "/Job/vdab-73083170",
@@ -2200,6 +2200,42 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20243",
+      "internal": false,
+      "validThroughDate": "1773100800",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Techniek",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20243",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepstechnicus STCW III/1"
+      },
+      "displayTitle": "Scheepstechnicus STCW III/1",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als&nbsp;<strong>scheepstechnicus</strong>&nbsp;werk je aan boord van onze tenderswaths of op termijn op andere grote varende eenheden van DAB Vloot. Je komt in aanraking met diverse types vaartuigen en systemen, waardoor je je technische kennis voortdurend uitbreidt. Bij Vloot vind je bovendien een gezonde balans tussen werk en privé.&nbsp;<strong>Zin om deel uit te maken van ons team?</strong>&nbsp;Dan is dit jouw kans!</p><p>Vloot zet&nbsp;<strong>bemande en bedrijfsklare vaartuigen</strong>&nbsp;in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een&nbsp;<strong>veilig en vlot scheepvaartverkeer</strong>. Elke dag geven zo'n 500 collega’s het beste van zichzelf op de Noordzee, in het Scheldegebied en op het kanaal Gent-Terneuzen.</p><p>In jouw rol ben je verantwoordelijk voor de&nbsp;<strong>planning, organisatie, uitvoering en opvolging</strong>&nbsp;van het onderhoud en de herstellingen aan boord. Je werkt aan mechanische, elektrische, hydraulische en pneumatische installaties. Zo garandeer je de&nbsp;<strong>veiligheid en de goede werking</strong>&nbsp;van de vaartuigen.</p><p>Je rapporteert aan de gezagvoerder van het vaartuig of op grotere varende eenheden aan de hoofdscheepstechnicus en de technical superintendent aan wal.</p><p>De zeevaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit van de job, maar daartegenover staan aantrekkelijke financiële vergoedingen en/of compensatierust. Je krijgt dus niet alleen een boeiende en afwisselende job, maar ook een correcte waardering voor je inzet.</p><p>Wil jij deel uitmaken van een team dat elke dag het verschil maakt op het water? Stap mee aan boord bij Vloot en ontdek een carrière vol techniek, teamwork en trots.</p><p>Wil je graag nog meer details over de job van scheepstechnicus? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/jobinhoud+in+detail_18204.pdf\">deze&nbsp;link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Als&nbsp;<strong>scheepstechnicus</strong>&nbsp;werk je aan boord van onze tenderswaths of op termijn op andere grote varende eenheden van DAB Vloot. Je komt in aanraking met diverse types vaartuigen en systemen, waardoor je je technische kennis voortdurend uitbreidt. Bij Vloot vind je bovendien een gezonde balans tussen werk en privé.&nbsp;<strong>Zin om deel uit te maken van ons team?</strong>&nbsp;Dan is dit jouw kans!</p><p>Vloot zet&nbsp;<strong>bemande en bedrijfsklare vaartuigen</strong>&nbsp;in voor opdrachten binnen de overheidsniche. Wij staan mee in voor een&nbsp;<strong>veilig en vlot scheepvaartverkeer</strong>. Elke dag geven zo'n 500 collega’s het beste van zichzelf op de Noordzee, in het Scheldegebied en op het kanaal Gent-Terneuzen.</p><p>In jouw rol ben je verantwoordelijk voor de&nbsp;<strong>planning, organisatie, uitvoering en opvolging</strong>&nbsp;van het onderhoud en de herstellingen aan boord. Je werkt aan mechanische, elektrische, hydraulische en pneumatische installaties. Zo garandeer je de&nbsp;<strong>veiligheid en de goede werking</strong>&nbsp;van de vaartuigen.</p><p>Je rapporteert aan de gezagvoerder van het vaartuig of op grotere varende eenheden aan de hoofdscheepstechnicus en de technical superintendent aan wal.</p><p>De zeevaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit van de job, maar daartegenover staan aantrekkelijke financiële vergoedingen en/of compensatierust. Je krijgt dus niet alleen een boeiende en afwisselende job, maar ook een correcte waardering voor je inzet.</p><p>Wil jij deel uitmaken van een team dat elke dag het verschil maakt op het water? Stap mee aan boord bij Vloot en ontdek een carrière vol techniek, teamwork en trots.</p><p>Wil je graag nog meer details over de job van scheepstechnicus? Lees dan verder via <a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2025/jobinhoud+in+detail_18204.pdf\">deze&nbsp;link.</a></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20236",
       "internal": false,
       "validThroughDate": "1773619200",
@@ -2781,6 +2817,42 @@
         {
           "address": {
             "city": "Sint-Joost-Ten-Node"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20127",
+      "internal": false,
+      "validThroughDate": "1773792000",
+      "hiringOrganization": "Vlaams Agentschap voor Personen met een Handicap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20127",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Dienstverlening Budgethouders"
+      },
+      "displayTitle": "Afdelingshoofd Dienstverlening Budgethouders",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) staat de persoon met een handicap écht centraal. We versterken autonomie en levenskwaliteit door het aanbieden van persoonsvolgende budgetten, tegemoetkomingen voor hulpmiddelen en rechtstreeks toegankelijke hulp. </span></p> <p><span>Als afdelingshoofd van de afdeling Dienstverlening Budgethouders speel je een sleutelrol in het versterken van de autonomie en levenskwaliteit van personen met een handicap. Je staat aan het roer van een cruciale afdeling die persoonsvolgende budgetten en persoonlijke-assistentiebudgetten ter beschikking stelt en toeziet op een correcte en transparante besteding ervan. Met jouw strategische blik en mensgerichte aanpak zorg je ervoor dat budgethouders kunnen rekenen op een betrouwbare, toegankelijke en kwaliteitsvolle dienstverlening. </span></p> <p><span>Je geeft leiding aan een gemotiveerd team van coördinatoren, ondersteunende profielen en klantenbeheerders en vertaalt beleid naar een efficiënte en toekomstgerichte werking. In nauwe samenwerking met de administrateur-generaal en andere afdelingen bouw je mee aan een sterk VAPH, waar verantwoordelijkheid, samenwerking en impact centraal staan. In deze functie combineer je leiderschap met maatschappelijke relevantie en maak je elke dag een tastbaar verschil voor duizenden mensen in Vlaanderen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij in de loop van de selectieprocedure.</span></p>",
+        "htmlEncoded": "<p><span>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) staat de persoon met een handicap écht centraal. We versterken autonomie en levenskwaliteit door het aanbieden van persoonsvolgende budgetten, tegemoetkomingen voor hulpmiddelen en rechtstreeks toegankelijke hulp. </span></p> <p><span>Als afdelingshoofd van de afdeling Dienstverlening Budgethouders speel je een sleutelrol in het versterken van de autonomie en levenskwaliteit van personen met een handicap. Je staat aan het roer van een cruciale afdeling die persoonsvolgende budgetten en persoonlijke-assistentiebudgetten ter beschikking stelt en toeziet op een correcte en transparante besteding ervan. Met jouw strategische blik en mensgerichte aanpak zorg je ervoor dat budgethouders kunnen rekenen op een betrouwbare, toegankelijke en kwaliteitsvolle dienstverlening. </span></p> <p><span>Je geeft leiding aan een gemotiveerd team van coördinatoren, ondersteunende profielen en klantenbeheerders en vertaalt beleid naar een efficiënte en toekomstgerichte werking. In nauwe samenwerking met de administrateur-generaal en andere afdelingen bouw je mee aan een sterk VAPH, waar verantwoordelijkheid, samenwerking en impact centraal staan. In deze functie combineer je leiderschap met maatschappelijke relevantie en maak je elke dag een tastbaar verschil voor duizenden mensen in Vlaanderen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij in de loop van de selectieprocedure.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -3475,6 +3547,39 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20053",
+      "internal": false,
+      "validThroughDate": "1772755200",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Land- en tuinbouw",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20053",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsadviseur Ruimtelijke uitdagingen"
+      },
+      "displayTitle": "Beleidsadviseur Ruimtelijke uitdagingen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij hebt interesse in </span><span>het landbouw- of visserijbeleid en je draagt graag je steentje bij inzake de ontwikkeling ervan? Dan ben jij de geschikte kandidaat als beleidsadviseur ruimtelijke uitdagingen!</span></p> <p><span>Als </span><span>beleidsadviseur ruimtelijke uitdagingen </span><span>denk je mee na over gebiedsgerichte oplossingen voor landbouw. De programmatische aanpak stikstof brengt verschillende gebiedsgerichte ruimtelijke uitdagingen met zich mee voor de landbouwsector. Veebedrijven kunnen intekenen in het flankerend beleid en kunnen kiezen voor stopzetting of reconversie. Dit zal een oplossing voor het voormalige veebedrijf betekenen, maar ruimtelijk biedt dit niet altijd oplossingen. Veebedrijven hebben bijvoorbeeld vaak graslanden nabij de natuurkernen, wat vanuit ecologisch oogpunt wenselijk is. Wanneer deze bedrijven stoppen of omschakelen naar akkerbouwbedrijven staan ook deze graslanden onder druk. Daarnaast kunnen voormalige landbouwbedrijven of bedrijfsgebouwen een zonevreemde invulling krijgen na een functiewijziging, wat voor een bijkomende zonevreemde druk kan zorgen op het agrarische landschap.<span>&nbsp;</span></span></p> <p><span>Als beleidsadviseur werk je mee aan het opstellen van alternatieve verdienmodellen vanuit het principe dat landbouwgrond maximaal beschikbaar moet zijn en blijven voor de landbouwers van de toekomst en werk je mee aan gebiedsgerichte analyses zoals het uitwerken van een gebiedsgerichte visie waarbij je op zoek gaat naar mogelijkheden voor landbouw binnen de randvoorwaarden van milieu- en klimaatbeleid.<span>&nbsp;</span></span></p> <p><span>Als beleidsadviseur ben je een belangrijk fundament in onze organisatie en denk je vanuit je eigen ervaringen en expertise mee na over de toekomst van je beleidsthema(‘s). Je neemt deel aan werkgroepen en bent het klankbord voor je collega’s. Je neemt autonoom je verantwoordelijkheden op, volgt evoluties ter zake op en bouwt je kennis over je eigen beleidshema(’s) verder op.</span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>",
+        "htmlEncoded": "<p><span>Jij hebt interesse in </span><span>het landbouw- of visserijbeleid en je draagt graag je steentje bij inzake de ontwikkeling ervan? Dan ben jij de geschikte kandidaat als beleidsadviseur ruimtelijke uitdagingen!</span></p> <p><span>Als </span><span>beleidsadviseur ruimtelijke uitdagingen </span><span>denk je mee na over gebiedsgerichte oplossingen voor landbouw. De programmatische aanpak stikstof brengt verschillende gebiedsgerichte ruimtelijke uitdagingen met zich mee voor de landbouwsector. Veebedrijven kunnen intekenen in het flankerend beleid en kunnen kiezen voor stopzetting of reconversie. Dit zal een oplossing voor het voormalige veebedrijf betekenen, maar ruimtelijk biedt dit niet altijd oplossingen. Veebedrijven hebben bijvoorbeeld vaak graslanden nabij de natuurkernen, wat vanuit ecologisch oogpunt wenselijk is. Wanneer deze bedrijven stoppen of omschakelen naar akkerbouwbedrijven staan ook deze graslanden onder druk. Daarnaast kunnen voormalige landbouwbedrijven of bedrijfsgebouwen een zonevreemde invulling krijgen na een functiewijziging, wat voor een bijkomende zonevreemde druk kan zorgen op het agrarische landschap.<span>&nbsp;</span></span></p> <p><span>Als beleidsadviseur werk je mee aan het opstellen van alternatieve verdienmodellen vanuit het principe dat landbouwgrond maximaal beschikbaar moet zijn en blijven voor de landbouwers van de toekomst en werk je mee aan gebiedsgerichte analyses zoals het uitwerken van een gebiedsgerichte visie waarbij je op zoek gaat naar mogelijkheden voor landbouw binnen de randvoorwaarden van milieu- en klimaatbeleid.<span>&nbsp;</span></span></p> <p><span>Als beleidsadviseur ben je een belangrijk fundament in onze organisatie en denk je vanuit je eigen ervaringen en expertise mee na over de toekomst van je beleidsthema(‘s). Je neemt deel aan werkgroepen en bent het klankbord voor je collega’s. Je neemt autonoom je verantwoordelijkheden op, volgt evoluties ter zake op en bouwt je kennis over je eigen beleidshema(’s) verder op.</span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20045",
       "internal": false,
       "validThroughDate": "1772755200",
@@ -3909,6 +4014,78 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-19992",
+      "internal": false,
+      "validThroughDate": "1772755200",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19992",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "dossierbeheerder stikstof en gebiedsgerichte ruimtelijke uitdagingen"
+      },
+      "displayTitle": "dossierbeheerder stikstof en gebiedsgerichte ruimtelijke uitdagingen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Jij werkt graag\ndossiermatig en hebt interesse in de landbouwsector? Jij bent nauwkeurig en\nkrijgt energie van het uitzoeken van informatie? Dan ben jij onze ideale\nkandidaat voor deze functie!</p><p>Als\ndossierbeheerder stikstof en gebiedsgerichte ruimtelijke uitdagingen behandel\nje adviesvragen van land- en tuinbouwers rond omgevingsvergunningen, maar ook\nomgevingsvergunningsaanvragen van particulieren met bepaalde impact op het\nagrarisch gebied. Je behandelt dossiers in kader van de stikstofproblematiek die een link\nhebben met verschillende gebiedsgerichte ruimtelijke uitdagingen in de land- en\ntuinbouwsector. Je analyseert het dossier en vraagt bijkomende informatie daar waar\nnodig. Je doet een aantal vaststellingen en onderzoekt of de aanvraag voldoet\naan de voorwaarden conform het intern beoordelingskader en de relevante\nregelgeving. Op basis van al deze informatie maak je een advies op. Je neemt\nactief contact op met collega’s die betrokkenen zijn bij de dossiers. Je bent\nwaakzaam voor een uniforme behandeling van de dossiers en vanuit je\npraktijkervaring geef je input voor optimalisaties in de dossierbehandeling.</p><p>Je bent tevens\naanspreekpunt voor inhoudelijke vragen van onze klanten en staat hen mee\ntelefonisch te woord.</p><p>Zo draag jij je\nsteentje bij aan de missie van onze organisatie <strong>“Vooruit voor (h)eerlijk\nvoedsel in Vlaanderen”.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Jij werkt graag\ndossiermatig en hebt interesse in de landbouwsector? Jij bent nauwkeurig en\nkrijgt energie van het uitzoeken van informatie? Dan ben jij onze ideale\nkandidaat voor deze functie!</p><p>Als\ndossierbeheerder stikstof en gebiedsgerichte ruimtelijke uitdagingen behandel\nje adviesvragen van land- en tuinbouwers rond omgevingsvergunningen, maar ook\nomgevingsvergunningsaanvragen van particulieren met bepaalde impact op het\nagrarisch gebied. Je behandelt dossiers in kader van de stikstofproblematiek die een link\nhebben met verschillende gebiedsgerichte ruimtelijke uitdagingen in de land- en\ntuinbouwsector. Je analyseert het dossier en vraagt bijkomende informatie daar waar\nnodig. Je doet een aantal vaststellingen en onderzoekt of de aanvraag voldoet\naan de voorwaarden conform het intern beoordelingskader en de relevante\nregelgeving. Op basis van al deze informatie maak je een advies op. Je neemt\nactief contact op met collega’s die betrokkenen zijn bij de dossiers. Je bent\nwaakzaam voor een uniforme behandeling van de dossiers en vanuit je\npraktijkervaring geef je input voor optimalisaties in de dossierbehandeling.</p><p>Je bent tevens\naanspreekpunt voor inhoudelijke vragen van onze klanten en staat hen mee\ntelefonisch te woord.</p><p>Zo draag jij je\nsteentje bij aan de missie van onze organisatie <strong>“Vooruit voor (h)eerlijk\nvoedsel in Vlaanderen”.</strong></p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19989",
+      "internal": false,
+      "validThroughDate": "1772755200",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Inspectie/audit",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19989",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Controleur landbouw"
+      },
+      "displayTitle": "Controleur landbouw",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Werk jij graag buiten, kom je graag in contact met externen en voel je je goed in een controlefunctie? Heb je een analytische geest en kan je assertief zijn wanneer dat nodig is? Dan ben jij de collega die wij zoeken!</span></p><p><span>In het kader van de Programmatische Aanpak Stikstof (PAS) dienen tal van vergroeningsinitiatieven ingekanteld te worden. Als controleur landbouw sta je via onder meer controles ter plaatse mee in om te garanderen dat de verschillende vergroeningsinitiatieven ook effectief uitgevoerd en toegepast worden.</span></p><p><span>&nbsp;</span><span>Als controleur landbouw voer je voornamelijk controles ter plaatse uit, aangevuld met administratieve controles. Je staat in voor het zelfstandig uitvoeren van de controles na toewijzing door je leidinggevende. Als voorbereiding op de controle verzamel je de nodige informatie. Tijdens de controle ga je na of voldaan wordt aan de desbetreffende wetgeving. Al je bevindingen breng je samen in een controleverslag. Tijdens het uitvoeren van de controles, zowel administratief als ter plaatse, werk je nauw samen met je directe collega’s en andere belangrijke partners.</span></p><p><span>Vanuit je ervaringen in de praktijk geef je input aan de procesverantwoordelijke om het controleproces te stroomlijnen doorheen de organisatie, rekening houdend met gedetecteerde knelpunten en behoeften.</span></p><p><span>&nbsp;</span><span>Zo draag jij je steentje bij aan de missie van onze organisatie “<strong>Vooruit voor (h)eerlijk voedsel in Vlaanderen</strong>”.</span></p><p><span>&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Werk jij graag buiten, kom je graag in contact met externen en voel je je goed in een controlefunctie? Heb je een analytische geest en kan je assertief zijn wanneer dat nodig is? Dan ben jij de collega die wij zoeken!</span></p><p><span>In het kader van de Programmatische Aanpak Stikstof (PAS) dienen tal van vergroeningsinitiatieven ingekanteld te worden. Als controleur landbouw sta je via onder meer controles ter plaatse mee in om te garanderen dat de verschillende vergroeningsinitiatieven ook effectief uitgevoerd en toegepast worden.</span></p><p><span>&nbsp;</span><span>Als controleur landbouw voer je voornamelijk controles ter plaatse uit, aangevuld met administratieve controles. Je staat in voor het zelfstandig uitvoeren van de controles na toewijzing door je leidinggevende. Als voorbereiding op de controle verzamel je de nodige informatie. Tijdens de controle ga je na of voldaan wordt aan de desbetreffende wetgeving. Al je bevindingen breng je samen in een controleverslag. Tijdens het uitvoeren van de controles, zowel administratief als ter plaatse, werk je nauw samen met je directe collega’s en andere belangrijke partners.</span></p><p><span>Vanuit je ervaringen in de praktijk geef je input aan de procesverantwoordelijke om het controleproces te stroomlijnen doorheen de organisatie, rekening houdend met gedetecteerde knelpunten en behoeften.</span></p><p><span>&nbsp;</span><span>Zo draag jij je steentje bij aan de missie van onze organisatie “<strong>Vooruit voor (h)eerlijk voedsel in Vlaanderen</strong>”.</span></p><p><span>&nbsp;</span><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-19988",
       "internal": false,
       "validThroughDate": "1772582400",
@@ -4048,6 +4225,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19970",
+      "internal": false,
+      "validThroughDate": "1773360000",
+      "hiringOrganization": "Eigen Vermogen Xperta",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Techniek",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19970",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Technisch uitvoerder terreinproeven"
+      },
+      "displayTitle": "Technisch uitvoerder terreinproeven",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als <strong><span>technisch uitvoerder terreinproeven</span></strong> ben je bijna dagelijks aan het werk op het <strong><span>terrein</span></strong> op werven verspreid over Vlaanderen. Je voert geotechnische proeven uit, met de focus op <strong><span>boringen</span></strong>, die je steeds samen met een collega uitvoert. In een latere fase breid je je takenpakket uit met <strong><span>sonderingen</span></strong> en andere terreinproeven.<br> <br> Je bereidt je werkzaamheden zorgvuldig voor en zorgt voor een efficiënte en veilige uitvoering op de werf. Nauwkeurigheid is hierbij essentieel: je registreert en rapporteert de uitgevoerde proeven correct, zodat de resultaten betrouwbaar kunnen worden geanalyseerd en getoetst aan de geldende kwaliteitsnormen. Daarnaast sta je in voor het verzamelen, controleren en onderhouden van het nodige materiaal.<br> <br> We zoeken iemand met een <strong><span>goede technische basis</span></strong>, die praktisch is ingesteld en oog heeft voor detail. Dankzij <strong><span>interne opleidingen</span></strong> krijg je de kans om de kneepjes van het vak grondig aan te leren en jezelf verder te ontwikkelen binnen het geotechnische domein.<br> <br> De eerste vacature wensen we zo snel mogelijk in te vullen. De tweede vacature zal op een iets langere termijn ingevuld worden (enkele maanden na het afronden van de selectie, hiervoor is echter nog geen concrete datum). <br> <br> Klaar om letterlijk mee de basis te leggen van sterke projecten en elke dag buiten het verschil te maken? Dan kijken we ernaar uit om jou te leren kennen!</span></p>",
+        "htmlEncoded": "<p><span>Als <strong><span>technisch uitvoerder terreinproeven</span></strong> ben je bijna dagelijks aan het werk op het <strong><span>terrein</span></strong> op werven verspreid over Vlaanderen. Je voert geotechnische proeven uit, met de focus op <strong><span>boringen</span></strong>, die je steeds samen met een collega uitvoert. In een latere fase breid je je takenpakket uit met <strong><span>sonderingen</span></strong> en andere terreinproeven.<br> <br> Je bereidt je werkzaamheden zorgvuldig voor en zorgt voor een efficiënte en veilige uitvoering op de werf. Nauwkeurigheid is hierbij essentieel: je registreert en rapporteert de uitgevoerde proeven correct, zodat de resultaten betrouwbaar kunnen worden geanalyseerd en getoetst aan de geldende kwaliteitsnormen. Daarnaast sta je in voor het verzamelen, controleren en onderhouden van het nodige materiaal.<br> <br> We zoeken iemand met een <strong><span>goede technische basis</span></strong>, die praktisch is ingesteld en oog heeft voor detail. Dankzij <strong><span>interne opleidingen</span></strong> krijg je de kans om de kneepjes van het vak grondig aan te leren en jezelf verder te ontwikkelen binnen het geotechnische domein.<br> <br> De eerste vacature wensen we zo snel mogelijk in te vullen. De tweede vacature zal op een iets langere termijn ingevuld worden (enkele maanden na het afronden van de selectie, hiervoor is echter nog geen concrete datum). <br> <br> Klaar om letterlijk mee de basis te leggen van sterke projecten en elke dag buiten het verschil te maken? Dan kijken we ernaar uit om jou te leren kennen!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
           }
         }
       ]
