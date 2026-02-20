@@ -1,11 +1,144 @@
 {
-  "totalItems": 147,
+  "totalItems": 146,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 146,
+  "lastItemOfPage": 145,
   "items": [
+    {
+      "link": "/Job/cornerstone-20182",
+      "internal": true,
+      "validThroughDate": "1773100800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20182",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepsmeter – Leidinggevend"
+      },
+      "displayTitle": "Scheepsmeter – Leidinggevend",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>De\nVlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig\nnetwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van\nVlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart,\nzorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen\nvoor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in\nHasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol\nwerken ongeveer 1.350 personeelsleden van onze organisatie aan een slim,\nveelzijdig en welvarend waterwegennet. <br><br>In\ndeze functie als leidinggevend scheepsmeter word je ingeschakeld binnen de cel\nbinnenvaartbeleid en certificering, die instaat voor de certificering van de\nbinnenvaartuigen en bemanning. Je stuurt een klein team aan met oog voor\nwelzijn en organiseert geregeld overleg om de samenwerking optimaal te laten\nverlopen. Je bent het aanspreekpunt voor de leidinggevenden en externe partners\nen zorgt voor een efficiënte planning. Je zorgt voor afstemming met buitenlandse\nscheepsmetingsdiensten en neemt als leidinggevende een actieve evaluatiefunctie\nop. <br><br>Samen\nmet je team vervul je zelf de functie van scheepsmeter en verwerk je aanvragen.\nJe voert scheepsmetingen uit en je levert meetbrieven af. Dankzij jouw\ngespecialiseerde kennis behandel je samen met de collega’s de complexere\ndossiers, ben je een klankbord voor collega’s en werk je mee aan de\noptimalisatie van processen en werkinstructies. Met jouw technische expertise,\nruimtelijk inzicht, rekenvaardigheid en vlotte beheersing van Word en Excel\nwerk je nauwkeurig, communicatief en resultaatgericht.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
+        "htmlEncoded": "<p>De\nVlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig\nnetwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van\nVlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart,\nzorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen\nvoor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in\nHasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol\nwerken ongeveer 1.350 personeelsleden van onze organisatie aan een slim,\nveelzijdig en welvarend waterwegennet. <br><br>In\ndeze functie als leidinggevend scheepsmeter word je ingeschakeld binnen de cel\nbinnenvaartbeleid en certificering, die instaat voor de certificering van de\nbinnenvaartuigen en bemanning. Je stuurt een klein team aan met oog voor\nwelzijn en organiseert geregeld overleg om de samenwerking optimaal te laten\nverlopen. Je bent het aanspreekpunt voor de leidinggevenden en externe partners\nen zorgt voor een efficiënte planning. Je zorgt voor afstemming met buitenlandse\nscheepsmetingsdiensten en neemt als leidinggevende een actieve evaluatiefunctie\nop. <br><br>Samen\nmet je team vervul je zelf de functie van scheepsmeter en verwerk je aanvragen.\nJe voert scheepsmetingen uit en je levert meetbrieven af. Dankzij jouw\ngespecialiseerde kennis behandel je samen met de collega’s de complexere\ndossiers, ben je een klankbord voor collega’s en werk je mee aan de\noptimalisatie van processen en werkinstructies. Met jouw technische expertise,\nruimtelijk inzicht, rekenvaardigheid en vlotte beheersing van Word en Excel\nwerk je nauwkeurig, communicatief en resultaatgericht.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        },
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20139",
+      "internal": false,
+      "validThroughDate": "1773014400",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20139",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar Vlaams Meldpunt Grensoverschrijdend Gedrag"
+      },
+      "displayTitle": "Dossierbehandelaar Vlaams Meldpunt Grensoverschrijdend Gedrag",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Slachtoffers van grensoverschrijdend gedrag verwachten menselijkheid, organisaties rekenen op duidelijkheid. Jij slaat die brug. Als dossierbehandelaar volg je meldingen op, luister je op het juiste moment en bied je erkenning. Je ondersteunt melders in het bekomen van een passend gevolg naar aanleiding van wat ze hebben meegemaakt. Indien aangewezen verwijs je door naar gespecialiseerde hulp. Ook spreek je organisaties, sectoren of betrokken partners aan op hun verantwoordelijkheid in het behandelen van meldingen van grensoverschrijdend gedrag en indien nodig bied je hen hierin ondersteuning. Af en toe voer je herstel- of bemiddelingsgesprekken, maar het grootste deel van je werk zit in ondersteuning, opvolging, overleg en administratie. Zo zorg jij dat meldingen niet blijven hangen en dat organisaties leren en verbeteren.<br><br>Je maakt deel uit van het Vlaams Meldpunt Grensoverschrijdend Gedrag dat georganiseerd is op Vlaams niveau. Daar ben jij het vaste aanspreekpunt voor melders en betrokken organisaties. Je helpt slachtoffers de weg te vinden naar passende ondersteuning en je volgt hun dossier nauwgezet op. Je verzamelt informatie, maakt een plan van aanpak en houdt alle partijen op de hoogte. Je signaleert structurele problemen en werkt samen met de coördinator aan adviezen die organisaties vooruithelpen. Zo ben jij niet alleen een luisterend oor, maar ook een spil in het bredere beleid rond grensoverschrijdend gedrag.<br><br>Je profiel? Je combineert een open, empathische houding met nauwkeurige verslaggeving. Je bent in staat om mensen erkenning te geven en te ondersteunen bij het zetten van stappen en doorlopen van procedures. Je spreekt organisaties aan op hun verantwoordelijkheid en ondersteunt hen in het uitwerken van handelingskaders. Je werkt gestructureerd, rapporteert helder en je voelt je comfortabel in overleg met verschillende partners. Administratieve opvolging schrikt je niet af, integendeel: je ziet daarin een hefboom om meldingen zorgvuldig en professioneel te behandelen.<br><br>Wat deze job bijzonder maakt: je werkt in een omgeving waar luisteren en handelen hand in hand gaan. Je voert soms gesprekken die zwaar wegen, maar je staat er niet alleen voor. Je werkt in een team, neemt deel aan intervisies en hebt de kans om je expertise verder te verdiepen in het thema grensoverschrijdend gedrag. Je rol is zichtbaar: dankzij jouw opvolging krijgen slachtoffers sneller de juiste hulp en worden organisaties aangespoord om beter om te gaan met meldingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Slachtoffers van grensoverschrijdend gedrag verwachten menselijkheid, organisaties rekenen op duidelijkheid. Jij slaat die brug. Als dossierbehandelaar volg je meldingen op, luister je op het juiste moment en bied je erkenning. Je ondersteunt melders in het bekomen van een passend gevolg naar aanleiding van wat ze hebben meegemaakt. Indien aangewezen verwijs je door naar gespecialiseerde hulp. Ook spreek je organisaties, sectoren of betrokken partners aan op hun verantwoordelijkheid in het behandelen van meldingen van grensoverschrijdend gedrag en indien nodig bied je hen hierin ondersteuning. Af en toe voer je herstel- of bemiddelingsgesprekken, maar het grootste deel van je werk zit in ondersteuning, opvolging, overleg en administratie. Zo zorg jij dat meldingen niet blijven hangen en dat organisaties leren en verbeteren.<br><br>Je maakt deel uit van het Vlaams Meldpunt Grensoverschrijdend Gedrag dat georganiseerd is op Vlaams niveau. Daar ben jij het vaste aanspreekpunt voor melders en betrokken organisaties. Je helpt slachtoffers de weg te vinden naar passende ondersteuning en je volgt hun dossier nauwgezet op. Je verzamelt informatie, maakt een plan van aanpak en houdt alle partijen op de hoogte. Je signaleert structurele problemen en werkt samen met de coördinator aan adviezen die organisaties vooruithelpen. Zo ben jij niet alleen een luisterend oor, maar ook een spil in het bredere beleid rond grensoverschrijdend gedrag.<br><br>Je profiel? Je combineert een open, empathische houding met nauwkeurige verslaggeving. Je bent in staat om mensen erkenning te geven en te ondersteunen bij het zetten van stappen en doorlopen van procedures. Je spreekt organisaties aan op hun verantwoordelijkheid en ondersteunt hen in het uitwerken van handelingskaders. Je werkt gestructureerd, rapporteert helder en je voelt je comfortabel in overleg met verschillende partners. Administratieve opvolging schrikt je niet af, integendeel: je ziet daarin een hefboom om meldingen zorgvuldig en professioneel te behandelen.<br><br>Wat deze job bijzonder maakt: je werkt in een omgeving waar luisteren en handelen hand in hand gaan. Je voert soms gesprekken die zwaar wegen, maar je staat er niet alleen voor. Je werkt in een team, neemt deel aan intervisies en hebt de kans om je expertise verder te verdiepen in het thema grensoverschrijdend gedrag. Je rol is zichtbaar: dankzij jouw opvolging krijgen slachtoffers sneller de juiste hulp en worden organisaties aangespoord om beter om te gaan met meldingen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19980",
+      "internal": false,
+      "validThroughDate": "1774224000",
+      "hiringOrganization": "Departement Onderwijs en Vorming",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderwijs",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19980",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Onderwijspersoneel"
+      },
+      "displayTitle": "Afdelingshoofd Onderwijspersoneel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het Departement Onderwijs en Vorming zoekt een Afdelingshoofd Onderwijspersoneel met strategisch beleidsinzicht. Hij/zij kan complexe vraagstukken over statuut, loopbaan, verloning en professionalisering vertalen naar helder beleid. Vanuit een sterk leiderschap, bouw je expertise uit binnen de afdeling, waarbij de samenhang tussen arbeidsvoorwaarden, professionalisering en lerarenopleiding bewaakt wordt.</span></p> <p><span>Sterk onderwijs begint bij sterke mensen. Wie elke dag voor de klas staat, maakt het verschil in het leven van duizenden leerlingen en in de toekomst van Vlaanderen. Daarom zijn aantrekkelijke arbeidsvoorwaarden, een kwaliteitsvolle lerarenopleiding en een doordacht professionaliseringsbeleid geen randvoorwaarden, maar fundamenten van een performant onderwijssysteem.</span></p> <p><span>Als afdelingshoofd Onderwijspersoneel werk je op het kruispunt van beleid en praktijk. Je bouwt mee aan een kader waarin leraren zich gewaardeerd voelen, zich blijvend kunnen ontwikkelen en met vakmanschap en goesting hun rol opnemen. Door te investeren in mensen, investeer je rechtstreeks in onderwijskwaliteit, gelijke kansen en maatschappelijke vooruitgang. Dit is een functie voor wie strategisch denkt, beleidsmatig durft sturen en gelooft dat sterk personeelsbeleid de sleutel is tot sterk onderwijs.</span></p> <p><span>Wil je nog meer weten over het Departement Onderwijs en Vorming en waar we voor staan? Neem dan zeker een kijkje op onze <a href=\"https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-onderwijs-en-vorming/departement-onderwijs-en-vorming\">website</a>.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Het Departement Onderwijs en Vorming zoekt een Afdelingshoofd Onderwijspersoneel met strategisch beleidsinzicht. Hij/zij kan complexe vraagstukken over statuut, loopbaan, verloning en professionalisering vertalen naar helder beleid. Vanuit een sterk leiderschap, bouw je expertise uit binnen de afdeling, waarbij de samenhang tussen arbeidsvoorwaarden, professionalisering en lerarenopleiding bewaakt wordt.</span></p> <p><span>Sterk onderwijs begint bij sterke mensen. Wie elke dag voor de klas staat, maakt het verschil in het leven van duizenden leerlingen en in de toekomst van Vlaanderen. Daarom zijn aantrekkelijke arbeidsvoorwaarden, een kwaliteitsvolle lerarenopleiding en een doordacht professionaliseringsbeleid geen randvoorwaarden, maar fundamenten van een performant onderwijssysteem.</span></p> <p><span>Als afdelingshoofd Onderwijspersoneel werk je op het kruispunt van beleid en praktijk. Je bouwt mee aan een kader waarin leraren zich gewaardeerd voelen, zich blijvend kunnen ontwikkelen en met vakmanschap en goesting hun rol opnemen. Door te investeren in mensen, investeer je rechtstreeks in onderwijskwaliteit, gelijke kansen en maatschappelijke vooruitgang. Dit is een functie voor wie strategisch denkt, beleidsmatig durft sturen en gelooft dat sterk personeelsbeleid de sleutel is tot sterk onderwijs.</span></p> <p><span>Wil je nog meer weten over het Departement Onderwijs en Vorming en waar we voor staan? Neem dan zeker een kijkje op onze <a href=\"https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-onderwijs-en-vorming/departement-onderwijs-en-vorming\">website</a>.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73101918",
       "internal": false,
@@ -2453,78 +2586,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20274",
-      "internal": false,
-      "validThroughDate": "1771459200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20274",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Buffer - Lembeek"
-      },
-      "displayTitle": "Scheepvaartbegeleider Buffer - Lembeek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen\nen/of beweegbare bruggen vanuit de/een centrale en ook lokaal op jouw sluizen\nen/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er\npasseert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele\nbinnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten\nverlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een\nbetere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in\nde file op onze overvolle wegen. <br><br>In tegenstelling tot de functie van Scheepvaartbegeleider,\nwerk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen\nin combinatie met een heel flexibel dienstrooster, hetzij op één standplaats\nmaar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van\ncollega's.<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op\nbasis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan\nwaterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden\ntegen droogte en wateroverlast.<br><br>Ook administratieve taken behoren tot jouw takenpakket.\nJe houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het\nscheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke\nschepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te\nnoteren, kunnen wij op jou rekenen.<br><br>Werk je graag in een team? Dan is dit de functie die je\nzoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen\nen/of beweegbare bruggen vanuit de/een centrale en ook lokaal op jouw sluizen\nen/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er\npasseert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele\nbinnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten\nverlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een\nbetere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in\nde file op onze overvolle wegen. <br><br>In tegenstelling tot de functie van Scheepvaartbegeleider,\nwerk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen\nin combinatie met een heel flexibel dienstrooster, hetzij op één standplaats\nmaar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van\ncollega's.<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op\nbasis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan\nwaterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden\ntegen droogte en wateroverlast.<br><br>Ook administratieve taken behoren tot jouw takenpakket.\nJe houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het\nscheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke\nschepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te\nnoteren, kunnen wij op jou rekenen.<br><br>Werk je graag in een team? Dan is dit de functie die je\nzoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Halle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20272",
-      "internal": false,
-      "validThroughDate": "1771459200",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20272",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Veurne"
-      },
-      "displayTitle": "Scheepvaartbegeleider Veurne",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als&nbsp;Scheepvaartbegeleider&nbsp;bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die&nbsp;jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en&nbsp;dichtbij&nbsp;het water? Dan is dit de functie die je zoekt!&nbsp;</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Als&nbsp;Scheepvaartbegeleider&nbsp;bedien je jouw sluizen en/of beweegbare bruggen. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die&nbsp;jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Als er voor jouw brug of sluis (klein) groenonderhoud nodig is, dan sta jij hier sporadisch voor in.&nbsp;<br><br>Werk je graag zelfstandig en&nbsp;dichtbij&nbsp;het water? Dan is dit de functie die je zoekt!&nbsp;</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Veurne"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19946",
       "internal": true,
       "validThroughDate": "1771545600",
@@ -2911,78 +2972,6 @@
       "description": {
         "raw": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Het beleidsdomein Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de verdere uitbouw en doorontwikkeling van het centrale dataplatform Minerva.</p> \n<p>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie.</p> \n<p>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform uit te breiden en duurzaam te verankeren. </p> \n<p>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat! </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Departement Onderwijs en Vorming. Je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs.</p> \n<p>In je rol als data engineer zal je het datagedreven werken binnen het beleidsdomein Onderwijs en Vorming ondersteunen.</p> \n<p>Het beleidsdomein Onderwijs en Vorming bestaat uit vijf entiteiten die elk een eigen missie hebben, nl.</p> \n<ul> \n<li>Het Departement Onderwijs en Vorming\n<span> </span>stippelt het Vlaamse onderwijsbeleid uit en ondersteunt de Vlaamse minister van Onderwijs en Vorming met een brede reeks beleidsondersteunende taken</li> \n<li>Het Agentschap voor Onderwijsdiensten (AGODI) is verantwoordelijk voor de uitvoering van het onderwijsbeleid van het basis- en secundair onderwijs, het deeltijds kunstonderwijs de centra voor leerlingenbegeleiding</li> \n<li>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. AHOVOKS heeft een waaier aan diensten binnen het onderwijs onder zijn vleugels. Enkele voorbeelden hiervan zijn het financieren van universiteiten, hogescholen en centra voor volwassenenonderwijs en basiseducatie, het uitbetalen van de studietoelagen van studenten in het hoger onderwijs en het organiseren van de examencommissie secundair onderwijs.</li> \n<li>De onderwijsinspectie\n<span> </span>heeft als belangrijkste missie te waken over de kwaliteit van het onderwijs in Vlaanderen en de Nederlandstalige scholen in het Brussels Hoofdstedelijk Gewest. Ze verleent hiervoor o.a. advies bij de opname van instellingen in de erkenning en licht onderwijsinstellingen door.</li> \n<li>Het Agentschap voor Infrastructuur in het Onderwijs (AGION) is verantwoordelijk voor de subsidies van schoolgebouwen voor het leerplichtonderwijs en coördineert de realisatie van schoolgebouwen bij partnerschappen tussen de overheid en private inrichtende machten.</li> </ul> \n<p>Elk van deze entiteiten heeft zijn eigen databehoeften voor het uitvoeren van zijn taken. Vaak zijn hier ook data van de andere entiteiten binnen het beleidsdomein voor nodig. Daarom is er een gemeenschappelijk dataplatform opgezet, waarbinnen zowel de entiteits-eigen data kunnen worden bewerkt en geautomatiseerd als de entiteits-overschrijdende data. Het dataplatform Minerva ambieert om voor al deze gegevensuitwisselingen een betrouwbare technische ondersteuning te zijn.</p> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>",
         "htmlEncoded": "<p><strong>Jouw toekomstige job</strong></p> \n<p>Het beleidsdomein Onderwijs en Vorming is op zoek naar een Data Engineer ter versterking van het team bij de verdere uitbouw en doorontwikkeling van het centrale dataplatform Minerva.</p> \n<p>Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie.</p> \n<p>Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform uit te breiden en duurzaam te verankeren. </p> \n<p>Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat! </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Departement Onderwijs en Vorming. Je zal jouw taken uitoefenen ten behoeve van het ganse beleidsdomein Onderwijs.</p> \n<p>In je rol als data engineer zal je het datagedreven werken binnen het beleidsdomein Onderwijs en Vorming ondersteunen.</p> \n<p>Het beleidsdomein Onderwijs en Vorming bestaat uit vijf entiteiten die elk een eigen missie hebben, nl.</p> \n<ul> \n<li>Het Departement Onderwijs en Vorming\n<span> </span>stippelt het Vlaamse onderwijsbeleid uit en ondersteunt de Vlaamse minister van Onderwijs en Vorming met een brede reeks beleidsondersteunende taken</li> \n<li>Het Agentschap voor Onderwijsdiensten (AGODI) is verantwoordelijk voor de uitvoering van het onderwijsbeleid van het basis- en secundair onderwijs, het deeltijds kunstonderwijs de centra voor leerlingenbegeleiding</li> \n<li>Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. AHOVOKS heeft een waaier aan diensten binnen het onderwijs onder zijn vleugels. Enkele voorbeelden hiervan zijn het financieren van universiteiten, hogescholen en centra voor volwassenenonderwijs en basiseducatie, het uitbetalen van de studietoelagen van studenten in het hoger onderwijs en het organiseren van de examencommissie secundair onderwijs.</li> \n<li>De onderwijsinspectie\n<span> </span>heeft als belangrijkste missie te waken over de kwaliteit van het onderwijs in Vlaanderen en de Nederlandstalige scholen in het Brussels Hoofdstedelijk Gewest. Ze verleent hiervoor o.a. advies bij de opname van instellingen in de erkenning en licht onderwijsinstellingen door.</li> \n<li>Het Agentschap voor Infrastructuur in het Onderwijs (AGION) is verantwoordelijk voor de subsidies van schoolgebouwen voor het leerplichtonderwijs en coördineert de realisatie van schoolgebouwen bij partnerschappen tussen de overheid en private inrichtende machten.</li> </ul> \n<p>Elk van deze entiteiten heeft zijn eigen databehoeften voor het uitvoeren van zijn taken. Vaak zijn hier ook data van de andere entiteiten binnen het beleidsdomein voor nodig. Daarom is er een gemeenschappelijk dataplatform opgezet, waarbinnen zowel de entiteits-eigen data kunnen worden bewerkt en geautomatiseerd als de entiteits-overschrijdende data. Het dataplatform Minerva ambieert om voor al deze gegevensuitwisselingen een betrouwbare technische ondersteuning te zijn.</p> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20119",
-      "internal": false,
-      "validThroughDate": "1771459200",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Inspectie/audit",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-20119",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Privacy & data governance specialist"
-      },
-      "displayTitle": "Privacy & data governance specialist",
-      "isProtected": false,
-      "description": {
-        "raw": "Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.<br><br>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.<br><br>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.<br><br>Wat ga je doen?<br><br>- Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).<br><br>- Opmaken en beoordelen van DPIA’s/GEB’s.<br><br>- Evalueren van datagovernance en beleidsdocumenten.<br><br>- Controleren van datamapping en gegevensdeling met externe partijen.<br><br>- Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Als Privacy &amp; Data Governance Specialist ben jij de inhoudelijke expert binnen audits rond gegevensdeling en bescherming van persoonsgegevens. Je beoordeelt of organisaties voldoen aan de AVG/GDPR en datagovernanceprincipes en vertaalt risico’s naar concrete, pragmatische aanbevelingen die echt impact hebben.<br><br>Je werkt nauw samen met auditoren en collega’s van het Data Protection Office, ICT, Risico- en Procesmanagement en juridische teams.<br><br>Je komt terecht in de afdeling Organisatie Evaluatie, een nieuwe en onafhankelijke afdeling binnen ons agentschap. De afdeling staat in voor interne audits, consultancyopdrachten, het beheer van de klokkenluidersregeling en de uitwerking van een integriteitsaanpak. De afdeling is in opbouw, wat jou de kans geeft om actief mee te denken over de verdere vormgeving en werking.<br><br>Wat ga je doen?<br><br>- Analyseren van privacyprocessen (dataminimalisatie, bewaartermijnen, rechten van betrokkenen).<br><br>- Opmaken en beoordelen van DPIA’s/GEB’s.<br><br>- Evalueren van datagovernance en beleidsdocumenten.<br><br>- Controleren van datamapping en gegevensdeling met externe partijen.<br><br>- Valideren van auditbevindingen en adviseren over risicobeperkende maatregelen.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Gillis"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20103",
-      "internal": true,
-      "validThroughDate": "1771459200",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20103",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Teamhoofd Operationele Aankoop"
-      },
-      "displayTitle": "Teamhoofd Operationele Aankoop",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als teamhoofd Operationele Aankoop ben je een administratieve duizendpoot die instaat voor de operationele aankoopprocessen van het dienstencentrum. Geef je graag leiding aan een grote groep mensen, werk je gestructureerd en hecht je veel belang aan een klantvriendelijke dienstverlening? Dan is deze job iets voor jou.<br><br>Het teamhoofd is verantwoordelijk voor de dagelijkse werking van het dienstencentrum en geeft leiding aan een team van ongeveer 45 medewerkers, verdeeld over 7 clusters, elk aangestuurd door een clusterverantwoordelijke. Het team behandelt aanvragen van klanten tot de aankoop van goederen en diensten, zoals telefonie, meubilair, kledij, kantoor en IT-benodigdheden, documentatie, dienstreizen, mobiliteit of andere aankopen. Daarnaast verzorgt het team het beheer van de goederen, waaronder abonnementen, lidmaatschappen, licenties en ter beschikking gestelde goederen. En last but not least: het teamhoofd rapporteert over de budgetevolutie van alle klanten en de KPI’s die de dagelijkse werking meten.</p>",
-        "htmlEncoded": "<p>Als teamhoofd Operationele Aankoop ben je een administratieve duizendpoot die instaat voor de operationele aankoopprocessen van het dienstencentrum. Geef je graag leiding aan een grote groep mensen, werk je gestructureerd en hecht je veel belang aan een klantvriendelijke dienstverlening? Dan is deze job iets voor jou.<br><br>Het teamhoofd is verantwoordelijk voor de dagelijkse werking van het dienstencentrum en geeft leiding aan een team van ongeveer 45 medewerkers, verdeeld over 7 clusters, elk aangestuurd door een clusterverantwoordelijke. Het team behandelt aanvragen van klanten tot de aankoop van goederen en diensten, zoals telefonie, meubilair, kledij, kantoor en IT-benodigdheden, documentatie, dienstreizen, mobiliteit of andere aankopen. Daarnaast verzorgt het team het beheer van de goederen, waaronder abonnementen, lidmaatschappen, licenties en ter beschikking gestelde goederen. En last but not least: het teamhoofd rapporteert over de budgetevolutie van alle klanten en de KPI’s die de dagelijkse werking meten.</p>"
       },
       "locations": [
         {
