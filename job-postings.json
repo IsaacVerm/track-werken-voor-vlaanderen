@@ -1,11 +1,119 @@
 {
-  "totalItems": 138,
+  "totalItems": 141,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 137,
+  "lastItemOfPage": 140,
   "items": [
+    {
+      "link": "/Job/vdab-73135461",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73135461",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scrum Master (WEWIS) via Vlaanderen connect"
+      },
+      "displayTitle": "Scrum Master (WEWIS) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) zoekt een gedreven Scrum Master‑expert die mee richting geeft aan de digitale toekomst van Vlaanderen. Met meer dan 50 maatregelen – van dienstencheques tot de jobbonus en het beheer van het Europees Sociaal Fonds (ESF) in Vlaanderen – en een jaarlijks budget van ruim 3 miljard euro is WEWIS een onmisbare motor binnen het Vlaamse beleidslandschap. </span><span>Benieuwd naar onze missie en projecten? Ontdek meer op: https://www.vlaanderen.be/departement-wewis </span></p> \n<p><b><span>Je functie in het kort</span></b></p> \n<p>Als Scrum Master bij WEWIS ben jij de drijvende kracht achter één of meerdere agile teams. De afdeling Data en Digitalisering van WEWIS heeft zijn eigen Digi- Way of Working: een set van principes en werkwijzen die ons helpen om kwalitatieve end-to-end IT en data gerelateerde oplossingen te kunnen aanbieden aan burgers, ondernemingen en andere stakeholders. Je zorgt ervoor dat het team optimaal kan samenwerken, je neemt obstakels weg en streeft naar continue verbetering. Jij bent de facilitator die ervoor zorgt dat de agile principes niet alleen gevolgd worden, maar ook écht waarde opleveren. Je stimuleert ook de zelforganisatie, de feedbackcultuur en het eigenaarschap van het team.</p> \n<p>Als Scrum Master binnen WEWIS werk je niet alleen met je eigen team(s), maar speel je ook een belangrijke transversale rol binnen de organisatie. Vanuit de Scrum Master‑gilde ondersteun je collega‑Scrum Masters en draag je actief bij aan het optimaliseren en standaardiseren van agile processen binnen WEWIS. Je faciliteert workshops en verbetertrajecten bij andere teams, zodat goede praktijken gedeeld worden en hindernissen sneller zichtbaar en opgelost raken.</p> \n<p><b><span>Jouw toekomstige rol</span></b></p> \n<p><span>In jouw rol als Scrum Master:</span></p> \n<ul> \n<li>Faciliteer je het scrumproces: Je organiseert en begeleidt alle scrum-events (daily stand-ups, sprint planning, reviews en retrospectives) en zorgt dat deze efficiënt en doelgericht verlopen. Je treedt op als ambassadeur van digi-WoW.</li> \n<li>Verwijder belemmeringen: Jij helpt het team om obstakels weg te nemen die de voortgang belemmeren, zodat ze zich volledig kunnen focussen op het leveren van waarde.</li> \n<li>Coach je het team en andere collega’s van de afdeling: Je stimuleert een cultuur van samenwerking, transparantie en continue verbetering. Je begeleidt teamleden in het begrijpen en toepassen van agile waarden en principes.</li> \n<li>Werk je nauw samen met Product Managers en andere stakeholders: In je rol van Scrum master zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein bij WEWIS. Als Scrum Master werk je samen met een brede waaier aan profielen binnen WEWIS. Je bouwt bruggen tussen teams, faciliteert samenwerking en zorgt ervoor dat iedereen vlot en efficiënt samenwerkt.</li> \n<li>Help je het team te focussen op het creëren van kwaliteitsvolle toegevoegde waarde: Je helpt het team door de doorstroming (flow) van werk zichtbaar te maken, bottlenecks te identificeren en samen met het team te zoeken naar manieren om deze te verbeteren. Je begeleidt het team bij het plannen van hun werk, met het oog op voorspelbaarheid naar de organisatie toe.</li> \n<li>Monitor je de teamperformance: Je volgt de voortgang op via metrieken zoals velocity en helpt het team om datagedreven beslissingen te nemen voor betere resultaten.</li> \n<li>Werk je mee aan het versterken van de agile maturiteit in de volledige organisatie door teams te coachen, processen te stroomlijnen en consistente werkwijzen te promoten. Via de Scrum Master-gilde zorg je ervoor dat alle teams binnen WEWIS volgens dezelfde kwaliteitsvolle standaarden kunnen werken, en dat de digi‑WoW‑werkwijze continu groeit en verbetert.</li> </ul>",
+        "htmlEncoded": "<p><span>Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) zoekt een gedreven Scrum Master‑expert die mee richting geeft aan de digitale toekomst van Vlaanderen. Met meer dan 50 maatregelen – van dienstencheques tot de jobbonus en het beheer van het Europees Sociaal Fonds (ESF) in Vlaanderen – en een jaarlijks budget van ruim 3 miljard euro is WEWIS een onmisbare motor binnen het Vlaamse beleidslandschap. </span><span>Benieuwd naar onze missie en projecten? Ontdek meer op: https://www.vlaanderen.be/departement-wewis </span></p> \n<p><b><span>Je functie in het kort</span></b></p> \n<p>Als Scrum Master bij WEWIS ben jij de drijvende kracht achter één of meerdere agile teams. De afdeling Data en Digitalisering van WEWIS heeft zijn eigen Digi- Way of Working: een set van principes en werkwijzen die ons helpen om kwalitatieve end-to-end IT en data gerelateerde oplossingen te kunnen aanbieden aan burgers, ondernemingen en andere stakeholders. Je zorgt ervoor dat het team optimaal kan samenwerken, je neemt obstakels weg en streeft naar continue verbetering. Jij bent de facilitator die ervoor zorgt dat de agile principes niet alleen gevolgd worden, maar ook écht waarde opleveren. Je stimuleert ook de zelforganisatie, de feedbackcultuur en het eigenaarschap van het team.</p> \n<p>Als Scrum Master binnen WEWIS werk je niet alleen met je eigen team(s), maar speel je ook een belangrijke transversale rol binnen de organisatie. Vanuit de Scrum Master‑gilde ondersteun je collega‑Scrum Masters en draag je actief bij aan het optimaliseren en standaardiseren van agile processen binnen WEWIS. Je faciliteert workshops en verbetertrajecten bij andere teams, zodat goede praktijken gedeeld worden en hindernissen sneller zichtbaar en opgelost raken.</p> \n<p><b><span>Jouw toekomstige rol</span></b></p> \n<p><span>In jouw rol als Scrum Master:</span></p> \n<ul> \n<li>Faciliteer je het scrumproces: Je organiseert en begeleidt alle scrum-events (daily stand-ups, sprint planning, reviews en retrospectives) en zorgt dat deze efficiënt en doelgericht verlopen. Je treedt op als ambassadeur van digi-WoW.</li> \n<li>Verwijder belemmeringen: Jij helpt het team om obstakels weg te nemen die de voortgang belemmeren, zodat ze zich volledig kunnen focussen op het leveren van waarde.</li> \n<li>Coach je het team en andere collega’s van de afdeling: Je stimuleert een cultuur van samenwerking, transparantie en continue verbetering. Je begeleidt teamleden in het begrijpen en toepassen van agile waarden en principes.</li> \n<li>Werk je nauw samen met Product Managers en andere stakeholders: In je rol van Scrum master zal je nauw in verbinding staan met Product Managers die het overzicht bewaken van alle businessbehoeften van zowel data- als digitaliseringsproducten voor hun domein bij WEWIS. Als Scrum Master werk je samen met een brede waaier aan profielen binnen WEWIS. Je bouwt bruggen tussen teams, faciliteert samenwerking en zorgt ervoor dat iedereen vlot en efficiënt samenwerkt.</li> \n<li>Help je het team te focussen op het creëren van kwaliteitsvolle toegevoegde waarde: Je helpt het team door de doorstroming (flow) van werk zichtbaar te maken, bottlenecks te identificeren en samen met het team te zoeken naar manieren om deze te verbeteren. Je begeleidt het team bij het plannen van hun werk, met het oog op voorspelbaarheid naar de organisatie toe.</li> \n<li>Monitor je de teamperformance: Je volgt de voortgang op via metrieken zoals velocity en helpt het team om datagedreven beslissingen te nemen voor betere resultaten.</li> \n<li>Werk je mee aan het versterken van de agile maturiteit in de volledige organisatie door teams te coachen, processen te stroomlijnen en consistente werkwijzen te promoten. Via de Scrum Master-gilde zorg je ervoor dat alle teams binnen WEWIS volgens dezelfde kwaliteitsvolle standaarden kunnen werken, en dat de digi‑WoW‑werkwijze continu groeit en verbetert.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73132286",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73132286",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "projectleider medior (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "projectleider medior (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinaire teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders. Je vertaalt complexe beleidsambities naar concrete roadmaps en navigeert hierbij moeiteloos door organisatorische en politieke uitdagingen.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bestaat uit analisten, business architecten, juristen, ontwikkelaars en andere specialisten. Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.\n<strong></strong></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan voor strategisch overleg.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als medior projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van complexe digitale transformatieprojecten van A tot Z. Je voert strategische stakeholderanalyses uit en bouwt sterke relaties op met besluitvormers op verschillende niveaus. Je vertaalt hun ambities naar een concreet, doelgericht en haalbaar projectplan, waarbij je rekening houdt met de projectdriehoek: scope, tijd en budget. Je stelt een robuuste governance-structuur op en ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking. Je anticipeert op risico's en afhankelijkheden, schakelt snel bij veranderingen en houdt alle betrokkenen geïnformeerd. Bij knelpunten escaleer je tijdig en onderbouwd naar het juiste niveau. Daarnaast coach je junior projectleiders in hun ontwikkeling en help je innovatieve best practices te implementeren binnen het team.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Je borgt de projectkennis en zorgt voor een breed draagvlak bij medewerkers, zodat de digitale transformatie duurzaam verankerd wordt in de organisatie.</p>",
+        "htmlEncoded": "<p>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinaire teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam. Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders. Je vertaalt complexe beleidsambities naar concrete roadmaps en navigeert hierbij moeiteloos door organisatorische en politieke uitdagingen.</p> \n<p>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s. Dit doe je in samenwerking met jouw projectteam dat bestaat uit analisten, business architecten, juristen, ontwikkelaars en andere specialisten. Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.\n<strong></strong></p> \n<p>Jouw werkplek is ons kantoor in Brussel, met ook overlegmomenten in ons kantoor in Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan voor strategisch overleg.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als medior projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van complexe digitale transformatieprojecten van A tot Z. Je voert strategische stakeholderanalyses uit en bouwt sterke relaties op met besluitvormers op verschillende niveaus. Je vertaalt hun ambities naar een concreet, doelgericht en haalbaar projectplan, waarbij je rekening houdt met de projectdriehoek: scope, tijd en budget. Je stelt een robuuste governance-structuur op en ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</p> \n<p>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking. Je anticipeert op risico's en afhankelijkheden, schakelt snel bij veranderingen en houdt alle betrokkenen geïnformeerd. Bij knelpunten escaleer je tijdig en onderbouwd naar het juiste niveau. Daarnaast coach je junior projectleiders in hun ontwikkeling en help je innovatieve best practices te implementeren binnen het team.</p> \n<p>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Je borgt de projectkennis en zorgt voor een breed draagvlak bij medewerkers, zodat de digitale transformatie duurzaam verankerd wordt in de organisatie.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73132166",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73132166",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Projectleider Digitale Transformatie (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</span></p> \n<p><span>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam.  Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</span><span> </span><span></span></p> \n<p><span>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s.  Dit doe je in samenwerking met jouw </span><span>projectteam</span><span> dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</span></p> \n<p><span>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</span><b><span></span></b></p> \n<p><span>Als</span><span> </span><span>projectleider</span><span> </span><span>kom je terecht in het team projectoplossingen binnen de afdeling</span><span> </span><span>Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten.  We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p><span>Jouw werkplek is ons kantoor in</span><span> </span><span>Brussel, met ook overlegmomenten in ons kantoor in</span><span> </span><span>Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</span><span></span></p> \n<p><b><span>Wat zal je doen?</span></b></p> \n<p><span> Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</span></p> \n<p><span>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</span></p> \n<p><span>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</span></p>",
+        "htmlEncoded": "<p><span>Ben jij een gedreven en resultaatgerichte projectleider die goesting heeft om uitdagende projecten van A tot Z te begeleiden, om in samenwerking met multidisciplinair teams aan innovatieve oplossingen te bouwen? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</span></p> \n<p><span>Als Projectleider vorm je de brug tussen de business met haar externe en interne stakeholders en het projectteam.  Je hanteert een pragmatische aanpak vertrekkende vanuit de gestelde noden en (burger)behoeften en in co-creatie met de betrokken stakeholders.</span><span> </span><span></span></p> \n<p><span>Je rapporteert over de planning en voortgang van jouw project met aandacht voor tijd, geld, kwaliteit en beheersing van issues en risico’s.  Dit doe je in samenwerking met jouw </span><span>projectteam</span><span> dat bv. kan bestaan uit analisten, business architecten, juristen, ontwikkelaars en zo meer.</span></p> \n<p><span>Je streeft hierbij steeds naar tevreden partners en tevreden teamgenoten, en polst hier ook geregeld naar.</span><b><span></span></b></p> \n<p><span>Als</span><span> </span><span>projectleider</span><span> </span><span>kom je terecht in het team projectoplossingen binnen de afdeling</span><span> </span><span>Digitale Transformatie. Dit team ontzorgt onze partners binnen de Vlaamse Overheid en bij Digitaal Vlaanderen in het opzetten en succesvol doorlopen van digitale transformatieprojecten.  We vertrekken steeds vanuit de noden van de doelgroep van de entiteiten en teams waarmee we samenwerken, en begeleiden en ontzorgen hen optimaal in de uitrol van hun transformatie naar een meer digitale overheid.</span></p> \n<p><span>Jouw werkplek is ons kantoor in</span><span> </span><span>Brussel, met ook overlegmomenten in ons kantoor in</span><span> </span><span>Gent. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken. Daarnaast wordt van je verwacht om, wanneer nodig, ook bij de partner langs te gaan.</span><span></span></p> \n<p><b><span>Wat zal je doen?</span></b></p> \n<p><span> Als projectleider bij Digitaal Vlaanderen ben je verantwoordelijk voor het leiden van uitdagende digitale transformatieprojecten van A tot Z. Je analyseert grondig de noden, problemen en verwachtingen van diverse stakeholders en vertaalt deze naar een concreet, doelgericht en haalbaar projectplan. Hierbij hou je rekening met de projectdriehoek: scope, tijd en budget. Je verfijnt de projectdefinitie door uitdaging en haalbaarheid in balans te brengen en stelt een duidelijke projectaanpak, planning, organisatie, en overleg- en beslissingsstructuur op. Je ontwikkelt en monitort ken- en stuurgetallen (zoals OKR's en KPI's) om de projectresultaten objectief te meten.</span></p> \n<p><span>Je bent verantwoordelijk voor de coördinatie en operationele aansturing van een multidisciplinair projectteam en motiveert hen tot optimale samenwerking en inzet. Je zorgt ervoor dat iedereen goed geïnformeerd is over de voortgang en ondersteunt waar nodig bij het oplossen van problemen en het signaleren van ontwikkelnoden. Bij knelpunten escaleer je tijdig en stuur je proactief bij om de afgesproken projectdoelstellingen binnen kwaliteit, tijd en budget te verzekeren. Je draagt actief bij aan vernieuwing en procesverbeteringen binnen het team en stimuleert samenwerking binnen en buiten Digitaal Vlaanderen.</span></p> \n<p><span>Tot slot ben je verantwoordelijk voor een kwaliteitsvolle overdracht van het project naar de organisatie. Dit omvat het beschikbaar maken van alle projectdocumentatie, het borgen van projectkennis en het zorgen voor draagvlak bij medewerkers, zodat de implementatie duurzaam is.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73131383",
       "internal": false,
@@ -33,6 +141,78 @@
       "description": {
         "raw": "<p>Ben jij een ervaren leidinggevende met een sterke achtergrond in ICT en data? Wil je het nieuw centraal ondersteunend ICT en data- team van Onderwijs en Vorming vormgeven om zo te helpen om de digitale ambities van de Vlaamse onderwijsadministratie waar te maken? Heb je het talent om mensen samen te brengen, synergieën te creëren en consensus te vinden in een complexe omgeving? Ben je klantgericht en een daadkrachtige leider die zorgt voor draagvlak? Dan is deze functie iets ongetwijfeld iets voor jou!</p> \n<p>De Vlaamse onderwijsadministratie bestaat uit vijf entiteiten: één departement en vier agentschappen. Elk van deze entiteiten heeft een eigen ICT- en datawerking met specifieke uitdagingen en opportuniteiten. Deze vijf entiteiten bundelen nu hun krachten om bepaalde aspecten van de ICT en data werking samen aan te pakken. Daarom worden alle centrale ondersteunende ICT- en datarollen ondergebracht in één nieuw centraal ICT en datateam dat zal bestaan uit ongeveer 20 medewerkers. Het is voor dit nieuwe team dat we een daadkrachtige en verbindende leidinggevende zoeken.\n<strong></strong></p> \n<p>Jij stuurt het nieuwe team aan dat de gemeenschappelijke ICT- en data-aspecten, waarop deze 5 entiteiten samenwerken, uitwerkt en implementeert. Je rapporteert dan ook aan het managementcomité Onderwijs en Vorming, het orgaan waarin de leidend ambtenaren van deze 5 entiteiten elkaar tweewekelijks ontmoeten.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om het nieuwe centrale ondersteunend data en IT team aan te sturen en de opdrachten van het Managementcomité (MC) doelgericht uit te voeren.</p> \n<p>Daarbij staat centraal:</p> \n<ul> \n<li>Leiden en organiseren van een team van circa 20 medewerkers met diverse ICT- en datarollen.</li> \n<li>Vertalen van strategische beslissingen van het MC naar concrete opdrachten en prioriteiten.</li> \n<li>Je bent communicatief zeer sterk en je past jouw communicatie aan de doelgroep aan.</li> \n<li>Je kan overtuigen op basis van rationele argumenten en zoekt en creëert draagvlak in een complexe omgeving.</li> \n<li>Stakeholdermanagement: onderhouden van nauwe contacten met het MC, Digitaal Vlaanderen en andere partners.</li> \n<li>Initiatief nemen en draagvlak creëren rond gedeelde prioriteiten in de entiteiten en bij het MC</li> \n<li>HR en organisatie: uitwerken van beleid rond verlof, telewerk, evaluaties, teamdagen en interne vergaderingen.</li> \n<li>Financiële planning en rapportering en dit zowel op jaarbasis als op langere termijn.</li> \n<li>Vertegenwoordiging van het beleidsdomein binnen de Vlaamse overheid.</li> </ul> \n<p>Je team is verantwoordelijk voor onder andere: het beheer van gemeenschappelijke producten zoals:</p> \n<ul> \n<li>Het loket Mijn Onderwijs voor directies en administraties.</li> \n<li>Het API-portaal.</li> \n<li>Een dataplatform met onder meer de Databank Beleidsinformatie van Onderwijs en Vorming.</li> \n<li>Gemeenschappelijke dashboardtools zoals Tableau.</li> \n<li>De informatieveiligheid van de gemeenschappelijke producten, dashboardtools, portaal en dataplatform</li> </ul> \n<p>Het managementcomité beslist later of entiteitsspecifieke ondersteuning ook tot het werkterrein van het centrale ICT en datateam behoort.</p>",
         "htmlEncoded": "<p>Ben jij een ervaren leidinggevende met een sterke achtergrond in ICT en data? Wil je het nieuw centraal ondersteunend ICT en data- team van Onderwijs en Vorming vormgeven om zo te helpen om de digitale ambities van de Vlaamse onderwijsadministratie waar te maken? Heb je het talent om mensen samen te brengen, synergieën te creëren en consensus te vinden in een complexe omgeving? Ben je klantgericht en een daadkrachtige leider die zorgt voor draagvlak? Dan is deze functie iets ongetwijfeld iets voor jou!</p> \n<p>De Vlaamse onderwijsadministratie bestaat uit vijf entiteiten: één departement en vier agentschappen. Elk van deze entiteiten heeft een eigen ICT- en datawerking met specifieke uitdagingen en opportuniteiten. Deze vijf entiteiten bundelen nu hun krachten om bepaalde aspecten van de ICT en data werking samen aan te pakken. Daarom worden alle centrale ondersteunende ICT- en datarollen ondergebracht in één nieuw centraal ICT en datateam dat zal bestaan uit ongeveer 20 medewerkers. Het is voor dit nieuwe team dat we een daadkrachtige en verbindende leidinggevende zoeken.\n<strong></strong></p> \n<p>Jij stuurt het nieuwe team aan dat de gemeenschappelijke ICT- en data-aspecten, waarop deze 5 entiteiten samenwerken, uitwerkt en implementeert. Je rapporteert dan ook aan het managementcomité Onderwijs en Vorming, het orgaan waarin de leidend ambtenaren van deze 5 entiteiten elkaar tweewekelijks ontmoeten.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Je hoofdopdracht bestaat erin om het nieuwe centrale ondersteunend data en IT team aan te sturen en de opdrachten van het Managementcomité (MC) doelgericht uit te voeren.</p> \n<p>Daarbij staat centraal:</p> \n<ul> \n<li>Leiden en organiseren van een team van circa 20 medewerkers met diverse ICT- en datarollen.</li> \n<li>Vertalen van strategische beslissingen van het MC naar concrete opdrachten en prioriteiten.</li> \n<li>Je bent communicatief zeer sterk en je past jouw communicatie aan de doelgroep aan.</li> \n<li>Je kan overtuigen op basis van rationele argumenten en zoekt en creëert draagvlak in een complexe omgeving.</li> \n<li>Stakeholdermanagement: onderhouden van nauwe contacten met het MC, Digitaal Vlaanderen en andere partners.</li> \n<li>Initiatief nemen en draagvlak creëren rond gedeelde prioriteiten in de entiteiten en bij het MC</li> \n<li>HR en organisatie: uitwerken van beleid rond verlof, telewerk, evaluaties, teamdagen en interne vergaderingen.</li> \n<li>Financiële planning en rapportering en dit zowel op jaarbasis als op langere termijn.</li> \n<li>Vertegenwoordiging van het beleidsdomein binnen de Vlaamse overheid.</li> </ul> \n<p>Je team is verantwoordelijk voor onder andere: het beheer van gemeenschappelijke producten zoals:</p> \n<ul> \n<li>Het loket Mijn Onderwijs voor directies en administraties.</li> \n<li>Het API-portaal.</li> \n<li>Een dataplatform met onder meer de Databank Beleidsinformatie van Onderwijs en Vorming.</li> \n<li>Gemeenschappelijke dashboardtools zoals Tableau.</li> \n<li>De informatieveiligheid van de gemeenschappelijke producten, dashboardtools, portaal en dataplatform</li> </ul> \n<p>Het managementcomité beslist later of entiteitsspecifieke ondersteuning ook tot het werkterrein van het centrale ICT en datateam behoort.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20193",
+      "internal": false,
+      "validThroughDate": "1773187200",
+      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20193",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker cultuur- en jeugdinfrastructuur"
+      },
+      "displayTitle": "Beleidsmedewerker cultuur- en jeugdinfrastructuur",
+      "isProtected": false,
+      "description": {
+        "raw": "Zin om mee te bouwen aan de cultuur- en jeugdinfrastructuur van morgen?&nbsp;<br><br>Het Departement Cultuur, Jeugd en Media zoekt een beleidsmedewerker cultuur- en jeugdinfrastructuur die mee het verschil wil maken voor de vele culturele en jeugdorganisaties in Vlaanderen. Van jeugdhuizen en cultuurcentra tot kleine en grote kunstplekken, van eigen infrastructuur tot infrastructuur die we steunen via investeringssubsidies. Jij helpt het kader vorm te geven waarbinnen zij duurzaam, veilig en toekomstgericht kunnen werken.<br><br>Als beleidsmedewerker combineer je bouwkundige en technische expertise met strategisch inzicht. Je werkt mee aan een sterk beleidskader dat inspeelt op internationale uitdagingen zoals duurzaamheid, circulariteit, toegankelijkheid, veiligheid en gedeeld of tijdelijk gebruik van infrastructuur. Je analyseert noden in het veld, zet onderzoeks- en leertrajecten op en vertaalt inzichten naar een helder en werkbaar masterplan voor de Vlaamse cultuur- en jeugdsector.<br><br>Daarnaast ben je een bruggenbouwer: je werkt nauw samen met interne collega’s én externe partners. Je adviseert, coördineert en volgt projecten op van voorbereiding tot evaluatie. Daarbij waak je over kwaliteit, haalbaarheid en impact. Je ontwikkelt instrumenten en ondersteuningsmaatregelen die organisaties écht vooruithelpen in een snel veranderend en complex landschap.<br><br>We zoeken iemand met een scherp oog voor de sterktes en zwaktes van infrastructuur in het Vlaamse ecosysteem voor jeugd en cultuur, die strategisch kan denken én dat praktisch kan vertalen naar beleidsinstrumenten. Iemand die energie haalt uit samenwerking, kennisdeling en het realiseren van concrete verbeteringen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>",
+        "htmlEncoded": "Zin om mee te bouwen aan de cultuur- en jeugdinfrastructuur van morgen?&nbsp;<br><br>Het Departement Cultuur, Jeugd en Media zoekt een beleidsmedewerker cultuur- en jeugdinfrastructuur die mee het verschil wil maken voor de vele culturele en jeugdorganisaties in Vlaanderen. Van jeugdhuizen en cultuurcentra tot kleine en grote kunstplekken, van eigen infrastructuur tot infrastructuur die we steunen via investeringssubsidies. Jij helpt het kader vorm te geven waarbinnen zij duurzaam, veilig en toekomstgericht kunnen werken.<br><br>Als beleidsmedewerker combineer je bouwkundige en technische expertise met strategisch inzicht. Je werkt mee aan een sterk beleidskader dat inspeelt op internationale uitdagingen zoals duurzaamheid, circulariteit, toegankelijkheid, veiligheid en gedeeld of tijdelijk gebruik van infrastructuur. Je analyseert noden in het veld, zet onderzoeks- en leertrajecten op en vertaalt inzichten naar een helder en werkbaar masterplan voor de Vlaamse cultuur- en jeugdsector.<br><br>Daarnaast ben je een bruggenbouwer: je werkt nauw samen met interne collega’s én externe partners. Je adviseert, coördineert en volgt projecten op van voorbereiding tot evaluatie. Daarbij waak je over kwaliteit, haalbaarheid en impact. Je ontwikkelt instrumenten en ondersteuningsmaatregelen die organisaties écht vooruithelpen in een snel veranderend en complex landschap.<br><br>We zoeken iemand met een scherp oog voor de sterktes en zwaktes van infrastructuur in het Vlaamse ecosysteem voor jeugd en cultuur, die strategisch kan denken én dat praktisch kan vertalen naar beleidsinstrumenten. Iemand die energie haalt uit samenwerking, kennisdeling en het realiseren van concrete verbeteringen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20000",
+      "internal": true,
+      "validThroughDate": "1773619200",
+      "hiringOrganization": "agentschap Digitaal Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20000",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Managers"
+      },
+      "displayTitle": "Managers",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij Digitaal Vlaanderen zoeken we een gedreven Manager die ons agentschap naar het volgende niveau tilt.</p><p> Wil jij mee de digitale toekomst van de Vlaamse overheid vormgeven en zo impact maken op burgers, bedrijven en besturen? Als digitaliseringsagentschap van de Vlaamse overheid zijn we een Europese frontrunner in innovatie en artificiële intelligentie. Wij bouwen elke dag aan efficiënte, gebruiksvriendelijke en toekomstgerichte dienstverlening.</p><p>Als Manager combineer je strategisch inzicht met daadkracht en inspireer je teams rond een heldere visie. Je verbindt mensen, stimuleert samenwerking en vertaalt innovatie naar tastbare maatschappelijke meerwaarde. Je bouwt mee aan een organisatie die werkt vanuit #partner, #ontzorgen en #éénteam.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
+        "htmlEncoded": "<p>Bij Digitaal Vlaanderen zoeken we een gedreven Manager die ons agentschap naar het volgende niveau tilt.</p><p> Wil jij mee de digitale toekomst van de Vlaamse overheid vormgeven en zo impact maken op burgers, bedrijven en besturen? Als digitaliseringsagentschap van de Vlaamse overheid zijn we een Europese frontrunner in innovatie en artificiële intelligentie. Wij bouwen elke dag aan efficiënte, gebruiksvriendelijke en toekomstgerichte dienstverlening.</p><p>Als Manager combineer je strategisch inzicht met daadkracht en inspireer je teams rond een heldere visie. Je verbindt mensen, stimuleert samenwerking en vertaalt innovatie naar tastbare maatschappelijke meerwaarde. Je bouwt mee aan een organisatie die werkt vanuit #partner, #ontzorgen en #éénteam.</p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
       },
       "locations": [
         {
@@ -182,8 +362,8 @@
       "displayTitle": "Jobstudent Agentschap Justitie en Handhaving",
       "isProtected": false,
       "description": {
-        "raw": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Brussel, Justitiehuis Leuven, Justitiehuis Mechelen, Justitiehuis Turnhout, Justitiehuis Antwerpen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>•Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>•Het onthaal van bezoekers<br>•Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>•Organiseren en verzorgen van een klassement<br>•Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>•Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>•Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br><br></p>",
-        "htmlEncoded": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Brussel, Justitiehuis Leuven, Justitiehuis Mechelen, Justitiehuis Turnhout, Justitiehuis Antwerpen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>•Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>•Het onthaal van bezoekers<br>•Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>•Organiseren en verzorgen van een klassement<br>•Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>•Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>•Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br><br></p>"
+        "raw": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Brussel, Justitiehuis Leuven, Justitiehuis Mechelen, Justitiehuis Turnhout, Justitiehuis Antwerpen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>• Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>• Het onthaal van bezoekers<br>• Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>•Organiseren en verzorgen van een klassement<br>• Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>• Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>• Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br><br></p>",
+        "htmlEncoded": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten om het Justitiehuis Brussel, Justitiehuis Leuven, Justitiehuis Mechelen, Justitiehuis Turnhout, Justitiehuis Antwerpen en de afdeling Beleid in Brussel tijdens de paasvakantie te ondersteunen.&nbsp;<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>• Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>• Het onthaal van bezoekers<br>• Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>•Organiseren en verzorgen van een klassement<br>• Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>• Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>• Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br><br></p>"
       },
       "locations": [
         {
@@ -734,7 +914,7 @@
     {
       "link": "/Job/cornerstone-19994",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1773014400",
       "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -3702,42 +3882,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-19932",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19932",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Kapitein met STCW II/3 master"
-      },
-      "displayTitle": "Kapitein met STCW II/3 master",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een ervaren schipper met een passie voor de zee en een talent voor leidinggeven? Wil je mee instaan voor het veilig en efficiënt vervoer van loodsen van en naar zeeschepen? Dan is deze functie als hoofdschipper tenderswath bij DAB VLOOT iets voor jou!<br><br><strong>Wat houdt de job in?</strong><br><br>Een tenderswath is een specifiek type loodsvaartuig dat door DAB VLOOT wordt ingezet voor het vervoer van loodsen van en naar zeeschepen.<br><br>Als hoofdschipper van een tenderswath leid je de bemanning aan boord, organiseer je hun werkzaamheden en zorg je voor een vlot en veilig verloop van de vaaropdrachten. Je bent een cruciale schakel in het maritieme verkeer en draagt bij aan de kwaliteit en veiligheid van onze dienstverlening.<br><br><strong>Jouw takenpakket</strong></p><ul><li>Leiding geven aan de bemanning: plannen, coördineren en opvolgen van de dagelijkse taken.</li><li>Motiveren en begeleiden van medewerkers om hun betrokkenheid en prestaties te versterken.</li><li>Uitvoeren van vaaropdrachten en beloodsingen met de tenderswath, met oog voor veiligheid en efficiëntie.</li><li>Bewaken van kwaliteit en veiligheid binnen het team volgens de geldende normen en procedures.</li><li>Beheer van materiaal: zorgen voor een correcte inventaris en onderhoud van uitrusting.</li><li>Communicatie en samenwerking: informatie uitwisselen en afstemmen met collega’s en betrokken partijen.</li><li>Actieve ondersteuning van de bemanning en inspringen bij werkoverlast of afwezigheden.</li><li>Milieubewust en veilig handelen: bijdragen aan de voorbeeldfunctie van DAB VLOOT op het vlak van duurzaamheid.</li></ul><p><strong>Wat bieden wij jou?</strong></p><ul><li>Een gericht opleidingstraject.&nbsp;</li><li>Een uitdagende en verantwoordelijke functie binnen een professioneel en geëngageerd team, met aandacht voor veiligheid, welzijn en ontwikkeling.</li><li>Werken in een unieke maritieme omgeving die inzet op innovatie en duurzaamheid.</li></ul><p><strong>Wie zoeken we?</strong></p><ul><li>Je hebt ruime ervaring als schipper en beschikt over de nodige vaarbevoegdheden.</li><li>Je hebt leidinggevende capaciteiten en bent communicatief sterk.</li><li>Je werkt graag in teamverband en hebt oog voor veiligheid en kwaliteit.</li><li>Je bent flexibel en bereid om in een operationele context te werken met wisselende uren.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij een ervaren schipper met een passie voor de zee en een talent voor leidinggeven? Wil je mee instaan voor het veilig en efficiënt vervoer van loodsen van en naar zeeschepen? Dan is deze functie als hoofdschipper tenderswath bij DAB VLOOT iets voor jou!<br><br><strong>Wat houdt de job in?</strong><br><br>Een tenderswath is een specifiek type loodsvaartuig dat door DAB VLOOT wordt ingezet voor het vervoer van loodsen van en naar zeeschepen.<br><br>Als hoofdschipper van een tenderswath leid je de bemanning aan boord, organiseer je hun werkzaamheden en zorg je voor een vlot en veilig verloop van de vaaropdrachten. Je bent een cruciale schakel in het maritieme verkeer en draagt bij aan de kwaliteit en veiligheid van onze dienstverlening.<br><br><strong>Jouw takenpakket</strong></p><ul><li>Leiding geven aan de bemanning: plannen, coördineren en opvolgen van de dagelijkse taken.</li><li>Motiveren en begeleiden van medewerkers om hun betrokkenheid en prestaties te versterken.</li><li>Uitvoeren van vaaropdrachten en beloodsingen met de tenderswath, met oog voor veiligheid en efficiëntie.</li><li>Bewaken van kwaliteit en veiligheid binnen het team volgens de geldende normen en procedures.</li><li>Beheer van materiaal: zorgen voor een correcte inventaris en onderhoud van uitrusting.</li><li>Communicatie en samenwerking: informatie uitwisselen en afstemmen met collega’s en betrokken partijen.</li><li>Actieve ondersteuning van de bemanning en inspringen bij werkoverlast of afwezigheden.</li><li>Milieubewust en veilig handelen: bijdragen aan de voorbeeldfunctie van DAB VLOOT op het vlak van duurzaamheid.</li></ul><p><strong>Wat bieden wij jou?</strong></p><ul><li>Een gericht opleidingstraject.&nbsp;</li><li>Een uitdagende en verantwoordelijke functie binnen een professioneel en geëngageerd team, met aandacht voor veiligheid, welzijn en ontwikkeling.</li><li>Werken in een unieke maritieme omgeving die inzet op innovatie en duurzaamheid.</li></ul><p><strong>Wie zoeken we?</strong></p><ul><li>Je hebt ruime ervaring als schipper en beschikt over de nodige vaarbevoegdheden.</li><li>Je hebt leidinggevende capaciteiten en bent communicatief sterk.</li><li>Je werkt graag in teamverband en hebt oog voor veiligheid en kwaliteit.</li><li>Je bent flexibel en bereid om in een operationele context te werken met wisselende uren.</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Oostende"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72893480",
       "internal": false,
       "validThroughDate": "-1",
@@ -4417,42 +4561,6 @@
       "description": {
         "raw": "<p>Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar een gemotiveerde consultant die in een team van informatieveiligheidsspecialisten (Information Security Officer)onze klanten kan gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</p> \n<p>Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie classificatie raamwerk (ICR).</p> \n<p>Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid.</p> \n<p>Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS).</p> \n<p>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</p>",
         "htmlEncoded": "<p>Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar een gemotiveerde consultant die in een team van informatieveiligheidsspecialisten (Information Security Officer)onze klanten kan gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</p> \n<p>Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie classificatie raamwerk (ICR).</p> \n<p>Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid.</p> \n<p>Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS).</p> \n<p>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72495919",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72495919",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Data engineer AI (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Data engineer AI (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>",
-        "htmlEncoded": "<p><span>Als regisseur van de arbeidsmarkt heeft VDAB als doelstelling arbeidsmarktdata te verwerken en uit te wisselen. Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt daarbij steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p> \n<p><span>VDAB is dan ook op zoek naar een nieuwe medewerker die het team van data scientists kan ondersteunen bij het automatiseren van data pipelines en het in productie brengen van onze modellen en applicaties.</span></p> \n<p><span>Jouw verantwoordelijkheden</span></p> \n<p><span>● Ontwerpen en ontwikkelen van data pipelines en ETL data flows</span></p> \n<p><span>● Ontwikkelen in Python en (Py)Spark</span></p> \n<p><span>● Ontwikkelen in een Cloud omgeving</span></p> \n<p><span>Jouw taken</span></p> \n<p><span>● Je levert productieklare code op</span></p> \n<p><span>● Je plaatst AI modellen en applicaties in productie</span></p> \n<p><span>● Je levert ondersteuning voor unit-, performantie- en systeemtesten</span></p> \n<p><span>● Je ontwikkelt API’s</span></p> \n<p><span>● Je documenteert en levert functionele en technische metadata op </span></p> \n<p><span>Vaardigheden</span></p> \n<p><span>● Je bent een teamplayer</span></p> \n<p><span>● Je bent resultaatgericht</span></p> \n<p><span>● je bent een kritische en oplossingsgerichte denker </span></p> \n<p><span>Waar ga je werken</span></p> \n<p><span>Je werkt 1 dag à 2 dagen in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><span>Jouw toekomstig team</span></p> \n<p><span>Het team bestaat momenteel uit een 30 tal teamleden, waaronder we de rollen van data scientist, data engineer, devops, en project manager terugvinden. Daarnaast hebben we een Lead Data Scientist die de data scientists aanstuurt, een Lead Data Engineer die de data engineers aanstuurt en een portfolio manager die het AI portfolio beheert en de project managers aanstuurt.</span></p> \n<p><span>Volgende technologieën worden er gebruikt binnen het team: Python, (Py)Spark, AWS, GIT, Airflow (nice to have), Docker (nice to have), Front end development (nice to have)</span></p>"
       },
       "locations": [
         {
