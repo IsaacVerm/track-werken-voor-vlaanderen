@@ -45,12 +45,15 @@
     {
       "link": "/Job/cornerstone-20262",
       "internal": true,
-      "validThroughDate": "-1",
+      "validThroughDate": "1773792000",
       "hiringOrganization": "Departement Financiën en Begroting",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Financieel",
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-20262",
       "contentType": "Job",
@@ -78,12 +81,15 @@
     {
       "link": "/Job/cornerstone-20237",
       "internal": true,
-      "validThroughDate": "-1",
+      "validThroughDate": "1773792000",
       "hiringOrganization": "Departement Financiën en Begroting",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Financieel",
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-20237",
       "contentType": "Job",
@@ -152,8 +158,11 @@
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Financieel",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": true,
       "identifier": "cornerstone-20227",
       "contentType": "Job",
       "collectionType": null,
@@ -180,12 +189,15 @@
     {
       "link": "/Job/cornerstone-20226",
       "internal": true,
-      "validThroughDate": "-1",
+      "validThroughDate": "1773792000",
       "hiringOrganization": "Departement Financiën en Begroting",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Financieel",
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-20226",
       "contentType": "Job",
@@ -266,9 +278,9 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Financieel beleidsaviseur"
+        "htmlEncoded": "Financieel beleidsadviseur"
       },
-      "displayTitle": "Financieel beleidsaviseur",
+      "displayTitle": "Financieel beleidsadviseur",
       "isProtected": false,
       "description": {
         "raw": "<p><span>Jij bent als financieel beleidsadviseur bij de dienst Financiële Operaties dé persoon die mee de financieringsstrategie van de Vlaamse overheid vormgeeft. Jij maakt slimme afwegingen over welke financiële producten het beste passen, zowel voor beleggingen als voor leningen. Jij werkt actief mee aan het uitschrijven en onderhouden van een duurzaam financieel kader, verzorgt de rapportering over uitgegeven duurzame obligaties en kent de Europese regelgeving en vereisten tot in de puntjes.</span></p><p><span>Jij volgt het kas-, schuld- en waarborgrapport van de Vlaamse overheid op en bewaakt nauwgezet aflossingen, rentebetalingen en de boekhoudkundige verwerking van financiële transacties in Finance Active, het schuldbeheerssysteem, en in Orafin, het boekhoudsysteem van de Vlaamse overheid.</span></p><p><span>Jij denkt vooruit en schrijft mee aan beleidsplannen rond kas- en schuldbeheer, verzekeringen en waarborgen. Jij zorgt voor een optimale risicoafdekking van de entiteiten binnen de consolidatiekring van de Vlaamse overheid, bent hét aanspreekpunt voor de verzekeringsmakelaar en onderhandelt mee over verzekeringsvoorwaarden met de maatschappij. Jij stelt bestekken op en evalueert offertes volledig in lijn met de regels voor overheidsopdrachten.</span></p><p><span>Jij creëert draagvlak bij vertegenwoordigers van de beleidsdomeinen voor hun risicoafdekking, informeert hen over de financieringsmogelijkheden van hun duurzame (groene of sociale) uitgaven en vertaalt hun belangen naar breed gedragen voorstellen.</span></p><p><span>Tegelijkertijd ben jij de communicator die helderheid brengt in beleidsbeslissingen en overtuigend presenteert aan beleidsvertegenwoordigers, investeerders, banken, ratingagentschappen en verzekeringspartners. Jij weet mensen mee te nemen in je visie en maakt complexe financiële materie begrijpelijk en inspirerend</span></p><p><span>.Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
