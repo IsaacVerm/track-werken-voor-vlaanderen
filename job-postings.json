@@ -1,11 +1,296 @@
 {
-  "totalItems": 132,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 131,
+  "lastItemOfPage": 137,
   "items": [
+    {
+      "link": "/Job/cornerstone-20232",
+      "internal": false,
+      "validThroughDate": "1774224000",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Gezondheid",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20232",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Arts Infectieziektebestrijding en Vaccinatie"
+      },
+      "displayTitle": "Arts Infectieziektebestrijding en Vaccinatie",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil je als arts impact maken op het gezondheidsbeleid van morgen en mee richting geven aan beslissingen die de gezondheid van miljoenen mensen beïnvloeden? Ben je geboeid door de wisselwerking tussen wetenschap, maatschappij en beleid, en haal je energie uit complexe dossiers met een hoge maatschappelijke relevantie? Heb je bovendien een sterke interesse in de thema’s vaccinatie en epidemiologie? Dan is de functie van Arts Infectieziektebestrijding en Vaccinatie bij Departement Zorg vast en zeker iets voor jou!<br><br>Als Arts Infectieziektebestrijding en vaccinatie werk je mee aan het hart van het Vlaamse preventieve gezondheidsbeleid en maak je dagelijks het verschil voor de gezondheid van de hele bevolking. In deze functie ligt je grootste uitdaging in het vertalen van snel evoluerende wetenschappelijke inzichten naar doordacht, haalbaar en maatschappelijk gedragen vaccinatiebeleid. Je volgt medische, epidemiologische en internationale ontwikkelingen rond vaccins en infectieziekten op en zet deze kennis om in heldere beleidsadviezen voor administratie, kabinet en minister. Je werkt actief mee aan het bepalen van beleidsprioriteiten en gezondheidsdoelstellingen en ontwikkelt, stuurt aan en evalueert vaccinatieprogramma’s met aantoonbare gezondheidswinst. Daarbij beweeg je vlot tussen medische expertise en beleidsmatige afwegingen zoals budget, implementeerbaarheid en draagvlak. Je initieert en begeleidt beleidsgericht onderzoek, interpreteert monitoring- en evaluatieresultaten en stuurt het beleid bij waar nodig.</div><div>Als inhoudelijk aanspreekpunt bouw je bruggen tussen wetenschap, beleid en praktijk en werk je nauw samen met partners zoals zorgverleners, experten, middenveld en internationale organisaties. Je draagt actief bij aan gezondheidsconferenties en beleidsnota’s en ondersteunt de uitvoering van beslissingen op het terrein. Daarnaast lever je medisch expertenadvies bij uitbraken en neem je deel aan een 24/7 permanentiesysteem voor meldingsplichtige infectieziekten.</div><div>Dankzij jouw analytische blik, overtuigingskracht en maatschappelijke betrokkenheid help je het Vlaamse vaccinatiebeleid toekomstgericht, wetenschappelijk onderbouwd en breed gedragen te houden.</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
+        "htmlEncoded": "<div>Wil je als arts impact maken op het gezondheidsbeleid van morgen en mee richting geven aan beslissingen die de gezondheid van miljoenen mensen beïnvloeden? Ben je geboeid door de wisselwerking tussen wetenschap, maatschappij en beleid, en haal je energie uit complexe dossiers met een hoge maatschappelijke relevantie? Heb je bovendien een sterke interesse in de thema’s vaccinatie en epidemiologie? Dan is de functie van Arts Infectieziektebestrijding en Vaccinatie bij Departement Zorg vast en zeker iets voor jou!<br><br>Als Arts Infectieziektebestrijding en vaccinatie werk je mee aan het hart van het Vlaamse preventieve gezondheidsbeleid en maak je dagelijks het verschil voor de gezondheid van de hele bevolking. In deze functie ligt je grootste uitdaging in het vertalen van snel evoluerende wetenschappelijke inzichten naar doordacht, haalbaar en maatschappelijk gedragen vaccinatiebeleid. Je volgt medische, epidemiologische en internationale ontwikkelingen rond vaccins en infectieziekten op en zet deze kennis om in heldere beleidsadviezen voor administratie, kabinet en minister. Je werkt actief mee aan het bepalen van beleidsprioriteiten en gezondheidsdoelstellingen en ontwikkelt, stuurt aan en evalueert vaccinatieprogramma’s met aantoonbare gezondheidswinst. Daarbij beweeg je vlot tussen medische expertise en beleidsmatige afwegingen zoals budget, implementeerbaarheid en draagvlak. Je initieert en begeleidt beleidsgericht onderzoek, interpreteert monitoring- en evaluatieresultaten en stuurt het beleid bij waar nodig.</div><div>Als inhoudelijk aanspreekpunt bouw je bruggen tussen wetenschap, beleid en praktijk en werk je nauw samen met partners zoals zorgverleners, experten, middenveld en internationale organisaties. Je draagt actief bij aan gezondheidsconferenties en beleidsnota’s en ondersteunt de uitvoering van beslissingen op het terrein. Daarnaast lever je medisch expertenadvies bij uitbraken en neem je deel aan een 24/7 permanentiesysteem voor meldingsplichtige infectieziekten.</div><div>Dankzij jouw analytische blik, overtuigingskracht en maatschappelijke betrokkenheid help je het Vlaamse vaccinatiebeleid toekomstgericht, wetenschappelijk onderbouwd en breed gedragen te houden.</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20196",
+      "internal": false,
+      "validThroughDate": "1773792000",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20196",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator logistiek"
+      },
+      "displayTitle": "Coördinator logistiek",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een veelzijdige logistieke duizendpoot die zich thuis voelt in een bruisende en sportieve omgeving? Zoek je een uitdagende functie waarin je je verantwoordelijkheidszin en people skills ten volle kan benutten? Ben je technisch onderlegd en handig met computers? Dan ben jij de logistiek coördinator die we zoeken!<br><br>Meer over de inhoud van de job: Je stuurt een onderhouds- en schoonmaakteam aan van 5 personen dat ervoor zorgt dat onze klanten kunnen sporten in een goed onderhouden en net centrum. Je maakt de planning op van deze teams en bent verantwoordelijk voor de goede werking. Indien het nodig is, voer je zelf technische taken en kleine herstellingen uit in het centrum.<br><br>Daarnaast ben je de technische contactpersoon tussen het team DBM (Design, Build &amp; Maintenance), dat werkzaam is op ons hoofdbestuur, externe bedrijven en Sport Vlaanderen Brasschaat. Je volgt technische werkzaamheden, uitgevoerd door externe bedrijven, op en zorgt er onder andere voor dat de onderhoudskalender van Sport Vlaanderen Brasschaat up to date blijft. Verder stuur je ook de externe poets en externe groenonderhoud aan. Ten slotte fungeer je ook als aanspreekpunt welzijn.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div><br>",
+        "htmlEncoded": "<div>Ben jij een veelzijdige logistieke duizendpoot die zich thuis voelt in een bruisende en sportieve omgeving? Zoek je een uitdagende functie waarin je je verantwoordelijkheidszin en people skills ten volle kan benutten? Ben je technisch onderlegd en handig met computers? Dan ben jij de logistiek coördinator die we zoeken!<br><br>Meer over de inhoud van de job: Je stuurt een onderhouds- en schoonmaakteam aan van 5 personen dat ervoor zorgt dat onze klanten kunnen sporten in een goed onderhouden en net centrum. Je maakt de planning op van deze teams en bent verantwoordelijk voor de goede werking. Indien het nodig is, voer je zelf technische taken en kleine herstellingen uit in het centrum.<br><br>Daarnaast ben je de technische contactpersoon tussen het team DBM (Design, Build &amp; Maintenance), dat werkzaam is op ons hoofdbestuur, externe bedrijven en Sport Vlaanderen Brasschaat. Je volgt technische werkzaamheden, uitgevoerd door externe bedrijven, op en zorgt er onder andere voor dat de onderhoudskalender van Sport Vlaanderen Brasschaat up to date blijft. Verder stuur je ook de externe poets en externe groenonderhoud aan. Ten slotte fungeer je ook als aanspreekpunt welzijn.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20195",
+      "internal": false,
+      "validThroughDate": "1773964800",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Communicatie",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20195",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Educator NADO"
+      },
+      "displayTitle": "Educator NADO",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij meebouwen aan een dopingvrij en ethisch gedragen sportlandschap in Vlaanderen? NADO Vlaanderen zoekt een gedreven Educator &amp; Communicator die sporters, coaches, federaties en het brede publiek inspireert en ondersteunt. In deze rol ontwikkel je het educatieplan volgens de WADA‑richtlijnen en volg je de uitvoering ervan nauwgezet op. Je werkt intensief samen met Vlaamse en Belgische sportpartners en ondersteunt Vlaamse federaties bij hun eigen educatiestrategieën.<br><br>Je creëert tools, opleidingen en online leermateriaal voor diverse doelgroepen, met bijzondere aandacht voor elitesporters. Daarnaast bouw je een netwerk uit van kwaliteitsvolle educatoren en onderhoud je internationale contacten binnen de sport ethische wereld. Als communicatiespecialist zet je een krachtige preventieve boodschap in de markt, beheer je de websitecontent en versterk je de aanwezigheid op sociale media. Je organiseert en ondersteunt antidopingevents en jaagt nieuwe kansen na om het verhaal van NADO Vlaanderen te vertellen.</div><div>Je bent het eerste aanspreekpunt voor Vlaamse sportfederaties en andere stakeholders en neemt ook de rol van klachtenmanager op je, waarbij je occasionele klachten opvolgt met professionaliteit en discretie. Tot slot werk je vlot met moderne digitale tools en verdiep je je snel in de specifieke IT‑toepassingen van NADO Vlaanderen.</div><div>Klaar om een betekenisvolle impact te maken op de sportwereld? Solliciteer en word het gezicht van preventie, educatie en communicatie voor een dopingvrij Vlaanderen.</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij meebouwen aan een dopingvrij en ethisch gedragen sportlandschap in Vlaanderen? NADO Vlaanderen zoekt een gedreven Educator &amp; Communicator die sporters, coaches, federaties en het brede publiek inspireert en ondersteunt. In deze rol ontwikkel je het educatieplan volgens de WADA‑richtlijnen en volg je de uitvoering ervan nauwgezet op. Je werkt intensief samen met Vlaamse en Belgische sportpartners en ondersteunt Vlaamse federaties bij hun eigen educatiestrategieën.<br><br>Je creëert tools, opleidingen en online leermateriaal voor diverse doelgroepen, met bijzondere aandacht voor elitesporters. Daarnaast bouw je een netwerk uit van kwaliteitsvolle educatoren en onderhoud je internationale contacten binnen de sport ethische wereld. Als communicatiespecialist zet je een krachtige preventieve boodschap in de markt, beheer je de websitecontent en versterk je de aanwezigheid op sociale media. Je organiseert en ondersteunt antidopingevents en jaagt nieuwe kansen na om het verhaal van NADO Vlaanderen te vertellen.</div><div>Je bent het eerste aanspreekpunt voor Vlaamse sportfederaties en andere stakeholders en neemt ook de rol van klachtenmanager op je, waarbij je occasionele klachten opvolgt met professionaliteit en discretie. Tot slot werk je vlot met moderne digitale tools en verdiep je je snel in de specifieke IT‑toepassingen van NADO Vlaanderen.</div><div>Klaar om een betekenisvolle impact te maken op de sportwereld? Solliciteer en word het gezicht van preventie, educatie en communicatie voor een dopingvrij Vlaanderen.</div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20124",
+      "internal": false,
+      "validThroughDate": "1773792000",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20124",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Kwaliteitsverantwoordelijke"
+      },
+      "displayTitle": "Kwaliteitsverantwoordelijke",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Bouw jij mee aan betrouwbare milieudata en een gezonde leefomgeving?</strong><br>De kwaliteitsverantwoordelijke staat mee aan de basis van alle betrouwbare luchtkwaliteitsdata in Vlaanderen. Die data bepalen of Vlaanderen voldoet aan Europese luchtkwaliteitsnormen, ondersteunen vergunningen en milieuhandhaving, en vormen de basis voor beleidsbeslissingen op lokaal en Vlaams niveau. Ze beschermen de gezondheid van burgers en dragen bij aan een klimaatbestendige leefomgeving. Jouw werk maakt een aantoonbaar verschil.</p><p><strong>Waarom deze functie jou écht iets oplevert</strong><br>Je wordt een van de belangrijkste schakels in de kwaliteitszorg van de Vlaamse luchtmetingen. Je werkt in een geëngageerd en divers team dat mee instaat voor kwaliteitsvolle luchtkwaliteitsmetingen. Expertise, betrokkenheid en collegialiteit staan centraal. Je krijgt een autonome, inhoudelijke rol waarin je verantwoordelijkheid neemt, initiatief toont en mee richting geeft aan het kwaliteitszorgsysteem van de VMM.<br><br>Je draagt bij aan de missie van de VMM: gezonde lucht voor iedereen. En je ondersteunt de visie: op basis van accurate data en gerichte kennis zoeken we mee naar innovatieve, efficiënte en duurzame oplossingen om de leefomgeving in Vlaanderen te verbeteren. Dit is een functie die zowel professioneel als persoonlijk voldoening geeft.</p><p><strong>Wat doe je als kwaliteitsverantwoordelijke bij de VMM?</strong></p><ul><li>Je bouwt, onderhoudt en verbetert het kwaliteitszorgsysteem: je actualiseert procedures, het kwaliteitshandboek, het risicoregister, de directiebeoordeling en de actiepunten. Je stemt kwaliteitsdocumenten af met collega’s van de teams luchtkwaliteit en het labo Gent en bewaakt de samenhang binnen het volledige systeem.</li><li>Je brengt risico’s, processen en verbeterkansen scherp in beeld: je analyseert documentatie, werkinstructies en datastromen, beoordeelt risico’s en detecteert optimalisatiemogelijkheden. Je vertaalt bevindingen naar concrete, haalbare verbeteracties die de efficiëntie, uniformiteit en betrouwbaarheid van de luchtmetingen versterken.</li><li>Je versterkt de auditwerking binnen de teams Luchtkwaliteit: je organiseert interne controles en audits, bereidt BELAC-audits voor en begeleidt ze. Je volgt auditbevindingen en verbetermaatregelen nauwgezet op en zorgt dat processen en gegevens conform blijven aan de accreditatienormen. Je geeft ook opleidingen aan medewerkers zodat zij volledig vertrouwd raken met de kwaliteitsnormen en werkinstructies.&nbsp;</li><li>Je ondersteunt de betrouwbaarheid van milieudata: dankzij je basiskennis van statistiek en chemie kan je meedenken over methodevalidatie, datakwaliteit en de interpretatie van analyses rond lucht- en waterkwaliteit. Je werkt nauw samen met meetnetverantwoordelijken, terreinmedewerkers, technici en valideurs.</li></ul><p><strong>De verantwoordelijkheden en kansen die je krijgt</strong><br>Je bent een sleutelfiguur in het kwaliteitszorgsysteem van de luchtkwaliteitsmetingen en essentieel voor het behoud van de BELAC-accreditatie ISO 17025. Je werkt samen met gedreven collega’s uit de meetnetwerking, laboactiviteiten, validaties en kwaliteitszorg. Daarnaast werk je nauw samen met de kwaliteitsverantwoordelijke van de watermeetnetten en het labo Gent, waardoor je een rol speelt in het toekomstgericht versterken van het kwaliteitszorgsysteem van de hele VMM.<br><br>Je krijgt ruimte om processen te optimaliseren, procedures te verbeteren en kwaliteitsborging naar een hoger niveau te tillen. Je werkt in een omgeving die volop in ontwikkeling is en waar jouw bijdrage zichtbaar en gewaardeerd is.<br>Enkele projecten waarin jouw bijdrage meteen gewaardeerd wordt:</p><ul><li>De BELAC-accreditatie ISO 17025 voor luchtkwaliteitsmetingen, cruciaal voor internationale rapportering.</li><li>De optimalisatie van de meetnetwerking, waarbij systemen, datastromen en controles continu worden geëvalueerd en verbeterd.</li></ul><p>Je komt dus terecht in een organisatie die vooruitkijkt, vernieuwt en investeert in kwaliteit.</p><p><strong>Wie past in dit team?</strong><br>Je komt terecht in een team van zeven collega’s, elk met een eigen rol, waar samenwerking en ondersteuning centraal staan. Je werkt graag samen, maar kan ook zelfstandig en proactief aan de slag gaan. Je bent punctueel, zorgvuldig en sterk in documenteren en archiveren. Je durft opkomen voor kwaliteitsstandaarden, ook onder tijdsdruk of in het kader van accreditatie. Je stemt vlot af met leidinggevenden en collega’s, en je kan schakelen tussen verschillende profielen: meetnetverantwoordelijken, technici, terreinmedewerkers, valideurs, auditors en leveranciers van technisch materiaal.<br>Je hebt de durf en het overzicht om anderen aan te spreken op het tijdig aanleveren van informatie. Je kan bestaande procedures kritisch bekijken en verbeteren. Je beheert je agenda en planning efficiënt, werkt gestructureerd en voelt je comfortabel met digitale tools. Repetitieve taken schrikken je niet af, omdat je weet dat ze essentieel zijn voor kwaliteitsborging.<br><br><strong>Interesse gewekt?&nbsp;</strong><br>Ben jij iemand die graag scherp kijkt naar hoe processen écht lopen, die energie krijgt van structuur en duidelijkheid en die organisaties helpt groeien in kwaliteit? Dan is de rol van Kwaliteitsverantwoordelijke binnen de Kern Lucht en het team Datatransmissie en Processen jou op het lijf geschreven.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Bouw jij mee aan betrouwbare milieudata en een gezonde leefomgeving?</strong><br>De kwaliteitsverantwoordelijke staat mee aan de basis van alle betrouwbare luchtkwaliteitsdata in Vlaanderen. Die data bepalen of Vlaanderen voldoet aan Europese luchtkwaliteitsnormen, ondersteunen vergunningen en milieuhandhaving, en vormen de basis voor beleidsbeslissingen op lokaal en Vlaams niveau. Ze beschermen de gezondheid van burgers en dragen bij aan een klimaatbestendige leefomgeving. Jouw werk maakt een aantoonbaar verschil.</p><p><strong>Waarom deze functie jou écht iets oplevert</strong><br>Je wordt een van de belangrijkste schakels in de kwaliteitszorg van de Vlaamse luchtmetingen. Je werkt in een geëngageerd en divers team dat mee instaat voor kwaliteitsvolle luchtkwaliteitsmetingen. Expertise, betrokkenheid en collegialiteit staan centraal. Je krijgt een autonome, inhoudelijke rol waarin je verantwoordelijkheid neemt, initiatief toont en mee richting geeft aan het kwaliteitszorgsysteem van de VMM.<br><br>Je draagt bij aan de missie van de VMM: gezonde lucht voor iedereen. En je ondersteunt de visie: op basis van accurate data en gerichte kennis zoeken we mee naar innovatieve, efficiënte en duurzame oplossingen om de leefomgeving in Vlaanderen te verbeteren. Dit is een functie die zowel professioneel als persoonlijk voldoening geeft.</p><p><strong>Wat doe je als kwaliteitsverantwoordelijke bij de VMM?</strong></p><ul><li>Je bouwt, onderhoudt en verbetert het kwaliteitszorgsysteem: je actualiseert procedures, het kwaliteitshandboek, het risicoregister, de directiebeoordeling en de actiepunten. Je stemt kwaliteitsdocumenten af met collega’s van de teams luchtkwaliteit en het labo Gent en bewaakt de samenhang binnen het volledige systeem.</li><li>Je brengt risico’s, processen en verbeterkansen scherp in beeld: je analyseert documentatie, werkinstructies en datastromen, beoordeelt risico’s en detecteert optimalisatiemogelijkheden. Je vertaalt bevindingen naar concrete, haalbare verbeteracties die de efficiëntie, uniformiteit en betrouwbaarheid van de luchtmetingen versterken.</li><li>Je versterkt de auditwerking binnen de teams Luchtkwaliteit: je organiseert interne controles en audits, bereidt BELAC-audits voor en begeleidt ze. Je volgt auditbevindingen en verbetermaatregelen nauwgezet op en zorgt dat processen en gegevens conform blijven aan de accreditatienormen. Je geeft ook opleidingen aan medewerkers zodat zij volledig vertrouwd raken met de kwaliteitsnormen en werkinstructies.&nbsp;</li><li>Je ondersteunt de betrouwbaarheid van milieudata: dankzij je basiskennis van statistiek en chemie kan je meedenken over methodevalidatie, datakwaliteit en de interpretatie van analyses rond lucht- en waterkwaliteit. Je werkt nauw samen met meetnetverantwoordelijken, terreinmedewerkers, technici en valideurs.</li></ul><p><strong>De verantwoordelijkheden en kansen die je krijgt</strong><br>Je bent een sleutelfiguur in het kwaliteitszorgsysteem van de luchtkwaliteitsmetingen en essentieel voor het behoud van de BELAC-accreditatie ISO 17025. Je werkt samen met gedreven collega’s uit de meetnetwerking, laboactiviteiten, validaties en kwaliteitszorg. Daarnaast werk je nauw samen met de kwaliteitsverantwoordelijke van de watermeetnetten en het labo Gent, waardoor je een rol speelt in het toekomstgericht versterken van het kwaliteitszorgsysteem van de hele VMM.<br><br>Je krijgt ruimte om processen te optimaliseren, procedures te verbeteren en kwaliteitsborging naar een hoger niveau te tillen. Je werkt in een omgeving die volop in ontwikkeling is en waar jouw bijdrage zichtbaar en gewaardeerd is.<br>Enkele projecten waarin jouw bijdrage meteen gewaardeerd wordt:</p><ul><li>De BELAC-accreditatie ISO 17025 voor luchtkwaliteitsmetingen, cruciaal voor internationale rapportering.</li><li>De optimalisatie van de meetnetwerking, waarbij systemen, datastromen en controles continu worden geëvalueerd en verbeterd.</li></ul><p>Je komt dus terecht in een organisatie die vooruitkijkt, vernieuwt en investeert in kwaliteit.</p><p><strong>Wie past in dit team?</strong><br>Je komt terecht in een team van zeven collega’s, elk met een eigen rol, waar samenwerking en ondersteuning centraal staan. Je werkt graag samen, maar kan ook zelfstandig en proactief aan de slag gaan. Je bent punctueel, zorgvuldig en sterk in documenteren en archiveren. Je durft opkomen voor kwaliteitsstandaarden, ook onder tijdsdruk of in het kader van accreditatie. Je stemt vlot af met leidinggevenden en collega’s, en je kan schakelen tussen verschillende profielen: meetnetverantwoordelijken, technici, terreinmedewerkers, valideurs, auditors en leveranciers van technisch materiaal.<br>Je hebt de durf en het overzicht om anderen aan te spreken op het tijdig aanleveren van informatie. Je kan bestaande procedures kritisch bekijken en verbeteren. Je beheert je agenda en planning efficiënt, werkt gestructureerd en voelt je comfortabel met digitale tools. Repetitieve taken schrikken je niet af, omdat je weet dat ze essentieel zijn voor kwaliteitsborging.<br><br><strong>Interesse gewekt?&nbsp;</strong><br>Ben jij iemand die graag scherp kijkt naar hoe processen écht lopen, die energie krijgt van structuur en duidelijkheid en die organisaties helpt groeien in kwaliteit? Dan is de rol van Kwaliteitsverantwoordelijke binnen de Kern Lucht en het team Datatransmissie en Processen jou op het lijf geschreven.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20072",
+      "internal": true,
+      "validThroughDate": "1773964800",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20072",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Schipper Kust"
+      },
+      "displayTitle": "Schipper Kust",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als schipper bij DAB VLOOT verzorg je het vervoer te water en bezorg je correcte informatie aan het scheepvaartverkeer en aanverwante activiteiten. Je stuurt de bemanning van het schip aan, organiseert en superviseert hun dagelijkse werkzaamheden in functie van het verzorgen van een efficiënt vervoer te water. Zo draag je bij tot een veilig en vlot verloop van het scheepvaartverkeer.<br> <br> </span><span><span>Enkele concrete taken zijn:</span></span></p><ul><li><span><span>&nbsp;</span></span><span><span>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</span></span></li><li><span><span>&nbsp;</span></span>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p><span><span> De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br> <br> Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu!</span></span></p>",
+        "htmlEncoded": "<p><span>Als schipper bij DAB VLOOT verzorg je het vervoer te water en bezorg je correcte informatie aan het scheepvaartverkeer en aanverwante activiteiten. Je stuurt de bemanning van het schip aan, organiseert en superviseert hun dagelijkse werkzaamheden in functie van het verzorgen van een efficiënt vervoer te water. Zo draag je bij tot een veilig en vlot verloop van het scheepvaartverkeer.<br> <br> </span><span><span>Enkele concrete taken zijn:</span></span></p><ul><li><span><span>&nbsp;</span></span><span><span>Je neemt dagelijks kennis van de uit te voeren opdrachten om de prioritaire werkzaamheden te kennen;</span></span></li><li><span><span>&nbsp;</span></span>Je voert vaaropdrachten uit met het schip om een veilig transport van jouw klant over het water en vlot scheepvaartverkeer te verzekeren;</li><li>Je ziet de veiligheidsvoorzieningen aan boord en van jouw bemanning na zodat je altijd beschikt over een veilig, goed onderhouden en goed functionerend schip;</li><li>Je houdt een beperkte administratie bij en brengt verslag uit over de eigen werkzaamheden om zo de dienstleiding in staat te stellen het resultaat te beoordelen en indien nodig bij te sturen;</li><li>Je springt in bij werkoverlast en vervangt afwezige collega’s om de continuïteit van de dienstverlening te garanderen;</li><li>Je handelt consequent milieubewust op de werkplek en draagt zo bij aan de voorbeeldfunctie van Vloot op het gebied van milieuzorg.</li></ul><p><span><span> De scheepvaart kent geen kantooruren. Nacht- en weekendwerk maken deel uit van de job, maar worden ruimschoots gecompenseerd door een financiële vergoeding (reglementaire toelagen en vergoedingen) en/of compensatierust.<br> <br> Zin in deze niet-alledaagse en uitdagende functie? Solliciteer dan nu!</span></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19991",
+      "internal": false,
+      "validThroughDate": "1773964800",
+      "hiringOrganization": "Agentschap Landbouw en Zeevisserij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19991",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "dossierbeheerder biologische landbouw."
+      },
+      "displayTitle": "dossierbeheerder biologische landbouw.",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Heb jij interesse in de\nlandbouwsector en spreekt de biologische landbouw je in het bijzonder aan? Werk\nje nauwkeurig en draag je graag bij aan een duurzaam beleid? Dan is deze\nfunctie iets voor jou.</p><p>Als dossierbeheerder\nbiologische landbouw bied je ondersteuning bij de uitvoering van\n(subsidie)dossiers binnen het Strategisch Plan BIO, in een omgevingskader dat\ngewijzigd werd door het PAS (Programmatische\nAanpak Stikstof). Daarnaast\nbehandel je dossiers met betrekking tot geïmporteerde bioproducten. Je staat\nmee in voor een correcte, consequente en zorgvuldige toepassing van de\nregelgeving:</p><ul><li>Je analyseert dossiers en vraagt\n     bijkomende informatie op wanneer nodig.</li><li>Je doet vaststellingen en onderzoekt,\n     soms ook ter plaatse, of aanvragen voldoen aan de voorwaarden zoals\n     vastgelegd in de regelgeving.</li><li>Op basis van je analyse stel je een\n     (voorstel tot) beslissing op over het dossier.</li><li>Je onderhoudt regelmatig contact met\n     klanten en collega’s die betrokken zijn bij de dossierbehandeling.</li><li>Je waakt over een uniforme en\n     consistente behandeling van dossiers.</li><li>Vanuit je praktijkervaring lever je\n     input voor optimalisaties in de dossierbehandeling en werkprocessen.</li></ul><p>Je werk ondersteunt een duurzame landbouwsector en zorgt voor vertrouwen en transparantie in de biologische keten. Met jouw inzet en\nnauwkeurigheid draag je actief bij aan de missie van onze organisatie: <strong>“Vooruit voor (h)eerlijk voedsel in Vlaanderen.”</strong>&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Heb jij interesse in de\nlandbouwsector en spreekt de biologische landbouw je in het bijzonder aan? Werk\nje nauwkeurig en draag je graag bij aan een duurzaam beleid? Dan is deze\nfunctie iets voor jou.</p><p>Als dossierbeheerder\nbiologische landbouw bied je ondersteuning bij de uitvoering van\n(subsidie)dossiers binnen het Strategisch Plan BIO, in een omgevingskader dat\ngewijzigd werd door het PAS (Programmatische\nAanpak Stikstof). Daarnaast\nbehandel je dossiers met betrekking tot geïmporteerde bioproducten. Je staat\nmee in voor een correcte, consequente en zorgvuldige toepassing van de\nregelgeving:</p><ul><li>Je analyseert dossiers en vraagt\n     bijkomende informatie op wanneer nodig.</li><li>Je doet vaststellingen en onderzoekt,\n     soms ook ter plaatse, of aanvragen voldoen aan de voorwaarden zoals\n     vastgelegd in de regelgeving.</li><li>Op basis van je analyse stel je een\n     (voorstel tot) beslissing op over het dossier.</li><li>Je onderhoudt regelmatig contact met\n     klanten en collega’s die betrokken zijn bij de dossierbehandeling.</li><li>Je waakt over een uniforme en\n     consistente behandeling van dossiers.</li><li>Vanuit je praktijkervaring lever je\n     input voor optimalisaties in de dossierbehandeling en werkprocessen.</li></ul><p>Je werk ondersteunt een duurzame landbouwsector en zorgt voor vertrouwen en transparantie in de biologische keten. Met jouw inzet en\nnauwkeurigheid draag je actief bij aan de missie van onze organisatie: <strong>“Vooruit voor (h)eerlijk voedsel in Vlaanderen.”</strong>&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19983",
+      "internal": false,
+      "validThroughDate": "1774224000",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19983",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Technisch Assistent"
+      },
+      "displayTitle": "Technisch Assistent",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span><strong>Heb je oog voor detail en een passie voor het waarborgen van een veilige en comfortabele omgeving? Dan is deze vacature als technisch assistent bij VLOOT in Vlissingen (Nederland) perfect voor jou!</strong><br></span></p><p><span>VLOOT, een afdeling van het Agentschap Maritieme Dienstverlening en Kust (AMDK), zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Ze staan mee in voor een veilig en vlot scheepvaartverkeer op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.<br></span><span>Als technisch assistent te Vlissingen speel je een essentiële rol in het ondersteunen van deze activiteiten door het bieden van optimale faciliteiten en een veilige omgeving voor de loodsen in het Loodswezen (gebouw) in Vlissingen.&nbsp;</span><span>Je bent verantwoordelijk voor een breed scala aan taken, waaronder:</span></p><ul><li><span>Verlenen van toegang tot het gebouw aan geautoriseerd personeel en bezoekers.</span></li><li><span>&nbsp;</span><span>Behandelen van vragen en klachten van loodsen met professionaliteit en vriendelijkheid.</span></li><li><span>&nbsp;</span><span>Actief opvolgen van de veiligheid in het gebouw door o.a. het beheren van alarmen en het adequaat reageren in geval van noodsituaties.</span></li><li><span>&nbsp;</span><span>Controleren en onderhouden van diverse faciliteiten, waaronder toegangsdeuren, verlichting, verwarming en andere voorzieningen om een comfortabele werkomgeving te garanderen.</span></li><li><span>&nbsp;</span><span>Verzorgen van het onderhoud van de kamers, inclusief het opmaken van bedden en andere taken om een nette en gastvrije sfeer te behouden.</span></li><li><span>&nbsp;</span><span>Beheren van stock om ervoor te zorgen dat essentiële voorraden altijd beschikbaar zijn.</span></li><li><span>&nbsp;</span><span>Uitvoeren van praktische taken zoals schilderwerken.<br></span></li></ul><p><span>Je werkt in volcontinudienst, in shiften van 12u.&nbsp;&nbsp;Er zijn weken waarbij je stand-by bent en dan voldoende snel ter plaatse moet zijn. <br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br></span></p>",
+        "htmlEncoded": "<p><span><strong>Heb je oog voor detail en een passie voor het waarborgen van een veilige en comfortabele omgeving? Dan is deze vacature als technisch assistent bij VLOOT in Vlissingen (Nederland) perfect voor jou!</strong><br></span></p><p><span>VLOOT, een afdeling van het Agentschap Maritieme Dienstverlening en Kust (AMDK), zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Ze staan mee in voor een veilig en vlot scheepvaartverkeer op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.<br></span><span>Als technisch assistent te Vlissingen speel je een essentiële rol in het ondersteunen van deze activiteiten door het bieden van optimale faciliteiten en een veilige omgeving voor de loodsen in het Loodswezen (gebouw) in Vlissingen.&nbsp;</span><span>Je bent verantwoordelijk voor een breed scala aan taken, waaronder:</span></p><ul><li><span>Verlenen van toegang tot het gebouw aan geautoriseerd personeel en bezoekers.</span></li><li><span>&nbsp;</span><span>Behandelen van vragen en klachten van loodsen met professionaliteit en vriendelijkheid.</span></li><li><span>&nbsp;</span><span>Actief opvolgen van de veiligheid in het gebouw door o.a. het beheren van alarmen en het adequaat reageren in geval van noodsituaties.</span></li><li><span>&nbsp;</span><span>Controleren en onderhouden van diverse faciliteiten, waaronder toegangsdeuren, verlichting, verwarming en andere voorzieningen om een comfortabele werkomgeving te garanderen.</span></li><li><span>&nbsp;</span><span>Verzorgen van het onderhoud van de kamers, inclusief het opmaken van bedden en andere taken om een nette en gastvrije sfeer te behouden.</span></li><li><span>&nbsp;</span><span>Beheren van stock om ervoor te zorgen dat essentiële voorraden altijd beschikbaar zijn.</span></li><li><span>&nbsp;</span><span>Uitvoeren van praktische taken zoals schilderwerken.<br></span></li></ul><p><span>Je werkt in volcontinudienst, in shiften van 12u.&nbsp;&nbsp;Er zijn weken waarbij je stand-by bent en dan voldoende snel ter plaatse moet zijn. <br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br></span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-19971",
+      "internal": false,
+      "validThroughDate": "1774828800",
+      "hiringOrganization": "GO! onderwijs van de Vlaamse Gemeenschap",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-19971",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Infrastructuur"
+      },
+      "displayTitle": "Afdelingshoofd Infrastructuur",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij meebouwen aan inspirerende en toekomstgerichte leeromgevingen binnen het Gemeenschapsonderwijs?</span></p> <p><span>Als afdelingshoofd Infrastructuur geef je richting aan een dynamisch patrimonium van maar liefst 3 miljoen m² en coach je een 80-tal medewerkers in vier sterke teams. Je combineert leiderschap met (bouw)technische expertise en werkt in een boeiende overheidscontext waar innovatie, ondernemerschap en samenwerking centraal staan. Met een open en verbindende stijl inspireer je je teams, stimuleer je eigenaarschap en zorg je voor een efficiënte, participatieve werking volgens de principes van het nieuwe werken. Zo maak jij elke dag mee het verschil voor veilige, gezonde en comfortabele schoolgebouwen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<p><span>Wil jij meebouwen aan inspirerende en toekomstgerichte leeromgevingen binnen het Gemeenschapsonderwijs?</span></p> <p><span>Als afdelingshoofd Infrastructuur geef je richting aan een dynamisch patrimonium van maar liefst 3 miljoen m² en coach je een 80-tal medewerkers in vier sterke teams. Je combineert leiderschap met (bouw)technische expertise en werkt in een boeiende overheidscontext waar innovatie, ondernemerschap en samenwerking centraal staan. Met een open en verbindende stijl inspireer je je teams, stimuleer je eigenaarschap en zorg je voor een efficiënte, participatieve werking volgens de principes van het nieuwe werken. Zo maak jij elke dag mee het verschil voor veilige, gezonde en comfortabele schoolgebouwen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20264",
       "internal": true,
@@ -2451,42 +2736,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-73074333",
-      "internal": false,
-      "validThroughDate": "1772323200",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73074333",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "casemanager"
-      },
-      "displayTitle": "casemanager",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>In het kader van de vermaatschappelijking van de Geestelijke Gezondheidszorg werd in 2010 het Netwerk GGZ Kempen opgericht. Dit netwerk is actief in het ganse arrondissement Turnhout. Voor het Langdurig Zorgteam (LZ) werft het Openbaar Psychiatrisch Zorgcentrum Geel, als partner binnen het Netwerk GGZ-Kempen, hiervoor aan:</span></p> \n<p><span> </span></p> \n<p><b><span>Casemanagers – bepaalde duur (1 jaar, 80-100%) – </span></b></p> \n<p><b><span>regio Turnhout-Herentals-Geel-Mol</span></b></p> \n<p><b><span> </span></b></p> \n<p><b><span>Wij hebben deze job voor jou</span></b></p> \n<p><span> </span></p> \n<p><span>· </span><span>Het Team Langdurige Zorg is een \n<b>multidisciplinair mobiel team</b> dat zich richt tot volwassenen en ouderen die door een \n<b>ernstige en langdurige psychische kwetsbaarheid</b>, ondersteuning nodig hebben op verschillende levensdomeinen. </span></p> \n<p><span>· </span><span>Cliënten krijgen 2 begeleiders (casemanagers) toegewezen die de zorg samen met de cliënt in duo opnemen.</span></p> \n<p><span>· </span><span>Het LZ-team begeleidt mensen in \n<b>hun eigen leefomgeving</b> die na hun ontslag uit het ziekenhuis of soms parallel met een ambulante behandeling steun nodig hebben om hun eigen leven in handen te nemen of te houden. </span></p> \n<p><span>· </span><span>Het team werkt intensief samen met andere zorgpartners binnen en buiten GGZ (huisartsen, thuiszorgdiensten en mantelzorgers). Cliënten en hun naasten worden beschouwd als partners in de zorg. </span></p> \n<p><span>· </span><span>Bij het LZ-team delen we de overtuiging dat complexe problemen een gedeelde aanpak vereisen. Expertisedeling en deelname aan overlegmomenten zijn een onderdeel van het takenpakket.</span></p>",
-        "htmlEncoded": "<p><span>In het kader van de vermaatschappelijking van de Geestelijke Gezondheidszorg werd in 2010 het Netwerk GGZ Kempen opgericht. Dit netwerk is actief in het ganse arrondissement Turnhout. Voor het Langdurig Zorgteam (LZ) werft het Openbaar Psychiatrisch Zorgcentrum Geel, als partner binnen het Netwerk GGZ-Kempen, hiervoor aan:</span></p> \n<p><span> </span></p> \n<p><b><span>Casemanagers – bepaalde duur (1 jaar, 80-100%) – </span></b></p> \n<p><b><span>regio Turnhout-Herentals-Geel-Mol</span></b></p> \n<p><b><span> </span></b></p> \n<p><b><span>Wij hebben deze job voor jou</span></b></p> \n<p><span> </span></p> \n<p><span>· </span><span>Het Team Langdurige Zorg is een \n<b>multidisciplinair mobiel team</b> dat zich richt tot volwassenen en ouderen die door een \n<b>ernstige en langdurige psychische kwetsbaarheid</b>, ondersteuning nodig hebben op verschillende levensdomeinen. </span></p> \n<p><span>· </span><span>Cliënten krijgen 2 begeleiders (casemanagers) toegewezen die de zorg samen met de cliënt in duo opnemen.</span></p> \n<p><span>· </span><span>Het LZ-team begeleidt mensen in \n<b>hun eigen leefomgeving</b> die na hun ontslag uit het ziekenhuis of soms parallel met een ambulante behandeling steun nodig hebben om hun eigen leven in handen te nemen of te houden. </span></p> \n<p><span>· </span><span>Het team werkt intensief samen met andere zorgpartners binnen en buiten GGZ (huisartsen, thuiszorgdiensten en mantelzorgers). Cliënten en hun naasten worden beschouwd als partners in de zorg. </span></p> \n<p><span>· </span><span>Bij het LZ-team delen we de overtuiging dat complexe problemen een gedeelde aanpak vereisen. Expertisedeling en deelname aan overlegmomenten zijn een onderdeel van het takenpakket.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20236",
       "internal": false,
       "validThroughDate": "1773619200",
@@ -3536,42 +3785,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19941",
-      "internal": false,
-      "validThroughDate": "1772323200",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Horeca en toerisme",
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19941",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Keukenchef voor de Landcommanderij Alden Biesen"
-      },
-      "displayTitle": "Keukenchef voor de Landcommanderij Alden Biesen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Het Departement Cultuur, Jeugd en Media is op zoek naar een keukenchef voor de Landcommanderij Alden Biesen. <strong>Ben jij een enthousiaste en veelzijdige keukenchef die graag de handen uit de mouwen steekt?</strong> Krijg je energie van koken in een unieke historische omgeving en zoek je een <strong>stabiele functie</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Landcommanderij Alden Biesen is jaarlijks gastvrouw voor meer dan 800 activiteiten, gaande van kleinschalige vergaderingen tot meerdaagse congressen, festivals en internationale evenementen. Als keukenchef sta je mee in voor de <strong>culinaire ondersteuning</strong> van deze activiteiten en draag je bij aan een <strong>warme en kwaliteitsvolle beleving </strong>voor onze gasten. Samen met twee collega-keukenchefs verzorg je de dagelijkse keukenwerking voor vergaderingen, congressen en groepsverblijven van 5 tot 100 personen.&nbsp;<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je staat in voor de volledige keukenwerking van A tot Z: van bestellingen en mise-en-place tot bereiding, afwas en onderhoud van de keuken.</li><li>Je bereidt ontbijt, lunch en avondmaaltijden voor groepen en houdt rekening met dieetwensen en allergieën.</li><li>Je stelt menu’s op in functie van de activiteiten, vereisten en de beschikbare middelen.</li><li>Je beheert voorraad en foodcost en waakt over een efficiënte werking.</li><li>Je past de geldende regels rond voedselveiligheid en hygiëne correct toe.</li></ul><p><strong>Je werkt voornamelijk overdag.</strong> Avond-, weekend- en feestdagenwerk is echter mogelijk in functie van de ingeplande activiteiten en wordt georganiseerd via een afwisselend werkrooster waarover de leidinggevende het overzicht bewaart.</p><p>Geïnteresseerd?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Het Departement Cultuur, Jeugd en Media is op zoek naar een keukenchef voor de Landcommanderij Alden Biesen. <strong>Ben jij een enthousiaste en veelzijdige keukenchef die graag de handen uit de mouwen steekt?</strong> Krijg je energie van koken in een unieke historische omgeving en zoek je een <strong>stabiele functie</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Landcommanderij Alden Biesen is jaarlijks gastvrouw voor meer dan 800 activiteiten, gaande van kleinschalige vergaderingen tot meerdaagse congressen, festivals en internationale evenementen. Als keukenchef sta je mee in voor de <strong>culinaire ondersteuning</strong> van deze activiteiten en draag je bij aan een <strong>warme en kwaliteitsvolle beleving </strong>voor onze gasten. Samen met twee collega-keukenchefs verzorg je de dagelijkse keukenwerking voor vergaderingen, congressen en groepsverblijven van 5 tot 100 personen.&nbsp;<br><br>Een greep uit je gevarieerde takenpakket:</p><ul><li>Je staat in voor de volledige keukenwerking van A tot Z: van bestellingen en mise-en-place tot bereiding, afwas en onderhoud van de keuken.</li><li>Je bereidt ontbijt, lunch en avondmaaltijden voor groepen en houdt rekening met dieetwensen en allergieën.</li><li>Je stelt menu’s op in functie van de activiteiten, vereisten en de beschikbare middelen.</li><li>Je beheert voorraad en foodcost en waakt over een efficiënte werking.</li><li>Je past de geldende regels rond voedselveiligheid en hygiëne correct toe.</li></ul><p><strong>Je werkt voornamelijk overdag.</strong> Avond-, weekend- en feestdagenwerk is echter mogelijk in functie van de ingeplande activiteiten en wordt georganiseerd via een afwisselend werkrooster waarover de leidinggevende het overzicht bewaart.</p><p>Geïnteresseerd?&nbsp;Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Bilzen-Hoeselt"
           }
         }
       ]
