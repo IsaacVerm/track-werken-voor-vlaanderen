@@ -1,10 +1,10 @@
 {
-  "totalItems": 137,
+  "totalItems": 136,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 136,
+  "lastItemOfPage": 135,
   "items": [
     {
       "link": "/Job/cornerstone-20259",
@@ -2218,42 +2218,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73152705",
-      "internal": false,
-      "validThroughDate": "1773014400",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Gezondheid",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73152705",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "verpleegkundige Outreach"
-      },
-      "displayTitle": "verpleegkundige Outreach",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Waar ga je aan de slag?</span></b></p> \n<p><b><span> </span></b></p> \n<p><span>Het Outreach-team biedt gespecialiseerde geestelijke gezondheidszorg aan jongeren tijdens hun verblijf in de Gemeenschapsinstelling van Mol. </span></p> \n<p><span> </span></p> \n<p><span>Je maakt deel uit van een multidisciplinair team en staat in voor:</span></p> \n<ul> \n<li><span>individuele ondersteunende gesprekken met jongeren</span></li> \n<li><span>opvolging van psychofarmaca</span></li> \n<li><span>consultaties samen met de kinder- en jeugdpsychiater</span></li> \n<li><span>ondersteuning en advies aan de leefgroepen</span></li> \n<li><span>actieve deelname multidisciplinair overleg. </span></li> </ul> \n<p><span> </span></p> \n<p><span>Je werkt individueel met jongeren en neemt niet deel aan de leefgroepwerking. </span></p>",
-        "htmlEncoded": "<p><b><span>Waar ga je aan de slag?</span></b></p> \n<p><b><span> </span></b></p> \n<p><span>Het Outreach-team biedt gespecialiseerde geestelijke gezondheidszorg aan jongeren tijdens hun verblijf in de Gemeenschapsinstelling van Mol. </span></p> \n<p><span> </span></p> \n<p><span>Je maakt deel uit van een multidisciplinair team en staat in voor:</span></p> \n<ul> \n<li><span>individuele ondersteunende gesprekken met jongeren</span></li> \n<li><span>opvolging van psychofarmaca</span></li> \n<li><span>consultaties samen met de kinder- en jeugdpsychiater</span></li> \n<li><span>ondersteuning en advies aan de leefgroepen</span></li> \n<li><span>actieve deelname multidisciplinair overleg. </span></li> </ul> \n<p><span> </span></p> \n<p><span>Je werkt individueel met jongeren en neemt niet deel aan de leefgroepwerking. </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
