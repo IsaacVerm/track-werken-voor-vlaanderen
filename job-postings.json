@@ -1,10 +1,10 @@
 {
-  "totalItems": 133,
+  "totalItems": 128,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 132,
+  "lastItemOfPage": 127,
   "items": [
     {
       "link": "/Job/cornerstone-20259",
@@ -2681,7 +2681,7 @@
       "hiringOrganization": "Agentschap Facilitair Bedrijf",
       "reservedForDisability": false,
       "openPositions": 1,
-      "domain": "Andere",
+      "domain": "Financieel",
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
@@ -2963,67 +2963,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20182",
-      "internal": true,
-      "validThroughDate": "1773100800",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20182",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepsmeter – Leidinggevend"
-      },
-      "displayTitle": "Scheepsmeter – Leidinggevend",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De\nVlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig\nnetwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van\nVlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart,\nzorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen\nvoor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in\nHasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol\nwerken ongeveer 1.350 personeelsleden van onze organisatie aan een slim,\nveelzijdig en welvarend waterwegennet. <br><br>In\ndeze functie als leidinggevend scheepsmeter word je ingeschakeld binnen de cel\nbinnenvaartbeleid en certificering, die instaat voor de certificering van de\nbinnenvaartuigen en bemanning. Je stuurt een klein team aan met oog voor\nwelzijn en organiseert geregeld overleg om de samenwerking optimaal te laten\nverlopen. Je bent het aanspreekpunt voor de leidinggevenden en externe partners\nen zorgt voor een efficiënte planning. Je zorgt voor afstemming met buitenlandse\nscheepsmetingsdiensten en neemt als leidinggevende een actieve evaluatiefunctie\nop. <br><br>Samen\nmet je team vervul je zelf de functie van scheepsmeter en verwerk je aanvragen.\nJe voert scheepsmetingen uit en je levert meetbrieven af. Dankzij jouw\ngespecialiseerde kennis behandel je samen met de collega’s de complexere\ndossiers, ben je een klankbord voor collega’s en werk je mee aan de\noptimalisatie van processen en werkinstructies. Met jouw technische expertise,\nruimtelijk inzicht, rekenvaardigheid en vlotte beheersing van Word en Excel\nwerk je nauwkeurig, communicatief en resultaatgericht.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>",
-        "htmlEncoded": "<p>De\nVlaamse Waterweg nv beheert en exploiteert de waterwegen als een krachtig\nnetwerk dat bijdraagt aan de economie, de welvaart en de leefbaarheid van\nVlaanderen. De Vlaamse Waterweg nv versterkt het vervoer via de binnenvaart,\nzorgt voor waterbeheersing en vergroot de aantrekkelijkheid van de waterwegen\nvoor recreatie, toerisme en natuurbeleving. Vanuit de maatschappelijke zetel in\nHasselt en afdelingen in Willebroek, Brussel, Antwerpen, Merelbeke en Mol\nwerken ongeveer 1.350 personeelsleden van onze organisatie aan een slim,\nveelzijdig en welvarend waterwegennet. <br><br>In\ndeze functie als leidinggevend scheepsmeter word je ingeschakeld binnen de cel\nbinnenvaartbeleid en certificering, die instaat voor de certificering van de\nbinnenvaartuigen en bemanning. Je stuurt een klein team aan met oog voor\nwelzijn en organiseert geregeld overleg om de samenwerking optimaal te laten\nverlopen. Je bent het aanspreekpunt voor de leidinggevenden en externe partners\nen zorgt voor een efficiënte planning. Je zorgt voor afstemming met buitenlandse\nscheepsmetingsdiensten en neemt als leidinggevende een actieve evaluatiefunctie\nop. <br><br>Samen\nmet je team vervul je zelf de functie van scheepsmeter en verwerk je aanvragen.\nJe voert scheepsmetingen uit en je levert meetbrieven af. Dankzij jouw\ngespecialiseerde kennis behandel je samen met de collega’s de complexere\ndossiers, ben je een klankbord voor collega’s en werk je mee aan de\noptimalisatie van processen en werkinstructies. Met jouw technische expertise,\nruimtelijk inzicht, rekenvaardigheid en vlotte beheersing van Word en Excel\nwerk je nauwkeurig, communicatief en resultaatgericht.</p><p><strong>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</strong></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Merelbeke-Melle"
-          }
-        },
-        {
-          "address": {
-            "city": "Willebroek"
-          }
-        },
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20151",
       "internal": false,
       "validThroughDate": "1773360000",
@@ -3214,42 +3153,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20340",
-      "internal": false,
-      "validThroughDate": "1773100800",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Juridisch",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20340",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Adjunct-directeur"
-      },
-      "displayTitle": "Adjunct-directeur",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Ben\njij iemand die graag verantwoordelijkheid opneemt en energie krijgt van\nsamenwerken aan een gemeenschappelijke ambitie? Dan hebben wij goed nieuws! Wij\nzoeken een gedreven professional die mee richting wil geven aan de toekomst van\nhet Vlaams Detentiecentrum.</span></p><p><span>&nbsp;</span><span>Als adjunct-directeur\n     ondersteun je de directeur van het Vlaams Detentiecentrum bij het\n     formuleren en actualiseren van de missie en visie van de organisatie.</span></p><ul><li>Je bent lid van het\n     managementteam van het Vlaams Detentiecentrum dat instaat voor de\n     uitvoering van de ‘uithandengeving’ van jonge delictplegers vanaf 16 jaar\n     in Vlaanderen.</li><li><span>Je draagt inhoudelijk bij tot\n     de strategische planning, de omzetting van de strategische doelstellingen\n     in operationele doelstellingen. Je implementeert de operationele\n     doelstellingen in de organisatie, volgt deze op, stuurt de processen bij\n     waar nodig en meet het effect ervan.</span></li><li>Je stuurt verschillende teams\n     aan, waaronder: het team van veiligheidsmedewerkers, het team onderwijs en\n     de administratieve diensten (griffie, boekhouding, secretariaat…).</li><li><span>Je rapporteert aan de directeur\n     van het Vlaams Detentiecentrum.</span></li><li><span>Je levert, vanuit je dagelijkse\n     ervaring op de werkvloer, input aan het management van de afdeling met als\n     doel bij te dragen tot een effectiever en efficiënter beleid afgestemd op\n     de noden van de klanten.</span><span><strong></strong></span></li></ul><p><span><strong>Sollicitatieprocedure</strong><br>In de eerste helft van\nmaart 2026 doen we een CV-screening. Nadien zal je vernemen of je uitgenodigd\nwordt voor een selectiegesprek. De selectiegesprekken gaan door op&nbsp;18\nen 19 maart 2026 in Brussel&nbsp;(datum onder voorbehoud). Houd dit moment\nalvast vrij in je agenda.&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Ben\njij iemand die graag verantwoordelijkheid opneemt en energie krijgt van\nsamenwerken aan een gemeenschappelijke ambitie? Dan hebben wij goed nieuws! Wij\nzoeken een gedreven professional die mee richting wil geven aan de toekomst van\nhet Vlaams Detentiecentrum.</span></p><p><span>&nbsp;</span><span>Als adjunct-directeur\n     ondersteun je de directeur van het Vlaams Detentiecentrum bij het\n     formuleren en actualiseren van de missie en visie van de organisatie.</span></p><ul><li>Je bent lid van het\n     managementteam van het Vlaams Detentiecentrum dat instaat voor de\n     uitvoering van de ‘uithandengeving’ van jonge delictplegers vanaf 16 jaar\n     in Vlaanderen.</li><li><span>Je draagt inhoudelijk bij tot\n     de strategische planning, de omzetting van de strategische doelstellingen\n     in operationele doelstellingen. Je implementeert de operationele\n     doelstellingen in de organisatie, volgt deze op, stuurt de processen bij\n     waar nodig en meet het effect ervan.</span></li><li>Je stuurt verschillende teams\n     aan, waaronder: het team van veiligheidsmedewerkers, het team onderwijs en\n     de administratieve diensten (griffie, boekhouding, secretariaat…).</li><li><span>Je rapporteert aan de directeur\n     van het Vlaams Detentiecentrum.</span></li><li><span>Je levert, vanuit je dagelijkse\n     ervaring op de werkvloer, input aan het management van de afdeling met als\n     doel bij te dragen tot een effectiever en efficiënter beleid afgestemd op\n     de noden van de klanten.</span><span><strong></strong></span></li></ul><p><span><strong>Sollicitatieprocedure</strong><br>In de eerste helft van\nmaart 2026 doen we een CV-screening. Nadien zal je vernemen of je uitgenodigd\nwordt voor een selectiegesprek. De selectiegesprekken gaan door op&nbsp;18\nen 19 maart 2026 in Brussel&nbsp;(datum onder voorbehoud). Houd dit moment\nalvast vrij in je agenda.&nbsp;</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Beveren-Kruibeke-Zwijndrecht"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20297",
       "internal": false,
       "validThroughDate": "1773273600",
@@ -3276,42 +3179,6 @@
       "description": {
         "raw": "<p>Opgroeien zoekt jobstudenten voor&nbsp;vakantiewerk verdeeld over de maanden juli, augustus en september 2026&nbsp;bij verschillende afdelingen.&nbsp;<br>We voorzien jobs bij:&nbsp;</p><ul><li>Teams Jeugdzorg en Bescherming: diverse plaatsen in Vlaanderen en Brussel</li><li>Team Facility: hoofdkantoor in Brussel</li><li>Team HR: hoofdkantoor in Brussel</li></ul><p>Meer info rond de verschillende functies en de jobinhoud kan je terugvinden in het selectiereglement als bijlage.</p>",
         "htmlEncoded": "<p>Opgroeien zoekt jobstudenten voor&nbsp;vakantiewerk verdeeld over de maanden juli, augustus en september 2026&nbsp;bij verschillende afdelingen.&nbsp;<br>We voorzien jobs bij:&nbsp;</p><ul><li>Teams Jeugdzorg en Bescherming: diverse plaatsen in Vlaanderen en Brussel</li><li>Team Facility: hoofdkantoor in Brussel</li><li>Team HR: hoofdkantoor in Brussel</li></ul><p>Meer info rond de verschillende functies en de jobinhoud kan je terugvinden in het selectiereglement als bijlage.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20150",
-      "internal": true,
-      "validThroughDate": "1773100800",
-      "hiringOrganization": "Vlaamse Regulator voor de Media",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20150",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Kantoorcoördinator"
-      },
-      "displayTitle": "Kantoorcoördinator",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij sterk in organisatie én heb je een uitgesproken interesse in financiën? Krijg je energie van een rol waarin je medewerkers en management ondersteunt, met een <strong>belangrijke focus op budgetopvolging en boekhoudkundige taken</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Vlaamse Regulator voor de Media (VRM) houdt toezicht op de Vlaamse mediasector en wil hét kwaliteitslabel binnen de audiovisuele sector zijn. Als kantoorcoördinator versterk je de Stafdienst en vorm je samen met je collega’s een klein maar hecht team.<br><br>Een greep uit je <strong>gevarieerde </strong>takenpakket:</p><ul><li>Je bent het centrale aanspreekpunt voor financiën en begroting, ICT, HR en facility.&nbsp;</li><li>Je neemt boekhoudkundige verwerking, budgetopvolging en werken met Orafin voor je rekening.&nbsp;</li><li>Je ondersteunt collega’s én management, en fungeert als verbinder tussen interne teams en externe dienstverleners.&nbsp;</li><li>Je coördineert ICT-, HR-, en facility-vragen en werkt daarbij samen met experten van o.a. AGO, het boekhoudkantoor en het Facilitair Bedrijf.&nbsp;</li></ul><p>Daarnaast ben je <strong>flexibel </strong>om tijdelijk bijkomende administratieve opdrachten op te nemen wanneer dat nodig is.<br><br>Zie jij jezelf als een <strong>spilfiguur </strong>die collega’s ondersteunt en zelfstandig zoekt naar haalbare, kwalitatieve oplossingen? Wil je meebouwen aan een vlot draaiende organisatie met een duidelijke maatschappelijke opdracht?</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Ben jij sterk in organisatie én heb je een uitgesproken interesse in financiën? Krijg je energie van een rol waarin je medewerkers en management ondersteunt, met een <strong>belangrijke focus op budgetopvolging en boekhoudkundige taken</strong>? Dan is deze functie misschien wel jouw volgende stap.<br><br>De Vlaamse Regulator voor de Media (VRM) houdt toezicht op de Vlaamse mediasector en wil hét kwaliteitslabel binnen de audiovisuele sector zijn. Als kantoorcoördinator versterk je de Stafdienst en vorm je samen met je collega’s een klein maar hecht team.<br><br>Een greep uit je <strong>gevarieerde </strong>takenpakket:</p><ul><li>Je bent het centrale aanspreekpunt voor financiën en begroting, ICT, HR en facility.&nbsp;</li><li>Je neemt boekhoudkundige verwerking, budgetopvolging en werken met Orafin voor je rekening.&nbsp;</li><li>Je ondersteunt collega’s én management, en fungeert als verbinder tussen interne teams en externe dienstverleners.&nbsp;</li><li>Je coördineert ICT-, HR-, en facility-vragen en werkt daarbij samen met experten van o.a. AGO, het boekhoudkantoor en het Facilitair Bedrijf.&nbsp;</li></ul><p>Daarnaast ben je <strong>flexibel </strong>om tijdelijk bijkomende administratieve opdrachten op te nemen wanneer dat nodig is.<br><br>Zie jij jezelf als een <strong>spilfiguur </strong>die collega’s ondersteunt en zelfstandig zoekt naar haalbare, kwalitatieve oplossingen? Wil je meebouwen aan een vlot draaiende organisatie met een duidelijke maatschappelijke opdracht?</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
       },
       "locations": [
         {
@@ -3384,42 +3251,6 @@
       "description": {
         "raw": "<p><span>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) staat de persoon met een handicap écht centraal. We versterken autonomie en levenskwaliteit door het aanbieden van persoonsvolgende budgetten, tegemoetkomingen voor hulpmiddelen en rechtstreeks toegankelijke hulp. </span></p> <p><span>Als afdelingshoofd van de afdeling Dienstverlening Budgethouders speel je een sleutelrol in het versterken van de autonomie en levenskwaliteit van personen met een handicap. Je staat aan het roer van een cruciale afdeling die persoonsvolgende budgetten en persoonlijke-assistentiebudgetten ter beschikking stelt en toeziet op een correcte en transparante besteding ervan. Met jouw strategische blik en mensgerichte aanpak zorg je ervoor dat budgethouders kunnen rekenen op een betrouwbare, toegankelijke en kwaliteitsvolle dienstverlening. </span></p> <p><span>Je geeft leiding aan een gemotiveerd team van coördinatoren, ondersteunende profielen en klantenbeheerders en vertaalt beleid naar een efficiënte en toekomstgerichte werking. In nauwe samenwerking met de administrateur-generaal en andere afdelingen bouw je mee aan een sterk VAPH, waar verantwoordelijkheid, samenwerking en impact centraal staan. In deze functie combineer je leiderschap met maatschappelijke relevantie en maak je elke dag een tastbaar verschil voor duizenden mensen in Vlaanderen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij in de loop van de selectieprocedure.</span></p>",
         "htmlEncoded": "<p><span>Bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) staat de persoon met een handicap écht centraal. We versterken autonomie en levenskwaliteit door het aanbieden van persoonsvolgende budgetten, tegemoetkomingen voor hulpmiddelen en rechtstreeks toegankelijke hulp. </span></p> <p><span>Als afdelingshoofd van de afdeling Dienstverlening Budgethouders speel je een sleutelrol in het versterken van de autonomie en levenskwaliteit van personen met een handicap. Je staat aan het roer van een cruciale afdeling die persoonsvolgende budgetten en persoonlijke-assistentiebudgetten ter beschikking stelt en toeziet op een correcte en transparante besteding ervan. Met jouw strategische blik en mensgerichte aanpak zorg je ervoor dat budgethouders kunnen rekenen op een betrouwbare, toegankelijke en kwaliteitsvolle dienstverlening. </span></p> <p><span>Je geeft leiding aan een gemotiveerd team van coördinatoren, ondersteunende profielen en klantenbeheerders en vertaalt beleid naar een efficiënte en toekomstgerichte werking. In nauwe samenwerking met de administrateur-generaal en andere afdelingen bouw je mee aan een sterk VAPH, waar verantwoordelijkheid, samenwerking en impact centraal staan. In deze functie combineer je leiderschap met maatschappelijke relevantie en maak je elke dag een tastbaar verschil voor duizenden mensen in Vlaanderen.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij in de loop van de selectieprocedure.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20046",
-      "internal": false,
-      "validThroughDate": "1773100800",
-      "hiringOrganization": "Dienst van de Bestuursrechtscolleges",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20046",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Office Manager"
-      },
-      "displayTitle": "Office Manager",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>De DBRC zoekt een energieke managementassistent die graag ontzorgt, verbindt en structuur brengt. </p><p>Binnen onze unit omkadering werk je in een omgeving van vertrouwen, samenwerking en betrokkenheid. Je bent de onmisbare schakel in de dagelijkse werking en ondersteunt verschillende units, met focus op de Eerste Voorzitter. Je beheert agenda’s, organiseert vergaderingen en biedt logistieke ondersteuning. Als aanspreekpunt voor collega’s, leveranciers en gebouwverantwoordelijken zorg je voor een vlotte communicatie. Je werkt nauwkeurig, neemt verantwoordelijkheid en denkt vooruit, altijd met respect voor procedures. Klantgericht, hulpvaardig en communicatief sterk – samenwerken en kennis delen geven jou energie.</p><p> Bij de DBRC kom je terecht in een stabiele organisatie met focus op continuïteit en kwaliteit. Jouw inzet maakt een directe meerwaarde voor het hele team.<br data-end=\"1007\" data-start=\"1004\"></p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>",
-        "htmlEncoded": "<p>De DBRC zoekt een energieke managementassistent die graag ontzorgt, verbindt en structuur brengt. </p><p>Binnen onze unit omkadering werk je in een omgeving van vertrouwen, samenwerking en betrokkenheid. Je bent de onmisbare schakel in de dagelijkse werking en ondersteunt verschillende units, met focus op de Eerste Voorzitter. Je beheert agenda’s, organiseert vergaderingen en biedt logistieke ondersteuning. Als aanspreekpunt voor collega’s, leveranciers en gebouwverantwoordelijken zorg je voor een vlotte communicatie. Je werkt nauwkeurig, neemt verantwoordelijkheid en denkt vooruit, altijd met respect voor procedures. Klantgericht, hulpvaardig en communicatief sterk – samenwerken en kennis delen geven jou energie.</p><p> Bij de DBRC kom je terecht in een stabiele organisatie met focus op continuïteit en kwaliteit. Jouw inzet maakt een directe meerwaarde voor het hele team.<br data-end=\"1007\" data-start=\"1004\"></p><p>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</p>"
       },
       "locations": [
         {
@@ -3677,47 +3508,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20083",
-      "internal": false,
-      "validThroughDate": "1773100800",
-      "hiringOrganization": "Vlaamse Belastingdienst",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Andere",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20083",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Schatter/onderhandelaar"
-      },
-      "displayTitle": "Schatter/onderhandelaar",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Wanneer jij naar een gebouw of terrein kijkt – op plan, via luchtbeelden of in een dossier – zie jij meer dan enkel bakstenen of grond. Jij ziet waarde, context en betekenis. Je denkt analytisch, werkt nauwkeurig en duikt graag in complexe materie. Tegelijk wil je geen pure cijferjob, maar een rol waarin je afwisseling vindt, af en toe de deur uit kan en deel uitmaakt van een gedreven team.</span></p><p><span>Je zoekt een plek waar jouw expertise telt, waar je jezelf kan blijven ontwikkelen en waar collega’s net zo gepassioneerd zijn als jij. Herken je jezelf? Dan is de functie van schatter/onderhandelaar bij de Vlaamse Belastingdienst jou op het lijf geschreven.</span></p><p><span>Als schatter/onderhandelaar bij de Vlaamse Belastingdienst bepaal jij de waarde van (on)roerende goederen. Jij analyseert stedenbouwkundige info, luchtfoto’s, plannen, vergelijkingspunten en marktgegevens. Je werkt aan dossiers rond verkoop, verwerving, onteigening of belasting, en je zorgt ervoor dat elke waardebepaling correct en goed onderbouwd is.</span></p><p><span>J</span><span>ouw werk speelt zich deels af achter je bureau, waar je in alle concentratie de nodige data verzamelt, verbanden legt en conclusies trekt. Af en toe ga je ter plaatse voor een terreinbezoek, als dat nodig is om een goede inschatting te maken of te onderhandelen over de schatting. Maar het is jouw scherpzinnigheid en dossierkennis die het verschil maken.</span></p><p><span>Je stelt duidelijke en gestructureerde schattingsverslagen op, je motiveert je waardering, en je staat in voor heldere communicatie met collega’s, externe partners en klanten. Soms onderhandel je over een waarde of ga je in dialoog bij een bezwaar. Altijd professioneel, met kennis van zaken.Je houdt van die combinatie: zelfstandig verdiepen in je dossiers én samenwerken met collega’s die jou aanvullen en inspireren. Jij voelt je thuis in een omgeving waar je de ruimte krijgt om te groeien, initiatief te nemen en bij te leren.</span></p><p><span><b>Je kan deze functie opnemen met als standplaats:</b></span></p><ul><li><span><b>Brussel</b></span></li><li><span><b>Leuven</b></span></li></ul><p><span><b>Tijd voor jouw volgende stap? Solliciteer vandaag nog.</b></span></p><p><span><b>&nbsp;</b> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Wanneer jij naar een gebouw of terrein kijkt – op plan, via luchtbeelden of in een dossier – zie jij meer dan enkel bakstenen of grond. Jij ziet waarde, context en betekenis. Je denkt analytisch, werkt nauwkeurig en duikt graag in complexe materie. Tegelijk wil je geen pure cijferjob, maar een rol waarin je afwisseling vindt, af en toe de deur uit kan en deel uitmaakt van een gedreven team.</span></p><p><span>Je zoekt een plek waar jouw expertise telt, waar je jezelf kan blijven ontwikkelen en waar collega’s net zo gepassioneerd zijn als jij. Herken je jezelf? Dan is de functie van schatter/onderhandelaar bij de Vlaamse Belastingdienst jou op het lijf geschreven.</span></p><p><span>Als schatter/onderhandelaar bij de Vlaamse Belastingdienst bepaal jij de waarde van (on)roerende goederen. Jij analyseert stedenbouwkundige info, luchtfoto’s, plannen, vergelijkingspunten en marktgegevens. Je werkt aan dossiers rond verkoop, verwerving, onteigening of belasting, en je zorgt ervoor dat elke waardebepaling correct en goed onderbouwd is.</span></p><p><span>J</span><span>ouw werk speelt zich deels af achter je bureau, waar je in alle concentratie de nodige data verzamelt, verbanden legt en conclusies trekt. Af en toe ga je ter plaatse voor een terreinbezoek, als dat nodig is om een goede inschatting te maken of te onderhandelen over de schatting. Maar het is jouw scherpzinnigheid en dossierkennis die het verschil maken.</span></p><p><span>Je stelt duidelijke en gestructureerde schattingsverslagen op, je motiveert je waardering, en je staat in voor heldere communicatie met collega’s, externe partners en klanten. Soms onderhandel je over een waarde of ga je in dialoog bij een bezwaar. Altijd professioneel, met kennis van zaken.Je houdt van die combinatie: zelfstandig verdiepen in je dossiers én samenwerken met collega’s die jou aanvullen en inspireren. Jij voelt je thuis in een omgeving waar je de ruimte krijgt om te groeien, initiatief te nemen en bij te leren.</span></p><p><span><b>Je kan deze functie opnemen met als standplaats:</b></span></p><ul><li><span><b>Brussel</b></span></li><li><span><b>Leuven</b></span></li></ul><p><span><b>Tijd voor jouw volgende stap? Solliciteer vandaag nog.</b></span></p><p><span><b>&nbsp;</b> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
           }
         }
       ]
