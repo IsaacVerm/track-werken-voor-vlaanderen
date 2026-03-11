@@ -1,11 +1,83 @@
 {
-  "totalItems": 128,
+  "totalItems": 130,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 127,
+  "lastItemOfPage": 129,
   "items": [
+    {
+      "link": "/Job/vdab-73249447",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73249447",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner overheidsopdrachten (AWV) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner overheidsopdrachten (AWV) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als product owner ben jij de \n<strong>eindverantwoordelijke voor applicatie OverheidsOpdrachten (OO) </strong>binnen de Pijler Contracten van Agentschap Wegen en Verkeer. Je staat in voor het end-to-end beheer van de applicatie, inclusief het waken over ontwikkeling en exploitatie.</p> \n<p>De applicatie OO wordt intern ontwikkeld en zal zorgen voor een \n<strong>optimaal contractmanagement</strong>, een transparante werking en opvolging van de taken (administratieve en juridische dienstverlening) van de Pijler Contracten. De release van het Minimum Viable Product is gepland in mei 2026.</p> \n<p>Binnen jouw functie werk je nauw samen met de \n<strong> business analist </strong>van afdeling ICT &amp; Innovatie. De business analist stuurt de \n<strong>ontwikkelaars </strong>rechtstreeks aan.</p> \n<p><u>Jouw taken en verantwoordelijkheden</u>:</p> \n<ul> \n<li>Je capteert de \n<strong>klantenbehoeften </strong>van verschillende doelgroepen (management, dossierbehandelaars, leidend ambtenaren,...).</li> \n<li>Je actualiseert en brengt de \n<strong>bedrijfsprocessen </strong>in kaart en optimaliseert deze waar mogelijk. Je detecteert kansen en verbeteringen voor tools, processen en rapportering. Geleidelijk bouw je inhoudelijke expertise op rond de aanbesteding en uitvoering van overheidsopdrachten.</li> \n<li>Vervolgens vertaal je deze processen en klantenbehoeften naar \n<strong>ontwikkel- of verbetervoorstellen</strong>. Dit doe je in nauwe samenwerking met de business analist.</li> \n<li>Je coördineert het \n<strong>ontwikkeltraject </strong>en de testactiviteiten.</li> \n<li>Je bewaakt de \n<strong>projectplanning</strong>.</li> \n<li>Je begeleidt interne klanten in het \n<strong>verandertraject </strong>(o.a. voorzien van infosessies, workshops en opleidingen).</li> \n<li>Je zorgt dat de applicatie duurzaam verankerd wordt binnen AWV en bent het \n<strong>eerste aanspreekpunt</strong> voor inhoudelijke en praktische vragen over de applicatie.</li> </ul> \n<p>Naast jouw rol voor applicatie OO, ben je sterk betrokken in de ontwikkeling van verschillende \n<strong>applicaties gerelateerd aan onze processen</strong> overheidsopdrachten binnen het beleidsdomein Mobiliteit en Openbare Werken (o.a. eDelta (registratie), eRio (rapportering) en eContracting). We maken verder ook gebruik van applicaties ontwikkeld door de federale overheid (o.a. eProcurement en eDepo). Je blijft voor deze applicaties op de hoogte van ontwikkelingen, zorgt voor kennisdeling en capteert eventuele problemen.</p> \n<p><em>Je doelen als product owner overheidsopdrachten realiseer je niet alleen, maar samen met je collega’s van \n<strong>de pijler contracten (afdeling Centrale Dienstverlening) en van de afdeling ICT &amp; Innovatie</strong>. \n<strong> </strong>Je kan steeds op iedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km fietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met iedereen. Het Agentschap Wegen en Verkeer wil dé toonaangevende, toekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor van veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid komt bij ons steeds op de eerste plaats. </em></p>",
+        "htmlEncoded": "<p>Als product owner ben jij de \n<strong>eindverantwoordelijke voor applicatie OverheidsOpdrachten (OO) </strong>binnen de Pijler Contracten van Agentschap Wegen en Verkeer. Je staat in voor het end-to-end beheer van de applicatie, inclusief het waken over ontwikkeling en exploitatie.</p> \n<p>De applicatie OO wordt intern ontwikkeld en zal zorgen voor een \n<strong>optimaal contractmanagement</strong>, een transparante werking en opvolging van de taken (administratieve en juridische dienstverlening) van de Pijler Contracten. De release van het Minimum Viable Product is gepland in mei 2026.</p> \n<p>Binnen jouw functie werk je nauw samen met de \n<strong> business analist </strong>van afdeling ICT &amp; Innovatie. De business analist stuurt de \n<strong>ontwikkelaars </strong>rechtstreeks aan.</p> \n<p><u>Jouw taken en verantwoordelijkheden</u>:</p> \n<ul> \n<li>Je capteert de \n<strong>klantenbehoeften </strong>van verschillende doelgroepen (management, dossierbehandelaars, leidend ambtenaren,...).</li> \n<li>Je actualiseert en brengt de \n<strong>bedrijfsprocessen </strong>in kaart en optimaliseert deze waar mogelijk. Je detecteert kansen en verbeteringen voor tools, processen en rapportering. Geleidelijk bouw je inhoudelijke expertise op rond de aanbesteding en uitvoering van overheidsopdrachten.</li> \n<li>Vervolgens vertaal je deze processen en klantenbehoeften naar \n<strong>ontwikkel- of verbetervoorstellen</strong>. Dit doe je in nauwe samenwerking met de business analist.</li> \n<li>Je coördineert het \n<strong>ontwikkeltraject </strong>en de testactiviteiten.</li> \n<li>Je bewaakt de \n<strong>projectplanning</strong>.</li> \n<li>Je begeleidt interne klanten in het \n<strong>verandertraject </strong>(o.a. voorzien van infosessies, workshops en opleidingen).</li> \n<li>Je zorgt dat de applicatie duurzaam verankerd wordt binnen AWV en bent het \n<strong>eerste aanspreekpunt</strong> voor inhoudelijke en praktische vragen over de applicatie.</li> </ul> \n<p>Naast jouw rol voor applicatie OO, ben je sterk betrokken in de ontwikkeling van verschillende \n<strong>applicaties gerelateerd aan onze processen</strong> overheidsopdrachten binnen het beleidsdomein Mobiliteit en Openbare Werken (o.a. eDelta (registratie), eRio (rapportering) en eContracting). We maken verder ook gebruik van applicaties ontwikkeld door de federale overheid (o.a. eProcurement en eDepo). Je blijft voor deze applicaties op de hoogte van ontwikkelingen, zorgt voor kennisdeling en capteert eventuele problemen.</p> \n<p><em>Je doelen als product owner overheidsopdrachten realiseer je niet alleen, maar samen met je collega’s van \n<strong>de pijler contracten (afdeling Centrale Dienstverlening) en van de afdeling ICT &amp; Innovatie</strong>. \n<strong> </strong>Je kan steeds op iedereen rekenen en iedereen rekent op jou. Onze 7000 km wegen en 7700 km fietspaden van Agentschap Wegen en Verkeer verbinden namelijk alles met iedereen. Het Agentschap Wegen en Verkeer wil dé toonaangevende, toekomstgerichte wegbeheerder zijn voor alle weggebruikers. We zijn de motor van veilige, betrouwbare en duurzame infrastructuur en verkeersafwikkeling. Verkeersveiligheid komt bij ons steeds op de eerste plaats. </em></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20159",
+      "internal": false,
+      "validThroughDate": "1774915200",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20159",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker juridische dienst"
+      },
+      "displayTitle": "Medewerker juridische dienst",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil je je juridische expertise inzetten in een unieke maritieme context? Zoek je een functie waarin je zowel zelfstandig dossiers behandelt als collega’s deskundig adviseert? Dan verwelkomt DAB VLOOT jou graag als medewerker juridische dienst.<br><br><strong>Jouw functie</strong><br><br>Je maakt deel uit van de juridische dienst van DAB VLOOT en draagt bij aan een efficiënte en kwalitatieve dienstverlening voor de hele organisatie. Je wordt betrokken bij uiteenlopende dossiers en treedt, wanneer nodig, op als vervanger van de teamverantwoordelijke.<br><br>Een groot deel van je opdrachten situeert zich binnen <strong>overheidsopdrachten</strong>, waar je zowel juridisch nazicht doet als administratief ondersteunende taken opneemt. Daarnaast beheer je schadedossiers en onderhoud je contacten met tegenpartijen, verzekeringsmaatschappijen, advocaten en experts.<br><br>Je hebt een sterke interesse in <strong>administratief en maritiem recht</strong>, en bent bereid je hierin verder te verdiepen. Je staat open voor alle juridische vragen die binnen de organisatie opduiken en vindt het uitdagend om breed inzetbaar te zijn.<br><br><strong>Een greep uit je taken</strong><br><br></p><ul><li>Analyseren en adviseren<br><br>Je analyseert adviesvragen en noden binnen de organisatie.<br>Je adviseert collega’s over regelgeving, procedures en concrete casussen.<br>Je biedt oplossingsgericht juridisch advies en concrete voorstellen over o.a. overheidsopdrachten, aansprakelijkheidsstellingen.<br>…</li></ul><ul><li>Dienstverlening en kwaliteitsbewaking<br><br>Je bouwt mee aan een efficiënte juridische dienstverlening en optimaliseert bestaande processen.<br>Je bewaakt de kwaliteit van interne werkprocedures en doet verbetervoorstellen.<br>Je communiceert helder en proactief naar interne klanten over juridische thema’s en organiseert opleidingen.<br>…<br><br></li><li>Document- en dossierbeheer<br><br>Je voert juridisch nazicht uit van opdrachtdocumenten, gunningsverslagen en -beslissingen.<br>Je beheert schadedossiers en staat in voor de contacten/correspondentie met tegenpartijen, verzekeringsfirma’s, advocaten, experts, ….<br>Je ontwikkelt en onderhoudt sjablonen, digitale archieven en interne instrumenten.<br>…</li></ul><ul><li>Kennisdeling en projectwerking<br><br>Je volgt ontwikkelingen binnen je vakgebied op en neemt deel aan interne en externe vormingen.<br>Je werkt mee in werkgroepen en projectteams rond juridische thema’s of nieuwe regelgeving.<br>Je fungeert als aanspreekpunt voor juridische vragen binnen je expertisegebied.<br>…<br><strong></strong></li></ul><p><strong>Waarom kiezen voor DAB VLOOT?</strong></p><p>Je komt terecht in een unieke maritieme omgeving waar expertise, samenwerking en maatschappelijke meerwaarde centraal staan. Je krijgt ruimte om te groeien binnen je vakgebied, nieuwe initiatieven uit te werken en actief bij te dragen aan efficiënte en kwaliteitsvolle dienstverlening.<br><br>De dienst afzonderlijk beheer (DAB) VLOOT maakt deel uit van het Agentschap Maritieme Dienstverlening en Kust (AMDK) van de Vlaamse overheid.<br><br>Wil je graag nog meer details over de job van medewerker juridische dienst? Lees dan verder via&nbsp;<a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2026/MDK/jobinhoud+in+detail_20159.pdf\">deze link </a> .<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wil je je juridische expertise inzetten in een unieke maritieme context? Zoek je een functie waarin je zowel zelfstandig dossiers behandelt als collega’s deskundig adviseert? Dan verwelkomt DAB VLOOT jou graag als medewerker juridische dienst.<br><br><strong>Jouw functie</strong><br><br>Je maakt deel uit van de juridische dienst van DAB VLOOT en draagt bij aan een efficiënte en kwalitatieve dienstverlening voor de hele organisatie. Je wordt betrokken bij uiteenlopende dossiers en treedt, wanneer nodig, op als vervanger van de teamverantwoordelijke.<br><br>Een groot deel van je opdrachten situeert zich binnen <strong>overheidsopdrachten</strong>, waar je zowel juridisch nazicht doet als administratief ondersteunende taken opneemt. Daarnaast beheer je schadedossiers en onderhoud je contacten met tegenpartijen, verzekeringsmaatschappijen, advocaten en experts.<br><br>Je hebt een sterke interesse in <strong>administratief en maritiem recht</strong>, en bent bereid je hierin verder te verdiepen. Je staat open voor alle juridische vragen die binnen de organisatie opduiken en vindt het uitdagend om breed inzetbaar te zijn.<br><br><strong>Een greep uit je taken</strong><br><br></p><ul><li>Analyseren en adviseren<br><br>Je analyseert adviesvragen en noden binnen de organisatie.<br>Je adviseert collega’s over regelgeving, procedures en concrete casussen.<br>Je biedt oplossingsgericht juridisch advies en concrete voorstellen over o.a. overheidsopdrachten, aansprakelijkheidsstellingen.<br>…</li></ul><ul><li>Dienstverlening en kwaliteitsbewaking<br><br>Je bouwt mee aan een efficiënte juridische dienstverlening en optimaliseert bestaande processen.<br>Je bewaakt de kwaliteit van interne werkprocedures en doet verbetervoorstellen.<br>Je communiceert helder en proactief naar interne klanten over juridische thema’s en organiseert opleidingen.<br>…<br><br></li><li>Document- en dossierbeheer<br><br>Je voert juridisch nazicht uit van opdrachtdocumenten, gunningsverslagen en -beslissingen.<br>Je beheert schadedossiers en staat in voor de contacten/correspondentie met tegenpartijen, verzekeringsfirma’s, advocaten, experts, ….<br>Je ontwikkelt en onderhoudt sjablonen, digitale archieven en interne instrumenten.<br>…</li></ul><ul><li>Kennisdeling en projectwerking<br><br>Je volgt ontwikkelingen binnen je vakgebied op en neemt deel aan interne en externe vormingen.<br>Je werkt mee in werkgroepen en projectteams rond juridische thema’s of nieuwe regelgeving.<br>Je fungeert als aanspreekpunt voor juridische vragen binnen je expertisegebied.<br>…<br><strong></strong></li></ul><p><strong>Waarom kiezen voor DAB VLOOT?</strong></p><p>Je komt terecht in een unieke maritieme omgeving waar expertise, samenwerking en maatschappelijke meerwaarde centraal staan. Je krijgt ruimte om te groeien binnen je vakgebied, nieuwe initiatieven uit te werken en actief bij te dragen aan efficiënte en kwaliteitsvolle dienstverlening.<br><br>De dienst afzonderlijk beheer (DAB) VLOOT maakt deel uit van het Agentschap Maritieme Dienstverlening en Kust (AMDK) van de Vlaamse overheid.<br><br>Wil je graag nog meer details over de job van medewerker juridische dienst? Lees dan verder via&nbsp;<a href=\"https://selecties.s3.eu-west-1.amazonaws.com/mow/2026/MDK/jobinhoud+in+detail_20159.pdf\">deze link </a> .<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20259",
       "internal": false,
