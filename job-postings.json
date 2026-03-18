@@ -1,11 +1,227 @@
 {
-  "totalItems": 135,
+  "totalItems": 141,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 134,
+  "lastItemOfPage": 140,
   "items": [
+    {
+      "link": "/Job/vdab-73297603",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73297603",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Oracle APEX ontwikkelaar (junior) (AHOVOKS) via Vlaanderen connect"
+      },
+      "displayTitle": "Oracle APEX ontwikkelaar (junior) (AHOVOKS) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een startende Oracle APEX ontwikkelaar ter versterking van ons Oracle-APEX ontwikkelteam.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Oracle APEX ontwikkelaar wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen onze doelstellingen te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe applicaties voor de toelatingsexamen Arts-Tandarts-Dierenarts, evenals aan de toepassingen waarmee de examencommissie secundair onderwijs examens plant, de onderwijsdoelendatabank, toepassingen voor de personeelsadministratie van het onderwijspersoneel... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 20 jaar.</p> \n<p>Je komt terecht in een ervaren en professioneel team van 8 personen (ontwikkelaars, analisten, testers), dat centraal voor het Agentschap werkt. Je krijgt van dit team ondersteuning om jouw taken uit te voeren, om te groeien en om je te bekwamen tot expert.</p> \n<p>Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt. Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkeld hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>",
+        "htmlEncoded": "<p>Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een startende Oracle APEX ontwikkelaar ter versterking van ons Oracle-APEX ontwikkelteam.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je als Oracle APEX ontwikkelaar wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Als Oracle-APEX ontwikkelaar ben je verantwoordelijk voor het hart van onze werking: de toepassingen die ons helpen onze doelstellingen te realiseren. Zo zal je meewerken aan de ontwikkeling van een nieuwe applicaties voor de toelatingsexamen Arts-Tandarts-Dierenarts, evenals aan de toepassingen waarmee de examencommissie secundair onderwijs examens plant, de onderwijsdoelendatabank, toepassingen voor de personeelsadministratie van het onderwijspersoneel... Op die manier sta je mee aan de basis van nieuwe innovaties met een toekomsthorizon van 2 tot 20 jaar.</p> \n<p>Je komt terecht in een ervaren en professioneel team van 8 personen (ontwikkelaars, analisten, testers), dat centraal voor het Agentschap werkt. Je krijgt van dit team ondersteuning om jouw taken uit te voeren, om te groeien en om je te bekwamen tot expert.</p> \n<p>Je takenpakket bestaat onder andere uit volgende uitdagingen:</p> \n<ul> \n<li>Samen met het team zorg je dat de opgeleverde user stories gevalideerd worden op kwaliteit en functionele/technische haalbaarheid.</li> \n<li>Je stemt af met analisten en product owner over de inhoud van de stories en het logisch en technisch ontwerp om de stories te realiseren. Je staat analisten en product owner bij met jouw technische expertise.</li> \n<li>Op basis van user stories ontwikkel je nieuwe toepassingen of doet aanpassingen aan bestaande toepassingen.</li> \n<li>Je staat in voor de kwaliteit van de toepassingen die je ontwikkelt. Je schrijft geautomatiseerde testscenario’s, samen met de testers in het team.</li> \n<li>Je zorgt voor voldoende technische documentatie van de software die je ontwikkeld hebt.</li> \n<li>Je draagt bij tot een vlotte scrum werking binnen het team. Hierbij zorg je mee voor backlogverfijningen, inschattingen, actieve bijdrage binnen stand ups, retrospectieven, sprintreviews en sprintplanning.</li> \n<li>Je leert ook de business context en meerwaarde kennen van de software die je ontwikkelt.</li> \n<li>Je zorgt er mede voor dat de planning en de opgelegde deadlines binnen het team gehaald worden.</li> \n<li>Je verzorgt ondersteuning naar applicatiebeheerders bij behandeling van problemen en incidenten.</li> </ul> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel, op wandelafstand van het station Brussel Noord.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73297568",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73297568",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "AI Tech Lead (Omgeving) via Vlaanderen connect"
+      },
+      "displayTitle": "AI Tech Lead (Omgeving) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Zoek je een rol waarbij je vanaf de basis kan meebouwen aan hoe AI wordt toegepast bij de overheid?</p> \n<p>Onze ambitie is best stevig: we willen dat het gebruik van AI (van ondersteuning bij bureauwerk tot complexe integraties in maatwerkoplossingen) binnen drie jaar even normaal is als Excel of Word voor onze collega's.</p> \n<p>We zoeken hiervoor een technische trekker die code schrijft, maar vooral samen met de strategische lead de technische fundamenten legt om GenAI, LLM's en Computer Vision pragmatisch te integreren in onze werking. </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je werkt bij Digitalisering, de IT-tak van het Departement Omgeving.</p> \n<p>We werken rond thema's als datagovernance, informatieveiligheid en modulaire infrastructuur. Omdat AI snel belangrijker wordt in het portfolio, focussen we hier nu gericht op.</p> \n<p>Binnen Digitalisering coördineert en ondersteunt het nieuwe AI Innovatiecentrum alle AI-initiatieven. We starten zeer bewust met een klein kernteam om de uitrol van AI over het hele Departement Omgeving te trekken. Het is de bedoeling om heel hands-on te werken: geen lang uitgesponnen voorstudies, lange analyse-trajecten en lijvige nota's, maar direct dingen bouwen, daaruit leren en in overleg bijsturen.</p> \n<p>Binnen dit kleine team vorm je een tandem met de strategische lead. Die lead slaat de brug naar de business, bewaakt de flow in de pijplijn aan use cases en begeleidt het menselijke adoptieproces op de vloer. Jij bent de technische eindverantwoordelijke: jij hakt de knopen door over de tech-stack, tekent de architectuur uit, neemt de lead in de development en waakt over de security-by-design en performance van de AI-oplossingen.</p> \n<p>Concreet betekent dit:</p> \n<ul> \n<li>Je bouwt stap voor stap, pragmatisch, een AI-architectuur uit zonder het onnodig complex te maken.</li> \n<li>Je bouwt niet alleen de fundering, maar programmeert actief zelf mee en ondersteunt de andere interne ontwikkelteams om volwaardige AI-applicaties te realiseren (van data-ingestie met RAG-pipelines tot API-ontsluiting in klassieke maatwerksoftware).</li> \n<li>Je garandeert een betrouwbare productie-implementatie via CI/CD en MLOps-processen.</li> \n<li>Je schrijft API’s en services om AI-modules, platformen en externe diensten aan elkaar te knopen.</li> \n<li>Je hebt een continue radarfunctie waarbij je de erg beweeglijke AI-markt in het oog houdt en zo goed onderbouwde technologische 'maak of koop'-beslissingen kan afwegen.</li> </ul> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel in het VAC Herman Teirlinck, op wandelafstand van het station Brussel-Noord.</p>",
+        "htmlEncoded": "<p>Zoek je een rol waarbij je vanaf de basis kan meebouwen aan hoe AI wordt toegepast bij de overheid?</p> \n<p>Onze ambitie is best stevig: we willen dat het gebruik van AI (van ondersteuning bij bureauwerk tot complexe integraties in maatwerkoplossingen) binnen drie jaar even normaal is als Excel of Word voor onze collega's.</p> \n<p>We zoeken hiervoor een technische trekker die code schrijft, maar vooral samen met de strategische lead de technische fundamenten legt om GenAI, LLM's en Computer Vision pragmatisch te integreren in onze werking. </p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p>Je werkt bij Digitalisering, de IT-tak van het Departement Omgeving.</p> \n<p>We werken rond thema's als datagovernance, informatieveiligheid en modulaire infrastructuur. Omdat AI snel belangrijker wordt in het portfolio, focussen we hier nu gericht op.</p> \n<p>Binnen Digitalisering coördineert en ondersteunt het nieuwe AI Innovatiecentrum alle AI-initiatieven. We starten zeer bewust met een klein kernteam om de uitrol van AI over het hele Departement Omgeving te trekken. Het is de bedoeling om heel hands-on te werken: geen lang uitgesponnen voorstudies, lange analyse-trajecten en lijvige nota's, maar direct dingen bouwen, daaruit leren en in overleg bijsturen.</p> \n<p>Binnen dit kleine team vorm je een tandem met de strategische lead. Die lead slaat de brug naar de business, bewaakt de flow in de pijplijn aan use cases en begeleidt het menselijke adoptieproces op de vloer. Jij bent de technische eindverantwoordelijke: jij hakt de knopen door over de tech-stack, tekent de architectuur uit, neemt de lead in de development en waakt over de security-by-design en performance van de AI-oplossingen.</p> \n<p>Concreet betekent dit:</p> \n<ul> \n<li>Je bouwt stap voor stap, pragmatisch, een AI-architectuur uit zonder het onnodig complex te maken.</li> \n<li>Je bouwt niet alleen de fundering, maar programmeert actief zelf mee en ondersteunt de andere interne ontwikkelteams om volwaardige AI-applicaties te realiseren (van data-ingestie met RAG-pipelines tot API-ontsluiting in klassieke maatwerksoftware).</li> \n<li>Je garandeert een betrouwbare productie-implementatie via CI/CD en MLOps-processen.</li> \n<li>Je schrijft API’s en services om AI-modules, platformen en externe diensten aan elkaar te knopen.</li> \n<li>Je hebt een continue radarfunctie waarbij je de erg beweeglijke AI-markt in het oog houdt en zo goed onderbouwde technologische 'maak of koop'-beslissingen kan afwegen.</li> </ul> \n<p><strong>Waar ga je werken</strong></p> \n<p>Je werkt in Brussel in het VAC Herman Teirlinck, op wandelafstand van het station Brussel-Noord.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20390",
+      "internal": false,
+      "validThroughDate": "1777248000",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20390",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Afdelingshoofd Toezicht (en Woningkwaliteit)"
+      },
+      "displayTitle": "Afdelingshoofd Toezicht (en Woningkwaliteit)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Wil jij mee richting geven aan het woonbeleid van morgen? Ben je een strategische en verbindende leider met visie en daadkracht die graag impact wil maken? Dan is deze functie iets voor jou. </span></p> <p><span>Bij Wonen in Vlaanderen werk je mee aan onze missie: kwaliteitsvol, toegankelijk en betaalbaar wonen mogelijk maken voor iedereen. De diensten van de afdeling Toezicht komen vanaf 1 januari 2027 in een nieuwe afdeling samen met de 3 diensten van de cluster Woningkwaliteit. Vanaf dan stuur je als afdelingshoofd van die nieuwe afdeling een team van 101 enthousiaste medewerkers aan en speel je een sleutelrol in de toezichts- en handhavingsactiviteiten op het beleidsveld Wonen. </span></p> <p><span>Deze functie is een gezagsfunctie. Als afdelingshoofd Toezicht (en Woningkwaliteit) heb je eenzijdige beslissingsbevoegdheden die kunnen raken aan de grondrechten van derden. Deze specifieke beslissingsbevoegdheden zijn ook opgenomen in de functiebeschrijving die is toegevoegd aan dit vacaturebericht. Omwille van deze decretale bevoegdheden wordt de functie statutair ingevuld. De statutaire tewerkstelling is verbonden aan de specifieke functie en betreft een uitzondering op de principieel contractuele tewerkstelling bij de diensten van de Vlaamse overheid.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij</span><span>.</span></p>",
+        "htmlEncoded": "<p><span>Wil jij mee richting geven aan het woonbeleid van morgen? Ben je een strategische en verbindende leider met visie en daadkracht die graag impact wil maken? Dan is deze functie iets voor jou. </span></p> <p><span>Bij Wonen in Vlaanderen werk je mee aan onze missie: kwaliteitsvol, toegankelijk en betaalbaar wonen mogelijk maken voor iedereen. De diensten van de afdeling Toezicht komen vanaf 1 januari 2027 in een nieuwe afdeling samen met de 3 diensten van de cluster Woningkwaliteit. Vanaf dan stuur je als afdelingshoofd van die nieuwe afdeling een team van 101 enthousiaste medewerkers aan en speel je een sleutelrol in de toezichts- en handhavingsactiviteiten op het beleidsveld Wonen. </span></p> <p><span>Deze functie is een gezagsfunctie. Als afdelingshoofd Toezicht (en Woningkwaliteit) heb je eenzijdige beslissingsbevoegdheden die kunnen raken aan de grondrechten van derden. Deze specifieke beslissingsbevoegdheden zijn ook opgenomen in de functiebeschrijving die is toegevoegd aan dit vacaturebericht. Omwille van deze decretale bevoegdheden wordt de functie statutair ingevuld. De statutaire tewerkstelling is verbonden aan de specifieke functie en betreft een uitzondering op de principieel contractuele tewerkstelling bij de diensten van de Vlaamse overheid.</span></p> <p><span>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij</span><span>.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20346",
+      "internal": false,
+      "validThroughDate": "1775088000",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20346",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist Modellering"
+      },
+      "displayTitle": "Specialist Modellering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Jouw impact</strong><br>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen of om de impact van infrastructuurwerken aan de waterloop door te rekenen. Zo kunnen we de infrastructuur langs onze waterlopen optimaal inzetten en de impact van investeringsprojecten goed inschatten.&nbsp;<br><br>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p><strong>Een blik op jouw takenpakket&nbsp;</strong><br>In deze functie ligt de focus voluit op modelleren. Je werkt gedurende twee jaar mee aan projecten die een directe meerwaarde creëren voor Vlaanderen.<br><br>Je belangrijkste taken:</p><ul><li>Je werkt hoofdzakelijk op het Europese MUDCAP-project, waarin erosie en sedimenttransport in waterlopen centraal staan.</li><li>Je levert deskundig advies binnen andere projecten waar VMM een belangrijke rol speelt.</li><li>Je voert hydrologische en hydraulische modelleringen uit en bepaalt effecten voor verschillende scenario’s.</li><li>Je vertaalt modelresultaten naar heldere adviezen voor collega’s, partners en beleidsmakers.</li><li>Je begeleidt externe studies en zorgt voor kwaliteitsvolle validatie van data en modelresultaten.</li><li>Je documenteert nauwkeurig en werkt transparant, zodat kennis duurzaam geborgd wordt.</li><li>Je denkt proactief mee over optimalisaties van data, processen en modellen.</li></ul><p><strong>Waar kom je terecht?</strong><br>Je komt terecht in het team Hydrologie Oost. Het team bestaat uit acht collega’s die gelijkaardige taken opnemen binnen modellering en waterbeheer. Je inwerkperiode is kort en krachtig waarbij twee collega’s met een gelijkaardig takenpakket jou meenemen in de werking en specifiteit van de functie en organisatie.&nbsp;<br><br><strong>Wie zoeken we?</strong><br>Je bent iemand die:</p><ul><li>al sterke technische vaardigheden in modellering heeft en snel inzetbaar is</li><li>bij voorkeur ervaring heeft met InfoWorks ICM (integrated catchment modeling)</li><li>precies, consciëntieus en goed documenterend werkt</li><li>autonoom kan werken en snel zijn/haar plan trekt</li><li>een vlotte teamspeler is die helder communiceert</li><li>spontaan, open en transparant is in samenwerking</li><li>proactief meedenkt en verantwoordelijkheid opneemt</li></ul><p><strong>Waarom kiezen voor VMM?</strong><br>In deze functie draag je bij aan de missie van de VMM om voor Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bevorderen;&nbsp;</li><li>de klimaatadaptatie mee te sturen. </li></ul><p>Je werkt in een organisatie die inzet op innovatie, samenwerking en maatschappelijke impact. Je krijgt de kans om mee richting te geven aan oplossingen voor de wateruitdagingen van vandaag én morgen.<br><br>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Jouw impact</strong><br>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen of om de impact van infrastructuurwerken aan de waterloop door te rekenen. Zo kunnen we de infrastructuur langs onze waterlopen optimaal inzetten en de impact van investeringsprojecten goed inschatten.&nbsp;<br><br>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p><strong>Een blik op jouw takenpakket&nbsp;</strong><br>In deze functie ligt de focus voluit op modelleren. Je werkt gedurende twee jaar mee aan projecten die een directe meerwaarde creëren voor Vlaanderen.<br><br>Je belangrijkste taken:</p><ul><li>Je werkt hoofdzakelijk op het Europese MUDCAP-project, waarin erosie en sedimenttransport in waterlopen centraal staan.</li><li>Je levert deskundig advies binnen andere projecten waar VMM een belangrijke rol speelt.</li><li>Je voert hydrologische en hydraulische modelleringen uit en bepaalt effecten voor verschillende scenario’s.</li><li>Je vertaalt modelresultaten naar heldere adviezen voor collega’s, partners en beleidsmakers.</li><li>Je begeleidt externe studies en zorgt voor kwaliteitsvolle validatie van data en modelresultaten.</li><li>Je documenteert nauwkeurig en werkt transparant, zodat kennis duurzaam geborgd wordt.</li><li>Je denkt proactief mee over optimalisaties van data, processen en modellen.</li></ul><p><strong>Waar kom je terecht?</strong><br>Je komt terecht in het team Hydrologie Oost. Het team bestaat uit acht collega’s die gelijkaardige taken opnemen binnen modellering en waterbeheer. Je inwerkperiode is kort en krachtig waarbij twee collega’s met een gelijkaardig takenpakket jou meenemen in de werking en specifiteit van de functie en organisatie.&nbsp;<br><br><strong>Wie zoeken we?</strong><br>Je bent iemand die:</p><ul><li>al sterke technische vaardigheden in modellering heeft en snel inzetbaar is</li><li>bij voorkeur ervaring heeft met InfoWorks ICM (integrated catchment modeling)</li><li>precies, consciëntieus en goed documenterend werkt</li><li>autonoom kan werken en snel zijn/haar plan trekt</li><li>een vlotte teamspeler is die helder communiceert</li><li>spontaan, open en transparant is in samenwerking</li><li>proactief meedenkt en verantwoordelijkheid opneemt</li></ul><p><strong>Waarom kiezen voor VMM?</strong><br>In deze functie draag je bij aan de missie van de VMM om voor Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bevorderen;&nbsp;</li><li>de klimaatadaptatie mee te sturen. </li></ul><p>Je werkt in een organisatie die inzet op innovatie, samenwerking en maatschappelijke impact. Je krijgt de kans om mee richting te geven aan oplossingen voor de wateruitdagingen van vandaag én morgen.<br><br>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20338",
+      "internal": false,
+      "validThroughDate": "1776643200",
+      "hiringOrganization": "Eigen Vermogen Xperta",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20338",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Liaison modelleur waterbeheer"
+      },
+      "displayTitle": "Liaison modelleur waterbeheer",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Word jij onze specialist in <strong>hydrologische en hydrodynamische modellering</strong>? In deze rol versterk je de samenwerking tussen het <strong>Waterbouwkundig Laboratorium</strong> en <strong>De Vlaamse Waterweg</strong>. Je vertaalt wetenschappelijk onderzoek naar praktische adviezen voor duurzaam waterbeheer en werkt nauw samen met projectingenieurs rond actuele overstromingsvraagstukken.</span></p><p><span>Je voert modelleringstudies uit, actualiseert overstromingsmodellen en maakt heldere rapporten die direct inzetbaar zijn in operationele projecten. Daarnaast werk je mee aan <strong>overstromings- en risicokaarten</strong> binnen de Europese richtlijn, zodat Vlaanderen beter beschermd is tegen wateroverlast.</span></p><p><span>Je komt terecht in het <strong>Hydrologisch Informatie Centrum (HIC)</strong>, een team dat een sleutelrol speelt in zowel operationeel als onderzoeksmatig waterbeheer. Op termijn kan je ook deelnemen aan de HIC‑Permanentiedienst.</span></p><p><strong>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</strong></p>",
+        "htmlEncoded": "<p><span>Word jij onze specialist in <strong>hydrologische en hydrodynamische modellering</strong>? In deze rol versterk je de samenwerking tussen het <strong>Waterbouwkundig Laboratorium</strong> en <strong>De Vlaamse Waterweg</strong>. Je vertaalt wetenschappelijk onderzoek naar praktische adviezen voor duurzaam waterbeheer en werkt nauw samen met projectingenieurs rond actuele overstromingsvraagstukken.</span></p><p><span>Je voert modelleringstudies uit, actualiseert overstromingsmodellen en maakt heldere rapporten die direct inzetbaar zijn in operationele projecten. Daarnaast werk je mee aan <strong>overstromings- en risicokaarten</strong> binnen de Europese richtlijn, zodat Vlaanderen beter beschermd is tegen wateroverlast.</span></p><p><span>Je komt terecht in het <strong>Hydrologisch Informatie Centrum (HIC)</strong>, een team dat een sleutelrol speelt in zowel operationeel als onderzoeksmatig waterbeheer. Op termijn kan je ook deelnemen aan de HIC‑Permanentiedienst.</span></p><p><strong>Lees meer over de job en het selectieproces in het\nselectiereglement als bijlage bij ‘meer informatie’. Download dit document en\nhou het bij.</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20322",
+      "internal": false,
+      "validThroughDate": "1775606400",
+      "hiringOrganization": "Agentschap Facilitair Bedrijf",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20322",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Asset manager vastgoed"
+      },
+      "displayTitle": "Asset manager vastgoed",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Heb je ervaring in het omgaan met vastgoed? Duik je graag in de cijfers om scenario’s ten opzichte van elkaar af te wegen? Hou je ervan projecten op te starten? Dan is deze vacature iets voor jou! </span></p> <p><span>Als asset manager vastgoed bij Het Facilitair Bedrijf ga je proactief te werk om een deel van de vastgoedportefeuille van de Vlaamse overheid en bijhorende processen te optimaliseren.</span></p> <p><span>Je werkt verschillende scenario’s uit op basis van de gegevens die beschikbaar zijn in onze databank, de eindtermijn van huurcontracten, bezettingsmetingen en een inschatting van het benodigde budget. Ook ga je op zoek naar bijkomende informatie bij de experten binnen - en eventueel buiten - onze organisatie.</span></p> <p><span>Je bevraagt de organisaties binnen de Vlaamse overheid (onze klanten) over hun behoeften en gaat hierover met hen in gesprek om deze te doorgronden. Je stelt een programma van eisen op om hun behoeften te vertalen naar een oppervlakte. Jij maakt de business case op en overtuigt met jouw stay or leave analyse het directiecomité.</span></p> <p><span>Vervolgens plaats je de vraag in de markt, analyseer je de offertes en onderhandel je mee het contract. Nadien neem je de rol op van opdrachtgever: jij bent het aanspreekpunt voor de projectmanager en volgt het project overkoepelend op qua budget, timing en doelstellingen. </span></p> <p><span>Klinkt dit als de ideale job voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><span>Heb je ervaring in het omgaan met vastgoed? Duik je graag in de cijfers om scenario’s ten opzichte van elkaar af te wegen? Hou je ervan projecten op te starten? Dan is deze vacature iets voor jou! </span></p> <p><span>Als asset manager vastgoed bij Het Facilitair Bedrijf ga je proactief te werk om een deel van de vastgoedportefeuille van de Vlaamse overheid en bijhorende processen te optimaliseren.</span></p> <p><span>Je werkt verschillende scenario’s uit op basis van de gegevens die beschikbaar zijn in onze databank, de eindtermijn van huurcontracten, bezettingsmetingen en een inschatting van het benodigde budget. Ook ga je op zoek naar bijkomende informatie bij de experten binnen - en eventueel buiten - onze organisatie.</span></p> <p><span>Je bevraagt de organisaties binnen de Vlaamse overheid (onze klanten) over hun behoeften en gaat hierover met hen in gesprek om deze te doorgronden. Je stelt een programma van eisen op om hun behoeften te vertalen naar een oppervlakte. Jij maakt de business case op en overtuigt met jouw stay or leave analyse het directiecomité.</span></p> <p><span>Vervolgens plaats je de vraag in de markt, analyseer je de offertes en onderhandel je mee het contract. Nadien neem je de rol op van opdrachtgever: jij bent het aanspreekpunt voor de projectmanager en volgt het project overkoepelend op qua budget, timing en doelstellingen. </span></p> <p><span>Klinkt dit als de ideale job voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73290044",
       "internal": false,
@@ -110,6 +326,42 @@
         {
           "address": {
             "city": "Asse"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20440",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap voor Maritieme Dienstverlening en Kust",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20440",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Operations Manager Kust"
+      },
+      "displayTitle": "Operations Manager Kust",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben jij klaar voor<strong> een coördinerende, leidinggevende en adviserende rol bij dé maritieme overheidspartner het agentschap Maritieme Dienstverlening en Kust</strong>?&nbsp;<br><br>Als Operations Manager Kust bij de Dienst Afzonderlijk Beheer (DAB) Vloot ben jij de spilfiguur die samen&nbsp;met je team, de dienstverlening naar onze partners en klanten van Vloot Oostende zo efficiënt en veilig mogelijk laat verlopen. In deze functie binnen de maritieme sector werk je oplossingsgericht, neem je beslissingen en onderhoud je veel interne en externe contacten.<br><br>Aan de kust zet Vloot dagelijkse een 13-tal vaartuigen met eigen bemanning in voor onze partners. De locatie beschikt over ongeveer 250 gecertificeerde bemanningsleden en 20 vaartuigen.<br><br>Jouw verantwoordelijkheden:</p><ul><li>Je organiseert de dienstverlening en coördineert de planning van bemanning en vaartuigen. Je zet daarbij in op coachend leidinggeven en bewaakt de balans tussen resultaat- en mensgerichte aanpak om de prestatie-motivatie van je team te stimuleren.&nbsp;</li><li>Je bent het eerste aanspreekpunt voor de klanten en andere stakeholders (vb. havens, Kustwacht, MRCC, autoriteiten,…) en organiseert gestructureerde operationele overlegmomenten.</li><li>Je hebt een belangrijke rol als cruciaal lid van het noodplan van de Noordzee (ANIP Noordzee).</li><li>Je fungeert als schakel tussen de bemanning, de administratie van Vloot en de directie. Je adviseert de directeur operations en de algemeen directeur bij het begroten van materiële, technische en menselijke middelen. </li><li>Je kunt worden aangesteld als projectmanager voor de uitvoering van projecten.</li></ul><p>Jouw profiel:</p><ul><li>Je bent een echte people manager die nautische en administratieve personeelsleden aanstuurt en een efficiënte en continue werking van je team waarborgt.&nbsp;</li><li>Je stimuleert je team tot optimale prestaties, betrokkenheid en verdere ontwikkeling.</li><li>Je hebt notie van scheepscertificatie, scheepvaartcontrole en Belgische scheepvaartreglementen (SOLAS, STCW, MARPOL).</li><li>Je hebt kennis van kostenberekeningen en ervaring met de aanpak van schadegevallen.</li><li>Je bent bereid om buiten kantooruren beschikbaar te zijn en je in te werken in overheidsopdrachten en het management informatiesysteem van DAB Vloot.</li></ul><p>DAB Vloot van het agentschap Maritieme Dienstverlening en Kust (MDK) zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Elke dag geven meer dan 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;<br><br>Wil je deel uitmaken van ons team en mee instaan voor een veilig en vlot scheepvaartverkeer? Stel je dan zeker kandidaat!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Ben jij klaar voor<strong> een coördinerende, leidinggevende en adviserende rol bij dé maritieme overheidspartner het agentschap Maritieme Dienstverlening en Kust</strong>?&nbsp;<br><br>Als Operations Manager Kust bij de Dienst Afzonderlijk Beheer (DAB) Vloot ben jij de spilfiguur die samen&nbsp;met je team, de dienstverlening naar onze partners en klanten van Vloot Oostende zo efficiënt en veilig mogelijk laat verlopen. In deze functie binnen de maritieme sector werk je oplossingsgericht, neem je beslissingen en onderhoud je veel interne en externe contacten.<br><br>Aan de kust zet Vloot dagelijkse een 13-tal vaartuigen met eigen bemanning in voor onze partners. De locatie beschikt over ongeveer 250 gecertificeerde bemanningsleden en 20 vaartuigen.<br><br>Jouw verantwoordelijkheden:</p><ul><li>Je organiseert de dienstverlening en coördineert de planning van bemanning en vaartuigen. Je zet daarbij in op coachend leidinggeven en bewaakt de balans tussen resultaat- en mensgerichte aanpak om de prestatie-motivatie van je team te stimuleren.&nbsp;</li><li>Je bent het eerste aanspreekpunt voor de klanten en andere stakeholders (vb. havens, Kustwacht, MRCC, autoriteiten,…) en organiseert gestructureerde operationele overlegmomenten.</li><li>Je hebt een belangrijke rol als cruciaal lid van het noodplan van de Noordzee (ANIP Noordzee).</li><li>Je fungeert als schakel tussen de bemanning, de administratie van Vloot en de directie. Je adviseert de directeur operations en de algemeen directeur bij het begroten van materiële, technische en menselijke middelen. </li><li>Je kunt worden aangesteld als projectmanager voor de uitvoering van projecten.</li></ul><p>Jouw profiel:</p><ul><li>Je bent een echte people manager die nautische en administratieve personeelsleden aanstuurt en een efficiënte en continue werking van je team waarborgt.&nbsp;</li><li>Je stimuleert je team tot optimale prestaties, betrokkenheid en verdere ontwikkeling.</li><li>Je hebt notie van scheepscertificatie, scheepvaartcontrole en Belgische scheepvaartreglementen (SOLAS, STCW, MARPOL).</li><li>Je hebt kennis van kostenberekeningen en ervaring met de aanpak van schadegevallen.</li><li>Je bent bereid om buiten kantooruren beschikbaar te zijn en je in te werken in overheidsopdrachten en het management informatiesysteem van DAB Vloot.</li></ul><p>DAB Vloot van het agentschap Maritieme Dienstverlening en Kust (MDK) zet bemande en bedrijfsklare vaartuigen in voor opdrachten binnen de overheidsniche. Elke dag geven meer dan 500 mensen het beste van zichzelf op de Noordzee, het Scheldegebied en het kanaal Gent-Terneuzen.&nbsp;<br><br>Wil je deel uitmaken van ons team en mee instaan voor een veilig en vlot scheepvaartverkeer? Stel je dan zeker kandidaat!<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
           }
         }
       ]
@@ -1593,39 +1845,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20428",
-      "internal": false,
-      "validThroughDate": "1773705600",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20428",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "projectmedewerker voor afvangen wild-type stierkikkers"
-      },
-      "displayTitle": "projectmedewerker voor afvangen wild-type stierkikkers",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je in de maand&nbsp;<br>mei dagelijks (weekdagen) gedurende 3 à 4 weken vrij (1 maal per dag plaatsen en ledigen)?</p><p>Wij zoeken 2 jobstudenten voor het afvangen van wild-type stierkikkers d.m.v. fuiken binnenin de kweeksite&nbsp;<br>steriele kikkers van het LIFE 3n stierkikkerprojectplaatsen. De opdracht omvat het plaatsen en ledigen van&nbsp;<br>fuiken en de vangst inventariseren. De afvangsten van de doelsoort worden apart gehouden voor afvoer.&nbsp;<br>De fuiken moeten worden geplaatst en ’s anderendaags worden geledigd opnieuw worden opgesteld. De&nbsp;<br>opdracht wordt als team van 2 uitgevoerd. Dit dient iedere dag te gebeuren gedurende 3 à 4 weken.&nbsp;</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>",
-        "htmlEncoded": "<p>Ben jij een student en op zoek naar een boeiende studentenjob tijdens het schooljaar? Ben je in de maand&nbsp;<br>mei dagelijks (weekdagen) gedurende 3 à 4 weken vrij (1 maal per dag plaatsen en ledigen)?</p><p>Wij zoeken 2 jobstudenten voor het afvangen van wild-type stierkikkers d.m.v. fuiken binnenin de kweeksite&nbsp;<br>steriele kikkers van het LIFE 3n stierkikkerprojectplaatsen. De opdracht omvat het plaatsen en ledigen van&nbsp;<br>fuiken en de vangst inventariseren. De afvangsten van de doelsoort worden apart gehouden voor afvoer.&nbsp;<br>De fuiken moeten worden geplaatst en ’s anderendaags worden geledigd opnieuw worden opgesteld. De&nbsp;<br>opdracht wordt als team van 2 uitgevoerd. Dit dient iedere dag te gebeuren gedurende 3 à 4 weken.&nbsp;</p><p>Heb jij zin om deze taken uit te voeren, solliciteer dan zeker!</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Retie"
           }
         }
       ]
