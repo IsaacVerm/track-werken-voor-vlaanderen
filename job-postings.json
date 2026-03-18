@@ -1,11 +1,83 @@
 {
-  "totalItems": 141,
+  "totalItems": 144,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 140,
+  "lastItemOfPage": 143,
   "items": [
+    {
+      "link": "/Job/vdab-73299412",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "VDAB",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73299412",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p><p>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. </p><p><strong>Jouw verantwoordelijkheden</strong></p><ul><li>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</li><li>Aanspreekpunt voor applicaties in het portfolio.</li><li>Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</li></ul><p><strong>Jouw taken</strong></p><ul><li>Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</li><li>Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</li><li>Ondersteuning van het team bij productie-incidenten</li><li>Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</li></ul><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p><p>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. </p><p><strong>Jouw verantwoordelijkheden</strong></p><ul><li>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</li><li>Aanspreekpunt voor applicaties in het portfolio.</li><li>Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</li></ul><p><strong>Jouw taken</strong></p><ul><li>Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</li><li>Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</li><li>Ondersteuning van het team bij productie-incidenten</li><li>Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</li></ul><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73297654",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "VLAM",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73297654",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Allround Administratief Medewerker (m/v/x)"
+      },
+      "displayTitle": "Allround Administratief Medewerker (m/v/x)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Jouw functie</strong></p> \n<p>Als allround administratief medewerker speel je een belangrijke rol in de ondersteuning van het AB Register. Je staat dagelijks in contact met veehouders en verschaffers van antibiotica die gebruikmaken van het systeem.</p> \n<p><strong>Concreet betekent dit:</strong></p> \n<ul> \n<li>Je bent het eerste aanspreekpunt voor deelnemers via \n<strong>e-mail en telefoon </strong>.</li> \n<li>Je adviseert hen over administratieve procedures, technische vragen en het gebruik van het systeem (o.a. rapporten, deelname, wachtwoordbeheer).</li> \n<li>Je volgt vragen en meldingen nauwgezet op.</li> \n<li>Je ondersteunt bij de rapportering naar deelnemers en volgt dit proces van A tot Z mee op.</li> \n<li>Je beheert (mee) de website en helpt bij het opmaken en versturen van nieuwsbrieven.</li> \n<li>Je werkt samen met collega’s aan diverse projecten binnen AB Register.</li> </ul>",
+        "htmlEncoded": "<p><strong>Jouw functie</strong></p> \n<p>Als allround administratief medewerker speel je een belangrijke rol in de ondersteuning van het AB Register. Je staat dagelijks in contact met veehouders en verschaffers van antibiotica die gebruikmaken van het systeem.</p> \n<p><strong>Concreet betekent dit:</strong></p> \n<ul> \n<li>Je bent het eerste aanspreekpunt voor deelnemers via \n<strong>e-mail en telefoon </strong>.</li> \n<li>Je adviseert hen over administratieve procedures, technische vragen en het gebruik van het systeem (o.a. rapporten, deelname, wachtwoordbeheer).</li> \n<li>Je volgt vragen en meldingen nauwgezet op.</li> \n<li>Je ondersteunt bij de rapportering naar deelnemers en volgt dit proces van A tot Z mee op.</li> \n<li>Je beheert (mee) de website en helpt bij het opmaken en versturen van nieuwsbrieven.</li> \n<li>Je werkt samen met collega’s aan diverse projecten binnen AB Register.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73297603",
       "internal": false,
@@ -223,6 +295,72 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20176",
+      "internal": false,
+      "validThroughDate": "1775692800",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Inspectie/audit",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20176",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Scheepsauditor - Leidinggevend"
+      },
+      "displayTitle": "Scheepsauditor - Leidinggevend",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Ben jij een verbindende leider met organisatorisch inzicht en affiniteit met procesoptimalisatie? Wil je een team aansturen én zelf actief blijven als scheepsauditor? Dan is deze functie iets voor jou.<br></strong><br>Als leidinggevend scheepsauditor stuur je een team van 6 auditoren aan en zorg je voor een goede samenwerking, planning en professionele ontwikkeling. Je bent het aanspreekpunt voor interne en externe partners en vertegenwoordigt het team waar nodig. Daarnaast fungeer je als inhoudelijk klankbord bij complexe dossiers.<br>Je optimaliseert processen, werkinstructies en planning binnen het wettelijk kader en werkt actief aan de verdere verbetering van het auditproces. Je volgt samen met het team relevante ontwikkelingen op, zoals vergroening en automatisering, en zorgt voor implementatie binnen de werking. Ook beheer je externe opdrachten en budgetten.<br>Naast je leidinggevende rol voer je zelf audits en onderzoeken aan boord van binnenvaartschepen uit. Zo draag je bij aan veilige scheepvaart en bewaak je de kwaliteit van externe partners en hun dienstverlening.</p><p>Waar kom je terecht?<br data-end=\"1213\" data-start=\"1210\"> Je maakt deel uit van de Commissie van Deskundigen binnen de cel Binnenvaartbeleid en Certificering, verantwoordelijk voor certificering, audits en regelgeving in de binnenvaart.</p><p>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>",
+        "htmlEncoded": "<p><strong>Ben jij een verbindende leider met organisatorisch inzicht en affiniteit met procesoptimalisatie? Wil je een team aansturen én zelf actief blijven als scheepsauditor? Dan is deze functie iets voor jou.<br></strong><br>Als leidinggevend scheepsauditor stuur je een team van 6 auditoren aan en zorg je voor een goede samenwerking, planning en professionele ontwikkeling. Je bent het aanspreekpunt voor interne en externe partners en vertegenwoordigt het team waar nodig. Daarnaast fungeer je als inhoudelijk klankbord bij complexe dossiers.<br>Je optimaliseert processen, werkinstructies en planning binnen het wettelijk kader en werkt actief aan de verdere verbetering van het auditproces. Je volgt samen met het team relevante ontwikkelingen op, zoals vergroening en automatisering, en zorgt voor implementatie binnen de werking. Ook beheer je externe opdrachten en budgetten.<br>Naast je leidinggevende rol voer je zelf audits en onderzoeken aan boord van binnenvaartschepen uit. Zo draag je bij aan veilige scheepvaart en bewaak je de kwaliteit van externe partners en hun dienstverlening.</p><p>Waar kom je terecht?<br data-end=\"1213\" data-start=\"1210\"> Je maakt deel uit van de Commissie van Deskundigen binnen de cel Binnenvaartbeleid en Certificering, verantwoordelijk voor certificering, audits en regelgeving in de binnenvaart.</p><p>Lees meer over de job en het\nselectieproces in het selectiereglement als bijlage bij ‘meer informatie’.\nDownload dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        },
+        {
+          "address": {
+            "city": "Willebroek"
+          }
+        },
+        {
+          "address": {
+            "city": "Schoten"
+          }
+        },
+        {
+          "address": {
+            "city": "Evergem"
+          }
+        },
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/vdab-73290044",
       "internal": false,
       "validThroughDate": "-1",
@@ -391,8 +529,8 @@
       "displayTitle": "Beleidsadviseur EU en internationaal",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Als beleidsadviseur werk je mee aan het voorbereiden en ontwikkelen van het beleid. Meer bepaald ga je aan de slag in de cluster EU &amp; internationaal, binnen de dienst Beleidscoördinatie. Je werkt samen met<b> </b>de attaché landbouw en bereidt de Europese vergaderingen m.b.t. landbouw mee voor. Je krijgt een aantal beleidsthema’s toebedeeld waarvoor jij de informatie verzamelt en analyseert en waarvoor je beleidsvoorstellen of standpunten uitwerkt. Je werkt hiervoor nauw samen met experten binnen en buiten het agentschap. Strategische of politieke voorstellen worden afgetoetst met de leidinggevende, de leidende ambtenaar en/of het kabinet van de bevoegde minister. Indien nodig ga je ook in gesprek met belanghebbenden, om tot een goed onderbouwde en gedragen voorstel te komen. Je neemt deel aan diverse overlegfora (o.a. met andere overheidsdiensten) en bekijkt beleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen beleidsthema‘s. </span></p> <p><span>&nbsp;</span></p> <p><span>Je wordt ook ingeschakeld in het bilateraal, multilateraal en internationaal beleid. Samen met de experten en de leidinggevende worden afspraken gemaakt over de intensiteit van opvolging van de relevante thema’s en de doorstroming van relevante informatie van en naar de experten. </span></p> <p><span>&nbsp;</span></p> <p><span>Je neemt deel aan overlegfora binnen de Vlaamse overheid en de Belgische staat met betrekking tot het Europees of internationaal beleid dat jij opvolgt. Als deelnemer van het Agentschap Landbouw en Zeevisserij, focus je je op het belang voor en de impact op de landbouwsector. Je onderhoudt goede contacten binnen deze fora, gaat goed voorbereid naar het overleg en koppelt daarna terug naar betrokkenen binnen het agentschap.<span>&nbsp; </span></span></p> <p><span>&nbsp;</span></p> <p><span>Als beleidsadviseur EU &amp; internationaal ben je een belangrijk fundament in onze organisatie. Je kan snel de specifieke linken met landbouw en mogelijke knelpunten detecteren en -samen met de experten – mogelijke oplossingen zoeken. Je voelt je goed in het Europese en internationale milieu en kan vlot de vertaalslag maken naar het Vlaamse beleid. </span></p> <p><span>&nbsp;</span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>",
-        "htmlEncoded": "<p><span>Als beleidsadviseur werk je mee aan het voorbereiden en ontwikkelen van het beleid. Meer bepaald ga je aan de slag in de cluster EU &amp; internationaal, binnen de dienst Beleidscoördinatie. Je werkt samen met<b> </b>de attaché landbouw en bereidt de Europese vergaderingen m.b.t. landbouw mee voor. Je krijgt een aantal beleidsthema’s toebedeeld waarvoor jij de informatie verzamelt en analyseert en waarvoor je beleidsvoorstellen of standpunten uitwerkt. Je werkt hiervoor nauw samen met experten binnen en buiten het agentschap. Strategische of politieke voorstellen worden afgetoetst met de leidinggevende, de leidende ambtenaar en/of het kabinet van de bevoegde minister. Indien nodig ga je ook in gesprek met belanghebbenden, om tot een goed onderbouwde en gedragen voorstel te komen. Je neemt deel aan diverse overlegfora (o.a. met andere overheidsdiensten) en bekijkt beleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen beleidsthema‘s. </span></p> <p><span>&nbsp;</span></p> <p><span>Je wordt ook ingeschakeld in het bilateraal, multilateraal en internationaal beleid. Samen met de experten en de leidinggevende worden afspraken gemaakt over de intensiteit van opvolging van de relevante thema’s en de doorstroming van relevante informatie van en naar de experten. </span></p> <p><span>&nbsp;</span></p> <p><span>Je neemt deel aan overlegfora binnen de Vlaamse overheid en de Belgische staat met betrekking tot het Europees of internationaal beleid dat jij opvolgt. Als deelnemer van het Agentschap Landbouw en Zeevisserij, focus je je op het belang voor en de impact op de landbouwsector. Je onderhoudt goede contacten binnen deze fora, gaat goed voorbereid naar het overleg en koppelt daarna terug naar betrokkenen binnen het agentschap.<span>&nbsp; </span></span></p> <p><span>&nbsp;</span></p> <p><span>Als beleidsadviseur EU &amp; internationaal ben je een belangrijk fundament in onze organisatie. Je kan snel de specifieke linken met landbouw en mogelijke knelpunten detecteren en -samen met de experten – mogelijke oplossingen zoeken. Je voelt je goed in het Europese en internationale milieu en kan vlot de vertaalslag maken naar het Vlaamse beleid. </span></p> <p><span>&nbsp;</span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>"
+        "raw": "<p><span>Als beleidsadviseur werk je mee aan het voorbereiden en ontwikkelen van het beleid. Meer bepaald ga je aan de slag in de cluster EU &amp; internationaal, binnen de dienst Beleidscoördinatie. Je werkt samen met<b> </b>de attaché landbouw en bereidt de Europese vergaderingen m.b.t. landbouw mee voor. Je krijgt een aantal beleidsthema’s toebedeeld waarvoor jij de informatie verzamelt en analyseert en waarvoor je beleidsvoorstellen of standpunten uitwerkt. Je werkt hiervoor nauw samen met experten binnen en buiten het agentschap. Strategische of politieke voorstellen worden afgetoetst met de leidinggevende, de leidende ambtenaar en/of het kabinet van de bevoegde minister. Indien nodig ga je ook in gesprek met belanghebbenden, om tot een goed onderbouwde en gedragen voorstel te komen. Je neemt deel aan diverse overlegfora (o.a. met andere overheidsdiensten) en bekijkt beleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen beleidsthema‘s.</span><span></span></p> <p><span>Je wordt ook ingeschakeld in het bilateraal, multilateraal en internationaal beleid. Samen met de experten en de leidinggevende worden afspraken gemaakt over de intensiteit van opvolging van de relevante thema’s en de doorstroming van relevante informatie van en naar de experten.</span><span></span></p> <p><span>Je neemt deel aan overlegfora binnen de Vlaamse overheid en de Belgische staat met betrekking tot het Europees of internationaal beleid dat jij opvolgt. Als deelnemer van het Agentschap Landbouw en Zeevisserij, focus je je op het belang voor en de impact op de landbouwsector. Je onderhoudt goede contacten binnen deze fora, gaat goed voorbereid naar het overleg en koppelt daarna terug naar betrokkenen binnen het agentschap.<span>&nbsp;</span></span><span></span></p> <p><span>Als beleidsadviseur EU &amp; internationaal ben je een belangrijk fundament in onze organisatie. Je kan snel de specifieke linken met landbouw en mogelijke knelpunten detecteren en -samen met de experten – mogelijke oplossingen zoeken. Je voelt je goed in het Europese en internationale milieu en kan vlot de vertaalslag maken naar het Vlaamse beleid.</span><span></span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>",
+        "htmlEncoded": "<p><span>Als beleidsadviseur werk je mee aan het voorbereiden en ontwikkelen van het beleid. Meer bepaald ga je aan de slag in de cluster EU &amp; internationaal, binnen de dienst Beleidscoördinatie. Je werkt samen met<b> </b>de attaché landbouw en bereidt de Europese vergaderingen m.b.t. landbouw mee voor. Je krijgt een aantal beleidsthema’s toebedeeld waarvoor jij de informatie verzamelt en analyseert en waarvoor je beleidsvoorstellen of standpunten uitwerkt. Je werkt hiervoor nauw samen met experten binnen en buiten het agentschap. Strategische of politieke voorstellen worden afgetoetst met de leidinggevende, de leidende ambtenaar en/of het kabinet van de bevoegde minister. Indien nodig ga je ook in gesprek met belanghebbenden, om tot een goed onderbouwde en gedragen voorstel te komen. Je neemt deel aan diverse overlegfora (o.a. met andere overheidsdiensten) en bekijkt beleidsmatige voorstellen van anderen die gelinkt zijn aan je eigen beleidsthema‘s.</span><span></span></p> <p><span>Je wordt ook ingeschakeld in het bilateraal, multilateraal en internationaal beleid. Samen met de experten en de leidinggevende worden afspraken gemaakt over de intensiteit van opvolging van de relevante thema’s en de doorstroming van relevante informatie van en naar de experten.</span><span></span></p> <p><span>Je neemt deel aan overlegfora binnen de Vlaamse overheid en de Belgische staat met betrekking tot het Europees of internationaal beleid dat jij opvolgt. Als deelnemer van het Agentschap Landbouw en Zeevisserij, focus je je op het belang voor en de impact op de landbouwsector. Je onderhoudt goede contacten binnen deze fora, gaat goed voorbereid naar het overleg en koppelt daarna terug naar betrokkenen binnen het agentschap.<span>&nbsp;</span></span><span></span></p> <p><span>Als beleidsadviseur EU &amp; internationaal ben je een belangrijk fundament in onze organisatie. Je kan snel de specifieke linken met landbouw en mogelijke knelpunten detecteren en -samen met de experten – mogelijke oplossingen zoeken. Je voelt je goed in het Europese en internationale milieu en kan vlot de vertaalslag maken naar het Vlaamse beleid.</span><span></span></p> <p><span>Zo draag jij je steentje bij aan de missie van onze organisatie “Vooruit voor (h)eerlijk voedsel in Vlaanderen”.</span></p>"
       },
       "locations": [
         {
