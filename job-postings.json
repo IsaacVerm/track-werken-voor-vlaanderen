@@ -1,11 +1,47 @@
 {
-  "totalItems": 128,
+  "totalItems": 129,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 127,
+  "lastItemOfPage": 128,
   "items": [
+    {
+      "link": "/Job/vdab-73306692",
+      "internal": false,
+      "validThroughDate": "1774828800",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73306692",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "klinisch psycholoog"
+      },
+      "displayTitle": "klinisch psycholoog",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als klinisch psycholoog:</span></p> \n<ul type=\"disc\"> \n<li><span>Bouw je mee aan visie, beleid en methodieken binnen het PVT</span></li> \n<li><span>Operationaliseer je mee het zorginhoudelijk beleid rond bepaalde thema’s (bv. suïcidepreventie, verslaving, …)</span></li> \n<li><span>Voer je op indicatie individuele gesprekken met bewoners</span></li> \n<li><span>Ondersteun je mentoren bij het opstellen van signalerings- en ondersteuningsplannen</span></li> \n<li><span>Ondersteun je het creëren van een herstelbevorderend woonzorgaanbod</span></li> \n<li><span>Doe je psychodiagnostisch onderzoek op indicatie (eerder zelden)</span></li> \n<li><span>Begeleid je op vraag de teams via intervisiemomenten</span></li> \n<li><span>Voer je taken uit in afstemming met de teamcoördinator van PVT2 en/ of de psychiater van PVT en in samenwerking met andere leden van het team</span></li> </ul>",
+        "htmlEncoded": "<p><span>Als klinisch psycholoog:</span></p> \n<ul type=\"disc\"> \n<li><span>Bouw je mee aan visie, beleid en methodieken binnen het PVT</span></li> \n<li><span>Operationaliseer je mee het zorginhoudelijk beleid rond bepaalde thema’s (bv. suïcidepreventie, verslaving, …)</span></li> \n<li><span>Voer je op indicatie individuele gesprekken met bewoners</span></li> \n<li><span>Ondersteun je mentoren bij het opstellen van signalerings- en ondersteuningsplannen</span></li> \n<li><span>Ondersteun je het creëren van een herstelbevorderend woonzorgaanbod</span></li> \n<li><span>Doe je psychodiagnostisch onderzoek op indicatie (eerder zelden)</span></li> \n<li><span>Begeleid je op vraag de teams via intervisiemomenten</span></li> \n<li><span>Voer je taken uit in afstemming met de teamcoördinator van PVT2 en/ of de psychiater van PVT en in samenwerking met andere leden van het team</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73299412",
       "internal": false,
