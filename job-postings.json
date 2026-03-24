@@ -1,11 +1,119 @@
 {
-  "totalItems": 114,
+  "totalItems": 113,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 113,
+  "lastItemOfPage": 112,
   "items": [
+    {
+      "link": "/Job/vdab-73342193",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "VDAB",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73342193",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Java developers (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Java developers (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p><span></span><span>XJe functie in het kort‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.Om de continuïteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.Als Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p><p><span><strong>Wat doe je (graag)?</strong>● Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap● Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.● We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.● Je passie is het ontwikkelen van kwaliteitsvolle software.</span></p><p><span><strong>Technologieën die binnen de afdeling gebruikt worden:</strong>Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,...</span></p><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p><span></span><span>XJe functie in het kort‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.Om de continuïteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.Als Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</span></p><p><span><strong>Wat doe je (graag)?</strong>● Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap● Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.● We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.● Je passie is het ontwikkelen van kwaliteitsvolle software.</span></p><p><span><strong>Technologieën die binnen de afdeling gebruikt worden:</strong>Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,...</span></p><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73342191",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "VDAB",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73342191",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Solution Architect (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Solution Architect (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p><span></span><span>XAls Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p><span></span><span>XAls Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20832",
+      "internal": false,
+      "validThroughDate": "1776211200",
+      "hiringOrganization": "ILVO Dier",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20832",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Poetspersoneel"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Poetspersoneel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Ben je gemotiveerd om in de\nschoonmaak te werken? Werk je graag samen met anderen, maar kun je ook\nzelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem\nje graag je taken af met collega's? Dan is deze job iets voor jou!</p><p><strong>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</strong></p><p><strong>&nbsp;</strong></p>",
+        "htmlEncoded": "<p>Ben je gemotiveerd om in de\nschoonmaak te werken? Werk je graag samen met anderen, maar kun je ook\nzelfstandig taken uitvoeren? Heb je goede communicatieve vaardigheden en stem\nje graag je taken af met collega's? Dan is deze job iets voor jou!</p><p><strong>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</strong></p><p><strong>&nbsp;</strong></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20799",
       "internal": false,
@@ -48,6 +156,42 @@
         {
           "address": {
             "city": "Vilvoorde"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20455",
+      "internal": false,
+      "validThroughDate": "1776384000",
+      "hiringOrganization": "Departement Omgeving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20455",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jurist omgevingsrecht"
+      },
+      "displayTitle": "Jurist omgevingsrecht",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Het Departement Omgeving zoekt een jurist omgevingsrecht die mee de schouders zet onder de implementatie van het Europese regelgevend kader voor realisatie van de Europese klimaatdoelstellingen binnen het Vlaamse omgevingsbeleid. Het gaat meer specifiek om Europese richtlijnen en verordeningen die een sterke impact hebben op de internrechtelijke vergunningverlening, de milieueffectrapportering, het milieuhygiëne- en milieubeheerrecht en de ruimtelijke planning.<br> <br> In deze functie ondersteun je jouw collega’s, afdelingen binnen het departement, entiteiten van het beleidsdomein Omgeving en het kabinet van de bevoegde minister met juridisch advies over de toepassing en interpretatie van regelgeving uit het omgevingsrecht Je doet dit in het bijzonder op het vlak van omgevingsvergunningverlening, milieueffectenrapportering en milieuhygiëne. Je denkt in deze materie mee over nieuwe regelgeving, beheert rechtszaken en instrueert de aangestelde advocaten.<br> <br> <b>Wie zoeken wij?<br> <br> </b>De Vlaamse overheid wil de diverse samenleving weerspiegelen en selecteert op basis van kwaliteiten en vaardigheden, los van geslacht, gender, afkomst, leeftijd of handicap.<br> <br> Je voelt je als jurist thuis in de leefwereld van vergunningen, milieueffectrapportage en milieuhygiëne of je bent bereid om je er snel en grondig in in te werken.<br> <br> Jij bent iemand die:</span><span></span></p><ul><li><span>&nbsp;</span><span>vlot verbanden legt en complexe dossiers vanuit verschillende invalshoeken kan benaderen;</span></li><li>Graag samenwerkt met collega’s, experten en externe partners;</li><li>Helder en gestructureerd communiceert;</li><li>Zich graag vastbijt in uitdagende juridische vraagstukken die ertoe doen.</li></ul><p><span>Als jij klaar bent om je onder te dompelen in het omgevingsrecht, dan pas jij perfect in ons team.<br> <br> <b>Wat ga je doen?<br> <br> </b>In deze veelzijdige functie werk je dagelijks mee aan actuele beleidsdossiers die het hart van het omgevingsrecht raken. Je taken omvatten:</span></p><ul><li><span>je bestudeert dossiers, analyseert beleidsvraagstukken grondig, haalt snel de essentie naar boven en formuleert onderbouwde juridische inzichten;</span></li><li>Je faciliteert vergaderingen en verslaglegging, zorgt voor structuur, duiding en duidelijke communicatie zodat besluitvorming efficiënt kan verlopen;</li><li>Je vertaalt juridische en beleidsmatige inzichten naar concrete, gedragen juridische en beleidsadviezen;</li><li>Je werkt mee aan nieuwe regelgeving binnen omgevingsvergunningen, MER, milieuhygiëne en verwante domeinen;</li><li>Je beheert rechtszaken binnen jouw materies en stuurt de door jou aangestelde advocaten inhoudelijk aan;</li><li>Je werkt nauw samen met collega-juristen en beleidsmedewerkers die elk hun eigen thema’s beheren en die rekenen op jouw expertise;</li><li>Soms vragen we flexibele inzet op andere taken of opdrachten.</li></ul><p><span>Een dynamische rol dus, waarin je snel schakelt, juridisch uitgedaagd wordt en tastbare impact hebt op de leefomgeving van morgen.<br> <br> Ben jij een teamspeler met juridisch inzicht, maatschappelijke gedrevenheid en goesting om impactvol beleid vorm te geven? </span></p><p><span>Aarzel niet en solliciteer vandaag nog.</span></p>",
+        "htmlEncoded": "<p><span>Het Departement Omgeving zoekt een jurist omgevingsrecht die mee de schouders zet onder de implementatie van het Europese regelgevend kader voor realisatie van de Europese klimaatdoelstellingen binnen het Vlaamse omgevingsbeleid. Het gaat meer specifiek om Europese richtlijnen en verordeningen die een sterke impact hebben op de internrechtelijke vergunningverlening, de milieueffectrapportering, het milieuhygiëne- en milieubeheerrecht en de ruimtelijke planning.<br> <br> In deze functie ondersteun je jouw collega’s, afdelingen binnen het departement, entiteiten van het beleidsdomein Omgeving en het kabinet van de bevoegde minister met juridisch advies over de toepassing en interpretatie van regelgeving uit het omgevingsrecht Je doet dit in het bijzonder op het vlak van omgevingsvergunningverlening, milieueffectenrapportering en milieuhygiëne. Je denkt in deze materie mee over nieuwe regelgeving, beheert rechtszaken en instrueert de aangestelde advocaten.<br> <br> <b>Wie zoeken wij?<br> <br> </b>De Vlaamse overheid wil de diverse samenleving weerspiegelen en selecteert op basis van kwaliteiten en vaardigheden, los van geslacht, gender, afkomst, leeftijd of handicap.<br> <br> Je voelt je als jurist thuis in de leefwereld van vergunningen, milieueffectrapportage en milieuhygiëne of je bent bereid om je er snel en grondig in in te werken.<br> <br> Jij bent iemand die:</span><span></span></p><ul><li><span>&nbsp;</span><span>vlot verbanden legt en complexe dossiers vanuit verschillende invalshoeken kan benaderen;</span></li><li>Graag samenwerkt met collega’s, experten en externe partners;</li><li>Helder en gestructureerd communiceert;</li><li>Zich graag vastbijt in uitdagende juridische vraagstukken die ertoe doen.</li></ul><p><span>Als jij klaar bent om je onder te dompelen in het omgevingsrecht, dan pas jij perfect in ons team.<br> <br> <b>Wat ga je doen?<br> <br> </b>In deze veelzijdige functie werk je dagelijks mee aan actuele beleidsdossiers die het hart van het omgevingsrecht raken. Je taken omvatten:</span></p><ul><li><span>je bestudeert dossiers, analyseert beleidsvraagstukken grondig, haalt snel de essentie naar boven en formuleert onderbouwde juridische inzichten;</span></li><li>Je faciliteert vergaderingen en verslaglegging, zorgt voor structuur, duiding en duidelijke communicatie zodat besluitvorming efficiënt kan verlopen;</li><li>Je vertaalt juridische en beleidsmatige inzichten naar concrete, gedragen juridische en beleidsadviezen;</li><li>Je werkt mee aan nieuwe regelgeving binnen omgevingsvergunningen, MER, milieuhygiëne en verwante domeinen;</li><li>Je beheert rechtszaken binnen jouw materies en stuurt de door jou aangestelde advocaten inhoudelijk aan;</li><li>Je werkt nauw samen met collega-juristen en beleidsmedewerkers die elk hun eigen thema’s beheren en die rekenen op jouw expertise;</li><li>Soms vragen we flexibele inzet op andere taken of opdrachten.</li></ul><p><span>Een dynamische rol dus, waarin je snel schakelt, juridisch uitgedaagd wordt en tastbare impact hebt op de leefomgeving van morgen.<br> <br> Ben jij een teamspeler met juridisch inzicht, maatschappelijke gedrevenheid en goesting om impactvol beleid vorm te geven? </span></p><p><span>Aarzel niet en solliciteer vandaag nog.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -109,37 +253,37 @@
       ]
     },
     {
-      "link": "/Job/vdab-73334219",
+      "link": "/Job/cornerstone-20435",
       "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "VDAB",
-      "reservedForDisability": null,
+      "validThroughDate": "1775865600",
+      "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
+      "reservedForDisability": false,
       "openPositions": 1,
-      "domain": "ICT",
+      "domain": "Inspectie/audit",
       "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
+        "code": "A",
+        "name": "Masterdiploma"
       },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73334219",
+      "degreeEqualByExperience": true,
+      "identifier": "cornerstone-20435",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect"
+        "htmlEncoded": "Sociaal Rechtelijk inspecteur"
       },
-      "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
+      "displayTitle": "Sociaal Rechtelijk inspecteur",
       "isProtected": false,
       "description": {
-        "raw": "<p></p><p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p><p><span></span></p><p><span><strong>Jouw verantwoordelijkheden</strong></span></p><p><span>- </span><span><span>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</span></span></p><p><span><span>-Aanspreekpunt voor applicaties in het portfolio.Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</span></span><span> </span></p><p><span><strong>Jouw taken </strong></span></p><p><span>- Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</span></p><p><span>- Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</span></p><p><span>- Ondersteuning van het team bij productie-incidenten</span></p><p><span>- Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</span></p><p> </p><p> </p><b><p></p>\n</b>",
-        "htmlEncoded": "<p></p><p><span>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam.</span></p><p><span></span></p><p><span><strong>Jouw verantwoordelijkheden</strong></span></p><p><span>- </span><span><span>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</span></span></p><p><span><span>-Aanspreekpunt voor applicaties in het portfolio.Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</span></span><span> </span></p><p><span><strong>Jouw taken </strong></span></p><p><span>- Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</span></p><p><span>- Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</span></p><p><span>- Ondersteuning van het team bij productie-incidenten</span></p><p><span>- Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</span></p><p> </p><p> </p><b><p></p>\n</b>"
+        "raw": "<p><span>Wil je je steentje bijdragen aan een meer rechtvaardige samenleving? Heb je een kritische geest en kan je je inzichten vertalen in heldere syntheses? Hou je van een divers takenpakket? Sta je sterk in je schoenen? Ben je stressbestendig? Dan ben jij ongetwijfeld geïnteresseerd in wat we te bieden hebben.&nbsp;<br> <br> Als sociaalrechtelijk inspecteur zet je mee jouw schouders onder de uitvoering van inspecties op locatie. De bijhorende administratie voer je uit op kantoor of thuis. Als inspecteur kan je een onderzoek instellen naar een brede waaier van materies zoals discriminatie op het vlak van werk, tewerkstelling van buitenlandse werknemers, uitzendbureaus, dienstencheque-activiteiten, sociale economie (onder meer maatwerkbedrijven &amp; lokale diensteneconomie), competentie- en loopbaanmaatregelen, maatregelen ter bevordering van levenslang leren en ondernemen… Je respecteert hierbij de deontologische code voor inspecties. Je krijgt een grote mate van autonomie in de uitoefening van je job, en werkt tegelijk ook graag samen met zowel interne als externe collega-inspecteurs.&nbsp;<br></span></p> <p><span>Een greep uit je takenpakket:&nbsp;</span></p> <ul type=\"disc\"> <li><span>Je verstrekt informatie (aan werkgevers, werknemers, gebruikers, opleidingsverstrekkers…) over de geldende normen, aanpak, procedures, methodologie….</span></li> <li><span>Je voert controles, audits, analyses en toezichten ter plaatse uit in verschillende contexten.</span></li> <li><span>Je vat je bevindingen samen en komt tot een advies en/of verslag.</span></li> <li><span>Je overlegt en deelt kennis met je collega’s.</span></li> <li><span>Je stelt pv’s van waarschuwing op, bepaalt de termijnen waarbinnen verplichtingen moeten worden nagekomen, verbaliseert en speelt gegevens door aan het parket indien je optreedt in materies waar de regelgeving dit voorziet.&nbsp;</span></li></ul> <p><span>Medewerkers van de Afdeling Vlaamse Sociale Inspectie hebben hun standplaats in één van de regionale&nbsp;VAC’s (VAC Brugge, VAC&nbsp;</span><span>Gent, VAC Antwerpen, VAC Leuven of VAC Hasselt) of op het hoofdkantoor in Brussel. Voor deze vacature zoeken we specifiek&nbsp;</span><span>kandidaten voor de regio Halle-Vilvoorde. Je voert je toezichtsopdrachten zoveel mogelijk uit in je eigen regio, maar je kunt ook&nbsp;</span><span>gevraagd worden om je te verplaatsen binnen heel Vlaanderen. Je standplaats wordt vastgesteld op Leuven.&nbsp;</span><span>Bij de verdeling van de dossiers houden we maximaal rekening met je inhoudelijke interesses, maar we verwachten ook enige&nbsp;</span><span>flexibiliteit. Motivatie en leerbereidheid zijn hierin zeer belangrijk.&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij&nbsp;</span><span>voor het verdere verloop van de procedure.</span></p>",
+        "htmlEncoded": "<p><span>Wil je je steentje bijdragen aan een meer rechtvaardige samenleving? Heb je een kritische geest en kan je je inzichten vertalen in heldere syntheses? Hou je van een divers takenpakket? Sta je sterk in je schoenen? Ben je stressbestendig? Dan ben jij ongetwijfeld geïnteresseerd in wat we te bieden hebben.&nbsp;<br> <br> Als sociaalrechtelijk inspecteur zet je mee jouw schouders onder de uitvoering van inspecties op locatie. De bijhorende administratie voer je uit op kantoor of thuis. Als inspecteur kan je een onderzoek instellen naar een brede waaier van materies zoals discriminatie op het vlak van werk, tewerkstelling van buitenlandse werknemers, uitzendbureaus, dienstencheque-activiteiten, sociale economie (onder meer maatwerkbedrijven &amp; lokale diensteneconomie), competentie- en loopbaanmaatregelen, maatregelen ter bevordering van levenslang leren en ondernemen… Je respecteert hierbij de deontologische code voor inspecties. Je krijgt een grote mate van autonomie in de uitoefening van je job, en werkt tegelijk ook graag samen met zowel interne als externe collega-inspecteurs.&nbsp;<br></span></p> <p><span>Een greep uit je takenpakket:&nbsp;</span></p> <ul type=\"disc\"> <li><span>Je verstrekt informatie (aan werkgevers, werknemers, gebruikers, opleidingsverstrekkers…) over de geldende normen, aanpak, procedures, methodologie….</span></li> <li><span>Je voert controles, audits, analyses en toezichten ter plaatse uit in verschillende contexten.</span></li> <li><span>Je vat je bevindingen samen en komt tot een advies en/of verslag.</span></li> <li><span>Je overlegt en deelt kennis met je collega’s.</span></li> <li><span>Je stelt pv’s van waarschuwing op, bepaalt de termijnen waarbinnen verplichtingen moeten worden nagekomen, verbaliseert en speelt gegevens door aan het parket indien je optreedt in materies waar de regelgeving dit voorziet.&nbsp;</span></li></ul> <p><span>Medewerkers van de Afdeling Vlaamse Sociale Inspectie hebben hun standplaats in één van de regionale&nbsp;VAC’s (VAC Brugge, VAC&nbsp;</span><span>Gent, VAC Antwerpen, VAC Leuven of VAC Hasselt) of op het hoofdkantoor in Brussel. Voor deze vacature zoeken we specifiek&nbsp;</span><span>kandidaten voor de regio Halle-Vilvoorde. Je voert je toezichtsopdrachten zoveel mogelijk uit in je eigen regio, maar je kunt ook&nbsp;</span><span>gevraagd worden om je te verplaatsen binnen heel Vlaanderen. Je standplaats wordt vastgesteld op Leuven.&nbsp;</span><span>Bij de verdeling van de dossiers houden we maximaal rekening met je inhoudelijke interesses, maar we verwachten ook enige&nbsp;</span><span>flexibiliteit. Motivatie en leerbereidheid zijn hierin zeer belangrijk.&nbsp;</span></p> <p><span>Lees meer over de functie in het selectiereglement als bijlage ‘Meer informatie’. Download dit selectiereglement en hou het bij&nbsp;</span><span>voor het verdere verloop van de procedure.</span></p>"
       },
       "locations": [
         {
           "address": {
-            "city": "Brussel"
+            "city": "Leuven"
           }
         }
       ]
@@ -1543,42 +1687,6 @@
         {
           "address": {
             "city": "Zemst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73254846",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73254846",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Functioneel applicatie architect (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Jouw toekomstige job</strong></p> \n<p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p> \n<p>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB. Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur. Moderne context: je komt in contact met veel moderne technologieën.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<ul> \n<li>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</li> \n<li>Aanspreekpunt voor applicaties in het portfolio.</li> \n<li>Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</li> </ul> \n<p><strong>Jouw taken</strong></p> \n<ul> \n<li>Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</li> \n<li>Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</li> \n<li>Ondersteuning van het team bij productie-incidenten</li> \n<li>Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</li> </ul>",
-        "htmlEncoded": "<p><strong>Jouw toekomstige job</strong></p> \n<p>‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.</p> \n<p>Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB. Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur. Moderne context: je komt in contact met veel moderne technologieën.</p> \n<p><strong>Jouw verantwoordelijkheden</strong></p> \n<ul> \n<li>Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.</li> \n<li>Aanspreekpunt voor applicaties in het portfolio.</li> \n<li>Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.</li> </ul> \n<p><strong>Jouw taken</strong></p> \n<ul> \n<li>Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.</li> \n<li>Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.</li> \n<li>Ondersteuning van het team bij productie-incidenten</li> \n<li>Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -3314,42 +3422,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72967721",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72967721",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Java back-end developer bij team Icarus (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Java back-end developer bij team Icarus (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Wie zijn wij?</strong></p> \n<p>Bij VDAB kiezen wij resoluut voor technologische innovatie en schaalbare oplossingen. Binnen ons team, Icarus, vormen wij de cruciale schakel in een uitgebreid ecosysteem van interne en externe partners. Wij focussen ons op het ontwerpen van complexe integraties die een vlotte en betrouwbare gegevensuitwisseling garanderen. Wij bouwen oplossingen met een langetermijnvisie: duurzame software die steunt op een robuuste architectuur en een kwaliteitsvolle uitvoering.</p> \n<p>Je komt terecht in een zeer open, gedreven en goed omkaderd team. Icarus bestaat uit een teamleider, een Scrum-master, een technisch architect, een functioneel architect, twee analisten, een lead developer, vijf ontwikkelaars en twee testers. Zo sta je er nooit alleen voor en krijg je volop de ruimte om te groeien.</p> \n<p><strong>Welke verantwoordelijkheden neem je op?</strong></p> \n<ul> \n<li>Uitdagende integraties: Je zet de lijnen uit voor een feilloze synchrone en asynchrone gegevensuitwisseling tussen VDAB en diverse externe partners.</li> \n<li>Technisch ontwerp: Je slaat de brug tussen business en IT. Je vertaalt functionele noden naar een ijzersterk technisch design en werkt nauw samen met analisten om user stories succesvol te realiseren.</li> \n<li>Back-endontwikkeling: Je schrijft zuivere, toekomstgerichte code en bouwt actief mee aan de vernieuwing en schaalbaarheid van ons applicatieportfolio.</li> \n<li>Kwaliteit: Je laat niets aan het toeval over. Met een uitgebreide testsuite, kritische codereviews en een wakkere blik op privacygevoelige gegevens garandeer je absolute topkwaliteit.</li> \n<li>Agile teamwork: Je bent een onmisbare schakel in ons Scrum-team. Samen met architecten, testers, analisten en je medeontwikkelaars heb je een actieve inbreng tijdens refinements en bewaak je de haalbaarheid in sprintplanningen.</li> </ul> \n<p><strong>Jouw taken</strong></p> \n<ul> \n<li>Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap.</li> \n<li>Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</li> \n<li>We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</li> </ul>",
-        "htmlEncoded": "<p><strong>Wie zijn wij?</strong></p> \n<p>Bij VDAB kiezen wij resoluut voor technologische innovatie en schaalbare oplossingen. Binnen ons team, Icarus, vormen wij de cruciale schakel in een uitgebreid ecosysteem van interne en externe partners. Wij focussen ons op het ontwerpen van complexe integraties die een vlotte en betrouwbare gegevensuitwisseling garanderen. Wij bouwen oplossingen met een langetermijnvisie: duurzame software die steunt op een robuuste architectuur en een kwaliteitsvolle uitvoering.</p> \n<p>Je komt terecht in een zeer open, gedreven en goed omkaderd team. Icarus bestaat uit een teamleider, een Scrum-master, een technisch architect, een functioneel architect, twee analisten, een lead developer, vijf ontwikkelaars en twee testers. Zo sta je er nooit alleen voor en krijg je volop de ruimte om te groeien.</p> \n<p><strong>Welke verantwoordelijkheden neem je op?</strong></p> \n<ul> \n<li>Uitdagende integraties: Je zet de lijnen uit voor een feilloze synchrone en asynchrone gegevensuitwisseling tussen VDAB en diverse externe partners.</li> \n<li>Technisch ontwerp: Je slaat de brug tussen business en IT. Je vertaalt functionele noden naar een ijzersterk technisch design en werkt nauw samen met analisten om user stories succesvol te realiseren.</li> \n<li>Back-endontwikkeling: Je schrijft zuivere, toekomstgerichte code en bouwt actief mee aan de vernieuwing en schaalbaarheid van ons applicatieportfolio.</li> \n<li>Kwaliteit: Je laat niets aan het toeval over. Met een uitgebreide testsuite, kritische codereviews en een wakkere blik op privacygevoelige gegevens garandeer je absolute topkwaliteit.</li> \n<li>Agile teamwork: Je bent een onmisbare schakel in ons Scrum-team. Samen met architecten, testers, analisten en je medeontwikkelaars heb je een actieve inbreng tijdens refinements en bewaak je de haalbaarheid in sprintplanningen.</li> </ul> \n<p><strong>Jouw taken</strong></p> \n<ul> \n<li>Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap.</li> \n<li>Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</li> \n<li>We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19932",
       "internal": false,
       "validThroughDate": "-1",
@@ -3494,42 +3566,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72791845",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72791845",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager solution architectuur (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Manager solution architectuur (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>",
-        "htmlEncoded": "<p><span>VDAB zoekt een Manager Solution Architectuur die visie koppelt aan communicatieskills en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het IT-landschap van VDAB, inspireert en een context creëert waarin architecten complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Onze nieuwe Manager Solution architectuur bevindt zich graag op het kruispunt van verschillende processen op het operationele, tactische en strategische niveau. </span></p> \n<p><strong><span>Wat doe je (graag)?</span></strong></p> \n<p><span>● </span><span>Leiding en groei van het Solution Architectuurteam, zowel individueel als groep, inclusief coaching, evaluatie, opleiding en ontwikkeling van talent, en kwaliteitsopvolging en -verbetering</span></p> \n<p><span>● </span><span>Aanspreekpunt voor escalaties en vragen omtrent inzet van Solution Architecten, zowel internen als externen</span></p> \n<p><span>Goede verbindende vaardigheden en mature conflict hantering met verschillende stakeholders binnen de organisatie </span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-19915",
       "internal": false,
       "validThroughDate": "-1",
@@ -3638,42 +3674,6 @@
         {
           "address": {
             "city": "Turnhout"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72589026",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72589026",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Java developers (VDAB) via Vlaanderen connect"
-      },
-      "displayTitle": "Java developers (VDAB) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</p> \n<p>Om de continuïteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</p> \n<p>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</p> \n<p>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</p> \n<p>Als Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</p> \n<p><strong>Wat doe je (graag)?</strong></p> \n<p>● Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap</p> \n<p>● Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</p> \n<p>● We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</p> \n<p>● Je passie is het ontwikkelen van kwaliteitsvolle software.</p> \n<p><strong>Technologieën die binnen de afdeling gebruikt worden:</strong></p> \n<p>Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,...</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Je komt terecht binnen 1 van onze teams van Software Factory</span></p>",
-        "htmlEncoded": "<p>‘Software factory’ is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties als ook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden.</p> \n<p>Om de continuïteit en de kwaliteit van het developmentproces te garanderen zet SWF in op interne medewerkers die ook de kennis kunnen borgen.</p> \n<p>VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen.VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.</p> \n<p>Een typisch java softwareteam bij VDAB bestaat uit een teamleider, technisch architect, een functioneel architecten, analisten, developers, een lead developer en 2 testers.</p> \n<p>Als Java developer maak je deel uit van het VDAB ‘Software factory’ team en rapporteer je aan de Teamlead.</p> \n<p><strong>Wat doe je (graag)?</strong></p> \n<p>● Je ontwikkelt samen met je team bedrijfstoepassingen die gedurende hun volledige levenscyclus in het portfolio blijven van je team. Je bewaakt hierbij de gezondheid van deze applicaties en up-to-date houden binnen het applicatielandschap</p> \n<p>● Je geeft feedback aan analisten om user stories - zowel functioneel als technisch - correct op te maken, om ze vervolgens samen met het team te bespreken tijdens een refinement sessie. Na het inschatten en prioriteren worden deze user stories vervolgens opgenomen in de sprint planning, volgens beschikbare capaciteit.</p> \n<p>● We streven naar continue verbetering van onze werking, dit zowel binnen het team als binnen de organisatie, en onze processen. Een proactieve constructieve houding is in deze essentieel.</p> \n<p>● Je passie is het ontwikkelen van kwaliteitsvolle software.</p> \n<p><strong>Technologieën die binnen de afdeling gebruikt worden:</strong></p> \n<p>Java 17 en hoger, spring/spring boot, axon, amq, kafka, jira, confluence, sonarcube, open shift,...</p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.</span></p> \n<p><strong>Jouw toekomstig team</strong></p> \n<p><span>Je komt terecht binnen 1 van onze teams van Software Factory</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
@@ -4070,42 +4070,6 @@
         {
           "address": {
             "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-70410630",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-70410630",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Solution Architect (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Solution Architect (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span lang=\"NL\">Als Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p> \n<p><span lang=\"NL\"><br></span></p> \n<p><strong><span>Wat doe je (graag) ?</span></strong></p> \n<p><strong></strong>·         Je vertaalt een concrete vraag van de business naar veranderingen die nodig zijn in het applicatielandschap. Dit doe je door brainstormsessies te leiden waar mogelijke oplossing voor business problemen worden bedacht, door opportuniteiten voor procesverbeteringen te identificeren, door samen te werken met business en IT.</p> \n<p><span><span>·\n<span> </span></span></span><span>Je bent verantwoordelijk voor de “fit for purpose” van de oplossing en de alignering met het kader geschept door de Enterprise Architecten. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je steunt daarbij op de Applicatie Architecten voor concrete detailkennis over de functionele en technische aspecten van de betrokken applicaties en het uitwerken van veranderingen eraan. De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin business services, capabilities, processen en applicatie services voldoen aan de huidige noden en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><strong><span>Jouw toekomstig team </span></strong></p> \n<p><strong><span> </span></strong>Het team bestaat uit een twintigtal collega’s, die onderverdeeld zijn in domeinen en diverse projecten begeleiden. De samenwerking met de ontwikkelteams en met business is een cruciaal onderdeel van je job. Je wordt dus niet alleen verondersteld analyses of architecturen aan te leveren, maar ervoor te zorgen dat je jouw visie op de juiste manier en aan de juiste mensen overdraagt.</p> \n<p><span>Collegialiteit, openheid en goede communicatie zijn daarbij cruciaal</span></p> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</span></p> \n<p><span lang=\"NL\"><br></span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong><strong></strong></p> \n<p><span lang=\"NL\">Als Solutions Architect maak je deel uit van de divisie Architectuur &amp; Innovatie. Je staat mee aan het roer van de digitale transformatie van ons applicatielandschap. Je bent de brug tussen de conceptuele en de technische implementaties. Meebouwen, initiatief nemen, pro-activiteit en team werk zijn enkele kernwoorden die onze divisie A&amp;I kenmerkt.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Onze organisatie evolueert sterk op vlak van architectuurstandaarden. Momenteel loopt een traject om onze aanpak te stroomlijnen en te optimaliseren op vlak van proces, deliverables en tools. We zoeken dus naar mensen die in staat zijn die beweging samen met ons te maken en uit te dragen.</span><span lang=\"NL\"> </span></p> \n<p><span lang=\"NL\">Voor onze dienst architectuur van VDAB zoeken we naar mensen die de maturiteit van onze standaarden en output kunnen vergroten.. Actief meedenken en proactief met ideeën komen is dus zeer welgekomen.</span></p> \n<p><span lang=\"NL\"><br></span></p> \n<p><strong><span>Wat doe je (graag) ?</span></strong></p> \n<p><strong></strong>·         Je vertaalt een concrete vraag van de business naar veranderingen die nodig zijn in het applicatielandschap. Dit doe je door brainstormsessies te leiden waar mogelijke oplossing voor business problemen worden bedacht, door opportuniteiten voor procesverbeteringen te identificeren, door samen te werken met business en IT.</p> \n<p><span><span>·\n<span> </span></span></span><span>Je bent verantwoordelijk voor de “fit for purpose” van de oplossing en de alignering met het kader geschept door de Enterprise Architecten. </span></p> \n<p><span><span>·\n<span> </span></span></span><span>Je steunt daarbij op de Applicatie Architecten voor concrete detailkennis over de functionele en technische aspecten van de betrokken applicaties en het uitwerken van veranderingen eraan. De organisatie ondersteunen in haar beslissingen met inzicht in en kennis over de mate waarin business services, capabilities, processen en applicatie services voldoen aan de huidige noden en de mate waarin ze kunnen voldoende aan mogelijk toekomstige noden.</span></p> \n<p><strong><span>Jouw toekomstig team </span></strong></p> \n<p><strong><span> </span></strong>Het team bestaat uit een twintigtal collega’s, die onderverdeeld zijn in domeinen en diverse projecten begeleiden. De samenwerking met de ontwikkelteams en met business is een cruciaal onderdeel van je job. Je wordt dus niet alleen verondersteld analyses of architecturen aan te leveren, maar ervoor te zorgen dat je jouw visie op de juiste manier en aan de juiste mensen overdraagt.</p> \n<p><span>Collegialiteit, openheid en goede communicatie zijn daarbij cruciaal</span></p> \n<p><strong><span>Waar ga je werken?</span></strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Centraal.</span></p> \n<p><span lang=\"NL\"><br></span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
