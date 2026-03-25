@@ -1,10 +1,10 @@
 {
-  "totalItems": 118,
+  "totalItems": 119,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 117,
+  "lastItemOfPage": 118,
   "items": [
     {
       "link": "/Job/cornerstone-20801",
@@ -609,6 +609,42 @@
         {
           "address": {
             "city": "Leuven"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20385",
+      "internal": false,
+      "validThroughDate": "1775692800",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20385",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Sociaal Werker voor Kind&Gezin in het team Brussel-Zuid"
+      },
+      "displayTitle": "Sociaal Werker voor Kind&Gezin in het team Brussel-Zuid",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Wil jij elke dag een verschil maken voor kinderen en gezinnen? Heb je een sterk sociaal engagement en een bijzondere affiniteit met maatschappelijk kwetsbare gezinnen? Dan zijn wij op zoek naar jou om ons team te versterken.</div><div></div><div>Als sociaal werker zet je je in voor gelijke kansen en maatschappelijke participatie van kinderen en gezinnen. Je helpt mee om sociale ongelijkheid te verkleinen en draagt bij aan een omgeving waarin elk kind de kansen krijgt die het verdient. Met jouw expertise en betrokkenheid ondersteun je gezinnen, werk je samen met partners en draag je bij aan structurele verbeteringen.</div><div></div><div>Je werkt in regio Brussel Zuid, waaronder:&nbsp;&nbsp;</div><div>1130 Brussel, Evere, Schaarbeek, Sint-Joost-ten-Node, Sint-Lambrechts-Woluwe, Sint-Pieters-Woluwe, Oudergem, Watermaal-Bosvoorde, Etterbeek, Elsene, Ukkel, Vorst en Sint-Gillis.</div><div></div><div>Wat ga je doen?</div><div></div><div>-&nbsp; &nbsp;Je analyseert vragen en situaties van gezinnen en houdt daarbij rekening met hun context en leefomgeving.</div><div>-&nbsp; &nbsp;Je begeleidt en ondersteunt gezinnen richting meer maatschappelijke participatie, met bijzondere aandacht voor kwetsbare groepen.</div><div>-&nbsp; &nbsp;Je adviseert en ondersteunt collega’s en partners zodat gezinnen ook op sociaal vlak de juiste hulp krijgen.</div><div>-&nbsp; &nbsp;Je signaleert knelpunten uit de praktijk en vertaalt deze naar voorstellen voor structurele verbeteringen en lokaal beleid.&nbsp;</div><div></div><div>Met jouw inzet help je niet alleen individuele gezinnen vooruit, maar werk je ook mee aan duurzame veranderingen die het verschil maken voor vele kinderen in Brussel. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Wil jij elke dag een verschil maken voor kinderen en gezinnen? Heb je een sterk sociaal engagement en een bijzondere affiniteit met maatschappelijk kwetsbare gezinnen? Dan zijn wij op zoek naar jou om ons team te versterken.</div><div></div><div>Als sociaal werker zet je je in voor gelijke kansen en maatschappelijke participatie van kinderen en gezinnen. Je helpt mee om sociale ongelijkheid te verkleinen en draagt bij aan een omgeving waarin elk kind de kansen krijgt die het verdient. Met jouw expertise en betrokkenheid ondersteun je gezinnen, werk je samen met partners en draag je bij aan structurele verbeteringen.</div><div></div><div>Je werkt in regio Brussel Zuid, waaronder:&nbsp;&nbsp;</div><div>1130 Brussel, Evere, Schaarbeek, Sint-Joost-ten-Node, Sint-Lambrechts-Woluwe, Sint-Pieters-Woluwe, Oudergem, Watermaal-Bosvoorde, Etterbeek, Elsene, Ukkel, Vorst en Sint-Gillis.</div><div></div><div>Wat ga je doen?</div><div></div><div>-&nbsp; &nbsp;Je analyseert vragen en situaties van gezinnen en houdt daarbij rekening met hun context en leefomgeving.</div><div>-&nbsp; &nbsp;Je begeleidt en ondersteunt gezinnen richting meer maatschappelijke participatie, met bijzondere aandacht voor kwetsbare groepen.</div><div>-&nbsp; &nbsp;Je adviseert en ondersteunt collega’s en partners zodat gezinnen ook op sociaal vlak de juiste hulp krijgen.</div><div>-&nbsp; &nbsp;Je signaleert knelpunten uit de praktijk en vertaalt deze naar voorstellen voor structurele verbeteringen en lokaal beleid.&nbsp;</div><div></div><div>Met jouw inzet help je niet alleen individuele gezinnen vooruit, maar werk je ook mee aan duurzame veranderingen die het verschil maken voor vele kinderen in Brussel. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
