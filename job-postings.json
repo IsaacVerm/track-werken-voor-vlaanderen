@@ -1,11 +1,47 @@
 {
-  "totalItems": 113,
+  "totalItems": 112,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 112,
+  "lastItemOfPage": 111,
   "items": [
+    {
+      "link": "/Job/vdab-73393065",
+      "internal": false,
+      "validThroughDate": "1776556800",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73393065",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "maatschappelijk assistent Crisisunit"
+      },
+      "displayTitle": "maatschappelijk assistent Crisisunit",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Over ons</span></strong></p> \n<p><span>De crisisunit jongeren biedt \n<strong>kortdurende residentiële zorg</strong> aan jongeren tussen 12 en 18 jaar. \n<strong>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</strong>.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul type=\"disc\"> \n<li><span>Je ondersteunt ouders tijdens het \n<strong>opnameproces van hun kind </strong><span>en tracht op deze manier de \n<strong>context een plaats</strong> te geven tijdens de crisisopname</span></span></li> \n<li><span>Je coördineert de \n<strong>aanmeldings- en intakeprocedures</strong> en stemt alle stappen zorgvuldig af binnen het team</span></li> \n<li><span>Je onderhoudt op \n<strong>professionele wijze</strong> contacten met verwijzers en juridische instanties</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<strong>sociaal-administratieve opvolging</strong> </span></li> \n<li><span>Als belangrijk lid van het \n<strong>kernteam</strong> geef je ons dagelijks beleid actief mee vorm</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<strong>externe overlegplatformen</strong> </span></li> \n<li><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Over ons</span></strong></p> \n<p><span>De crisisunit jongeren biedt \n<strong>kortdurende residentiële zorg</strong> aan jongeren tussen 12 en 18 jaar. \n<strong>Door individueel aangepaste psychische/psychiatrische ondersteuning trachten we de crisis te stabiliseren. Een opname kan zowel op vrijwillige basis als onder juridische maatregel</strong>.</span></p> \n<p><strong><span>Wat ga je doen?</span></strong></p> \n<p><span>Als maatschappelijk assistent ben jij een onmisbare schakel in de begeleiding van jongeren en hun gezinnen:</span></p> \n<ul type=\"disc\"> \n<li><span>Je ondersteunt ouders tijdens het \n<strong>opnameproces van hun kind </strong><span>en tracht op deze manier de \n<strong>context een plaats</strong> te geven tijdens de crisisopname</span></span></li> \n<li><span>Je coördineert de \n<strong>aanmeldings- en intakeprocedures</strong> en stemt alle stappen zorgvuldig af binnen het team</span></li> \n<li><span>Je onderhoudt op \n<strong>professionele wijze</strong> contacten met verwijzers en juridische instanties</span></li> \n<li><span>Je bent verantwoordelijk voor de \n<strong>sociaal-administratieve opvolging</strong> </span></li> \n<li><span>Als belangrijk lid van het \n<strong>kernteam</strong> geef je ons dagelijks beleid actief mee vorm</span></li> \n<li><span>Je vertegenwoordigt de K-dienst op \n<strong>externe overlegplatformen</strong> </span></li> \n<li><span>Je ondersteunt de leefgroepbegeleiders en bouwt mee aan een warme, veilige en ontwikkelingsgerichte leefomgeving.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20345",
       "internal": false,
@@ -2779,42 +2815,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-73235024",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73235024",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Junior projectleider Digitale transformatie (Digitaal Vlaanderen) via Vlaanderen connect"
-      },
-      "displayTitle": "Junior projectleider Digitale transformatie (Digitaal Vlaanderen) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Ben jij een ambitieuze en leergierige starter of professional die goesting heeft om de kneepjes van het vak te leren en uitdagende projecten van A tot Z te begeleiden? Wil jij in samenwerking met multidisciplinaire teams bouwen aan innovatieve oplossingen voor de burger? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Junior Projectleider leer je hoe je de brug vormt tussen de business en het projectteam. Je hanteert een pragmatische aanpak en leert hoe je (burger)behoeften vertaalt naar digitale oplossingen. Onder begeleiding van ervaren collega’s navigeer je door de organisatorische werking van de Vlaamse overheid.</p> \n<p>Je rapporteert over de voortgang van jouw project met aandacht voor de projectdriehoek: tijd, geld en kwaliteit. Dit doe je samen met een team van analisten, architecten en ontwikkelaars.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. Wij zijn koplopers in Europa op het vlak van AI, data en hightech oplossingen.</p> \n<p>Je komt terecht in het team Projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ondersteunt partners bij hun digitale transformatie. Je werkt vanuit Brussel, met overlegmomenten in Gent, en krijgt uitgebreide mogelijkheden voor hybride werken en thuiswerk.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als junior projectleider bij Digitaal Vlaanderen krijg je de kans om te groeien in het leiden van digitale transformatieprojecten.</p> \n<ul> \n<li>Projectbegeleiding: Je ondersteunt bij het leiden van projecten van A tot Z en leert hoe je een concreet en haalbaar projectplan opstelt.</li> \n<li>Stakeholderbeheer: Je helpt bij het analyseren van noden en verwachtingen van diverse stakeholders.</li> \n<li>Monitoring: Je leert werken met ken- en stuurgetallen (zoals OKR's en KPI's) om projectresultaten objectief te meten.</li> \n<li>Teamcoördinatie: Je ondersteunt bij de operationele aansturing van het projectteam en zorgt dat iedereen goed geïnformeerd blijft.</li> \n<li>Risicobeheer: Je leert knelpunten tijdig te signaleren en proactief bij te sturen om doelstellingen te behalen.</li> \n<li>Kennisdeling: Je zorgt voor een kwaliteitsvolle documentatie en overdracht van het project naar de organisatie</li> </ul>",
-        "htmlEncoded": "<p>Ben jij een ambitieuze en leergierige starter of professional die goesting heeft om de kneepjes van het vak te leren en uitdagende projecten van A tot Z te begeleiden? Wil jij in samenwerking met multidisciplinaire teams bouwen aan innovatieve oplossingen voor de burger? Dan zijn wij bij Digitaal Vlaanderen op zoek naar jou!</p> \n<p>Als Junior Projectleider leer je hoe je de brug vormt tussen de business en het projectteam. Je hanteert een pragmatische aanpak en leert hoe je (burger)behoeften vertaalt naar digitale oplossingen. Onder begeleiding van ervaren collega’s navigeer je door de organisatorische werking van de Vlaamse overheid.</p> \n<p>Je rapporteert over de voortgang van jouw project met aandacht voor de projectdriehoek: tijd, geld en kwaliteit. Dit doe je samen met een team van analisten, architecten en ontwikkelaars.</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid. Wij zijn koplopers in Europa op het vlak van AI, data en hightech oplossingen.</p> \n<p>Je komt terecht in het team Projectoplossingen binnen de afdeling Digitale Transformatie. Dit team ondersteunt partners bij hun digitale transformatie. Je werkt vanuit Brussel, met overlegmomenten in Gent, en krijgt uitgebreide mogelijkheden voor hybride werken en thuiswerk.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als junior projectleider bij Digitaal Vlaanderen krijg je de kans om te groeien in het leiden van digitale transformatieprojecten.</p> \n<ul> \n<li>Projectbegeleiding: Je ondersteunt bij het leiden van projecten van A tot Z en leert hoe je een concreet en haalbaar projectplan opstelt.</li> \n<li>Stakeholderbeheer: Je helpt bij het analyseren van noden en verwachtingen van diverse stakeholders.</li> \n<li>Monitoring: Je leert werken met ken- en stuurgetallen (zoals OKR's en KPI's) om projectresultaten objectief te meten.</li> \n<li>Teamcoördinatie: Je ondersteunt bij de operationele aansturing van het projectteam en zorgt dat iedereen goed geïnformeerd blijft.</li> \n<li>Risicobeheer: Je leert knelpunten tijdig te signaleren en proactief bij te sturen om doelstellingen te behalen.</li> \n<li>Kennisdeling: Je zorgt voor een kwaliteitsvolle documentatie en overdracht van het project naar de organisatie</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20330",
       "internal": false,
       "validThroughDate": "1775174400",
@@ -3782,42 +3782,6 @@
       "description": {
         "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>",
         "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>Als QA Ontwikkelaar speel je een cruciale rol in het waarborgen van de kwaliteit van onze applicaties. Je bent verantwoordelijk voor het ontwerpen, implementeren en onderhouden van geautomatiseerde tests voor zowel UI- als API-testen binnen een cloud omgeving. Je werkt nauw samen met ontwikkelaars, functionele analisten en andere QA-ontwikkelaars om ervoor te zorgen dat de applicaties voldoen aan de functionele en technische vereisten. Daarnaast maak je deel uit van de QA Guild, een informeel overlegorgaan dat alle QA ontwikkelaars samenbrengt. Hier draag je actief bij aan kennisdeling, best practices toepast en werk je mee aan de verdere uitbouw van onze testautomatisering.</span><br> \n<br> \n<span>Je hoofdtaken:</span></p> \n<p><span><span>· </span></span><span>Je stelt testplannen, testcases en documentatie op.</span></p> \n<p><span><span>· </span></span><span>Je ontwerpt, onderhoudt en voert geautomatiseerde tests uit (UI &amp; API).</span></p> \n<p><span><span>· </span></span><span>Je werkt met tools zoals Cypress, JUnit, TestNG, Cucumber, en Jest.</span></p> \n<p><span><span>· </span></span><span>Je valideert acceptatiecriteria, logt defects en voert manuele testen uit waar nodig.</span></p> \n<p><span><span>· </span></span><span>Je monitort test pipelines binnen CI/CD-omgevingen (Jenkins) in de cloud.</span></p> \n<p><span><span>· </span></span><span>Je werkt met GraphQL, Docker, en testdata in PostgreSQL.</span></p> \n<p><span><span>· </span></span><span>Je ondersteunt het team in pull/merge requests en QA-validaties.</span></p> \n<p><span><span>· </span></span><span>Je werkt mee aan refinement, backlog building, sprint planning en QA guild meetings.</span></p> \n<p><span><span>· </span></span><span>Je voert root-cause analyses uit bij productieproblemen.</span></p> \n<p><span><span>· </span></span><span>Je begeleidt testsessies met eindgebruikers en valideert release notes.</span></p> \n<p>Je draagt bij aan de QA-strategie, helpt de testmaturiteit te verhogen en past richtlijnen toe vanuit de QA guild.</p> \n<p><strong><span>Jouw toekomstig team</span></strong></p> \n<p><span>Je komt terecht in een multidisciplinair agile team binnen het \n<strong>Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)</strong> van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Samen ontwikkelen jullie innovatieve digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</span></p> \n<p><strong>Waar ga je werken</strong></p> \n<p><span>Je werkt in Brussel, op wandelafstand van het station Brussel Noord met ruime thuiswerkmogelijkheden.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-72856840",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72856840",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Manager AI (VDAB) via Vlaanderen Connect"
-      },
-      "displayTitle": "Manager AI (VDAB) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB zoekt een Manager AI Center of Excellence die visie koppelt aan communicatieskills, stakeholder management en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het AI-landschap van VDAB, inspireert en een context creëert waarin AI experten en AI projectleiders complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p>",
-        "htmlEncoded": "<p><strong><span>Jouw toekomstige job</span></strong></p> \n<p><span>VDAB zoekt een Manager AI Center of Excellence die visie koppelt aan communicatieskills, stakeholder management en daadkracht.</span></p> \n<p><span>Dit is een rol voor een verbindend leider en bruggenbouwer, die samen met het team meebouwt aan het AI-landschap van VDAB, inspireert en een context creëert waarin AI experten en AI projectleiders complexe uitdagingen kunnen vertalen naar kwalitatieve oplossingen.</span></p> \n<p><span>Het ecosysteem van bedrijven, organisaties en actoren waarmee VDAB samenwerkt, wordt steeds complexer en diverser. Om in dit snel veranderende landschap wendbaar te blijven, is de inzet van slimme systemen op basis van data en artificiële intelligentie essentieel.</span></p>"
       },
       "locations": [
         {
