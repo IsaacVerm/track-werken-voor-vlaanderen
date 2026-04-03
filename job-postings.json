@@ -1,11 +1,113 @@
 {
-  "totalItems": 119,
+  "totalItems": 117,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 118,
+  "lastItemOfPage": 116,
   "items": [
+    {
+      "link": "/Job/vdab-73415757",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73415757",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner Gegevensbeveiliging (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner Gegevensbeveiliging (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een Product Owner ter versterking van onze afdeling IT Platform binnen het team Veiligheidsbouwstenen.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan een hoogstaande, veilige en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij onze ideale kandidaat!</p> \n<p>Als Product Owner gegevensbeveiliging zal je deel uitmaken van het team Veiligheidsbouwstenen dat bestaat uit 7 enthousiaste medewerkers die intensief samenwerken met de ICT-partnerteams, om de verschillende Veiligheidsbouwstenen te beheren en ontwikkelen op het gebied van Toegangs- en Gegevensbeveiliging. Je zet je specifiek in voor het domein gegevensbeveiliging waaronder de volgende Veiligheidsbouwstenen vallen: Geprivilegieerd Toegangsbeheer (PAM), Certificatenbeheer (DCB/PKI), Veilig bestanden delen (sMFT) en Sleutelbeheer (KMS). Je wordt verantwoordelijk voor een aantal bouwstenen binnen het domein Gegevensbeveiliging.</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als Product Owner Gegevensbeveiliging zorg je ervoor dat applicaties worden beveiligd, gebaseerd op de laatste markt-standaarden, zodat de partners laagdrempelig kunnen aansluiten op de bouwstenen. Je zorgt voor de vertaalslag van de noden naar de bouwstenen en implementeert de verbeteringen. Kortom als Product Owner streef je erna om onze partners te ontzorgen van A tot Z bij de integratie en beveiliging van hun applicatie.</p> \n<p>Je neemt de partners ook mee in het proces van continue verbetering van onze bouwstenen door waar mogelijk in co-creatie de beste oplossing voor de gehele Vlaamse overheid te bekomen. Voor de uitbouw van de bouwstenen doet het team steevast beroep op onze contractuele partners vanuit de ICT-raamcontracten, die de Product Owners ondersteunen via hun Agile en DevOps werking. Als Product Owner stuur je de verschillende projectteams aan, bewaak je een correcte opvolging en faciliteer je een goede werking.</p> \n<p>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering en opvolging van de roadmap, uitwerking van business cases en end-to-end product life-cycle-management. Dit gaat dus zowel over de productontwikkeling als de exploitatie ( Agile en DevOps) van de bouwsteen.</p> \n<p>Je bent een bruggenbouwer en houdt ervan om knopen te ontwarren, wat je ten goede komt om samen met de betrokken teams oplossingen te vinden voor knelpunten en noden waarop onze partners en stakeholders stuitten.</p> \n<p>Je neemt actief de verantwoordelijkheid over jouw bouwstenen (inhoudelijk en financieel) en rapporteert regelmatig de voortgang aan je manager en de samenwerkende teams binnen de Vlaamse overheid. Kortom je zet jezelf graag maatschappelijk in om de Vlaamse overheid elke dag te verbeteren en veiliger te maken.</p>",
+        "htmlEncoded": "<p>Bij het agentschap Digitaal Vlaanderen zijn we op zoek naar een Product Owner ter versterking van onze afdeling IT Platform binnen het team Veiligheidsbouwstenen.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan een hoogstaande, veilige en betrouwbare dienstverlening, waar elke Vlaming dagelijks gebruik van maakt? Dan ben jij onze ideale kandidaat!</p> \n<p>Als Product Owner gegevensbeveiliging zal je deel uitmaken van het team Veiligheidsbouwstenen dat bestaat uit 7 enthousiaste medewerkers die intensief samenwerken met de ICT-partnerteams, om de verschillende Veiligheidsbouwstenen te beheren en ontwikkelen op het gebied van Toegangs- en Gegevensbeveiliging. Je zet je specifiek in voor het domein gegevensbeveiliging waaronder de volgende Veiligheidsbouwstenen vallen: Geprivilegieerd Toegangsbeheer (PAM), Certificatenbeheer (DCB/PKI), Veilig bestanden delen (sMFT) en Sleutelbeheer (KMS). Je wordt verantwoordelijk voor een aantal bouwstenen binnen het domein Gegevensbeveiliging.</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je doen?</strong></p> \n<p>Als Product Owner Gegevensbeveiliging zorg je ervoor dat applicaties worden beveiligd, gebaseerd op de laatste markt-standaarden, zodat de partners laagdrempelig kunnen aansluiten op de bouwstenen. Je zorgt voor de vertaalslag van de noden naar de bouwstenen en implementeert de verbeteringen. Kortom als Product Owner streef je erna om onze partners te ontzorgen van A tot Z bij de integratie en beveiliging van hun applicatie.</p> \n<p>Je neemt de partners ook mee in het proces van continue verbetering van onze bouwstenen door waar mogelijk in co-creatie de beste oplossing voor de gehele Vlaamse overheid te bekomen. Voor de uitbouw van de bouwstenen doet het team steevast beroep op onze contractuele partners vanuit de ICT-raamcontracten, die de Product Owners ondersteunen via hun Agile en DevOps werking. Als Product Owner stuur je de verschillende projectteams aan, bewaak je een correcte opvolging en faciliteer je een goede werking.</p> \n<p>Als Product Owner ben je verantwoordelijk voor de inhoudelijke uitvoering en opvolging van de roadmap, uitwerking van business cases en end-to-end product life-cycle-management. Dit gaat dus zowel over de productontwikkeling als de exploitatie ( Agile en DevOps) van de bouwsteen.</p> \n<p>Je bent een bruggenbouwer en houdt ervan om knopen te ontwarren, wat je ten goede komt om samen met de betrokken teams oplossingen te vinden voor knelpunten en noden waarop onze partners en stakeholders stuitten.</p> \n<p>Je neemt actief de verantwoordelijkheid over jouw bouwstenen (inhoudelijk en financieel) en rapporteert regelmatig de voortgang aan je manager en de samenwerkende teams binnen de Vlaamse overheid. Kortom je zet jezelf graag maatschappelijk in om de Vlaamse overheid elke dag te verbeteren en veiliger te maken.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20880",
+      "internal": false,
+      "validThroughDate": "1776556800",
+      "hiringOrganization": "Toerisme Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Andere",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20880",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudent Sint-Godelieveabdij Brugge"
+      },
+      "displayTitle": "Jobstudent Sint-Godelieveabdij Brugge",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? </div><div>Agentschap Toerisme Vlaanderen zoekt een student om archiefonderzoek te doen in de Sint-Godelieveabdij in Brugge en mee Open Monumentendag 2026 te organiseren.</div><div>Als jobstudent voer je voornamelijk onderzoekswerk uit in de archieven van deze bijzondere erfgoedplek.</div><div>Hierbij delen we het onderzoek op in drie gerichte sub-opdrachten:</div><p>1. Afspreken binnen het team van de abdij welk thema je onderzoekt</p><p>2. Archiefstukken met zorg doornemen en inventariseren</p><p>3. Samenvatten en tegelijk verhalend neerpennen</p><p>4. Toelichten op het team wat je hebt gevonden</p><div>Afhankelijk van je organisatorische talenten kan er eveneens beperkt administratief werk toegevoegd worden in voorbereiding van Open Monumentendag 2026.</div><p>Indien je last hebt van longen, luchtwegen of allergieën, raden we wel aan om te werken met mondmaskers of handschoenen. Deze worden voorzien indien je dit tijdig aangeeft voor je de werkzaamheden aanvat.</p>",
+        "htmlEncoded": "<div>Ben jij een student en op zoek naar een boeiende studentenjob? </div><div>Agentschap Toerisme Vlaanderen zoekt een student om archiefonderzoek te doen in de Sint-Godelieveabdij in Brugge en mee Open Monumentendag 2026 te organiseren.</div><div>Als jobstudent voer je voornamelijk onderzoekswerk uit in de archieven van deze bijzondere erfgoedplek.</div><div>Hierbij delen we het onderzoek op in drie gerichte sub-opdrachten:</div><p>1. Afspreken binnen het team van de abdij welk thema je onderzoekt</p><p>2. Archiefstukken met zorg doornemen en inventariseren</p><p>3. Samenvatten en tegelijk verhalend neerpennen</p><p>4. Toelichten op het team wat je hebt gevonden</p><div>Afhankelijk van je organisatorische talenten kan er eveneens beperkt administratief werk toegevoegd worden in voorbereiding van Open Monumentendag 2026.</div><p>Indien je last hebt van longen, luchtwegen of allergieën, raden we wel aan om te werken met mondmaskers of handschoenen. Deze worden voorzien indien je dit tijdig aangeeft voor je de werkzaamheden aanvat.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20515",
+      "internal": false,
+      "validThroughDate": "1776470400",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20515",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Centrummedewerker"
+      },
+      "displayTitle": "Centrummedewerker",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Hou je van contacten met klanten? Wil je graag werken in een\nsportieve omgeving? Ben je bovendien op zoek naar een erg gevarieerde functie\nin een tof team? Dat komt goed uit, want dan is deze vacature zeker iets voor\njou!</p><p>Als centrummedewerker in Herentals ga je aan de slag in een polyvalente\nfunctie:</p><ul><li>Je bent verantwoordelijk voor het dagelijks beheer van de (sport)infrastructuur. Dit houdt in dat je het aanspreekpunt bent voor bezoekers en sportclubs, hun vragen beantwoordt en hen wegwijs maakt.</li><li>Je houdt toezicht op het correct gebruik van de infrastructuur volgens de huisregels van het centrum.</li><li>Je zet materiaal klaar volgens de bezetting en ruimt weer op voor de volgende groep. Je zorgt dat iedereen mooi op tijd aan zijn sportsessie kan starten.</li><li>Je zorgt dat de accommodatie netjes en onderhouden blijft. Sportvloeren, kleedkamers hou je mee proper. Kleine technische klusjes kan je zelf oplossen. Defecten meld je aan de technische dienst.</li></ul><p>Je werkt in shiften (bijvoorbeeld: 7u-15u, 8u-16u of\n15u-23u), afhankelijk van de seizoenen. Je werkt ook regelmatig in het weekend.\nFlexibiliteit is een troef én een must in deze functie.</p>",
+        "htmlEncoded": "<p>Hou je van contacten met klanten? Wil je graag werken in een\nsportieve omgeving? Ben je bovendien op zoek naar een erg gevarieerde functie\nin een tof team? Dat komt goed uit, want dan is deze vacature zeker iets voor\njou!</p><p>Als centrummedewerker in Herentals ga je aan de slag in een polyvalente\nfunctie:</p><ul><li>Je bent verantwoordelijk voor het dagelijks beheer van de (sport)infrastructuur. Dit houdt in dat je het aanspreekpunt bent voor bezoekers en sportclubs, hun vragen beantwoordt en hen wegwijs maakt.</li><li>Je houdt toezicht op het correct gebruik van de infrastructuur volgens de huisregels van het centrum.</li><li>Je zet materiaal klaar volgens de bezetting en ruimt weer op voor de volgende groep. Je zorgt dat iedereen mooi op tijd aan zijn sportsessie kan starten.</li><li>Je zorgt dat de accommodatie netjes en onderhouden blijft. Sportvloeren, kleedkamers hou je mee proper. Kleine technische klusjes kan je zelf oplossen. Defecten meld je aan de technische dienst.</li></ul><p>Je werkt in shiften (bijvoorbeeld: 7u-15u, 8u-16u of\n15u-23u), afhankelijk van de seizoenen. Je werkt ook regelmatig in het weekend.\nFlexibiliteit is een troef én een must in deze functie.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Herentals"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73411031",
       "internal": false,
@@ -43,34 +145,34 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20515",
+      "link": "/Job/cornerstone-20608",
       "internal": false,
-      "validThroughDate": "1776470400",
-      "hiringOrganization": "Sport Vlaanderen",
+      "validThroughDate": "1776643200",
+      "hiringOrganization": "Opgroeien regie",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Dienstverlening",
       "degreeLevel": null,
       "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20515",
+      "identifier": "cornerstone-20608",
       "contentType": "Job",
       "collectionType": null,
       "image": null,
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Centrummedewerker"
+        "htmlEncoded": "Coördinator Verzekeringen"
       },
-      "displayTitle": "Centrummedewerker",
+      "displayTitle": "Coördinator Verzekeringen",
       "isProtected": false,
       "description": {
-        "raw": "<p>Hou je van contacten met klanten? Wil je graag werken in een\nsportieve omgeving? Ben je bovendien op zoek naar een erg gevarieerde functie\nin een tof team? Dat komt goed uit, want dan is deze vacature zeker iets voor\njou!</p><p>Als centrummedewerker in Herentals ga je aan de slag in een polyvalente\nfunctie:</p><ul><li>Je bent verantwoordelijk voor het dagelijks beheer van de (sport)infrastructuur. Dit houdt in dat je het aanspreekpunt bent voor bezoekers en sportclubs, hun vragen beantwoordt en hen wegwijs maakt.</li><li>Je houdt toezicht op het correct gebruik van de infrastructuur volgens de huisregels van het centrum.</li><li>Je zet materiaal klaar volgens de bezetting en ruimt weer op voor de volgende groep. Je zorgt dat iedereen mooi op tijd aan zijn sportsessie kan starten.</li><li>Je zorgt dat de accommodatie netjes en onderhouden blijft. Sportvloeren, kleedkamers hou je mee proper. Kleine technische klusjes kan je zelf oplossen. Defecten meld je aan de technische dienst.</li></ul><p>Je werkt in shiften (bijvoorbeeld: 7u-15u, 8u-16u of\n15u-23u), afhankelijk van de seizoenen. Je werkt ook regelmatig in het weekend.\nFlexibiliteit is een troef én een must in deze functie.</p>",
-        "htmlEncoded": "<p>Hou je van contacten met klanten? Wil je graag werken in een\nsportieve omgeving? Ben je bovendien op zoek naar een erg gevarieerde functie\nin een tof team? Dat komt goed uit, want dan is deze vacature zeker iets voor\njou!</p><p>Als centrummedewerker in Herentals ga je aan de slag in een polyvalente\nfunctie:</p><ul><li>Je bent verantwoordelijk voor het dagelijks beheer van de (sport)infrastructuur. Dit houdt in dat je het aanspreekpunt bent voor bezoekers en sportclubs, hun vragen beantwoordt en hen wegwijs maakt.</li><li>Je houdt toezicht op het correct gebruik van de infrastructuur volgens de huisregels van het centrum.</li><li>Je zet materiaal klaar volgens de bezetting en ruimt weer op voor de volgende groep. Je zorgt dat iedereen mooi op tijd aan zijn sportsessie kan starten.</li><li>Je zorgt dat de accommodatie netjes en onderhouden blijft. Sportvloeren, kleedkamers hou je mee proper. Kleine technische klusjes kan je zelf oplossen. Defecten meld je aan de technische dienst.</li></ul><p>Je werkt in shiften (bijvoorbeeld: 7u-15u, 8u-16u of\n15u-23u), afhankelijk van de seizoenen. Je werkt ook regelmatig in het weekend.\nFlexibiliteit is een troef én een must in deze functie.</p>"
+        "raw": "<div>Ben jij nauwkeurig, georganiseerd en klantgericht? Heb je affiniteit met verzekeringen en wil je bijdragen aan efficiënte en correcte processen? Dan is deze functie iets voor jou.</div><div></div><div>Jouw rol <br>Als Coördinator Verzekeringen beheer en behandel je dossiers en gegevens zodat processen vlot, correct en volgens de geldende wet- en regelgeving verlopen. Je bent een belangrijk aanspreekpunt voor collega’s en externe partners.</div><div></div><div>Wat ga je doen?</div><div>- Beheren en actualiseren van verzekeringspolissen, dekkingen en risico’s</div><div>- Registreren en opvolgen van arbeidsongevallen en schadegevallen</div><div>- Controleren van contracten, polisvoorwaarden en facturen</div><div>- Bewaken van termijnen en wettelijke verplichtingen</div><div>- Coördineren van afsluiten, verlengen en opzeggen van polissen</div><div>- Behandelen van schadedossiers en voorbereiden van beslissingen</div><div>- Afstemmen met boekhouding, makelaars en verzekeraars</div><div>- Adviseren over risico’s en passende verzekeringen</div><div></div><div>Wie ben jij?</div><div>- Nauwkeurig, gestructureerd en verantwoordelijk</div><div>- Communicatief en klantgericht</div><div>- Affiniteit met verzekeringen en administratieve processen.&nbsp;</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. <br>Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Ben jij nauwkeurig, georganiseerd en klantgericht? Heb je affiniteit met verzekeringen en wil je bijdragen aan efficiënte en correcte processen? Dan is deze functie iets voor jou.</div><div></div><div>Jouw rol <br>Als Coördinator Verzekeringen beheer en behandel je dossiers en gegevens zodat processen vlot, correct en volgens de geldende wet- en regelgeving verlopen. Je bent een belangrijk aanspreekpunt voor collega’s en externe partners.</div><div></div><div>Wat ga je doen?</div><div>- Beheren en actualiseren van verzekeringspolissen, dekkingen en risico’s</div><div>- Registreren en opvolgen van arbeidsongevallen en schadegevallen</div><div>- Controleren van contracten, polisvoorwaarden en facturen</div><div>- Bewaken van termijnen en wettelijke verplichtingen</div><div>- Coördineren van afsluiten, verlengen en opzeggen van polissen</div><div>- Behandelen van schadedossiers en voorbereiden van beslissingen</div><div>- Afstemmen met boekhouding, makelaars en verzekeraars</div><div>- Adviseren over risico’s en passende verzekeringen</div><div></div><div>Wie ben jij?</div><div>- Nauwkeurig, gestructureerd en verantwoordelijk</div><div>- Communicatief en klantgericht</div><div>- Affiniteit met verzekeringen en administratieve processen.&nbsp;</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. <br>Download dit document en hou het bij.</div>"
       },
       "locations": [
         {
           "address": {
-            "city": "Herentals"
+            "city": "Sint-Gillis (Bij-Brussel)"
           }
         }
       ]
@@ -416,39 +518,6 @@
         {
           "address": {
             "city": "Aalst"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-19905",
-      "internal": true,
-      "validThroughDate": "1776988800",
-      "hiringOrganization": "Opgroeien",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "domain": "Dienstverlening",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-19905",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker Jeugdzorg en -bescherming"
-      },
-      "displayTitle": "Beleidsmedewerker Jeugdzorg en -bescherming",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Heb jij een passie voor beleid en een hart voor jongeren? Dan is de functie van Beleidsmedewerker Jeugdzorg en -bescherming iets voor jou!<br><br></div><div>In deze dynamische rol werk je nauw samen met het Centraal Overleg2 en zorg je ervoor dat de teams jeugdzorg en -bescherming optimaal functioneren. Je bent de verbindende schakel tussen de concrete werking van deze teams en het Vlaamse niveau, waarbij je steeds kracht- en oplossingsgericht te werk gaat. Als beleidsmedewerker bied je zowel theoretische als praktische ondersteuning en draag je bij aan de succesvolle uitvoering van beleidslijnen.</div><div>Klaar om jouw expertise in te zetten en het verschil te maken? Solliciteer nu!<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Heb jij een passie voor beleid en een hart voor jongeren? Dan is de functie van Beleidsmedewerker Jeugdzorg en -bescherming iets voor jou!<br><br></div><div>In deze dynamische rol werk je nauw samen met het Centraal Overleg2 en zorg je ervoor dat de teams jeugdzorg en -bescherming optimaal functioneren. Je bent de verbindende schakel tussen de concrete werking van deze teams en het Vlaamse niveau, waarbij je steeds kracht- en oplossingsgericht te werk gaat. Als beleidsmedewerker bied je zowel theoretische als praktische ondersteuning en draag je bij aan de succesvolle uitvoering van beleidslijnen.</div><div>Klaar om jouw expertise in te zetten en het verschil te maken? Solliciteer nu!<br><br></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Gillis (Bij-Brussel)"
           }
         }
       ]
@@ -2327,42 +2396,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20346",
-      "internal": false,
-      "validThroughDate": "1775088000",
-      "hiringOrganization": "Vlaamse Milieumaatschappij",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20346",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Specialist Modellering"
-      },
-      "displayTitle": "Specialist Modellering",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Jouw impact</strong><br>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen of om de impact van infrastructuurwerken aan de waterloop door te rekenen. Zo kunnen we de infrastructuur langs onze waterlopen optimaal inzetten en de impact van investeringsprojecten goed inschatten.&nbsp;<br><br>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p><strong>Een blik op jouw takenpakket&nbsp;</strong><br>In deze functie ligt de focus voluit op modelleren. Je werkt gedurende twee jaar mee aan projecten die een directe meerwaarde creëren voor Vlaanderen.<br><br>Je belangrijkste taken:</p><ul><li>Je werkt hoofdzakelijk op het Europese MUDCAP-project, waarin erosie en sedimenttransport in waterlopen centraal staan.</li><li>Je levert deskundig advies binnen andere projecten waar VMM een belangrijke rol speelt.</li><li>Je voert hydrologische en hydraulische modelleringen uit en bepaalt effecten voor verschillende scenario’s.</li><li>Je vertaalt modelresultaten naar heldere adviezen voor collega’s, partners en beleidsmakers.</li><li>Je begeleidt externe studies en zorgt voor kwaliteitsvolle validatie van data en modelresultaten.</li><li>Je documenteert nauwkeurig en werkt transparant, zodat kennis duurzaam geborgd wordt.</li><li>Je denkt proactief mee over optimalisaties van data, processen en modellen.</li></ul><p><strong>Waar kom je terecht?</strong><br>Je komt terecht in het team Hydrologie Oost. Het team bestaat uit acht collega’s die gelijkaardige taken opnemen binnen modellering en waterbeheer. Je inwerkperiode is kort en krachtig waarbij twee collega’s met een gelijkaardig takenpakket jou meenemen in de werking en specifiteit van de functie en organisatie.&nbsp;<br><br><strong>Wie zoeken we?</strong><br>Je bent iemand die:</p><ul><li>al sterke technische vaardigheden in modellering heeft en snel inzetbaar is</li><li>bij voorkeur ervaring heeft met InfoWorks ICM (integrated catchment modeling)</li><li>precies, consciëntieus en goed documenterend werkt</li><li>autonoom kan werken en snel zijn/haar plan trekt</li><li>een vlotte teamspeler is die helder communiceert</li><li>spontaan, open en transparant is in samenwerking</li><li>proactief meedenkt en verantwoordelijkheid opneemt</li></ul><p><strong>Waarom kiezen voor VMM?</strong><br>In deze functie draag je bij aan de missie van de VMM om voor Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bevorderen;&nbsp;</li><li>de klimaatadaptatie mee te sturen. </li></ul><p>Je werkt in een organisatie die inzet op innovatie, samenwerking en maatschappelijke impact. Je krijgt de kans om mee richting te geven aan oplossingen voor de wateruitdagingen van vandaag én morgen.<br><br>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p><strong>Jouw impact</strong><br>Wil jij met jouw technische expertise écht het verschil maken voor mens en milieu in Vlaanderen? Als Specialist Modellering zet je jouw kennis in om tijdig in te grijpen bij risico op overstromingen of om de impact van infrastructuurwerken aan de waterloop door te rekenen. Zo kunnen we de infrastructuur langs onze waterlopen optimaal inzetten en de impact van investeringsprojecten goed inschatten.&nbsp;<br><br>Je ontwikkelt en onderhoudt modelinstrumenten die gebruikt worden om watergegevens te analyseren, scenario’s te simuleren en beleid te onderbouwen. Je vertaalt modelresultaten naar duidelijke rapporten en adviezen. Je begeleidt daarnaast externe studies, valideert meetgegevens en helpt om de modellen continu te verbeteren.</p><p><strong>Een blik op jouw takenpakket&nbsp;</strong><br>In deze functie ligt de focus voluit op modelleren. Je werkt gedurende twee jaar mee aan projecten die een directe meerwaarde creëren voor Vlaanderen.<br><br>Je belangrijkste taken:</p><ul><li>Je werkt hoofdzakelijk op het Europese MUDCAP-project, waarin erosie en sedimenttransport in waterlopen centraal staan.</li><li>Je levert deskundig advies binnen andere projecten waar VMM een belangrijke rol speelt.</li><li>Je voert hydrologische en hydraulische modelleringen uit en bepaalt effecten voor verschillende scenario’s.</li><li>Je vertaalt modelresultaten naar heldere adviezen voor collega’s, partners en beleidsmakers.</li><li>Je begeleidt externe studies en zorgt voor kwaliteitsvolle validatie van data en modelresultaten.</li><li>Je documenteert nauwkeurig en werkt transparant, zodat kennis duurzaam geborgd wordt.</li><li>Je denkt proactief mee over optimalisaties van data, processen en modellen.</li></ul><p><strong>Waar kom je terecht?</strong><br>Je komt terecht in het team Hydrologie Oost. Het team bestaat uit acht collega’s die gelijkaardige taken opnemen binnen modellering en waterbeheer. Je inwerkperiode is kort en krachtig waarbij twee collega’s met een gelijkaardig takenpakket jou meenemen in de werking en specifiteit van de functie en organisatie.&nbsp;<br><br><strong>Wie zoeken we?</strong><br>Je bent iemand die:</p><ul><li>al sterke technische vaardigheden in modellering heeft en snel inzetbaar is</li><li>bij voorkeur ervaring heeft met InfoWorks ICM (integrated catchment modeling)</li><li>precies, consciëntieus en goed documenterend werkt</li><li>autonoom kan werken en snel zijn/haar plan trekt</li><li>een vlotte teamspeler is die helder communiceert</li><li>spontaan, open en transparant is in samenwerking</li><li>proactief meedenkt en verantwoordelijkheid opneemt</li></ul><p><strong>Waarom kiezen voor VMM?</strong><br>In deze functie draag je bij aan de missie van de VMM om voor Vlaanderen:&nbsp;</p><ul><li>proper, aantrekkelijk en voldoende water te waarborgen;</li><li>gezonde lucht te bevorderen;&nbsp;</li><li>de klimaatadaptatie mee te sturen. </li></ul><p>Je werkt in een organisatie die inzet op innovatie, samenwerking en maatschappelijke impact. Je krijgt de kans om mee richting te geven aan oplossingen voor de wateruitdagingen van vandaag én morgen.<br><br>Ben jij analytisch sterk, maatschappelijk betrokken en klaar om mee te bouwen aan een duurzame en veerkrachtige leefomgeving? Dan verwelkomen we jou graag als nieuwe Specialist Modellering.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20338",
       "internal": false,
       "validThroughDate": "1776643200",
@@ -2676,119 +2709,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20394",
-      "internal": false,
-      "validThroughDate": "1775088000",
-      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20394",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Stafmedewerker Financiën"
-      },
-      "displayTitle": "Stafmedewerker Financiën",
-      "isProtected": false,
-      "description": {
-        "raw": "Als <strong>stafmedewerker financiën</strong> sta je het College van regeringscommissarissen en het regeringscommissariaat bij via het ontwikkelen en uitbouwen van specifieke dienstverlening betreffende financiële data en monitoring.<br><br>Je beheert en behandelt dossiers en gegevens over het hoger onderwijs met als doel ervoor te zorgen dat het toezicht op het hoger onderwijs efficiënt, correct en klantvriendelijk verloopt.<br><br>Je biedt ook ondersteuning bij controles en audits. Je bent medeverantwoordelijk voor het opstellen van de jaarlijkse adviezen over de begroting en de jaarrekening van de universiteiten, hogescholen en andere hogeronderwijsinstellingen en je werkt mee aan het jaarlijkse sectorverslag. Je staat in voor het invoeren, onderhouden, analyseren, monitoren en rapporteren van gegevens over de hoger onderwijsinstellingen. Je beheert de bestaande Excel-controlebestanden van het regeringscommissariaat en levert bij nieuwe controles of audits nieuwe bestanden en analyses aan. Als stafmedewerker financiën speel je flexibel in op het steeds wijzigende controlelandschap. Je combineert een open blik met kennis van dubbele boekhouding, cijfermatig inzicht en fungeert op die manier als aanspreekpunt voor de bestanden in het regeringscommissariaat. Je verbetert de bestaande bestanden en/of ontwerpt concepten die een optimaal beheer mogelijk maken.<br><br>Je voert deze functie uit in nauwe samenwerking met de andere stafmedewerkers van het regeringscommissariaat en onder aansturing van de regeringscommissarissen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.",
-        "htmlEncoded": "Als <strong>stafmedewerker financiën</strong> sta je het College van regeringscommissarissen en het regeringscommissariaat bij via het ontwikkelen en uitbouwen van specifieke dienstverlening betreffende financiële data en monitoring.<br><br>Je beheert en behandelt dossiers en gegevens over het hoger onderwijs met als doel ervoor te zorgen dat het toezicht op het hoger onderwijs efficiënt, correct en klantvriendelijk verloopt.<br><br>Je biedt ook ondersteuning bij controles en audits. Je bent medeverantwoordelijk voor het opstellen van de jaarlijkse adviezen over de begroting en de jaarrekening van de universiteiten, hogescholen en andere hogeronderwijsinstellingen en je werkt mee aan het jaarlijkse sectorverslag. Je staat in voor het invoeren, onderhouden, analyseren, monitoren en rapporteren van gegevens over de hoger onderwijsinstellingen. Je beheert de bestaande Excel-controlebestanden van het regeringscommissariaat en levert bij nieuwe controles of audits nieuwe bestanden en analyses aan. Als stafmedewerker financiën speel je flexibel in op het steeds wijzigende controlelandschap. Je combineert een open blik met kennis van dubbele boekhouding, cijfermatig inzicht en fungeert op die manier als aanspreekpunt voor de bestanden in het regeringscommissariaat. Je verbetert de bestaande bestanden en/of ontwerpt concepten die een optimaal beheer mogelijk maken.<br><br>Je voert deze functie uit in nauwe samenwerking met de andere stafmedewerkers van het regeringscommissariaat en onder aansturing van de regeringscommissarissen.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij."
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20321",
-      "internal": false,
-      "validThroughDate": "1775088000",
-      "hiringOrganization": "Departement Zorg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Gezondheid",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20321",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Beleidsmedewerker Gezondheidsbevordering en Vroegdetectie (aanleg werfreserve)"
-      },
-      "displayTitle": "Beleidsmedewerker Gezondheidsbevordering en Vroegdetectie (aanleg werfreserve)",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben jij een bevlogen medewerker die een positieve en preventieve impact wil hebben op de gezondheid in Vlaanderen? Het Departement Zorg legt een werfreserve aan voor een professional met een passie voor preventief gezondheidsbeleid.<br><br>Als beleidsmedewerker speel je een belangrijke rol in het ontwikkelen, implementeren en evalueren van een preventief gezondheidsbeleid met centrale gezondheidsdoelstellingen en lokale uitvoering. Je hebt een brede interesse en houdt van een divers takenpakket, waarbij je graag werkt rond thema’s of projecten binnen gezondheidsbevordering en vroegdetectie. Je bent in staat om je snel in te werken in beleidsonderwerpen die verband houden met bevorderen van de gezondheid en populatiegerichte screening en kan projectmatig werken. Gezondheidswinst op populatieniveau en volksgezondheid zijn je drijfveer.<br><br>Een greep uit jouw takenpakket:</div><ul><li>Je coördineert en volgt, samen met collega’s en relevante partners, een of enkele thema’s en/of projecten op binnen het preventief gezondheidsbeleid op, afhankelijk van de prioriteiten van het team.</li><li>Je werkt inhoudelijk en organisatorisch preventiestrategieën uit die zowel op Vlaams als lokaal niveau geïmplementeerd worden.</li><li>Je voert zowel inhoudelijke als administratieve taken uit die horen bij de beleidsprocessen.</li><li>Je stuurt diverse organisaties, betrokken in het beleid, inhoudelijk en organisatorisch aan.</li><li>Je draagt bij tot een samenhangend beleid met andere beleidsniveaus (van lokaal tot (inter)nationaal).</li><li>Je analyseert gezondheidsgegevens en maakt de vertaling naar effectieve beleidsmaatregelen.</li><li>Je volgt wetenschappelijke literatuur en internationale trends proactief op en formuleert adviezen over te actualiseren of nieuwe beleidsinitiatieven.</li><li>Je communiceert met externe stakeholders en overlegt met diverse belanghebbenden en actoren.</li></ul><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Ben jij een bevlogen medewerker die een positieve en preventieve impact wil hebben op de gezondheid in Vlaanderen? Het Departement Zorg legt een werfreserve aan voor een professional met een passie voor preventief gezondheidsbeleid.<br><br>Als beleidsmedewerker speel je een belangrijke rol in het ontwikkelen, implementeren en evalueren van een preventief gezondheidsbeleid met centrale gezondheidsdoelstellingen en lokale uitvoering. Je hebt een brede interesse en houdt van een divers takenpakket, waarbij je graag werkt rond thema’s of projecten binnen gezondheidsbevordering en vroegdetectie. Je bent in staat om je snel in te werken in beleidsonderwerpen die verband houden met bevorderen van de gezondheid en populatiegerichte screening en kan projectmatig werken. Gezondheidswinst op populatieniveau en volksgezondheid zijn je drijfveer.<br><br>Een greep uit jouw takenpakket:</div><ul><li>Je coördineert en volgt, samen met collega’s en relevante partners, een of enkele thema’s en/of projecten op binnen het preventief gezondheidsbeleid op, afhankelijk van de prioriteiten van het team.</li><li>Je werkt inhoudelijk en organisatorisch preventiestrategieën uit die zowel op Vlaams als lokaal niveau geïmplementeerd worden.</li><li>Je voert zowel inhoudelijke als administratieve taken uit die horen bij de beleidsprocessen.</li><li>Je stuurt diverse organisaties, betrokken in het beleid, inhoudelijk en organisatorisch aan.</li><li>Je draagt bij tot een samenhangend beleid met andere beleidsniveaus (van lokaal tot (inter)nationaal).</li><li>Je analyseert gezondheidsgegevens en maakt de vertaling naar effectieve beleidsmaatregelen.</li><li>Je volgt wetenschappelijke literatuur en internationale trends proactief op en formuleert adviezen over te actualiseren of nieuwe beleidsinitiatieven.</li><li>Je communiceert met externe stakeholders en overlegt met diverse belanghebbenden en actoren.</li></ul><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20012",
-      "internal": true,
-      "validThroughDate": "1775088000",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20012",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Regioverantwoordelijke"
-      },
-      "displayTitle": "Regioverantwoordelijke",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span><strong>Ben jij een technisch sterke organisator met een hart voor infrastructuur én mensen?</strong> <br> <br> Als Regioverantwoordelijke Mechanica/Bouwkunde speel je een sleutelrol in het veilig, betrouwbaar en duurzaam functioneren van het beweegbare patrimonium binnen jouw regio. Binnen deze functie ligt de nadruk duidelijk op de mechanische installaties, aandrijfsystemen, bewegingsmechanismen en constructies van sluisdeuren, bruggen en andere beweegbare kunstwerken. Je staat in voor de coördinatie van gepland onderhoud, dringende interventies en calamiteiten, waarbij jouw mechanische expertise richtinggevend is. Tegelijk neem je ook de (staal)bouwkundige aspecten mee op en waak je over de structurele staat en integriteit van de infrastructuur.<br> <br> <span>&nbsp;</span>De cel Mechanica/Bouwkunde en Logistiek staat in voor het onderhoud en de interventies aan mechanische en bouwkundig gerelateerde onderdelen van beweegbare kunstwerken. Vanuit deze cel worden zowel geplande onderhoudswerken als dringende interventies en calamiteiten opgevolgd, ondersteund door een atelier, onderhouds- en interventieploegen, materieel, materiaal en een tekenbureau.<br> <br> <span><strong>&nbsp;</strong></span><strong>Jouw rol</strong> </span></p><p><span>Als regioverantwoordelijke neem je de technische, organisatorische én menselijke verantwoordelijkheid op voor het dagelijks beheer en onderhoud van het beweegbare patrimonium in jouw regio. Je vervult een uitgesproken coördinerende en aansturende rol waarbij je de onderhoudsmedewerkers motiveert, begeleidt en opvolgt in hun dagelijkse werking.<br> <br> <span>&nbsp;</span>Daarnaast stuur je externe aannemers aan en ben je voor deze samenwerkingen verantwoordelijk voor de opmaak en opvolging van bestekken. Je bewaakt planning, budget en kwaliteit, fungeert als centraal aanspreekpunt voor interne en externe partners en zorgt zo voor bedrijfszekere kunstwerken en een klantgerichte regiowerking.</span></p>",
-        "htmlEncoded": "<p><span><strong>Ben jij een technisch sterke organisator met een hart voor infrastructuur én mensen?</strong> <br> <br> Als Regioverantwoordelijke Mechanica/Bouwkunde speel je een sleutelrol in het veilig, betrouwbaar en duurzaam functioneren van het beweegbare patrimonium binnen jouw regio. Binnen deze functie ligt de nadruk duidelijk op de mechanische installaties, aandrijfsystemen, bewegingsmechanismen en constructies van sluisdeuren, bruggen en andere beweegbare kunstwerken. Je staat in voor de coördinatie van gepland onderhoud, dringende interventies en calamiteiten, waarbij jouw mechanische expertise richtinggevend is. Tegelijk neem je ook de (staal)bouwkundige aspecten mee op en waak je over de structurele staat en integriteit van de infrastructuur.<br> <br> <span>&nbsp;</span>De cel Mechanica/Bouwkunde en Logistiek staat in voor het onderhoud en de interventies aan mechanische en bouwkundig gerelateerde onderdelen van beweegbare kunstwerken. Vanuit deze cel worden zowel geplande onderhoudswerken als dringende interventies en calamiteiten opgevolgd, ondersteund door een atelier, onderhouds- en interventieploegen, materieel, materiaal en een tekenbureau.<br> <br> <span><strong>&nbsp;</strong></span><strong>Jouw rol</strong> </span></p><p><span>Als regioverantwoordelijke neem je de technische, organisatorische én menselijke verantwoordelijkheid op voor het dagelijks beheer en onderhoud van het beweegbare patrimonium in jouw regio. Je vervult een uitgesproken coördinerende en aansturende rol waarbij je de onderhoudsmedewerkers motiveert, begeleidt en opvolgt in hun dagelijkse werking.<br> <br> <span>&nbsp;</span>Daarnaast stuur je externe aannemers aan en ben je voor deze samenwerkingen verantwoordelijk voor de opmaak en opvolging van bestekken. Je bewaakt planning, budget en kwaliteit, fungeert als centraal aanspreekpunt voor interne en externe partners en zorgt zo voor bedrijfszekere kunstwerken en een klantgerichte regiowerking.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Mol"
-          }
-        },
-        {
-          "address": {
-            "city": "Willebroek"
           }
         }
       ]
