@@ -1,11 +1,83 @@
 {
-  "totalItems": 117,
+  "totalItems": 120,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 116,
+  "lastItemOfPage": 119,
   "items": [
+    {
+      "link": "/Job/vdab-73420728",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen Connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Verkoop",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73420728",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Manager AI Engineering (VDAB) via Vlaanderen Connect"
+      },
+      "displayTitle": "Manager AI Engineering (VDAB) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73417918",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73417918",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p>· Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p> \n<p>· Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p> \n<p>· Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p> \n<p>· Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p> \n<p>· Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p> \n<p>· Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p> \n<p>· Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p> \n<p>· Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p> \n<p>· Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente communicatie.</p> \n<p>· Je leidt en ontwikkelt het Platform Product Management‑team, versterkt het productdenken en stakeholdermanagement, en zorgt ervoor dat het team goed gepositioneerd blijft om de toekomstige ambities van Digitaal Vlaanderen waar te maken</p>",
+        "htmlEncoded": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p>· Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p> \n<p>· Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p> \n<p>· Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p> \n<p>· Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p> \n<p>· Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p> \n<p>· Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p> \n<p>· Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p> \n<p>· Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p> \n<p>· Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente communicatie.</p> \n<p>· Je leidt en ontwikkelt het Platform Product Management‑team, versterkt het productdenken en stakeholdermanagement, en zorgt ervoor dat het team goed gepositioneerd blijft om de toekomstige ambities van Digitaal Vlaanderen waar te maken</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73415757",
       "internal": false,
@@ -38,6 +110,42 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20959",
+      "internal": false,
+      "validThroughDate": "1777766400",
+      "hiringOrganization": "Agentschap voor Onderwijsdiensten",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderwijs",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20959",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator voor het startbanenproject JoJo/VeVe"
+      },
+      "displayTitle": "Coördinator voor het startbanenproject JoJo/VeVe",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je komt als\ncoördinator terecht in de afdeling Scholen en leerlingen van het Agentschap\nvoor Onderwijsdiensten (AGODI). Benieuwd wie we zijn? Check onze webpagina’s.\nWe maken deel uit van het Vlaams Ministerie van Onderwijs en Vorming. Wil je\nsnel meer weten, bekijk dan&nbsp;het&nbsp;filmpje&nbsp;over\nAGODI.&nbsp;&nbsp;<br>Samen met je\ncollega-coördinator ben je verantwoordelijk voor het goede verloop van beide\nstartbanenprojecten. Jij bent het aanspreekpunt voor de tewerkstellingsplaatsen\nen voor de jongeren in het project. Zelf ben je ook aangesteld met een\nstartbaanovereenkomst. Dit wil zeggen dat je nog geen 26 jaar bent en de\nkans krijgt op een waardevolle werkervaring. Pas afgestudeerden worden\naangemoedigd om te solliciteren.&nbsp;Tijdens deze\n(eerste) werkervaring krijg je veel kansen en verantwoordelijkheid om je eigen\nfunctie in te vullen binnen de krijtlijnen van de projectwerking.&nbsp;&nbsp;<br><br>Als\ncoördinator zijn jouw taken heel gevarieerd en ben je samen met je\ncollega-coördinator verantwoordelijk voor het goede verloop van het project. <br>Je bewaakt\nde kwaliteit van het project aan de hand van wekelijkse evaluatiebezoeken bij\nde tewerkstellingsplaatsen. Hier ga je in gesprek met de coaches en jongeren om\nde doelstellingen van het project te bekrachtigen. <br>Je waakt ook\nover de algemene kwaliteit van het project aan de hand van rapportering en\nonderzoek.&nbsp;&nbsp;<br>Jij bent het eerste\naanspreekpunt voor de tewerkstellingsplaatsen en de jongeren. Je ziet toe op de\nmailbox en je bent verantwoordelijk voor het actueel houden van de website en\nde sociale media van het project.&nbsp;</p><p>Om bij te\ndragen tot een vlotte dienstverlening, voer je een aantal administratieve taken\nuit. Je bekijkt de contracten van de jongeren en keurt verlengingen al dan niet\ngoed. Je ondersteunt de personeelsadministratie bij de dossiers van de\njongeren. Je volgt deze dossiers ook op in de databank (Access).&nbsp;<br>Je\norganiseert of geeft zelf vormingen om de jongeren in het project extra\ncompetenties mee te geven. Hiervoor stel je zelf een vormingsplan op en\ncontacteer je mogelijke vormingsgevers.&nbsp;&nbsp;<br>Wanneer je\nbepaalde knelpunten ontdekt, ga je op zoek naar oplossingen. Je formuleert een\nvoorstel en organiseert de nodige wijzigingen voor het project.&nbsp;&nbsp;<br>Deze functie\nbiedt de ruimte om als beginnende werknemer veel bij te leren en alle aspecten\nvan projectmanagement te leren kennen.&nbsp;&nbsp;</p><p><strong>Het JoJo/VeVe-project in het kort</strong><br><br>Sinds 2001\nlopen binnen het Beleidsdomein Onderwijs en Vorming van de Vlaamse overheid twee\nprojecten in het kader van startbaanovereenkomsten:&nbsp;&nbsp;</p><ul><li>Het project Jongeren voor Scholen – Scholen voor Jongeren (JoJo-project)wil scholen met een publiek van jongeren met schoolse problemen een ervaringsdeskundige bieden om te werken aan een positief schoolklimaat.<br><br></li><li>Het project Verkeersveiligheid (VeVe-project)streeft ernaar om een verkeersveilige schoolomgeving te creëren en om het school-woonverkeer veiliger te maken.</li></ul><p>Deze\nstartbanenprojecten (JoJo en VeVe) richten zich op vroegtijdige schoolverlaters tussen de 18 en 26\njaar. Jongeren kunnen via het project tewerkgesteld worden in scholen, lokale\nbesturen en organisaties. Daar worden ze begeleid door een coach op de\nwerkvloer. Bovendien geeft het project de\nstartbaners de kans om\nbijkomende opleidingen te volgen en eventueel een diploma secundair onderwijs\n(of hoger) te behalen.&nbsp;&nbsp;</p>",
+        "htmlEncoded": "<p>Je komt als\ncoördinator terecht in de afdeling Scholen en leerlingen van het Agentschap\nvoor Onderwijsdiensten (AGODI). Benieuwd wie we zijn? Check onze webpagina’s.\nWe maken deel uit van het Vlaams Ministerie van Onderwijs en Vorming. Wil je\nsnel meer weten, bekijk dan&nbsp;het&nbsp;filmpje&nbsp;over\nAGODI.&nbsp;&nbsp;<br>Samen met je\ncollega-coördinator ben je verantwoordelijk voor het goede verloop van beide\nstartbanenprojecten. Jij bent het aanspreekpunt voor de tewerkstellingsplaatsen\nen voor de jongeren in het project. Zelf ben je ook aangesteld met een\nstartbaanovereenkomst. Dit wil zeggen dat je nog geen 26 jaar bent en de\nkans krijgt op een waardevolle werkervaring. Pas afgestudeerden worden\naangemoedigd om te solliciteren.&nbsp;Tijdens deze\n(eerste) werkervaring krijg je veel kansen en verantwoordelijkheid om je eigen\nfunctie in te vullen binnen de krijtlijnen van de projectwerking.&nbsp;&nbsp;<br><br>Als\ncoördinator zijn jouw taken heel gevarieerd en ben je samen met je\ncollega-coördinator verantwoordelijk voor het goede verloop van het project. <br>Je bewaakt\nde kwaliteit van het project aan de hand van wekelijkse evaluatiebezoeken bij\nde tewerkstellingsplaatsen. Hier ga je in gesprek met de coaches en jongeren om\nde doelstellingen van het project te bekrachtigen. <br>Je waakt ook\nover de algemene kwaliteit van het project aan de hand van rapportering en\nonderzoek.&nbsp;&nbsp;<br>Jij bent het eerste\naanspreekpunt voor de tewerkstellingsplaatsen en de jongeren. Je ziet toe op de\nmailbox en je bent verantwoordelijk voor het actueel houden van de website en\nde sociale media van het project.&nbsp;</p><p>Om bij te\ndragen tot een vlotte dienstverlening, voer je een aantal administratieve taken\nuit. Je bekijkt de contracten van de jongeren en keurt verlengingen al dan niet\ngoed. Je ondersteunt de personeelsadministratie bij de dossiers van de\njongeren. Je volgt deze dossiers ook op in de databank (Access).&nbsp;<br>Je\norganiseert of geeft zelf vormingen om de jongeren in het project extra\ncompetenties mee te geven. Hiervoor stel je zelf een vormingsplan op en\ncontacteer je mogelijke vormingsgevers.&nbsp;&nbsp;<br>Wanneer je\nbepaalde knelpunten ontdekt, ga je op zoek naar oplossingen. Je formuleert een\nvoorstel en organiseert de nodige wijzigingen voor het project.&nbsp;&nbsp;<br>Deze functie\nbiedt de ruimte om als beginnende werknemer veel bij te leren en alle aspecten\nvan projectmanagement te leren kennen.&nbsp;&nbsp;</p><p><strong>Het JoJo/VeVe-project in het kort</strong><br><br>Sinds 2001\nlopen binnen het Beleidsdomein Onderwijs en Vorming van de Vlaamse overheid twee\nprojecten in het kader van startbaanovereenkomsten:&nbsp;&nbsp;</p><ul><li>Het project Jongeren voor Scholen – Scholen voor Jongeren (JoJo-project)wil scholen met een publiek van jongeren met schoolse problemen een ervaringsdeskundige bieden om te werken aan een positief schoolklimaat.<br><br></li><li>Het project Verkeersveiligheid (VeVe-project)streeft ernaar om een verkeersveilige schoolomgeving te creëren en om het school-woonverkeer veiliger te maken.</li></ul><p>Deze\nstartbanenprojecten (JoJo en VeVe) richten zich op vroegtijdige schoolverlaters tussen de 18 en 26\njaar. Jongeren kunnen via het project tewerkgesteld worden in scholen, lokale\nbesturen en organisaties. Daar worden ze begeleid door een coach op de\nwerkvloer. Bovendien geeft het project de\nstartbaners de kans om\nbijkomende opleidingen te volgen en eventueel een diploma secundair onderwijs\n(of hoger) te behalen.&nbsp;&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Joost-Ten-Node"
           }
         }
       ]
@@ -104,6 +212,42 @@
         {
           "address": {
             "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20446",
+      "internal": false,
+      "validThroughDate": "1777852800",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Juridisch",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20446",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar taxatie registratiebelasting"
+      },
+      "displayTitle": "Dossierbehandelaar taxatie registratiebelasting",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij bent iemand die hands-on en analytisch werkt en energie haalt uit een digitale, snel veranderende werkomgeving. Jij wil jouw talenten echt inzetten in een gedreven en professioneel team, waar jij dagelijks nieuwe uitdagingen aangaat en blijft groeien in jouw vak.</span></p><p><span>In jouw rol als dossierbehandelaar taxatie registratiebelasting neem jij de verantwoordelijkheid over het zelfstandig beheren, opvolgen en verwerken van dossiers rond registratiebelasting. Jij werkt nauwkeurig met wetgeving, duidelijke procedures, richtlijnen en praktische checklists, zodat jij steeds weloverwogen, correcte en juridisch onderbouwde beslissingen kunt nemen.</span></p><p><span>Jij gaat graag aan de slag met complexe en inhoudelijk uitdagende dossiers binnen jouw afdeling en verliest je niet in details, maar zoekt proactief naar oplossingen. Op basis van de geldende wetgeving en richtlijnen formuleer jij sterke, goed onderbouwde beslissingen en denk jij actief mee over manieren om processen, werking en kwaliteit verder te optimaliseren.</span></p><p><span>Daarnaast pas jij je vlot aan aan veranderende prioriteiten en neem jij graag extra verantwoordelijkheden op. Zo kan jij bijvoorbeeld jouw diensthoofd vervangen wanneer nodig. Jij bent ook het aanspreekpunt voor telefonische vragen over jouw dossiers en ondersteunt collega’s met jouw expertise en kennis.</span></p><p><span>Wil jij echt impact maken binnen de Vlaamse Belastingdienst en meebouwen aan een efficiënte dienstverlening? <strong>Voor ons team in Brugge zoeken wij momenteel één nieuwe collega.</strong> Dit is jouw kans om deel uit te maken van een boeiende en betekenisvolle werkomgeving!</span></p>",
+        "htmlEncoded": "<p><span>Jij bent iemand die hands-on en analytisch werkt en energie haalt uit een digitale, snel veranderende werkomgeving. Jij wil jouw talenten echt inzetten in een gedreven en professioneel team, waar jij dagelijks nieuwe uitdagingen aangaat en blijft groeien in jouw vak.</span></p><p><span>In jouw rol als dossierbehandelaar taxatie registratiebelasting neem jij de verantwoordelijkheid over het zelfstandig beheren, opvolgen en verwerken van dossiers rond registratiebelasting. Jij werkt nauwkeurig met wetgeving, duidelijke procedures, richtlijnen en praktische checklists, zodat jij steeds weloverwogen, correcte en juridisch onderbouwde beslissingen kunt nemen.</span></p><p><span>Jij gaat graag aan de slag met complexe en inhoudelijk uitdagende dossiers binnen jouw afdeling en verliest je niet in details, maar zoekt proactief naar oplossingen. Op basis van de geldende wetgeving en richtlijnen formuleer jij sterke, goed onderbouwde beslissingen en denk jij actief mee over manieren om processen, werking en kwaliteit verder te optimaliseren.</span></p><p><span>Daarnaast pas jij je vlot aan aan veranderende prioriteiten en neem jij graag extra verantwoordelijkheden op. Zo kan jij bijvoorbeeld jouw diensthoofd vervangen wanneer nodig. Jij bent ook het aanspreekpunt voor telefonische vragen over jouw dossiers en ondersteunt collega’s met jouw expertise en kennis.</span></p><p><span>Wil jij echt impact maken binnen de Vlaamse Belastingdienst en meebouwen aan een efficiënte dienstverlening? <strong>Voor ons team in Brugge zoeken wij momenteel één nieuwe collega.</strong> Dit is jouw kans om deel uit te maken van een boeiende en betekenisvolle werkomgeving!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brugge"
           }
         }
       ]
@@ -1652,7 +1796,7 @@
       "hiringOrganization": "Vlaanderen Connect.",
       "reservedForDisability": null,
       "openPositions": 1,
-      "domain": "ICT",
+      "domain": "Verkoop",
       "degreeLevel": {
         "code": "A",
         "name": "Masterdiploma"
@@ -3907,42 +4051,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-72878165",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-72878165",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Devops ontwikkelaar (Digitaal Vlaanderen) via Vlaanderen connect"
-      },
-      "displayTitle": "Devops ontwikkelaar (Digitaal Vlaanderen) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Devos ontwikkelaar ter versterking van de Data platform afdeling en dit binnen het Centraal Team.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je aan de digitale transformatie van Vlaanderen werkt , dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op \n<span>#partner, #ontzorgen en #éénteam</span>.</p> \n<p>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen. </p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Binnen Digitaal Vlaanderen is het Centraal Team van de afdeling Dataplatform verantwoordelijk voor het operationeel houden van de toepassingen van de afdeling. De afdeling dataplatform zorgt voor een basiskaart voor Vlaanderen, betrouwbare dataregisters, naadloze data-integratie, inzichtelijke data-analyses en een uitmuntende datagovernance. We zorgen dat data vindbaar, toegankelijk, interoperabel en herbruikbaar zijn en verzekeren de kwaliteit en de veiligheid ervan om innovatie, een efficiëntere dienstverlening en strategische besluitvorming van onze partners te bevorderen.</p> \n<p>Het Centraal Team monitort en onderhoudt bestaande infrastructuur en containers. Via het Azure dataplatform identificeren, ontgrendelen en koppelen we de data, die nodig is voor de digitale transformatie van Vlaanderen.</p> \n<p>Als Devops ontwikkelaar ben je binnen het Centraal Team verantwoordelijk voor het beheer, exploitatie en evolutie van de bestaande Azure infrastructuur, volgens de principes van DevOps en Platform Engineering. Dit voor de bouwstenen Geopunt, Download en Datavindplaats.</p> \n<p>De kernverantwoordelijkheid van de Devops ontwikkelaar is verantwoordelijkheid nemen voor het beheer en de exploitatie van het nieuwe data platform, het beheer van de stromen op het platform en de verdere optimalisatie en doorontwikkelingen.</p> \n<p>Je takenpakket zal onder andere bestaan uit:</p> \n<p>·       Het verder uitbouwen en schalen van de infrastructuur van het dataplatform</p> \n<p>·       Automatiseren van de releases op de verschillende omgevingen</p> \n<p>·       Monitoring van de gezondheid van de infrastructuur en toepassingen</p> \n<p>·       Toevoegen/configureren van nieuwe services/stromen</p> \n<p>·       Voorzien van system failure/recovery plannen</p> \n<p>·       De nodige acties nemen om de betrouwbaarheid van het platform en de systemen te kunnen garanderen.</p>",
-        "htmlEncoded": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Devos ontwikkelaar ter versterking van de Data platform afdeling en dit binnen het Centraal Team.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je aan de digitale transformatie van Vlaanderen werkt , dan ben jij misschien wel onze ideale kandidaat!</p> \n<p><span>Waar kom je terecht?</span></p> \n<p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p> \n<p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p> \n<p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p> \n<p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op \n<span>#partner, #ontzorgen en #éénteam</span>.</p> \n<p>Thuiswerken is al jaren ingeburgerd binnen de Vlaamse overheid. We werken momenteel halftijds thuis en halftijds op kantoor, waarbij dagen op kantoor verdeeld worden over de locatie in Brussel en Gent. Beide locaties zijn zeer goed bereikbaar, zowel met het openbaar vervoer als met de wagen. </p> \n<p><span>Wat zal je moeten doen?</span></p> \n<p>Binnen Digitaal Vlaanderen is het Centraal Team van de afdeling Dataplatform verantwoordelijk voor het operationeel houden van de toepassingen van de afdeling. De afdeling dataplatform zorgt voor een basiskaart voor Vlaanderen, betrouwbare dataregisters, naadloze data-integratie, inzichtelijke data-analyses en een uitmuntende datagovernance. We zorgen dat data vindbaar, toegankelijk, interoperabel en herbruikbaar zijn en verzekeren de kwaliteit en de veiligheid ervan om innovatie, een efficiëntere dienstverlening en strategische besluitvorming van onze partners te bevorderen.</p> \n<p>Het Centraal Team monitort en onderhoudt bestaande infrastructuur en containers. Via het Azure dataplatform identificeren, ontgrendelen en koppelen we de data, die nodig is voor de digitale transformatie van Vlaanderen.</p> \n<p>Als Devops ontwikkelaar ben je binnen het Centraal Team verantwoordelijk voor het beheer, exploitatie en evolutie van de bestaande Azure infrastructuur, volgens de principes van DevOps en Platform Engineering. Dit voor de bouwstenen Geopunt, Download en Datavindplaats.</p> \n<p>De kernverantwoordelijkheid van de Devops ontwikkelaar is verantwoordelijkheid nemen voor het beheer en de exploitatie van het nieuwe data platform, het beheer van de stromen op het platform en de verdere optimalisatie en doorontwikkelingen.</p> \n<p>Je takenpakket zal onder andere bestaan uit:</p> \n<p>·       Het verder uitbouwen en schalen van de infrastructuur van het dataplatform</p> \n<p>·       Automatiseren van de releases op de verschillende omgevingen</p> \n<p>·       Monitoring van de gezondheid van de infrastructuur en toepassingen</p> \n<p>·       Toevoegen/configureren van nieuwe services/stromen</p> \n<p>·       Voorzien van system failure/recovery plannen</p> \n<p>·       De nodige acties nemen om de betrouwbaarheid van het platform en de systemen te kunnen garanderen.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-72858458",
       "internal": false,
       "validThroughDate": "-1",
@@ -4098,7 +4206,7 @@
       "hiringOrganization": "Vlaanderen connect.",
       "reservedForDisability": null,
       "openPositions": 1,
-      "domain": "Administratie",
+      "domain": "ICT",
       "degreeLevel": {
         "code": "B",
         "name": "Graduaats- of bachelordiploma"
@@ -4111,13 +4219,13 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Consultant ISO (Digitaal Vlaanderen) Via Vlaanderen connect"
+        "htmlEncoded": "Information Security Officer  (Digitaal Vlaanderen) Via Vlaanderen connect"
       },
-      "displayTitle": "Consultant ISO (Digitaal Vlaanderen) Via Vlaanderen connect",
+      "displayTitle": "Information Security Officer  (Digitaal Vlaanderen) Via Vlaanderen connect",
       "isProtected": false,
       "description": {
-        "raw": "<p>Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar een gemotiveerde consultant die in een team van informatieveiligheidsspecialisten (Information Security Officer)onze klanten kan gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</p> \n<p>Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie classificatie raamwerk (ICR).</p> \n<p>Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid.</p> \n<p>Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS).</p> \n<p>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</p>",
-        "htmlEncoded": "<p>Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar een gemotiveerde consultant die in een team van informatieveiligheidsspecialisten (Information Security Officer)onze klanten kan gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</p> \n<p>Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie classificatie raamwerk (ICR).</p> \n<p>Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid.</p> \n<p>Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS).</p> \n<p>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</p>"
+        "raw": "<p>Digitaal Vlaanderen groeit, en daarom zoeken we gedreven Information Security Officers die met kennis, visie én goesting willen bouwen aan de digitale veiligheid van de Vlaamse overheid.</p> \n<p>Wil jij een rol waar je:</p> \n<ul type=\"disc\"> \n<li>meeschrijft aan essentiële digitale dienstverlening die miljoenen Vlamingen dagelijks gebruiken?</li> \n<li>de digitale weerbaarheid van Vlaanderen versterkt, van beleid tot uitvoering?</li> \n<li>als pionier mee de Partnerdienst Informatieveiligheid helpt uitbouwen?</li> </ul> \n<p>Dan maken we graag kennis met jou.</p> \n<p>Je werkt afwisselend in Gent, Brussel, onsite bij partners, of thuis — jij kiest wat je werk het best ondersteunt.</p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p>Als Information Security Officer ben jij een cruciale schakel in het versterken van ons veiligheidsbeleid. Je draagt actief bij aan de implementatie van de NIS2-richtlijn en helpt organisaties hun securitystrategie naar een hoger niveau te tillen.</p> \n<p>Je verantwoordelijkheden</p> \n<ul type=\"disc\"> \n<li>Je implementeert en bewaakt het informatieveiligheidsbeleid binnen je organisatie(s).</li> \n<li>Je vertaalt strategische en tactische beveiligingsbehoeften naar concrete, realistische maatregelen.</li> \n<li>Je voert risicoanalyses uit op diverse niveaus en stuurt risicobeheersing aan.</li> \n<li>Je monitort securityrisico’s en initieert verbeteringen.</li> \n<li>Je leidt projecten rond informatiebeveiliging en security awareness.</li> \n<li>Je fungeert als key expert en aanspreekpunt voor interne en externe stakeholders.</li> \n<li>Je bouwt mee aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Extra voor Senior-profielen</p> \n<p>Als senior neem je een natuurlijke voortrekkersrol op:</p> \n<ul type=\"disc\"> \n<li>je bent buddy en mentor voor junior collega’s,</li> \n<li>je stuurt mee de richting van de Partnerdienst Informatieveiligheid,</li> \n<li>je neemt ownership en durft knopen doorhakken in complexe dossiers.</li> </ul> \n<p>Je wordt een inhoudelijke referentie voor belangrijke entiteiten binnen de Vlaamse overheid.</p>",
+        "htmlEncoded": "<p>Digitaal Vlaanderen groeit, en daarom zoeken we gedreven Information Security Officers die met kennis, visie én goesting willen bouwen aan de digitale veiligheid van de Vlaamse overheid.</p> \n<p>Wil jij een rol waar je:</p> \n<ul type=\"disc\"> \n<li>meeschrijft aan essentiële digitale dienstverlening die miljoenen Vlamingen dagelijks gebruiken?</li> \n<li>de digitale weerbaarheid van Vlaanderen versterkt, van beleid tot uitvoering?</li> \n<li>als pionier mee de Partnerdienst Informatieveiligheid helpt uitbouwen?</li> </ul> \n<p>Dan maken we graag kennis met jou.</p> \n<p>Je werkt afwisselend in Gent, Brussel, onsite bij partners, of thuis — jij kiest wat je werk het best ondersteunt.</p> \n<p><strong><span>Wat zal je moeten doen? </span></strong></p> \n<p>Als Information Security Officer ben jij een cruciale schakel in het versterken van ons veiligheidsbeleid. Je draagt actief bij aan de implementatie van de NIS2-richtlijn en helpt organisaties hun securitystrategie naar een hoger niveau te tillen.</p> \n<p>Je verantwoordelijkheden</p> \n<ul type=\"disc\"> \n<li>Je implementeert en bewaakt het informatieveiligheidsbeleid binnen je organisatie(s).</li> \n<li>Je vertaalt strategische en tactische beveiligingsbehoeften naar concrete, realistische maatregelen.</li> \n<li>Je voert risicoanalyses uit op diverse niveaus en stuurt risicobeheersing aan.</li> \n<li>Je monitort securityrisico’s en initieert verbeteringen.</li> \n<li>Je leidt projecten rond informatiebeveiliging en security awareness.</li> \n<li>Je fungeert als key expert en aanspreekpunt voor interne en externe stakeholders.</li> \n<li>Je bouwt mee aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Extra voor Senior-profielen</p> \n<p>Als senior neem je een natuurlijke voortrekkersrol op:</p> \n<ul type=\"disc\"> \n<li>je bent buddy en mentor voor junior collega’s,</li> \n<li>je stuurt mee de richting van de Partnerdienst Informatieveiligheid,</li> \n<li>je neemt ownership en durft knopen doorhakken in complexe dossiers.</li> </ul> \n<p>Je wordt een inhoudelijke referentie voor belangrijke entiteiten binnen de Vlaamse overheid.</p>"
       },
       "locations": [
         {
@@ -4255,13 +4363,13 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Medewerker informatieveiligheid ISOaaS (Digitaal Vlaanderen) via Vlaanderen connect."
+        "htmlEncoded": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen connect."
       },
-      "displayTitle": "Medewerker informatieveiligheid ISOaaS (Digitaal Vlaanderen) via Vlaanderen connect.",
+      "displayTitle": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen connect.",
       "isProtected": false,
       "description": {
-        "raw": "<p><span><span lang=\"NL\">Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar gemotiveerde medewerkers die in een team van</span></span><span><strong><span lang=\"NL\">informatieveiligheidsspecialisten (Information Security Officer)</span></strong></span><span><span lang=\"NL\">onze klanten gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</span></span></p> \n<p><span><span lang=\"NL\">Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie \n<strong>c</strong>lassificatie \n<strong>r</strong>aamwerk (ICR).</span></span><span><span><br> </span></span><span><span lang=\"NL\">Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid. \n<br> Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS). \n<br> </span></span></p> \n<p><span><span>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</span></span></p>",
-        "htmlEncoded": "<p><span><span lang=\"NL\">Bij de Vlaamse Overheid via het agentschap Digitaal Vlaanderen en ter versterking van het Bureau voor Digitale Veiligheid, zijn wij op zoek naar gemotiveerde medewerkers die in een team van</span></span><span><strong><span lang=\"NL\">informatieveiligheidsspecialisten (Information Security Officer)</span></strong></span><span><span lang=\"NL\">onze klanten gaan ondersteunen bij het in dienst stellen en uitvoeren van het informatieveiligheidsbeleid.</span></span></p> \n<p><span><span lang=\"NL\">Binnen de Vlaamse overheid is het informatieveiligheidsbeleid conform ISO27001/02 en de AVG uitgewerkt en vastgelegd in het zogenaamde Informatie \n<strong>c</strong>lassificatie \n<strong>r</strong>aamwerk (ICR).</span></span><span><span><br> </span></span><span><span lang=\"NL\">Digitaal Vlaanderen biedt ondersteuning aan de entiteiten van de Vlaamse overheid voor de implementatie van het informatieveiligheidsbeleid en het ICR van de Vlaamse overheid. \n<br> Vanuit het Bureau voor Digitale Veiligheid gaan we dit aanvullen met de dienstverlening ‘Information Security Officer as a Service’ (ISOaaS). \n<br> </span></span></p> \n<p><span><span>Jouw werkplek hangt af van je activiteit en van de afspraken met de organisatie waar je werkzaam bent. Soms spreek je af met andere collega’s binnen het bureau in Gent of Brussel voor kennisdeling. Andere dagen ga je naar het kantoor van de klant waarvoor je werkt. Uiteraard is het ook mogelijk om sommige dagen vanuit thuis te werken</span></span></p>"
+        "raw": "<p>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</p> \n<p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p> \n<p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p> \n<p>Waar kom je terecht?</p> \n<p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p> \n<p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p> \n<p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p> \n<p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p> \n<p>Je zal onder andere:</p> \n<ul> \n<li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li> \n<li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li> \n<li>leren hoe je risico’s opvolgt en rapporteert;</li> \n<li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li> \n<li>een aanspreekpunt worden voor collega’s en partners;</li> \n<li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p> \n<p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p>",
+        "htmlEncoded": "<p>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</p> \n<p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p> \n<p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p> \n<p>Waar kom je terecht?</p> \n<p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p> \n<p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p> \n<p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p> \n<p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p> \n<p>Je zal onder andere:</p> \n<ul> \n<li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li> \n<li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li> \n<li>leren hoe je risico’s opvolgt en rapporteert;</li> \n<li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li> \n<li>een aanspreekpunt worden voor collega’s en partners;</li> \n<li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p> \n<p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p>"
       },
       "locations": [
         {
