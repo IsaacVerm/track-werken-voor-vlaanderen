@@ -1,11 +1,47 @@
 {
-  "totalItems": 119,
+  "totalItems": 120,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 118,
+  "lastItemOfPage": 119,
   "items": [
+    {
+      "link": "/Job/vdab-73447282",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73447282",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Full-stack java-ontwikkelaar (WEWIS) via Vlaanderen Connect"
+      },
+      "displayTitle": "Full-stack java-ontwikkelaar (WEWIS) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</p> \n<p> </p>",
+        "htmlEncoded": "<p>Als ontwikkelaar speel je een sleutelrol in de ontwikkeling van robuuste en schaalbare applicaties. Je bent verantwoordelijk voor zowel front-end als back-end ontwikkeling van een of meerdere softwareoplossingen binnen het departement. Je werkt nauw samen met je technical lead, functionele analisten, QA-ontwikkelaars en andere ontwikkelaars om applicaties te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn. Je draagt bij aan de optimalisatie van de softwarekwaliteit en prestaties, waarbij je de vastgelegde richtlijnen toepast en meewerkt aan de continue verbetering van onze ontwikkelprocessen.</p> \n<p>Je komt terecht in een multidisciplinair agile team binnen het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS) van de Vlaamse overheid. Dit multifunctionele team bestaat uit een productmanager, scrummaster, techlead, functionele analisten en ontwikkelaars. Binnen het team staat samenwerking centraal en wordt gewerkt volgens agile principes, met een focus op continue verbetering en kennisdeling. Samen ontwikkelen jullie kwaliteitsvolle en toekomstgerichte digitale oplossingen die bijdragen aan het sociaal-economisch beleid van Vlaanderen.</p> \n<p> </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20634",
       "internal": false,
