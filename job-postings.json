@@ -1,11 +1,146 @@
 {
-  "totalItems": 120,
+  "totalItems": 113,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 119,
+  "lastItemOfPage": 112,
   "items": [
+    {
+      "link": "/Job/cornerstone-20552",
+      "internal": false,
+      "validThroughDate": "1777161600",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20552",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Groepscoördinator elektronische monitoring minderjarigen"
+      },
+      "displayTitle": "Groepscoördinator elektronische monitoring minderjarigen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als groepscoördinator ben jij de motor en het aanspreekpunt van het team begeleiders elektronische monitoring jeugd. Je neemt het voortouw in de dagelijkse aansturing, organiseert en superviseert de werking en zorgt ervoor dat het team efficiënt, vlot en ononderbroken kan functioneren.<br><br>Elke dag brengt nieuwe uitdagingen: je reageert flexibel, houdt overzicht en zorgt dat het team efficiënt en gefocust blijft. Je motiveert hen en daagt hen uit. Daar waar nodig neem je zelf ook nog een dossier op.<br><br>Je bewaakt de kwaliteit van het werk, houdt overzicht over dossiers en garandeert een correcte, zorgvuldige en tijdige afhandeling. Tegelijk werk je mee aan een zeer innovatief project, waarbij je bijdraagt aan de verdere ontwikkeling en implementatie van elektronische monitoring in heel Vlaanderen.<br><br>Bovendien ben je een onmisbare schakel tussen het team, het Vlaams Centrum Elektronisch Toezicht (VCET) en de Vlaamse coördinator alsook naar je directeur operationele diensten. Je vertaalt beleidskeuzes naar concrete acties, signaleert kansen en knelpunten en zet deze proactief om in duidelijke oplossingen. Je zal mee de basis leggen – samen met de andere provinciale groepscoördinatoren en de Vlaams coördinator – voor de graduele structurele implementatie van EM jeugd (elektronische monitoring jeugd) in heel Vlaanderen.<br><br>We hebben momenteel drie vacante plaatsen, telkens één voor de volgende regio’s:<br>-Antwerpen&nbsp;<br>-Oost-Vlaanderen<br>-West-Vlaanderen<br><br>We leggen ook een werfreserve aan voor een groepscoördinator voor Vlaams-Brabant/Limburg (= één werkingsgebied).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br></p>",
+        "htmlEncoded": "<p>Als groepscoördinator ben jij de motor en het aanspreekpunt van het team begeleiders elektronische monitoring jeugd. Je neemt het voortouw in de dagelijkse aansturing, organiseert en superviseert de werking en zorgt ervoor dat het team efficiënt, vlot en ononderbroken kan functioneren.<br><br>Elke dag brengt nieuwe uitdagingen: je reageert flexibel, houdt overzicht en zorgt dat het team efficiënt en gefocust blijft. Je motiveert hen en daagt hen uit. Daar waar nodig neem je zelf ook nog een dossier op.<br><br>Je bewaakt de kwaliteit van het werk, houdt overzicht over dossiers en garandeert een correcte, zorgvuldige en tijdige afhandeling. Tegelijk werk je mee aan een zeer innovatief project, waarbij je bijdraagt aan de verdere ontwikkeling en implementatie van elektronische monitoring in heel Vlaanderen.<br><br>Bovendien ben je een onmisbare schakel tussen het team, het Vlaams Centrum Elektronisch Toezicht (VCET) en de Vlaamse coördinator alsook naar je directeur operationele diensten. Je vertaalt beleidskeuzes naar concrete acties, signaleert kansen en knelpunten en zet deze proactief om in duidelijke oplossingen. Je zal mee de basis leggen – samen met de andere provinciale groepscoördinatoren en de Vlaams coördinator – voor de graduele structurele implementatie van EM jeugd (elektronische monitoring jeugd) in heel Vlaanderen.<br><br>We hebben momenteel drie vacante plaatsen, telkens één voor de volgende regio’s:<br>-Antwerpen&nbsp;<br>-Oost-Vlaanderen<br>-West-Vlaanderen<br><br>We leggen ook een werfreserve aan voor een groepscoördinator voor Vlaams-Brabant/Limburg (= één werkingsgebied).<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.<br><br></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Brugge"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": ""
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20551",
+      "internal": false,
+      "validThroughDate": "1777161600",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 6,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20551",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Begeleider Elektronische Monitoring"
+      },
+      "displayTitle": "Begeleider Elektronische Monitoring",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Maak impact als Begeleider Elektronische Monitoring bij Agentschap Justitie en Handhaving!</strong><br>Ben jij klaar\nom écht het verschil te maken in het leven van jongeren? Heb je een sterk\nrechtvaardigheidsgevoel, kan je snel schakelen in een flexibele agenda en bruis\nje van motivatie? Dan is dit jouw kans om een betekenisvolle rol op te nemen\nbinnen het Agentschap Justitie en Handhaving.<br><br>Als <strong>Begeleider Elektronische Monitoring</strong> speel\nje een onmisbare rol in de re-integratie van minderjarigen die onder toezicht\nstaan van de jeugdrechtbank. Jij bent de brug tussen hun huidige situatie en een nieuwe,\nconstructieve toekomst. Met jouw achtergrond, jouw durf en jouw bevlogenheid\nleer je hen opnieuw structuur opbouwen, verantwoordelijkheid opnemen en\nvertrouwen vinden in zichzelf en hun omgeving.<br><br><strong>Wat jouw job\nbijzonder maakt?</strong></p><ul><li><strong>Je staat dicht bij de leefwereld van jongeren.</strong> Je bent motivator, klankbord én vertrouwenspersoon.</li><li><strong>Geen enkele dag is hetzelfde.</strong> Je schakelt snel, denkt creatief en gaat oplossingsgericht om met uitdagende situaties.</li><li><strong>Je creëert kansen.</strong> Kleine stappen worden grote mijlpalen dankzij jouw begeleiding, inzet en geloof in groei.</li><li><strong>Je werkt mee aan maatschappelijke impact.</strong> Jij draagt rechtstreeks bij aan re-integratie, veiligheid en een menswaardige aanpak binnen justitie.&nbsp;</li></ul><p>Werk je graag\nzelfstandig, durf je verantwoordelijkheid opnemen en vind je het belangrijk om\njongeren positief in beweging te zetten? Dan pas je perfect in ons team.</p><p><strong>Wat ga je doen?</strong></p><ul><li>Samen met de jongere en zijn/haar netwerk en in afstemming met eventuele andere betrokken hulpverlening een doelenplan opstellen, bijsturen en opvolgen.</li><li>Motiveren en ondersteunen van de jongere, activeren netwerk en bijsturen in functie van desistance van criminaliteit en behalen doelen.<br>Nauw contact met de jongere, het gezin en zijn/haar netwerk, waarvan minstens 1 wekelijks fysiek contact thuis of op de dienst.</li><li>Nauwe samenwerking met consulenten van de sociale dienst jeugdrechtbank, begeleidingsdiensten, school, en andere betrokken partners.</li><li>Wekelijks opmaken van een uurrooster in functie van de elektronische monitoring en opvolgen van overtredingen in nauwe samenwerking met het Vlaams Centrum voor Elektronisch Toezicht.</li></ul><p><strong>Jouw profiel?</strong></p><ul><li>Je gelooft in de kracht van tweede kansen en hebt een hart voor jongeren.</li><li>Je gelooft in de alternatieve maatregel van elektronische monitoring van jongeren.</li><li>Je hebt een sterk inzicht in jeugddelinquentierecht en contextbegeleiding.</li><li>Je bent flexibel, mobiel en in het bezit van een rijbewijs B.</li><li>Je ziet de meerwaarde van huisbezoekenen bent bereid na schooltijd langs te gaan.</li><li>Je kan snel schakelen, bent empathisch maar ook duidelijk en consequent.</li></ul><p><strong>Waarom kiezen voor Agentschap Justitie en Handhaving?</strong></p><ul><li>Een uitdagende en maatschappelijk relevante job met impact.</li><li>Werken in een gedreven team met ruimte voor overleg en professionele ontwikkeling.</li><li>Een job waarin je actief op pad bent en echt verbinding maakt met jongeren en hun netwerk.</li></ul><p>Bij het\nAgentschap Justitie en Handhaving krijg je de ruimte om mee te bouwen aan een\ntoekomst waar jongeren écht een nieuwe start kunnen maken — én waar jouw\nengagement het verschil betekent.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p><strong>Maak impact als Begeleider Elektronische Monitoring bij Agentschap Justitie en Handhaving!</strong><br>Ben jij klaar\nom écht het verschil te maken in het leven van jongeren? Heb je een sterk\nrechtvaardigheidsgevoel, kan je snel schakelen in een flexibele agenda en bruis\nje van motivatie? Dan is dit jouw kans om een betekenisvolle rol op te nemen\nbinnen het Agentschap Justitie en Handhaving.<br><br>Als <strong>Begeleider Elektronische Monitoring</strong> speel\nje een onmisbare rol in de re-integratie van minderjarigen die onder toezicht\nstaan van de jeugdrechtbank. Jij bent de brug tussen hun huidige situatie en een nieuwe,\nconstructieve toekomst. Met jouw achtergrond, jouw durf en jouw bevlogenheid\nleer je hen opnieuw structuur opbouwen, verantwoordelijkheid opnemen en\nvertrouwen vinden in zichzelf en hun omgeving.<br><br><strong>Wat jouw job\nbijzonder maakt?</strong></p><ul><li><strong>Je staat dicht bij de leefwereld van jongeren.</strong> Je bent motivator, klankbord én vertrouwenspersoon.</li><li><strong>Geen enkele dag is hetzelfde.</strong> Je schakelt snel, denkt creatief en gaat oplossingsgericht om met uitdagende situaties.</li><li><strong>Je creëert kansen.</strong> Kleine stappen worden grote mijlpalen dankzij jouw begeleiding, inzet en geloof in groei.</li><li><strong>Je werkt mee aan maatschappelijke impact.</strong> Jij draagt rechtstreeks bij aan re-integratie, veiligheid en een menswaardige aanpak binnen justitie.&nbsp;</li></ul><p>Werk je graag\nzelfstandig, durf je verantwoordelijkheid opnemen en vind je het belangrijk om\njongeren positief in beweging te zetten? Dan pas je perfect in ons team.</p><p><strong>Wat ga je doen?</strong></p><ul><li>Samen met de jongere en zijn/haar netwerk en in afstemming met eventuele andere betrokken hulpverlening een doelenplan opstellen, bijsturen en opvolgen.</li><li>Motiveren en ondersteunen van de jongere, activeren netwerk en bijsturen in functie van desistance van criminaliteit en behalen doelen.<br>Nauw contact met de jongere, het gezin en zijn/haar netwerk, waarvan minstens 1 wekelijks fysiek contact thuis of op de dienst.</li><li>Nauwe samenwerking met consulenten van de sociale dienst jeugdrechtbank, begeleidingsdiensten, school, en andere betrokken partners.</li><li>Wekelijks opmaken van een uurrooster in functie van de elektronische monitoring en opvolgen van overtredingen in nauwe samenwerking met het Vlaams Centrum voor Elektronisch Toezicht.</li></ul><p><strong>Jouw profiel?</strong></p><ul><li>Je gelooft in de kracht van tweede kansen en hebt een hart voor jongeren.</li><li>Je gelooft in de alternatieve maatregel van elektronische monitoring van jongeren.</li><li>Je hebt een sterk inzicht in jeugddelinquentierecht en contextbegeleiding.</li><li>Je bent flexibel, mobiel en in het bezit van een rijbewijs B.</li><li>Je ziet de meerwaarde van huisbezoekenen bent bereid na schooltijd langs te gaan.</li><li>Je kan snel schakelen, bent empathisch maar ook duidelijk en consequent.</li></ul><p><strong>Waarom kiezen voor Agentschap Justitie en Handhaving?</strong></p><ul><li>Een uitdagende en maatschappelijk relevante job met impact.</li><li>Werken in een gedreven team met ruimte voor overleg en professionele ontwikkeling.</li><li>Een job waarin je actief op pad bent en echt verbinding maakt met jongeren en hun netwerk.</li></ul><p>Bij het\nAgentschap Justitie en Handhaving krijg je de ruimte om mee te bouwen aan een\ntoekomst waar jongeren écht een nieuwe start kunnen maken — én waar jouw\nengagement het verschil betekent.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20403",
+      "internal": false,
+      "validThroughDate": "1777248000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 4,
+      "domain": "Dienstverlening",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20403",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Organisatieondersteuner"
+      },
+      "displayTitle": "Organisatieondersteuner",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Achter elk hulp- en dienstverleningsaanbod in de gevangenis schuilt een sterke organisatie. Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden zorg jij ervoor dat die organisatie klopt.<br><br>Ben jij een geboren ondersteuner met een sterk organisatorisch talent en wil je dat inzetten in een maatschappelijk relevante context? Heb je interesse in de gevangenisomgeving en in hulp- en dienstverlening aan gedetineerden? Werk je graag verbindend en voel je je thuis in een complexe organisatie met verschillende partners? Dan is deze functie bij het Agentschap Justitie en Handhaving misschien wel iets voor jou!<br><br>Jij bent de draaischijf van het Vlaams aanbod in de gevangenis en zorgt ervoor dat het hulp- en dienstverleningsaanbod vlot, correct en zichtbaar georganiseerd wordt. Je werkt nauw samen met de beleidscoördinator, het coördinatieteam, verschillende partnerorganisaties en het gevangenispersoneel. Dankzij jouw aanwezigheid op de werkvloer heb je voeling met wat leeft bij zowel gedetineerden als medewerkers.<br><br>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden:</p><ul><li>neem je de planning en coördinatie van het hulp- en dienstverleningsaanbod in handen en zorg je voor een vlotte afstemming tussen alle betrokken partners;</li><li>sta je in voor de bekendmaking van het aanbod aan gedetineerden en stimuleer je hun deelname aan activiteiten;<br>zorg je voor een correcte registratie en opvolging van activiteiten en participatie;</li><li>ondersteun je medewerkers en partnerorganisaties bij de dagelijkse uitvoering van hun opdrachten binnen de gevangeniscontext;</li><li>organiseer en coördineer je de logistieke ondersteuning van het hulp- en dienstverleningsaanbod;<br>werk je mee aan het uitwerken en verbeteren van procedures en instrumenten om de continuïteit en kwaliteit van de hulp- en dienstverlening te versterken;</li><li>fungeer je als bruggenbouwer tussen beleid en werkvloer en rapporteer je aan de beleidscoördinator.</li></ul>",
+        "htmlEncoded": "<p>Achter elk hulp- en dienstverleningsaanbod in de gevangenis schuilt een sterke organisatie. Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden zorg jij ervoor dat die organisatie klopt.<br><br>Ben jij een geboren ondersteuner met een sterk organisatorisch talent en wil je dat inzetten in een maatschappelijk relevante context? Heb je interesse in de gevangenisomgeving en in hulp- en dienstverlening aan gedetineerden? Werk je graag verbindend en voel je je thuis in een complexe organisatie met verschillende partners? Dan is deze functie bij het Agentschap Justitie en Handhaving misschien wel iets voor jou!<br><br>Jij bent de draaischijf van het Vlaams aanbod in de gevangenis en zorgt ervoor dat het hulp- en dienstverleningsaanbod vlot, correct en zichtbaar georganiseerd wordt. Je werkt nauw samen met de beleidscoördinator, het coördinatieteam, verschillende partnerorganisaties en het gevangenispersoneel. Dankzij jouw aanwezigheid op de werkvloer heb je voeling met wat leeft bij zowel gedetineerden als medewerkers.<br><br>Als organisatieondersteuner hulp- en dienstverlening aan gedetineerden:</p><ul><li>neem je de planning en coördinatie van het hulp- en dienstverleningsaanbod in handen en zorg je voor een vlotte afstemming tussen alle betrokken partners;</li><li>sta je in voor de bekendmaking van het aanbod aan gedetineerden en stimuleer je hun deelname aan activiteiten;<br>zorg je voor een correcte registratie en opvolging van activiteiten en participatie;</li><li>ondersteun je medewerkers en partnerorganisaties bij de dagelijkse uitvoering van hun opdrachten binnen de gevangeniscontext;</li><li>organiseer en coördineer je de logistieke ondersteuning van het hulp- en dienstverleningsaanbod;<br>werk je mee aan het uitwerken en verbeteren van procedures en instrumenten om de continuïteit en kwaliteit van de hulp- en dienstverlening te versterken;</li><li>fungeer je als bruggenbouwer tussen beleid en werkvloer en rapporteer je aan de beleidscoördinator.</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Beveren-Kruibeke-Zwijndrecht"
+          }
+        },
+        {
+          "address": {
+            "city": "Antwerpen"
+          }
+        },
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        },
+        {
+          "address": {
+            "city": "Dendermonde"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73447282",
       "internal": false,
@@ -1407,64 +1542,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20536",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20536",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent Agentschap Justitie en Handhaving - Gemeenschapsinstellingen"
-      },
-      "displayTitle": "Jobstudent Agentschap Justitie en Handhaving - Gemeenschapsinstellingen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten voor de Afdeling Gemeenschapsinstellingen en het Vlaams Detentiecentrum om tijdens de zomervakantie te ondersteunen.</p><p>Wij zoeken nog studenten voor:</p><ul><li>Gemeenschapsinstelling De Kempen: campus De Hutten en campus De Markt;</li><li>Gemeenschapsinstelling De Zande: campus Beernem, campus Ruiselede, campus Wingene;</li><li>Gemeenschapsinstelling De Grubbe: campus Kortenberg (Everberg).</li></ul><p>Als jobstudent binnen de Gemeenschapsinstellingen zijn er verschillende functies mogelijk. De exacte inhoud van je studentenjob hangt af van de functie waarin je aan de slag gaat en jouw troeven. </p><p>Enkele taken kunnen bijvoorbeeld zijn: </p><ul><li>Begeleider</li><li>Logistiek assistent</li><li>Onthaalmedewerker</li><li>Trajectcoördinator</li><li>Nachtwaker</li></ul><p>Lees meer over wat deze verschillende jobs inhouden en over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten voor de Afdeling Gemeenschapsinstellingen en het Vlaams Detentiecentrum om tijdens de zomervakantie te ondersteunen.</p><p>Wij zoeken nog studenten voor:</p><ul><li>Gemeenschapsinstelling De Kempen: campus De Hutten en campus De Markt;</li><li>Gemeenschapsinstelling De Zande: campus Beernem, campus Ruiselede, campus Wingene;</li><li>Gemeenschapsinstelling De Grubbe: campus Kortenberg (Everberg).</li></ul><p>Als jobstudent binnen de Gemeenschapsinstellingen zijn er verschillende functies mogelijk. De exacte inhoud van je studentenjob hangt af van de functie waarin je aan de slag gaat en jouw troeven. </p><p>Enkele taken kunnen bijvoorbeeld zijn: </p><ul><li>Begeleider</li><li>Logistiek assistent</li><li>Onthaalmedewerker</li><li>Trajectcoördinator</li><li>Nachtwaker</li></ul><p>Lees meer over wat deze verschillende jobs inhouden en over het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Everberg"
-          }
-        },
-        {
-          "address": {
-            "city": "Beernem"
-          }
-        },
-        {
-          "address": {
-            "city": "Wingene"
-          }
-        },
-        {
-          "address": {
-            "city": "Mol"
-          }
-        },
-        {
-          "address": {
-            "city": "Mol"
-          }
-        },
-        {
-          "address": {
-            "city": ""
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20479",
       "internal": false,
       "validThroughDate": "1776556800",
@@ -1640,365 +1717,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20576",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Departement Cultuur, Jeugd en Media",
-      "reservedForDisability": false,
-      "openPositions": 4,
-      "domain": "Dienstverlening",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20576",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudenten Uitleendienst voor Kampeermateriaal"
-      },
-      "displayTitle": "Jobstudenten Uitleendienst voor Kampeermateriaal",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Steek je graag de <strong>handen uit de mouwen</strong> en ben je <strong>sociaal aangelegd</strong>? Help je jongeren graag verder bij het uitlenen van kampeermateriaal? Dan is deze studentenjob helemaal iets voor jou!</p><p>Samen met het team van de Uitleendienst voor Kampeermateriaal verzamel je de onderdelen van verschillende tentmodellen uit de rekken of boxen en breng je ze tot aan de wagen van de ontlener.</p><p>Wanneer het materiaal wordt teruggebracht, controleer je samen met je collega’s of alles in orde is. Je noteert eventuele schade of ontbrekende stukken en voert kleine herstellingen uit. <strong>Houd er rekening mee dat de job fysiek wat inspanning vraagt</strong>.</p><p>Je werkt van maandag tot vrijdag, telkens van 7.54 uur tot 16 uur. We zoeken jobstudenten voor volgende periodes:</p><ul><li>13/07/2026-14/08/2026&nbsp;&nbsp;</li><li>20/07/2026-21/08/2026&nbsp;</li><li>27/07/2026-31/08/2026</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
-        "htmlEncoded": "<p>Steek je graag de <strong>handen uit de mouwen</strong> en ben je <strong>sociaal aangelegd</strong>? Help je jongeren graag verder bij het uitlenen van kampeermateriaal? Dan is deze studentenjob helemaal iets voor jou!</p><p>Samen met het team van de Uitleendienst voor Kampeermateriaal verzamel je de onderdelen van verschillende tentmodellen uit de rekken of boxen en breng je ze tot aan de wagen van de ontlener.</p><p>Wanneer het materiaal wordt teruggebracht, controleer je samen met je collega’s of alles in orde is. Je noteert eventuele schade of ontbrekende stukken en voert kleine herstellingen uit. <strong>Houd er rekening mee dat de job fysiek wat inspanning vraagt</strong>.</p><p>Je werkt van maandag tot vrijdag, telkens van 7.54 uur tot 16 uur. We zoeken jobstudenten voor volgende periodes:</p><ul><li>13/07/2026-14/08/2026&nbsp;&nbsp;</li><li>20/07/2026-21/08/2026&nbsp;</li><li>27/07/2026-31/08/2026</li></ul><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Zaventem"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20516",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap Justitie en Handhaving",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "C",
-        "name": "Secundair onderwijs"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20516",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent Agentschap Justitie en Handhaving"
-      },
-      "displayTitle": "Jobstudent Agentschap Justitie en Handhaving",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten voor verschillende afdelingen om tijdens de zomervakantie te ondersteunen.&nbsp;<br>Wij zoeken nog studenten voor:<br><br>•Af deling Justitiehuizen: Antwerpen, Brugge, Brussel, Dendermonde, Gent, Hasselt, Ieper, Kortrijk, Leuven, Mechelen, Oudenaarde,&nbsp; &nbsp; Tongeren, Turnhout, Veurne<br>• Afdeling Vlaams Centrum Elektronisch Toezicht: Brussel<br>• Afdeling Beleid: Brussel<br>• Afdeling Staf &amp; Coördinatie – communicatie: Brussel<br>• Afdeling Gendergerelateerd Geweld: Vlaams Meldpunt Grensoverschrijdend Gedrag Brussel, Veilig Huis Antwerpen, Veilig Huis provincie West-Vlaanderen<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>• Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>• Het onthaal van bezoekers<br>• Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>• Organiseren en verzorgen van een klassement<br>• Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>• Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>• Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br></p><br>",
-        "htmlEncoded": "<p><span></span>Ben jij een student en zoek je naar een boeiende studentenjob? Het Agentschap Justitie en Handhaving zoekt studenten voor verschillende afdelingen om tijdens de zomervakantie te ondersteunen.&nbsp;<br>Wij zoeken nog studenten voor:<br><br>•Af deling Justitiehuizen: Antwerpen, Brugge, Brussel, Dendermonde, Gent, Hasselt, Ieper, Kortrijk, Leuven, Mechelen, Oudenaarde,&nbsp; &nbsp; Tongeren, Turnhout, Veurne<br>• Afdeling Vlaams Centrum Elektronisch Toezicht: Brussel<br>• Afdeling Beleid: Brussel<br>• Afdeling Staf &amp; Coördinatie – communicatie: Brussel<br>• Afdeling Gendergerelateerd Geweld: Vlaams Meldpunt Grensoverschrijdend Gedrag Brussel, Veilig Huis Antwerpen, Veilig Huis provincie West-Vlaanderen<br><br>Als jobstudent voer je voornamelijk administratieve taken uit. De exacte inhoud van je studentenjob hangt af van de afdeling waar je aan de slag gaat en jouw troeven. Enkele taken kunnen bijvoorbeeld zijn:</p><p>• Het beantwoorden van telefonische oproepen en deze correct doorverwijzen<br>• Het onthaal van bezoekers<br>• Dossiers helpen opmaken, administratief verwerken en aan de verantwoordelijke bezorgen<br>• Organiseren en verzorgen van een klassement<br>• Verzamelen, invoeren, verwerken en actueel houden van gegevens (IT-applicatie)<br>• Voorbereiden, opstellen en nakijken van documenten (rapporten, formulieren, lijsten...)<br>• Het uitvoeren van allerhande ondersteunende taken (logistiek, ICT...)<br><br></p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Turnhout"
-          }
-        },
-        {
-          "address": {
-            "city": "Kortrijk"
-          }
-        },
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Hasselt"
-          }
-        },
-        {
-          "address": {
-            "city": "Tongeren-Borgloon"
-          }
-        },
-        {
-          "address": {
-            "city": "Brugge"
-          }
-        },
-        {
-          "address": {
-            "city": "Veurne"
-          }
-        },
-        {
-          "address": {
-            "city": "Ieper"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        },
-        {
-          "address": {
-            "city": "Dendermonde"
-          }
-        },
-        {
-          "address": {
-            "city": "Oudenaarde"
-          }
-        },
-        {
-          "address": {
-            "city": "Antwerpen"
-          }
-        },
-        {
-          "address": {
-            "city": "Mechelen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20500",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20500",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent opmaak bosbouwrapporten"
-      },
-      "displayTitle": "Jobstudent opmaak bosbouwrapporten",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Studentenjob bij Natuur en Bos – Combineer data, natuur én technologie!</strong><br><br>Ben jij een student met een passie voor bossen én ben je een crack in data? Het Agentschap voor Natuur en Bos zoekt een enthousiaste jobstudent die wil helpen om historische bosbouwgegevens nieuw leven in te blazen.<br><br><strong>Wat ga je doen?</strong></p><p>Je duikt in onze oude bosbouw-opnames en helpt ons om deze waardevolle data om te zetten naar heldere, moderne PowerBI-rapporten en dashboards. Dankzij jouw inzicht in dendrometrische gegevens zorg je ervoor dat alles correct en zinvol verwerkt wordt.&nbsp;&nbsp;<br>Loopt alles vlot? Dan krijg je ook de kans om mee te werken in <strong>ArcGIS Pro</strong> om geografische data te editeren.<br><br><strong>Wie zoeken we?</strong>&nbsp;&nbsp;</p><p>Een student met:</p><ul><li>kennis van dendrometrie</li><li>ervaring of feeling met rapporteren in <strong>PowerBI</strong></li><li>(optioneel) basiservaring in <strong>ArcGIS Pro</strong></li></ul><p><strong>Waarom kiezen voor Natuur en Bos?</strong></p><p>Je werkt mee aan een groener Vlaanderen, in een organisatie waar natuur, innovatie en samenwerking centraal staan.<br><br>Klinkt dit helemaal als iets voor jou? Laat snel van je horen – wij kijken ernaar uit om samen met jou meer en betere natuurdata te ontsluiten!</p>",
-        "htmlEncoded": "<p><strong>Studentenjob bij Natuur en Bos – Combineer data, natuur én technologie!</strong><br><br>Ben jij een student met een passie voor bossen én ben je een crack in data? Het Agentschap voor Natuur en Bos zoekt een enthousiaste jobstudent die wil helpen om historische bosbouwgegevens nieuw leven in te blazen.<br><br><strong>Wat ga je doen?</strong></p><p>Je duikt in onze oude bosbouw-opnames en helpt ons om deze waardevolle data om te zetten naar heldere, moderne PowerBI-rapporten en dashboards. Dankzij jouw inzicht in dendrometrische gegevens zorg je ervoor dat alles correct en zinvol verwerkt wordt.&nbsp;&nbsp;<br>Loopt alles vlot? Dan krijg je ook de kans om mee te werken in <strong>ArcGIS Pro</strong> om geografische data te editeren.<br><br><strong>Wie zoeken we?</strong>&nbsp;&nbsp;</p><p>Een student met:</p><ul><li>kennis van dendrometrie</li><li>ervaring of feeling met rapporteren in <strong>PowerBI</strong></li><li>(optioneel) basiservaring in <strong>ArcGIS Pro</strong></li></ul><p><strong>Waarom kiezen voor Natuur en Bos?</strong></p><p>Je werkt mee aan een groener Vlaanderen, in een organisatie waar natuur, innovatie en samenwerking centraal staan.<br><br>Klinkt dit helemaal als iets voor jou? Laat snel van je horen – wij kijken ernaar uit om samen met jou meer en betere natuurdata te ontsluiten!</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20498",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20498",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent voor grafische opdrachten"
-      },
-      "displayTitle": "Jobstudent voor grafische opdrachten",
-      "isProtected": false,
-      "description": {
-        "raw": "<strong>Word jobstudent communicatie/grafisch ontwerp bij LIFE B4B!</strong><br><br>Ben jij een creatieve student met een passie voor natuur? Voor het Europese <strong>LIFE Belgium for Biodiversity-</strong>project zoeken we een enthousiaste<strong> jobstudent communicatie/grafisch ontwerp</strong> die ons team tijdelijk komt versterken.<br><br><strong>Wat ga je doen?</strong>&nbsp;<br>Je zet mee je schouders onder de zichtbaarheid van een grootschalig natuurherstelproject. Binnen de bestaande huisstijl werk je aan frisse communicatiematerialen en online content. Je ontwerpt posters, flyers en visuals, maakt sociale‑mediaposts, monteert korte video’s en denkt mee na over nieuwe formats. Kortom: jij helpt onze boodschap krachtig en creatief de wereld in!<br><br><strong>Waarom LIFE B4B?&nbsp;</strong>&nbsp;<br>LIFE B4B werkt aan de bescherming en het herstel van biodiversiteit in heel België. Met partners in Vlaanderen, Wallonië, Brussel en op federaal niveau maken we werk van de Europese Biodiversiteitsstrategie 2030. Communicatie speelt daarin een sleutelrol — en jij kan daar impact mee maken.<br><br><strong>Waarom ANB?</strong>&nbsp;&nbsp;<br>Het Agentschap voor Natuur en Bos beheert meer dan 90.000 hectare natuur in Vlaanderen en ondersteunt tal van projecten onder het motto <strong>\"meer, beter en samen\"</strong>. Je komt terecht in een inspirerende omgeving waar natuur, creativiteit en maatschappelijke waarde centraal staan.<br><br>Meer info over het project: www.lifeb4b.be",
-        "htmlEncoded": "<strong>Word jobstudent communicatie/grafisch ontwerp bij LIFE B4B!</strong><br><br>Ben jij een creatieve student met een passie voor natuur? Voor het Europese <strong>LIFE Belgium for Biodiversity-</strong>project zoeken we een enthousiaste<strong> jobstudent communicatie/grafisch ontwerp</strong> die ons team tijdelijk komt versterken.<br><br><strong>Wat ga je doen?</strong>&nbsp;<br>Je zet mee je schouders onder de zichtbaarheid van een grootschalig natuurherstelproject. Binnen de bestaande huisstijl werk je aan frisse communicatiematerialen en online content. Je ontwerpt posters, flyers en visuals, maakt sociale‑mediaposts, monteert korte video’s en denkt mee na over nieuwe formats. Kortom: jij helpt onze boodschap krachtig en creatief de wereld in!<br><br><strong>Waarom LIFE B4B?&nbsp;</strong>&nbsp;<br>LIFE B4B werkt aan de bescherming en het herstel van biodiversiteit in heel België. Met partners in Vlaanderen, Wallonië, Brussel en op federaal niveau maken we werk van de Europese Biodiversiteitsstrategie 2030. Communicatie speelt daarin een sleutelrol — en jij kan daar impact mee maken.<br><br><strong>Waarom ANB?</strong>&nbsp;&nbsp;<br>Het Agentschap voor Natuur en Bos beheert meer dan 90.000 hectare natuur in Vlaanderen en ondersteunt tal van projecten onder het motto <strong>\"meer, beter en samen\"</strong>. Je komt terecht in een inspirerende omgeving waar natuur, creativiteit en maatschappelijke waarde centraal staan.<br><br>Meer info over het project: www.lifeb4b.be"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        },
-        {
-          "address": {
-            "city": "Gent"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20494",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20494",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent terreininventariseerder"
-      },
-      "displayTitle": "Jobstudent terreininventariseerder",
-      "isProtected": false,
-      "description": {
-        "raw": "<strong>Ontdek de leukste studentenjob in de natuur!</strong>&nbsp;<br>Ben jij een enthousiaste student die graag buiten is, nauwkeurig werkt en zich makkelijk oriënteert in bossen en natuurgebieden? Dan heeft het Agentschap voor Natuur en Bos dé ideale vakantiejob voor jou!<br><br><strong>Wat ga je doen?</strong>&nbsp;&nbsp;<br>Je trekt eropuit in onze ANB‑gebieden en brengt de recreatieve infrastructuur in kaart: van wandelbewegwijzering en infoborden tot speelzones, bivakplaatsen en uitkijktorens. Met een tablet en een handige mobiele app registreer je alles nauwkeurig op locatie.&nbsp;&nbsp;<br>Verplaatsingen binnen het gebied doe je bij voorkeur met je eigen fiets.<br><br><strong>Waarom ANB?&nbsp;</strong>&nbsp;<br>Natuur en Bos beheert en beschermt meer dan 90.000 hectare natuur in Vlaanderen. In onze 300+ natuurgebieden valt altijd iets te beleven – van speelbossen tot rustzones en bijzondere natuurpareltjes. Met jouw werk draag je rechtstreeks bij aan kwaliteitsvolle natuurbeleving voor duizenden bezoekers.<br><br>Klaar voor een zomer vol frisse lucht, avontuur en impact?&nbsp; &nbsp;<strong>Solliciteer nu en maak van de natuur jouw werkplek!</strong>",
-        "htmlEncoded": "<strong>Ontdek de leukste studentenjob in de natuur!</strong>&nbsp;<br>Ben jij een enthousiaste student die graag buiten is, nauwkeurig werkt en zich makkelijk oriënteert in bossen en natuurgebieden? Dan heeft het Agentschap voor Natuur en Bos dé ideale vakantiejob voor jou!<br><br><strong>Wat ga je doen?</strong>&nbsp;&nbsp;<br>Je trekt eropuit in onze ANB‑gebieden en brengt de recreatieve infrastructuur in kaart: van wandelbewegwijzering en infoborden tot speelzones, bivakplaatsen en uitkijktorens. Met een tablet en een handige mobiele app registreer je alles nauwkeurig op locatie.&nbsp;&nbsp;<br>Verplaatsingen binnen het gebied doe je bij voorkeur met je eigen fiets.<br><br><strong>Waarom ANB?&nbsp;</strong>&nbsp;<br>Natuur en Bos beheert en beschermt meer dan 90.000 hectare natuur in Vlaanderen. In onze 300+ natuurgebieden valt altijd iets te beleven – van speelbossen tot rustzones en bijzondere natuurpareltjes. Met jouw werk draag je rechtstreeks bij aan kwaliteitsvolle natuurbeleving voor duizenden bezoekers.<br><br>Klaar voor een zomer vol frisse lucht, avontuur en impact?&nbsp; &nbsp;<strong>Solliciteer nu en maak van de natuur jouw werkplek!</strong>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Hechtel-Eksel"
-          }
-        },
-        {
-          "address": {
-            "city": "Halle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20493",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 6,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20493",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent gastheer of gastvrouw in de natuurdomeinen"
-      },
-      "displayTitle": "Jobstudent gastheer of gastvrouw in de natuurdomeinen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>&nbsp;Vakantiejob in de natuur? Word jobstudent bij Agentschap voor Natuur en Bos!</strong><br><br>Ben jij een enthousiaste student die graag buiten werkt? Spreek je vlot mensen aan en voel je je thuis tussen bomen, wandelpaden en speelnatuur? Dan hebben wij dé ideale studentenjob voor jou!<br>In onze prachtige natuurgebieden help jij mee om bezoekers een warme welkom te geven én om onze bossen netjes, veilig en toegankelijk te houden. Een job met impact, afwisseling en véél frisse lucht!<br><br><strong>Wat ga je doen?</strong><br><br>Als jobstudent bij Natuur en Bos ben jij zichtbaar aanwezig in het gebied en zorg je mee voor een aangename natuurbeleving.</p><ul><li>Je verwelkomt bezoekers als een echte gastheer/gastvrouw en beantwoordt hun vragen;</li><li>Je houdt discreet een oogje in het zeil en spreekt mensen vriendelijk aan bij onregelmatig gedrag (loslopende honden, afval, vuur maken, …);</li><li>Je neemt contact op met de coördinator of boswachter wanneer je een probleem niet zelf kan oplossen;</li><li>Je controleert wandelpaden, speelzones, bivakplaatsen, signalisatie en recreatieve infrastructuur en rapporteert eventuele gebreken;</li><li>Je ruimt achtergelaten zwerfvuil op en houdt de sanitaire voorzieningen netjes;</li><li>Je lost kleine problemen ter plekke zelf op;</li><li>Je verplaatst je in het gebied met je eigen fiets;</li><li>Je kan – afhankelijk van de regio – recreatieve infrastructuur inventariseren via een mobiele app;</li><li>Je voert eventueel lichte administratieve taken uit zoals het bijwerken van databanken.</li></ul><p><strong>Waar kom je terecht?</strong><br><br>Je werkt in één van de prachtige natuurgebieden van het **Agentschap voor Natuur en Bos**. Wij beheren meer dan 90.000 hectare bossen, parken en natuurgebieden in Vlaanderen. Van uitgestrekte topnatuur tot verborgen groene plekjes vlak bij je voordeur — er valt altijd iets te ontdekken.<br><br>Samen met collega’s en partners zetten we in op _meer, betere en toegankelijke natuur_. Als jobstudent draag jij daar rechtstreeks aan bij.<br><br><strong>Waarom kiezen voor deze job?</strong></p><ul><li><strong>&nbsp;</strong>Je werkt in het mooiste kantoor dat er bestaat: de natuur.</li><li>Je krijgt verantwoordelijkheid én afwisseling.</li><li>Je ontmoet fijne collega’s en heel wat enthousiaste bezoekers.</li><li>Je draagt zichtbaar bij aan natuurzorg in Vlaanderen.</li></ul><p>Wil jij deze zomer mee het verschil maken in onze natuurgebieden?&nbsp;&nbsp;<br><strong>Solliciteer dan snel en word onze nieuwe jobstudent bij Natuur en Bos!</strong>&nbsp;</p>",
-        "htmlEncoded": "<p><strong>&nbsp;Vakantiejob in de natuur? Word jobstudent bij Agentschap voor Natuur en Bos!</strong><br><br>Ben jij een enthousiaste student die graag buiten werkt? Spreek je vlot mensen aan en voel je je thuis tussen bomen, wandelpaden en speelnatuur? Dan hebben wij dé ideale studentenjob voor jou!<br>In onze prachtige natuurgebieden help jij mee om bezoekers een warme welkom te geven én om onze bossen netjes, veilig en toegankelijk te houden. Een job met impact, afwisseling en véél frisse lucht!<br><br><strong>Wat ga je doen?</strong><br><br>Als jobstudent bij Natuur en Bos ben jij zichtbaar aanwezig in het gebied en zorg je mee voor een aangename natuurbeleving.</p><ul><li>Je verwelkomt bezoekers als een echte gastheer/gastvrouw en beantwoordt hun vragen;</li><li>Je houdt discreet een oogje in het zeil en spreekt mensen vriendelijk aan bij onregelmatig gedrag (loslopende honden, afval, vuur maken, …);</li><li>Je neemt contact op met de coördinator of boswachter wanneer je een probleem niet zelf kan oplossen;</li><li>Je controleert wandelpaden, speelzones, bivakplaatsen, signalisatie en recreatieve infrastructuur en rapporteert eventuele gebreken;</li><li>Je ruimt achtergelaten zwerfvuil op en houdt de sanitaire voorzieningen netjes;</li><li>Je lost kleine problemen ter plekke zelf op;</li><li>Je verplaatst je in het gebied met je eigen fiets;</li><li>Je kan – afhankelijk van de regio – recreatieve infrastructuur inventariseren via een mobiele app;</li><li>Je voert eventueel lichte administratieve taken uit zoals het bijwerken van databanken.</li></ul><p><strong>Waar kom je terecht?</strong><br><br>Je werkt in één van de prachtige natuurgebieden van het **Agentschap voor Natuur en Bos**. Wij beheren meer dan 90.000 hectare bossen, parken en natuurgebieden in Vlaanderen. Van uitgestrekte topnatuur tot verborgen groene plekjes vlak bij je voordeur — er valt altijd iets te ontdekken.<br><br>Samen met collega’s en partners zetten we in op _meer, betere en toegankelijke natuur_. Als jobstudent draag jij daar rechtstreeks aan bij.<br><br><strong>Waarom kiezen voor deze job?</strong></p><ul><li><strong>&nbsp;</strong>Je werkt in het mooiste kantoor dat er bestaat: de natuur.</li><li>Je krijgt verantwoordelijkheid én afwisseling.</li><li>Je ontmoet fijne collega’s en heel wat enthousiaste bezoekers.</li><li>Je draagt zichtbaar bij aan natuurzorg in Vlaanderen.</li></ul><p>Wil jij deze zomer mee het verschil maken in onze natuurgebieden?&nbsp;&nbsp;<br><strong>Solliciteer dan snel en word onze nieuwe jobstudent bij Natuur en Bos!</strong>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Retie"
-          }
-        },
-        {
-          "address": {
-            "city": "Hoogstraten"
-          }
-        },
-        {
-          "address": {
-            "city": "Oud-Heverlee"
-          }
-        },
-        {
-          "address": {
-            "city": "Knokke-Heist"
-          }
-        },
-        {
-          "address": {
-            "city": "De Panne"
-          }
-        },
-        {
-          "address": {
-            "city": "Wingene"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20492",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap voor Natuur en Bos",
-      "reservedForDisability": false,
-      "openPositions": 5,
-      "domain": "Milieu/omgeving",
-      "degreeLevel": null,
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20492",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Jobstudent groenarbeider"
-      },
-      "displayTitle": "Jobstudent groenarbeider",
-      "isProtected": false,
-      "description": {
-        "raw": "<strong>Vakantiejob bij Natuur en Bos: iets voor jou?</strong>&nbsp;<br>Ben jij een student die graag de handen uit de mouwen steekt? Zin om buiten te werken, samen met een toffe terreinploeg, midden in onze Vlaamse bossen en natuurgebieden?&nbsp;&nbsp;<br>Dan hebben wij dé perfecte vakantiejob voor jou!<br><br>Tijdens jouw job help je mee met allerhande beheerwerken die onze natuurgebieden in topconditie houden. Denk aan het onderhouden van recreatieve infrastructuur, snoei- en maaiwerken, afvoeren van maaisel, afsluitingen herstellen, dieren verzorgen of zwerfvuil opruimen. Afwisselend werk, altijd in de frisse buitenlucht én met zichtbaar resultaat.<br><br><strong>Werken bij Natuur en Bos&nbsp;</strong>&nbsp;<br>Het Agentschap voor Natuur en Bos beschermt, beheert en ontwikkelt ruim 90.000 hectare natuur in Vlaanderen. Van uitgestrekte bossen tot kleine natuurpareltjes dicht bij huis: in meer dan 300 gebieden valt elke dag iets te beleven. Samen met partners zetten we onze schouders onder waardevolle natuurprojecten en creëren we meer, betere en toegankelijke natuur voor iedereen.<br><br><strong>Waarom kiezen voor deze vakantiejob?</strong><br><br>-&nbsp; &nbsp;Je werkt in een unieke, groene omgeving<br>-&nbsp; &nbsp;Je maakt deel uit van een fijne terreinploeg<br>-&nbsp; &nbsp;Je draagt écht bij aan natuurbeheer<br>-&nbsp; &nbsp;Je doet praktische ervaring op en blijft fysiek actief<br><br>Klinkt dit helemaal als iets voor jou?&nbsp;&nbsp;<br><strong>Solliciteer en word onze nieuwe vakantiekracht in de natuur!</strong>",
-        "htmlEncoded": "<strong>Vakantiejob bij Natuur en Bos: iets voor jou?</strong>&nbsp;<br>Ben jij een student die graag de handen uit de mouwen steekt? Zin om buiten te werken, samen met een toffe terreinploeg, midden in onze Vlaamse bossen en natuurgebieden?&nbsp;&nbsp;<br>Dan hebben wij dé perfecte vakantiejob voor jou!<br><br>Tijdens jouw job help je mee met allerhande beheerwerken die onze natuurgebieden in topconditie houden. Denk aan het onderhouden van recreatieve infrastructuur, snoei- en maaiwerken, afvoeren van maaisel, afsluitingen herstellen, dieren verzorgen of zwerfvuil opruimen. Afwisselend werk, altijd in de frisse buitenlucht én met zichtbaar resultaat.<br><br><strong>Werken bij Natuur en Bos&nbsp;</strong>&nbsp;<br>Het Agentschap voor Natuur en Bos beschermt, beheert en ontwikkelt ruim 90.000 hectare natuur in Vlaanderen. Van uitgestrekte bossen tot kleine natuurpareltjes dicht bij huis: in meer dan 300 gebieden valt elke dag iets te beleven. Samen met partners zetten we onze schouders onder waardevolle natuurprojecten en creëren we meer, betere en toegankelijke natuur voor iedereen.<br><br><strong>Waarom kiezen voor deze vakantiejob?</strong><br><br>-&nbsp; &nbsp;Je werkt in een unieke, groene omgeving<br>-&nbsp; &nbsp;Je maakt deel uit van een fijne terreinploeg<br>-&nbsp; &nbsp;Je draagt écht bij aan natuurbeheer<br>-&nbsp; &nbsp;Je doet praktische ervaring op en blijft fysiek actief<br><br>Klinkt dit helemaal als iets voor jou?&nbsp;&nbsp;<br><strong>Solliciteer en word onze nieuwe vakantiekracht in de natuur!</strong>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Pieters-Leeuw"
-          }
-        },
-        {
-          "address": {
-            "city": "Halle"
-          }
-        },
-        {
-          "address": {
-            "city": "De Panne"
-          }
-        },
-        {
-          "address": {
-            "city": "Wingene"
           }
         }
       ]
@@ -2862,42 +2580,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20322",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Financieel",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20322",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Asset manager vastgoed"
-      },
-      "displayTitle": "Asset manager vastgoed",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Heb je ervaring in het omgaan met vastgoed? Duik je graag in de cijfers om scenario’s ten opzichte van elkaar af te wegen? Hou je ervan projecten op te starten? Dan is deze vacature iets voor jou! </span></p> <p><span>Als asset manager vastgoed bij Het Facilitair Bedrijf ga je proactief te werk om een deel van de vastgoedportefeuille van de Vlaamse overheid en bijhorende processen te optimaliseren.</span></p> <p><span>Je werkt verschillende scenario’s uit op basis van de gegevens die beschikbaar zijn in onze databank, de eindtermijn van huurcontracten, bezettingsmetingen en een inschatting van het benodigde budget. Ook ga je op zoek naar bijkomende informatie bij de experten binnen - en eventueel buiten - onze organisatie.</span></p> <p><span>Je bevraagt de organisaties binnen de Vlaamse overheid (onze klanten) over hun behoeften en gaat hierover met hen in gesprek om deze te doorgronden. Je stelt een programma van eisen op om hun behoeften te vertalen naar een oppervlakte. Jij maakt de business case op en overtuigt met jouw stay or leave analyse het directiecomité.</span></p> <p><span>Vervolgens plaats je de vraag in de markt, analyseer je de offertes en onderhandel je mee het contract. Nadien neem je de rol op van opdrachtgever: jij bent het aanspreekpunt voor de projectmanager en volgt het project overkoepelend op qua budget, timing en doelstellingen. </span></p> <p><span>Klinkt dit als de ideale job voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>",
-        "htmlEncoded": "<p><span>Heb je ervaring in het omgaan met vastgoed? Duik je graag in de cijfers om scenario’s ten opzichte van elkaar af te wegen? Hou je ervan projecten op te starten? Dan is deze vacature iets voor jou! </span></p> <p><span>Als asset manager vastgoed bij Het Facilitair Bedrijf ga je proactief te werk om een deel van de vastgoedportefeuille van de Vlaamse overheid en bijhorende processen te optimaliseren.</span></p> <p><span>Je werkt verschillende scenario’s uit op basis van de gegevens die beschikbaar zijn in onze databank, de eindtermijn van huurcontracten, bezettingsmetingen en een inschatting van het benodigde budget. Ook ga je op zoek naar bijkomende informatie bij de experten binnen - en eventueel buiten - onze organisatie.</span></p> <p><span>Je bevraagt de organisaties binnen de Vlaamse overheid (onze klanten) over hun behoeften en gaat hierover met hen in gesprek om deze te doorgronden. Je stelt een programma van eisen op om hun behoeften te vertalen naar een oppervlakte. Jij maakt de business case op en overtuigt met jouw stay or leave analyse het directiecomité.</span></p> <p><span>Vervolgens plaats je de vraag in de markt, analyseer je de offertes en onderhandel je mee het contract. Nadien neem je de rol op van opdrachtgever: jij bent het aanspreekpunt voor de projectmanager en volgt het project overkoepelend op qua budget, timing en doelstellingen. </span></p> <p><span>Klinkt dit als de ideale job voor jou? Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘Meer informatie’. Download dit document en hou het bij.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20176",
       "internal": false,
       "validThroughDate": "1775692800",
@@ -3324,42 +3006,6 @@
         {
           "address": {
             "city": "Merelbeke-Melle"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20208",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Agentschap Facilitair Bedrijf",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Techniek",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20208",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Technisch expert beheer en onderhoud van gebouwen"
-      },
-      "displayTitle": "Technisch expert beheer en onderhoud van gebouwen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><span>Een complex gebouwenpatrimonium draaiende houden vraagt meer dan onderhoud alleen. Het vraagt visie op technische installaties, inzicht in risico’s, gevoel voor prioriteiten en de capaciteit om strategische keuzes ook effectief waar te maken op het terrein.<br><br></span><span>Voor de recente uitbreiding van het gebouwenpatrimonium van Het Facilitair Bedrijf met verschillende gemeenschapsinstellingen, waaronder de campussen De Zande, De Grubbe, De Markt en De Hutten, zoeken we een technisch expert die structuur brengt, richting geeft en eigenaarschap opneemt. Het gaat om maatschappelijk gevoelige, technisch diverse en operationeel kritische sites die vragen om een doordachte en schaalbare organisatie van exploitatie en onderhoud.<br><br></span><span>Je analyseert gebouwen in hun volle complexiteit en vertaalt dat naar realistische en toekomstgerichte onderhoudsstrategieën. Je bewaakt het evenwicht tussen businesscontinuïteit, conditiestaat, energieprestaties, gebruikerscomfort en budget. Je ontwikkelt een langetermijnvisie op technische installaties en zorgt dat de nieuwe sites professioneel worden geïntegreerd in de bestaande werking.<br><br></span><span>Je beoordeelt plannen en studies, stelt bestekken en gunningsdossiers op en beheert onderhouds- en raamcontracten. Je volgt de uitvoering nauwgezet op en gaat in dialoog met contractanten wanneer nodig. Tegelijk ben je een inhoudelijke sparringpartner voor lokale teams en regioverantwoordelijken en ontwikkel je tools en methodieken die hun dagelijkse werking versterken. In grotere projecten neem je de rol op van technisch aanspreekpunt en ondersteun je projectleiders en vastgoedcollega’s bij belangrijke keuzes.<br><br></span><span>Je werkgebied strekt zich uit van West-Vlaanderen tot de Kempen, met Brussel als standplaats.</span></p>",
-        "htmlEncoded": "<p><span>Een complex gebouwenpatrimonium draaiende houden vraagt meer dan onderhoud alleen. Het vraagt visie op technische installaties, inzicht in risico’s, gevoel voor prioriteiten en de capaciteit om strategische keuzes ook effectief waar te maken op het terrein.<br><br></span><span>Voor de recente uitbreiding van het gebouwenpatrimonium van Het Facilitair Bedrijf met verschillende gemeenschapsinstellingen, waaronder de campussen De Zande, De Grubbe, De Markt en De Hutten, zoeken we een technisch expert die structuur brengt, richting geeft en eigenaarschap opneemt. Het gaat om maatschappelijk gevoelige, technisch diverse en operationeel kritische sites die vragen om een doordachte en schaalbare organisatie van exploitatie en onderhoud.<br><br></span><span>Je analyseert gebouwen in hun volle complexiteit en vertaalt dat naar realistische en toekomstgerichte onderhoudsstrategieën. Je bewaakt het evenwicht tussen businesscontinuïteit, conditiestaat, energieprestaties, gebruikerscomfort en budget. Je ontwikkelt een langetermijnvisie op technische installaties en zorgt dat de nieuwe sites professioneel worden geïntegreerd in de bestaande werking.<br><br></span><span>Je beoordeelt plannen en studies, stelt bestekken en gunningsdossiers op en beheert onderhouds- en raamcontracten. Je volgt de uitvoering nauwgezet op en gaat in dialoog met contractanten wanneer nodig. Tegelijk ben je een inhoudelijke sparringpartner voor lokale teams en regioverantwoordelijken en ontwikkel je tools en methodieken die hun dagelijkse werking versterken. In grotere projecten neem je de rol op van technisch aanspreekpunt en ondersteun je projectleiders en vastgoedcollega’s bij belangrijke keuzes.<br><br></span><span>Je werkgebied strekt zich uit van West-Vlaanderen tot de Kempen, met Brussel als standplaats.</span></p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
