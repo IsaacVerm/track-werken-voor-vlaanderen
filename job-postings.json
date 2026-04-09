@@ -1,10 +1,10 @@
 {
-  "totalItems": 113,
+  "totalItems": 112,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 112,
+  "lastItemOfPage": 111,
   "items": [
     {
       "link": "/Job/cornerstone-20552",
@@ -101,7 +101,10 @@
       "reservedForDisability": false,
       "openPositions": 4,
       "domain": "Dienstverlening",
-      "degreeLevel": null,
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
       "degreeEqualByExperience": false,
       "identifier": "cornerstone-20403",
       "contentType": "Job",
@@ -2251,42 +2254,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73310892",
-      "internal": false,
-      "validThroughDate": "1775606400",
-      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73310892",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "manager facility en technische dienst"
-      },
-      "displayTitle": "manager facility en technische dienst",
-      "isProtected": false,
-      "description": {
-        "raw": "<p> </p> \n<ul type=\"disc\"> \n<li><span>Je bent eindverantwoordelijk voor de volledige facilitaire en technische werking binnen OPZ Geel.</span></li> \n<li><span>Je bent verantwoordelijk voor het masterplan infrastructuur en je volgt de uitwerking ervan actief op.</span></li> \n<li><span>Je beheert onderhoudscontracten en coördineert technische werken, zowel in eigen beheer als via externe aannemers.</span></li> \n<li><span>Je streeft naar continue verbetering van de dienstverlening binnen jouw vakgebied.</span></li> \n<li><span>Je ziet toe op de dagelijkse facilitaire processen (gebouwen, infrastructuur en technische installaties), met bijzondere aandacht voor veiligheid, duurzaamheid en continuïteit van zorg.</span></li> \n<li><span>Je bent een katalysator voor continue verbetering van de werkingsprocessen.</span></li> \n<li><span>Je stelt mee het jaarlijkse werkings- en investeringsbudget op en volgt dit nauwgezet op.</span></li> \n<li><span>Je monitort de prestaties en kwaliteit van externe partners en stuurt bij waar nodig.</span></li> \n<li><span>Je zet je teams efficiënt in en investeert actief in hun verdere professionalisering.</span></li> \n<li><span>Je onderhoudt constructieve en professionele relaties met interne en externe stakeholders.</span></li> \n<li><span>Je waakt over de naleving van wettelijke verplichtingen en normen op het vlak van veiligheid, energie en duurzaamheid.</span></li> \n<li><span>Je stuurt de teamverantwoordelijken en stafmedewerkers van jouw diensten aan.</span></li> </ul>",
-        "htmlEncoded": "<p> </p> \n<ul type=\"disc\"> \n<li><span>Je bent eindverantwoordelijk voor de volledige facilitaire en technische werking binnen OPZ Geel.</span></li> \n<li><span>Je bent verantwoordelijk voor het masterplan infrastructuur en je volgt de uitwerking ervan actief op.</span></li> \n<li><span>Je beheert onderhoudscontracten en coördineert technische werken, zowel in eigen beheer als via externe aannemers.</span></li> \n<li><span>Je streeft naar continue verbetering van de dienstverlening binnen jouw vakgebied.</span></li> \n<li><span>Je ziet toe op de dagelijkse facilitaire processen (gebouwen, infrastructuur en technische installaties), met bijzondere aandacht voor veiligheid, duurzaamheid en continuïteit van zorg.</span></li> \n<li><span>Je bent een katalysator voor continue verbetering van de werkingsprocessen.</span></li> \n<li><span>Je stelt mee het jaarlijkse werkings- en investeringsbudget op en volgt dit nauwgezet op.</span></li> \n<li><span>Je monitort de prestaties en kwaliteit van externe partners en stuurt bij waar nodig.</span></li> \n<li><span>Je zet je teams efficiënt in en investeert actief in hun verdere professionalisering.</span></li> \n<li><span>Je onderhoudt constructieve en professionele relaties met interne en externe stakeholders.</span></li> \n<li><span>Je waakt over de naleving van wettelijke verplichtingen en normen op het vlak van veiligheid, energie en duurzaamheid.</span></li> \n<li><span>Je stuurt de teamverantwoordelijken en stafmedewerkers van jouw diensten aan.</span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Geel"
           }
         }
       ]
