@@ -1,10 +1,10 @@
 {
-  "totalItems": 119,
+  "totalItems": 121,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 118,
+  "lastItemOfPage": 120,
   "items": [
     {
       "link": "/Job/vdab-73463724",
@@ -74,6 +74,150 @@
         {
           "address": {
             "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21004",
+      "internal": false,
+      "validThroughDate": "1777161600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21004",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Operator Centrale Hasselt"
+      },
+      "displayTitle": "Operator Centrale Hasselt",
+      "isProtected": false,
+      "description": {
+        "raw": "Heb jij technisch inzicht, ben jij alert en klaar om een sleutelrol te spelen in een grootschalig en toekomstgericht project? Dan is deze functie iets voor jou!&nbsp;<br><br>De Vlaamse Waterweg werkt hard aan haar ambitie om alle beweegbare infrastructuurelementen zoals bruggen en sluizen te bedienen vanuit drie moderne afstandsbedieningscentrales in&nbsp;Hasselt, Evergem en Willebroek.&nbsp;De centrales in Hasselt en Evergem zijn opgestart op 1 februari 2026. Voor deze ambitieuze verdere uitrol zoeken we nog gedreven operatoren en operatoren-buffers voor standplaats&nbsp;Hasselt.&nbsp;<br><br>Als operator ben jij verantwoordelijk voor de vlotte en veilige doorgang van de scheepvaart én het waterbeheer. Vanuit de centrale:&nbsp;<br>Bedien je vanop afstand bruggen, sluizen en&nbsp;waterbeheersende&nbsp;kunstwerken zoals stuwen.&nbsp;<br>Volg je het verkeer op de waterwegen via een netwerk van schermen en slimme technologie.&nbsp;<br>Grijp je in bij afwijkingen of incidenten.&nbsp;<br>Voer je al dan niet geautomatiseerde administratieve taken uit.&nbsp;<br>Heb je een beperkte handhavingsbevoegdheid, want de functie is een&nbsp;gezagsfunctie.&nbsp;<br>Word je in de winter mogelijk ingeschakeld voor seizoensgebonden taken buiten de centrale, zoals patrimoniuminspectie of ondersteuning van de districtswerking.&nbsp;<br>&nbsp;<br>Je&nbsp;wordt&nbsp;ingeschakeld&nbsp; in&nbsp;een volcontinu-systeem&nbsp;in&nbsp;een 2-ploegensysteem (shiften van 12u).&nbsp;&nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar&nbsp;www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;<br>",
+        "htmlEncoded": "Heb jij technisch inzicht, ben jij alert en klaar om een sleutelrol te spelen in een grootschalig en toekomstgericht project? Dan is deze functie iets voor jou!&nbsp;<br><br>De Vlaamse Waterweg werkt hard aan haar ambitie om alle beweegbare infrastructuurelementen zoals bruggen en sluizen te bedienen vanuit drie moderne afstandsbedieningscentrales in&nbsp;Hasselt, Evergem en Willebroek.&nbsp;De centrales in Hasselt en Evergem zijn opgestart op 1 februari 2026. Voor deze ambitieuze verdere uitrol zoeken we nog gedreven operatoren en operatoren-buffers voor standplaats&nbsp;Hasselt.&nbsp;<br><br>Als operator ben jij verantwoordelijk voor de vlotte en veilige doorgang van de scheepvaart én het waterbeheer. Vanuit de centrale:&nbsp;<br>Bedien je vanop afstand bruggen, sluizen en&nbsp;waterbeheersende&nbsp;kunstwerken zoals stuwen.&nbsp;<br>Volg je het verkeer op de waterwegen via een netwerk van schermen en slimme technologie.&nbsp;<br>Grijp je in bij afwijkingen of incidenten.&nbsp;<br>Voer je al dan niet geautomatiseerde administratieve taken uit.&nbsp;<br>Heb je een beperkte handhavingsbevoegdheid, want de functie is een&nbsp;gezagsfunctie.&nbsp;<br>Word je in de winter mogelijk ingeschakeld voor seizoensgebonden taken buiten de centrale, zoals patrimoniuminspectie of ondersteuning van de districtswerking.&nbsp;<br>&nbsp;<br>Je&nbsp;wordt&nbsp;ingeschakeld&nbsp; in&nbsp;een volcontinu-systeem&nbsp;in&nbsp;een 2-ploegensysteem (shiften van 12u).&nbsp;&nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar&nbsp;www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;<br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Hasselt"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21003",
+      "internal": false,
+      "validThroughDate": "1777161600",
+      "hiringOrganization": "De Vlaamse Waterweg",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Logistiek en transport",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21003",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Operator Buffer Centrale Evergem"
+      },
+      "displayTitle": "Operator Buffer Centrale Evergem",
+      "isProtected": false,
+      "description": {
+        "raw": "Heb jij technisch inzicht, ben jij alert en klaar om een sleutelrol te spelen in een grootschalig en toekomstgericht project? Dan is deze functie iets voor jou!&nbsp;<br><br>De Vlaamse Waterweg werkt hard aan haar ambitie om alle beweegbare infrastructuurelementen zoals bruggen en sluizen te bedienen vanuit drie moderne afstandsbedieningscentrales in&nbsp;Hasselt, Evergem en Willebroek.&nbsp;De centrales in Hasselt en Evergem zijn opgestart op 1 februari 2026. Voor deze ambitieuze verdere uitrol zoeken we nog gedreven operatoren en Operatoren Buffers voor standplaats Evergem.&nbsp;<br><br>Als operator ben jij verantwoordelijk voor de vlotte en veilige doorgang van de scheepvaart én het waterbeheer. Vanuit de centrale:&nbsp;<br>Bedien je vanop afstand bruggen, sluizen en&nbsp;waterbeheersende&nbsp;kunstwerken zoals stuwen.&nbsp;<br>Volg je het verkeer op de waterwegen via een netwerk van schermen en slimme technologie.&nbsp;<br>Grijp je in bij afwijkingen of incidenten.&nbsp;<br>Voer je al dan niet geautomatiseerde administratieve taken uit.&nbsp;<br>Heb je een beperkte handhavingsbevoegdheid, want de functie is een&nbsp;gezagsfunctie.&nbsp;<br>Word je in de winter mogelijk ingeschakeld voor seizoensgebonden taken buiten de centrale, zoals patrimoniuminspectie of ondersteuning van de districtswerking.&nbsp;<br>&nbsp;<br>Als Operator Buffer voer je dezelfde taken uit, maar werk je zonder vast jaarrooster. Je ontvangt je werkplanning uiterlijk op de 25ste van de voorafgaande maand. Voor deze extra flexibiliteit ontvang je een bijkomende buffertoelage.&nbsp;<br><br>Je wordt&nbsp;ingeschakeld&nbsp;in&nbsp;een volcontinu-systeem in een 2-ploegensysteem (shiften van 12u).&nbsp;&nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar&nbsp;www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;",
+        "htmlEncoded": "Heb jij technisch inzicht, ben jij alert en klaar om een sleutelrol te spelen in een grootschalig en toekomstgericht project? Dan is deze functie iets voor jou!&nbsp;<br><br>De Vlaamse Waterweg werkt hard aan haar ambitie om alle beweegbare infrastructuurelementen zoals bruggen en sluizen te bedienen vanuit drie moderne afstandsbedieningscentrales in&nbsp;Hasselt, Evergem en Willebroek.&nbsp;De centrales in Hasselt en Evergem zijn opgestart op 1 februari 2026. Voor deze ambitieuze verdere uitrol zoeken we nog gedreven operatoren en Operatoren Buffers voor standplaats Evergem.&nbsp;<br><br>Als operator ben jij verantwoordelijk voor de vlotte en veilige doorgang van de scheepvaart én het waterbeheer. Vanuit de centrale:&nbsp;<br>Bedien je vanop afstand bruggen, sluizen en&nbsp;waterbeheersende&nbsp;kunstwerken zoals stuwen.&nbsp;<br>Volg je het verkeer op de waterwegen via een netwerk van schermen en slimme technologie.&nbsp;<br>Grijp je in bij afwijkingen of incidenten.&nbsp;<br>Voer je al dan niet geautomatiseerde administratieve taken uit.&nbsp;<br>Heb je een beperkte handhavingsbevoegdheid, want de functie is een&nbsp;gezagsfunctie.&nbsp;<br>Word je in de winter mogelijk ingeschakeld voor seizoensgebonden taken buiten de centrale, zoals patrimoniuminspectie of ondersteuning van de districtswerking.&nbsp;<br>&nbsp;<br>Als Operator Buffer voer je dezelfde taken uit, maar werk je zonder vast jaarrooster. Je ontvangt je werkplanning uiterlijk op de 25ste van de voorafgaande maand. Voor deze extra flexibiliteit ontvang je een bijkomende buffertoelage.&nbsp;<br><br>Je wordt&nbsp;ingeschakeld&nbsp;in&nbsp;een volcontinu-systeem in een 2-ploegensysteem (shiften van 12u).&nbsp;&nbsp;<br><br>Ben je geboeid door deze vacature? Wil je meer te weten komen over werken bij De Vlaamse Waterweg? Surf dan naar&nbsp;www.vlaamsewaterweg.be/werkenbij. Wist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen? Ziezo, je eerste vakterm ken je al.&nbsp;"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Evergem"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21001",
+      "internal": false,
+      "validThroughDate": "1775779200",
+      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21001",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "1 bemiddelaar met focus op digital media & event"
+      },
+      "displayTitle": "1 bemiddelaar met focus op digital media & event",
+      "isProtected": false,
+      "description": {
+        "raw": "<span></span><span></span><p dir=\"ltr\"><span><font size=\"2\">Ben jij gepassioneerd door de kracht van digitale communicatie en wil je een sleutelrol spelen in het versterken van de online en offline aanwezigheid van North Sea Port Talent? Meer nog, denk je mee na hoe we het grensoverschrijdende havengebied Gent-Terneuzen-Vlissingen (=North Sea Port) zullen branden als aantrekkelijke werkplek? Want de haven en zijn 550 bedrijven hebben heel wat te bieden. Denk maar aan je pakje in de bus, deze is vast via de haven tot bij jou gekomen. De wereld ligt er aan je voeten!</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Word jij enthousiast van het creëren van boeiende content, het beheren van sociale media platforms &amp; websites? Zoek je variatie en wil je dit graag combineren met het opzetten van real life events en de vertaalslag naar marketing en communicatie hieromtrent?</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Meer nog, denk je ook graag strategisch mee na over de opzet van een digitale marketing-en communicatiestrategie? Heb je een data analytische blik en kan je inschatten van in het begin wat je moet meten om het uiteindelijke doel te bereiken van wat je wilt weten?</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Heb je daarnaast een hart voor de arbeidsmarkt en een kwalitatieve relatie tussen werkgever en (potentiële) werknemer? De content die jij creërt zal hier vooral over gaan.</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Dan ben jij vast onze nieuwe collega waarnaar we op zoek zijn.</font></span></p><p dir=\"ltr\"><span><font size=\"2\">&nbsp;</font></span></p><p dir=\"ltr\"><span><font size=\"2\">Bij ons kan je al deze facetten opnemen en dit van in een beginfase tot realisatie. Een ondernemende, gevarieerde, boeiende functie waar je veel mensen, bedrijven en stakeholders zult ontmoeten, het volledig ecosysteem in en rond de haven. Tegelijk kan je ook afwisselend in je cocon kan kruipen om zowel nieuwe ideeën te bedenken als creatieve digital content te creëren. En dit binnen een internationale context. Hoe fijn kan het zijn?<br><br></font></span></p><p dir=\"ltr\"><span><font size=\"2\">Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</font></span></p><p dir=\"ltr\"><span><font size=\"2\">Mail met Silvie Levebre (teamleider) of Eline Verhoeven. Zij vertellen je graag hoe een dag in haar team er zal uitzien: silvie.lefebre@vdab.be of eline.verhoeven@vdab.be&nbsp;&nbsp;</font></span></p><p dir=\"ltr\"><font size=\"2\"><span><br>Meer informatie over de selectieprocedure kan je verkrijgen bij Marie Boone (HR-Consulent): marie.boone@vdab.be&nbsp;</span><br></font><br><br></p><span><span> </span></span>",
+        "htmlEncoded": "<span></span><span></span><p dir=\"ltr\"><span><font size=\"2\">Ben jij gepassioneerd door de kracht van digitale communicatie en wil je een sleutelrol spelen in het versterken van de online en offline aanwezigheid van North Sea Port Talent? Meer nog, denk je mee na hoe we het grensoverschrijdende havengebied Gent-Terneuzen-Vlissingen (=North Sea Port) zullen branden als aantrekkelijke werkplek? Want de haven en zijn 550 bedrijven hebben heel wat te bieden. Denk maar aan je pakje in de bus, deze is vast via de haven tot bij jou gekomen. De wereld ligt er aan je voeten!</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Word jij enthousiast van het creëren van boeiende content, het beheren van sociale media platforms &amp; websites? Zoek je variatie en wil je dit graag combineren met het opzetten van real life events en de vertaalslag naar marketing en communicatie hieromtrent?</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Meer nog, denk je ook graag strategisch mee na over de opzet van een digitale marketing-en communicatiestrategie? Heb je een data analytische blik en kan je inschatten van in het begin wat je moet meten om het uiteindelijke doel te bereiken van wat je wilt weten?</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Heb je daarnaast een hart voor de arbeidsmarkt en een kwalitatieve relatie tussen werkgever en (potentiële) werknemer? De content die jij creërt zal hier vooral over gaan.</font></span></p><p dir=\"ltr\"><span><font size=\"2\"><br>Dan ben jij vast onze nieuwe collega waarnaar we op zoek zijn.</font></span></p><p dir=\"ltr\"><span><font size=\"2\">&nbsp;</font></span></p><p dir=\"ltr\"><span><font size=\"2\">Bij ons kan je al deze facetten opnemen en dit van in een beginfase tot realisatie. Een ondernemende, gevarieerde, boeiende functie waar je veel mensen, bedrijven en stakeholders zult ontmoeten, het volledig ecosysteem in en rond de haven. Tegelijk kan je ook afwisselend in je cocon kan kruipen om zowel nieuwe ideeën te bedenken als creatieve digital content te creëren. En dit binnen een internationale context. Hoe fijn kan het zijn?<br><br></font></span></p><p dir=\"ltr\"><span><font size=\"2\">Afhankelijk van de dienstnoodwendigheden en de evoluties op de arbeidsmarkt kan de plaats van tewerkstelling of de functie-inhoud gewijzigd worden.</font></span></p><p dir=\"ltr\"><span><font size=\"2\">Mail met Silvie Levebre (teamleider) of Eline Verhoeven. Zij vertellen je graag hoe een dag in haar team er zal uitzien: silvie.lefebre@vdab.be of eline.verhoeven@vdab.be&nbsp;&nbsp;</font></span></p><p dir=\"ltr\"><font size=\"2\"><span><br>Meer informatie over de selectieprocedure kan je verkrijgen bij Marie Boone (HR-Consulent): marie.boone@vdab.be&nbsp;</span><br></font><br><br></p><span><span> </span></span>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21000",
+      "internal": false,
+      "validThroughDate": "1777766400",
+      "hiringOrganization": "ILVO Technologie en Voeding",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21000",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Doctoraatsbursaal Semantic AI"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Doctoraatsbursaal Semantic AI",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij bouwen aan AI-modellen die impact hebben in de landbouw? Krijg je energie van het combineren van data tot slimme inzichten? Zie jij kansen in knowledge graphs en taalmodellen? Wil je onderzoek doen en je werk vertaald zien naar concrete tools? Wil je aan methoden werken die zowel wetenschappelijke inzichten opleveren als concrete toepassingen binnen Europese onderzoeksprojecten? Spreekt een doctoraat binnen een innovatieve omgeving je aan? Dan is dit doctoraat misschien wel iets voor jou.<br><br><strong>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</strong>",
+        "htmlEncoded": "Wil jij bouwen aan AI-modellen die impact hebben in de landbouw? Krijg je energie van het combineren van data tot slimme inzichten? Zie jij kansen in knowledge graphs en taalmodellen? Wil je onderzoek doen en je werk vertaald zien naar concrete tools? Wil je aan methoden werken die zowel wetenschappelijke inzichten opleveren als concrete toepassingen binnen Europese onderzoeksprojecten? Spreekt een doctoraat binnen een innovatieve omgeving je aan? Dan is dit doctoraat misschien wel iets voor jou.<br><br><strong>Lees meer over de functie in het selectiereglement onderaan de pagina bij download documenten. Download dit selectiereglement en hou het bij voor het verdere verloop van de procedure.</strong>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
           }
         }
       ]
@@ -2710,42 +2854,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-73297654",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "VLAM",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Administratie",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73297654",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Allround Administratief Medewerker (m/v/x)"
-      },
-      "displayTitle": "Allround Administratief Medewerker (m/v/x)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Jouw functie</strong></p> \n<p>Als allround administratief medewerker speel je een belangrijke rol in de ondersteuning van het AB Register. Je staat dagelijks in contact met veehouders en verschaffers van antibiotica die gebruikmaken van het systeem.</p> \n<p><strong>Concreet betekent dit:</strong></p> \n<ul> \n<li>Je bent het eerste aanspreekpunt voor deelnemers via \n<strong>e-mail en telefoon </strong>.</li> \n<li>Je adviseert hen over administratieve procedures, technische vragen en het gebruik van het systeem (o.a. rapporten, deelname, wachtwoordbeheer).</li> \n<li>Je volgt vragen en meldingen nauwgezet op.</li> \n<li>Je ondersteunt bij de rapportering naar deelnemers en volgt dit proces van A tot Z mee op.</li> \n<li>Je beheert (mee) de website en helpt bij het opmaken en versturen van nieuwsbrieven.</li> \n<li>Je werkt samen met collega’s aan diverse projecten binnen AB Register.</li> </ul>",
-        "htmlEncoded": "<p><strong>Jouw functie</strong></p> \n<p>Als allround administratief medewerker speel je een belangrijke rol in de ondersteuning van het AB Register. Je staat dagelijks in contact met veehouders en verschaffers van antibiotica die gebruikmaken van het systeem.</p> \n<p><strong>Concreet betekent dit:</strong></p> \n<ul> \n<li>Je bent het eerste aanspreekpunt voor deelnemers via \n<strong>e-mail en telefoon </strong>.</li> \n<li>Je adviseert hen over administratieve procedures, technische vragen en het gebruik van het systeem (o.a. rapporten, deelname, wachtwoordbeheer).</li> \n<li>Je volgt vragen en meldingen nauwgezet op.</li> \n<li>Je ondersteunt bij de rapportering naar deelnemers en volgt dit proces van A tot Z mee op.</li> \n<li>Je beheert (mee) de website en helpt bij het opmaken en versturen van nieuwsbrieven.</li> \n<li>Je werkt samen met collega’s aan diverse projecten binnen AB Register.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/vdab-73297568",
       "internal": false,
       "validThroughDate": "-1",
@@ -2849,42 +2957,6 @@
         {
           "address": {
             "city": "Antwerpen"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73290044",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "VLAM",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Land- en tuinbouw",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73290044",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Kwaliteitsadviseur Belpork (m/v/x)"
-      },
-      "displayTitle": "Kwaliteitsadviseur Belpork (m/v/x)",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><em><span lang=\"NL\">VLAM (Vlaams Centrum voor Agro- en Visserijmarketing) is een unieke samenwerking tussen de Vlaamse overheid en het bedrijfsleven. Met gerichte promotie-acties, communicatiecampagnes en events overtuigt VLAM consument en handel, in binnen- en buitenland, om bewust te kiezen voor het vakmanschap van Vlaamse producenten. </span></em><em><span lang=\"NL\">Maak je graag deel uit van ons team? We zijn op zoek naar een…</span></em></p> \n<p><strong><span lang=\"NL\">Kwaliteitsadviseur Belpork (m/v/x)</span></strong></p> \n<p><span>Je komt bij VLAM terecht in het team van BELPORK. BELPORK vzw staat in voor het beheren van kwaliteitssystemen in de productieketen varkensvlees. Je werkt voor alle taken nauw samen met de coördinator en collega’s van de kwaliteitsdienst.</span></p> \n<p><strong><span>TAKEN</span></strong></p> \n<ul type=\"square\"> \n<li><span>Je bent verantwoordelijk voor het onderhoud, beheer, de implementatie van de jouw toegewezen kwaliteitsdocumenten en/of lastenboeken.</span></li> \n<li><span>Je formuleert inhoudelijke doelstellingen voor kwaliteitsdocumenten en/of lastenboeken.</span></li> \n<li><span>Je controleert de kwaliteit van de uitbestede diensten</span></li> \n<li><span>Actief meewerken aan technische projecten rond kwaliteitswerking (o.a. dierenwelzijn en bedrijfsgezondheid)</span></li> \n<li><span>Je volgt technische en lopende dossiers over de productieketen varkensvlees op die relevant zijn voor de kwaliteitswerking van BELPORK vzw (vb. beleidsdossiers rond castratie en internationale initiatieven). </span></li> </ul>",
-        "htmlEncoded": "<p><em><span lang=\"NL\">VLAM (Vlaams Centrum voor Agro- en Visserijmarketing) is een unieke samenwerking tussen de Vlaamse overheid en het bedrijfsleven. Met gerichte promotie-acties, communicatiecampagnes en events overtuigt VLAM consument en handel, in binnen- en buitenland, om bewust te kiezen voor het vakmanschap van Vlaamse producenten. </span></em><em><span lang=\"NL\">Maak je graag deel uit van ons team? We zijn op zoek naar een…</span></em></p> \n<p><strong><span lang=\"NL\">Kwaliteitsadviseur Belpork (m/v/x)</span></strong></p> \n<p><span>Je komt bij VLAM terecht in het team van BELPORK. BELPORK vzw staat in voor het beheren van kwaliteitssystemen in de productieketen varkensvlees. Je werkt voor alle taken nauw samen met de coördinator en collega’s van de kwaliteitsdienst.</span></p> \n<p><strong><span>TAKEN</span></strong></p> \n<ul type=\"square\"> \n<li><span>Je bent verantwoordelijk voor het onderhoud, beheer, de implementatie van de jouw toegewezen kwaliteitsdocumenten en/of lastenboeken.</span></li> \n<li><span>Je formuleert inhoudelijke doelstellingen voor kwaliteitsdocumenten en/of lastenboeken.</span></li> \n<li><span>Je controleert de kwaliteit van de uitbestede diensten</span></li> \n<li><span>Actief meewerken aan technische projecten rond kwaliteitswerking (o.a. dierenwelzijn en bedrijfsgezondheid)</span></li> \n<li><span>Je volgt technische en lopende dossiers over de productieketen varkensvlees op die relevant zijn voor de kwaliteitswerking van BELPORK vzw (vb. beleidsdossiers rond castratie en internationale initiatieven). </span></li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
           }
         }
       ]
