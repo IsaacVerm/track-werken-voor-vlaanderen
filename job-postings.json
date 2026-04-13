@@ -1,11 +1,129 @@
 {
-  "totalItems": 115,
+  "totalItems": 118,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 114,
+  "lastItemOfPage": 117,
   "items": [
+    {
+      "link": "/Job/vdab-73479419",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73479419",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Functioneel domeinspecialist MOW 365 (DMOW) via Vlaanderen connect"
+      },
+      "displayTitle": "Functioneel domeinspecialist MOW 365 (DMOW) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Het Departement Mobiliteit en Openbare Werken (DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</p> \n<p>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit én voor de hedendaagse wegen- en (lucht)haveninfrastructuur.</p> \n<p>We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen.</p> \n<p>Samen hebben we één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</p> \n<p>Je komt terecht in het team MOW 365, Het team is gehuisvest in het Marie-Elisabeth Belpairegebouw, vlak bij het Brussel-Noord station.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>MOW365 is een toepassing waarbij we de operationele efficiëntie, samenwerking en datagedreven werking van het departement fundamenteel wensen te verbeteren door processen en informatie te harmoniseren. Deze toepassing omvat contract-, project-, programma- en portfoliobeheer. Verder wordt voor de eigen vermogens commercieel en financieel beheer voorzien. Deze toepassing wordt gebouwd met behulp van Microsoft Power Platform, SharePoint Online, Dynamics 365, Customer Engagement, Finance &amp; Operations, ...</p> \n<p>Als functioneel domeinspecialist sta je in voor de functionele kennisborging van de toepassing en beschik je over een grondige functionele kennis van de werking ervan. Op basis van de kennis van de toepassing kan je de toepassing doorgronden. Het is vanuit deze kennis ook je taak om afwijkende of vreemde gedragingen te herkennen en deze correct inschatten.</p> \n<p>Daarnaast fungeer je als aanspreekpunt via de eerstelijnshelpdesk en treedt op als SPOC voor alle personeelsleden van het Departement MOW. Dit houdt in dat je het eerste aanspreekpunt bent voor vragen, incidenten, bugs... daarnaast treed je ook op als dispatcher en coördinator binnen het incidentenbeheer, je analyseert de inkomende meldingen en zorgt voor een passende opvolging. </p>",
+        "htmlEncoded": "<p>Het Departement Mobiliteit en Openbare Werken (DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.</p> \n<p>Onze experten in beweging zetten zich elke dag in voor een veilige, slimme en duurzame mobiliteit én voor de hedendaagse wegen- en (lucht)haveninfrastructuur.</p> \n<p>We werken zowel beleidsmatig als in uitvoering mee aan verschillende projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze experten met diverse profielen.</p> \n<p>Samen hebben we één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving. Wij zijn #experteninbeweging.</p> \n<p>Je komt terecht in het team MOW 365, Het team is gehuisvest in het Marie-Elisabeth Belpairegebouw, vlak bij het Brussel-Noord station.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>MOW365 is een toepassing waarbij we de operationele efficiëntie, samenwerking en datagedreven werking van het departement fundamenteel wensen te verbeteren door processen en informatie te harmoniseren. Deze toepassing omvat contract-, project-, programma- en portfoliobeheer. Verder wordt voor de eigen vermogens commercieel en financieel beheer voorzien. Deze toepassing wordt gebouwd met behulp van Microsoft Power Platform, SharePoint Online, Dynamics 365, Customer Engagement, Finance &amp; Operations, ...</p> \n<p>Als functioneel domeinspecialist sta je in voor de functionele kennisborging van de toepassing en beschik je over een grondige functionele kennis van de werking ervan. Op basis van de kennis van de toepassing kan je de toepassing doorgronden. Het is vanuit deze kennis ook je taak om afwijkende of vreemde gedragingen te herkennen en deze correct inschatten.</p> \n<p>Daarnaast fungeer je als aanspreekpunt via de eerstelijnshelpdesk en treedt op als SPOC voor alle personeelsleden van het Departement MOW. Dit houdt in dat je het eerste aanspreekpunt bent voor vragen, incidenten, bugs... daarnaast treed je ook op als dispatcher en coördinator binnen het incidentenbeheer, je analyseert de inkomende meldingen en zorgt voor een passende opvolging. </p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20548",
+      "internal": false,
+      "validThroughDate": "1777766400",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 3,
+      "domain": "Gezondheid",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20548",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Ergotherapeut"
+      },
+      "displayTitle": "Ergotherapeut",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als ergotherapeut binnen een gemeenschapsinstelling voor jongeren ligt de kernopdracht in het begeleiden van jongeren met als doel hun ontwikkeling, zelfredzaamheid en maatschappelijke participatie te bevorderen. De ergotherapeut richt zich op het versterken van vaardigheden die noodzakelijk zijn voor het dagelijks functioneren, zowel binnen de structuur van de instelling als in voorbereiding op een succesvolle re-integratie in de samenleving.<br><br> Door middel van doelgerichte interventies, observaties en therapeutische activiteiten wordt gewerkt aan het vergroten van de autonomie, het ontwikkelen van sociale en praktische vaardigheden en het ondersteunen van gedragsverandering. Hierbij wordt steeds vertrokken vanuit de mogelijkheden en noden van de jongere, met aandacht voor zijn context en toekomstperspectief.<br> Daarnaast werkt de ergotherapeut nauw samen met een multidisciplinair team en externe partners om een coherent begeleidingstraject te waarborgen. Het uiteindelijke doel is jongeren te versterken in hun rol als actieve en zelfstandige participanten in de maatschappij.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>",
+        "htmlEncoded": "<p><span>Als ergotherapeut binnen een gemeenschapsinstelling voor jongeren ligt de kernopdracht in het begeleiden van jongeren met als doel hun ontwikkeling, zelfredzaamheid en maatschappelijke participatie te bevorderen. De ergotherapeut richt zich op het versterken van vaardigheden die noodzakelijk zijn voor het dagelijks functioneren, zowel binnen de structuur van de instelling als in voorbereiding op een succesvolle re-integratie in de samenleving.<br><br> Door middel van doelgerichte interventies, observaties en therapeutische activiteiten wordt gewerkt aan het vergroten van de autonomie, het ontwikkelen van sociale en praktische vaardigheden en het ondersteunen van gedragsverandering. Hierbij wordt steeds vertrokken vanuit de mogelijkheden en noden van de jongere, met aandacht voor zijn context en toekomstperspectief.<br> Daarnaast werkt de ergotherapeut nauw samen met een multidisciplinair team en externe partners om een coherent begeleidingstraject te waarborgen. Het uiteindelijke doel is jongeren te versterken in hun rol als actieve en zelfstandige participanten in de maatschappij.<br><br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        },
+        {
+          "address": {
+            "city": "Wingene"
+          }
+        },
+        {
+          "address": {
+            "city": "Everberg"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20546",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Andere",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20546",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Veiligheidsbegeleider"
+      },
+      "displayTitle": "Veiligheidsbegeleider",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als veiligheidsbegeleider creëer je, samen met je team, een veilige leefomgeving binnen de GI-context. Je bent zichtbaar aanwezig, zorgt voor rust en structuur en treedt handelend op wanneer de veiligheid in het gedrang komt. Je ondersteunt daarnaast het dagelijks functioneren van de leefgroep en draagt bij aan een positief klimaat.<br><br> Wat doe je concreet? </span></p> <ul><li><span>Je werkt volgens de dag- of weekplanning en respecteert de prioriteiten die worden opgegeven.</span></li><li><span>Je overlegt regelmatig met collega’s en leidinggevenden over taken en aanpak. </span></li><li><span>Je neemt actief deel aan vormingen. </span></li><li><span>Je voert veiligheidscontroles uit, zoals kamercontroles en kledijwissels volgens de geldende procedures. </span></li><li><span>Je observeert en begeleidt jongeren – individueel of in groep – tijdens activiteiten, lessen of bezoeken. </span></li><li><span>Je ondersteunt bij dagelijkse taken in de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne. </span></li><li><span>Je grijpt fysiek in bij veiligheidsincidenten en volgt hiertoe de vereiste PTV-opleidingen. </span></li><li><span>Je zorgt voor orde en netheid in de leefunit en houdt toezicht tijdens activiteitenblokken. </span></li><li><span>Je draagt bij aan een positief en veilig leefklimaat, gebaseerd op respect en samenwerking. </span></li><li><span>Je rapporteert incidenten en observaties op een correcte en feitelijke manier aan de betrokken diensten. </span></li><li><span>Je beheert middelen en producten binnen de unit, ziet toe op stock en correcte afname.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></li></ul>",
+        "htmlEncoded": "<p><span>Als veiligheidsbegeleider creëer je, samen met je team, een veilige leefomgeving binnen de GI-context. Je bent zichtbaar aanwezig, zorgt voor rust en structuur en treedt handelend op wanneer de veiligheid in het gedrang komt. Je ondersteunt daarnaast het dagelijks functioneren van de leefgroep en draagt bij aan een positief klimaat.<br><br> Wat doe je concreet? </span></p> <ul><li><span>Je werkt volgens de dag- of weekplanning en respecteert de prioriteiten die worden opgegeven.</span></li><li><span>Je overlegt regelmatig met collega’s en leidinggevenden over taken en aanpak. </span></li><li><span>Je neemt actief deel aan vormingen. </span></li><li><span>Je voert veiligheidscontroles uit, zoals kamercontroles en kledijwissels volgens de geldende procedures. </span></li><li><span>Je observeert en begeleidt jongeren – individueel of in groep – tijdens activiteiten, lessen of bezoeken. </span></li><li><span>Je ondersteunt bij dagelijkse taken in de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne. </span></li><li><span>Je grijpt fysiek in bij veiligheidsincidenten en volgt hiertoe de vereiste PTV-opleidingen. </span></li><li><span>Je zorgt voor orde en netheid in de leefunit en houdt toezicht tijdens activiteitenblokken. </span></li><li><span>Je draagt bij aan een positief en veilig leefklimaat, gebaseerd op respect en samenwerking. </span></li><li><span>Je rapporteert incidenten en observaties op een correcte en feitelijke manier aan de betrokken diensten. </span></li><li><span>Je beheert middelen en producten binnen de unit, ziet toe op stock en correcte afname.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Wingene"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20429",
       "internal": false,
