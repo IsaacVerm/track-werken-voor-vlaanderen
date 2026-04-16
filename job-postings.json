@@ -1,11 +1,119 @@
 {
-  "totalItems": 118,
+  "totalItems": 121,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 117,
+  "lastItemOfPage": 120,
   "items": [
+    {
+      "link": "/Job/vdab-73507688",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen Connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73507688",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Applicatiebeheerder  (Digitaal Vlaanderen ) via Vlaanderen connect"
+      },
+      "displayTitle": "Applicatiebeheerder  (Digitaal Vlaanderen ) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als applicatiebeheerder ben je een belangrijke schakel tussen onze partners (de overheidsdiensten), ondersteuningsteams bij leveranciers, de helpdesk en het interne team. Je neemt een groot deel van de operationele opvolging en tweedelijnsondersteuning op, zodat product owner en development team zich maximaal kunnen focussen op analyse, en realisatie van nieuwe aansluitingen en ontwikkelingen.</p><p>Je volgt de status van onze diensten en partnerketens op, detecteert problemen tijdig en zorgt dat incidenten correct onderzocht, opgevolgd en gerapporteerd worden. Je ondersteunt partners bij technische en functionele vragen, werkt mee aan duidelijke documentatie en zorgt ervoor dat kennis gedeeld wordt met helpdesk en stakeholders.</p><p>Afhankelijk van de bouwsteen wordt van jou verwacht de volgende verantwoordelijkheden op te nemen.</p><ul><li>Je volgt dagelijks de werking en status van de Documentendienst en Digitaal Ondertekenen op en signaleert incidenten, verstoringen of afwijkingen.</li><li>Je houdt de statuspagina up-to-date met informatie over incidenten, onderhoudsmomenten en geplande releases en zorgt voor rapportering over het verloop. </li><li>Je volgt de tijdige en inhoudelijke correcte oplevering van periodieke gebruikersrapporten op. </li><li>Je volgt onderbrekingen en problemen bij externe partners op en stemt hierover af met interne en externe betrokkenen.  </li><li>Je beheert en publiceert release notes en gebruikersdocumentatie op een duidelijke en gestructureerde manier en zorgt voor de actualiteit ervan. </li><li>Je onderzoekt technische en functionele vragen van partners en integratoren, en neemt daarbij zoveel mogelijk zelf de behandeling op. </li><li>Je neemt contact op met integratoren die niet optimaal integreren met de API en helpt hen om hun aansluiting te verbeteren. </li><li>Je ondersteunt de helpdesk door richtlijnen en achtergrondinformatie op te maken en actueel te houden en hen te helpen bij de afhandeling van supportvragen.<br>Je onderhoudt, verbetert de technische documentatie, FAQ’s en ondersteunende handleidingen. </li><li>Je geeft korte demo’s, toelichtingen en praktische voorbeelden aan partners en stakeholders. </li><li>Je levert input voor de verdere verbetering van rapporteringen rond aansluitingen, incidenten, gebruikscijfers en operationele trends. </li><li>Je neemt deel aan teamoverleg en sluit aan bij de dagelijkse werking van het team.</li></ul><b></b>",
+        "htmlEncoded": "<p>Als applicatiebeheerder ben je een belangrijke schakel tussen onze partners (de overheidsdiensten), ondersteuningsteams bij leveranciers, de helpdesk en het interne team. Je neemt een groot deel van de operationele opvolging en tweedelijnsondersteuning op, zodat product owner en development team zich maximaal kunnen focussen op analyse, en realisatie van nieuwe aansluitingen en ontwikkelingen.</p><p>Je volgt de status van onze diensten en partnerketens op, detecteert problemen tijdig en zorgt dat incidenten correct onderzocht, opgevolgd en gerapporteerd worden. Je ondersteunt partners bij technische en functionele vragen, werkt mee aan duidelijke documentatie en zorgt ervoor dat kennis gedeeld wordt met helpdesk en stakeholders.</p><p>Afhankelijk van de bouwsteen wordt van jou verwacht de volgende verantwoordelijkheden op te nemen.</p><ul><li>Je volgt dagelijks de werking en status van de Documentendienst en Digitaal Ondertekenen op en signaleert incidenten, verstoringen of afwijkingen.</li><li>Je houdt de statuspagina up-to-date met informatie over incidenten, onderhoudsmomenten en geplande releases en zorgt voor rapportering over het verloop. </li><li>Je volgt de tijdige en inhoudelijke correcte oplevering van periodieke gebruikersrapporten op. </li><li>Je volgt onderbrekingen en problemen bij externe partners op en stemt hierover af met interne en externe betrokkenen.  </li><li>Je beheert en publiceert release notes en gebruikersdocumentatie op een duidelijke en gestructureerde manier en zorgt voor de actualiteit ervan. </li><li>Je onderzoekt technische en functionele vragen van partners en integratoren, en neemt daarbij zoveel mogelijk zelf de behandeling op. </li><li>Je neemt contact op met integratoren die niet optimaal integreren met de API en helpt hen om hun aansluiting te verbeteren. </li><li>Je ondersteunt de helpdesk door richtlijnen en achtergrondinformatie op te maken en actueel te houden en hen te helpen bij de afhandeling van supportvragen.<br>Je onderhoudt, verbetert de technische documentatie, FAQ’s en ondersteunende handleidingen. </li><li>Je geeft korte demo’s, toelichtingen en praktische voorbeelden aan partners en stakeholders. </li><li>Je levert input voor de verdere verbetering van rapporteringen rond aansluitingen, incidenten, gebruikscijfers en operationele trends. </li><li>Je neemt deel aan teamoverleg en sluit aan bij de dagelijkse werking van het team.</li></ul><b></b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73507274",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen Connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73507274",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect"
+      },
+      "displayTitle": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p><p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p><p><strong>Waar kom je terecht?</strong></p><p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p><p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p><p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p><p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam.</p><p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p><p><strong>Wat zal je moeten doen?</strong></p><p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p><p><i>Jouw kernverantwoordelijkheden:</i></p><p>·       Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p><p>·       Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p><p>·       Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p><p>·       Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p><p>·       Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p><p>·       Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p><p>·       Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p><p>·       Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p><p>·       Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente commun</p>",
+        "htmlEncoded": "<p></p><p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p><p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p><p><strong>Waar kom je terecht?</strong></p><p>Digitaal Vlaanderen is het digitaliseringsagentschap van de Vlaamse overheid dat zich inzet voor een digitale transformatie van de dienstverlening aan en de samenwerking tussen overheden, burgers en bedrijven. We ondersteunen en begeleiden Vlaamse en lokale overheden in hun digitale transformatie en hun zoektocht naar de overheid van morgen. </p><p>Digitaal Vlaanderen behoort tot de frontrunners van de digitalisering in Europa.</p><p>We zijn grensverleggend in het gebruik van AI en we voeren een innovatief, duurzaam en inclusief beleid. Dat maakt van ons één van de grootste en boeiendste werkgevers voor ICT-talent in Vlaanderen. En jij kan daar deel van uitmaken. </p><p>Digitaal Vlaanderen heeft grote ambities om de digitalisering in Vlaanderen naar een hoger niveau te tillen. Onze strategische focus is gericht op #partner, #ontzorgen en #éénteam.</p><p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p><p><strong>Wat zal je moeten doen?</strong></p><p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p><p><i>Jouw kernverantwoordelijkheden:</i></p><p>·       Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p><p>·       Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p><p>·       Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p><p>·       Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p><p>·       Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p><p>·       Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p><p>·       Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p><p>·       Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p><p>·       Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente commun</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73507273",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen Connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73507273",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen Connect"
+      },
+      "displayTitle": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen Connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p><strong>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</strong></p><p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p><p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p><p><strong>Waar kom je terecht?</strong></p><p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p><p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p><p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p><p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p><p><strong>Wat zal je moeten doen?</strong></p><p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p><p>Je zal onder andere:</p><ul><li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li><li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li><li>leren hoe je risico’s opvolgt en rapporteert;</li><li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li><li>een aanspreekpunt worden voor collega’s en partners;</li><li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li></ul><p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p><p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p><strong>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</strong></p><p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p><p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p><p><strong>Waar kom je terecht?</strong></p><p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p><p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p><p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p><p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p><p><strong>Wat zal je moeten doen?</strong></p><p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p><p>Je zal onder andere:</p><ul><li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li><li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li><li>leren hoe je risico’s opvolgt en rapporteert;</li><li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li><li>een aanspreekpunt worden voor collega’s en partners;</li><li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li></ul><p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p><p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20876",
       "internal": false,
@@ -38,6 +146,78 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20478",
+      "internal": false,
+      "validThroughDate": "1777852800",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20478",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Financieel expert"
+      },
+      "displayTitle": "Financieel expert",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><b><span>Over wonen in Vlaanderen</span></b><span><br> <br> Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.<br> <br> Wat ga je doen?<br> </b>Als financieel expert zorg je voor correcte financieringsstromen, accurate rapportering en een vlotte financiële opvolging binnen een sterk gereglementeerde context.<br> <br> Je taken omvatten onder andere:</span></p><ul><li><span>&nbsp;</span><span>Het opmaken, opvolgen en analyseren van rapporteringen, budgetten en betalingen.</span></li><li><span>&nbsp;</span>Het afstemmen met interne en externe partners, zoals woonmaatschappijen, banken en beleidsdiensten.</li><li>Het onderhouden en beheren van financiële data, zodat beslissingen op correcte informatie steunen.</li><li>Het meewerken aan belangrijke IT‑projecten, zoals de bankfunctie, PowerTreasury of DOUW, en helpen om deze systemen verder te optimaliseren.</li><li>Het bijdragen aan structurele verbeteringen in processen, rapportering en financiële tools.</li></ul><p><span><b>Wie ben jij?<br> </b>Je werkt zelfstandig en neemt met vertrouwen verantwoordelijkheid op. Je bent nauwkeurig, goed georganiseerd en communiceert helder. Je werkt graag samen met collega’s en partners, bent leergierig en voelt je thuis in een complexe, snel evoluerende omgeving. Dankzij je IT-affiniteit ga je vlot om met nieuwe systemen en met je basiskennis boekhouding begrijp je financiële processen. Je voelt je goed in een context waar autonomie, eigenaarschap en analytisch denken centraal staan.<br> <br> <b>Wat breng je mee?</b></span></p><ul><li><span><b>&nbsp;</b>Een sterk analytisch vermogen: je duikt graag in cijfers, processen en regelgeving.</span></li><li><span>Een professionele, gestructureerde aanpak en nauwgezette opvolging.</span></li><li><span>Uitstekende communicatievaardigheden en het vermogen om complexe informatie helder te rapporteren.</span></li><li><span>Digitale skills: je werkt vlot met diverse IT-toepassingen en ondersteunt mee de uitrol van nieuwe systemen.</span></li><li><span>Een gezonde portie flexibiliteit in een context met veel regelgeving, ingrijpende IT‑projecten en toenemende rapporteringsbehoeften.</span></li></ul><p><span><b>Waar kom je terecht?<br> </b></span><span>Het agentschap Wonen in Vlaanderen bestaat uit 6 afdelingen: de afdeling Huren en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Toezicht, de afdeling Woonbeleid en de afdeling Organisatieondersteuning. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.<br> <br> Je komt terecht binnen de afdeling Financiën bij de dienst Financiën Woonactoren of bij de dienst Begroting &amp; Thesaurie.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>",
+        "htmlEncoded": "<p><b><span>Over wonen in Vlaanderen</span></b><span><br> <br> Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <b>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.<br> <br> Wat ga je doen?<br> </b>Als financieel expert zorg je voor correcte financieringsstromen, accurate rapportering en een vlotte financiële opvolging binnen een sterk gereglementeerde context.<br> <br> Je taken omvatten onder andere:</span></p><ul><li><span>&nbsp;</span><span>Het opmaken, opvolgen en analyseren van rapporteringen, budgetten en betalingen.</span></li><li><span>&nbsp;</span>Het afstemmen met interne en externe partners, zoals woonmaatschappijen, banken en beleidsdiensten.</li><li>Het onderhouden en beheren van financiële data, zodat beslissingen op correcte informatie steunen.</li><li>Het meewerken aan belangrijke IT‑projecten, zoals de bankfunctie, PowerTreasury of DOUW, en helpen om deze systemen verder te optimaliseren.</li><li>Het bijdragen aan structurele verbeteringen in processen, rapportering en financiële tools.</li></ul><p><span><b>Wie ben jij?<br> </b>Je werkt zelfstandig en neemt met vertrouwen verantwoordelijkheid op. Je bent nauwkeurig, goed georganiseerd en communiceert helder. Je werkt graag samen met collega’s en partners, bent leergierig en voelt je thuis in een complexe, snel evoluerende omgeving. Dankzij je IT-affiniteit ga je vlot om met nieuwe systemen en met je basiskennis boekhouding begrijp je financiële processen. Je voelt je goed in een context waar autonomie, eigenaarschap en analytisch denken centraal staan.<br> <br> <b>Wat breng je mee?</b></span></p><ul><li><span><b>&nbsp;</b>Een sterk analytisch vermogen: je duikt graag in cijfers, processen en regelgeving.</span></li><li><span>Een professionele, gestructureerde aanpak en nauwgezette opvolging.</span></li><li><span>Uitstekende communicatievaardigheden en het vermogen om complexe informatie helder te rapporteren.</span></li><li><span>Digitale skills: je werkt vlot met diverse IT-toepassingen en ondersteunt mee de uitrol van nieuwe systemen.</span></li><li><span>Een gezonde portie flexibiliteit in een context met veel regelgeving, ingrijpende IT‑projecten en toenemende rapporteringsbehoeften.</span></li></ul><p><span><b>Waar kom je terecht?<br> </b></span><span>Het agentschap Wonen in Vlaanderen bestaat uit 6 afdelingen: de afdeling Huren en Woningkwaliteit, de afdeling Sociale Woonprojecten, de afdeling Financiën, de afdeling Toezicht, de afdeling Woonbeleid en de afdeling Organisatieondersteuning. Het agentschap heeft zowel medewerkers in dienst in Brussel als in de provinciehoofdsteden.<br> <br> Je komt terecht binnen de afdeling Financiën bij de dienst Financiën Woonactoren of bij de dienst Begroting &amp; Thesaurie.<br> <br> Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20461",
+      "internal": false,
+      "validThroughDate": "1778803200",
+      "hiringOrganization": "Vlaamse Belastingdienst",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Financieel",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20461",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Dossierbehandelaar inning en invordering"
+      },
+      "displayTitle": "Dossierbehandelaar inning en invordering",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Jij bent op zoek naar een uitdagende en gevarieerde functie waarin jij verantwoordelijk bent voor het beheer van dossiers rond inning en invordering. Als <b>dossierbehandelaar inning en invordering bij de Centrale Invorderingscel (CIC) </b>van de Vlaamse Belastingdienst (VLABEL) speel jij een essentiële rol.</span></p><p><span>Jij bent verantwoordelijk voor de inning en invordering van niet-fiscale schuldvorderingen, zoals boetes of bijdragen of ten onrechte uitbetaalde subsidies of premies.. Binnen de CIC zorg jij voor een uniforme en efficiënte invordering van schulden die niet uit belastingen voortvloeien.</span></p><p><span>Jij behandelt een breed scala aan dossiers en jij bent het aanspreekpunt voor extra taken buiten het standaard takenpakket. Je fungeert als inhoudelijke vraagbaak voor collega’s en externe partners zoals gerechtsdeurwaarders, notarissen, curatoren en advocaten. Dankzij jouw expertise draag jij bij aan verbeteringen in processen en het formuleren van nieuwe richtlijnen, die je aan jouw leidinggevenden voorstelt.</span></p><p><span>Binnen de CIC pak jij de verantwoordelijkheid voor het in kaart brengen van de solvabiliteit van debiteuren. Jij analyseert zelfstandig de gegevens en bepaalt de meest passende invorderingsstrategie. Jij start alternatieve maatregelen op, zoals beslaglegging onder derden. Je communiceert helder met klanten en belanghebbenden, reageert op hun vragen en zorgt voor passende antwoorden binnen de richtlijnen. Ook neem jij beslissingen over het kwijtschelden van interesten en kosten en bied je ondersteuning aan je collega’s.</span></p><p><span>Jij hebt als dossierbehandelaar bij de CIC een directe impact op de efficiëntie en effectiviteit van het invorderingsproces. Klinkt dit als de perfecte uitdaging voor jou? Solliciteer dan nu en versterk ons team!</span></p>",
+        "htmlEncoded": "<p><span>Jij bent op zoek naar een uitdagende en gevarieerde functie waarin jij verantwoordelijk bent voor het beheer van dossiers rond inning en invordering. Als <b>dossierbehandelaar inning en invordering bij de Centrale Invorderingscel (CIC) </b>van de Vlaamse Belastingdienst (VLABEL) speel jij een essentiële rol.</span></p><p><span>Jij bent verantwoordelijk voor de inning en invordering van niet-fiscale schuldvorderingen, zoals boetes of bijdragen of ten onrechte uitbetaalde subsidies of premies.. Binnen de CIC zorg jij voor een uniforme en efficiënte invordering van schulden die niet uit belastingen voortvloeien.</span></p><p><span>Jij behandelt een breed scala aan dossiers en jij bent het aanspreekpunt voor extra taken buiten het standaard takenpakket. Je fungeert als inhoudelijke vraagbaak voor collega’s en externe partners zoals gerechtsdeurwaarders, notarissen, curatoren en advocaten. Dankzij jouw expertise draag jij bij aan verbeteringen in processen en het formuleren van nieuwe richtlijnen, die je aan jouw leidinggevenden voorstelt.</span></p><p><span>Binnen de CIC pak jij de verantwoordelijkheid voor het in kaart brengen van de solvabiliteit van debiteuren. Jij analyseert zelfstandig de gegevens en bepaalt de meest passende invorderingsstrategie. Jij start alternatieve maatregelen op, zoals beslaglegging onder derden. Je communiceert helder met klanten en belanghebbenden, reageert op hun vragen en zorgt voor passende antwoorden binnen de richtlijnen. Ook neem jij beslissingen over het kwijtschelden van interesten en kosten en bied je ondersteuning aan je collega’s.</span></p><p><span>Jij hebt als dossierbehandelaar bij de CIC een directe impact op de efficiëntie en effectiviteit van het invorderingsproces. Klinkt dit als de perfecte uitdaging voor jou? Solliciteer dan nu en versterk ons team!</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
           }
         }
       ]
@@ -1851,42 +2031,6 @@
       "description": {
         "raw": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>",
         "htmlEncoded": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73417918",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73417918",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect"
-      },
-      "displayTitle": "Product Owner Expert & Team lead (Digitaal Vlaanderen) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p>· Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p> \n<p>· Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p> \n<p>· Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p> \n<p>· Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p> \n<p>· Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p> \n<p>· Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p> \n<p>· Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p> \n<p>· Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p> \n<p>· Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente communicatie.</p> \n<p>· Je leidt en ontwikkelt het Platform Product Management‑team, versterkt het productdenken en stakeholdermanagement, en zorgt ervoor dat het team goed gepositioneerd blijft om de toekomstige ambities van Digitaal Vlaanderen waar te maken</p>",
-        "htmlEncoded": "<p>Bij het agentschap Digitaal Vlaanderen gaan we op zoek naar een Product Owner Expert &amp; Team lead ter versterking van onze afdeling IT-platform binnen het team platformdiensten.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je wil meewerken aan het strategisch sturen en laten evolueren van een coherent, betrouwbaar en schaalbaar IT‑platform, waarin werkplek-, netwerk-, cloud-, datacenter- en SOC‑diensten samenkomen, en waarbij je als Product Owner Expert en team lead richting geeft aan visie, roadmaps en kwaliteit voor de Vlaamse overheid, dan ben jij misschien wel onze ideale kandidaat!</p> \n<p>Jouw werkplek is ons kantoor in Brussel, maar er kunnen ook overlegmomenten in ons kantoor in Gent plaatsvinden. Uiteraard is het ook mogelijk om sommige dagen van thuis te werken.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als Product Owner Expert &amp; Team lead IT Platform Product Management ben je verantwoordelijk voor de visie, roadmap en kwaliteit van de IT‑platformdiensten van Digitaal Vlaanderen. Je stuurt de evolutie van werkplek-, netwerk-, cloud/datacenter- en SOC‑diensten aan als één samenhangend platform voor de Vlaamse overheid en leidt het productmanagementteam dat deze diensten vormgeeft en bewaakt.</p> \n<p><em>Jouw kernverantwoordelijkheden:</em></p> \n<p>· Je bepaalt en bewaakt de strategische visie voor de IT‑platformdiensten en vertaalt deze naar concrete roadmaps, prioriteiten en investeringskeuzes.</p> \n<p>· Je neemt het overkoepelend product ownership op overheen alle platformdomeinen en zorgt ervoor dat deze diensten coherent, toekomstgericht en duurzaam evolueren als één geïntegreerd IT‑platform.</p> \n<p>· Je ontwikkelt en beheert productbacklogs en roadmaps in nauwe afstemming met interne stakeholders en VO‑partners, en zorgt voor een agile realisatie met focus op voortgang, kwaliteit en impact.</p> \n<p>· Je bewaakt dat platformkeuzes en investeringen bijdragen aan een wendbare, schaalbare en ontzorgende dienstverlening voor Vlaamse en lokale overheden.</p> \n<p>· Je waakt over de kwaliteit, stabiliteit, veiligheid en continuïteit van de IT‑platformdiensten en initieert verbeteracties waar nodig.</p> \n<p>· Je zorgt voor coherentie en afstemming tussen de verschillende platformdomeinen en beheert strategische afhankelijkheden, risico’s en langetermijnkeuzes.</p> \n<p>· Je neemt een actieve rol op in de governance van IT‑platformdiensten, bereidt strategische beslissingen voor, ondersteunt het management met onderbouwde keuzes en bewaakt de opvolging ervan.</p> \n<p>· Je stuurt sourcing‑ en partnerkeuzes aan en bepaalt welke expertise intern wordt opgebouwd en welke via externe partners wordt ingevuld.</p> \n<p>· Je fungeert als strategisch aanspreekpunt voor stakeholders en partners en zorgt voor duidelijke verwachtingen, transparante prioriteiten en consistente communicatie.</p> \n<p>· Je leidt en ontwikkelt het Platform Product Management‑team, versterkt het productdenken en stakeholdermanagement, en zorgt ervoor dat het team goed gepositioneerd blijft om de toekomstige ambities van Digitaal Vlaanderen waar te maken</p>"
       },
       "locations": [
         {
@@ -4206,42 +4350,6 @@
       "description": {
         "raw": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gemotiveerde \n<span>Product owner expert die de rol van teamlead opneemt</span> ter versterking van het team Portfolio management.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan het verhogen van onze financiële en portfolio kernsystemen? Ben je een motiverende en energieke teamspeler? Dan ben jij onze ideale kandidaat!</p> \n<p>Als \n<span>Product owner expert &amp; teamlead finance &amp; business tools</span> ben jij de drijvende kracht achter onze financiële en portfolio kernsystemen. Jij zorgt ervoor dat \n<span>MS Dynamics CRM &amp; Project Operations,</span> gekoppeld aan \n<span>Jira</span> en \n<span>het Orafin Boekhoudpakket</span>, optimaal bijdragen aan de interne werking van Digitaal Vlaanderen. Op de agenda voor 2026 zal jouw expertise ertoe bijdragen dat we een betere planning doen van medewerkers en projecten.</p> \n<p>Van concept tot exploitatie, jij beheert de volledige productlevenscyclus, bewaakt de kwaliteit, detecteert nieuwe opportuniteiten en vertaalt de noden van interne stakeholders naar concrete productvisies, roadmaps en backlogitems.</p> \n<p>De rol van product owner expert en Teamlead situeert zich binnen de afdeling PMO en Organisatie, specifiek in het team Portfolio management. Je leidt het subteam finance &amp; business tools. Momenteel zijn we met 7 mensen in dit team.</p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Je staat in voor:</span></p> \n<ul> \n<li>Lifecyclebeheer van de financiële en portfolio tools: MS Dynamics CRM &amp; Project Operations, inclusief koppelingen met Jira en Orafin.</li> \n<li>De afstemming tussen de verschillende tools bewaken en de interne noden vertalen naar een heldere product roadmap met productvisie en backlogitems en rapportering in Power BI</li> \n<li>Vertalen van de business requirements naar concrete oplossingen in de end-to-end processen</li> \n<li>Bewaken van budget en forecast van jouw producten en bijsturen waar nodig.</li> \n<li>Tactisch mee uittekenen van de end-to-end processen en de operationele tooling lean inrichten</li> \n<li>Regelmatig rapporteren aan de Portfolio Manager en actief bijdragen aan optimalisatieprojecten.</li> \n<li>Signaleren van kansen en verbeteringen voor tools, processen en rapportering.</li> </ul> \n<p><span>Je stuurt als peoplemanager het team finance &amp; business tools aan: </span></p> \n<ul> \n<li>Je focust op de organisatie en werking van het team en motiveert hen om de strategische doelen waar te maken</li> \n<li>Je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de portfoliomanagers en de organisatie in zijn geheel. Je ondersteunt daarbij de persoonlijke en professionele groei van elk teamlid</li> \n<li>·Je adviseert rond prioriteiten en stuurt deze samen met het team bij waar nodig om de resultaten te realiseren</li> \n<li>Je communiceert open en oplossingsgericht met het team en houdt daarbij de resultaten nauwgezet voor ogen</li> </ul> \n<p><span>Je coördineert de werking en samenwerking van het team finance &amp; business tools: </span></p> \n<ul> \n<li>Je draagt actief bij aan het vormgeven van een efficiënt vast team rond het finance &amp; business team</li> \n<li>Je schuwt het niet met stakeholders in gesprek te gaan rond de werking en optimalisatie van het team</li> \n<li>Je zet waar nodig structuren op om de werking in een sterk veranderende omgeving bij te optimaliseren</li> \n<li>Je rapporteert op vaste tijdstippen rond de werking van het team en de resultaten en helpt waar nodig de stevigheid in beleidsnota’s, presentaties etc te garanderen</li> </ul>",
         "htmlEncoded": "<p>Het agentschap Digitaal Vlaanderen is op zoek naar een gemotiveerde \n<span>Product owner expert die de rol van teamlead opneemt</span> ter versterking van het team Portfolio management.</p> \n<p>Ben jij op zoek naar een nieuwe uitdaging waarbij je kan werken aan het verhogen van onze financiële en portfolio kernsystemen? Ben je een motiverende en energieke teamspeler? Dan ben jij onze ideale kandidaat!</p> \n<p>Als \n<span>Product owner expert &amp; teamlead finance &amp; business tools</span> ben jij de drijvende kracht achter onze financiële en portfolio kernsystemen. Jij zorgt ervoor dat \n<span>MS Dynamics CRM &amp; Project Operations,</span> gekoppeld aan \n<span>Jira</span> en \n<span>het Orafin Boekhoudpakket</span>, optimaal bijdragen aan de interne werking van Digitaal Vlaanderen. Op de agenda voor 2026 zal jouw expertise ertoe bijdragen dat we een betere planning doen van medewerkers en projecten.</p> \n<p>Van concept tot exploitatie, jij beheert de volledige productlevenscyclus, bewaakt de kwaliteit, detecteert nieuwe opportuniteiten en vertaalt de noden van interne stakeholders naar concrete productvisies, roadmaps en backlogitems.</p> \n<p>De rol van product owner expert en Teamlead situeert zich binnen de afdeling PMO en Organisatie, specifiek in het team Portfolio management. Je leidt het subteam finance &amp; business tools. Momenteel zijn we met 7 mensen in dit team.</p> \n<p><span>Wat zal je doen?</span></p> \n<p><span>Je staat in voor:</span></p> \n<ul> \n<li>Lifecyclebeheer van de financiële en portfolio tools: MS Dynamics CRM &amp; Project Operations, inclusief koppelingen met Jira en Orafin.</li> \n<li>De afstemming tussen de verschillende tools bewaken en de interne noden vertalen naar een heldere product roadmap met productvisie en backlogitems en rapportering in Power BI</li> \n<li>Vertalen van de business requirements naar concrete oplossingen in de end-to-end processen</li> \n<li>Bewaken van budget en forecast van jouw producten en bijsturen waar nodig.</li> \n<li>Tactisch mee uittekenen van de end-to-end processen en de operationele tooling lean inrichten</li> \n<li>Regelmatig rapporteren aan de Portfolio Manager en actief bijdragen aan optimalisatieprojecten.</li> \n<li>Signaleren van kansen en verbeteringen voor tools, processen en rapportering.</li> </ul> \n<p><span>Je stuurt als peoplemanager het team finance &amp; business tools aan: </span></p> \n<ul> \n<li>Je focust op de organisatie en werking van het team en motiveert hen om de strategische doelen waar te maken</li> \n<li>Je bouwt actief aan een sterke teamdynamiek, zowel binnen jouw subteam als in de dagelijkse samenwerking met de portfoliomanagers en de organisatie in zijn geheel. Je ondersteunt daarbij de persoonlijke en professionele groei van elk teamlid</li> \n<li>·Je adviseert rond prioriteiten en stuurt deze samen met het team bij waar nodig om de resultaten te realiseren</li> \n<li>Je communiceert open en oplossingsgericht met het team en houdt daarbij de resultaten nauwgezet voor ogen</li> </ul> \n<p><span>Je coördineert de werking en samenwerking van het team finance &amp; business tools: </span></p> \n<ul> \n<li>Je draagt actief bij aan het vormgeven van een efficiënt vast team rond het finance &amp; business team</li> \n<li>Je schuwt het niet met stakeholders in gesprek te gaan rond de werking en optimalisatie van het team</li> \n<li>Je zet waar nodig structuren op om de werking in een sterk veranderende omgeving bij te optimaliseren</li> \n<li>Je rapporteert op vaste tijdstippen rond de werking van het team en de resultaten en helpt waar nodig de stevigheid in beleidsnota’s, presentaties etc te garanderen</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-71765604",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Management",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-71765604",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen connect."
-      },
-      "displayTitle": "Medewerker Information Security Officer (ISO) (Digitaal Vlaanderen) via Vlaanderen connect.",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</p> \n<p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p> \n<p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p> \n<p>Waar kom je terecht?</p> \n<p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p> \n<p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p> \n<p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p> \n<p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p> \n<p>Je zal onder andere:</p> \n<ul> \n<li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li> \n<li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li> \n<li>leren hoe je risico’s opvolgt en rapporteert;</li> \n<li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li> \n<li>een aanspreekpunt worden voor collega’s en partners;</li> \n<li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p> \n<p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p>",
-        "htmlEncoded": "<p>Digitaal Vlaanderen – Bouw mee aan de digitale veiligheid van morgen</p> \n<p>Ben jij klaar voor je eerste stappen in cybersecurity? Heb je interesse in informatieveiligheid en wil je meewerken aan digitale diensten die elke Vlaming elke dag gebruikt? Dan ben jij misschien wel onze nieuwe collega!</p> \n<p>Digitaal Vlaanderen zoekt startende en junior Information Security Officers die willen groeien, bijleren en impact maken. Je komt terecht in een enthousiast team van experten die jou begeleiden en ondersteunen.</p> \n<p>Waar kom je terecht?</p> \n<p>Bij Digitaal Vlaanderen, het digitaliseringsagentschap van de Vlaamse overheid.</p> \n<p>Wij helpen Vlaamse en lokale overheden bij hun digitale transformatie. Dat doen we door slimme digitale oplossingen te bouwen, van apps en platformen tot data- en beveiligingsoplossingen.</p> \n<p>We werken met de nieuwste technologieën, zijn pionier in AI en zetten sterk in op innovatie, duurzaamheid en inclusie. Kortom: een inspirerende plek om je carrière te starten.</p> \n<p>Je werkplek kan Brussel, Gent of deels thuis zijn. Werk je via de Partnerdienst Informatieveiligheid, dan kom je ook bij andere Vlaamse overheidsdiensten over de vloer.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Als startende of junior Information Security Officer zorg je mee voor de digitale veiligheid van de Vlaamse overheid. Je wordt stap voor stap ingewerkt door ervaren collega’s.</p> \n<p>Je zal onder andere:</p> \n<ul> \n<li>meewerken aan het opzetten en uitvoeren van het informatieveiligheidsbeleid;</li> \n<li>meebouwen aan risicoanalyses, beveiligingsplannen en incidentregistratie;</li> \n<li>leren hoe je risico’s opvolgt en rapporteert;</li> \n<li>betrokken worden bij projecten rond cybersecurity en bewustmaking;</li> \n<li>een aanspreekpunt worden voor collega’s en partners;</li> \n<li>meewerken aan opleidingen en documentatie rond informatieveiligheid.</li> </ul> \n<p>Je werkt volgens erkende standaarden (zoals ISO 27000) en draagt bij aan de implementatie van nieuwe richtlijnen zoals NIS2.</p> \n<p>Deze rol is ideaal voor wie graag bijleert, zelfstandig werkt en interesse heeft in IT‑beveiliging.</p>"
       },
       "locations": [
         {
