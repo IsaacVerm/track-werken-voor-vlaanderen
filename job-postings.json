@@ -1,11 +1,83 @@
 {
-  "totalItems": 121,
+  "totalItems": 122,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 120,
+  "lastItemOfPage": 121,
   "items": [
+    {
+      "link": "/Job/vdab-73519442",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Vlaanderen Connect.",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73519442",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Java developer met analytische vaardigheden (VDAB) via Vlaanderen connect"
+      },
+      "displayTitle": "Java developer met analytische vaardigheden (VDAB) via Vlaanderen connect",
+      "isProtected": false,
+      "description": {
+        "raw": "<p></p><p> </p><p>Bouw mee aan de digitale motor achter de Vlaamse arbeidsmarkt</p><p><strong>Wie zijn wij?</strong></p><p>Spreekt een job met echte maatschappelijke relevantie je aan? Bij team Elysion werk je niet aan de zoveelste commerciële app, maar aan applicaties die dagelijks duizenden burgers en werkgevers vooruithelpen.</p><p>Als Java Analist &amp; Developer combineer je het beste van twee werelden: je duikt in de functionele analyse om complexe processen te doorgronden, en vertaalt deze vervolgens naar robuuste, schaalbare Java-oplossingen. Je speelt een sleutelrol in twee van onze belangrijkste domeinen: Matching en API Management.<br>Jouw impact bij team Elysion: Binnen ons team vertalen we technologische innovatie naar tastbare resultaten. </p><p><strong>Wij zijn verantwoordelijk voor:</strong></p><p>Geavanceerde Matching: Je optimaliseert de Elise Matching Engine. Hiermee zorg je dat de juiste vacature en de juiste burger elkaar vinden—een van de absolute kerntaken van VDAB.<br>Modern API Management: Je beheert en configureert de IBM API Manager. Jij zorgt dat onze data veilig en vlot ontsloten wordt voor externe partners zoals werkgevers en uitzendkantoren.<br>Datadistributie &amp; GIS: Je ontwikkelt applicaties die burgerprofielen en vacaturedata ontsluiten en bouwt mee aan slimme GIS-oplossingen voor complexe reistijd- en bereikbaarheidsberekeningen.</p><p><strong>Wat mag je verwachten?</strong></p><p>Wij bouwen met een langetermijnvisie: duurzame software, een robuuste architectuur en kwalitatieve oplossingen. Tegelijk investeren we ook in een omgeving waarin jij je expertise verder kan ontwikkelen.</p><ol><li>Samenwerking: Je komt terecht in een multidisciplinair team met onder meer een teamleider, scrum master, architecten, lead developer en tester. Je werkt nauw samen met collega’s en staat er nooit alleen voor.</li><li>Groei en uitdaging: Deze functie biedt je de kans om je verder te verdiepen in Java-development, functionele analyse en API-architectuur binnen een complexe en maatschappelijk relevante context.</li><li>Ruimte voor initiatief: Je werkt in een omgeving waar kwaliteit, samenwerking en continue verbetering centraal staan, met aandacht voor eigen inbreng, initiatief en innovatie.</li></ol><p><strong>Waarom kiezen voor deze functie?</strong></p><p>Omdat je hier meer doet dan ontwikkelen alleen. Je versterkt niet alleen het team met je technische expertise, maar denkt ook mee na over functioneel sterke oplossingen. Je krijgt de kans om impact te maken op systemen die er echt toe doen — voor burgers, werkgevers en partners in heel Vlaanderen.</p><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p> </p><p>Bouw mee aan de digitale motor achter de Vlaamse arbeidsmarkt</p><p><strong>Wie zijn wij?</strong></p><p>Spreekt een job met echte maatschappelijke relevantie je aan? Bij team Elysion werk je niet aan de zoveelste commerciële app, maar aan applicaties die dagelijks duizenden burgers en werkgevers vooruithelpen.</p><p>Als Java Analist &amp; Developer combineer je het beste van twee werelden: je duikt in de functionele analyse om complexe processen te doorgronden, en vertaalt deze vervolgens naar robuuste, schaalbare Java-oplossingen. Je speelt een sleutelrol in twee van onze belangrijkste domeinen: Matching en API Management.<br>Jouw impact bij team Elysion: Binnen ons team vertalen we technologische innovatie naar tastbare resultaten. </p><p><strong>Wij zijn verantwoordelijk voor:</strong></p><p>Geavanceerde Matching: Je optimaliseert de Elise Matching Engine. Hiermee zorg je dat de juiste vacature en de juiste burger elkaar vinden—een van de absolute kerntaken van VDAB.<br>Modern API Management: Je beheert en configureert de IBM API Manager. Jij zorgt dat onze data veilig en vlot ontsloten wordt voor externe partners zoals werkgevers en uitzendkantoren.<br>Datadistributie &amp; GIS: Je ontwikkelt applicaties die burgerprofielen en vacaturedata ontsluiten en bouwt mee aan slimme GIS-oplossingen voor complexe reistijd- en bereikbaarheidsberekeningen.</p><p><strong>Wat mag je verwachten?</strong></p><p>Wij bouwen met een langetermijnvisie: duurzame software, een robuuste architectuur en kwalitatieve oplossingen. Tegelijk investeren we ook in een omgeving waarin jij je expertise verder kan ontwikkelen.</p><ol><li>Samenwerking: Je komt terecht in een multidisciplinair team met onder meer een teamleider, scrum master, architecten, lead developer en tester. Je werkt nauw samen met collega’s en staat er nooit alleen voor.</li><li>Groei en uitdaging: Deze functie biedt je de kans om je verder te verdiepen in Java-development, functionele analyse en API-architectuur binnen een complexe en maatschappelijk relevante context.</li><li>Ruimte voor initiatief: Je werkt in een omgeving waar kwaliteit, samenwerking en continue verbetering centraal staan, met aandacht voor eigen inbreng, initiatief en innovatie.</li></ol><p><strong>Waarom kiezen voor deze functie?</strong></p><p>Omdat je hier meer doet dan ontwikkelen alleen. Je versterkt niet alleen het team met je technische expertise, maar denkt ook mee na over functioneel sterke oplossingen. Je krijgt de kans om impact te maken op systemen die er echt toe doen — voor burgers, werkgevers en partners in heel Vlaanderen.</p><b><p></p>\n</b>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73514617",
+      "internal": false,
+      "validThroughDate": "1779148800",
+      "hiringOrganization": "VLAM",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73514617",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Junior Data & Insights Analist"
+      },
+      "displayTitle": "Junior Data & Insights Analist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Inzichten ontdekken in data\n<br>•Je verzamelt en analyseert data uit verschillende bronnen.\n<br>•Je gaat actief op zoek naar patronen, trends en verklaringen achter de cijfers.\n<br>•Je vertaalt cijfers naar heldere inzichten waar collega’s en stakeholders écht mee aan de slag kunnen.\n<br>•Je helpt mee om analyses te verwerken in rapporten, dashboards, presentaties en onderbouwde adviezen.\n<br>Meebouwen aan ons dataplatform, aan automatisering en AI\n<br>•Je werkt mee aan de uitbouw en optimalisatie van ons centrale dataplatform\n<br>•Je helpt databronnen samenbrengen en zorgt mee voor een vlotte, betrouwbare en kwalitatieve datastroom.\n<br>•Je denkt mee na over hoe we data efficiënter kunnen ontsluiten en gebruiken.\n<br>•Je verkent samen met collega’s hoe AI-technologie kan bijdragen aan efficiëntere werkprocessen, analyses en slimmere rapportering.</p> \n<p><br>Groeien in je rol\n<br>•Je krijgt de kans om inzichten te vertalen naar rapporten, presentaties en verhalen.\n<br>•Je leert hoe je data inzet in een strategische context, van analyse tot beleids- en campagnerelevante inzichten.\n<br>•Je krijgt de kans om je verder te verdiepen in dataplatformen, BI, automatisering en AI.\n<br>•Op termijn neem je een actievere rol op in het presenteren en begeleiden van projecten.</p>",
+        "htmlEncoded": "<p>Inzichten ontdekken in data\n<br>•Je verzamelt en analyseert data uit verschillende bronnen.\n<br>•Je gaat actief op zoek naar patronen, trends en verklaringen achter de cijfers.\n<br>•Je vertaalt cijfers naar heldere inzichten waar collega’s en stakeholders écht mee aan de slag kunnen.\n<br>•Je helpt mee om analyses te verwerken in rapporten, dashboards, presentaties en onderbouwde adviezen.\n<br>Meebouwen aan ons dataplatform, aan automatisering en AI\n<br>•Je werkt mee aan de uitbouw en optimalisatie van ons centrale dataplatform\n<br>•Je helpt databronnen samenbrengen en zorgt mee voor een vlotte, betrouwbare en kwalitatieve datastroom.\n<br>•Je denkt mee na over hoe we data efficiënter kunnen ontsluiten en gebruiken.\n<br>•Je verkent samen met collega’s hoe AI-technologie kan bijdragen aan efficiëntere werkprocessen, analyses en slimmere rapportering.</p> \n<p><br>Groeien in je rol\n<br>•Je krijgt de kans om inzichten te vertalen naar rapporten, presentaties en verhalen.\n<br>•Je leert hoe je data inzet in een strategische context, van analyse tot beleids- en campagnerelevante inzichten.\n<br>•Je krijgt de kans om je verder te verdiepen in dataplatformen, BI, automatisering en AI.\n<br>•Op termijn neem je een actievere rol op in het presenteren en begeleiden van projecten.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73507688",
       "internal": false,
@@ -988,7 +1060,7 @@
     {
       "link": "/Job/cornerstone-20429",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1778198400",
       "hiringOrganization": "Onroerend Erfgoed",
       "reservedForDisability": false,
       "openPositions": 1,
@@ -2029,8 +2101,8 @@
       "displayTitle": "Manager AI Engineering (VDAB) via Vlaanderen Connect",
       "isProtected": false,
       "description": {
-        "raw": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>",
-        "htmlEncoded": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en<br>innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt.<br>Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>"
+        "raw": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt. Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>",
+        "htmlEncoded": "<p></p><p>Bij VDAB geloven we dat data en artificiële intelligentie de motor zijn van een moderne arbeidsmarkt. VDAB heeft daarom een matuur AI Center of Excellence uitgebouwd, dat een centrale rol speelt in het vormgeven en<br>begeleiden van deze digitale evolutie.</p><p>Voor het AI CoE zoekt VDAB een Manager AI Engineering, die leiding geeft aan de meer technische profielen, en die de fundamenten van het AI Center of Excellence bewaakt en uitbouwt.</p><p>In deze rol leid je het technische hart van ons team: de data engineers en de experten die verantwoordelijk zijn voor de AI-infrastructuur. Je slaat de brug tussen innovatieve AI-experimenten en robuuste, schaalbare<br>productieomgevingen. Je zorgt ervoor dat onze data-oplossingen niet alleen technisch hoogstaand zijn, maar ook betrouwbaar en performant in een complexe cloud- en hybride architectuur.</p><p>VDAB is een voortrekker in het toepassen van artificiële intelligentie binnen de publieke sector en wil deze positie in de komende jaren verder versterken. Als manager AI Engineering kom je terecht in een vooruitstrevende en innovatieve omgeving waar je werkt met de meest recente technologieën en methodieken. Je krijgt de kans om AI-toepassingen te ontwikkelen die niet alleen technisch uitdagend zijn, maar ook een directe maatschappelijke meerwaarde creëren. De oplossingen die jij en je team realiseren, ondersteunen burgers in elke fase van hun loopbaan en dragen tastbaar bij aan een inclusieve, efficiënte en toekomstgerichte arbeidsmarkt. Kortom, deze rol biedt een unieke combinatie van technologische innovatie, strategische impact en maatschappelijke relevantie.</p><p><strong>Vaardigheden</strong></p><ul><li>Je hebt een Master of bent gelijkwaardig door ervaring</li><li>Je hebt affiniteit met AI, die zich niet beperkt tot Generatieve AI</li><li>Je hebt reeds een paar jaren ervaring in het leiden van een team</li></ul><b><p></p>\n</b>"
       },
       "locations": [
         {
@@ -2597,57 +2669,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20892",
-      "internal": false,
-      "validThroughDate": "1776297600",
-      "hiringOrganization": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
-      "reservedForDisability": false,
-      "openPositions": 3,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20892",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "3 Bemiddelaars regio Leuven"
-      },
-      "displayTitle": "3 Bemiddelaars regio Leuven",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong><font size=\"3\">Word bemiddelaar en maak het verschil!</font></strong></p><p>VDAB zoekt enthousiaste en\ngemotiveerde Bemiddelaars om ons team in de regio Leuven te versterken. Als\nBemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te\nschakelen op de arbeidsmarkt. <br><br>VDAB is een open en wendbare\norganisatie die anticipeert op maatschappelijke evoluties. We werken samen met\nexterne partners en lokale besturen aan een duurzame dienstverlening, gebaseerd\nop vertrouwen en gericht op het algemeen belang. <br><br>Om deze opdracht goed uit te\nvoeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. Een klant\nstart zijn/haar traject in een inschattingsteam. Dit team bepaalt een\nrealistisch jobdoelwit en maakt samen met de klant een plan van aanpak op. Is\nde afstand tot de arbeidsmarkt te groot dan kan de klant verder bemiddeld\nworden in een activeringsteam. Heeft de klant competentieversterking nodig of\nkan hij/zij bemiddeld worden op vacatures, dan komt de klant terecht in een\nmatchingsteam.<br><br>Geen zorgen! Je hoeft zelf nog\ngeen keuze te maken. Tijdens het jurygesprek zal blijken welke competenties je\nhebt en met welk profiel die een match vormen.</p><p>Ben je benieuwd naar de 3 profielen voor bemiddelaars? Kijk dan zeker in het selectiereglement in de bijlage!</p><br>",
-        "htmlEncoded": "<p><strong><font size=\"3\">Word bemiddelaar en maak het verschil!</font></strong></p><p>VDAB zoekt enthousiaste en\ngemotiveerde Bemiddelaars om ons team in de regio Leuven te versterken. Als\nBemiddelaar werk je mee aan de missie van VDAB om iedereen duurzaam in te\nschakelen op de arbeidsmarkt. <br><br>VDAB is een open en wendbare\norganisatie die anticipeert op maatschappelijke evoluties. We werken samen met\nexterne partners en lokale besturen aan een duurzame dienstverlening, gebaseerd\nop vertrouwen en gericht op het algemeen belang. <br><br>Om deze opdracht goed uit te\nvoeren werkt VDAB vanuit het traject dat een klant bij VDAB aflegt. Een klant\nstart zijn/haar traject in een inschattingsteam. Dit team bepaalt een\nrealistisch jobdoelwit en maakt samen met de klant een plan van aanpak op. Is\nde afstand tot de arbeidsmarkt te groot dan kan de klant verder bemiddeld\nworden in een activeringsteam. Heeft de klant competentieversterking nodig of\nkan hij/zij bemiddeld worden op vacatures, dan komt de klant terecht in een\nmatchingsteam.<br><br>Geen zorgen! Je hoeft zelf nog\ngeen keuze te maken. Tijdens het jurygesprek zal blijken welke competenties je\nhebt en met welk profiel die een match vormen.</p><p>Ben je benieuwd naar de 3 profielen voor bemiddelaars? Kijk dan zeker in het selectiereglement in de bijlage!</p><br>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Leuven"
-          }
-        },
-        {
-          "address": {
-            "city": "Diest"
-          }
-        },
-        {
-          "address": {
-            "city": "Tienen"
           }
         }
       ]
