@@ -1,10 +1,10 @@
 {
-  "totalItems": 112,
+  "totalItems": 113,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 111,
+  "lastItemOfPage": 112,
   "items": [
     {
       "link": "/Job/cornerstone-20894",
@@ -79,6 +79,39 @@
         {
           "address": {
             "city": "Herentals"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20779",
+      "internal": false,
+      "validThroughDate": "1778371200",
+      "hiringOrganization": "Departement Zorg",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Management",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20779",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider (PMO)"
+      },
+      "displayTitle": "Projectleider (PMO)",
+      "isProtected": false,
+      "description": {
+        "raw": "Wil jij mee vorm geven aan veranderingen in een maatschappelijk relevante context? Ben jij iemand die graag structuur brengt in complexiteit en energie krijgt van samenwerken over grenzen heen? Lukt het jou om mensen mee te nemen in veranderingen en tot resultaat te komen? Dan is de functie van projectleider PMO iets voor jou.<br><br>Je komt terecht in het team Organisatieontwikkeling, waar we bouwen aan een sterke, wendbare organisatie. Als projectleider PMO werk je mee aan het uitbouwen van een mature projectwerking. Je neem zelf het voortouw in grotere of complexere projecten en je ondersteunt andere projectleiders.&nbsp;<br><br>Andere opdrachten van het team zijn organisatiebeheersing (vb. proces- en risicomanagement, doelstellingenmanagement) en organisatieontwikkeling (vb. versterken van teams en leidinggevenden). Het team maakt deel uit van de afdeling Organisatie waar ook HR, begroting, boekhouding en facilitair beheer worden opgenomen.<br><br><br>",
+        "htmlEncoded": "Wil jij mee vorm geven aan veranderingen in een maatschappelijk relevante context? Ben jij iemand die graag structuur brengt in complexiteit en energie krijgt van samenwerken over grenzen heen? Lukt het jou om mensen mee te nemen in veranderingen en tot resultaat te komen? Dan is de functie van projectleider PMO iets voor jou.<br><br>Je komt terecht in het team Organisatieontwikkeling, waar we bouwen aan een sterke, wendbare organisatie. Als projectleider PMO werk je mee aan het uitbouwen van een mature projectwerking. Je neem zelf het voortouw in grotere of complexere projecten en je ondersteunt andere projectleiders.&nbsp;<br><br>Andere opdrachten van het team zijn organisatiebeheersing (vb. proces- en risicomanagement, doelstellingenmanagement) en organisatieontwikkeling (vb. versterken van teams en leidinggevenden). Het team maakt deel uit van de afdeling Organisatie waar ook HR, begroting, boekhouding en facilitair beheer worden opgenomen.<br><br><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
