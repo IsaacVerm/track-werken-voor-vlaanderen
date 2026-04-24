@@ -1,11 +1,144 @@
 {
-  "totalItems": 124,
+  "totalItems": 125,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 123,
+  "lastItemOfPage": 124,
   "items": [
+    {
+      "link": "/Job/cornerstone-20872",
+      "internal": false,
+      "validThroughDate": "1778630400",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20872",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator dataverwerking en -analyse"
+      },
+      "displayTitle": "Coördinator dataverwerking en -analyse",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Onder het motto <strong>'Samen versterken we de open ruimte'</strong> maakt de Vlaamse Landmaatschappij (VLM) werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland.&nbsp;Het <strong>Stikstofdecreet</strong> speelt een belangrijke rol in het kader van deze uitdagingen. Het ligt aan de basis van de versnelde en verruimde invoering van de nulbemesting in de groene ruimtelijke bestemmingen binnen de Speciale beschermingszone Habitatrichtlijngebied (SBZ-H). Landbouwers hebben recht op een flankerend beleid bestaande uit o.a. een forfaitaire compensatievergoeding en eventueel een vergoeding voor terreininvesteringen.</p><p>De <strong>dienst Dataverwerking en Analyse</strong> van de <strong>afdeling Mestbank</strong>, in de centrale directie van VLM, is verantwoordelijk voor de uitwerking van het bemestingsverbod en de compensatievergoeding.</p><p>Als coördinator dataverwerking &amp; -analyse ziet je takenpakket er o.a. als volgt uit:</p><ul><li>Coördineren van de samenwerking met de IT-afdeling en de regionale afdelingen.</li><li>Definiëren van noden om samen met de IT-afdeling een structurele beheertoepassing en productieomgeving uit te bouwen om de nulbemestingsregeling te beheren.</li><li>Inkantelen en uitfaseren van de huidige Access-tabellen en rapporten in de productieomgeving.</li><li>Vanuit businesskant mee helpen uitbouwen van een dataplatform in de cloud omgeving (Azure) gebruikmakend van Fabric, opmaken en schedulen van pipelines, meewerken aan het verwerken, opschonen en analyseren van datasets uit andere bronnen (verzamelaanvraag, vervoersdata, …).</li><li>Werken met SQL, PowerBi en Python voor database management, semantische modellen en ETL processen.</li><li>Uitvoeren van data-analyses en data-visualisaties.</li><li>Verzorgen van statistische rapporteringen i.k.v. voortgangsrapportering, parlementaire vragen, maar ook overzichtsrapporten voor de landbouwers op het Mestbankloket, …</li></ul><p>Haal jij energie uit samenwerken en uit het coördineren van dataprocessen? Heb je ervaring met een cloud omgeving en met datascience technieken? En beschik jij reeds over enige kennis van het Mestdecreet of ben je bereid om je deze kennis eigen te maken? Dan ben jij misschien wel de collega die we zoeken!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Onder het motto <strong>'Samen versterken we de open ruimte'</strong> maakt de Vlaamse Landmaatschappij (VLM) werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland.&nbsp;Het <strong>Stikstofdecreet</strong> speelt een belangrijke rol in het kader van deze uitdagingen. Het ligt aan de basis van de versnelde en verruimde invoering van de nulbemesting in de groene ruimtelijke bestemmingen binnen de Speciale beschermingszone Habitatrichtlijngebied (SBZ-H). Landbouwers hebben recht op een flankerend beleid bestaande uit o.a. een forfaitaire compensatievergoeding en eventueel een vergoeding voor terreininvesteringen.</p><p>De <strong>dienst Dataverwerking en Analyse</strong> van de <strong>afdeling Mestbank</strong>, in de centrale directie van VLM, is verantwoordelijk voor de uitwerking van het bemestingsverbod en de compensatievergoeding.</p><p>Als coördinator dataverwerking &amp; -analyse ziet je takenpakket er o.a. als volgt uit:</p><ul><li>Coördineren van de samenwerking met de IT-afdeling en de regionale afdelingen.</li><li>Definiëren van noden om samen met de IT-afdeling een structurele beheertoepassing en productieomgeving uit te bouwen om de nulbemestingsregeling te beheren.</li><li>Inkantelen en uitfaseren van de huidige Access-tabellen en rapporten in de productieomgeving.</li><li>Vanuit businesskant mee helpen uitbouwen van een dataplatform in de cloud omgeving (Azure) gebruikmakend van Fabric, opmaken en schedulen van pipelines, meewerken aan het verwerken, opschonen en analyseren van datasets uit andere bronnen (verzamelaanvraag, vervoersdata, …).</li><li>Werken met SQL, PowerBi en Python voor database management, semantische modellen en ETL processen.</li><li>Uitvoeren van data-analyses en data-visualisaties.</li><li>Verzorgen van statistische rapporteringen i.k.v. voortgangsrapportering, parlementaire vragen, maar ook overzichtsrapporten voor de landbouwers op het Mestbankloket, …</li></ul><p>Haal jij energie uit samenwerken en uit het coördineren van dataprocessen? Heb je ervaring met een cloud omgeving en met datascience technieken? En beschik jij reeds over enige kennis van het Mestdecreet of ben je bereid om je deze kennis eigen te maken? Dan ben jij misschien wel de collega die we zoeken!</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20826",
+      "internal": false,
+      "validThroughDate": "1778544000",
+      "hiringOrganization": "Vlaamse Milieumaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20826",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Adviesverleners Water"
+      },
+      "displayTitle": "Adviesverleners Water",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee zorgen voor proper en toekomstbestendig water in Vlaanderen? Heb je een scherpe analytische blik en wil je met jouw expertise écht impact maken? Dan is deze functie bij de Vlaamse Milieumaatschappij (VMM) iets voor jou.<br><br>De VMM zoekt <strong>twee adviesverleners Water</strong> die bijdragen aan een duurzaam en klimaatbestendig watersysteem. In deze rol beoordeel je vergunningsaanvragen en plannen met impact op - oppervlaktewater, en formuleer je heldere, onderbouwde adviezen.&nbsp;<br><br>Daarnaast speel je een sleutelrol in de uitvoering van de Kaderrichtlijn Water, waarbij je bestaande vergunningen van bedrijven evalueert en waar nodig helpt bijsturen.<br><br>Je werkt inhoudelijk sterk, denkt oplossingsgericht en gaat constructief in dialoog met bedrijven en collega’s. Dat doe je in een klein, hecht team waar kennisdeling en samenwerking centraal staan, vanuit één van onze locaties in Leuven, Mechelen, Aalst, Gent, of Oostende.</p><p><strong>Waarom werken bij de VMM?</strong><br>Met jouw werk draag je rechtstreeks bij aan de missie van de Vlaamse Milieumaatschappij:</p><ul><li>proper, aantrekkelijk en voldoende water voor huidige en toekomstige generaties;</li><li>gezonde lucht;</li><li>een sterke onderbouwing van klimaatadaptatie.</li></ul><p>Je maakt deel uit van een organisatie die zich profileert als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving, met ruimte voor expertise, samenwerking en maatschappelijke impact.<br><br>Wil jij mee het verschil maken? Dan kijken we uit naar jouw kandidatuur.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Wil jij mee zorgen voor proper en toekomstbestendig water in Vlaanderen? Heb je een scherpe analytische blik en wil je met jouw expertise écht impact maken? Dan is deze functie bij de Vlaamse Milieumaatschappij (VMM) iets voor jou.<br><br>De VMM zoekt <strong>twee adviesverleners Water</strong> die bijdragen aan een duurzaam en klimaatbestendig watersysteem. In deze rol beoordeel je vergunningsaanvragen en plannen met impact op - oppervlaktewater, en formuleer je heldere, onderbouwde adviezen.&nbsp;<br><br>Daarnaast speel je een sleutelrol in de uitvoering van de Kaderrichtlijn Water, waarbij je bestaande vergunningen van bedrijven evalueert en waar nodig helpt bijsturen.<br><br>Je werkt inhoudelijk sterk, denkt oplossingsgericht en gaat constructief in dialoog met bedrijven en collega’s. Dat doe je in een klein, hecht team waar kennisdeling en samenwerking centraal staan, vanuit één van onze locaties in Leuven, Mechelen, Aalst, Gent, of Oostende.</p><p><strong>Waarom werken bij de VMM?</strong><br>Met jouw werk draag je rechtstreeks bij aan de missie van de Vlaamse Milieumaatschappij:</p><ul><li>proper, aantrekkelijk en voldoende water voor huidige en toekomstige generaties;</li><li>gezonde lucht;</li><li>een sterke onderbouwing van klimaatadaptatie.</li></ul><p>Je maakt deel uit van een organisatie die zich profileert als een oplossingsgerichte partner voor een klimaatbestendige leefomgeving, met ruimte voor expertise, samenwerking en maatschappelijke impact.<br><br>Wil jij mee het verschil maken? Dan kijken we uit naar jouw kandidatuur.</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Aalst"
+          }
+        },
+        {
+          "address": {
+            "city": "Gent"
+          }
+        },
+        {
+          "address": {
+            "city": "Leuven"
+          }
+        },
+        {
+          "address": {
+            "city": "Mechelen"
+          }
+        },
+        {
+          "address": {
+            "city": "Oostende"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20550",
+      "internal": false,
+      "validThroughDate": "1778544000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 2,
+      "domain": "Human resources",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20550",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Vormingscoördinator"
+      },
+      "displayTitle": "Vormingscoördinator",
+      "isProtected": false,
+      "description": {
+        "raw": "<div>Verbinder, organisator, sparringpartner: als vormingscoördinator zorg je ervoor dat medewerkers in de gesloten gemeenschapsinstellingen blijven leren en groeien. Je brengt hun vormingsnoden in kaart, stelt een vormingsplan op en zorgt dat opleidingen ook echt iets veranderen op de werkvloer.<br><br>Je werkt voor de gemeenschapsinstellingen De Grubbe of De Zande. Je gaat in gesprek met teams, leidinggevenden en collega’s. Wat hebben medewerkers nodig? Welke kennis of vaardigheden missen ze nog? Je vertaalt die signalen en beleidsdoelen naar een sterk vormingsaanbod.<br><br>Je zoekt opleidingen die aansluiten bij de noden van de instellingen. Sommige organiseer je met interne trainers, voor andere schakel je externe opleidingsverstrekkers in. Je maakt events aan in Vlimpers Leren, volgt inschrijvingen en budgetten op en stemt af met de andere gemeenschapsinstellingen. Zo groeit een los aanbod uit tot een sterk en samenhangend geheel.<br><br>Hoe een gemiddelde dag eruitziet? Dat bepaal je grotendeels zelf. Je overlegt met een team over hun vormingsnoden, zoekt een opleiding, spreekt af met een lesgever of trekt rapporten uit Vlimpers Leren. Je volgt ook op wat opleidingen opleveren. Hebben medewerkers iets bijgeleerd? Gebruiken ze dat ook in hun werk? Zo stuur je het aanbod bij waar nodig.<br><br>Voor deze job heb je een scherpe blik en sterke communicatieve vaardigheden nodig. Je luistert goed, legt vlot verbanden en voelt snel aan wat mensen nodig hebben. Jouw eigen ervaring in het werkveld verschaft het nodige inzicht en voeling met de noden van de medewerkers.<br><br>Wil je mee zorgen dat medewerkers sterker in hun job staan, zodat jongeren betere kansen krijgen? Het Agentschap Justitie en Handhaving verwelkomt je graag. Lees hieronder alles over deze vacature en stel je kandidaat.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
+        "htmlEncoded": "<div>Verbinder, organisator, sparringpartner: als vormingscoördinator zorg je ervoor dat medewerkers in de gesloten gemeenschapsinstellingen blijven leren en groeien. Je brengt hun vormingsnoden in kaart, stelt een vormingsplan op en zorgt dat opleidingen ook echt iets veranderen op de werkvloer.<br><br>Je werkt voor de gemeenschapsinstellingen De Grubbe of De Zande. Je gaat in gesprek met teams, leidinggevenden en collega’s. Wat hebben medewerkers nodig? Welke kennis of vaardigheden missen ze nog? Je vertaalt die signalen en beleidsdoelen naar een sterk vormingsaanbod.<br><br>Je zoekt opleidingen die aansluiten bij de noden van de instellingen. Sommige organiseer je met interne trainers, voor andere schakel je externe opleidingsverstrekkers in. Je maakt events aan in Vlimpers Leren, volgt inschrijvingen en budgetten op en stemt af met de andere gemeenschapsinstellingen. Zo groeit een los aanbod uit tot een sterk en samenhangend geheel.<br><br>Hoe een gemiddelde dag eruitziet? Dat bepaal je grotendeels zelf. Je overlegt met een team over hun vormingsnoden, zoekt een opleiding, spreekt af met een lesgever of trekt rapporten uit Vlimpers Leren. Je volgt ook op wat opleidingen opleveren. Hebben medewerkers iets bijgeleerd? Gebruiken ze dat ook in hun werk? Zo stuur je het aanbod bij waar nodig.<br><br>Voor deze job heb je een scherpe blik en sterke communicatieve vaardigheden nodig. Je luistert goed, legt vlot verbanden en voelt snel aan wat mensen nodig hebben. Jouw eigen ervaring in het werkveld verschaft het nodige inzicht en voeling met de noden van de medewerkers.<br><br>Wil je mee zorgen dat medewerkers sterker in hun job staan, zodat jongeren betere kansen krijgen? Het Agentschap Justitie en Handhaving verwelkomt je graag. Lees hieronder alles over deze vacature en stel je kandidaat.<br><br>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Beernem"
+          }
+        },
+        {
+          "address": {
+            "city": "Everberg"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/vdab-73558482",
       "internal": false,
@@ -2372,42 +2505,6 @@
       ]
     },
     {
-      "link": "/Job/cornerstone-20995",
-      "internal": false,
-      "validThroughDate": "1776902400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20995",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Buffer - Lembeek"
-      },
-      "displayTitle": "Scheepvaartbegeleider Buffer - Lembeek",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen\nen/of beweegbare bruggen vanuit de/een centrale. Je volgt al het\nscheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de\npleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit\nwaterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met\nraad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want\niedere vracht op het water staat niet in de file op onze overvolle wegen. <br><br>In tegenstelling tot de functie van Scheepvaartbegeleider,\nwerk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen\nin combinatie met een heel flexibel dienstrooster, hetzij op één standplaats\nmaar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van\ncollega's.<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op\nbasis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan\nwaterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden\ntegen droogte en wateroverlast.<br><br>Ook administratieve taken behoren tot jouw takenpakket.\nJe houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het\nscheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke\nschepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te\nnoteren, kunnen wij op jou rekenen.<br><br>Werk je graag in een team? Dan is dit de functie die je\nzoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Als Scheepvaartbegeleider Buffer bedien je jouw sluizen\nen/of beweegbare bruggen vanuit de/een centrale. Je volgt al het\nscheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de\npleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit\nwaterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met\nraad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want\niedere vracht op het water staat niet in de file op onze overvolle wegen. <br><br>In tegenstelling tot de functie van Scheepvaartbegeleider,\nwerk je als Scheepvaartbegeleider Buffer hetzij op verschillende standplaatsen\nin combinatie met een heel flexibel dienstrooster, hetzij op één standplaats\nmaar wel met een heel flexibel dienstrooster. Je vangt daar diensten op van\ncollega's.<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op\nbasis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan\nwaterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden\ntegen droogte en wateroverlast.<br><br>Ook administratieve taken behoren tot jouw takenpakket.\nJe houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het\nscheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke\nschepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te\nnoteren, kunnen wij op jou rekenen.<br><br>Werk je graag in een team? Dan is dit de functie die je\nzoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Halle"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20992",
       "internal": false,
       "validThroughDate": "1776988800",
@@ -2439,42 +2536,6 @@
         {
           "address": {
             "city": "Hasselt"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20991",
-      "internal": false,
-      "validThroughDate": "1776902400",
-      "hiringOrganization": "De Vlaamse Waterweg",
-      "reservedForDisability": false,
-      "openPositions": 2,
-      "domain": "Logistiek en transport",
-      "degreeLevel": {
-        "code": "D",
-        "name": "Geen specifieke studievereisten"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20991",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Scheepvaartbegeleider Rijkevorsel"
-      },
-      "displayTitle": "Scheepvaartbegeleider Rijkevorsel",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als&nbsp;Scheepvaartbegeleider&nbsp;bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>",
-        "htmlEncoded": "<p>Als&nbsp;Scheepvaartbegeleider&nbsp;bedien je jouw sluizen en/of beweegbare bruggen vanuit de/een centrale. Je volgt al het scheepvaartverkeer op dat er passeert. Je begeleidt niet alleen de pleziervaart, maar ook de professionele binnenvaart. Aan jou de taak om dit waterverkeer vlot en veilig te laten verlopen. Daarvoor sta jij schippers met raad en daad bij. Zo zorg jij voor een betere mobiliteit in Vlaanderen, want iedere vracht op het water staat niet in de file op onze overvolle wegen.&nbsp;&nbsp;<br><br>Je volgt ook dagelijks de waterstanden en debieten op. Op basis van de gegevens die jij verzamelt, kan De Vlaamse Waterweg aan waterbeheersing doen. Zo beschermen we Vlaanderen én jouw familie en vrienden tegen droogte en wateroverlast.&nbsp;<br><br>Ook administratieve taken behoren tot jouw takenpakket. Je houdt registers bij over het afgehandelde scheepvaartverkeer. Want om het scheepvaartverkeer te monitoren, is het belangrijk om te weten wanneer welke schepen bij jou gepasseerd zijn. Ook voor andere rapporten of om klachten te noteren, kunnen wij op jou rekenen.&nbsp;<br><br>Werk je graag in een team? Dan is dit de functie die je zoekt!</p><p>Bekijk zeker <a href=\"https://vimeo.com/822005529\">deze video</a>&nbsp;om wat meer\nte leren over De Vlaamse Waterweg.&nbsp;</p><p>Ben je geboeid door deze vacature? Wil je meer te weten\nkomen over werken bij De Vlaamse Waterweg? Surf dan naar <a href=\"www.vlaamsewaterweg.be/werkenbij\">www.vlaamsewaterweg.be/werkenbij</a>.\nWist je trouwens dat we sluizen en beweegbare bruggen ook ‘kunstwerken’ noemen?\nZiezo, je eerste vakterm ken je al.</p><p>&nbsp;</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Rijkevorsel"
           }
         }
       ]
