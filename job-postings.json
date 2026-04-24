@@ -1,11 +1,155 @@
 {
-  "totalItems": 125,
+  "totalItems": 129,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 124,
+  "lastItemOfPage": 128,
   "items": [
+    {
+      "link": "/Job/vdab-73569525",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Natuurinvest",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73569525",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider natuurherstel Limburg in VAC Hasselt"
+      },
+      "displayTitle": "Projectleider natuurherstel Limburg in VAC Hasselt",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong>Jouw taken en verantwoordelijkheden</strong></p> \n<p><strong>1</strong>. \n<strong>Projectondersteuning &amp; procesbegeleiding</strong></p> \n<ul> \n<li>Je vertegenwoordigt het Agentschap voor Natuur en Bos in complexe gebiedsprocessen binnen o.a. Mechelse Heide en Voeren.</li> \n<li>Je volgt lokale gebiedsprocessen op, brengt daarin de natuurdoelen in en werkt zelf procesaanpakken en voorstellen voor inzet instrumenten uit.</li> \n<li>Je volgt deelopdrachten op, verzamelt informatie en zorgt voor goede interne afstemming.</li> \n<li>Je groeit stap voor stap in verantwoordelijkheid, afhankelijk van je ervaring.</li> </ul> \n<p><strong>2. Coördinatie van onderzoeken</strong></p> \n<ul> \n<li>Je helpt bij de voorbereiding en opvolging van studieopdrachten (ecologie, ecohydrologie, vegetatieonderzoek, scenario‑studies).</li> \n<li>Je werkt samen met terreinbeheerders, planners en adviseurs binnen het Agentschap voor Natuur en Bos.</li> </ul> \n<p><strong>3. Planning en rapportering</strong></p> \n<ul> \n<li>Je initieert, plant en ontwikkelt projecten volgens de prioritaire taakstelling.</li> \n<li>Je volgt voortgang op via projectoverzichten, risico‑analyses en jaarplanningen.</li> \n<li>Je koppelt terug aan beleid en ondersteunt het overschrijdend projectteam rond stikstofherstel.</li> </ul> \n<p><strong>4. Communicatie</strong></p> \n<ul> \n<li>Je neemt deel aan overleggen met partners (gemeenten, provincie Limburg, VLM, VMM, lokale actoren, landbouworganisaties etc.).</li> \n<li>Je leert omgaan met weerstand en belangentegenstellingen, onder begeleiding van ervaren collega’s.</li> \n<li>Communicatie staat centraal: helder, open en respectvol.</li> </ul> \n<p><strong>5. Inhoudelijke Expertise &amp; Kwaliteitsborging</strong></p> \n<ul> \n<li>Je bouwt expertise op rond ecosysteemherstel in heide‑, ven‑ en bosgebieden.</li> \n<li>Je zorgt voor kennisdeling binnen het team en in de gebiedsprocessen.</li> \n<li>Je waakt over onderbouwde, realistische en nuchtere besluitvorming: feiten van fabels onderscheiden is essentieel.</li> </ul>",
+        "htmlEncoded": "<p><strong>Jouw taken en verantwoordelijkheden</strong></p> \n<p><strong>1</strong>. \n<strong>Projectondersteuning &amp; procesbegeleiding</strong></p> \n<ul> \n<li>Je vertegenwoordigt het Agentschap voor Natuur en Bos in complexe gebiedsprocessen binnen o.a. Mechelse Heide en Voeren.</li> \n<li>Je volgt lokale gebiedsprocessen op, brengt daarin de natuurdoelen in en werkt zelf procesaanpakken en voorstellen voor inzet instrumenten uit.</li> \n<li>Je volgt deelopdrachten op, verzamelt informatie en zorgt voor goede interne afstemming.</li> \n<li>Je groeit stap voor stap in verantwoordelijkheid, afhankelijk van je ervaring.</li> </ul> \n<p><strong>2. Coördinatie van onderzoeken</strong></p> \n<ul> \n<li>Je helpt bij de voorbereiding en opvolging van studieopdrachten (ecologie, ecohydrologie, vegetatieonderzoek, scenario‑studies).</li> \n<li>Je werkt samen met terreinbeheerders, planners en adviseurs binnen het Agentschap voor Natuur en Bos.</li> </ul> \n<p><strong>3. Planning en rapportering</strong></p> \n<ul> \n<li>Je initieert, plant en ontwikkelt projecten volgens de prioritaire taakstelling.</li> \n<li>Je volgt voortgang op via projectoverzichten, risico‑analyses en jaarplanningen.</li> \n<li>Je koppelt terug aan beleid en ondersteunt het overschrijdend projectteam rond stikstofherstel.</li> </ul> \n<p><strong>4. Communicatie</strong></p> \n<ul> \n<li>Je neemt deel aan overleggen met partners (gemeenten, provincie Limburg, VLM, VMM, lokale actoren, landbouworganisaties etc.).</li> \n<li>Je leert omgaan met weerstand en belangentegenstellingen, onder begeleiding van ervaren collega’s.</li> \n<li>Communicatie staat centraal: helder, open en respectvol.</li> </ul> \n<p><strong>5. Inhoudelijke Expertise &amp; Kwaliteitsborging</strong></p> \n<ul> \n<li>Je bouwt expertise op rond ecosysteemherstel in heide‑, ven‑ en bosgebieden.</li> \n<li>Je zorgt voor kennisdeling binnen het team en in de gebiedsprocessen.</li> \n<li>Je waakt over onderbouwde, realistische en nuchtere besluitvorming: feiten van fabels onderscheiden is essentieel.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73569371",
+      "internal": false,
+      "validThroughDate": "-1",
+      "hiringOrganization": "Natuurinvest",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73569371",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Projectleider natuurherstel Antwerpen in VAC Antwerpen"
+      },
+      "displayTitle": "Projectleider natuurherstel Antwerpen in VAC Antwerpen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Jouw taken en verantwoordelijkheden</p> \n<p>Voor deze opdracht zoekt Natuurinvest, in opdracht van het Agentschap voor Natuur en Bos, een \n<strong>senior projectleider natuurherstel</strong> voor de regio Antwerpen. Je werkt nauw samen met collega’s binnen het stikstofteam (4 collega’s), de intendant en verschillende gebiedsteams.</p> \n<p><strong>1. Regie &amp; Projectsturing</strong></p> \n<ul> \n<li>Je vertegenwoordigt het Agentschap voor Natuur en Bos in complexe gebiedsprocessen binnen o.a. maatwerkgebieden Turnhouts Vennengebied en Kalmthoutse Heide en N2000-gebieden Heesbossen en Kleine Nete.</li> \n<li>Je bewaakt de kwaliteit, planning en budgetten van de PAS‑herstelprojecten.</li> \n<li>Je denkt conceptueel mee over ecosysteemherstel en implementeert beleidskaders en Europese natuurdoelen (stikstofdecreet, maatwerkgebieden, PASherstel).</li> \n<li>Je houdt overzicht over verschillende parallelle sporen in een vaak politiek en maatschappelijk gevoelig landschap.</li> </ul> \n<p><strong>2. Coördinatie van uitvoering</strong></p> \n<ul> \n<li>Je stuurt studieopdrachten aan, begeleidt onderzoeken (ecohydrologisch, ecologisch, ruimtelijk) en zorgt voor kwaliteitsvolle resultaten.</li> \n<li>Je stemt af met beheerplanners, AVES-adviseurs en terreinbeheerders.</li> \n<li>Je vormt een tandem met jouw leidinggevende, maar stuurt geen mensen aan</li> </ul> \n<p><strong> </strong><strong>3. Projectplanning &amp; Werkpakketten</strong></p> \n<ul> \n<li>Je initieert, plant en ontwikkelt projecten volgens de prioritaire taakstelling.</li> \n<li>Je volgt voortgang op via projectoverzichten, risico‑analyses en jaarplanningen.</li> \n<li>Je koppelt terug aan beleid en ondersteunt de werking van het entiteitsoverschrijdend overschrijdend projectteam rond stikstofherstel waarin ook andere Vlaamse entiteiten vertegenwoordigd zijn.</li> </ul> \n<p><strong> </strong><strong>4. Stakeholdermanagement</strong></p> \n<ul> \n<li>Je gaat constructief in dialoog met partners zoals provincies, VLM, VMM, lokale besturen, landbouworganisaties, natuurverenigingen en bewoners.</li> \n<li>Met jouw sterke EQ, maturiteit en communicatieve vaardigheden kan je omgaan met weerstand, polarisatie en gevoeligheden.</li> \n<li>Je communiceert transparant over keuzes, timing en uitdagingen.</li> </ul> \n<p><strong> </strong><strong>5. Inhoudelijke Expertise &amp; Kwaliteitsborging</strong></p> \n<ul> \n<li>Je bouwt expertise op rond ecosysteemherstel in heide, ven en bosgebieden en borgt deze kennis ook specifiek voor de gebieden waarbinnen je actief bent.</li> \n<li>Je zorgt voor kennisdeling binnen het team en in de gebiedsprocessen.</li> \n<li>Je waakt over onderbouwde, realistische en nuchtere besluitvorming: feiten van fabels onderscheiden is essentieel.</li> </ul>",
+        "htmlEncoded": "<p>Jouw taken en verantwoordelijkheden</p> \n<p>Voor deze opdracht zoekt Natuurinvest, in opdracht van het Agentschap voor Natuur en Bos, een \n<strong>senior projectleider natuurherstel</strong> voor de regio Antwerpen. Je werkt nauw samen met collega’s binnen het stikstofteam (4 collega’s), de intendant en verschillende gebiedsteams.</p> \n<p><strong>1. Regie &amp; Projectsturing</strong></p> \n<ul> \n<li>Je vertegenwoordigt het Agentschap voor Natuur en Bos in complexe gebiedsprocessen binnen o.a. maatwerkgebieden Turnhouts Vennengebied en Kalmthoutse Heide en N2000-gebieden Heesbossen en Kleine Nete.</li> \n<li>Je bewaakt de kwaliteit, planning en budgetten van de PAS‑herstelprojecten.</li> \n<li>Je denkt conceptueel mee over ecosysteemherstel en implementeert beleidskaders en Europese natuurdoelen (stikstofdecreet, maatwerkgebieden, PASherstel).</li> \n<li>Je houdt overzicht over verschillende parallelle sporen in een vaak politiek en maatschappelijk gevoelig landschap.</li> </ul> \n<p><strong>2. Coördinatie van uitvoering</strong></p> \n<ul> \n<li>Je stuurt studieopdrachten aan, begeleidt onderzoeken (ecohydrologisch, ecologisch, ruimtelijk) en zorgt voor kwaliteitsvolle resultaten.</li> \n<li>Je stemt af met beheerplanners, AVES-adviseurs en terreinbeheerders.</li> \n<li>Je vormt een tandem met jouw leidinggevende, maar stuurt geen mensen aan</li> </ul> \n<p><strong> </strong><strong>3. Projectplanning &amp; Werkpakketten</strong></p> \n<ul> \n<li>Je initieert, plant en ontwikkelt projecten volgens de prioritaire taakstelling.</li> \n<li>Je volgt voortgang op via projectoverzichten, risico‑analyses en jaarplanningen.</li> \n<li>Je koppelt terug aan beleid en ondersteunt de werking van het entiteitsoverschrijdend overschrijdend projectteam rond stikstofherstel waarin ook andere Vlaamse entiteiten vertegenwoordigd zijn.</li> </ul> \n<p><strong> </strong><strong>4. Stakeholdermanagement</strong></p> \n<ul> \n<li>Je gaat constructief in dialoog met partners zoals provincies, VLM, VMM, lokale besturen, landbouworganisaties, natuurverenigingen en bewoners.</li> \n<li>Met jouw sterke EQ, maturiteit en communicatieve vaardigheden kan je omgaan met weerstand, polarisatie en gevoeligheden.</li> \n<li>Je communiceert transparant over keuzes, timing en uitdagingen.</li> </ul> \n<p><strong> </strong><strong>5. Inhoudelijke Expertise &amp; Kwaliteitsborging</strong></p> \n<ul> \n<li>Je bouwt expertise op rond ecosysteemherstel in heide, ven en bosgebieden en borgt deze kennis ook specifiek voor de gebieden waarbinnen je actief bent.</li> \n<li>Je zorgt voor kennisdeling binnen het team en in de gebiedsprocessen.</li> \n<li>Je waakt over onderbouwde, realistische en nuchtere besluitvorming: feiten van fabels onderscheiden is essentieel.</li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21102",
+      "internal": false,
+      "validThroughDate": "1778457600",
+      "hiringOrganization": "Opgroeien regie",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21102",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker kinderopvang"
+      },
+      "displayTitle": "Beleidsmedewerker kinderopvang",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Als&nbsp;<strong>beleidsmedewerker Kinderopvang&nbsp;</strong>werk je in het team beleidsimplementatie. Je staat voornamelijk in voor&nbsp;beleidsimplementatie en uitvoering van het beleid&nbsp;rond de kinderopvangvoorzieningen.&nbsp;<br>Als beleidsmedewerker ben je op de hoogte van de verwachtingen en noden, zowel intern als extern, die aan deze voorzieningen worden gesteld. Je past je hierop aan en bouwt hierop verdere expertise.&nbsp;Hiervoor werkt het team samen met Vlaamse teams, Kind en Gezin-teams en met kinderopvangvoorzieningen zelf.</p><p><strong>Context?</strong><br>De Vlaamse Regering keurde in 2025 een masterplan goed voor de kinderopvang, waarbij de focus ligt op de 3 P’s:&nbsp;</p><ul><li>Plaatsen: versterken van het bestaand aanbod en uitbreiding van het aanbod</li><li>Prijs: hervormen van het inkomenstarief</li><li>Personeel: Meer en beter ondersteund personeel</li></ul><p>Dit masterplan is in volle uitwerking en we zoeken een beleidsmedewerker die mee uitvoering geeft aan de realisatie van dit masterplan.<br>De focus zal in eerste instantie vooral liggen op de concrete uitvoering van het uitbreidingsbeleid: het uitwerken van beslissingskaders, het behandelen van aanvraagdossiers en het mee uitwerken van beslissingsvoorstellen.</p><p><strong>Wat houdt de functie in?&nbsp;</strong><br>Als beleidsmedewerker kinderopvang werk je over de&nbsp;volledige beleidscyclus&nbsp;heen. Je:</p><ul><li>bereidt beleid voor en ontwikkelt het verder op basis van signalen uit onderzoek, monitoring en praktijk;</li><li>werkt mee aan beleidsvoorstellen, nota’s, projecten en werkgroepen;</li><li>gaat in dialoog met voorzieningen, koepelorganisaties en partners en bouwt actief aan draagvlak;</li><li>ondersteunt en volgt de implementatie van beleidslijnen op, en denkt mee na over bijsturing waar nodig;</li><li>vertaalt beleidskeuzes naar heldere communicatie en deelt kennis met collega’s en partners.</li></ul><p>Een greep uit je takenpakket:</p><ul><li>deskundigheid aangaande het thema uitbouwen en actueel houden teneinde alle praktische en theoretische ontwikkelingen rond het thema te kunnen integreren in het eigen werk en het werk van anderen.</li><li>ontwikkeling van nieuwe concepten om het beleid rond de betrokken thema’s mee vorm te geven</li><li>implementatie van het beleid rond het thema initiëren, uitvoeren, aansturen en opvolgen teneinde de beleids- en organisatiedoelstellingen rond het thema te kunnen realiseren.</li><li>inzetten op informatie- en kennisdeling met de relevante betrokken collega’s (onder andere klantenbeheer kinderopvang)</li><li>opvolging project-, stuur- en werkgroepen en ondersteuningstrajecten rond relevante thema’s</li><li>antwoorden formuleren op concrete vragen rond het thema</li><li>vertegenwoordigen en verdedigen van de standpunten van de entiteit op interne en externe vergaderingen, werkgroepen, …</li><li>signalen vanuit het werkveld vertalen naar het beleid en vice versa</li><li>rapporten, artikelen, brochures en andere teksten opstellen om bij te dragen tot beleidsvoorbereiding en -evaluatie</li><li>ad hoc vragen (vb. parlementaire vragen)</li></ul>",
+        "htmlEncoded": "<p>Als&nbsp;<strong>beleidsmedewerker Kinderopvang&nbsp;</strong>werk je in het team beleidsimplementatie. Je staat voornamelijk in voor&nbsp;beleidsimplementatie en uitvoering van het beleid&nbsp;rond de kinderopvangvoorzieningen.&nbsp;<br>Als beleidsmedewerker ben je op de hoogte van de verwachtingen en noden, zowel intern als extern, die aan deze voorzieningen worden gesteld. Je past je hierop aan en bouwt hierop verdere expertise.&nbsp;Hiervoor werkt het team samen met Vlaamse teams, Kind en Gezin-teams en met kinderopvangvoorzieningen zelf.</p><p><strong>Context?</strong><br>De Vlaamse Regering keurde in 2025 een masterplan goed voor de kinderopvang, waarbij de focus ligt op de 3 P’s:&nbsp;</p><ul><li>Plaatsen: versterken van het bestaand aanbod en uitbreiding van het aanbod</li><li>Prijs: hervormen van het inkomenstarief</li><li>Personeel: Meer en beter ondersteund personeel</li></ul><p>Dit masterplan is in volle uitwerking en we zoeken een beleidsmedewerker die mee uitvoering geeft aan de realisatie van dit masterplan.<br>De focus zal in eerste instantie vooral liggen op de concrete uitvoering van het uitbreidingsbeleid: het uitwerken van beslissingskaders, het behandelen van aanvraagdossiers en het mee uitwerken van beslissingsvoorstellen.</p><p><strong>Wat houdt de functie in?&nbsp;</strong><br>Als beleidsmedewerker kinderopvang werk je over de&nbsp;volledige beleidscyclus&nbsp;heen. Je:</p><ul><li>bereidt beleid voor en ontwikkelt het verder op basis van signalen uit onderzoek, monitoring en praktijk;</li><li>werkt mee aan beleidsvoorstellen, nota’s, projecten en werkgroepen;</li><li>gaat in dialoog met voorzieningen, koepelorganisaties en partners en bouwt actief aan draagvlak;</li><li>ondersteunt en volgt de implementatie van beleidslijnen op, en denkt mee na over bijsturing waar nodig;</li><li>vertaalt beleidskeuzes naar heldere communicatie en deelt kennis met collega’s en partners.</li></ul><p>Een greep uit je takenpakket:</p><ul><li>deskundigheid aangaande het thema uitbouwen en actueel houden teneinde alle praktische en theoretische ontwikkelingen rond het thema te kunnen integreren in het eigen werk en het werk van anderen.</li><li>ontwikkeling van nieuwe concepten om het beleid rond de betrokken thema’s mee vorm te geven</li><li>implementatie van het beleid rond het thema initiëren, uitvoeren, aansturen en opvolgen teneinde de beleids- en organisatiedoelstellingen rond het thema te kunnen realiseren.</li><li>inzetten op informatie- en kennisdeling met de relevante betrokken collega’s (onder andere klantenbeheer kinderopvang)</li><li>opvolging project-, stuur- en werkgroepen en ondersteuningstrajecten rond relevante thema’s</li><li>antwoorden formuleren op concrete vragen rond het thema</li><li>vertegenwoordigen en verdedigen van de standpunten van de entiteit op interne en externe vergaderingen, werkgroepen, …</li><li>signalen vanuit het werkveld vertalen naar het beleid en vice versa</li><li>rapporten, artikelen, brochures en andere teksten opstellen om bij te dragen tot beleidsvoorbereiding en -evaluatie</li><li>ad hoc vragen (vb. parlementaire vragen)</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Sint-Gillis"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21100",
+      "internal": false,
+      "validThroughDate": "1778371200",
+      "hiringOrganization": "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": {
+        "code": "D",
+        "name": "Geen specifieke studievereisten"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21100",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Jobstudenten (meerdere functies)"
+      },
+      "displayTitle": "Jobstudenten (meerdere functies)",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>AHOVOKS is op zoek naar gemotiveerde jobstudenten. Heb je\nadministratief talent en ben je klantvriendelijk? Dan ben jij degene die we\nzoeken! <br><br>Binnen het agentschap zijn er verschillende administratieve\nfuncties beschikbaar. De taken variëren naar gelang de afdeling waarin je\nterecht komt. Het betreffen in hoofdzaak praktische, administratieve en ondersteunende taken zoals: </p><ul><li>Mee helpen uitvoeren van dossierbehandeling,</li><li>Ondersteunen van de toelatingsexamens op 2, 3, 4 en 5 juli. </li><li>Kopieer en archiefwerk,</li><li>Onthaal,</li><li>Input van gegevens,</li><li>Enz…</li></ul><p>We zijn op zoek naar jobstudenten die beschikbaar\nzijn tijdens de vakanties en/of gedurende het hele school/academiejaar. We\nleggen een werfreserve aan van jobstudenten. <br><br>Interesse? Solliciteer dan vandaag nog!</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>AHOVOKS is op zoek naar gemotiveerde jobstudenten. Heb je\nadministratief talent en ben je klantvriendelijk? Dan ben jij degene die we\nzoeken! <br><br>Binnen het agentschap zijn er verschillende administratieve\nfuncties beschikbaar. De taken variëren naar gelang de afdeling waarin je\nterecht komt. Het betreffen in hoofdzaak praktische, administratieve en ondersteunende taken zoals: </p><ul><li>Mee helpen uitvoeren van dossierbehandeling,</li><li>Ondersteunen van de toelatingsexamens op 2, 3, 4 en 5 juli. </li><li>Kopieer en archiefwerk,</li><li>Onthaal,</li><li>Input van gegevens,</li><li>Enz…</li></ul><p>We zijn op zoek naar jobstudenten die beschikbaar\nzijn tijdens de vakanties en/of gedurende het hele school/academiejaar. We\nleggen een werfreserve aan van jobstudenten. <br><br>Interesse? Solliciteer dan vandaag nog!</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20872",
       "internal": false,
@@ -897,7 +1041,7 @@
     {
       "link": "/Job/cornerstone-20702",
       "internal": false,
-      "validThroughDate": "-1",
+      "validThroughDate": "1778112000",
       "hiringOrganization": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie",
       "reservedForDisability": false,
       "openPositions": 1,
