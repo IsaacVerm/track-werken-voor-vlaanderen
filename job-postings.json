@@ -1,10 +1,10 @@
 {
-  "totalItems": 124,
+  "totalItems": 123,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 123,
+  "lastItemOfPage": 122,
   "items": [
     {
       "link": "/Job/vdab-73569525",
@@ -2644,42 +2644,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20561",
-      "internal": false,
-      "validThroughDate": "1777075200",
-      "hiringOrganization": "Eigen Vermogen Xperta",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Onderzoek en ontwikkeling",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20561",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Onderzoeker hydraulische installaties"
-      },
-      "displayTitle": "Onderzoeker hydraulische installaties",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Als <b>onderzoeker waterbouwkundige constructies</b> speel je een sleutelrol in de ondersteuning en advisering van <b>De Vlaamse Waterweg</b> bij de realisatie en het beheer van watergebonden infrastructuur. Je werkt mee aan diverse projecten, zoals <b>vispassages</b> en <b>op de natuur geïnspireerde oplossingen</b> in en langs de waterweg, en draagt zo rechtstreeks bij aan toekomstgerichte en duurzame infrastructuur.</p> <p>Je staat in voor het <b>opmaken van hydraulische ontwerpen</b> en het <b>evalueren van de hydraulische werking</b> van constructies na aanleg. Daarbij combineer je theorie en praktijk: je analyseert gegevens uit <b>terreinmetingen</b> (onder meer met betrekking tot hydraulische randvoorwaarden) en maakt gebruik van <b>fysische schaalmodellen</b> en <b>numerieke stromingsmodellen</b>. Met deze expertise lever je een concrete bijdrage aan de MOW-speerpunten <b>‘Performante infrastructuur’</b> en <b>‘Duurzaam goederenvervoer’</b>.</p> <p>Een belangrijk onderdeel van je werk is de <b>analyse van (meet)data</b>, waarbij je bestaande tools inzet of zelf scripts ontwikkelt, bijvoorbeeld in <b>Matlab</b> of <b>Python</b>. Je vertaalt je bevindingen naar duidelijke en onderbouwde <b>rapporten</b> en neemt actief deel aan <b>overlegmomenten met opdrachtgevers</b> en aan voortgangsoverleggen. Daarnaast zorg je voor de <b>disseminatie van onderzoeksresultaten</b>, zodat kennis breed gedeeld en benut kan worden.</p> <p><b>Training, inspectie en dienstverlening rond de waterrand</b></p> <p>Naast onderzoek en advies neem je ook een actieve rol op in de <b>organisatie van training en inspecties rond de waterrand</b>. Je biedt ondersteuning aan <b>KND</b>, organiseert opleidingen <b>Inspecties waterrand</b> volgens het <b>AMP Dijken, Oevers en waterkerende wanden</b>, en werkt een dienstverlening uit rond <b>B‑inspecties van de waterrand</b>. Daarbij beoordeel je ook bestaande en nieuwe <b>inspectietools</b> en lever je input om deze verder te verbeteren.</p> <p><b>Roadmap en internationale samenwerking rond natuurgebaseerde oplossingen</b></p> <p>Je draagt bij aan de uitwerking van een <b>roadmap</b> en aan <b>internationale samenwerking</b> rond duurzame, natuurgebaseerde oplossingen voor waterwegen. Dat doe je door het ondersteunen van een <b>state-of-the-art assetmanagement</b> van watergebonden infrastructuur in Vlaanderen, het identificeren en wegwerken van <b>kennishiaten</b> en het <b>documenteren van kennis</b> binnen bestaande platformen.</p> <p>Tot slot zet je jouw expertise en onderzoeksinstrumenten in om <b>Vlaamse knowhow ook buiten Vlaanderen uit te dragen</b>, en zo bij te dragen aan de internationale positionering van Vlaanderen op het vlak van waterbouwkundige kennis en innovatie.</p>",
-        "htmlEncoded": "<p>Als <b>onderzoeker waterbouwkundige constructies</b> speel je een sleutelrol in de ondersteuning en advisering van <b>De Vlaamse Waterweg</b> bij de realisatie en het beheer van watergebonden infrastructuur. Je werkt mee aan diverse projecten, zoals <b>vispassages</b> en <b>op de natuur geïnspireerde oplossingen</b> in en langs de waterweg, en draagt zo rechtstreeks bij aan toekomstgerichte en duurzame infrastructuur.</p> <p>Je staat in voor het <b>opmaken van hydraulische ontwerpen</b> en het <b>evalueren van de hydraulische werking</b> van constructies na aanleg. Daarbij combineer je theorie en praktijk: je analyseert gegevens uit <b>terreinmetingen</b> (onder meer met betrekking tot hydraulische randvoorwaarden) en maakt gebruik van <b>fysische schaalmodellen</b> en <b>numerieke stromingsmodellen</b>. Met deze expertise lever je een concrete bijdrage aan de MOW-speerpunten <b>‘Performante infrastructuur’</b> en <b>‘Duurzaam goederenvervoer’</b>.</p> <p>Een belangrijk onderdeel van je werk is de <b>analyse van (meet)data</b>, waarbij je bestaande tools inzet of zelf scripts ontwikkelt, bijvoorbeeld in <b>Matlab</b> of <b>Python</b>. Je vertaalt je bevindingen naar duidelijke en onderbouwde <b>rapporten</b> en neemt actief deel aan <b>overlegmomenten met opdrachtgevers</b> en aan voortgangsoverleggen. Daarnaast zorg je voor de <b>disseminatie van onderzoeksresultaten</b>, zodat kennis breed gedeeld en benut kan worden.</p> <p><b>Training, inspectie en dienstverlening rond de waterrand</b></p> <p>Naast onderzoek en advies neem je ook een actieve rol op in de <b>organisatie van training en inspecties rond de waterrand</b>. Je biedt ondersteuning aan <b>KND</b>, organiseert opleidingen <b>Inspecties waterrand</b> volgens het <b>AMP Dijken, Oevers en waterkerende wanden</b>, en werkt een dienstverlening uit rond <b>B‑inspecties van de waterrand</b>. Daarbij beoordeel je ook bestaande en nieuwe <b>inspectietools</b> en lever je input om deze verder te verbeteren.</p> <p><b>Roadmap en internationale samenwerking rond natuurgebaseerde oplossingen</b></p> <p>Je draagt bij aan de uitwerking van een <b>roadmap</b> en aan <b>internationale samenwerking</b> rond duurzame, natuurgebaseerde oplossingen voor waterwegen. Dat doe je door het ondersteunen van een <b>state-of-the-art assetmanagement</b> van watergebonden infrastructuur in Vlaanderen, het identificeren en wegwerken van <b>kennishiaten</b> en het <b>documenteren van kennis</b> binnen bestaande platformen.</p> <p>Tot slot zet je jouw expertise en onderzoeksinstrumenten in om <b>Vlaamse knowhow ook buiten Vlaanderen uit te dragen</b>, en zo bij te dragen aan de internationale positionering van Vlaanderen op het vlak van waterbouwkundige kennis en innovatie.</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
