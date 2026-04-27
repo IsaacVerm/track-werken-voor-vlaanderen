@@ -1,11 +1,119 @@
 {
-  "totalItems": 121,
+  "totalItems": 124,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 120,
+  "lastItemOfPage": 123,
   "items": [
+    {
+      "link": "/Job/vdab-73581889",
+      "internal": false,
+      "validThroughDate": "1778976000",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "ICT",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73581889",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "systeembeheerder"
+      },
+      "displayTitle": "systeembeheerder",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Beheer en onderhoud van onze netwerk- en serverinfrastructuur\n<br></span><span>Proactieve monitoring van servers en netwerken\n<br></span><span lang=\"EN-US\">Beheer van back-ups, security-updates en patchmanagement\n<br></span><span>Organisatie van professioneel vendor-management\n<br></span><span>Ondersteuning van de IT-helpdesk (backup-rol) bij complexe incidenten\n<br></span><span>De bouw van een schaalbare en wendbare infrastructuur\n<br></span><span>Actieve deelname aan én trekkersrol in IT-projecten en implementaties\n<br></span><span>Analyse van de bestaande IT-architectuur en uitwerken van toekomstgerichte verbeteringen\n<br></span><span>Opmaak en verbeteren van IT-policies in samenwerking met het diensthoofd en deze vertalen naar concrete implementatie\n<br></span><span>Opmaak van een Disaster Recovery Plan\n<br></span><span>Formuleren van optimalisatievoorstellen op basis van noden, trends en terugkerende issues\n<br></span><span>Evalueren van haalbaarheid en rentabiliteit van IT-projecten in samenwerking met stakeholders</span></p>",
+        "htmlEncoded": "<p><span>Beheer en onderhoud van onze netwerk- en serverinfrastructuur\n<br></span><span>Proactieve monitoring van servers en netwerken\n<br></span><span lang=\"EN-US\">Beheer van back-ups, security-updates en patchmanagement\n<br></span><span>Organisatie van professioneel vendor-management\n<br></span><span>Ondersteuning van de IT-helpdesk (backup-rol) bij complexe incidenten\n<br></span><span>De bouw van een schaalbare en wendbare infrastructuur\n<br></span><span>Actieve deelname aan én trekkersrol in IT-projecten en implementaties\n<br></span><span>Analyse van de bestaande IT-architectuur en uitwerken van toekomstgerichte verbeteringen\n<br></span><span>Opmaak en verbeteren van IT-policies in samenwerking met het diensthoofd en deze vertalen naar concrete implementatie\n<br></span><span>Opmaak van een Disaster Recovery Plan\n<br></span><span>Formuleren van optimalisatievoorstellen op basis van noden, trends en terugkerende issues\n<br></span><span>Evalueren van haalbaarheid en rentabiliteit van IT-projecten in samenwerking met stakeholders</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/vdab-73581815",
+      "internal": false,
+      "validThroughDate": "1778025600",
+      "hiringOrganization": "Openbaar Psychiatrisch Ziekenhuis Geel",
+      "reservedForDisability": null,
+      "openPositions": 1,
+      "domain": "Gezondheid",
+      "degreeLevel": {
+        "code": "B",
+        "name": "Graduaats- of bachelordiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "vdab-73581815",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "verpleegkundige"
+      },
+      "displayTitle": "verpleegkundige",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, </span>residentiële 24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>",
+        "htmlEncoded": "<p><strong><span>Jouw werkplek</span></strong></p> \n<p><span>Opname-eenheid 1 biedt kortdurende, gespecialiseerde\n<span>, </span>residentiële 24-uurszorg aan volwassenen (18-65 jaar) in een psychiatrische crisissituatie. We begeleiden zowel vrijwillige als gedwongen opnames, steeds met respect en betrokkenheid. Onze afdeling is volop in beweging en ontwikkelt zich verder tot een \n<span>HIC-werking</span> met focus op \n<span>herstelgerichte zorg, presentie, gastvrijheid, samenwerking met de context en transdisciplinair werken.</span></span></p> \n<p><strong><span>Jouw rol in ons team</span></strong></p> \n<p><span>Als verpleegkundige ben je een sleutelfiguur in de begeleiding en behandeling van onze patiënten. Je:</span></p> \n<ul type=\"disc\"> \n<li><span>Biedt dagelijks structuur, ondersteuning en nabijheid.</span></li> \n<li><span>Observeert, begeleidt en werkt therapeutisch met individuen en groepen.</span></li> \n<li><span>Betrekt actief de context van de patiënt bij het zorgtraject.</span></li> \n<li><span>Werkt nauw samen in een warm, deskundig team dat 24/7 zorg biedt.</span></li> \n<li><span>Draagt bij aan een veilige en huiselijke omgeving waar herstel centraal staat.</span></li> </ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21107",
+      "internal": false,
+      "validThroughDate": "1779235200",
+      "hiringOrganization": "ILVO Centrale Diensten",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": {
+        "code": "C",
+        "name": "Secundair onderwijs"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21107",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "ILVO Eigen Vermogen Jobstudent AutoCAD tekenaar 2D"
+      },
+      "displayTitle": "ILVO Eigen Vermogen Jobstudent AutoCAD tekenaar 2D",
+      "isProtected": false,
+      "description": {
+        "raw": "Ben jij een\ngepassioneerde AutoCAD tekenaar met een oog voor detail? Bij ILVO krijg je de\nkans om je talenten te benutten en bij te dragen aan het vernieuwen en\nuniformiseren van onze huidige plannen. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure.",
+        "htmlEncoded": "Ben jij een\ngepassioneerde AutoCAD tekenaar met een oog voor detail? Bij ILVO krijg je de\nkans om je talenten te benutten en bij te dragen aan het vernieuwen en\nuniformiseren van onze huidige plannen. <br><br>Lees meer over de\nfunctie in het selectiereglement onderaan de pagina bij download documenten.\nDownload dit selectiereglement en hou het bij voor het verdere verloop van de\nprocedure."
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Merelbeke-Melle"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20963",
       "internal": false,
@@ -38,6 +146,39 @@
         {
           "address": {
             "city": "Mechelen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20934",
+      "internal": false,
+      "validThroughDate": "1778889600",
+      "hiringOrganization": "Wonen in Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Administratie",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20934",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Coördinator CIR en CHR"
+      },
+      "displayTitle": "Coördinator CIR en CHR",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.</em></strong></p><p>Als coördinator CIR &amp; CHR kom je terecht in de <strong>dienst Huur </strong>van de <strong>afdeling Huren en Woningkwaliteit</strong>. Deze dienst ondersteunt onder meer de woonmaatschappijen bij het correct toepassen van de regelgeving rond sociale huur. Je maakt deel uit van het <strong>team CIR (Centraal Inschrijvingsregister)</strong>: een klein team, bestaande uit jezelf en de collega’s die de helpdesk CIR/CHR bemannen. Het team ondersteunt woonmaatschappijen bij het gebruik van het CIR en is mee verantwoordelijk voor de correcte implementatie van (nieuwe) regelgeving in de toepassing. Jij houdt mee in de gaten of de processen daarbij goed verlopen, en stuurt bij wanneer nodig. Je doet bovendien verbetervoorstellen om het team zo efficiënt en flexibel mogelijk te organiseren.</p><p>De opdrachten van het team CIR worden uitgebreid met de implementatie van twee belangrijke beleidsinitiatieven: het <strong>Centraal Huurdersregister (CHR) </strong>en <strong>activering</strong> (werkbereidheid van kandidaat-huurders en huurders). In het kader van beide beleidsinitiatieven wordt nauw samengewerkt met de VDAB.</p><p>Samen met de strategische projectleider voor deze nieuwe beleidsprojecten sta je als coördinator CIR &amp; CHR in voor een goede realisatie van deze initiatieven en vertegenwoordig je de sector als een van de belangrijkste stakeholders binnen deze projecten. Je fungeert als brug en bent bij wijze van spreken de stem van de sector.</p><p>Om je rol als coördinator CIR &amp; CHR ten volle te kunnen opnemen, is het belangrijk dat je een heldere kijk hebt op processen, sterk analytisch bent ingesteld, en vlot informatie en inzichten kan overbrengen. Je staat er daarbij niet alleen voor; je werkt o.a. in nauwe samenwerking met de strategische projectleider, de product owners en je collega’s van de helpdesk.</p><p>Heb jij reeds ervaring met complexe regelgeving, sta je analytisch sterk, en communiceer je vlot? Ben je goed in plannen, in het stellen van prioriteiten en deins je er bovendien niet voor terug om initiatief te nemen? Dan ben jij misschien wel de collega die we zoeken!&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>",
+        "htmlEncoded": "<p>Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en <strong><em>samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken.</em></strong></p><p>Als coördinator CIR &amp; CHR kom je terecht in de <strong>dienst Huur </strong>van de <strong>afdeling Huren en Woningkwaliteit</strong>. Deze dienst ondersteunt onder meer de woonmaatschappijen bij het correct toepassen van de regelgeving rond sociale huur. Je maakt deel uit van het <strong>team CIR (Centraal Inschrijvingsregister)</strong>: een klein team, bestaande uit jezelf en de collega’s die de helpdesk CIR/CHR bemannen. Het team ondersteunt woonmaatschappijen bij het gebruik van het CIR en is mee verantwoordelijk voor de correcte implementatie van (nieuwe) regelgeving in de toepassing. Jij houdt mee in de gaten of de processen daarbij goed verlopen, en stuurt bij wanneer nodig. Je doet bovendien verbetervoorstellen om het team zo efficiënt en flexibel mogelijk te organiseren.</p><p>De opdrachten van het team CIR worden uitgebreid met de implementatie van twee belangrijke beleidsinitiatieven: het <strong>Centraal Huurdersregister (CHR) </strong>en <strong>activering</strong> (werkbereidheid van kandidaat-huurders en huurders). In het kader van beide beleidsinitiatieven wordt nauw samengewerkt met de VDAB.</p><p>Samen met de strategische projectleider voor deze nieuwe beleidsprojecten sta je als coördinator CIR &amp; CHR in voor een goede realisatie van deze initiatieven en vertegenwoordig je de sector als een van de belangrijkste stakeholders binnen deze projecten. Je fungeert als brug en bent bij wijze van spreken de stem van de sector.</p><p>Om je rol als coördinator CIR &amp; CHR ten volle te kunnen opnemen, is het belangrijk dat je een heldere kijk hebt op processen, sterk analytisch bent ingesteld, en vlot informatie en inzichten kan overbrengen. Je staat er daarbij niet alleen voor; je werkt o.a. in nauwe samenwerking met de strategische projectleider, de product owners en je collega’s van de helpdesk.</p><p>Heb jij reeds ervaring met complexe regelgeving, sta je analytisch sterk, en communiceer je vlot? Ben je goed in plannen, in het stellen van prioriteiten en deins je er bovendien niet voor terug om initiatief te nemen? Dan ben jij misschien wel de collega die we zoeken!&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -151,6 +292,39 @@
       ]
     },
     {
+      "link": "/Job/cornerstone-20808",
+      "internal": false,
+      "validThroughDate": "1779235200",
+      "hiringOrganization": "Vlaamse Landmaatschappij",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Milieu/omgeving",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20808",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Implementatiecoördinator Natuurherstel"
+      },
+      "displayTitle": "Implementatiecoördinator Natuurherstel",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Onder het motto 'Samen versterken we de open ruimte' maakt de Vlaamse Landmaatschappij (VLM) werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland. Daarvoor verbinden we landbouw- en milieudoelen, investeren we in complexe openruimtedossiers en faciliteren we samenwerkingsverbanden. Zo bieden we een antwoord op maatschappelijke uitdagingen zoals de klimaatverandering, de achteruitgang van de bodem- en waterkwaliteit, de afname van de biodiversiteit en de leefbaarheid op het platteland. Samen met lokale en bovenlokale belanghebbenden geven we het openruimtebeleid, het plattelandsbeleid en het mestbeleid vorm en voeren we het uit op het terrein. Zo dragen we samen met onze partners bij aan de realisatie van de Europese en Vlaamse natuur-, plattelands- en milieudoelen.</p><p>Wil jij je schouders zetten onder een versnelling in het natuurherstel in Vlaanderen? In deze functie speel je een sleutelrol binnen de programmatische aanpak stikstof (PAS) en draag je concreet bij aan een klimaatrobuuste en veerkrachtige open ruimte.</p><p>Je begeleidt en ondersteunt projectteams bij de uitvoering van natuurherstelprojecten op landschapsschaal. Deze projecten focussen op stikstofsanering via hydrologisch herstel, in gebieden die door gebiedsanalyses van het INBO als prioritair zijn aangeduid. Het gaat daarbij om 193 gebieden én vijf maatwerkgebieden waar bijkomende inspanningen nodig zijn bovenop een generieke vermindering van de stikstofemissies.</p><p>Het zwaartepunt van je functie ligt bij projectondersteuning. Je werkt mee aan het inhoudelijk en technisch nazicht van inrichtingsplannen, volgt financiële noden en vastleggingskredieten op doorheen de verschillende uitvoeringsfasen en staat in voor een nauwgezette dossieropvolging. Dat omvat onder meer het nalezen van nota’s aan de minister en ontwerpbesluiten. Je onderhoudt goede werkrelaties met andere betrokken administraties en waakt over een efficiënte en doelgerichte besteding van de beschikbare middelen.</p><p>Daarnaast zorg je voor een sterke wisselwerking tussen de projectteams en de beleidsadviseurs. Je detecteert knelpunten, formuleert oplossingsrichtingen en stimuleert de doorstroming van kennis en beleidsinformatie. Je werkt nauw samen met het overkoepelend programmateam (o.a. ANB, VLM, Departement Omgeving, INBO, VMM) en draagt actief bij aan een efficiëntere administratie-overschrijdende projectwerking. Binnen een geïntegreerde, gebiedsgerichte aanpak leg je ook verbindingen met andere beleidsdoelen, zoals de natuurherstelverordening en de Blue Deal.</p><p>Tot slot bouw je expertise op in landinrichtingspraktijk en omgevingsregelgeving, met bijzondere aandacht voor het Decreet Landinrichting. Je groeit gaandeweg uit tot een kennisdrager die meewerkt aan kennisdeling, opleiding en de verdere ontwikkeling van het landinrichtingsinstrumentarium. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Onder het motto 'Samen versterken we de open ruimte' maakt de Vlaamse Landmaatschappij (VLM) werk van een milieu- en natuurvriendelijke landbouw, een klimaatrobuuste open ruimte en een vitaal platteland. Daarvoor verbinden we landbouw- en milieudoelen, investeren we in complexe openruimtedossiers en faciliteren we samenwerkingsverbanden. Zo bieden we een antwoord op maatschappelijke uitdagingen zoals de klimaatverandering, de achteruitgang van de bodem- en waterkwaliteit, de afname van de biodiversiteit en de leefbaarheid op het platteland. Samen met lokale en bovenlokale belanghebbenden geven we het openruimtebeleid, het plattelandsbeleid en het mestbeleid vorm en voeren we het uit op het terrein. Zo dragen we samen met onze partners bij aan de realisatie van de Europese en Vlaamse natuur-, plattelands- en milieudoelen.</p><p>Wil jij je schouders zetten onder een versnelling in het natuurherstel in Vlaanderen? In deze functie speel je een sleutelrol binnen de programmatische aanpak stikstof (PAS) en draag je concreet bij aan een klimaatrobuuste en veerkrachtige open ruimte.</p><p>Je begeleidt en ondersteunt projectteams bij de uitvoering van natuurherstelprojecten op landschapsschaal. Deze projecten focussen op stikstofsanering via hydrologisch herstel, in gebieden die door gebiedsanalyses van het INBO als prioritair zijn aangeduid. Het gaat daarbij om 193 gebieden én vijf maatwerkgebieden waar bijkomende inspanningen nodig zijn bovenop een generieke vermindering van de stikstofemissies.</p><p>Het zwaartepunt van je functie ligt bij projectondersteuning. Je werkt mee aan het inhoudelijk en technisch nazicht van inrichtingsplannen, volgt financiële noden en vastleggingskredieten op doorheen de verschillende uitvoeringsfasen en staat in voor een nauwgezette dossieropvolging. Dat omvat onder meer het nalezen van nota’s aan de minister en ontwerpbesluiten. Je onderhoudt goede werkrelaties met andere betrokken administraties en waakt over een efficiënte en doelgerichte besteding van de beschikbare middelen.</p><p>Daarnaast zorg je voor een sterke wisselwerking tussen de projectteams en de beleidsadviseurs. Je detecteert knelpunten, formuleert oplossingsrichtingen en stimuleert de doorstroming van kennis en beleidsinformatie. Je werkt nauw samen met het overkoepelend programmateam (o.a. ANB, VLM, Departement Omgeving, INBO, VMM) en draagt actief bij aan een efficiëntere administratie-overschrijdende projectwerking. Binnen een geïntegreerde, gebiedsgerichte aanpak leg je ook verbindingen met andere beleidsdoelen, zoals de natuurherstelverordening en de Blue Deal.</p><p>Tot slot bouw je expertise op in landinrichtingspraktijk en omgevingsregelgeving, met bijzondere aandacht voor het Decreet Landinrichting. Je groeit gaandeweg uit tot een kennisdrager die meewerkt aan kennisdeling, opleiding en de verdere ontwikkeling van het landinrichtingsinstrumentarium. Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
       "link": "/Job/cornerstone-20648",
       "internal": true,
       "validThroughDate": "1778803200",
@@ -218,6 +392,42 @@
         {
           "address": {
             "city": "Antwerpen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20525",
+      "internal": false,
+      "validThroughDate": "1779408000",
+      "hiringOrganization": "Onroerend Erfgoed",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20525",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Specialist Erkennen"
+      },
+      "displayTitle": "Specialist Erkennen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Wil jij mee bouwen aan een Vlaanderen waar erfgoed niet alleen bewaard blijft, maar ook mensen blijft inspireren?<br>Bij het agentschap Onroerend Erfgoed willen we vanuit onze rol als baken, coach en co-creatieve partner en vanuit onze waarden openheid, vertrouwen, wendbaarheid en daadkracht zorgen voor gemeenschap begeesterd door erfgoed.&nbsp;<br><br>In het team Erkennen binnen Back office Beheer werk je samen met twee collega’s aan de erkenning, opvolging en coaching van onroerenderfgoedgemeenten en intergemeentelijke onroerenderfgoeddiensten (IOED’en). Je behandelt hun erkennings- en subsidieaanvragen binnen het wettelijke kader en zorgt voor een correcte opvolging. Daarnaast ben je back-up voor de collega’s die instaan voor de erkenning van archeologen, onroerenderfgoeddepots en metaaldetectoristen. Dankzij jouw coachende, coördinerende of evaluerende ervaring draag je de komende jaren vooral bij aan de ondersteuning van lokale besturen, terwijl je flexibel kan inspringen waar nodig.<br><br>Je verdiept je in het wettelijk kader van de procedures en werkt volgens de missie en visie van het agentschap. Je bent het aanspreekpunt voor collega’s die feedback geven over erkende actoren, en je werkt nauw samen met het team Premies en Subsidies en het team Financiën en Begrotingen. Je rapporteert aan de directeur Back office Beheer. In je dagelijkse werking zorg je voor volledige en correcte dossiers door gegevens te verzamelen, te verwerken en op te volgen, inclusief het organiseren van terreinbezoeken of telefonische bevragingen. Je analyseert aanvragen, toetst ze aan de regelgeving, interpreteert informatie uit diverse bronnen en komt tot een onderbouwd voorstel van beslissing.<br><br>Je formuleert adviezen in erkennings-, evaluatie- en opvolgingsprocedures. Je bereidt de ontwerpbeslissingen voor en je licht beslissingen helder toe aan de betrokken actoren. Je beheert de algemene mailbox van het team en zorgt dat vragen correct, klantgericht en tijdig beantwoord worden. Je onderhoudt de communicatie over dossiers, adviseert klanten over procedures en draagt zorg voor archivering en overdracht van afgewerkte dossiers. Ook intern deel je actief informatie door deel te nemen aan werkgroepen, overlegmomenten en vormingsinitiatieven.<br><br>Daarnaast help je mee netwerk- en overlegmomenten te organiseren met o.a. onroerenderfgoedgemeenten, IOED’en en het Netwerk Onroerend Erfgoed. Je werkt mee aan het actualiseren en verbeteren van werkprocedures, sjablonen, formulieren, teksten voor de website, nieuwsbrieven en digitale toepassingen. Je beantwoordt inhoudelijke vragen vanuit externen, het parlement en het kabinet van de bevoegde minister en bouwt actief mee aan kennisopbouw en kennisdeling binnen en buiten het agentschap. Tot slot volg je de uitvoering van beslissingen nauwgezet op, controleer je termijnen en begeleid je erkende actoren via samenwerkingsovereenkomsten, rapportages, evaluaties en regelmatige contacten. Zo draag je bij aan een duurzame dialoog met lokale besturen en een sterke, toekomstgerichte erfgoedwerking in Vlaanderen.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>",
+        "htmlEncoded": "<p>Wil jij mee bouwen aan een Vlaanderen waar erfgoed niet alleen bewaard blijft, maar ook mensen blijft inspireren?<br>Bij het agentschap Onroerend Erfgoed willen we vanuit onze rol als baken, coach en co-creatieve partner en vanuit onze waarden openheid, vertrouwen, wendbaarheid en daadkracht zorgen voor gemeenschap begeesterd door erfgoed.&nbsp;<br><br>In het team Erkennen binnen Back office Beheer werk je samen met twee collega’s aan de erkenning, opvolging en coaching van onroerenderfgoedgemeenten en intergemeentelijke onroerenderfgoeddiensten (IOED’en). Je behandelt hun erkennings- en subsidieaanvragen binnen het wettelijke kader en zorgt voor een correcte opvolging. Daarnaast ben je back-up voor de collega’s die instaan voor de erkenning van archeologen, onroerenderfgoeddepots en metaaldetectoristen. Dankzij jouw coachende, coördinerende of evaluerende ervaring draag je de komende jaren vooral bij aan de ondersteuning van lokale besturen, terwijl je flexibel kan inspringen waar nodig.<br><br>Je verdiept je in het wettelijk kader van de procedures en werkt volgens de missie en visie van het agentschap. Je bent het aanspreekpunt voor collega’s die feedback geven over erkende actoren, en je werkt nauw samen met het team Premies en Subsidies en het team Financiën en Begrotingen. Je rapporteert aan de directeur Back office Beheer. In je dagelijkse werking zorg je voor volledige en correcte dossiers door gegevens te verzamelen, te verwerken en op te volgen, inclusief het organiseren van terreinbezoeken of telefonische bevragingen. Je analyseert aanvragen, toetst ze aan de regelgeving, interpreteert informatie uit diverse bronnen en komt tot een onderbouwd voorstel van beslissing.<br><br>Je formuleert adviezen in erkennings-, evaluatie- en opvolgingsprocedures. Je bereidt de ontwerpbeslissingen voor en je licht beslissingen helder toe aan de betrokken actoren. Je beheert de algemene mailbox van het team en zorgt dat vragen correct, klantgericht en tijdig beantwoord worden. Je onderhoudt de communicatie over dossiers, adviseert klanten over procedures en draagt zorg voor archivering en overdracht van afgewerkte dossiers. Ook intern deel je actief informatie door deel te nemen aan werkgroepen, overlegmomenten en vormingsinitiatieven.<br><br>Daarnaast help je mee netwerk- en overlegmomenten te organiseren met o.a. onroerenderfgoedgemeenten, IOED’en en het Netwerk Onroerend Erfgoed. Je werkt mee aan het actualiseren en verbeteren van werkprocedures, sjablonen, formulieren, teksten voor de website, nieuwsbrieven en digitale toepassingen. Je beantwoordt inhoudelijke vragen vanuit externen, het parlement en het kabinet van de bevoegde minister en bouwt actief mee aan kennisopbouw en kennisdeling binnen en buiten het agentschap. Tot slot volg je de uitvoering van beslissingen nauwgezet op, controleer je termijnen en begeleid je erkende actoren via samenwerkingsovereenkomsten, rapportages, evaluaties en regelmatige contacten. Zo draag je bij aan een duurzame dialoog met lokale besturen en een sterke, toekomstgerichte erfgoedwerking in Vlaanderen.&nbsp;</p><p>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
           }
         }
       ]
@@ -1828,42 +2038,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-73492827",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaamse Nutsregulator",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "Financieel",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73492827",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Adviseur energieprijzen"
-      },
-      "displayTitle": "Adviseur energieprijzen",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><strong>Over ons \n<br>De Vlaamse Nutsregulator</strong> laat de nutssector in Vlaanderen werken, vandaag én morgen, voor iedereen. We reguleren en houden actief toezicht op de markten en de netten voor elektriciteit, aardgas, thermische energie, CO2 en water in Vlaanderen. Zo bewaken we de belangen van burgers én bedrijven, nu en in de toekomst.</p> \n<ul> \n<li>Wil je bijdragen aan een duurzame toekomst en ben je geboeid door alle ontwikkelingen in de energiemarkt?</li> \n<li>Ben jij sterk in analyses en kan je die vertalen in concrete acties en heldere adviezen?</li> \n<li>Wil je impact hebben op de energiefactuur van elke Vlaming en mee de energietransitie waarmaken?</li> </ul> \n<p>Dan is de functie van \n<strong>adviseur prijzen bij de VNR</strong> iets voor jou!</p> \n<p><strong>Een greep uit je takenpakket</strong></p> \n<ul> \n<li>Je \n<strong>analyseert de prijzen</strong> op de Vlaamse elektriciteits- en gasmarkt en volgt de evoluties in \n<strong>het contractaanbod </strong>van leveranciers op. Je biedt inhoudelijke ondersteuning bij de \n<strong>V-test®</strong>.</li> \n<li>Je voert steekproeven uit op \n<strong>energiefacturen</strong> om na te gaan of leveranciers de bedragen juist aanrekenen. Je rapporteert over knelpunten en doet voorstellen om de facturen transparanter te maken.</li> \n<li>Je \n<strong>verdiept je in nieuwe ontwikkelingen</strong> op de energiemarkt. Je brengt in kaart hoe leveranciers en andere marktspelers innovatieve oplossingen inzetten om in te spelen op de uitdagingen van de \n<span aria-label=\"energietransitie - Klik voor uitleg\" data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" role=\"button\" title=\"Klik hier voor meer uitleg over: energietransitie\" tabindex=\"0\">energietransitie</span>.</li> \n<li>Je volgt op hoe energieprijzen en -contracten evolueren in \n<strong>anderen gewesten en in het buitenland</strong>.</li> \n<li>Je \n<strong>maakt</strong> cijfers en analyses \n<strong>inzichtelijk</strong> via \n<strong>online dashboards en rapporten</strong> voor verschillende doelpublieken. Je helpt consumenten zo om bewuste keuzes te maken en beleidsmakers om de werking van de markt te verbeteren.</li> \n<li>Je hebt je \n<strong>eigen verantwoordelijkheden</strong>, maar werkt vooral in \n<strong>team</strong>. Je overlegt met je collega’s en verschillende marktpartijen. Je toetst voorstellen af bij alle belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul>",
-        "htmlEncoded": "<p><strong>Over ons \n<br>De Vlaamse Nutsregulator</strong> laat de nutssector in Vlaanderen werken, vandaag én morgen, voor iedereen. We reguleren en houden actief toezicht op de markten en de netten voor elektriciteit, aardgas, thermische energie, CO2 en water in Vlaanderen. Zo bewaken we de belangen van burgers én bedrijven, nu en in de toekomst.</p> \n<ul> \n<li>Wil je bijdragen aan een duurzame toekomst en ben je geboeid door alle ontwikkelingen in de energiemarkt?</li> \n<li>Ben jij sterk in analyses en kan je die vertalen in concrete acties en heldere adviezen?</li> \n<li>Wil je impact hebben op de energiefactuur van elke Vlaming en mee de energietransitie waarmaken?</li> </ul> \n<p>Dan is de functie van \n<strong>adviseur prijzen bij de VNR</strong> iets voor jou!</p> \n<p><strong>Een greep uit je takenpakket</strong></p> \n<ul> \n<li>Je \n<strong>analyseert de prijzen</strong> op de Vlaamse elektriciteits- en gasmarkt en volgt de evoluties in \n<strong>het contractaanbod </strong>van leveranciers op. Je biedt inhoudelijke ondersteuning bij de \n<strong>V-test®</strong>.</li> \n<li>Je voert steekproeven uit op \n<strong>energiefacturen</strong> om na te gaan of leveranciers de bedragen juist aanrekenen. Je rapporteert over knelpunten en doet voorstellen om de facturen transparanter te maken.</li> \n<li>Je \n<strong>verdiept je in nieuwe ontwikkelingen</strong> op de energiemarkt. Je brengt in kaart hoe leveranciers en andere marktspelers innovatieve oplossingen inzetten om in te spelen op de uitdagingen van de \n<span aria-label=\"energietransitie - Klik voor uitleg\" data-glossary-id=\"9a2705c2-3827-4720-bea6-b1af77e4758a\" role=\"button\" title=\"Klik hier voor meer uitleg over: energietransitie\" tabindex=\"0\">energietransitie</span>.</li> \n<li>Je volgt op hoe energieprijzen en -contracten evolueren in \n<strong>anderen gewesten en in het buitenland</strong>.</li> \n<li>Je \n<strong>maakt</strong> cijfers en analyses \n<strong>inzichtelijk</strong> via \n<strong>online dashboards en rapporten</strong> voor verschillende doelpublieken. Je helpt consumenten zo om bewuste keuzes te maken en beleidsmakers om de werking van de markt te verbeteren.</li> \n<li>Je hebt je \n<strong>eigen verantwoordelijkheden</strong>, maar werkt vooral in \n<strong>team</strong>. Je overlegt met je collega’s en verschillende marktpartijen. Je toetst voorstellen af bij alle belanghebbenden en gaat mee op zoek naar een draagvlak voor nodige beslissingen.</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Sint-Joost-Ten-Node"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20965",
       "internal": false,
       "validThroughDate": "1777507200",
@@ -3252,42 +3426,6 @@
       ]
     },
     {
-      "link": "/Job/vdab-73350203",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "A",
-        "name": "Masterdiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73350203",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "functioneel analist (Onroerend Erfgoed) via Vlaanderen connect"
-      },
-      "displayTitle": "functioneel analist (Onroerend Erfgoed) via Vlaanderen connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p>Bij het agentschap Onroerend Erfgoed gaan we op zoek naar een functioneel analist voor het Team Informatie. Samen met collega analisten en ICT-architecten bouw je de digitale werking van het agentschap verder uit.</p> \n<p>Wil jij als functioneel analist meewerken aan de verdere digitalisering van ons erfgoed en de erfgoedzorg? Ben je begeesterd door erfgoed en technologie? Dan ben jij misschien wel de kandidaat die we zoeken!</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Onroerend Erfgoed is een agentschap en wetenschappelijke instelling van de Vlaamse overheid die bevoegd is voor alle aspecten van onroerend erfgoed. We zetten het beleid daarrond uit. We onderzoeken, inventariseren en beschermen gebouwen, landschappen, archeologische sites en varend erfgoed. We ondersteunen burgers, lokale overheden, ontwerpers, ontwikkelaars en andere instanties bij het beheer van dat erfgoed door middel van toelatingen en premies. We zetten het erfgoed dagelijks in de kijker met vlotte en gerichte communicatie.</p> \n<p>Je maakt deel uit van het team Informatie van de afdeling Organisatieondersteuning. Het team staat in voor het beheer en ontwikkelen van informatiesystemen. Systemen zoals de Inventaris Onroerend Erfgoed (https://inventaris.onroerenderfgoed.be), de Beeldbank (https://beeldbank.onroerenderfgoed.be) of het Geoportaal (https://geo.onroerenderfgoed.be) zijn publiek toegankelijke databronnen die elke dag data en informatie leveren aan meerdere groepen gebruikers, van lokale besturen over bedrijven tot burgers. Andere systemen zijn transactionele loketten waarmee onze klanten een premie of toelating kunnen aanvragen, een metaaldetectie- of toevalsvondst kunnen melden of de status van hun erkenning kunnen opvolgen (https://loket.onroerenderfgoed.be).</p> \n<p>Je werkt vanuit ons kantoor te Brussel in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Op basis van een business analyse maak je in samenspraak met de inhoudelijke verantwoordelijken een functionele analyse en werk je een functioneel ontwerp uit voor het oplossen van business problemen. Samen met een ICT-architect en een ontwikkelteam zet je deze analyse om naar een werkende implementatie. Hiermee hou je rekening met de bestaande standaarden, architectuurkeuzes en applicaties die het Agentschap Onroerend Erfgoed gebruikt. Als functioneel analist ben je dagelijks betrokken bij de ontwikkeling via een Agile projectaanpak en werk je nauw samen met ontwikkelaars en de product owner. Je bent verantwoordelijk voor de testen en het begeleiden van testers uit de doelgroepen (intern en extern).</p>",
-        "htmlEncoded": "<p>Bij het agentschap Onroerend Erfgoed gaan we op zoek naar een functioneel analist voor het Team Informatie. Samen met collega analisten en ICT-architecten bouw je de digitale werking van het agentschap verder uit.</p> \n<p>Wil jij als functioneel analist meewerken aan de verdere digitalisering van ons erfgoed en de erfgoedzorg? Ben je begeesterd door erfgoed en technologie? Dan ben jij misschien wel de kandidaat die we zoeken!</p> \n<p><strong>Waar kom je terecht?</strong></p> \n<p>Onroerend Erfgoed is een agentschap en wetenschappelijke instelling van de Vlaamse overheid die bevoegd is voor alle aspecten van onroerend erfgoed. We zetten het beleid daarrond uit. We onderzoeken, inventariseren en beschermen gebouwen, landschappen, archeologische sites en varend erfgoed. We ondersteunen burgers, lokale overheden, ontwerpers, ontwikkelaars en andere instanties bij het beheer van dat erfgoed door middel van toelatingen en premies. We zetten het erfgoed dagelijks in de kijker met vlotte en gerichte communicatie.</p> \n<p>Je maakt deel uit van het team Informatie van de afdeling Organisatieondersteuning. Het team staat in voor het beheer en ontwikkelen van informatiesystemen. Systemen zoals de Inventaris Onroerend Erfgoed (https://inventaris.onroerenderfgoed.be), de Beeldbank (https://beeldbank.onroerenderfgoed.be) of het Geoportaal (https://geo.onroerenderfgoed.be) zijn publiek toegankelijke databronnen die elke dag data en informatie leveren aan meerdere groepen gebruikers, van lokale besturen over bedrijven tot burgers. Andere systemen zijn transactionele loketten waarmee onze klanten een premie of toelating kunnen aanvragen, een metaaldetectie- of toevalsvondst kunnen melden of de status van hun erkenning kunnen opvolgen (https://loket.onroerenderfgoed.be).</p> \n<p>Je werkt vanuit ons kantoor te Brussel in combinatie met een gezonde dosis thuiswerk. Uiteraard ben je bereid om tijdens je inwerkperiode vaker op kantoor aanwezig te zijn.</p> \n<p><strong>Wat zal je moeten doen?</strong></p> \n<p>Op basis van een business analyse maak je in samenspraak met de inhoudelijke verantwoordelijken een functionele analyse en werk je een functioneel ontwerp uit voor het oplossen van business problemen. Samen met een ICT-architect en een ontwikkelteam zet je deze analyse om naar een werkende implementatie. Hiermee hou je rekening met de bestaande standaarden, architectuurkeuzes en applicaties die het Agentschap Onroerend Erfgoed gebruikt. Als functioneel analist ben je dagelijks betrokken bij de ontwikkeling via een Agile projectaanpak en werk je nauw samen met ontwikkelaars en de product owner. Je bent verantwoordelijk voor de testen en het begeleiden van testers uit de doelgroepen (intern en extern).</p>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
       "link": "/Job/cornerstone-20412",
       "internal": false,
       "validThroughDate": "-1",
@@ -3854,42 +3992,6 @@
       "description": {
         "raw": "<p>Wil jij mee richting geven aan een data-architectuur die natuurbeheer in Vlaanderen slimmer, efficiënter en toekomstbestendig maakt?</p> \n<p>Als Data Architect bij het Agentschap voor Natuur en Bos sta je mee aan de fundamenten van onze digitale en datagedreven werking. Je ontwerpt en bewaakt een robuuste data-architectuur die operationele toepassingen, rapportering, analyse en innovatie met elkaar verbindt. Zo zorg je ervoor dat data uit uiteenlopende bronnen, van operationele systemen en geo-data tot analyses en dashboards, op een consistente en betrouwbare manier ingezet kan worden voor beleid en beheer.</p> \n<p><strong>Context – Waar kom je terecht? </strong></p> \n<p>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</p> \n<p>Je werkt bij de Cel Digitalisering &amp; Innovatie van ANB. De cel D&amp;I staat binnen ANB in voor het digitaliseren van dienstverlening, werking en informatie en voor het ontwerpen van innovatieve oplossingen daarbij. Ons doelpubliek is ruim en omvat burgers, partners, doelgroepen en ook de medewerkers van het agentschap, op kantoor en op het terrein.</p> \n<p>Naast de reguliere IT-werking en -ondersteuning, lopen binnen de Cel D&amp;I 2 strategische programma’s, die de digitale transformatie van het agentschap vormgeven:</p> \n<ul> \n<li>Digitale Dienstverlening: gericht op het verbeteren van de digitale interactie met burgers en partners</li> \n<li>Smart Nature: waar technologie zoals IoT, AI en data-analyse wordt ingezet om natuurbeheer slimmer en efficiënter te maken.</li> </ul> \n<p>Binnen deze cel werk je onder de Manager Innovatie en Data en ben je verantwoordelijk voor de  data architectuur van ANB.</p> \n<p><strong>Jouw rol – Wat ga je doen?</strong></p> \n<p>Als Data Architect (Expert) speel je een sleutelrol in het uittekenen, uitbouwen en bewaken van een toekomstgerichte data-architectuur voor ANB. Je zorgt ervoor dat data op een consistente, veilige en herbruikbare manier beschikbaar wordt gesteld voor operationele werking, rapportering, analyse en innovatie.</p> \n<p>In deze rol:</p> \n<ul> \n<li>Werk je applicatie- en datamodellen uit en valideer je deze in functie van business- en architecturale noden</li> \n<li>Draag je actief bij aan de verdere evolutie van de enterprise- en data-architectuur van ANB</li> \n<li>Ondersteun en ontwikkel je de data lake omgeving (Microsoft Fabric Data Lake) en de bijhorende architectuurprincipes</li> \n<li>Bepaal en bewaak je de datamodellering, data governance, metadata en datakwaliteit binnen het data platform</li> \n<li>Zorg je voor een efficiënte data provisioning naar data scientists via een centrale Lakehouse-architectuur</li> \n<li>Faciliteer je de data-ontsluiting naar eindgebruikers via een centraal Data Warehouse en Power BI</li> \n<li>Definieer je performante en robuuste data loading- en refresh-strategieën</li> \n<li>Werk je mee aan het standaardiseren en integreren van (geo)ruimtelijke data, inclusief de aansluiting op het data lake</li> \n<li>Begeleid je de integratie tussen GIS-platformen (zoals ArcGIS) en rapportering in Power BI</li> \n<li>Adviseer je stakeholders over data-oplossingen en bewaak je de samenhang tussen strategie, architectuur en implementatie</li> </ul>",
         "htmlEncoded": "<p>Wil jij mee richting geven aan een data-architectuur die natuurbeheer in Vlaanderen slimmer, efficiënter en toekomstbestendig maakt?</p> \n<p>Als Data Architect bij het Agentschap voor Natuur en Bos sta je mee aan de fundamenten van onze digitale en datagedreven werking. Je ontwerpt en bewaakt een robuuste data-architectuur die operationele toepassingen, rapportering, analyse en innovatie met elkaar verbindt. Zo zorg je ervoor dat data uit uiteenlopende bronnen, van operationele systemen en geo-data tot analyses en dashboards, op een consistente en betrouwbare manier ingezet kan worden voor beleid en beheer.</p> \n<p><strong>Context – Waar kom je terecht? </strong></p> \n<p>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</p> \n<p>Je werkt bij de Cel Digitalisering &amp; Innovatie van ANB. De cel D&amp;I staat binnen ANB in voor het digitaliseren van dienstverlening, werking en informatie en voor het ontwerpen van innovatieve oplossingen daarbij. Ons doelpubliek is ruim en omvat burgers, partners, doelgroepen en ook de medewerkers van het agentschap, op kantoor en op het terrein.</p> \n<p>Naast de reguliere IT-werking en -ondersteuning, lopen binnen de Cel D&amp;I 2 strategische programma’s, die de digitale transformatie van het agentschap vormgeven:</p> \n<ul> \n<li>Digitale Dienstverlening: gericht op het verbeteren van de digitale interactie met burgers en partners</li> \n<li>Smart Nature: waar technologie zoals IoT, AI en data-analyse wordt ingezet om natuurbeheer slimmer en efficiënter te maken.</li> </ul> \n<p>Binnen deze cel werk je onder de Manager Innovatie en Data en ben je verantwoordelijk voor de  data architectuur van ANB.</p> \n<p><strong>Jouw rol – Wat ga je doen?</strong></p> \n<p>Als Data Architect (Expert) speel je een sleutelrol in het uittekenen, uitbouwen en bewaken van een toekomstgerichte data-architectuur voor ANB. Je zorgt ervoor dat data op een consistente, veilige en herbruikbare manier beschikbaar wordt gesteld voor operationele werking, rapportering, analyse en innovatie.</p> \n<p>In deze rol:</p> \n<ul> \n<li>Werk je applicatie- en datamodellen uit en valideer je deze in functie van business- en architecturale noden</li> \n<li>Draag je actief bij aan de verdere evolutie van de enterprise- en data-architectuur van ANB</li> \n<li>Ondersteun en ontwikkel je de data lake omgeving (Microsoft Fabric Data Lake) en de bijhorende architectuurprincipes</li> \n<li>Bepaal en bewaak je de datamodellering, data governance, metadata en datakwaliteit binnen het data platform</li> \n<li>Zorg je voor een efficiënte data provisioning naar data scientists via een centrale Lakehouse-architectuur</li> \n<li>Faciliteer je de data-ontsluiting naar eindgebruikers via een centraal Data Warehouse en Power BI</li> \n<li>Definieer je performante en robuuste data loading- en refresh-strategieën</li> \n<li>Werk je mee aan het standaardiseren en integreren van (geo)ruimtelijke data, inclusief de aansluiting op het data lake</li> \n<li>Begeleid je de integratie tussen GIS-platformen (zoals ArcGIS) en rapportering in Power BI</li> \n<li>Adviseer je stakeholders over data-oplossingen en bewaak je de samenhang tussen strategie, architectuur en implementatie</li> </ul>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/vdab-73082826",
-      "internal": false,
-      "validThroughDate": "-1",
-      "hiringOrganization": "Vlaanderen connect.",
-      "reservedForDisability": null,
-      "openPositions": 1,
-      "domain": "ICT",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "vdab-73082826",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Proces analist (Agentschap Natuur en Bos) via Vlaanderen Connect"
-      },
-      "displayTitle": "Proces analist (Agentschap Natuur en Bos) via Vlaanderen Connect",
-      "isProtected": false,
-      "description": {
-        "raw": "<p><b><span>Doel van de functie</span></b></p> \n<p><span>Ben jij een analytische denker met een hart voor natuur én technologie? Wil je bijdragen aan een groenere toekomst en efficiëntere werking binnen het Agentschap voor Natuur en Bos? Het Agentschap voor Natuur en Bos zoekt een Proces Analist die digitalisering inzet om onze werking te verbeteren. Je helpt mee aan het stroomlijnen van processen rond natuurbeheer, vergunningen, subsidies en terreinwerking, met een sterke focus op digitale transformatie. Je werkt samen met collega’s uit diverse disciplines om processen te analyseren, te verbeteren en te verduurzamen.</span></p> \n<p><b><span>Context – Waar kom je terecht?</span></b><b><span> </span></b><b><span></span></b></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</span><span> </span><span></span></p> \n<p><span>Je werkt bij de Cel Digitalisering &amp; Innovatie van ANB. De cel D&amp;I staat binnen ANB in voor het digitaliseren van dienstverlening, werking en informatie en voor het ontwerpen van innovatieve oplossingen daarbij. Ons doelpubliek is ruim en omvat burgers, partners, doelgroepen en ook de medewerkers van het agentschap, op kantoor en op het terrein.</span><span> </span><span></span></p> \n<p><span>Naast de reguliere IT-werking en -ondersteuning, lopen binnen de Cel D&amp;I 2 strategische programma’s, die de digitale transformatie van het agentschap vormgeven:</span><span> </span><span></span></p> \n<ul> \n<li><span>Digitale Dienstverlening: gericht op het verbeteren van de digitale interactie met burgers en partners</span><span> </span><span></span></li> \n<li><span>Smart Nature: waar technologie zoals IoT, AI en data-analyse wordt ingezet om natuurbeheer slimmer en efficiënter te maken.</span><span> </span><span></span></li> </ul>",
-        "htmlEncoded": "<p><b><span>Doel van de functie</span></b></p> \n<p><span>Ben jij een analytische denker met een hart voor natuur én technologie? Wil je bijdragen aan een groenere toekomst en efficiëntere werking binnen het Agentschap voor Natuur en Bos? Het Agentschap voor Natuur en Bos zoekt een Proces Analist die digitalisering inzet om onze werking te verbeteren. Je helpt mee aan het stroomlijnen van processen rond natuurbeheer, vergunningen, subsidies en terreinwerking, met een sterke focus op digitale transformatie. Je werkt samen met collega’s uit diverse disciplines om processen te analyseren, te verbeteren en te verduurzamen.</span></p> \n<p><b><span>Context – Waar kom je terecht?</span></b><b><span> </span></b><b><span></span></b></p> \n<p><span>Het Agentschap voor Natuur en Bos (ANB) koestert, beschermt en ontwikkelt ruim 70.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Waardevolle natuurprojecten? Daar zet Natuur en Bos graag mee de schouders onder, met financiële steun én vakmanschap. Van het planten van je eigen bos, over initiatieven die streven naar een hogere natuurkwaliteit, tot verbindende projecten voor toegankelijke natuur in je buurt. Onder het motto 'Samen voor Meer en Beter' creëert Natuur en Bos met diverse partners een groter draagvlak voor natuur.</span><span> </span><span></span></p> \n<p><span>Je werkt bij de Cel Digitalisering &amp; Innovatie van ANB. De cel D&amp;I staat binnen ANB in voor het digitaliseren van dienstverlening, werking en informatie en voor het ontwerpen van innovatieve oplossingen daarbij. Ons doelpubliek is ruim en omvat burgers, partners, doelgroepen en ook de medewerkers van het agentschap, op kantoor en op het terrein.</span><span> </span><span></span></p> \n<p><span>Naast de reguliere IT-werking en -ondersteuning, lopen binnen de Cel D&amp;I 2 strategische programma’s, die de digitale transformatie van het agentschap vormgeven:</span><span> </span><span></span></p> \n<ul> \n<li><span>Digitale Dienstverlening: gericht op het verbeteren van de digitale interactie met burgers en partners</span><span> </span><span></span></li> \n<li><span>Smart Nature: waar technologie zoals IoT, AI en data-analyse wordt ingezet om natuurbeheer slimmer en efficiënter te maken.</span><span> </span><span></span></li> </ul>"
       },
       "locations": [
         {
