@@ -1,11 +1,242 @@
 {
-  "totalItems": 137,
+  "totalItems": 145,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 136,
+  "lastItemOfPage": 144,
   "items": [
+    {
+      "link": "/Job/cornerstone-21176",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21176",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EV INBO Jobstudent VespaWatch & GRIIS checklist"
+      },
+      "displayTitle": "EV INBO Jobstudent VespaWatch & GRIIS checklist",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van het team InvasieLab van het Eigen Vermogen van INBO.</p><p>Je voert de volgende taken uit:</p><ul><li>Je helpt mee aan het Vespawatch project. Je beantwoordt e-mails van burgers en voert kwaliteitscontroles uit van de databanken.</li><li>Je vernieuwt de checklist invasieve uitheemse vogels in België (literatuur review).</li></ul>",
+        "htmlEncoded": "<p>Je maakt deel uit van het team InvasieLab van het Eigen Vermogen van INBO.</p><p>Je voert de volgende taken uit:</p><ul><li>Je helpt mee aan het Vespawatch project. Je beantwoordt e-mails van burgers en voert kwaliteitscontroles uit van de databanken.</li><li>Je vernieuwt de checklist invasieve uitheemse vogels in België (literatuur review).</li></ul>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21175",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21175",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EVINBO Jobstudent voor digitalisering kaarten en verwerking wildcamerabeelden"
+      },
+      "displayTitle": "EVINBO Jobstudent voor digitalisering kaarten en verwerking wildcamerabeelden",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van het team Estuaria van het Eigen Vermogen van het INBO.</p><p>Je bent verantwoordelijk voor 2 taken:</p><ol><li>Verwerking van wildcamerabeelden: INBO volgt het broedsucces op van weidevogels. Grondpredatoren vormen hierbij een risico. Met wildcamera’s wordt de aanwezigheid van deze predatoren gemonitord, wat resulteert in een grote hoeveelheid beeldmateriaal. Je identificeert soorten op de beelden en voert ze in in een databank.</li><li>Digitaliseren van vegetatiekaarten: Sigma-gebieden worden in kaart gebracht op basis van vegetatietypes. Je digitaliseert veldkarteringen aan de hand van luchtfoto’s en voert vegetatieopnamen in in een databank.</li></ol>",
+        "htmlEncoded": "<p>Je maakt deel uit van het team Estuaria van het Eigen Vermogen van het INBO.</p><p>Je bent verantwoordelijk voor 2 taken:</p><ol><li>Verwerking van wildcamerabeelden: INBO volgt het broedsucces op van weidevogels. Grondpredatoren vormen hierbij een risico. Met wildcamera’s wordt de aanwezigheid van deze predatoren gemonitord, wat resulteert in een grote hoeveelheid beeldmateriaal. Je identificeert soorten op de beelden en voert ze in in een databank.</li><li>Digitaliseren van vegetatiekaarten: Sigma-gebieden worden in kaart gebracht op basis van vegetatietypes. Je digitaliseert veldkarteringen aan de hand van luchtfoto’s en voert vegetatieopnamen in in een databank.</li></ol>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21174",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21174",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EVINBO Jobstudent Onthaalmedewerker Geraardsbergen"
+      },
+      "displayTitle": "EVINBO Jobstudent Onthaalmedewerker Geraardsbergen",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van het team Facility van het Eigen Vermogen van INBO.</p><p>Je zorgt voor een professioneel onthaal van het gebouw van INBO in Geraardsbergen, gelegen te Gaverstraat 4.</p><p>Je staat in voor de postbedeling, het beantwoorden van vragen aan het onthaal en het ontvangen van leveranciers.</p>",
+        "htmlEncoded": "<p>Je maakt deel uit van het team Facility van het Eigen Vermogen van INBO.</p><p>Je zorgt voor een professioneel onthaal van het gebouw van INBO in Geraardsbergen, gelegen te Gaverstraat 4.</p><p>Je staat in voor de postbedeling, het beantwoorden van vragen aan het onthaal en het ontvangen van leveranciers.</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geraardsbergen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21173",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21173",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EVINBO Jobstudent Veldmedewerker benthosonderzoek"
+      },
+      "displayTitle": "EVINBO Jobstudent Veldmedewerker benthosonderzoek",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van het team veldmedewerkers dat het macrobenthosonderzoek en de macrobenthosmonitoring uitvoert bij team Estuaria van het Eigen Vermogen van INBO.</p><p>Je hoofdtaak tijdens is het uitvoeren van veldwerk op slik en schor langs de Schelde.. </p><p>Je assisteert bij het voorbereiden en uitvoeren van veldwerk en staat in voor de verwerking van macrobenthos stalen (triage, identificatie, telling en biomassa bepaling) in het labo.</p><p>Werken in een getijden-ecosysteem brengt gevaren met zich mee. Je werkt daarom steeds in teamverband.</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "htmlEncoded": "<p>Je maakt deel uit van het team veldmedewerkers dat het macrobenthosonderzoek en de macrobenthosmonitoring uitvoert bij team Estuaria van het Eigen Vermogen van INBO.</p><p>Je hoofdtaak tijdens is het uitvoeren van veldwerk op slik en schor langs de Schelde.. </p><p>Je assisteert bij het voorbereiden en uitvoeren van veldwerk en staat in voor de verwerking van macrobenthos stalen (triage, identificatie, telling en biomassa bepaling) in het labo.</p><p>Werken in een getijden-ecosysteem brengt gevaren met zich mee. Je werkt daarom steeds in teamverband.</p><p>&nbsp;</p><p>&nbsp;</p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Gent"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21167",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21167",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EVINBO Jobstudent team Milieu en Klimaat"
+      },
+      "displayTitle": "EVINBO Jobstudent team Milieu en Klimaat",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van het team Milieu en Klimaat van het Eigen Vermogen van het INBO.</p><p>Je takenpakket kadert in de werkzaamheden van de internationale samenwerkingsprogramma’s (ICP) van de working group of effects (UNECE&nbsp; CLRTAP convention) en is tweeledig:<br><br>-&nbsp; &nbsp; &nbsp; &nbsp; ICP vegetation: je pluist het mossenarchief uit van de eerste bosinventarisatie; je maakt een selectie van geschikte matvormende slaapmossen.<br>-&nbsp; &nbsp; &nbsp; &nbsp; ICP forests: je biedt ondersteuning voor level II activiteiten, zoals meehelpen met bemonsteringen in de 5 level II proefvlakken en de werkzaamheden in de meettoren/wetenschappelijke zone te Brasschaat.</p><br>",
+        "htmlEncoded": "<p>Je maakt deel uit van het team Milieu en Klimaat van het Eigen Vermogen van het INBO.</p><p>Je takenpakket kadert in de werkzaamheden van de internationale samenwerkingsprogramma’s (ICP) van de working group of effects (UNECE&nbsp; CLRTAP convention) en is tweeledig:<br><br>-&nbsp; &nbsp; &nbsp; &nbsp; ICP vegetation: je pluist het mossenarchief uit van de eerste bosinventarisatie; je maakt een selectie van geschikte matvormende slaapmossen.<br>-&nbsp; &nbsp; &nbsp; &nbsp; ICP forests: je biedt ondersteuning voor level II activiteiten, zoals meehelpen met bemonsteringen in de 5 level II proefvlakken en de werkzaamheden in de meettoren/wetenschappelijke zone te Brasschaat.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Geraardsbergen"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21165",
+      "internal": false,
+      "validThroughDate": "1780185600",
+      "hiringOrganization": "Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Onderzoek en ontwikkeling",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21165",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "EVINBO Jobstudent Plantenkartering Kust"
+      },
+      "displayTitle": "EVINBO Jobstudent Plantenkartering Kust",
+      "isProtected": false,
+      "description": {
+        "raw": "<p>Je maakt deel uit van team Landschapsecologie en Natuurbeheer van het Eigen Vermogen van het INBO.</p><p>Je job bestaat overwegend uit terreinwerk in de natuurgebieden aan de kust (duinen en schorren). </p><p>Je voert een gedetailleerde kartering uit van vegetatie (op luchtfoto’s) en flora (aandachtssoorten en exoten via ObsMap) volgens de methodiek vastgelegd in het project ‘Permanente Inventarisatie van de Natuurreservaten aan de Kust’ (PINK) en vervolgproject BEK (zie rapporten hieronder).&nbsp;</p><p>Je bent beschikbaar in de maand juli.</p><br>",
+        "htmlEncoded": "<p>Je maakt deel uit van team Landschapsecologie en Natuurbeheer van het Eigen Vermogen van het INBO.</p><p>Je job bestaat overwegend uit terreinwerk in de natuurgebieden aan de kust (duinen en schorren). </p><p>Je voert een gedetailleerde kartering uit van vegetatie (op luchtfoto’s) en flora (aandachtssoorten en exoten via ObsMap) volgens de methodiek vastgelegd in het project ‘Permanente Inventarisatie van de Natuurreservaten aan de Kust’ (PINK) en vervolgproject BEK (zie rapporten hieronder).&nbsp;</p><p>Je bent beschikbaar in de maand juli.</p><br>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-21161",
+      "internal": false,
+      "validThroughDate": "1778112000",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": null,
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-21161",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Begeleider in het Vlaams detentiecentrum"
+      },
+      "displayTitle": "Begeleider in het Vlaams detentiecentrum",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Als&nbsp;begeleider in het Vlaams Detentiecentrum sta je in voor de dagelijkse begeleiding van jongeren in een&nbsp;gesloten&nbsp;context. Je vervult een&nbsp;solo‑functie&nbsp;voor de pedagogische begeleiding, maar&nbsp;om een veilig, gestructureerd en voorspelbaar leefklimaat te waarborgen werk je&nbsp;samen met de&nbsp;veiligheidsmedewerkers&nbsp;in een team dat wordt aangestuurd door twee ervaren pedagogisch geschoolde&nbsp;teamverantwoordelijken.&nbsp;&nbsp;</span></p><p><span>Op basis van pedagogische en forensische modellen begeleid je jongeren in hun dagelijks functioneren. Je observeert gedrag, herkent problematieken en speelt hier professioneel op in. Je werkt doelgericht aan begeleidingstrajecten en draagt bij aan gedragsverandering en responsabilisering binnen duidelijke kaders.&nbsp;Je neemt ook regelmatig deel aan multidisciplinair overleg met leden van de psychosociale dienst, leerkrachten en directie.&nbsp;</span></p><p><span>Gezien het solo‑karakter van de functie is&nbsp;relevante ervaring&nbsp;met&nbsp;jongerenbegeleiding&nbsp;binnen een&nbsp;residentiële of forensische context&nbsp;belangrijk. Je kan zelfstandig handelen binnen vastgelegde procedures en weet tegelijk goed samen te werken binnen een multidisciplinair kader.&nbsp;</span></p><p><span>Je stemt&nbsp;regelmatig&nbsp;af met&nbsp;alle&nbsp;diensten&nbsp;binnen het VDC,&nbsp;maar ook met&nbsp;externe&nbsp;partners&nbsp;waarmee je eventueel een gezamenlijk&nbsp;pedagogisch&nbsp;aanbod voor de uithandengegeven jongeren zal&nbsp;organiseren.&nbsp;<br>Je werkt in&nbsp;daguren&nbsp;en&nbsp;neemt sporadisch&nbsp;vroege en late shiften&nbsp;op.&nbsp;</span></p><p><span>Sollicitatieprocedure: Je kan solliciteren tot en met 7 mei, de gesprekken vinden plaats op 12 mei in het VDC in Beveren.&nbsp;</span></p>",
+        "htmlEncoded": "<p><span>Als&nbsp;begeleider in het Vlaams Detentiecentrum sta je in voor de dagelijkse begeleiding van jongeren in een&nbsp;gesloten&nbsp;context. Je vervult een&nbsp;solo‑functie&nbsp;voor de pedagogische begeleiding, maar&nbsp;om een veilig, gestructureerd en voorspelbaar leefklimaat te waarborgen werk je&nbsp;samen met de&nbsp;veiligheidsmedewerkers&nbsp;in een team dat wordt aangestuurd door twee ervaren pedagogisch geschoolde&nbsp;teamverantwoordelijken.&nbsp;&nbsp;</span></p><p><span>Op basis van pedagogische en forensische modellen begeleid je jongeren in hun dagelijks functioneren. Je observeert gedrag, herkent problematieken en speelt hier professioneel op in. Je werkt doelgericht aan begeleidingstrajecten en draagt bij aan gedragsverandering en responsabilisering binnen duidelijke kaders.&nbsp;Je neemt ook regelmatig deel aan multidisciplinair overleg met leden van de psychosociale dienst, leerkrachten en directie.&nbsp;</span></p><p><span>Gezien het solo‑karakter van de functie is&nbsp;relevante ervaring&nbsp;met&nbsp;jongerenbegeleiding&nbsp;binnen een&nbsp;residentiële of forensische context&nbsp;belangrijk. Je kan zelfstandig handelen binnen vastgelegde procedures en weet tegelijk goed samen te werken binnen een multidisciplinair kader.&nbsp;</span></p><p><span>Je stemt&nbsp;regelmatig&nbsp;af met&nbsp;alle&nbsp;diensten&nbsp;binnen het VDC,&nbsp;maar ook met&nbsp;externe&nbsp;partners&nbsp;waarmee je eventueel een gezamenlijk&nbsp;pedagogisch&nbsp;aanbod voor de uithandengegeven jongeren zal&nbsp;organiseren.&nbsp;<br>Je werkt in&nbsp;daguren&nbsp;en&nbsp;neemt sporadisch&nbsp;vroege en late shiften&nbsp;op.&nbsp;</span></p><p><span>Sollicitatieprocedure: Je kan solliciteren tot en met 7 mei, de gesprekken vinden plaats op 12 mei in het VDC in Beveren.&nbsp;</span></p>"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Beveren-Kruibeke-Zwijndrecht"
+          }
+        }
+      ]
+    },
     {
       "link": "/Job/cornerstone-20998",
       "internal": false,
@@ -33,6 +264,42 @@
       "description": {
         "raw": "Eén\nselectieprocedure, twee vacatures ...<br><br>Binnen het\nbeleidsdomein Onderwijs zoeken we twee data-analisten die elk binnen een andere\nentiteit aan de slag gaan: één bij AHOVOKS en één bij de Onderwijsinspectie.\nBeide functies dragen bij aan datagedreven inzichten die het onderwijsbeleid,\nde dienstverlening en de kwaliteitsbewaking versterken. Je analyseert data,\nbouwt dashboards, werkt samen met diverse partners en vertaalt cijfers naar\nbruikbare informatie voor beleid en praktijk.<br><br>Binnen deze procedure\nkan je terechtkomen in een van de volgende focusgebieden:<br><br><strong>• Focusgebied\nAHOVOKS: beleidsinformatie &amp; procesoptimalisatie</strong><br><br>Ben je gebeten door\nindicatoren, cijferanalyse en data? Zet je graag gegevens om tot waardevolle\ninformatie voor het beleid, het agentschap en haar partners? Dan is deze\nfunctie misschien jouw nieuwe uitdaging. Deze rol focust op het omzetten van\ndata om beleidsinformatie te creëren en interne processen te verbeteren.<br><br><strong>Wat ga jij concreet\ndoen?</strong><br><br>Je voert data-analyses uit om beleidsinformatie te creëren en interne processen te optimaliseren.<br>Je verzamelt, verwerkt en deelt informatie met interne en externe partners.<br>Je werkt indicatoren uit, implementeert en volgt ze op.<br>Je ontwikkelt rapporteringen en dashboards.<br>Je werkt samen met collega’s binnen het agentschap, andere entiteiten van Onderwijs en Vorming, ICT-partners, onderwijsinstellingen en koepels.<br>Je werkt nauw samen met beleidsmedewerkers en met het interne team van data-analisten voor het technische luik.<br><br><strong>• Focusgebied Vlaamse\nOnderwijsinspectie: dataproducten &amp; technische dataverwerking</strong><br><br>Bouw mee aan de\nkwaliteit van ons onderwijs. Heb jij een neus voor patronen in complexe\ndatasets? Wil je jouw expertise in SQL, Python en Tableau inzetten voor een\ndoel dat er echt toe doet? Dan is deze functie iets voor jou. Deze rol focust\nop het vertalen van ruwe data naar het bouwen van dataproducten en inzichten\ndie de kwaliteitsbewaking van het onderwijs ondersteunen.<br><br><strong>Wat ga jij concreet\ndoen?</strong><br><br>•&nbsp;Je analyseert de noden van de organisatie en vertaalt deze naar dashboards, dataproducten en rapportages.<br>•&nbsp;Je schrijft complexe SQL-queries, ontwikkelt ETL-processen (DBT) en zet datapipelines op.<br>•&nbsp;Je optimaliseert datamodellen en borgt datakwaliteit met een ‘security &amp; privacy first’-mindset.<br>•&nbsp;Je experimenteert met nieuwe technologieën en werkt in een agile omgeving.<br>•&nbsp;Je presenteert inzichten aan interne en externe stakeholders en ondersteunt cruciale processen.<br>•&nbsp;Je wordt ingezet op diverse projecten binnen verschillende afdelingen van AHOVOKS, zoals:<br>dataprojecten en interne monitoring bij NARIC (erkenning van buitenlandse diploma’s),&nbsp;management monitors voor processen rond studietoelagen, of de uitbetaling van personeelsleden in het hoger en volwassenenonderwijs<br><br>Herken jij jezelf in een van deze profielen en wil\nje jouw tanden zetten in uitdagende dataprojecten? Dan horen we graag van je!",
         "htmlEncoded": "Eén\nselectieprocedure, twee vacatures ...<br><br>Binnen het\nbeleidsdomein Onderwijs zoeken we twee data-analisten die elk binnen een andere\nentiteit aan de slag gaan: één bij AHOVOKS en één bij de Onderwijsinspectie.\nBeide functies dragen bij aan datagedreven inzichten die het onderwijsbeleid,\nde dienstverlening en de kwaliteitsbewaking versterken. Je analyseert data,\nbouwt dashboards, werkt samen met diverse partners en vertaalt cijfers naar\nbruikbare informatie voor beleid en praktijk.<br><br>Binnen deze procedure\nkan je terechtkomen in een van de volgende focusgebieden:<br><br><strong>• Focusgebied\nAHOVOKS: beleidsinformatie &amp; procesoptimalisatie</strong><br><br>Ben je gebeten door\nindicatoren, cijferanalyse en data? Zet je graag gegevens om tot waardevolle\ninformatie voor het beleid, het agentschap en haar partners? Dan is deze\nfunctie misschien jouw nieuwe uitdaging. Deze rol focust op het omzetten van\ndata om beleidsinformatie te creëren en interne processen te verbeteren.<br><br><strong>Wat ga jij concreet\ndoen?</strong><br><br>Je voert data-analyses uit om beleidsinformatie te creëren en interne processen te optimaliseren.<br>Je verzamelt, verwerkt en deelt informatie met interne en externe partners.<br>Je werkt indicatoren uit, implementeert en volgt ze op.<br>Je ontwikkelt rapporteringen en dashboards.<br>Je werkt samen met collega’s binnen het agentschap, andere entiteiten van Onderwijs en Vorming, ICT-partners, onderwijsinstellingen en koepels.<br>Je werkt nauw samen met beleidsmedewerkers en met het interne team van data-analisten voor het technische luik.<br><br><strong>• Focusgebied Vlaamse\nOnderwijsinspectie: dataproducten &amp; technische dataverwerking</strong><br><br>Bouw mee aan de\nkwaliteit van ons onderwijs. Heb jij een neus voor patronen in complexe\ndatasets? Wil je jouw expertise in SQL, Python en Tableau inzetten voor een\ndoel dat er echt toe doet? Dan is deze functie iets voor jou. Deze rol focust\nop het vertalen van ruwe data naar het bouwen van dataproducten en inzichten\ndie de kwaliteitsbewaking van het onderwijs ondersteunen.<br><br><strong>Wat ga jij concreet\ndoen?</strong><br><br>•&nbsp;Je analyseert de noden van de organisatie en vertaalt deze naar dashboards, dataproducten en rapportages.<br>•&nbsp;Je schrijft complexe SQL-queries, ontwikkelt ETL-processen (DBT) en zet datapipelines op.<br>•&nbsp;Je optimaliseert datamodellen en borgt datakwaliteit met een ‘security &amp; privacy first’-mindset.<br>•&nbsp;Je experimenteert met nieuwe technologieën en werkt in een agile omgeving.<br>•&nbsp;Je presenteert inzichten aan interne en externe stakeholders en ondersteunt cruciale processen.<br>•&nbsp;Je wordt ingezet op diverse projecten binnen verschillende afdelingen van AHOVOKS, zoals:<br>dataprojecten en interne monitoring bij NARIC (erkenning van buitenlandse diploma’s),&nbsp;management monitors voor processen rond studietoelagen, of de uitbetaling van personeelsleden in het hoger en volwassenenonderwijs<br><br>Herken jij jezelf in een van deze profielen en wil\nje jouw tanden zetten in uitdagende dataprojecten? Dan horen we graag van je!"
+      },
+      "locations": [
+        {
+          "address": {
+            "city": "Brussel"
+          }
+        }
+      ]
+    },
+    {
+      "link": "/Job/cornerstone-20996",
+      "internal": false,
+      "validThroughDate": "1779148800",
+      "hiringOrganization": "Sport Vlaanderen",
+      "reservedForDisability": false,
+      "openPositions": 1,
+      "domain": "Dienstverlening",
+      "degreeLevel": {
+        "code": "A",
+        "name": "Masterdiploma"
+      },
+      "degreeEqualByExperience": false,
+      "identifier": "cornerstone-20996",
+      "contentType": "Job",
+      "collectionType": null,
+      "image": null,
+      "contentSubtype": null,
+      "hubContentSubtype": null,
+      "title": {
+        "htmlEncoded": "Beleidsmedewerker beweegvriendelijke omgeving"
+      },
+      "displayTitle": "Beleidsmedewerker beweegvriendelijke omgeving",
+      "isProtected": false,
+      "description": {
+        "raw": "<p><span>Maak jij mee het verschil in hoe Vlaanderen beweegt? Als beleidsmedewerker beweegvriendelijke omgeving ga je in de afdeling Sportparticipatie aan de slag binnen het team Sportieve Vrije Tijd. Je werkt er aan een publieke ruimte die mensen uitnodigt om te sporten en te bewegen. In deze rol ben je een bruggenbouwer tussen infrastructuur, openbare ruimte en diverse doelgroepen, waarbij je inzichten vertaalt naar concrete acties en projecten op het terrein.<br> <br> Je volgt nieuwe ontwikkelingen, materialen en ontwerpprincipes nauwgezet op en neemt ook regelgeving, onderzoek en monitoring mee in je werk. Die kennis integreer je in beleid en communicatie, zodat ze breed inzetbaar wordt binnen de organisatie. Binnen Sport Vlaanderen ben jij het eerste aanspreekpunt voor dit thema en kunnen lokale besturen en organisaties bij jou terecht met hun vragen. Met jouw expertise inspireer en adviseer je hen om hun publieke ruimte beweegvriendelijker in te richten.<br> <br> Samenwerking staat centraal, want je werkt nauw samen met collega’s uit je eigen afdeling, maar ook uit de afdelingen Sportinfrastructuur en Beleid &amp; Strategie. Je stemt regelmatig af tussen verschillende teams en draagt actief bij aan de visievorming en beleidsontwikkeling rond sporten en bewegen in de publieke ruimte in Vlaanderen. Ook neem je deel aan relevante werkgroepen en volg je deze inhoudelijk op. <br> <br> Daarnaast ondersteun je de werking rond routegebonden infrastructuur zoals loop- en offroadfietsroutes. Je detecteert nieuwe trends, vertaalt die naar verbeteringen en helpt het bestaande aanbod en de werking verder te optimaliseren. Zo zorg je ervoor dat meer mensen, op meer plekken, in beweging komen.<br> <br> </span><span>Ben jij </span><span>een dynamisch en leergierig persoon en sta je open voor veranderingen? Durf jij over het muurtje te kijken én zie je kansen om vanuit onze organisatie sporten en bewegen in de publieke ruimte naar een hoger niveau te tillen? Dan is dit je moment. Lees hieronder het verder verloop van de selectieprocedure en stel je kandidaat!</span></p>",
+        "htmlEncoded": "<p><span>Maak jij mee het verschil in hoe Vlaanderen beweegt? Als beleidsmedewerker beweegvriendelijke omgeving ga je in de afdeling Sportparticipatie aan de slag binnen het team Sportieve Vrije Tijd. Je werkt er aan een publieke ruimte die mensen uitnodigt om te sporten en te bewegen. In deze rol ben je een bruggenbouwer tussen infrastructuur, openbare ruimte en diverse doelgroepen, waarbij je inzichten vertaalt naar concrete acties en projecten op het terrein.<br> <br> Je volgt nieuwe ontwikkelingen, materialen en ontwerpprincipes nauwgezet op en neemt ook regelgeving, onderzoek en monitoring mee in je werk. Die kennis integreer je in beleid en communicatie, zodat ze breed inzetbaar wordt binnen de organisatie. Binnen Sport Vlaanderen ben jij het eerste aanspreekpunt voor dit thema en kunnen lokale besturen en organisaties bij jou terecht met hun vragen. Met jouw expertise inspireer en adviseer je hen om hun publieke ruimte beweegvriendelijker in te richten.<br> <br> Samenwerking staat centraal, want je werkt nauw samen met collega’s uit je eigen afdeling, maar ook uit de afdelingen Sportinfrastructuur en Beleid &amp; Strategie. Je stemt regelmatig af tussen verschillende teams en draagt actief bij aan de visievorming en beleidsontwikkeling rond sporten en bewegen in de publieke ruimte in Vlaanderen. Ook neem je deel aan relevante werkgroepen en volg je deze inhoudelijk op. <br> <br> Daarnaast ondersteun je de werking rond routegebonden infrastructuur zoals loop- en offroadfietsroutes. Je detecteert nieuwe trends, vertaalt die naar verbeteringen en helpt het bestaande aanbod en de werking verder te optimaliseren. Zo zorg je ervoor dat meer mensen, op meer plekken, in beweging komen.<br> <br> </span><span>Ben jij </span><span>een dynamisch en leergierig persoon en sta je open voor veranderingen? Durf jij over het muurtje te kijken én zie je kansen om vanuit onze organisatie sporten en bewegen in de publieke ruimte naar een hoger niveau te tillen? Dan is dit je moment. Lees hieronder het verder verloop van de selectieprocedure en stel je kandidaat!</span></p>"
       },
       "locations": [
         {
@@ -154,7 +421,7 @@
       "link": "/Job/cornerstone-21133",
       "internal": false,
       "validThroughDate": "1778112000",
-      "hiringOrganization": "Vlaams Detentiecentrum Beveren (VDC)",
+      "hiringOrganization": "Agentschap Justitie en Handhaving",
       "reservedForDisability": false,
       "openPositions": 1,
       "domain": "Andere",
@@ -167,13 +434,13 @@
       "contentSubtype": null,
       "hubContentSubtype": null,
       "title": {
-        "htmlEncoded": "Veiligheidsmedewerker VDC"
+        "htmlEncoded": "Veiligheidsmedewerker in het Vlaams detentiecentrum"
       },
-      "displayTitle": "Veiligheidsmedewerker VDC",
+      "displayTitle": "Veiligheidsmedewerker in het Vlaams detentiecentrum",
       "isProtected": false,
       "description": {
-        "raw": "<p><span>Als veiligheidsmedewerker&nbsp;binnen het&nbsp;VDC&nbsp;speel je een cruciale rol in het waarborgen van veiligheid, rust en structuur voor uit handen gegeven jongeren. Samen met je team creëer je een stabiele leefomgeving waarin duidelijkheid en voorspelbaarheid centraal staan. Je bent zichtbaar aanwezig op de werkvloer, houdt overzicht en handelt kordaat wanneer de veiligheid in het gedrang komt. Zo maak je elke dag het verschil.&nbsp;<br>Je werkt volgens vastgelegde dag‑&nbsp;en weekplanningen en weet prioriteiten correct in te schatten. In nauwe samenwerking met collega’s en leidinggevenden stem je taken, observaties en aanpak af. Je blijft je expertise versterken door actieve deelname aan vormingen.&nbsp;<br>Je voert veiligheidscontroles uit volgens geldende procedures, waaronder kamercontroles en kledijwissels. Je observeert en begeleidt jongeren, individueel of in groep, tijdens activiteiten, lessen en bezoeken. Daarnaast ondersteun je het dagelijkse reilen en zeilen van de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne.&nbsp;<br>Bij incidenten treed je doortastend op en pas je de aangeleerde fysieke interventietechnieken toe. Je waakt over orde en netheid in de&nbsp;leefunit&nbsp;en houdt toezicht tijdens activiteitenblokken. Met jouw professionele houding draag je bij aan een veilig en respectvol leefklimaat, gebaseerd op heldere afspraken en samenwerking.&nbsp;<br>Je rapporteert incidenten en observaties correct, objectief en tijdig aan de betrokken diensten. Tot slot beheer je de middelen en producten binnen de unit en zie je toe op een zorgvuldig stockbeheer en correct gebruik.&nbsp;</span></p><p><span>&nbsp;</span></p><p><span><strong>Sollicitatieprocedure</strong>: Je kan solliciteren tot en met 7 mei, de jurygesprekken vinden plaats op 12 mei in het VDC (onder voorbehoud).&nbsp;</span></p>",
-        "htmlEncoded": "<p><span>Als veiligheidsmedewerker&nbsp;binnen het&nbsp;VDC&nbsp;speel je een cruciale rol in het waarborgen van veiligheid, rust en structuur voor uit handen gegeven jongeren. Samen met je team creëer je een stabiele leefomgeving waarin duidelijkheid en voorspelbaarheid centraal staan. Je bent zichtbaar aanwezig op de werkvloer, houdt overzicht en handelt kordaat wanneer de veiligheid in het gedrang komt. Zo maak je elke dag het verschil.&nbsp;<br>Je werkt volgens vastgelegde dag‑&nbsp;en weekplanningen en weet prioriteiten correct in te schatten. In nauwe samenwerking met collega’s en leidinggevenden stem je taken, observaties en aanpak af. Je blijft je expertise versterken door actieve deelname aan vormingen.&nbsp;<br>Je voert veiligheidscontroles uit volgens geldende procedures, waaronder kamercontroles en kledijwissels. Je observeert en begeleidt jongeren, individueel of in groep, tijdens activiteiten, lessen en bezoeken. Daarnaast ondersteun je het dagelijkse reilen en zeilen van de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne.&nbsp;<br>Bij incidenten treed je doortastend op en pas je de aangeleerde fysieke interventietechnieken toe. Je waakt over orde en netheid in de&nbsp;leefunit&nbsp;en houdt toezicht tijdens activiteitenblokken. Met jouw professionele houding draag je bij aan een veilig en respectvol leefklimaat, gebaseerd op heldere afspraken en samenwerking.&nbsp;<br>Je rapporteert incidenten en observaties correct, objectief en tijdig aan de betrokken diensten. Tot slot beheer je de middelen en producten binnen de unit en zie je toe op een zorgvuldig stockbeheer en correct gebruik.&nbsp;</span></p><p><span>&nbsp;</span></p><p><span><strong>Sollicitatieprocedure</strong>: Je kan solliciteren tot en met 7 mei, de jurygesprekken vinden plaats op 12 mei in het VDC (onder voorbehoud).&nbsp;</span></p>"
+        "raw": "<p><span>Als veiligheidsmedewerker&nbsp;binnen het Vlaams detentiecentrum speel je een cruciale rol in het waarborgen van veiligheid, rust en structuur voor uit handen gegeven jongeren. Samen met je team creëer je een stabiele leefomgeving waarin duidelijkheid en voorspelbaarheid centraal staan. Je bent zichtbaar aanwezig op de werkvloer, houdt overzicht en handelt kordaat wanneer de veiligheid in het gedrang komt. Zo maak je elke dag het verschil.&nbsp;</span></p><p><span>Je werkt volgens vastgelegde dag‑&nbsp;en weekplanningen en weet prioriteiten correct in te schatten. In nauwe samenwerking met collega’s en leidinggevenden stem je taken, observaties en aanpak af. Je blijft je expertise versterken door actieve deelname aan vormingen.&nbsp;</span></p><p><span>Je voert veiligheidscontroles uit volgens geldende procedures, waaronder kamercontroles en kledijwissels. Je observeert en begeleidt jongeren, individueel of in groep, tijdens activiteiten, lessen en bezoeken. Daarnaast ondersteun je het dagelijkse reilen en zeilen van de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne.&nbsp;</span></p><p><span>Bij incidenten treed je doortastend op en pas je de aangeleerde fysieke interventietechnieken toe. Je waakt over orde en netheid in de&nbsp;leefunit&nbsp;en houdt toezicht tijdens activiteitenblokken. Met jouw professionele houding draag je bij aan een veilig en respectvol leefklimaat, gebaseerd op heldere afspraken en samenwerking.&nbsp;</span></p><p><span>Je rapporteert incidenten en observaties correct, objectief en tijdig aan de betrokken diensten. Tot slot beheer je de middelen en producten binnen de unit en zie je toe op een zorgvuldig stockbeheer en correct gebruik.&nbsp;</span></p><p><span>&nbsp;</span></p><p><span><strong>Sollicitatieprocedure</strong>: Je kan solliciteren tot en met 7 mei, de jurygesprekken vinden plaats op 12 mei in het VDC (onder voorbehoud).&nbsp;</span></p>",
+        "htmlEncoded": "<p><span>Als veiligheidsmedewerker&nbsp;binnen het Vlaams detentiecentrum speel je een cruciale rol in het waarborgen van veiligheid, rust en structuur voor uit handen gegeven jongeren. Samen met je team creëer je een stabiele leefomgeving waarin duidelijkheid en voorspelbaarheid centraal staan. Je bent zichtbaar aanwezig op de werkvloer, houdt overzicht en handelt kordaat wanneer de veiligheid in het gedrang komt. Zo maak je elke dag het verschil.&nbsp;</span></p><p><span>Je werkt volgens vastgelegde dag‑&nbsp;en weekplanningen en weet prioriteiten correct in te schatten. In nauwe samenwerking met collega’s en leidinggevenden stem je taken, observaties en aanpak af. Je blijft je expertise versterken door actieve deelname aan vormingen.&nbsp;</span></p><p><span>Je voert veiligheidscontroles uit volgens geldende procedures, waaronder kamercontroles en kledijwissels. Je observeert en begeleidt jongeren, individueel of in groep, tijdens activiteiten, lessen en bezoeken. Daarnaast ondersteun je het dagelijkse reilen en zeilen van de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne.&nbsp;</span></p><p><span>Bij incidenten treed je doortastend op en pas je de aangeleerde fysieke interventietechnieken toe. Je waakt over orde en netheid in de&nbsp;leefunit&nbsp;en houdt toezicht tijdens activiteitenblokken. Met jouw professionele houding draag je bij aan een veilig en respectvol leefklimaat, gebaseerd op heldere afspraken en samenwerking.&nbsp;</span></p><p><span>Je rapporteert incidenten en observaties correct, objectief en tijdig aan de betrokken diensten. Tot slot beheer je de middelen en producten binnen de unit en zie je toe op een zorgvuldig stockbeheer en correct gebruik.&nbsp;</span></p><p><span>&nbsp;</span></p><p><span><strong>Sollicitatieprocedure</strong>: Je kan solliciteren tot en met 7 mei, de jurygesprekken vinden plaats op 12 mei in het VDC (onder voorbehoud).&nbsp;</span></p>"
       },
       "locations": [
         {
@@ -391,7 +658,7 @@
       "locations": [
         {
           "address": {
-            "city": "Beernem"
+            "city": "Ruiselede"
           }
         }
       ]
