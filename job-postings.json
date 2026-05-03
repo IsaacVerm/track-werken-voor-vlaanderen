@@ -1,10 +1,10 @@
 {
-  "totalItems": 140,
+  "totalItems": 138,
   "offset": 0,
   "limit": 1000,
   "isLastPage": true,
   "firstItemOfPage": 0,
-  "lastItemOfPage": 139,
+  "lastItemOfPage": 137,
   "items": [
     {
       "link": "/Job/cornerstone-21176",
@@ -2939,78 +2939,6 @@
         {
           "address": {
             "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20918",
-      "internal": false,
-      "validThroughDate": "1777680000",
-      "hiringOrganization": "Opgroeien regie",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": true,
-      "identifier": "cornerstone-20918",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Klachtendeskundige Kind en Gezin"
-      },
-      "displayTitle": "Klachtendeskundige Kind en Gezin",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Bij Opgroeien Regie werken we samen aan de beste kansen voor elk kind, elke jongere en elk gezin. We ondersteunen gezinnen via gezinsondersteuning, kinderopvang, jeugdhulp en pleegzorg.</div><div></div><div>Om onze dienstverlening verder te versterken, zoeken we een klachtendeskundige die instaat voor een zorgvuldige en klantgerichte behandeling van klacht</div><div></div><div>Jouw taken</div><div>-&nbsp; &nbsp;Je regisseert en volgt klachten op over alle sectoren waar Opgroeien actief is.</div><div>-&nbsp; &nbsp;Je behandelt klachten over onze eigen dienstverlening.</div><div>-&nbsp; &nbsp;Je wint informatie in, voert voorbereidende taken uit en analyseert klachten tot een duidelijke eindbevinding.</div><div>-&nbsp; &nbsp;Je beantwoordt vragen van klanten, geeft uitleg over procedures en verwijst door naar de juiste diensten.</div><div>-&nbsp; &nbsp;Je signaleert knelpunten en doet verbetervoorstellen.</div><div>-&nbsp; &nbsp;Je werkt nauw samen met collega’s en neemt deel aan overleg over het klachtenbeleid.</div><div></div><div>Jouw profiel</div><div>-&nbsp; &nbsp;Je communiceert helder, empathisch en diplomatisch.</div><div>-&nbsp; &nbsp;Je kan goed analyseren, structureren en objectief oordelen.</div><div>-&nbsp; &nbsp;Je werkt zorgvuldig en discreet met vertrouwelijke informatie.</div><div>-&nbsp; &nbsp;Ervaring met klachtenbehandeling of kwaliteitszorg is een pluspunt.</div><div></div><div>Je draagt zo bij aan een kwalitatieve, transparante en klantgerichte klachtenwerking binnen Opgroeien Regie.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>",
-        "htmlEncoded": "<div>Bij Opgroeien Regie werken we samen aan de beste kansen voor elk kind, elke jongere en elk gezin. We ondersteunen gezinnen via gezinsondersteuning, kinderopvang, jeugdhulp en pleegzorg.</div><div></div><div>Om onze dienstverlening verder te versterken, zoeken we een klachtendeskundige die instaat voor een zorgvuldige en klantgerichte behandeling van klacht</div><div></div><div>Jouw taken</div><div>-&nbsp; &nbsp;Je regisseert en volgt klachten op over alle sectoren waar Opgroeien actief is.</div><div>-&nbsp; &nbsp;Je behandelt klachten over onze eigen dienstverlening.</div><div>-&nbsp; &nbsp;Je wint informatie in, voert voorbereidende taken uit en analyseert klachten tot een duidelijke eindbevinding.</div><div>-&nbsp; &nbsp;Je beantwoordt vragen van klanten, geeft uitleg over procedures en verwijst door naar de juiste diensten.</div><div>-&nbsp; &nbsp;Je signaleert knelpunten en doet verbetervoorstellen.</div><div>-&nbsp; &nbsp;Je werkt nauw samen met collega’s en neemt deel aan overleg over het klachtenbeleid.</div><div></div><div>Jouw profiel</div><div>-&nbsp; &nbsp;Je communiceert helder, empathisch en diplomatisch.</div><div>-&nbsp; &nbsp;Je kan goed analyseren, structureren en objectief oordelen.</div><div>-&nbsp; &nbsp;Je werkt zorgvuldig en discreet met vertrouwelijke informatie.</div><div>-&nbsp; &nbsp;Ervaring met klachtenbehandeling of kwaliteitszorg is een pluspunt.</div><div></div><div>Je draagt zo bij aan een kwalitatieve, transparante en klantgerichte klachtenwerking binnen Opgroeien Regie.</div><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Brussel"
-          }
-        }
-      ]
-    },
-    {
-      "link": "/Job/cornerstone-20798",
-      "internal": false,
-      "validThroughDate": "1777680000",
-      "hiringOrganization": "Vlaams Agentschap voor Personen met een Handicap",
-      "reservedForDisability": false,
-      "openPositions": 1,
-      "domain": "Dienstverlening",
-      "degreeLevel": {
-        "code": "B",
-        "name": "Graduaats- of bachelordiploma"
-      },
-      "degreeEqualByExperience": false,
-      "identifier": "cornerstone-20798",
-      "contentType": "Job",
-      "collectionType": null,
-      "image": null,
-      "contentSubtype": null,
-      "hubContentSubtype": null,
-      "title": {
-        "htmlEncoded": "Maatschappelijk deskundige Antwerpen"
-      },
-      "displayTitle": "Maatschappelijk deskundige Antwerpen",
-      "isProtected": false,
-      "description": {
-        "raw": "<div>Ben je analytisch sterk en bijt je je graag vast in <strong>subsidiedossiers voor personen met een handicap</strong>? Werk je graag samen in een enthousiast en interdisciplinair team? Dan is deze vacature bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) misschien iets voor jou.</div><p>&nbsp;</p><div></div><div>Als maatschappelijk deskundige neem je een <strong>tweedelijnsrol </strong>op voor personen met een handicap. Je behandelt dossiers rond woningaanpassingen en aanverwante hulpmiddelen en verleent specialistisch advies over onder meer de noodzaak van toekenning, motivering van beslissingen en betalingen. Daarnaast zorg je voor een correcte administratieve afhandeling van de aanvragen.</div><p>&nbsp;</p><div></div><div>Je werkt mee aan de <strong>prioritering van dossiers</strong> door de dringendheid van hulpvragen te beoordelen op basis van dossierelementen. Je evalueert noodsituaties, volgt deze op en neemt deel aan multidisciplinair casusoverleg over complexe dossiers. Af en toe geef je ook informatiesessies aan personen met een handicap, voorzieningen of middenveldorganisaties.</div><p>&nbsp;</p><div></div><div>Je bent actief in de <strong>provinciale regio Antwerpen</strong> en staat in voor onze kernklanten: personen met een handicap. Je behandelt dossiers via een eigen IT-toepassing en informeert cliënten over onze dienstverlening, voornamelijk telefonisch, via mail of brief. Indien nodig plan je ook huisbezoeken in. Je werkt samen in een multidisciplinair team van maatschappelijk deskundigen, psychologen en een arts, en hebt regelmatig contact met de dossierbehandelaars van het provinciaal kantoor.</div><p>&nbsp;</p><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>",
-        "htmlEncoded": "<div>Ben je analytisch sterk en bijt je je graag vast in <strong>subsidiedossiers voor personen met een handicap</strong>? Werk je graag samen in een enthousiast en interdisciplinair team? Dan is deze vacature bij het Vlaams Agentschap voor Personen met een Handicap (VAPH) misschien iets voor jou.</div><p>&nbsp;</p><div></div><div>Als maatschappelijk deskundige neem je een <strong>tweedelijnsrol </strong>op voor personen met een handicap. Je behandelt dossiers rond woningaanpassingen en aanverwante hulpmiddelen en verleent specialistisch advies over onder meer de noodzaak van toekenning, motivering van beslissingen en betalingen. Daarnaast zorg je voor een correcte administratieve afhandeling van de aanvragen.</div><p>&nbsp;</p><div></div><div>Je werkt mee aan de <strong>prioritering van dossiers</strong> door de dringendheid van hulpvragen te beoordelen op basis van dossierelementen. Je evalueert noodsituaties, volgt deze op en neemt deel aan multidisciplinair casusoverleg over complexe dossiers. Af en toe geef je ook informatiesessies aan personen met een handicap, voorzieningen of middenveldorganisaties.</div><p>&nbsp;</p><div></div><div>Je bent actief in de <strong>provinciale regio Antwerpen</strong> en staat in voor onze kernklanten: personen met een handicap. Je behandelt dossiers via een eigen IT-toepassing en informeert cliënten over onze dienstverlening, voornamelijk telefonisch, via mail of brief. Indien nodig plan je ook huisbezoeken in. Je werkt samen in een multidisciplinair team van maatschappelijk deskundigen, psychologen en een arts, en hebt regelmatig contact met de dossierbehandelaars van het provinciaal kantoor.</div><p>&nbsp;</p><div></div><div>Lees meer over de job en het selectieproces in het selectiereglement als bijlage bij ‘meer informatie’. Download dit document en hou het bij.&nbsp;</div>"
-      },
-      "locations": [
-        {
-          "address": {
-            "city": "Antwerpen"
           }
         }
       ]
